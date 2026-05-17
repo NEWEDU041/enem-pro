@@ -14,30 +14,12 @@ export async function POST(request: NextRequest) {
 
   const supabase = createServerClient()
 
-  const { data: user, error: userErr } = await supabase
-    .from('auth.users')
-    .select('id')
-    .eq('email', email)
-    .single()
+  // Find user by email via admin API
+  const { data: { users }, error: listErr } = await supabase.auth.admin.listUsers({ perPage: 1000 })
+  if (listErr) return NextResponse.json({ error: listErr.message }, { status: 500 })
 
-  if (userErr || !user) {
-    // Try via auth admin API
-    const { data: authUser, error: authErr } = await supabase.auth.admin.getUserByEmail(email)
-    if (authErr || !authUser.user) {
-      return NextResponse.json({ error: 'Usuário não encontrado' }, { status: 404 })
-    }
-
-    const expiresAt = new Date()
-    expiresAt.setMonth(expiresAt.getMonth() + months)
-
-    const { error } = await supabase.from('subscriptions').upsert(
-      { user_id: authUser.user.id, plan: 'pro', expires_at: expiresAt.toISOString() },
-      { onConflict: 'user_id' }
-    )
-    if (error) return NextResponse.json({ error: error.message }, { status: 500 })
-
-    return NextResponse.json({ ok: true, user_id: authUser.user.id, expires_at: expiresAt })
-  }
+  const user = users.find((u) => u.email === email)
+  if (!user) return NextResponse.json({ error: 'Usuário não encontrado' }, { status: 404 })
 
   const expiresAt = new Date()
   expiresAt.setMonth(expiresAt.getMonth() + months)
