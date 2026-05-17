@@ -50,6 +50,43 @@ export default function LandingPage() {
         <p className="text-sm text-zinc-400 mt-4">Sem cartão de crédito. Grátis para sempre (com limite diário).</p>
       </section>
 
+      {/* Stats bar */}
+      <section className="bg-zinc-900 py-10 px-6">
+        <div className="max-w-4xl mx-auto grid grid-cols-3 gap-8 text-center">
+          <div>
+            <div className="text-3xl font-bold text-white mb-1">3.600+</div>
+            <div className="text-zinc-400 text-sm">Questões oficiais</div>
+          </div>
+          <div>
+            <div className="text-3xl font-bold text-white mb-1">16 anos</div>
+            <div className="text-zinc-400 text-sm">2009 a 2024</div>
+          </div>
+          <div>
+            <div className="text-3xl font-bold text-white mb-1">5 áreas</div>
+            <div className="text-zinc-400 text-sm">Todas as disciplinas</div>
+          </div>
+        </div>
+      </section>
+
+      {/* Como funciona */}
+      <section className="py-20 px-6 bg-zinc-50">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-3xl font-bold text-center mb-4">Como funciona</h2>
+          <p className="text-zinc-500 text-center mb-14 max-w-md mx-auto">Três passos. Resultado em dias.</p>
+          <div className="grid md:grid-cols-3 gap-8">
+            {steps.map((s, i) => (
+              <div key={s.title} className="text-center">
+                <div className="w-12 h-12 rounded-full bg-indigo-600 text-white text-xl font-bold flex items-center justify-center mx-auto mb-4">
+                  {i + 1}
+                </div>
+                <h3 className="font-semibold mb-2">{s.title}</h3>
+                <p className="text-zinc-500 text-sm leading-relaxed">{s.desc}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* Features */}
       <section className="bg-white py-20 px-6">
         <div className="max-w-6xl mx-auto">
@@ -142,6 +179,21 @@ export default function LandingPage() {
     </div>
   )
 }
+
+const steps = [
+  {
+    title: 'Escolha ano e disciplina',
+    desc: 'Filtre por qualquer combinação — Matemática 2022, Ciências Humanas 2019, etc.',
+  },
+  {
+    title: 'Responda as questões',
+    desc: 'Interface limpa, sem distração. Veja o gabarito imediatamente após responder.',
+  },
+  {
+    title: 'Entenda com a IA',
+    desc: 'No Pro, a IA explica o raciocínio completo: por que a correta é certa e as erradas, erradas.',
+  },
+]
 
 const features = [
   {
