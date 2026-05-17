@@ -3,7 +3,9 @@
 import { useEffect, useState } from 'react'
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
-import { supabase } from '@/lib/supabase'
+import { createBrowserClient } from '@/lib/supabase'
+
+const supabase = createBrowserClient()
 import { DISCIPLINES, YEARS } from '@/lib/enem-api'
 
 const FREE_DAILY_LIMIT = 10

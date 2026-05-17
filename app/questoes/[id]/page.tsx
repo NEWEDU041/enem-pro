@@ -3,7 +3,9 @@
 import { useEffect, useState, Suspense } from 'react'
 import Link from 'next/link'
 import { useRouter, useParams, useSearchParams } from 'next/navigation'
-import { supabase } from '@/lib/supabase'
+import { createBrowserClient } from '@/lib/supabase'
+
+const supabase = createBrowserClient()
 import { Question } from '@/lib/types'
 
 type Status = 'idle' | 'answered' | 'explaining' | 'explained'

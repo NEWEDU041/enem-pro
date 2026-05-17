@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
 
+export const dynamic = 'force-dynamic'
+
 const FREE_DAILY_LIMIT = 10
 
 export async function POST(request: NextRequest) {
