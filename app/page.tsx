@@ -1,8 +1,27 @@
 import Link from 'next/link'
+import Script from 'next/script'
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebApplication',
+  name: 'ENEM Pro',
+  url: 'https://enem-pro-eight.vercel.app',
+  description: 'Todas as questões do ENEM de 2009 a 2024 com explicação gerada por IA.',
+  applicationCategory: 'EducationApplication',
+  offers: [
+    { '@type': 'Offer', price: '0', priceCurrency: 'BRL', name: 'Plano Grátis' },
+    { '@type': 'Offer', price: '14.90', priceCurrency: 'BRL', name: 'Plano Pro' },
+  ],
+}
 
 export default function LandingPage() {
   return (
     <div className="flex flex-col min-h-screen">
+      <Script
+        id="json-ld"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       {/* Nav */}
       <nav className="sticky top-0 z-50 bg-white border-b border-zinc-200 px-6 py-4">
         <div className="max-w-6xl mx-auto flex items-center justify-between">

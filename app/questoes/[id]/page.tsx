@@ -1,12 +1,12 @@
 'use client'
 
-import { useEffect, useState, Suspense } from 'react'
+import { useEffect, useState, useCallback, Suspense } from 'react'
 import Link from 'next/link'
 import { useRouter, useParams, useSearchParams } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
+import { Question } from '@/lib/types'
 
 const supabase = createBrowserClient()
-import { Question } from '@/lib/types'
 
 type Status = 'idle' | 'answered' | 'explaining' | 'explained'
 
@@ -33,6 +33,7 @@ function QuestionContent() {
   const [explanation, setExplanation] = useState('')
   const [limitReached, setLimitReached] = useState(false)
   const [loading, setLoading] = useState(true)
+  const [elapsed, setElapsed] = useState(0)
 
   useEffect(() => {
     async function load() {
@@ -55,7 +56,14 @@ function QuestionContent() {
     load()
   }, [id, year, router])
 
-  async function handleAnswer(letter: string) {
+  // Timer
+  useEffect(() => {
+    if (loading || status !== 'idle') return
+    const t = setInterval(() => setElapsed((s) => s + 1), 1000)
+    return () => clearInterval(t)
+  }, [loading, status])
+
+  const handleAnswer = useCallback(async (letter: string) => {
     if (status !== 'idle' || !user || !question) return
     setSelected(letter)
 
@@ -79,7 +87,27 @@ function QuestionContent() {
 
     setIsCorrect(data.is_correct)
     setStatus('answered')
-  }
+  }, [status, user, question])
+
+  // Keyboard shortcuts: A–E to answer, Enter/→ for next
+  useEffect(() => {
+    if (loading || !question) return
+    function onKey(e: KeyboardEvent) {
+      if (e.metaKey || e.ctrlKey || e.altKey) return
+      const key = e.key.toUpperCase()
+      const letters = question!.alternatives.map((a) => a.letter)
+      if (letters.includes(key) && status === 'idle') {
+        handleAnswer(key)
+      }
+      if ((key === 'ENTER' || key === 'ARROWRIGHT') && status === 'answered') {
+        const parts = id.split('-')
+        const nextNum = parseInt(parts[1]) + 1
+        router.push(`/questoes/${parts[0]}-${nextNum}?year=${year}`)
+      }
+    }
+    window.addEventListener('keydown', onKey)
+    return () => window.removeEventListener('keydown', onKey)
+  }, [loading, question, status, handleAnswer, id, year, router])
 
   async function handleExplain() {
     if (!user || !question) return
@@ -124,12 +152,16 @@ function QuestionContent() {
     )
   }
 
+  const mm = String(Math.floor(elapsed / 60)).padStart(2, '0')
+  const ss = String(elapsed % 60).padStart(2, '0')
+
   return (
     <div className="min-h-screen bg-zinc-50">
       <header className="bg-white border-b border-zinc-200 px-6 py-4">
         <div className="max-w-3xl mx-auto flex items-center justify-between">
           <Link href="/dashboard" className="text-xl font-bold text-indigo-600">ENEM Pro</Link>
           <div className="flex items-center gap-4">
+            <span className="text-xs font-mono text-zinc-400">{mm}:{ss}</span>
             <span className="text-xs bg-indigo-50 text-indigo-700 px-3 py-1 rounded-full">{question.discipline}</span>
             <span className="text-xs text-zinc-400">ENEM {question.year}</span>
           </div>
@@ -137,6 +169,11 @@ function QuestionContent() {
       </header>
 
       <main className="max-w-3xl mx-auto px-6 py-10">
+        {/* Keyboard hint */}
+        {status === 'idle' && (
+          <p className="text-xs text-zinc-400 text-right mb-4">Atalho: pressione a letra da alternativa para responder</p>
+        )}
+
         {/* Question */}
         <div className="bg-white rounded-2xl border border-zinc-200 p-8 mb-6">
           {question.context && (
@@ -205,6 +242,7 @@ function QuestionContent() {
               <h3 className={`text-lg font-bold ${isCorrect ? 'text-green-700' : 'text-red-700'}`}>
                 {isCorrect ? 'Resposta correta!' : `Errou — a correta era ${question.correctAlternative}`}
               </h3>
+              <span className="ml-auto text-xs text-zinc-400 font-mono">{mm}:{ss}</span>
             </div>
 
             {isPro ? (
@@ -263,7 +301,7 @@ function QuestionContent() {
               }}
               className="flex-1 bg-indigo-600 text-white py-3 rounded-xl font-medium hover:bg-indigo-700 transition-colors text-sm"
             >
-              Próxima questão →
+              Próxima questão → <span className="text-indigo-300 text-xs ml-1">[Enter]</span>
             </button>
           </div>
         )}
