@@ -210,17 +210,26 @@ export default function LandingPage() {
         </div>
       </section>
 
-      {/* Social proof */}
+      {/* Proof section */}
       <section className="bg-zinc-50 py-16 px-6 border-t border-zinc-100">
         <div className="max-w-4xl mx-auto text-center">
-          <p className="text-zinc-400 text-sm uppercase tracking-widest mb-8">O que dizem os estudantes</p>
+          <p className="text-zinc-400 text-sm uppercase tracking-widest mb-8">Por que o ENEM Pro é diferente</p>
           <div className="grid md:grid-cols-3 gap-6">
-            {testimonials.map((t) => (
-              <blockquote key={t.name} className="bg-white rounded-2xl p-6 text-left border border-zinc-100">
-                <p className="text-zinc-700 text-sm leading-relaxed mb-4">&ldquo;{t.text}&rdquo;</p>
-                <footer className="text-xs font-semibold text-zinc-500">{t.name}</footer>
-              </blockquote>
-            ))}
+            <div className="bg-white rounded-2xl p-6 text-left border border-zinc-100">
+              <div className="text-3xl mb-3">📋</div>
+              <h3 className="font-semibold text-zinc-900 mb-2">Questões reais do INEP</h3>
+              <p className="text-zinc-500 text-sm leading-relaxed">3.600+ questões oficiais do ENEM de 2009 a 2024. Disponibilizadas publicamente pelo INEP. Nenhuma questão inventada.</p>
+            </div>
+            <div className="bg-white rounded-2xl p-6 text-left border border-zinc-100">
+              <div className="text-3xl mb-3">🤖</div>
+              <h3 className="font-semibold text-zinc-900 mb-2">IA treinada para o ENEM</h3>
+              <p className="text-zinc-500 text-sm leading-relaxed">Cada explicação é gerada no momento, para aquela questão específica. Não é gabarito genérico — é análise do raciocínio por trás da alternativa correta.</p>
+            </div>
+            <div className="bg-white rounded-2xl p-6 text-left border border-zinc-100">
+              <div className="text-3xl mb-3">🛡️</div>
+              <h3 className="font-semibold text-zinc-900 mb-2">Risco zero por 30 dias</h3>
+              <p className="text-zinc-500 text-sm leading-relaxed">Estude 30 questões por dia durante 30 dias. Se não sentir evolução, devolvemos 100% — sem formulário, sem pergunta, sem enrolação.</p>
+            </div>
           </div>
         </div>
       </section>
@@ -278,20 +287,6 @@ const features = [
   },
 ]
 
-const testimonials = [
-  {
-    name: 'Ana Lima, São Paulo',
-    text: 'Finalmente entendo o raciocínio por trás das questões de Matemática. A explicação da IA é muito melhor do que o professor resolução.',
-  },
-  {
-    name: 'Carlos Mendes, Recife',
-    text: 'Uso 10 minutos por dia. Em 3 semanas minha taxa de acerto em Ciências Humanas foi de 40% para 65%.',
-  },
-  {
-    name: 'Júlia Santos, Belo Horizonte',
-    text: 'O Pro vale muito. Questões ilimitadas + IA por R$14,90 é o melhor custo-benefício que achei.',
-  },
-]
 
 function PricingCard({
   name, price, period, desc, features, cta, href, highlighted
