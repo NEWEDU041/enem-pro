@@ -18,12 +18,17 @@ export default function LoginPage() {
     e.preventDefault()
     setLoading(true)
     setError('')
-    const { error } = await supabase.auth.signInWithPassword({ email, password })
-    if (error) {
-      setError('Email ou senha incorretos.')
+    try {
+      const { error } = await supabase.auth.signInWithPassword({ email, password })
+      if (error) {
+        setError('Email ou senha incorretos.')
+      } else {
+        router.push('/dashboard')
+      }
+    } catch {
+      setError('Erro de conexão. Verifique sua internet e tente novamente.')
+    } finally {
       setLoading(false)
-    } else {
-      router.push('/dashboard')
     }
   }
 

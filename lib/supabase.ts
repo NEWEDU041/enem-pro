@@ -1,8 +1,8 @@
 import { createClient } from '@supabase/supabase-js'
 
-// Strip BOM (U+FEFF) and newlines that PowerShell injects when setting env vars
+// Strip BOM (U+FEFF) and CR/LF that PowerShell injects when setting env vars
 function cleanEnv(val: string | undefined): string {
-  return (val || '').replace(new RegExp(String.fromCharCode(65279), 'g'), '').replace(/\n/g, '')
+  return (val || '').replace(new RegExp(String.fromCharCode(65279), 'g'), '').replace(/[\r\n]/g, '').trim()
 }
 
 export function createBrowserClient() {
