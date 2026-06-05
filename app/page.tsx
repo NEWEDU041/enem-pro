@@ -43,35 +43,35 @@ export default function LandingPage() {
       <section className="flex-1 flex flex-col items-center justify-center px-6 py-24 text-center">
         <div className="inline-flex items-center gap-2 bg-indigo-50 text-indigo-700 text-sm font-medium px-4 py-2 rounded-full mb-8">
           <span>✦</span>
-          <span>+4.800.000 candidatos no ENEM 2025</span>
+          <span>ENEM 2025 — comece a treinar hoje</span>
         </div>
         <h1 className="text-5xl font-bold tracking-tight text-zinc-900 max-w-3xl mb-6 leading-tight">
-          Todas as questões do ENEM.<br />
-          <span className="text-indigo-600">IA explica o porquê</span> de cada resposta.
+          Passe no ENEM sem precisar<br />
+          <span className="text-indigo-600">de cursinho ou professor particular.</span>
         </h1>
         <p className="text-xl text-zinc-500 max-w-xl mb-10">
-          De 2009 a 2024. Responda, acerte ou erre, e entenda com clareza por que aquela alternativa é a correta — com explicação gerada por IA.
+          Pratique as 3.600+ questões reais de 2009 a 2024. Erre uma — a IA explica em 30 segundos por que você errou e como nunca mais errar.
         </p>
         <div className="flex flex-col sm:flex-row gap-4">
           <Link
             href="/auth/register"
             className="bg-indigo-600 text-white px-8 py-4 rounded-xl text-lg font-semibold hover:bg-indigo-700 transition-colors"
           >
-            Estudar grátis — 10 questões/dia
+            Começar grátis agora
           </Link>
           <Link
             href="/planos"
             className="bg-white text-zinc-900 border border-zinc-300 px-8 py-4 rounded-xl text-lg font-semibold hover:bg-zinc-50 transition-colors"
           >
-            Ver planos
+            Ver Pro — R$14,90/mês
           </Link>
         </div>
-        <p className="text-sm text-zinc-400 mt-4">Sem cartão de crédito. Grátis para sempre (com limite diário).</p>
+        <p className="text-sm text-zinc-400 mt-4">Sem cartão de crédito. 10 questões/dia grátis para sempre.</p>
       </section>
 
       {/* Stats bar */}
       <section className="bg-zinc-900 py-10 px-6">
-        <div className="max-w-4xl mx-auto grid grid-cols-3 gap-8 text-center">
+        <div className="max-w-4xl mx-auto grid grid-cols-4 gap-6 text-center">
           <div>
             <div className="text-3xl font-bold text-white mb-1">3.600+</div>
             <div className="text-zinc-400 text-sm">Questões oficiais</div>
@@ -81,17 +81,49 @@ export default function LandingPage() {
             <div className="text-zinc-400 text-sm">2009 a 2024</div>
           </div>
           <div>
-            <div className="text-3xl font-bold text-white mb-1">5 áreas</div>
-            <div className="text-zinc-400 text-sm">Todas as disciplinas</div>
+            <div className="text-3xl font-bold text-white mb-1">30 seg</div>
+            <div className="text-zinc-400 text-sm">Para a IA explicar</div>
+          </div>
+          <div>
+            <div className="text-3xl font-bold text-white mb-1">R$0</div>
+            <div className="text-zinc-400 text-sm">Para começar</div>
           </div>
         </div>
       </section>
 
-      {/* Como funciona */}
+      {/* Demo explicação IA */}
       <section className="py-20 px-6 bg-zinc-50">
+        <div className="max-w-3xl mx-auto">
+          <h2 className="text-3xl font-bold text-center mb-4">Veja como a IA explica</h2>
+          <p className="text-zinc-500 text-center mb-10 max-w-md mx-auto">Após você responder, a IA analisa sua resposta e explica em linguagem simples.</p>
+          <div className="bg-white rounded-2xl border border-zinc-200 overflow-hidden shadow-sm">
+            <div className="bg-red-50 border-b border-red-100 px-6 py-4 flex items-center gap-3">
+              <span className="text-2xl">😅</span>
+              <span className="font-bold text-red-700">Errou — a correta era C</span>
+            </div>
+            <div className="px-6 py-5">
+              <div className="flex items-center gap-2 mb-3">
+                <span className="text-lg">🤖</span>
+                <span className="font-semibold text-zinc-900 text-sm">Explicação da IA — ENEM 2023 · Matemática</span>
+              </div>
+              <p className="text-zinc-700 text-sm leading-relaxed">
+                A alternativa C é a correta porque a função dada é uma progressão geométrica com razão 2. Para encontrar o 5º termo, aplicamos a fórmula an = a1 · q^(n-1): a5 = 3 · 2^4 = 3 · 16 = 48.
+              </p>
+              <p className="text-zinc-700 text-sm leading-relaxed mt-3">
+                A alternativa A (32) é o erro mais comum — os alunos calculam 2^5 sem multiplicar pelo primeiro termo. A alternativa D (96) resulta de usar n ao invés de n-1 no expoente.
+              </p>
+              <p className="text-zinc-500 text-xs mt-4 pt-4 border-t border-zinc-100">Esta explicação é gerada pela IA para cada questão individualmente — não é um gabarito genérico.</p>
+            </div>
+          </div>
+          <p className="text-center text-sm text-zinc-400 mt-6">Disponível no Plano Pro para todas as 3.600+ questões</p>
+        </div>
+      </section>
+
+      {/* Como funciona */}
+      <section className="py-20 px-6 bg-white">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-3xl font-bold text-center mb-4">Como funciona</h2>
-          <p className="text-zinc-500 text-center mb-14 max-w-md mx-auto">Três passos. Resultado em dias.</p>
+          <p className="text-zinc-500 text-center mb-14 max-w-md mx-auto">Três passos. Resultado em semanas.</p>
           <div className="grid md:grid-cols-3 gap-8">
             {steps.map((s, i) => (
               <div key={s.title} className="text-center">
@@ -107,7 +139,7 @@ export default function LandingPage() {
       </section>
 
       {/* Features */}
-      <section className="bg-white py-20 px-6">
+      <section className="bg-zinc-50 py-20 px-6">
         <div className="max-w-6xl mx-auto">
           <h2 className="text-3xl font-bold text-center mb-4">Por que o ENEM Pro?</h2>
           <p className="text-zinc-500 text-center mb-14 max-w-xl mx-auto">
@@ -165,13 +197,26 @@ export default function LandingPage() {
         </div>
       </section>
 
+      {/* Garantia */}
+      <section className="bg-white py-16 px-6">
+        <div className="max-w-2xl mx-auto text-center">
+          <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-green-100 mb-6">
+            <span className="text-3xl">🛡️</span>
+          </div>
+          <h2 className="text-2xl font-bold mb-4">Garantia de 30 dias</h2>
+          <p className="text-zinc-500 leading-relaxed">
+            Estude 30 questões por dia durante 30 dias com o Pro. Se você não sentir que está mais preparado para o ENEM, devolvemos 100% do seu dinheiro — sem perguntas.
+          </p>
+        </div>
+      </section>
+
       {/* Social proof */}
-      <section className="bg-white py-16 px-6 border-t border-zinc-100">
+      <section className="bg-zinc-50 py-16 px-6 border-t border-zinc-100">
         <div className="max-w-4xl mx-auto text-center">
           <p className="text-zinc-400 text-sm uppercase tracking-widest mb-8">O que dizem os estudantes</p>
           <div className="grid md:grid-cols-3 gap-6">
             {testimonials.map((t) => (
-              <blockquote key={t.name} className="bg-zinc-50 rounded-2xl p-6 text-left">
+              <blockquote key={t.name} className="bg-white rounded-2xl p-6 text-left border border-zinc-100">
                 <p className="text-zinc-700 text-sm leading-relaxed mb-4">&ldquo;{t.text}&rdquo;</p>
                 <footer className="text-xs font-semibold text-zinc-500">{t.name}</footer>
               </blockquote>
@@ -182,8 +227,9 @@ export default function LandingPage() {
 
       {/* CTA final */}
       <section className="bg-indigo-600 py-20 px-6 text-center text-white">
-        <h2 className="text-3xl font-bold mb-4">Pronto para o ENEM 2026?</h2>
-        <p className="text-indigo-200 mb-8">Comece hoje, é grátis.</p>
+        <h2 className="text-3xl font-bold mb-4">O ENEM 2025 não espera.</h2>
+        <p className="text-indigo-200 mb-2">Cada dia sem treino é um dia a menos de preparação.</p>
+        <p className="text-indigo-300 text-sm mb-8">Comece agora — grátis, sem cartão de crédito.</p>
         <Link
           href="/auth/register"
           className="bg-white text-indigo-600 px-8 py-4 rounded-xl text-lg font-semibold hover:bg-indigo-50 transition-colors"

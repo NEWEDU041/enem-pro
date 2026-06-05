@@ -114,6 +114,12 @@ export default function PlanosPage() {
           </div>
         </div>
 
+        {/* Garantia */}
+        <div className="bg-green-50 border border-green-200 rounded-2xl p-6 mb-8 text-center">
+          <p className="text-green-800 font-semibold">🛡️ Garantia de 30 dias — devolução total sem perguntas</p>
+          <p className="text-green-700 text-sm mt-1">Estude 30 questões/dia por 30 dias. Se não sentir evolução, devolvemos tudo.</p>
+        </div>
+
         {/* FAQ */}
         <div className="bg-white rounded-2xl border border-zinc-200 p-8 text-left">
           <h3 className="text-lg font-bold mb-6 text-center">Perguntas frequentes</h3>

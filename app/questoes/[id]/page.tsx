@@ -164,17 +164,43 @@ function QuestionContent() {
   if (!question) return <div className="min-h-screen flex items-center justify-center text-zinc-400">Questão não encontrada.</div>
 
   if (limitReached) {
+    const daysToEnem = Math.ceil((new Date('2025-11-09').getTime() - Date.now()) / 86400000)
     return (
-      <div className="min-h-screen flex items-center justify-center px-6">
-        <div className="max-w-md text-center">
-          <div className="text-5xl mb-6">🔒</div>
-          <h2 className="text-2xl font-bold mb-3">Limite diário atingido</h2>
-          <p className="text-zinc-500 mb-8">Você usou suas 10 questões gratuitas de hoje. Volte amanhã ou assine o Pro para questões ilimitadas.</p>
-          <div className="flex flex-col gap-3">
-            <Link href="/planos" className="bg-indigo-600 text-white px-6 py-3 rounded-xl font-semibold hover:bg-indigo-700 transition-colors">
-              Ver plano Pro — R$14,90/mês
+      <div className="min-h-screen bg-zinc-50 flex items-center justify-center px-6 py-12">
+        <div className="max-w-md w-full">
+          <div className="bg-white rounded-2xl border border-zinc-200 p-8 text-center mb-4">
+            <div className="text-4xl mb-4">🎯</div>
+            <h2 className="text-2xl font-bold mb-2">Você treinou suas 10 questões hoje</h2>
+            <p className="text-zinc-500 text-sm mb-6">Você está no caminho certo. Mas o ENEM não para.</p>
+
+            {daysToEnem > 0 && (
+              <div className="bg-amber-50 border border-amber-200 rounded-xl px-4 py-3 mb-6">
+                <p className="text-amber-800 font-semibold text-sm">
+                  Faltam <span className="text-2xl font-bold">{daysToEnem}</span> dias para o ENEM 2025
+                </p>
+                <p className="text-amber-600 text-xs mt-1">Cada dia conta. Não perca o ritmo.</p>
+              </div>
+            )}
+
+            <div className="bg-indigo-50 rounded-xl p-4 mb-6 text-left">
+              <p className="text-sm font-semibold text-indigo-900 mb-2">Com o Pro você teria recebido:</p>
+              <ul className="space-y-1 text-sm text-indigo-700">
+                <li>✓ Explicação da IA para cada questão que errou</li>
+                <li>✓ Questões ilimitadas — sem parar no limite</li>
+                <li>✓ Menos que 1 aula particular por mês</li>
+              </ul>
+            </div>
+
+            <Link href="/planos" className="block w-full bg-indigo-600 text-white px-6 py-3.5 rounded-xl font-semibold hover:bg-indigo-700 transition-colors mb-3">
+              Assinar Pro — R$14,90/mês
             </Link>
-            <Link href="/dashboard" className="text-zinc-500 text-sm hover:text-zinc-700">← Voltar ao dashboard</Link>
+            <Link href="/planos" className="block w-full border border-indigo-200 text-indigo-600 px-6 py-3 rounded-xl text-sm font-medium hover:bg-indigo-50 transition-colors mb-4">
+              Plano anual — R$99/ano (economize 45%)
+            </Link>
+            <p className="text-xs text-zinc-400">Garantia de 30 dias. Cancele quando quiser.</p>
+          </div>
+          <div className="text-center">
+            <Link href="/dashboard" className="text-zinc-400 text-sm hover:text-zinc-600">← Voltar ao dashboard</Link>
           </div>
         </div>
       </div>
