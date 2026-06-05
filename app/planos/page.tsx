@@ -1,6 +1,41 @@
+'use client'
+
+import { useState } from 'react'
 import Link from 'next/link'
+import { createBrowserClient } from '@/lib/supabase'
+
+const supabase = createBrowserClient()
 
 export default function PlanosPage() {
+  const [loading, setLoading] = useState<'monthly' | 'annual' | null>(null)
+
+  async function handleCheckout(plan: 'monthly' | 'annual') {
+    setLoading(plan)
+    try {
+      const { data: { session } } = await supabase.auth.getSession()
+      if (!session) {
+        window.location.href = '/auth/login?next=/planos'
+        return
+      }
+      const res = await fetch('/api/checkout', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${session.access_token}`,
+        },
+        body: JSON.stringify({ plan }),
+      })
+      const data = await res.json()
+      if (data.url) {
+        window.location.href = data.url
+      } else {
+        alert('Erro ao iniciar pagamento. Tente novamente.')
+      }
+    } finally {
+      setLoading(null)
+    }
+  }
+
   return (
     <div className="min-h-screen bg-zinc-50">
       <header className="bg-white border-b border-zinc-200 px-6 py-4">
@@ -62,15 +97,20 @@ export default function PlanosPage() {
                 <li key={f} className="flex gap-2"><span className="text-indigo-300">✓</span>{f}</li>
               ))}
             </ul>
-            <a
-              href="mailto:contato@enempro.com.br?subject=Assinar Pro"
-              className="block text-center bg-white text-indigo-600 py-3 rounded-xl font-semibold hover:bg-indigo-50 transition-colors"
+            <button
+              onClick={() => handleCheckout('monthly')}
+              disabled={loading !== null}
+              className="block w-full text-center bg-white text-indigo-600 py-3 rounded-xl font-semibold hover:bg-indigo-50 transition-colors disabled:opacity-70"
             >
-              Assinar Pro — R$14,90/mês
-            </a>
-            <p className="text-indigo-200 text-xs text-center mt-3">
-              Entre em contato para pagamento via Pix ou cartão
-            </p>
+              {loading === 'monthly' ? 'Aguarde...' : 'Assinar Pro — R$14,90/mês'}
+            </button>
+            <button
+              onClick={() => handleCheckout('annual')}
+              disabled={loading !== null}
+              className="block w-full text-center mt-3 border border-indigo-300 text-indigo-100 py-2.5 rounded-xl text-sm font-medium hover:bg-indigo-500 transition-colors disabled:opacity-70"
+            >
+              {loading === 'annual' ? 'Aguarde...' : 'Plano anual — R$99/ano (economize 45%)'}
+            </button>
           </div>
         </div>
 
@@ -106,6 +146,10 @@ const faqs = [
   },
   {
     q: 'Posso cancelar quando quiser?',
-    a: 'Sim. Não há fidelidade. Cancele a qualquer momento.',
+    a: 'Sim. Não há fidelidade. Cancele a qualquer momento no painel do Stripe.',
+  },
+  {
+    q: 'Quais formas de pagamento são aceitas?',
+    a: 'Cartão de crédito/débito (Visa, Mastercard, Elo) via Stripe. Parcelamento disponível.',
   },
 ]

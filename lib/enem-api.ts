@@ -34,7 +34,7 @@ interface RawQuestion {
 }
 
 export async function fetchQuestionsByYear(year: number): Promise<Question[]> {
-  const res = await fetch(`${BASE_URL}/exams/${year}/questions`, {
+  const res = await fetch(`${BASE_URL}/exams/${year}/questions?limit=200`, {
     next: { revalidate: 86400 },
   })
   if (!res.ok) throw new Error(`Erro ao buscar questões de ${year}`)

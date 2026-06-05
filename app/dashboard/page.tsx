@@ -1,8 +1,8 @@
 'use client'
 
-import { useEffect, useState } from 'react'
+import { useEffect, useState, Suspense } from 'react'
 import Link from 'next/link'
-import { useRouter } from 'next/navigation'
+import { useRouter, useSearchParams } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
 
 const supabase = createBrowserClient()
@@ -11,11 +11,21 @@ import { DISCIPLINES, YEARS } from '@/lib/enem-api'
 const FREE_DAILY_LIMIT = 10
 
 export default function DashboardPage() {
+  return (
+    <Suspense fallback={<div className="min-h-screen flex items-center justify-center text-zinc-400">Carregando...</div>}>
+      <DashboardContent />
+    </Suspense>
+  )
+}
+
+function DashboardContent() {
   const router = useRouter()
+  const searchParams = useSearchParams()
   const [user, setUser] = useState<{ id: string; email?: string; user_metadata?: { name?: string } } | null>(null)
   const [stats, setStats] = useState({ total: 0, correct: 0, today: 0 })
   const [isPro, setIsPro] = useState(false)
   const [loading, setLoading] = useState(true)
+  const [upgradeSuccess] = useState(searchParams.get('upgrade') === 'success')
 
   useEffect(() => {
     async function load() {
@@ -73,6 +83,12 @@ export default function DashboardPage() {
       </header>
 
       <main className="max-w-5xl mx-auto px-6 py-10">
+        {upgradeSuccess && (
+          <div className="bg-green-50 border border-green-200 text-green-800 rounded-2xl px-6 py-4 mb-6 flex items-center gap-3">
+            <span className="text-xl">🎉</span>
+            <span className="font-medium">Bem-vindo ao Pro! Seu plano foi ativado com sucesso.</span>
+          </div>
+        )}
         {/* Pro banner */}
         {isPro && (
           <div className="bg-indigo-600 text-white rounded-2xl px-6 py-4 mb-8 flex items-center justify-between">
@@ -110,6 +126,7 @@ export default function DashboardPage() {
               <label className="block text-sm font-medium text-zinc-700 mb-2">Disciplina</label>
               <select
                 id="disc-select"
+                defaultValue="Matemática"
                 className="w-full border border-zinc-300 rounded-lg px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500"
               >
                 <option value="">Todas</option>

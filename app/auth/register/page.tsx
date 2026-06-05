@@ -2,18 +2,17 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
-import { useRouter } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
 
 const supabase = createBrowserClient()
 
 export default function RegisterPage() {
-  const router = useRouter()
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
   const [name, setName] = useState('')
   const [error, setError] = useState('')
   const [loading, setLoading] = useState(false)
+  const [done, setDone] = useState(false)
 
   async function handleRegister(e: React.FormEvent) {
     e.preventDefault()
@@ -32,8 +31,28 @@ export default function RegisterPage() {
       setError(error.message)
       setLoading(false)
     } else {
-      router.push('/dashboard')
+      setDone(true)
     }
+  }
+
+  if (done) {
+    return (
+      <div className="min-h-screen flex items-center justify-center px-4">
+        <div className="w-full max-w-md text-center">
+          <Link href="/" className="block text-2xl font-bold text-indigo-600 mb-8">ENEM Pro</Link>
+          <div className="bg-white rounded-2xl border border-zinc-200 p-8">
+            <div className="text-5xl mb-4">📧</div>
+            <h1 className="text-2xl font-bold mb-3">Confirme seu email</h1>
+            <p className="text-zinc-500 text-sm mb-6">
+              Enviamos um link de confirmação para <strong>{email}</strong>. Clique no link para ativar sua conta.
+            </p>
+            <Link href="/auth/login" className="text-indigo-600 text-sm hover:underline">
+              Já confirmou? Entrar →
+            </Link>
+          </div>
+        </div>
+      </div>
+    )
   }
 
   return (

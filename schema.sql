@@ -6,9 +6,13 @@ create table if not exists subscriptions (
   user_id uuid primary key references auth.users on delete cascade,
   plan text default 'free' check (plan in ('free', 'pro')),
   expires_at timestamptz,
+  stripe_subscription_id text,
   created_at timestamptz default now(),
   updated_at timestamptz default now()
 );
+
+-- Migration: adicionar coluna stripe_subscription_id se não existir
+alter table subscriptions add column if not exists stripe_subscription_id text;
 
 -- Tabela de uso diário (controle limite free)
 create table if not exists daily_usage (
