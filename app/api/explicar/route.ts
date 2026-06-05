@@ -26,7 +26,7 @@ export async function POST(request: NextRequest) {
   const body = await request.json()
   const { question_title, correct_alternative, alternatives, discipline, year } = body
 
-  // Verify Pro plan
+  // Verify plan
   const { data: sub, error: subError } = await supabase
     .from('subscriptions')
     .select('plan, expires_at')
@@ -43,8 +43,27 @@ export async function POST(request: NextRequest) {
     sub?.expires_at &&
     new Date(sub.expires_at) > new Date()
 
+  const FREE_DAILY_EXPLANATIONS = 1
+
   if (!isPro) {
-    return NextResponse.json({ error: 'Plano Pro necessário' }, { status: 403 })
+    const today = new Date().toISOString().split('T')[0]
+    const { data: usage } = await supabase
+      .from('daily_usage')
+      .select('explanation_count')
+      .eq('user_id', user.id)
+      .eq('date', today)
+      .maybeSingle()
+
+    const usedToday = usage?.explanation_count || 0
+    if (usedToday >= FREE_DAILY_EXPLANATIONS) {
+      return NextResponse.json({ error: 'Plano Pro necessário', freeTrialUsed: true }, { status: 403 })
+    }
+
+    // Increment free explanation counter
+    await supabase.from('daily_usage').upsert(
+      { user_id: user.id, date: today, explanation_count: usedToday + 1 },
+      { onConflict: 'user_id,date' }
+    )
   }
 
   const alternativesText = alternatives

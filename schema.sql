@@ -19,8 +19,12 @@ create table if not exists daily_usage (
   user_id uuid references auth.users on delete cascade,
   date date not null default current_date,
   count integer default 0,
+  explanation_count integer default 0,
   primary key (user_id, date)
 );
+
+-- Migration: adicionar explanation_count se não existir
+alter table daily_usage add column if not exists explanation_count integer default 0;
 
 -- Tabela de respostas do usuário
 create table if not exists user_answers (

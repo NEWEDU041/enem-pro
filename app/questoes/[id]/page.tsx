@@ -58,6 +58,7 @@ function QuestionContent() {
   const [isCorrect, setIsCorrect] = useState(false)
   const [explanation, setExplanation] = useState('')
   const [limitReached, setLimitReached] = useState(false)
+  const [freeExplainAvailable, setFreeExplainAvailable] = useState(true)
   const [loading, setLoading] = useState(true)
   const [elapsed, setElapsed] = useState(0)
 
@@ -161,7 +162,18 @@ function QuestionContent() {
     })
 
     const data = await res.json()
-    setExplanation(data.explanation || '')
+    if (data.freeTrialUsed) {
+      setFreeExplainAvailable(false)
+      setStatus('answered')
+      return
+    }
+    if (!data.explanation) {
+      setFreeExplainAvailable(false)
+      setStatus('answered')
+      return
+    }
+    setFreeExplainAvailable(false)
+    setExplanation(data.explanation)
     setStatus('explained')
   }
 
@@ -314,11 +326,20 @@ function QuestionContent() {
               >
                 Ver explicação completa (IA)
               </button>
+            ) : freeExplainAvailable ? (
+              <div className="mt-3">
+                <button
+                  onClick={handleExplain}
+                  className="w-full bg-indigo-600 text-white px-6 py-2.5 rounded-lg text-sm font-semibold hover:bg-indigo-700 transition-colors"
+                >
+                  Ver explicação grátis (1x por dia)
+                </button>
+                <p className="text-xs text-zinc-400 mt-1.5 text-center">Pro: ilimitado — R$14,90/mês</p>
+              </div>
             ) : (
               <div className="mt-3 bg-white border border-dashed border-indigo-300 rounded-xl p-4 text-center">
-                <p className="text-sm text-zinc-600 mb-3">
-                  <strong>Plano Pro</strong> — a IA explica por que essa alternativa é a correta e por que as outras estão erradas.
-                </p>
+                <p className="text-sm text-zinc-600 mb-1 font-medium">Gostou da explicação?</p>
+                <p className="text-xs text-zinc-400 mb-3">Pro: IA explica todas as questões, sem limite diário.</p>
                 <Link
                   href="/planos"
                   className="inline-block bg-indigo-600 text-white px-5 py-2 rounded-lg text-sm font-semibold hover:bg-indigo-700 transition-colors"

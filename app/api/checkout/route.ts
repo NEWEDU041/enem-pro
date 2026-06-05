@@ -40,6 +40,8 @@ export async function POST(request: NextRequest) {
     client_reference_id: user.id,
     customer_email: user.email,
     metadata: { user_id: user.id, plan },
+    // user_id in subscription metadata so customer.subscription.deleted can find the user
+    subscription_data: { metadata: { user_id: user.id } },
     success_url: `${origin}/dashboard?upgrade=success`,
     cancel_url: `${origin}/planos`,
     locale: 'pt-BR',
