@@ -29,8 +29,14 @@ create table if not exists user_answers (
   question_id text not null,
   selected_alternative text not null,
   is_correct boolean not null,
+  discipline text,
+  year integer,
   answered_at timestamptz default now()
 );
+
+-- Migration: adicionar colunas discipline e year se não existirem
+alter table user_answers add column if not exists discipline text;
+alter table user_answers add column if not exists year integer;
 
 -- Cache de questões (opcional — para reduzir chamadas à API externa)
 create table if not exists questions_cache (

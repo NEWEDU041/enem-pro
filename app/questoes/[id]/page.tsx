@@ -93,14 +93,19 @@ function QuestionContent() {
     if (status !== 'idle' || !user || !question) return
     setSelected(letter)
 
+    const { data: { session } } = await supabase.auth.getSession()
     const res = await fetch('/api/responder', {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: {
+        'Content-Type': 'application/json',
+        ...(session?.access_token ? { Authorization: `Bearer ${session.access_token}` } : {}),
+      },
       body: JSON.stringify({
-        user_id: user.id,
         question_id: question.id,
         selected_alternative: letter,
         correct_alternative: question.correctAlternative,
+        discipline: question.discipline,
+        year: question.year,
       }),
     })
 

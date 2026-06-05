@@ -22,7 +22,10 @@ function DashboardContent() {
   const router = useRouter()
   const searchParams = useSearchParams()
   const [user, setUser] = useState<{ id: string; email?: string; user_metadata?: { name?: string } } | null>(null)
+  type DiscStat = { discipline: string; total: number; correct: number }
   const [stats, setStats] = useState({ total: 0, correct: 0, today: 0 })
+  const [discStats, setDiscStats] = useState<DiscStat[]>([])
+  const [recentWrong, setRecentWrong] = useState<{ question_id: string; discipline: string; year: number; answered_at: string }[]>([])
   const [isPro, setIsPro] = useState(false)
   const [loading, setLoading] = useState(true)
   const [upgradeSuccess] = useState(searchParams.get('upgrade') === 'success')
@@ -36,7 +39,7 @@ function DashboardContent() {
       const today = new Date().toISOString().split('T')[0]
 
       const [answersRes, usageRes, subRes] = await Promise.all([
-        supabase.from('user_answers').select('is_correct').eq('user_id', user.id),
+        supabase.from('user_answers').select('is_correct, discipline, year, question_id, answered_at').eq('user_id', user.id).order('answered_at', { ascending: false }),
         supabase.from('daily_usage').select('count').eq('user_id', user.id).eq('date', today).single(),
         supabase.from('subscriptions').select('plan, expires_at').eq('user_id', user.id).single(),
       ])
@@ -44,6 +47,20 @@ function DashboardContent() {
       const answers = answersRes.data || []
       const correct = answers.filter((a: { is_correct: boolean }) => a.is_correct).length
       const todayCount = usageRes.data?.count || 0
+
+      // Breakdown por disciplina
+      const byDisc: Record<string, { total: number; correct: number }> = {}
+      for (const a of answers) {
+        if (!a.discipline) continue
+        if (!byDisc[a.discipline]) byDisc[a.discipline] = { total: 0, correct: 0 }
+        byDisc[a.discipline].total++
+        if (a.is_correct) byDisc[a.discipline].correct++
+      }
+      setDiscStats(Object.entries(byDisc).map(([discipline, s]) => ({ discipline, ...s })).sort((a, b) => b.total - a.total))
+
+      // Últimas 5 erradas com discipline+year
+      const wrong = answers.filter((a: { is_correct: boolean; discipline: string; year: number }) => !a.is_correct && a.discipline && a.year).slice(0, 5)
+      setRecentWrong(wrong)
 
       const sub = subRes.data
       const pro = sub?.plan === 'pro' && sub?.expires_at && new Date(sub.expires_at) > new Date()
@@ -136,6 +153,45 @@ function DashboardContent() {
           </div>
           <StartButton isPro={isPro} remaining={isPro ? Infinity : Math.max(0, FREE_DAILY_LIMIT - stats.today)} />
         </div>
+
+        {/* Breakdown por disciplina */}
+        {discStats.length > 0 && (
+          <div className="bg-white rounded-2xl border border-zinc-200 p-6 mb-6">
+            <h2 className="text-lg font-bold mb-4">Desempenho por disciplina</h2>
+            <div className="space-y-3">
+              {discStats.map((d) => {
+                const pct = d.total > 0 ? Math.round((d.correct / d.total) * 100) : 0
+                return (
+                  <div key={d.discipline}>
+                    <div className="flex justify-between text-sm mb-1">
+                      <span className="text-zinc-700 truncate max-w-[60%]">{d.discipline}</span>
+                      <span className={`font-semibold ${pct >= 70 ? 'text-green-600' : pct >= 50 ? 'text-amber-600' : 'text-red-600'}`}>{pct}% ({d.correct}/{d.total})</span>
+                    </div>
+                    <div className="h-2 bg-zinc-100 rounded-full overflow-hidden">
+                      <div className={`h-full rounded-full ${pct >= 70 ? 'bg-green-500' : pct >= 50 ? 'bg-amber-400' : 'bg-red-400'}`} style={{ width: `${pct}%` }} />
+                    </div>
+                  </div>
+                )
+              })}
+            </div>
+          </div>
+        )}
+
+        {/* Revisão de erros recentes */}
+        {recentWrong.length > 0 && (
+          <div className="bg-white rounded-2xl border border-zinc-200 p-6 mb-6">
+            <h2 className="text-lg font-bold mb-4">Revisar questões erradas</h2>
+            <div className="space-y-2">
+              {recentWrong.map((w) => (
+                <Link key={`${w.question_id}-${w.answered_at}`} href={`/questoes/${w.question_id}?year=${w.year}`}
+                  className="flex items-center justify-between px-4 py-3 rounded-xl border border-zinc-100 hover:border-indigo-300 hover:bg-indigo-50 transition-all text-sm">
+                  <span className="text-zinc-700">{w.discipline} — ENEM {w.year}</span>
+                  <span className="text-indigo-500 text-xs">Revisar →</span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        )}
 
         {/* History link */}
         <div className="text-center">

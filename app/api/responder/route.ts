@@ -7,10 +7,19 @@ const FREE_DAILY_LIMIT = 10
 
 export async function POST(request: NextRequest) {
   const supabase = createServerClient()
-  const body = await request.json()
-  const { user_id, question_id, selected_alternative, correct_alternative } = body
 
-  if (!user_id || !question_id || !selected_alternative) {
+  // Verify identity from JWT — never trust user_id from body
+  const authHeader = request.headers.get('authorization') || ''
+  const token = authHeader.replace(/^Bearer\s+/i, '')
+  if (!token) return NextResponse.json({ error: 'Não autenticado' }, { status: 401 })
+  const { data: { user }, error: authError } = await supabase.auth.getUser(token)
+  if (authError || !user) return NextResponse.json({ error: 'Token inválido' }, { status: 401 })
+
+  const body = await request.json()
+  const { question_id, selected_alternative, correct_alternative, discipline, year } = body
+  const user_id = user.id  // always from JWT, never from body
+
+  if (!question_id || !selected_alternative) {
     return NextResponse.json({ error: 'Dados incompletos' }, { status: 400 })
   }
 
@@ -61,6 +70,8 @@ export async function POST(request: NextRequest) {
     question_id,
     selected_alternative,
     is_correct,
+    discipline: discipline || null,
+    year: year || null,
   })
 
   return NextResponse.json({ is_correct, isPro })
