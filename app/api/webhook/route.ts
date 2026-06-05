@@ -26,7 +26,7 @@ export async function POST(request: NextRequest) {
     const userId = session.client_reference_id
     if (!userId) return NextResponse.json({ ok: true })
 
-    const plan = (session.subscription_data?.metadata?.plan as string) || 'monthly'
+    const plan = (session.metadata?.plan as string) || 'monthly'
     const months = plan === 'annual' ? 12 : 1
     const expiresAt = new Date()
     expiresAt.setMonth(expiresAt.getMonth() + months)

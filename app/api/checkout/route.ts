@@ -38,12 +38,10 @@ export async function POST(request: NextRequest) {
     line_items: [{ price: priceId, quantity: 1 }],
     client_reference_id: user.id,
     customer_email: user.email,
+    metadata: { user_id: user.id, plan },
     success_url: `${origin}/dashboard?upgrade=success`,
     cancel_url: `${origin}/planos`,
     locale: 'pt-BR',
-    subscription_data: {
-      metadata: { user_id: user.id, plan },
-    },
   })
 
   return NextResponse.json({ url: session.url })
