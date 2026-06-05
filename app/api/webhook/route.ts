@@ -8,9 +8,10 @@ function cleanEnv(val: string | undefined): string {
   return (val || '').replace(new RegExp(String.fromCharCode(65279), 'g'), '').replace(/[\r\n]/g, '')
 }
 
-const stripe = new Stripe(cleanEnv(process.env.STRIPE_SECRET_KEY))
-
 export async function POST(request: NextRequest) {
+  const stripeKey = cleanEnv(process.env.STRIPE_SECRET_KEY)
+  if (!stripeKey) return NextResponse.json({ error: 'Stripe não configurado' }, { status: 503 })
+  const stripe = new Stripe(stripeKey)
   const body = await request.text()
   const sig = request.headers.get('stripe-signature') || ''
 
