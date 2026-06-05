@@ -4,22 +4,39 @@ import { createServerClient } from '@/lib/supabase'
 
 export const dynamic = 'force-dynamic'
 
-export async function POST(request: NextRequest) {
-  const anthropic = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY! })
-  const supabase = createServerClient()
-  const body = await request.json()
-  const { user_id, question_title, correct_alternative, alternatives, discipline, year } = body
+function cleanEnv(val: string | undefined): string {
+  return (val || '').replace(new RegExp(String.fromCharCode(65279), 'g'), '').replace(/[\r\n]/g, '')
+}
 
-  if (!user_id) {
+export async function POST(request: NextRequest) {
+  const anthropic = new Anthropic({ apiKey: cleanEnv(process.env.ANTHROPIC_API_KEY) })
+  const supabase = createServerClient()
+
+  // Verify identity from JWT — never trust user_id from body
+  const authHeader = request.headers.get('authorization') || ''
+  const token = authHeader.replace(/^Bearer\s+/i, '')
+  if (!token) {
     return NextResponse.json({ error: 'Não autenticado' }, { status: 401 })
   }
+  const { data: { user }, error: authError } = await supabase.auth.getUser(token)
+  if (authError || !user) {
+    return NextResponse.json({ error: 'Token inválido' }, { status: 401 })
+  }
+
+  const body = await request.json()
+  const { question_title, correct_alternative, alternatives, discipline, year } = body
 
   // Verify Pro plan
-  const { data: sub } = await supabase
+  const { data: sub, error: subError } = await supabase
     .from('subscriptions')
     .select('plan, expires_at')
-    .eq('user_id', user_id)
-    .single()
+    .eq('user_id', user.id)
+    .maybeSingle()
+
+  if (subError) {
+    console.error('[explicar] sub lookup error:', subError.message, 'user_id:', user.id)
+    return NextResponse.json({ error: 'Erro ao verificar plano' }, { status: 500 })
+  }
 
   const isPro =
     sub?.plan === 'pro' &&
@@ -34,14 +51,16 @@ export async function POST(request: NextRequest) {
     .map((a: { letter: string; text: string }) => `${a.letter}) ${a.text}`)
     .join('\n')
 
-  const message = await anthropic.messages.create({
-    model: 'claude-haiku-4-5-20251001',
-    max_tokens: 600,
-    system: `Você é um professor especialista no ENEM. Explique de forma clara, didática e objetiva por que a alternativa correta é a correta. Use no máximo 3 parágrafos. Não use markdown excessivo. Fale diretamente para o estudante.`,
-    messages: [
-      {
-        role: 'user',
-        content: `ENEM ${year} — ${discipline}
+  let message
+  try {
+    message = await anthropic.messages.create({
+      model: 'claude-haiku-4-5-20251001',
+      max_tokens: 600,
+      system: `Você é um professor especialista no ENEM. Explique de forma clara, didática e objetiva por que a alternativa correta é a correta. Use no máximo 3 parágrafos. Não use markdown excessivo. Fale diretamente para o estudante.`,
+      messages: [
+        {
+          role: 'user',
+          content: `ENEM ${year} — ${discipline}
 
 Questão: ${question_title}
 
@@ -51,9 +70,14 @@ ${alternativesText}
 Alternativa correta: ${correct_alternative}
 
 Explique por que a alternativa ${correct_alternative} é a correta e por que as outras estão erradas.`,
-      },
-    ],
-  })
+        },
+      ],
+    })
+  } catch (e: unknown) {
+    const msg = e instanceof Error ? e.message : String(e)
+    console.error('[explicar] anthropic error:', msg)
+    return NextResponse.json({ error: 'Erro ao gerar explicação', detail: msg }, { status: 500 })
+  }
 
   const explanation = (message.content[0] as { type: string; text: string }).text
 

@@ -6,6 +6,32 @@ import { useRouter, useParams, useSearchParams } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
 import { Question } from '@/lib/types'
 
+function MarkdownText({ text, className }: { text: string; className?: string }) {
+  const TOKEN = /(\*\*[^*]+\*\*|\*[^*]+\*|!\[[^\]]*\]\([^)]+\))/g
+  return (
+    <div className={className}>
+      {text.split('\n').map((line, li) => (
+        <p key={li} className={li > 0 ? 'mt-2' : ''}>
+          {line.split(TOKEN).map((part, i) => {
+            if (/^\*\*(.+)\*\*$/.test(part)) return <strong key={i}>{part.slice(2, -2)}</strong>
+            if (/^\*(.+)\*$/.test(part)) return <em key={i}>{part.slice(1, -1)}</em>
+            const img = part.match(/^!\[([^\]]*)\]\(([^)]+)\)$/)
+            if (img) {
+              const src = img[2]
+              if (src.includes('enem.dev') || src.includes('broken-image')) return null
+              return (
+                <img key={i} src={src} alt={img[1] || 'imagem'} className="max-w-full my-2 rounded"
+                  onError={(e) => { (e.target as HTMLImageElement).style.display = 'none' }} />
+              )
+            }
+            return part
+          })}
+        </p>
+      ))}
+    </div>
+  )
+}
+
 const supabase = createBrowserClient()
 
 type Status = 'idle' | 'answered' | 'explaining' | 'explained'
@@ -113,11 +139,14 @@ function QuestionContent() {
     if (!user || !question) return
     setStatus('explaining')
 
+    const { data: { session } } = await supabase.auth.getSession()
     const res = await fetch('/api/explicar', {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: {
+        'Content-Type': 'application/json',
+        ...(session?.access_token ? { Authorization: `Bearer ${session.access_token}` } : {}),
+      },
       body: JSON.stringify({
-        user_id: user.id,
         question_title: question.title,
         correct_alternative: question.correctAlternative,
         alternatives: question.alternatives,
@@ -177,16 +206,18 @@ function QuestionContent() {
         {/* Question */}
         <div className="bg-white rounded-2xl border border-zinc-200 p-8 mb-6">
           {question.context && (
-            <div className="text-sm text-zinc-600 leading-relaxed mb-6 pb-6 border-b border-zinc-100 whitespace-pre-wrap">
-              {question.context}
-            </div>
+            <MarkdownText
+              text={question.context}
+              className="text-sm text-zinc-600 leading-relaxed mb-6 pb-6 border-b border-zinc-100"
+            />
           )}
           {question.alternativesIntroduction && (
             <p className="text-sm text-zinc-600 mb-4 italic">{question.alternativesIntroduction}</p>
           )}
-          <p className="text-zinc-900 leading-relaxed font-medium mb-8 whitespace-pre-wrap">
-            {question.title}
-          </p>
+          <MarkdownText
+            text={question.title}
+            className="text-zinc-900 leading-relaxed font-medium mb-8"
+          />
 
           {/* Alternatives */}
           <div className="space-y-3">
