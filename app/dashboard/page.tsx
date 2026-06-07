@@ -22,7 +22,7 @@ function DashboardContent() {
   const searchParams = useSearchParams()
   const [user, setUser] = useState<{ id: string; email?: string; user_metadata?: { name?: string } } | null>(null)
   type DiscStat = { discipline: string; total: number; correct: number }
-  const [stats, setStats] = useState({ total: 0, correct: 0, today: 0 })
+  const [stats, setStats] = useState({ total: 0, correct: 0, today: 0, streak: 0 })
   const [discStats, setDiscStats] = useState<DiscStat[]>([])
   const [recentWrong, setRecentWrong] = useState<{ question_id: string; discipline: string; year: number; answered_at: string }[]>([])
   const [isPro, setIsPro] = useState(false)
@@ -61,10 +61,28 @@ function DashboardContent() {
       const wrong = answers.filter((a) => !a.is_correct && a.discipline && a.year).slice(0, 5)
       setRecentWrong(wrong)
 
+      // Streak: dias consecutivos com pelo menos 1 resposta
+      const days = [...new Set(answers.map((a) => a.answered_at.split('T')[0]))].sort((a, b) => b.localeCompare(a))
+      const todayStr = new Date().toISOString().split('T')[0]
+      const yesterdayStr = new Date(Date.now() - 86400000).toISOString().split('T')[0]
+      let streak = 0
+      // Streaks que incluem hoje ou ontem (ontem = ainda válido se não respondeu hoje)
+      const startDay = days[0] === todayStr || days[0] === yesterdayStr ? days[0] : null
+      if (startDay) {
+        const startDate = new Date(startDay)
+        for (let i = 0; i < days.length; i++) {
+          const expected = new Date(startDate)
+          expected.setDate(startDate.getDate() - i)
+          const expectedStr = expected.toISOString().split('T')[0]
+          if (days[i] === expectedStr) streak++
+          else break
+        }
+      }
+      setStats({ total: answers.length, correct, today: todayCount, streak })
+
       const sub = subRes.data
       const pro = sub?.plan === 'pro' && sub?.expires_at && new Date(sub.expires_at) > new Date()
       setIsPro(!!pro)
-      setStats({ total: answers.length, correct, today: todayCount })
       setLoading(false)
     }
     load()
@@ -119,10 +137,11 @@ function DashboardContent() {
         )}
 
         {/* Stats */}
-        <div className="grid grid-cols-3 gap-4 mb-10">
+        <div className="grid grid-cols-4 gap-4 mb-10">
           <StatCard label="Respondidas" value={stats.total.toString()} />
           <StatCard label="Taxa de acerto" value={`${accuracy}%`} />
           <StatCard label="Hoje" value={isPro ? `${stats.today}` : `${stats.today}/${FREE_DAILY_LIMIT}`} />
+          <StatCard label="Sequência" value={stats.streak > 0 ? `${stats.streak}d` : '—'} highlight={stats.streak >= 3} />
         </div>
 
         {/* Quick access — Simulado e Redação */}
@@ -236,8 +255,8 @@ function DashboardSkeleton() {
         </div>
       </header>
       <main className="max-w-5xl mx-auto px-6 py-10">
-        <div className="grid grid-cols-3 gap-4 mb-10">
-          {[1,2,3].map(i => (
+        <div className="grid grid-cols-4 gap-4 mb-10">
+          {[1,2,3,4].map(i => (
             <div key={i} className="bg-white rounded-2xl border border-zinc-200 p-6 text-center">
               <div className="h-10 w-16 bg-zinc-200 rounded mx-auto mb-2" />
               <div className="h-4 w-24 bg-zinc-100 rounded mx-auto" />
@@ -263,11 +282,12 @@ function DashboardSkeleton() {
   )
 }
 
-function StatCard({ label, value }: { label: string; value: string }) {
+function StatCard({ label, value, highlight }: { label: string; value: string; highlight?: boolean }) {
   return (
-    <div className="bg-white rounded-2xl border border-zinc-200 p-6 text-center">
-      <div className="text-3xl font-bold text-indigo-600 mb-1">{value}</div>
+    <div className={`rounded-2xl border p-6 text-center ${highlight ? 'bg-amber-50 border-amber-200' : 'bg-white border-zinc-200'}`}>
+      <div className={`text-3xl font-bold mb-1 ${highlight ? 'text-amber-600' : 'text-indigo-600'}`}>{value}</div>
       <div className="text-sm text-zinc-500">{label}</div>
+      {highlight && <div className="text-xs text-amber-500 mt-1">em chamas!</div>}
     </div>
   )
 }

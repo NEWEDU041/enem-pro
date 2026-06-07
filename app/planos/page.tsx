@@ -49,7 +49,7 @@ export default function PlanosPage() {
         <h1 className="text-4xl font-bold mb-4">Escolha seu plano</h1>
         <p className="text-zinc-500 mb-14">Comece grátis. Assine quando quiser mais.</p>
 
-        <div className="grid md:grid-cols-2 gap-6 mb-12">
+        <div className="grid md:grid-cols-3 gap-6 mb-12">
           {/* Free */}
           <div className="bg-white rounded-2xl border border-zinc-200 p-8 text-left">
             <h2 className="text-xl font-bold mb-1">Grátis</h2>
@@ -73,18 +73,19 @@ export default function PlanosPage() {
             </Link>
           </div>
 
-          {/* Pro */}
-          <div className="bg-indigo-600 rounded-2xl p-8 text-left text-white relative">
-            <div className="absolute top-4 right-4 bg-amber-400 text-zinc-900 text-xs font-bold px-3 py-1 rounded-full">
-              MAIS POPULAR
+          {/* Pro Anual — HERO */}
+          <div className="bg-indigo-600 rounded-2xl p-8 text-left text-white relative ring-4 ring-amber-400 ring-offset-2">
+            <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-amber-400 text-zinc-900 text-xs font-bold px-4 py-1 rounded-full whitespace-nowrap">
+              MELHOR CUSTO-BENEFÍCIO
             </div>
-            <h2 className="text-xl font-bold mb-1">Pro</h2>
-            <p className="text-indigo-200 text-sm mb-6">Cancele quando quiser</p>
-            <div className="mb-1">
-              <span className="text-4xl font-bold">R$14,90</span>
-              <span className="text-indigo-200 text-sm">/mês</span>
+            <h2 className="text-xl font-bold mb-1">Pro Anual</h2>
+            <p className="text-indigo-200 text-sm mb-4">Compromisso com a aprovação</p>
+            <div className="mb-1 flex items-end gap-2">
+              <span className="text-4xl font-bold">R$8,25</span>
+              <span className="text-indigo-200 text-sm mb-1">/mês</span>
             </div>
-            <p className="text-indigo-200 text-xs mb-8">ou R$99/ano (R$8,25/mês)</p>
+            <p className="text-indigo-100 font-semibold text-sm mb-1">R$99 cobrado anualmente</p>
+            <p className="text-indigo-300 text-xs mb-8">Economize 45% vs plano mensal</p>
             <ul className="space-y-3 text-sm mb-8">
               {[
                 'Questões ilimitadas',
@@ -93,23 +94,48 @@ export default function PlanosPage() {
                 'Todas as disciplinas',
                 'Filtros avançados',
                 'Estatísticas detalhadas',
+                'Correção de redação — 2 grátis/mês',
               ].map((f) => (
                 <li key={f} className="flex gap-2"><span className="text-indigo-300">✓</span>{f}</li>
               ))}
             </ul>
             <button
-              onClick={() => handleCheckout('monthly')}
-              disabled={loading !== null}
-              className="block w-full text-center bg-white text-indigo-600 py-3 rounded-xl font-semibold hover:bg-indigo-50 transition-colors disabled:opacity-70"
-            >
-              {loading === 'monthly' ? 'Aguarde...' : 'Assinar Pro — R$14,90/mês'}
-            </button>
-            <button
               onClick={() => handleCheckout('annual')}
               disabled={loading !== null}
-              className="block w-full text-center mt-3 border border-indigo-300 text-indigo-100 py-2.5 rounded-xl text-sm font-medium hover:bg-indigo-500 transition-colors disabled:opacity-70"
+              className="block w-full text-center bg-amber-400 text-zinc-900 py-3.5 rounded-xl font-bold hover:bg-amber-300 transition-colors disabled:opacity-70"
             >
-              {loading === 'annual' ? 'Aguarde...' : 'Plano anual — R$99/ano (economize 45%)'}
+              {loading === 'annual' ? 'Aguarde...' : 'Assinar anual — R$99/ano'}
+            </button>
+            <p className="text-center text-indigo-300 text-xs mt-2">Garantia de 30 dias · Cancele quando quiser</p>
+          </div>
+
+          {/* Pro Mensal */}
+          <div className="bg-white rounded-2xl border border-zinc-200 p-8 text-left">
+            <h2 className="text-xl font-bold mb-1">Pro Mensal</h2>
+            <p className="text-zinc-400 text-sm mb-6">Flexibilidade total</p>
+            <div className="mb-1">
+              <span className="text-4xl font-bold">R$14,90</span>
+              <span className="text-zinc-400 text-sm">/mês</span>
+            </div>
+            <p className="text-zinc-400 text-xs mb-8">Cancele a qualquer momento</p>
+            <ul className="space-y-3 text-sm text-zinc-600 mb-8">
+              {[
+                'Questões ilimitadas',
+                'IA explica cada resposta',
+                'Todos os anos (2009–2024)',
+                'Todas as disciplinas',
+                'Filtros avançados',
+                'Estatísticas detalhadas',
+              ].map((f) => (
+                <li key={f} className="flex gap-2"><span className="text-indigo-500">✓</span>{f}</li>
+              ))}
+            </ul>
+            <button
+              onClick={() => handleCheckout('monthly')}
+              disabled={loading !== null}
+              className="block w-full text-center bg-indigo-600 text-white py-3 rounded-xl font-semibold hover:bg-indigo-700 transition-colors disabled:opacity-70"
+            >
+              {loading === 'monthly' ? 'Aguarde...' : 'Assinar mensal'}
             </button>
           </div>
         </div>

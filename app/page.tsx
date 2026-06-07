@@ -1,5 +1,24 @@
 import Link from 'next/link'
 import Script from 'next/script'
+import DemoQuestion from '@/components/DemoQuestion'
+import { createServerClient } from '@/lib/supabase'
+
+async function getLiveStats() {
+  try {
+    const sb = createServerClient()
+    const [answersRes, usersRes] = await Promise.all([
+      sb.from('user_answers').select('*', { count: 'exact', head: true }),
+      sb.from('daily_usage').select('*', { count: 'exact', head: true })
+        .gte('date', new Date(Date.now() - 7 * 86400000).toISOString().split('T')[0]),
+    ])
+    return {
+      totalAnswers: answersRes.count || 0,
+      activeUsers: usersRes.count || 0,
+    }
+  } catch {
+    return { totalAnswers: 0, activeUsers: 0 }
+  }
+}
 
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -14,7 +33,8 @@ const jsonLd = {
   ],
 }
 
-export default function LandingPage() {
+export default async function LandingPage() {
+  const stats = await getLiveStats()
   return (
     <div className="flex flex-col min-h-screen">
       <Script
@@ -43,14 +63,14 @@ export default function LandingPage() {
       <section className="flex-1 flex flex-col items-center justify-center px-6 py-24 text-center">
         <div className="inline-flex items-center gap-2 bg-indigo-50 text-indigo-700 text-sm font-medium px-4 py-2 rounded-full mb-8">
           <span>✦</span>
-          <span>ENEM 2025 — comece a treinar hoje</span>
+          <span>ENEM 2025 — questões reais do INEP com IA</span>
         </div>
         <h1 className="text-5xl font-bold tracking-tight text-zinc-900 max-w-3xl mb-6 leading-tight">
-          Passe no ENEM sem precisar<br />
-          <span className="text-indigo-600">de cursinho ou professor particular.</span>
+          Medicina, Direito, Engenharia na federal.<br />
+          <span className="text-indigo-600">Começa com a questão certa.</span>
         </h1>
         <p className="text-xl text-zinc-500 max-w-xl mb-10">
-          Pratique as 3.600+ questões reais de 2009 a 2024. Erre uma — a IA explica em 30 segundos por que você errou e como nunca mais errar.
+          3.600+ questões reais do INEP de 2009 a 2024. Erre uma — a IA explica o raciocínio completo em 30 segundos. Para quem quer aprovação, não só treino.
         </p>
         <div className="flex flex-col sm:flex-row gap-4">
           <Link
@@ -74,15 +94,19 @@ export default function LandingPage() {
         <div className="max-w-4xl mx-auto grid grid-cols-4 gap-6 text-center">
           <div>
             <div className="text-3xl font-bold text-white mb-1">3.600+</div>
-            <div className="text-zinc-400 text-sm">Questões oficiais</div>
+            <div className="text-zinc-400 text-sm">Questões reais INEP</div>
           </div>
           <div>
             <div className="text-3xl font-bold text-white mb-1">16 anos</div>
             <div className="text-zinc-400 text-sm">2009 a 2024</div>
           </div>
           <div>
-            <div className="text-3xl font-bold text-white mb-1">30 seg</div>
-            <div className="text-zinc-400 text-sm">Para a IA explicar</div>
+            <div className="text-3xl font-bold text-white mb-1">
+              {stats.totalAnswers > 50 ? stats.totalAnswers.toLocaleString('pt-BR') + '+' : '30 seg'}
+            </div>
+            <div className="text-zinc-400 text-sm">
+              {stats.totalAnswers > 50 ? 'Questões respondidas' : 'Para a IA explicar'}
+            </div>
           </div>
           <div>
             <div className="text-3xl font-bold text-white mb-1">R$0</div>
@@ -91,31 +115,19 @@ export default function LandingPage() {
         </div>
       </section>
 
-      {/* Demo explicação IA */}
+      {/* Demo interativo — questão real do INEP */}
       <section className="py-20 px-6 bg-zinc-50">
-        <div className="max-w-3xl mx-auto">
-          <h2 className="text-3xl font-bold text-center mb-4">Veja como a IA explica</h2>
-          <p className="text-zinc-500 text-center mb-10 max-w-md mx-auto">Após você responder, a IA analisa sua resposta e explica em linguagem simples.</p>
-          <div className="bg-white rounded-2xl border border-zinc-200 overflow-hidden shadow-sm">
-            <div className="bg-red-50 border-b border-red-100 px-6 py-4 flex items-center gap-3">
-              <span className="text-2xl">😅</span>
-              <span className="font-bold text-red-700">Errou — a correta era C</span>
+        <div className="max-w-2xl mx-auto">
+          <div className="text-center mb-10">
+            <div className="inline-flex items-center gap-2 bg-green-50 text-green-700 text-xs font-semibold px-3 py-1 rounded-full mb-4">
+              Questão real do INEP — responda agora
             </div>
-            <div className="px-6 py-5">
-              <div className="flex items-center gap-2 mb-3">
-                <span className="text-lg">🤖</span>
-                <span className="font-semibold text-zinc-900 text-sm">Explicação da IA — ENEM 2023 · Matemática</span>
-              </div>
-              <p className="text-zinc-700 text-sm leading-relaxed">
-                A alternativa C é a correta porque a função dada é uma progressão geométrica com razão 2. Para encontrar o 5º termo, aplicamos a fórmula an = a1 · q^(n-1): a5 = 3 · 2^4 = 3 · 16 = 48.
-              </p>
-              <p className="text-zinc-700 text-sm leading-relaxed mt-3">
-                A alternativa A (32) é o erro mais comum — os alunos calculam 2^5 sem multiplicar pelo primeiro termo. A alternativa D (96) resulta de usar n ao invés de n-1 no expoente.
-              </p>
-              <p className="text-zinc-500 text-xs mt-4 pt-4 border-t border-zinc-100">Esta explicação é gerada pela IA para cada questão individualmente — não é um gabarito genérico.</p>
-            </div>
+            <h2 className="text-3xl font-bold mb-3">Teste antes de criar conta</h2>
+            <p className="text-zinc-500 max-w-md mx-auto">Responda uma questão real do ENEM. Veja como a IA explica o raciocínio completo no Pro.</p>
           </div>
-          <p className="text-center text-sm text-zinc-400 mt-6">Disponível no Plano Pro para todas as 3.600+ questões</p>
+          <div className="bg-white rounded-2xl border border-zinc-200 p-6 shadow-sm">
+            <DemoQuestion />
+          </div>
         </div>
       </section>
 
