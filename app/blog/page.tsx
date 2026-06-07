@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
-import { BLOG_POSTS } from '@/lib/blog-data'
+import { getAllPosts } from '@/lib/blog-data'
 
 export const metadata: Metadata = {
   title: 'Blog ENEM Pro — Guias, Estratégias e Gabaritos',
@@ -30,7 +30,7 @@ export default function BlogPage() {
         </div>
 
         <div className="grid md:grid-cols-2 gap-6">
-          {BLOG_POSTS.map(post => (
+          {getAllPosts().map(post => (
             <Link
               key={post.slug}
               href={`/blog/${post.slug}`}

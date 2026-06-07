@@ -366,7 +366,7 @@ function DashboardContent() {
                   )}
                 </div>
               </div>
-              <button onClick={() => setEditingGoal(true)}
+              <button onClick={() => { setGoalScore(goal.score); setEditingGoal(true) }}
                 className="text-xs text-zinc-400 hover:text-zinc-700 underline shrink-0">
                 Editar
               </button>

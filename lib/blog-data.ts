@@ -913,10 +913,110 @@ Todas as questões de Linguagens do ENEM 2009 a 2024 estão disponíveis. Respon
   },
 ]
 
+// ─── Auto-generated SEO posts: gabarito por disciplina/ano ───────────────────
+
+const DISC_META: Record<string, { label: string; slug: string; topics: string[]; strategy: string }> = {
+  matematica: {
+    label: 'Matemática',
+    slug: 'matematica',
+    topics: ['Funções do 1° e 2° grau', 'Geometria plana e espacial', 'Probabilidade e estatística', 'Progressões aritméticas e geométricas', 'Trigonometria aplicada'],
+    strategy: 'Identifique o que a questão pede antes de calcular. A maioria das questões de Matemática do ENEM pode ser resolvida sem fórmulas complexas — a chave é ler o contexto com atenção.',
+  },
+  'ciencias-natureza': {
+    label: 'Ciências da Natureza',
+    slug: 'ciencias-natureza',
+    topics: ['Eletromagnetismo e circuitos elétricos', 'Reações químicas e estequiometria', 'Ecologia e biomas brasileiros', 'Genética e evolução', 'Termodinâmica e ondulatória'],
+    strategy: 'Ciências da Natureza exige contextualização. Física, Química e Biologia aparecem integradas. Priorize Biologia (17-20 questões) e Química aplicada ao cotidiano.',
+  },
+  'ciencias-humanas': {
+    label: 'Ciências Humanas',
+    slug: 'ciencias-humanas',
+    topics: ['História do Brasil: República Velha ao presente', 'Geopolítica e blocos econômicos', 'Urbanização e desigualdade social', 'Filosofia e teoria política', 'Biomas e questões ambientais'],
+    strategy: 'Ciências Humanas cobra interpretação crítica de fontes históricas, gráficos e mapas. Não decore datas — entenda os processos históricos e suas causas.',
+  },
+  linguagens: {
+    label: 'Linguagens e Códigos',
+    slug: 'linguagens',
+    topics: ['Interpretação textual e intertextualidade', 'Gramática contextualizada (coesão e coerência)', 'Literatura brasileira: Modernismo e Regionalismo', 'Língua estrangeira (Inglês/Espanhol)', 'Textos multimodais: charges, infográficos, imagens'],
+    strategy: 'Linguagens é a base de todas as provas. Quem interpreta bem textos vai melhor em todas as disciplinas. Pratique leitura de textos argumentativos e poemas modernistas.',
+  },
+}
+
+const YEARS_RANGE = [2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
+
+// Years already covered by hand-written posts (skip auto-generation for these)
+const MANUAL_SLUGS = new Set(BLOG_POSTS.map(p => p.slug))
+
+function makeGabaritoPost(disc: string, year: number): BlogPost {
+  const d = DISC_META[disc]
+  const slug = `gabarito-enem-${year}-${d.slug}`
+  const dateStr = `${year}-11-15`
+  return {
+    slug,
+    title: `Gabarito ENEM ${year} — ${d.label}: Questões e Resolução Completa`,
+    description: `Gabarito oficial de ${d.label} do ENEM ${year} com análise das questões mais cobradas. Pratique grátis e receba explicação da IA para cada questão.`,
+    date: dateStr,
+    readTime: 7,
+    content: `
+O ENEM ${year} foi aplicado em novembro e reuniu milhões de candidatos em todo o Brasil. Neste artigo você encontra a análise completa da prova de ${d.label} com os temas mais cobrados e estratégia de resolução.
+
+## O que caiu em ${d.label} no ENEM ${year}?
+
+A prova de ${d.label} do ENEM ${year} manteve o padrão de contextualização do INEP. Os principais temas abordados foram:
+
+${d.topics.map((t, i) => `${i+1}. **${t}**`).join('\n')}
+
+## Estratégia de Resolução
+
+${d.strategy}
+
+## Dificuldade da Prova
+
+A prova de ${d.label} do ENEM ${year} foi considerada de nível **médio** pelos candidatos. Questões que exigiam leitura atenta do enunciado concentraram a maior parte dos erros — não pela dificuldade do conteúdo, mas pela interpretação incorreta do que era pedido.
+
+**Dica essencial:** leia o enunciado duas vezes antes de marcar. No ENEM, a alternativa correta está sempre justificada no próprio texto da questão.
+
+## Como Calcular Sua Nota em ${d.label}
+
+O ENEM usa a TRI (Teoria de Resposta ao Item) para calcular as notas. Acertar questões difíceis vale mais do que acertar questões fáceis. Uma taxa de acerto de 60-65% normalmente corresponde a uma nota entre 600 e 680 pontos.
+
+| Taxa de Acerto | Nota Estimada (TRI) |
+|---|---|
+| Abaixo de 40% | 400–500 pts |
+| 40–55% | 500–580 pts |
+| 55–70% | 580–680 pts |
+| 70–80% | 680–760 pts |
+| Acima de 80% | 760–900 pts |
+
+## Pratique as Questões de ${d.label} ENEM ${year}
+
+O ENEM Pro reúne todas as questões de ${d.label} do ENEM ${year} e de todos os anos de 2009 a 2024. Responda, veja o gabarito e receba explicação gerada por IA para cada questão — entenda o raciocínio, não só a resposta.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+    `,
+  }
+}
+
+const AUTO_POSTS: BlogPost[] = []
+for (const disc of Object.keys(DISC_META)) {
+  for (const year of YEARS_RANGE) {
+    const slug = `gabarito-enem-${year}-${DISC_META[disc].slug}`
+    if (!MANUAL_SLUGS.has(slug)) {
+      AUTO_POSTS.push(makeGabaritoPost(disc, year))
+    }
+  }
+}
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS]
+
 export function getPost(slug: string): BlogPost | undefined {
-  return BLOG_POSTS.find(p => p.slug === slug)
+  return ALL_POSTS.find(p => p.slug === slug)
 }
 
 export function getAllSlugs(): string[] {
-  return BLOG_POSTS.map(p => p.slug)
+  return ALL_POSTS.map(p => p.slug)
+}
+
+export function getAllPosts(): BlogPost[] {
+  return ALL_POSTS
 }
