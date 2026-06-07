@@ -2,6 +2,8 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 import { fetchQuestionsByYear } from '@/lib/enem-api'
 
+export const dynamic = 'force-dynamic'
+
 const SLUG_TO_DISCIPLINE: Record<string, string> = {
   'matematica': 'Matemática',
   'linguagens': 'Linguagens, Códigos e suas Tecnologias',
@@ -63,8 +65,22 @@ export default async function SEOQuestoesPage({ params }: { params: Promise<{ di
   const otherYears = VALID_YEARS.filter(y => y !== yearNum).slice(0, 6)
   const otherDiscs = Object.entries(SLUG_TO_DISCIPLINE).filter(([s]) => s !== discipline)
 
+  const courseSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Course',
+    name: `Questões de ${shortDisc} ENEM ${year}`,
+    description: `Pratique todas as questões de ${shortDisc} do ENEM ${year} com gabarito oficial e explicação por IA.`,
+    provider: { '@type': 'Organization', name: 'ENEM Pro', url: 'https://enem-pro-eight.vercel.app' },
+    hasCourseInstance: {
+      '@type': 'CourseInstance',
+      courseMode: 'online',
+      offers: { '@type': 'Offer', price: '0', priceCurrency: 'BRL', availability: 'https://schema.org/InStock' },
+    },
+  }
+
   return (
     <div className="min-h-screen bg-zinc-50">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(courseSchema) }} />
       <header className="bg-white border-b border-zinc-200 px-6 py-4">
         <div className="max-w-5xl mx-auto flex items-center justify-between">
           <Link href="/" className="text-xl font-bold text-indigo-600">ENEM Pro</Link>

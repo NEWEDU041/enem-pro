@@ -76,7 +76,7 @@ function DashboardContent() {
     router.push('/')
   }
 
-  if (loading) return <div className="min-h-screen flex items-center justify-center text-zinc-400">Carregando...</div>
+  if (loading) return <DashboardSkeleton />
 
   const accuracy = stats.total > 0 ? Math.round((stats.correct / stats.total) * 100) : 0
   const remaining = isPro ? '∞' : `${Math.max(0, FREE_DAILY_LIMIT - stats.today)}`
@@ -198,6 +198,46 @@ function DashboardContent() {
           <Link href="/questoes" className="text-sm text-indigo-600 hover:underline">
             Ver todas as questões por ano e disciplina →
           </Link>
+        </div>
+      </main>
+    </div>
+  )
+}
+
+function DashboardSkeleton() {
+  return (
+    <div className="min-h-screen bg-zinc-50 animate-pulse">
+      <header className="bg-white border-b border-zinc-200 px-6 py-4">
+        <div className="max-w-5xl mx-auto flex items-center justify-between">
+          <div className="h-7 w-28 bg-zinc-200 rounded-lg" />
+          <div className="flex items-center gap-4">
+            <div className="h-8 w-24 bg-zinc-200 rounded-lg" />
+            <div className="h-4 w-32 bg-zinc-100 rounded" />
+          </div>
+        </div>
+      </header>
+      <main className="max-w-5xl mx-auto px-6 py-10">
+        <div className="grid grid-cols-3 gap-4 mb-10">
+          {[1,2,3].map(i => (
+            <div key={i} className="bg-white rounded-2xl border border-zinc-200 p-6 text-center">
+              <div className="h-10 w-16 bg-zinc-200 rounded mx-auto mb-2" />
+              <div className="h-4 w-24 bg-zinc-100 rounded mx-auto" />
+            </div>
+          ))}
+        </div>
+        <div className="bg-white rounded-2xl border border-zinc-200 p-8 mb-8">
+          <div className="h-6 w-40 bg-zinc-200 rounded mb-6" />
+          <div className="grid md:grid-cols-2 gap-6">
+            <div className="h-12 bg-zinc-100 rounded-lg" />
+            <div className="h-12 bg-zinc-100 rounded-lg" />
+          </div>
+          <div className="h-14 bg-indigo-100 rounded-xl mt-6" />
+        </div>
+        <div className="bg-white rounded-2xl border border-zinc-200 p-6">
+          <div className="h-6 w-48 bg-zinc-200 rounded mb-4" />
+          {[1,2,3].map(i => (
+            <div key={i} className="h-8 bg-zinc-100 rounded-lg mb-3" />
+          ))}
         </div>
       </main>
     </div>

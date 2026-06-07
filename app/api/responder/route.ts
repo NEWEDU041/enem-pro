@@ -1,23 +1,18 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
+import { requireAuth } from '@/lib/auth'
+import { FREE_DAILY_LIMIT, isPro } from '@/lib/utils'
 
 export const dynamic = 'force-dynamic'
 
-const FREE_DAILY_LIMIT = 10
-
 export async function POST(request: NextRequest) {
+  const auth = await requireAuth(request)
+  if (!auth.ok) return auth.response
+  const { userId: user_id } = auth
   const supabase = createServerClient()
-
-  // Verify identity from JWT — never trust user_id from body
-  const authHeader = request.headers.get('authorization') || ''
-  const token = authHeader.replace(/^Bearer\s+/i, '')
-  if (!token) return NextResponse.json({ error: 'Não autenticado' }, { status: 401 })
-  const { data: { user }, error: authError } = await supabase.auth.getUser(token)
-  if (authError || !user) return NextResponse.json({ error: 'Token inválido' }, { status: 401 })
 
   const body = await request.json()
   const { question_id, selected_alternative, correct_alternative, discipline, year } = body
-  const user_id = user.id  // always from JWT, never from body
 
   if (!question_id || !selected_alternative) {
     return NextResponse.json({ error: 'Dados incompletos' }, { status: 400 })
@@ -25,20 +20,10 @@ export async function POST(request: NextRequest) {
 
   const today = new Date().toISOString().split('T')[0]
 
-  // Check subscription
-  const { data: sub } = await supabase
-    .from('subscriptions')
-    .select('plan, expires_at')
-    .eq('user_id', user_id)
-    .single()
+  const { data: sub } = await supabase.from('subscriptions').select('plan, expires_at').eq('user_id', user_id).single()
+  const userIsPro = isPro(sub)
 
-  const isPro =
-    sub?.plan === 'pro' &&
-    sub?.expires_at &&
-    new Date(sub.expires_at) > new Date()
-
-  // Check daily limit for free users
-  if (!isPro) {
+  if (!userIsPro) {
     const { data: usage } = await supabase
       .from('daily_usage')
       .select('count')
@@ -48,7 +33,7 @@ export async function POST(request: NextRequest) {
 
     const currentCount = usage?.count || 0
 
-    if (currentCount >= FREE_DAILY_LIMIT) {
+    if (currentCount >= FREE_DAILY_LIMIT) { // eslint-disable-line
       return NextResponse.json(
         { error: 'Limite diário atingido', limitReached: true },
         { status: 403 }
@@ -74,5 +59,5 @@ export async function POST(request: NextRequest) {
     year: year || null,
   })
 
-  return NextResponse.json({ is_correct, isPro })
+  return NextResponse.json({ is_correct, isPro: userIsPro })
 }

@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
 
-const inter = Inter({ subsets: ['latin'], display: 'swap' })
+const inter = Inter({ subsets: ['latin'], display: 'optional' })
 
 const siteUrl = 'https://enem-pro-eight.vercel.app'
 
@@ -34,6 +34,11 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="pt-BR" className="h-full">
+      <head>
+        <link rel="preconnect" href="https://api.enem.dev" />
+        <link rel="preconnect" href="https://lxlwajmzwvqwimuvvsrb.supabase.co" />
+        <link rel="dns-prefetch" href="https://api.enem.dev" />
+      </head>
       <body className={`${inter.className} min-h-full bg-zinc-50 text-zinc-900 antialiased`}>
         {children}
       </body>

@@ -1,56 +1,37 @@
 import { NextRequest, NextResponse } from 'next/server'
 import Anthropic from '@anthropic-ai/sdk'
 import { createServerClient } from '@/lib/supabase'
+import { requireAuth } from '@/lib/auth'
+import { cleanEnv, isPro, FREE_DAILY_EXPLANATIONS } from '@/lib/utils'
 
 export const dynamic = 'force-dynamic'
 
-function cleanEnv(val: string | undefined): string {
-  return (val || '').replace(new RegExp(String.fromCharCode(65279), 'g'), '').replace(/[\r\n]/g, '')
-}
-
 export async function POST(request: NextRequest) {
+  const auth = await requireAuth(request)
+  if (!auth.ok) return auth.response
+  const { userId } = auth
+
   const anthropic = new Anthropic({ apiKey: cleanEnv(process.env.ANTHROPIC_API_KEY) })
   const supabase = createServerClient()
-
-  // Verify identity from JWT — never trust user_id from body
-  const authHeader = request.headers.get('authorization') || ''
-  const token = authHeader.replace(/^Bearer\s+/i, '')
-  if (!token) {
-    return NextResponse.json({ error: 'Não autenticado' }, { status: 401 })
-  }
-  const { data: { user }, error: authError } = await supabase.auth.getUser(token)
-  if (authError || !user) {
-    return NextResponse.json({ error: 'Token inválido' }, { status: 401 })
-  }
 
   const body = await request.json()
   const { question_title, correct_alternative, alternatives, discipline, year } = body
 
-  // Verify plan
-  const { data: sub, error: subError } = await supabase
-    .from('subscriptions')
-    .select('plan, expires_at')
-    .eq('user_id', user.id)
-    .maybeSingle()
+  const { data: sub, error: subError } = await supabase.from('subscriptions').select('plan, expires_at').eq('user_id', userId).maybeSingle()
 
   if (subError) {
-    console.error('[explicar] sub lookup error:', subError.message, 'user_id:', user.id)
+    console.error('[explicar] sub lookup error:', subError.message, 'user_id:', userId)
     return NextResponse.json({ error: 'Erro ao verificar plano' }, { status: 500 })
   }
 
-  const isPro =
-    sub?.plan === 'pro' &&
-    sub?.expires_at &&
-    new Date(sub.expires_at) > new Date()
+  const userIsPro = isPro(sub)
 
-  const FREE_DAILY_EXPLANATIONS = 1
-
-  if (!isPro) {
+  if (!userIsPro) {
     const today = new Date().toISOString().split('T')[0]
     const { data: usage } = await supabase
       .from('daily_usage')
       .select('explanation_count')
-      .eq('user_id', user.id)
+      .eq('user_id', userId)
       .eq('date', today)
       .maybeSingle()
 
@@ -61,7 +42,7 @@ export async function POST(request: NextRequest) {
 
     // Increment free explanation counter
     await supabase.from('daily_usage').upsert(
-      { user_id: user.id, date: today, explanation_count: usedToday + 1 },
+      { user_id: userId, date: today, explanation_count: usedToday + 1 },
       { onConflict: 'user_id,date' }
     )
   }
