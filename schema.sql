@@ -162,6 +162,71 @@ create policy "service_inserts_redacoes" on redacao_submissions
 create index if not exists idx_redacao_user on redacao_submissions (user_id, submitted_at desc);
 
 -- ────────────────────────────────────────────────────────────
+-- REFERRAL CODE na tabela subscriptions
+-- ────────────────────────────────────────────────────────────
+alter table subscriptions add column if not exists referral_code text unique;
+
+-- Índice para lookup rápido por código
+create index if not exists idx_subscriptions_referral_code on subscriptions (referral_code);
+
+-- ────────────────────────────────────────────────────────────
+-- REFERRALS — rastreia indicações
+-- ────────────────────────────────────────────────────────────
+create table if not exists referrals (
+  referrer_id  uuid not null references auth.users on delete cascade,
+  referred_id  uuid not null references auth.users on delete cascade,
+  created_at   timestamptz not null default now(),
+  primary key (referred_id)
+);
+
+alter table referrals enable row level security;
+
+-- ────────────────────────────────────────────────────────────
+-- EMAIL DRIP LOG — evita envios duplicados
+-- ────────────────────────────────────────────────────────────
+create table if not exists email_drip_log (
+  user_id   uuid not null references auth.users on delete cascade,
+  drip_day  integer not null,
+  sent_at   timestamptz not null default now(),
+  primary key (user_id, drip_day)
+);
+
+alter table email_drip_log enable row level security;
+
+-- ────────────────────────────────────────────────────────────
+-- USER PROFILES — para cron de email drip sem auth admin API
+-- ────────────────────────────────────────────────────────────
+create table if not exists user_profiles (
+  user_id      uuid primary key references auth.users on delete cascade,
+  email        text not null,
+  name         text,
+  registered_at timestamptz not null default now()
+);
+
+alter table user_profiles enable row level security;
+
+drop policy if exists "users_read_own_profile" on user_profiles;
+create policy "users_read_own_profile" on user_profiles
+  for select using (auth.uid() = user_id);
+
+create or replace function handle_new_user_profile()
+returns trigger language plpgsql security definer set search_path = public as $$
+begin
+  if new.email is not null then
+    insert into public.user_profiles (user_id, email, name)
+    values (new.id, new.email, new.raw_user_meta_data->>'name')
+    on conflict (user_id) do nothing;
+  end if;
+  return new;
+end;
+$$;
+
+drop trigger if exists on_auth_user_created_profile on auth.users;
+create trigger on_auth_user_created_profile
+  after insert on auth.users
+  for each row execute procedure handle_new_user_profile();
+
+-- ────────────────────────────────────────────────────────────
 -- VERIFICAÇÃO FINAL
 -- ────────────────────────────────────────────────────────────
 -- Rodar após executar para confirmar:

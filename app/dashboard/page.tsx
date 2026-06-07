@@ -28,6 +28,12 @@ function DashboardContent() {
   const [isPro, setIsPro] = useState(false)
   const [loading, setLoading] = useState(true)
   const [upgradeSuccess] = useState(searchParams.get('upgrade') === 'success')
+  const [goal, setGoal] = useState<{ course: string; university: string; score: number } | null>(null)
+  const [editingGoal, setEditingGoal] = useState(false)
+  const [goalScore, setGoalScore] = useState(700)
+  const [referralCode, setReferralCode] = useState('')
+  const [referralCount, setReferralCount] = useState(0)
+  const [copied, setCopied] = useState(false)
 
   useEffect(() => {
     async function load() {
@@ -83,6 +89,44 @@ function DashboardContent() {
       const sub = subRes.data
       const pro = sub?.plan === 'pro' && sub?.expires_at && new Date(sub.expires_at) > new Date()
       setIsPro(!!pro)
+
+      // Gap 10 — load goal from user metadata
+      const meta = user.user_metadata || {}
+      if (meta.goal_course) {
+        const s = meta.goal_score || 700
+        setGoal({ course: meta.goal_course, university: meta.goal_university || '', score: s })
+        setGoalScore(s)
+      }
+
+      // Gap 12 — load referral code
+      fetch(`/api/referral?user_id=${user.id}`)
+        .then(r => r.json())
+        .then(d => { if (d.code) { setReferralCode(d.code); setReferralCount(d.total || 0) } })
+        .catch(() => {})
+
+      // Gap 8 — trigger D0 welcome email (only once)
+      if (!meta.email_drip_d0_sent) {
+        fetch('/api/email-drip', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ user_id: user.id, email: user.email, name: meta.name || '', drip_day: 0 }),
+        }).catch(() => {})
+        // Mark as triggered (optimistic — avoids second trigger)
+        supabase.auth.updateUser({ data: { email_drip_d0_sent: true } }).catch(() => {})
+      }
+
+      // Gap 12 — process ref code from localStorage (referred user)
+      const refCode = typeof window !== 'undefined' ? localStorage.getItem('enem_ref') : null
+      if (refCode && !meta.ref_processed) {
+        fetch('/api/referral', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ ref_code: refCode, referred_user_id: user.id }),
+        }).catch(() => {})
+        supabase.auth.updateUser({ data: { ref_processed: true } }).catch(() => {})
+        localStorage.removeItem('enem_ref')
+      }
+
       setLoading(false)
     }
     load()
@@ -91,6 +135,26 @@ function DashboardContent() {
   async function handleLogout() {
     await supabase.auth.signOut()
     router.push('/')
+  }
+
+  async function handleSaveGoal(e: React.FormEvent<HTMLFormElement>) {
+    e.preventDefault()
+    const fd = new FormData(e.currentTarget)
+    const g = {
+      course: fd.get('course') as string,
+      university: fd.get('university') as string,
+      score: goalScore,
+    }
+    await supabase.auth.updateUser({ data: { goal_course: g.course, goal_university: g.university, goal_score: g.score } })
+    setGoal(g)
+    setEditingGoal(false)
+  }
+
+  function copyReferral() {
+    const siteUrl = window.location.origin
+    navigator.clipboard.writeText(`${siteUrl}/r/${referralCode}`)
+    setCopied(true)
+    setTimeout(() => setCopied(false), 2000)
   }
 
   if (loading) return <DashboardSkeleton />
@@ -227,6 +291,109 @@ function DashboardContent() {
                   <span className="text-indigo-500 text-xs">Revisar →</span>
                 </Link>
               ))}
+            </div>
+          </div>
+        )}
+
+        {/* Gap 10 — Meta de aprovação */}
+        <div className="bg-white rounded-2xl border border-zinc-200 p-6 mb-6">
+          {!goal || editingGoal ? (
+            <>
+              <h2 className="text-lg font-bold mb-1">
+                {goal ? 'Editar meta' : 'Defina sua meta de aprovação'}
+              </h2>
+              <p className="text-zinc-500 text-sm mb-4">
+                Qual curso e universidade você quer entrar? A meta muda tudo.
+              </p>
+              <form onSubmit={handleSaveGoal} className="space-y-3">
+                <div className="grid md:grid-cols-2 gap-3">
+                  <div>
+                    <label className="block text-xs font-medium text-zinc-600 mb-1">Curso</label>
+                    <select name="course" defaultValue={goal?.course || ''} required
+                      className="w-full border border-zinc-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500">
+                      <option value="">Selecione</option>
+                      {['Medicina','Direito','Engenharia','Odontologia','Psicologia','Administração','Arquitetura','Enfermagem','Farmácia','Pedagogia','Outro'].map(c => (
+                        <option key={c} value={c}>{c}</option>
+                      ))}
+                    </select>
+                  </div>
+                  <div>
+                    <label className="block text-xs font-medium text-zinc-600 mb-1">Universidade</label>
+                    <input type="text" name="university" defaultValue={goal?.university || ''}
+                      placeholder="ex: USP, UFMG, UNICAMP..."
+                      className="w-full border border-zinc-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500" />
+                  </div>
+                </div>
+                <div>
+                  <label className="block text-xs font-medium text-zinc-600 mb-1">
+                    Nota alvo (média das 5 provas): <strong className="text-indigo-600">{goalScore}</strong>
+                  </label>
+                  <input type="range" name="score" min={500} max={950} step={10}
+                    value={goalScore}
+                    onChange={e => setGoalScore(Number(e.target.value))}
+                    className="w-full accent-indigo-600" />
+                  <div className="flex justify-between text-xs text-zinc-400 mt-1">
+                    <span>500</span><span>700</span><span>950</span>
+                  </div>
+                </div>
+                <div className="flex gap-2">
+                  <button type="submit"
+                    className="bg-indigo-600 text-white px-5 py-2 rounded-lg text-sm font-semibold hover:bg-indigo-700">
+                    Salvar meta
+                  </button>
+                  {goal && (
+                    <button type="button" onClick={() => setEditingGoal(false)}
+                      className="text-zinc-500 text-sm px-4 py-2 rounded-lg hover:bg-zinc-100">
+                      Cancelar
+                    </button>
+                  )}
+                </div>
+              </form>
+            </>
+          ) : (
+            <div className="flex items-center justify-between gap-4">
+              <div>
+                <div className="text-xs text-zinc-400 uppercase tracking-wide mb-1">Minha meta</div>
+                <div className="font-bold text-zinc-900 text-lg">
+                  {goal.course}{goal.university ? ` — ${goal.university}` : ''}
+                </div>
+                <div className="text-zinc-500 text-sm mt-0.5">
+                  Nota alvo: <span className="font-semibold text-indigo-600">{goal.score} pts</span>
+                  {stats.total > 0 && (
+                    <span className="ml-2 text-zinc-400">
+                      · Taxa atual: {Math.round((stats.correct / stats.total) * 1000)}pts TRI estimado
+                    </span>
+                  )}
+                </div>
+              </div>
+              <button onClick={() => setEditingGoal(true)}
+                className="text-xs text-zinc-400 hover:text-zinc-700 underline shrink-0">
+                Editar
+              </button>
+            </div>
+          )}
+        </div>
+
+        {/* Gap 12 — Referral */}
+        {referralCode && (
+          <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-2xl p-6 mb-6">
+            <div className="flex items-start justify-between gap-4">
+              <div className="flex-1 min-w-0">
+                <h2 className="font-bold text-zinc-900 mb-1">Indique um amigo — ambos ganham 7 dias Pro</h2>
+                <p className="text-zinc-500 text-sm mb-3">
+                  Compartilhe seu link. Quando o amigo criar conta, você ganha 7 dias de Pro grátis.
+                  {referralCount > 0 && <span className="ml-1 text-indigo-600 font-semibold">{referralCount} indicados até agora.</span>}
+                </p>
+                <div className="flex items-center gap-2 bg-white border border-zinc-200 rounded-lg px-3 py-2 max-w-sm">
+                  <span className="text-xs text-zinc-600 truncate flex-1">
+                    {typeof window !== 'undefined' ? window.location.origin : 'https://enem-pro-eight.vercel.app'}/r/{referralCode}
+                  </span>
+                  <button onClick={copyReferral}
+                    className="shrink-0 text-xs font-semibold text-indigo-600 hover:text-indigo-800">
+                    {copied ? 'Copiado!' : 'Copiar'}
+                  </button>
+                </div>
+              </div>
             </div>
           </div>
         )}
