@@ -29,7 +29,7 @@ export async function POST(request: NextRequest) {
       .select('count')
       .eq('user_id', user_id)
       .eq('date', today)
-      .single()
+      .maybeSingle()
 
     const currentCount = usage?.count || 0
 

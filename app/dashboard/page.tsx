@@ -7,8 +7,7 @@ import { createBrowserClient } from '@/lib/supabase'
 
 const supabase = createBrowserClient()
 import { DISCIPLINES, YEARS } from '@/lib/enem-api'
-
-const FREE_DAILY_LIMIT = 10
+import { FREE_DAILY_LIMIT } from '@/lib/utils'
 
 export default function DashboardPage() {
   return (
@@ -39,13 +38,14 @@ function DashboardContent() {
       const today = new Date().toISOString().split('T')[0]
 
       const [answersRes, usageRes, subRes] = await Promise.all([
-        supabase.from('user_answers').select('is_correct, discipline, year, question_id, answered_at').eq('user_id', user.id).order('answered_at', { ascending: false }),
-        supabase.from('daily_usage').select('count').eq('user_id', user.id).eq('date', today).single(),
-        supabase.from('subscriptions').select('plan, expires_at').eq('user_id', user.id).single(),
+        supabase.from('user_answers').select('is_correct, discipline, year, question_id, answered_at').eq('user_id', user.id).order('answered_at', { ascending: false }).limit(500),
+        supabase.from('daily_usage').select('count').eq('user_id', user.id).eq('date', today).maybeSingle(),
+        supabase.from('subscriptions').select('plan, expires_at').eq('user_id', user.id).maybeSingle(),
       ])
 
-      const answers = answersRes.data || []
-      const correct = answers.filter((a: { is_correct: boolean }) => a.is_correct).length
+      type Answer = { is_correct: boolean; discipline: string; year: number; question_id: string; answered_at: string }
+      const answers: Answer[] = answersRes.data || []
+      const correct = answers.filter((a) => a.is_correct).length
       const todayCount = usageRes.data?.count || 0
 
       // Breakdown por disciplina
@@ -58,8 +58,7 @@ function DashboardContent() {
       }
       setDiscStats(Object.entries(byDisc).map(([discipline, s]) => ({ discipline, ...s })).sort((a, b) => b.total - a.total))
 
-      // Últimas 5 erradas com discipline+year
-      const wrong = answers.filter((a: { is_correct: boolean; discipline: string; year: number }) => !a.is_correct && a.discipline && a.year).slice(0, 5)
+      const wrong = answers.filter((a) => !a.is_correct && a.discipline && a.year).slice(0, 5)
       setRecentWrong(wrong)
 
       const sub = subRes.data
