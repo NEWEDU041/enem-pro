@@ -82,12 +82,12 @@ export async function POST(request: NextRequest) {
     }],
   })
 
-  // Fire-and-forget: save submission
-  supabase.from('redacao_submissions').insert({
+  // Fire-and-forget: save submission (void discards the PromiseLike)
+  void supabase.from('redacao_submissions').insert({
     user_id: userId,
     tema: tema?.trim() ?? '',
     texto: texto.trim(),
-  }).then(() => {}).catch(() => {})
+  })
 
   const enc = new TextEncoder()
   const readable = new ReadableStream({
