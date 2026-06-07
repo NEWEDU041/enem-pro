@@ -17,16 +17,6 @@ const DISCIPLINE_TO_SLUG: Record<string, string> = Object.fromEntries(
 
 const VALID_YEARS = [2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
 
-export async function generateStaticParams() {
-  const params = []
-  for (const discipline of Object.keys(SLUG_TO_DISCIPLINE)) {
-    for (const year of VALID_YEARS) {
-      params.push({ discipline, year: String(year) })
-    }
-  }
-  return params
-}
-
 export async function generateMetadata({ params }: { params: Promise<{ discipline: string; year: string }> }): Promise<Metadata> {
   const { discipline, year } = await params
   const disc = SLUG_TO_DISCIPLINE[discipline]
