@@ -54,12 +54,15 @@ export async function POST(request: NextRequest) {
     if (!userId) return NextResponse.json({ ok: true })
 
     const isActive = sub.status === 'active' || sub.status === 'trialing'
-    if (isActive && sub.current_period_end) {
+    if (isActive) {
+      // Detect plan duration from price interval
+      const interval = sub.items?.data?.[0]?.price?.recurring?.interval
+      const months = interval === 'year' ? 12 : 1
       await supabase.from('subscriptions').upsert(
         {
           user_id: userId,
           plan: 'pro',
-          expires_at: new Date(sub.current_period_end * 1000).toISOString(),
+          expires_at: addMonths(months),
           stripe_subscription_id: sub.id,
           updated_at: new Date().toISOString(),
         },
