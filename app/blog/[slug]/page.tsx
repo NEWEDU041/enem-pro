@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import type { ReactNode } from 'react'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { getPost, getAllSlugs, BLOG_POSTS } from '@/lib/blog-data'
+import { getPost, getAllSlugs, getAllPosts } from '@/lib/blog-data'
 
 export const dynamic = 'force-dynamic'
 
