@@ -8,7 +8,7 @@ export async function GET(request: NextRequest) {
   const year = parseInt(searchParams.get('year') || '2023')
   const discipline = searchParams.get('discipline') || ''
   const page = parseInt(searchParams.get('page') || '1')
-  const limit = 20
+  const limit = Math.min(parseInt(searchParams.get('limit') || '20'), 50)
 
   try {
     let questions = await fetchQuestionsByYear(year)

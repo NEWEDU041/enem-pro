@@ -125,6 +125,26 @@ function DashboardContent() {
           <StatCard label="Hoje" value={isPro ? `${stats.today}` : `${stats.today}/${FREE_DAILY_LIMIT}`} />
         </div>
 
+        {/* Quick access — Simulado e Redação */}
+        <div className="grid md:grid-cols-2 gap-4 mb-8">
+          <Link href="/simulado" className="bg-white rounded-2xl border border-zinc-200 p-6 hover:border-indigo-400 hover:shadow-sm transition-all flex items-center gap-4">
+            <div className="text-3xl">⏱</div>
+            <div className="min-w-0">
+              <div className="font-bold text-zinc-900">Modo Simulado</div>
+              <div className="text-sm text-zinc-500">10/20/45 questões com timer + relatório</div>
+            </div>
+            <span className="ml-auto text-zinc-300 text-lg shrink-0">→</span>
+          </Link>
+          <Link href="/redacao" className="bg-white rounded-2xl border border-zinc-200 p-6 hover:border-indigo-400 hover:shadow-sm transition-all flex items-center gap-4">
+            <div className="text-3xl">📝</div>
+            <div className="min-w-0">
+              <div className="font-bold text-zinc-900">Correção de Redação IA</div>
+              <div className="text-sm text-zinc-500">5 competências INEP — nota 0 a 1000</div>
+            </div>
+            <span className="ml-auto text-zinc-300 text-lg shrink-0">→</span>
+          </Link>
+        </div>
+
         {/* Quick start */}
         <div className="bg-white rounded-2xl border border-zinc-200 p-8 mb-8">
           <h2 className="text-xl font-bold mb-6">Estudar agora</h2>

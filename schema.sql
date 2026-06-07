@@ -140,6 +140,27 @@ create trigger subscriptions_updated_at
   before update on subscriptions
   for each row execute procedure set_updated_at();
 
+-- Redações enviadas para correção por IA
+create table if not exists redacao_submissions (
+  id           uuid not null default gen_random_uuid() primary key,
+  user_id      uuid not null references auth.users on delete cascade,
+  tema         text not null default '',
+  texto        text not null,
+  submitted_at timestamptz not null default now()
+);
+
+alter table redacao_submissions enable row level security;
+
+drop policy if exists "users_read_own_redacoes" on redacao_submissions;
+create policy "users_read_own_redacoes" on redacao_submissions
+  for select using (auth.uid() = user_id);
+
+drop policy if exists "service_inserts_redacoes" on redacao_submissions;
+create policy "service_inserts_redacoes" on redacao_submissions
+  for insert with check (auth.uid() = user_id);
+
+create index if not exists idx_redacao_user on redacao_submissions (user_id, submitted_at desc);
+
 -- ────────────────────────────────────────────────────────────
 -- VERIFICAÇÃO FINAL
 -- ────────────────────────────────────────────────────────────
