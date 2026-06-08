@@ -62,7 +62,7 @@ export default function QuestaoDoDialPage() {
         <div className="bg-white rounded-2xl border border-zinc-200 p-5 mb-6">
           <h2 className="font-bold text-zinc-900 mb-3">Por que praticar todo dia?</h2>
           <div className="space-y-2 text-sm text-zinc-600">
-            <p><strong>Consistência > Intensidade.</strong> 1 questão por dia durante 6 meses = 180 questões. Um fim de semana de maratona dificilmente chega a isso — e a retenção é muito menor.</p>
+            <p><strong>Consistência {'>'} Intensidade.</strong> 1 questão por dia durante 6 meses = 180 questões. Um fim de semana de maratona dificilmente chega a isso — e a retenção é muito menor.</p>
             <p>A questão do dia alterna entre as 4 disciplinas automaticamente, garantindo que você não negligencie nenhuma área ao longo do tempo.</p>
             <p>Criar uma conta grátis dá acesso a <strong>10 questões por dia</strong> com registro de desempenho, modo revisão e explicação de IA para cada erro.</p>
           </div>
