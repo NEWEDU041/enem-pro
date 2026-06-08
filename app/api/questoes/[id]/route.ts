@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { fetchSingleQuestion } from '@/lib/enem-api'
+import { fetchSingleQuestionCached } from '@/lib/questions-cache'
 
 export const dynamic = 'force-dynamic'
 
@@ -14,7 +14,7 @@ export async function GET(
   const index = parseInt(parts[1])
 
   try {
-    const question = await fetchSingleQuestion(year, index)
+    const question = await fetchSingleQuestionCached(year, index)
     return NextResponse.json({ question })
   } catch {
     return NextResponse.json({ question: null }, { status: 404 })

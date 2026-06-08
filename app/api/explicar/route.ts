@@ -3,6 +3,7 @@ import Anthropic from '@anthropic-ai/sdk'
 import { createServerClient } from '@/lib/supabase'
 import { requireAuth } from '@/lib/auth'
 import { cleanEnv, isPro, FREE_DAILY_EXPLANATIONS } from '@/lib/utils'
+import { checkRateLimit } from '@/lib/rate-limit'
 
 export const dynamic = 'force-dynamic'
 
@@ -10,6 +11,14 @@ export async function POST(request: NextRequest) {
   const auth = await requireAuth(request)
   if (!auth.ok) return auth.response
   const { userId } = auth
+
+  const rl = checkRateLimit(userId)
+  if (!rl.ok) {
+    return NextResponse.json(
+      { error: 'Muitas requisições. Aguarde alguns segundos.' },
+      { status: 429, headers: { 'Retry-After': String(Math.ceil(rl.retryAfterMs / 1000)) } }
+    )
+  }
 
   const anthropic = new Anthropic({ apiKey: cleanEnv(process.env.ANTHROPIC_API_KEY) })
   const supabase = createServerClient()

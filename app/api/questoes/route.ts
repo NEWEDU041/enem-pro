@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { fetchQuestionsByYear } from '@/lib/enem-api'
+import { fetchQuestionsByYearCached as fetchQuestionsByYear } from '@/lib/questions-cache'
 
 export const dynamic = 'force-dynamic'
 
