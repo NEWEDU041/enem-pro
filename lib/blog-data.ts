@@ -1336,6 +1336,632 @@ Para 45 questões em 5 horas (300 minutos), você tem ~6 minutos por questão. N
 Pratique Matemática com as questões reais do ENEM 2009–2024. O ENEM Pro mostra onde você erra e explica o raciocínio correto com IA.
     `,
   },
+  {
+    slug: 'fisica-enem-o-que-cai',
+    title: 'Física no ENEM — O que Cai, Temas e Estratégia 2026',
+    description: 'Descubra o que cai em Física no ENEM: mecânica, eletricidade, termodinâmica, óptica e física moderna. Estratégia completa para 2026.',
+    date: '2026-03-10',
+    readTime: 8,
+    content: `
+Física é uma das matérias que mais assusta candidatos, mas no ENEM ela tem uma característica que facilita: **sempre é contextualizada**. Não existe questão de Física "solta" — toda questão traz uma situação real.
+
+## Quantas questões de Física caem?
+
+A prova de Ciências da Natureza tem 45 questões divididas entre Física, Química e Biologia. Historicamente, Física responde por **15–18 questões** (33–40% da prova).
+
+## O que cai em Física no ENEM — Por frequência
+
+### 1. Mecânica (10–12 questões)
+O maior bloco. Inclui:
+- **Cinemática:** velocidade média, aceleração, gráficos
+- **Dinâmica:** Leis de Newton aplicadas (força, atrito, tensão)
+- **Energia:** trabalho, potência, conservação de energia
+- **Gravitação:** força gravitacional, órbitas, satélites
+
+### 2. Eletricidade (3–5 questões)
+- Circuitos elétricos em série e paralelo
+- Potência elétrica e consumo (kWh)
+- Campo e força elétrica
+- Resistência elétrica e Lei de Ohm
+
+### 3. Termodinâmica e Calor (2–3 questões)
+- Leis da termodinâmica
+- Calor específico e variação de temperatura
+- Dilatação térmica
+- Máquinas térmicas e eficiência
+
+### 4. Ondas e Óptica (2–3 questões)
+- Reflexão e refração
+- Lentes e espelhos (formação de imagem)
+- Fenômenos ondulatórios (difração, interferência)
+- Espectro eletromagnético
+
+### 5. Física Moderna (1–2 questões)
+- Efeito fotoelétrico
+- Radioatividade e decaimento
+- Relatividade (tempo, comprimento)
+- Física nuclear
+
+## Estratégia para Física no ENEM
+
+**Regra 1: Leia o enunciado com atenção**
+O ENEM embute a fórmula ou os dados necessários no próprio enunciado. Candidatos que pulam o texto perdem pontos gratuitos.
+
+**Regra 2: Não memorize — entenda**
+O ENEM fornece tabelas de constantes físicas. Você não precisa decorar a velocidade da luz ou a carga do elétron — mas precisa saber *quando* usá-las.
+
+**Regra 3: Analise a grandeza pedida**
+Antes de calcular qualquer coisa, identifique: o que a questão pede? Aceleração? Potência? Eficiência? Isso evita 80% dos erros.
+
+**Regra 4: Verifique as unidades**
+Uma questão de Física com resposta em unidade errada está errada. A análise dimensional é sua melhor aliada.
+
+## Os erros mais comuns em Física no ENEM
+
+1. Confundir velocidade com aceleração
+2. Esquecer de converter unidades (km/h → m/s, g → kg)
+3. Misturar massa com peso
+4. Não aplicar a fórmula correta para o contexto (ex: usar v médio onde precisa de v instantânea)
+
+---
+
+Pratique questões reais de Física com o ENEM Pro. Veja onde você erra e receba explicação detalhada da IA para cada questão — 10 grátis por dia.
+    `,
+  },
+  {
+    slug: 'quimica-enem-o-que-cai',
+    title: 'Química no ENEM — O que Cai, Temas e Estratégia 2026',
+    description: 'O que cai em Química no ENEM: química orgânica, estequiometria, soluções, termoquímica e eletroquímica. Guia completo com estratégia.',
+    date: '2026-03-12',
+    readTime: 8,
+    content: `
+Química é responsável por cerca de **15–17 questões** na prova de Ciências da Natureza do ENEM. A boa notícia: o ENEM cobra aplicações do cotidiano, não decoreba de fórmulas.
+
+## O que cai em Química no ENEM — Por frequência
+
+### 1. Química Orgânica (5–7 questões)
+O maior bloco de Química no ENEM.
+- Funções orgânicas (álcool, ácido carboxílico, éster, amina, aldéido, cetona)
+- Reações: adição, eliminação, substituição, polimerização
+- Polímeros naturais e sintéticos (plástico, borracha, fibras)
+- Isomeria (plana e espacial)
+
+### 2. Estequiometria (3–4 questões)
+- Balanceamento de equações químicas
+- Proporções em mol
+- Pureza e rendimento
+- Cálculos com massa e volume
+
+### 3. Soluções (2–3 questões)
+- Concentração molar e em g/L
+- Diluição e mistura de soluções
+- pH e pOH (ácidos e bases)
+- Soluções-tampão
+
+### 4. Termoquímica e Cinética (2–3 questões)
+- Entalpia de formação e reação
+- Lei de Hess
+- Velocidade de reação e fatores (temperatura, catalisador)
+- Equilíbrio químico (Le Chatelier)
+
+### 5. Eletroquímica (1–2 questões)
+- Pilhas e baterias (força eletromotriz)
+- Eletrólise
+- Proteção catódica e corrosão
+
+### 6. Química Ambiental (1–2 questões)
+- Chuva ácida, camada de ozônio, efeito estufa
+- Tratamento de água e esgoto
+- Poluição e resíduos tóxicos
+
+## Estratégia para Química no ENEM
+
+**Foque em Química Orgânica** — é o maior bloco e tem padrão de cobrança previsível. Aprenda identificar funções orgânicas pelo sufixo: -ol (álcool), -al (aldeído), -ona (cetona), -oato (éster).
+
+**Estequiometria é mecânica** — com prática, vira questão garantida. Treine balancear e converter mol ↔ gramas ↔ litros (nas CNTP).
+
+**Contexto ambiental é frequente** — questões sobre poluição, combustíveis, biocombustíveis e sustentabilidade aparecem todo ano.
+
+## Dica de ouro: fórmulas no enunciado
+
+O ENEM frequentemente fornece a equação química ou a fórmula estrutural no próprio enunciado. Leia o texto completo antes de tentar resolver.
+
+---
+
+Pratique Química com questões reais do ENEM 2009–2024 no ENEM Pro. IA explica cada erro com o raciocínio correto.
+    `,
+  },
+  {
+    slug: 'biologia-enem-o-que-cai',
+    title: 'Biologia no ENEM — O que Cai, Temas e Estratégia 2026',
+    description: 'O que cai em Biologia no ENEM: ecologia, genética, evolução, citologia, biotecnologia e fisiologia humana. Guia com estratégia para 2026.',
+    date: '2026-03-14',
+    readTime: 8,
+    content: `
+Biologia é a disciplina com **mais questões** em Ciências da Natureza no ENEM: em média **17–20 questões** por prova. É também a com maior cobertura de temas atuais como biotecnologia e saúde pública.
+
+## O que cai em Biologia no ENEM — Por frequência
+
+### 1. Ecologia e Biomas (4–6 questões)
+- Cadeia e teia alimentar
+- Ciclos biogeoquímicos (carbono, nitrogênio, água)
+- Biomas brasileiros: Cerrado, Amazônia, Caatinga, Mata Atlântica, Pampa, Pantanal
+- Impactos ambientais e sustentabilidade
+- Relações ecológicas (simbiose, predatismo, comensalismo)
+
+### 2. Genética (3–5 questões)
+- Herança mendeliana (1ª e 2ª Leis de Mendel)
+- Herança ligada ao sexo (daltinismo, hemofilia)
+- Mutações e doenças genéticas
+- DNA, RNA e síntese proteica
+- Engenharia genética e biotecnologia
+
+### 3. Evolução (2–3 questões)
+- Darwin e seleção natural
+- Especiação e isolamento reprodutivo
+- Evidências da evolução (fósseis, anatomia comparada)
+- Evolução humana
+
+### 4. Fisiologia Humana (3–5 questões)
+- Sistema cardiovascular e respiratório
+- Sistema nervoso e endócrino
+- Digestão e metabolismo
+- Sistema imunológico e vacinas
+- Doenças infecciosas e transmissão
+
+### 5. Citologia (2–3 questões)
+- Estrutura celular (organelas e funções)
+- Mitose e meiose
+- Metabolismo celular (respiração e fotossíntese)
+- Divisão celular e câncer
+
+### 6. Botânica (1–2 questões)
+- Grupos vegetais (briófitas, pteridófitas, gimnospermas, angiospermas)
+- Fotossíntese e respiração vegetal
+- Reprodução vegetal
+
+## Estratégia para Biologia no ENEM
+
+**Prioridade máxima: Ecologia e Genética** — juntas respondem por 50% das questões de Biologia.
+
+**Biomas brasileiros são garantia de questão** — saiba as características, espécies típicas e ameaças de cada bioma.
+
+**Biotecnologia e saúde pública crescem a cada edição** — DNA recombinante, vacinas de mRNA, CRISPR, epidemias. O ENEM valoriza temas contemporâneos.
+
+**Gráficos e tabelas** — Biologia usa muito dados (crescimento populacional, curvas de sobrevivência). Pratique interpretação.
+
+---
+
+Pratique Biologia com questões reais ENEM 2009–2024. Entenda cada erro com explicação da IA.
+    `,
+  },
+  {
+    slug: 'historia-enem-o-que-cai',
+    title: 'História no ENEM — O que Cai, Temas e Estratégia 2026',
+    description: 'O que cai em História no ENEM: Brasil República, ditadura militar, guerras mundiais, Revolução Francesa e história contemporânea.',
+    date: '2026-03-16',
+    readTime: 7,
+    content: `
+História é parte da prova de Ciências Humanas do ENEM — que engloba também Geografia, Filosofia e Sociologia em 45 questões. História responde por cerca de **12–16 questões** por prova.
+
+## O que cai em História no ENEM — Por frequência
+
+### 1. Brasil República e Contemporâneo (5–7 questões)
+O maior bloco de História no ENEM.
+- República Velha e coronelismo
+- Era Vargas (1930–1945 e 1950–1954)
+- Populismo e desenvolvimentismo (JK, João Goulart)
+- Ditadura Militar (1964–1985): AI-5, tortura, anistia
+- Redemocratização e Constituição de 1988
+
+### 2. Brasil Colonial e Imperial (2–3 questões)
+- Colonização portuguesa e resistência indígena
+- Escravidão africana e quilombos
+- Independência do Brasil (1822)
+- Segundo Reinado e abolição (1888)
+
+### 3. Segunda Guerra Mundial e Nazismo (2–3 questões)
+- Ascensão do nazismo e fascismo
+- Holocausto e totalitarismo
+- Consequências e ordem pós-guerra
+- ONU e Declaração dos Direitos Humanos (1948)
+
+### 4. Revolução Francesa e Iluminismo (1–2 questões)
+- Ideais iluministas (liberdade, igualdade, fraternidade)
+- Revolução Francesa (1789): causas e desdobramentos
+- Napoleão e expansão do liberalismo
+
+### 5. Guerra Fria e Geopolítica (2–3 questões)
+- EUA vs URSS: corrida armamentista e espacial
+- Guerras da Coreia e do Vietnã
+- Queda do Muro de Berlim (1989)
+- Novas potências emergentes: China, BRICS
+
+### 6. Descolonização e Africa (1–2 questões)
+- Descolonização da África e Ásia (pós-1945)
+- Apartheid na África do Sul
+- Movimentos de direitos civis (Martin Luther King)
+
+## Estratégia para História no ENEM
+
+**O ENEM cobra interpretação, não memorização de datas** — toda questão de História vem com fonte primária (documento, imagem, charge, mapa). A resposta está no texto.
+
+**Ditadura Militar é presença garantida** — censura, AI-5, guerrilha, anistia. Saiba as etapas do regime (1964, 1968, 1979, 1985).
+
+**Conecte História com atualidades** — o ENEM valoriza questões que relacionam passado e presente (ex: nazismo e extremismos atuais).
+
+**Não decore datas isoladas** — entenda *por que* cada evento aconteceu e quais foram as consequências.
+
+---
+
+Pratique questões reais de Ciências Humanas no ENEM Pro. 10 questões por dia grátis — sem cartão de crédito.
+    `,
+  },
+  {
+    slug: 'geografia-enem-o-que-cai',
+    title: 'Geografia no ENEM — O que Cai, Temas e Estratégia 2026',
+    description: 'O que cai em Geografia no ENEM: biomas, cartografia, urbanização, geopolítica, globalização e questões ambientais. Guia 2026.',
+    date: '2026-03-18',
+    readTime: 7,
+    content: `
+Geografia é parte da prova de Ciências Humanas do ENEM, respondendo por cerca de **12–15 questões** por prova. É uma das disciplinas com maior presença de mapas, gráficos e imagens de satélite.
+
+## O que cai em Geografia no ENEM — Por frequência
+
+### 1. Biomas e Questões Ambientais (3–5 questões)
+- Biomas brasileiros (Amazônia, Cerrado, Caatinga, Mata Atlântica)
+- Desmatamento e degradação ambiental
+- Aquecimento global e mudanças climáticas
+- Energia renovável vs. combustíveis fósseis
+- COP, Protocolo de Kyoto, Acordo de Paris
+
+### 2. Cartografia e Leitura de Mapas (2–3 questões)
+- Projeções cartográficas (Mercator, Peters)
+- Escalas e coordenadas geográficas
+- Fusos horários
+- Leitura de mapas temáticos (população, clima, vegetação)
+
+### 3. Urbanização e Metropolização (2–3 questões)
+- Urbanização brasileira: histórico e regiões metropolitanas
+- Favelização e segregação socioespacial
+- Mobilidade urbana e transporte
+- Metrópoles globais e hierarquia urbana
+
+### 4. Geopolítica e Relações Internacionais (2–3 questões)
+- Blocos econômicos (Mercosul, UE, NAFTA/USMCA)
+- Conflitos territoriais e recursos estratégicos
+- Refugiados e migrações internacionais
+- Ascensão da China e multipolaridade
+
+### 5. Agropecuária e Recursos Naturais (1–2 questões)
+- Agronegócio brasileiro no mundo
+- Reforma agrária e conflitos no campo
+- Petróleo, gás e geopolítica energética
+- Recursos hídricos e disputas pela água
+
+### 6. Clima e Hidrografia (1–2 questões)
+- Tipos de clima no Brasil (tropical, equatorial, semiárido)
+- Bacias hidrográficas brasileiras
+- El Niño, La Niña e variações climáticas
+
+## Estratégia para Geografia no ENEM
+
+**Mapa é garantia de questão** — pratique localizar biomas, países, bacias hidrográficas e regiões brasileiras.
+
+**Questões ambientais crescem a cada edição** — Amazônia, queimadas, acordos climáticos, energia solar e eólica.
+
+**Geopolítica atual** — acompanhe conflitos e acordos internacionais recentes. O ENEM valoriza conexão com a atualidade.
+
+**Urbanização** — conheça as características das principais metrópoles brasileiras e o processo de favelização.
+
+---
+
+Pratique questões reais de Geografia no ENEM Pro. 10 questões grátis por dia com explicação de IA.
+    `,
+  },
+  {
+    slug: 'nota-de-corte-engenharia-enem',
+    title: 'Nota de Corte para Engenharia no ENEM — SISU 2026 por Universidade',
+    description: 'Nota de corte para Engenharia pelo SISU 2026: Civil, Elétrica, Mecânica, Computação. Veja as médias por universidade e como se preparar.',
+    date: '2026-04-05',
+    readTime: 6,
+    content: `
+Engenharia é um dos cursos mais disputados no SISU. As notas de corte variam muito dependendo da área da engenharia, da universidade e do turno.
+
+## Notas de Corte por Área de Engenharia (referência histórica SISU)
+
+| Curso | Universidade | Nota de Corte Estimada |
+|-------|-------------|----------------------|
+| Engenharia Civil | UFMG | 700–730 |
+| Engenharia Elétrica | USP | 730–760 |
+| Engenharia Mecânica | UNICAMP | 720–750 |
+| Eng. de Computação | USP | 740–770 |
+| Engenharia Civil | UFRJ | 680–710 |
+| Engenharia Civil | UFC | 640–670 |
+| Engenharia de Produção | UFPE | 630–660 |
+| Engenharia Civil | UFBA | 610–650 |
+| Eng. Ambiental | UFF | 600–630 |
+
+*Valores baseados no histórico do SISU 2023–2025. Consulte o edital oficial para 2026.*
+
+## Como o SISU Calcula a Nota?
+
+O SISU usa a **média aritmética** das 5 notas do ENEM. Alguns cursos de Engenharia aplicam pesos diferentes para cada disciplina:
+
+- **Matemática:** costuma ter peso maior (1,5–2,0x)
+- **Ciências da Natureza:** peso alto (1,5x)
+- **Linguagens:** peso menor (0,5–1,0x)
+- **Ciências Humanas:** peso menor
+- **Redação:** peso variável
+
+Verifique os pesos específicos de cada curso no edital do SISU 2026.
+
+## Qual Nota Preciso?
+
+Para as engenharias mais concorridas (Computação, Elétrica, Mecânica nas melhores federais), a nota media gira em torno de **700–770 pontos**.
+
+Para engenharias nas federais regionais (Norte, Nordeste, Centro-Oeste), a faixa é **600–680 pontos**.
+
+## Disciplinas Críticas para Engenharia
+
+**Matemática é determinante** — Na maioria das engenharias, Matemática tem o maior peso. Cada ponto a mais em Matemática vale mais do que na Redação.
+
+**Ciências da Natureza** — Física e Química são fundamentais. Candidatos a Engenharia devem gastar mais tempo aqui.
+
+**Redação** — Não negligencie. Uma redação baixa (abaixo de 500) derruba sua média mesmo com boas notas nas objetivas.
+
+## Estratégia para Atingir a Nota
+
+1. **Foque em Matemática** — É onde candidatos à Engenharia perdem mais pontos por descuido
+2. **Não abandone a Redação** — Mire 700+ para não prejudicar a média
+3. **Pratique questões contextualizadas** — O ENEM não pede cálculo puro, pede raciocínio
+
+---
+
+Pratique questões de Matemática e Ciências da Natureza no ENEM Pro. Foco nos conteúdos mais cobrados em Engenharia.
+    `,
+  },
+  {
+    slug: 'nota-de-corte-direito-enem',
+    title: 'Nota de Corte para Direito no ENEM — SISU 2026 por Universidade',
+    description: 'Nota de corte para Direito pelo SISU 2026. Veja as médias por universidade federal, pesos das disciplinas e como aumentar sua nota.',
+    date: '2026-04-07',
+    readTime: 6,
+    content: `
+Direito é um dos cursos mais concorridos do SISU. Em universidades de prestígio, a nota de corte supera 700 pontos — exigindo desempenho equilibrado em todas as disciplinas.
+
+## Notas de Corte para Direito (referência histórica SISU)
+
+| Universidade | Turno | Nota de Corte Estimada |
+|-------------|-------|----------------------|
+| USP (diurno) | Manhã | 730–760 |
+| UFMG | Manhã | 710–740 |
+| UFRJ | Manhã | 695–720 |
+| UFPR | Manhã | 680–710 |
+| UFF | Noite | 665–690 |
+| UFPE | Manhã | 650–680 |
+| UFC | Manhã | 640–670 |
+| UFBA | Manhã | 625–655 |
+| UFPA | Manhã | 590–620 |
+
+*Valores de referência histórica. Consulte o edital oficial do SISU 2026.*
+
+## Pesos das Disciplinas em Direito
+
+Diferente de Engenharia, Direito costuma aplicar pesos maiores para:
+- **Linguagens e Códigos:** peso alto (1,5–2,0x em muitos cursos)
+- **Ciências Humanas:** peso alto (1,5x)
+- **Redação:** peso significativo (1,0–1,5x)
+
+Verifique os pesos exatos de cada universidade no edital do SISU 2026.
+
+## Quais Disciplinas São Mais Importantes para Direito?
+
+**Redação** é a principal diferença entre candidatos empatados. Uma redação 900–1000 pode ser decisiva. Mire na nota 800+ mínima.
+
+**Ciências Humanas** — História, Filosofia e Sociologia são a base do Direito. Invista aqui.
+
+**Linguagens** — Interpretação de texto é habilidade-chave tanto no ENEM quanto na carreira jurídica.
+
+## Como Aumentar Sua Nota Para Direito
+
+1. **Redação nota 1000 é possível** — A estrutura argumentativa é aprendível. Pratique com temas reais
+2. **Ciências Humanas consistente** — Não precisa tirar 900, mas mire 650+ em Humanas
+3. **Linguagens sólida** — Com boa interpretação, você varia pouco. Mire 680+
+4. **Não abandone Exatas** — Matemática e Ciências da Natureza na média (580+) não prejudicam
+
+---
+
+Pratique Ciências Humanas e Linguagens no ENEM Pro com questões reais de 2009–2024 e explicação de IA.
+    `,
+  },
+  {
+    slug: 'prouni-2026-como-funciona',
+    title: 'ProUni 2026 — Como Funciona, Nota Mínima e Como se Inscrever',
+    description: 'Entenda como funciona o ProUni 2026: quem tem direito, nota mínima de 450 pontos, bolsa integral e parcial, e como se inscrever.',
+    date: '2026-01-20',
+    readTime: 7,
+    content: `
+O **ProUni (Programa Universidade para Todos)** oferece bolsas de estudo integrais e parciais em faculdades privadas para estudantes de baixa renda. É uma das principais portas de entrada para o ensino superior no Brasil.
+
+## Quem pode se inscrever no ProUni 2026?
+
+Para participar do ProUni, você precisa:
+
+1. **Ter feito o ENEM** — a partir de 2004, sem ter ficado ausente em alguma das provas
+2. **Nota mínima de 450 pontos** na média das notas objetivas E **não ter zerado a Redação**
+3. **Renda familiar bruta mensal** de até 1,5 salário mínimo por pessoa (bolsa integral) ou até 3 salários mínimos por pessoa (bolsa parcial de 50%)
+4. **Não ter diploma de curso superior** (em vigência no período da inscrição)
+
+Existem exceções: professores da rede pública podem se inscrever independentemente da renda para cursos de licenciatura ou pedagogia.
+
+## Tipos de Bolsa
+
+| Tipo | Cobertura | Renda per capita |
+|------|-----------|-----------------|
+| Bolsa Integral | 100% da mensalidade | Até 1,5 salário mínimo/pessoa |
+| Bolsa Parcial (50%) | 50% da mensalidade | Até 3 salários mínimos/pessoa |
+
+## Qual é a Nota Mínima para o ProUni?
+
+A nota mínima exigida é **450 pontos na média das 4 provas objetivas** e **nota diferente de zero na Redação**.
+
+Mas atenção: **450 pontos é o mínimo para se inscrever**, não o suficiente para conseguir a bolsa. A seleção é competitiva e a nota de corte real depende do curso e da cidade. Cursos mais concorridos (Medicina, Direito, Odontologia) exigem médias de 600–750+ pontos mesmo no ProUni.
+
+## Como Funciona a Seleção
+
+O ProUni usa as notas do ENEM para ranquear os candidatos. Em cada período de inscrição, você pode escolher até **2 opções** (curso, turno e instituição).
+
+A seleção considera:
+1. A nota do ENEM (média ponderada se a instituição aplicar pesos)
+2. Cotas para autodeclarados pretos, pardos, indígenas e pessoas com deficiência
+
+## Calendário ProUni 2026
+
+- **Inscrições:** janeiro e julho (duas edições por ano)
+- **Resultado 1ª fase:** ~10 dias após inscrição
+- **Comprovação da renda:** nas instituições parceiras
+
+*Confirme as datas no site oficial do MEC (prouni.mec.gov.br).*
+
+## Estratégia: Como melhorar sua nota para o ProUni
+
+Se você está perto da nota de corte do curso que quer:
+
+1. **Redação** — é comum candidatos ao ProUni terem redação baixa. Melhorar de 400 para 700 aumenta sua média em 60 pontos.
+2. **Ciências da Natureza** — costuma ser a nota mais baixa dos candidatos. Ganho de 100 pontos aqui é possível com foco.
+3. **10 questões por dia** — consistência de 90 dias resolve mais do que maratonas de fim de semana.
+
+---
+
+Prepare-se para o ProUni com questões reais do ENEM no ENEM Pro. 10 questões por dia grátis — sem cartão de crédito.
+    `,
+  },
+  {
+    slug: 'ingles-enem-dicas',
+    title: 'Inglês no ENEM — O que Cai e Como Passar Mesmo Sem Ser Fluente',
+    description: 'Como ir bem em Inglês no ENEM sem ser fluente. O que cai, estratégia de leitura e dicas para interpretar textos em inglês na prova.',
+    date: '2026-03-20',
+    readTime: 6,
+    content: `
+Uma das boas notícias sobre o ENEM: você **não precisa ser fluente em inglês** para ir bem nas questões de língua estrangeira. O ENEM cobra interpretação — não gramática isolada, não tradução literal.
+
+## Quantas questões de Inglês caem?
+
+Na prova de Linguagens e Códigos, há 5 questões de língua estrangeira (inglês ou espanhol, você escolhe). São 5 questões em 45 — e todas cobram principalmente **leitura e interpretação**.
+
+## O que cai em Inglês no ENEM
+
+### Interpretação de textos em inglês (100% das questões)
+- Artigos de divulgação científica
+- Textos de opinião e editoriais
+- Notícias e manchetes
+- Letras de músicas e poemas
+- Publicidade e cartazes
+
+### Vocabulário em contexto
+- Você não precisa saber cada palavra — o contexto ajuda a inferir o significado
+- Conectivos e coesão: *however*, *although*, *therefore*, *moreover*
+
+### Gênero textual e propósito comunicativo
+- Identificar a intenção do texto (persuadir, informar, criticar, entreter)
+- Identificar o público-alvo
+
+## Estratégia para Inglês sem fluência
+
+**Passo 1: Leia o título e as alternativas primeiro**
+Antes de ler o texto, veja o que a questão pergunta. Isso direciona sua leitura.
+
+**Passo 2: Use o contexto para inferir palavras**
+Se você não sabe o significado de uma palavra, leia a frase inteira. Em 80% dos casos, o contexto deixa claro o sentido geral.
+
+**Passo 3: Identifique palavras cognatas**
+Palavras parecidas com o português geralmente têm significado similar: *education* = educação, *technology* = tecnologia, *diversity* = diversidade.
+
+**Passo 4: Cuidado com os *false friends***
+- *Pretend* = fingir (não "pretender")
+- *Actually* = na verdade (não "atualmente")
+- *Sensible* = sensato (não "sensível")
+
+## Palavras e conectivos mais cobrados
+
+| Inglês | Português |
+|--------|-----------|
+| However | Porém, entretanto |
+| Although / Even though | Embora, apesar de |
+| Therefore / Thus | Portanto, logo |
+| Moreover / Furthermore | Além disso |
+| Nevertheless | No entanto |
+| Despite | Apesar de |
+| In order to | Para, a fim de |
+
+## Posso escolher Espanhol?
+
+Sim! Na prova de Linguagens você escolhe entre inglês e espanhol. Se seu espanhol for melhor, use-o. A estrutura é a mesma — interpretação de texto.
+
+---
+
+Pratique todas as disciplinas do ENEM no ENEM Pro. Questões reais de Linguagens 2009–2024 com explicação da IA.
+    `,
+  },
+  {
+    slug: 'enem-segunda-chance',
+    title: 'Reprovei no ENEM — O que Fazer? Guia para a Segunda Chance',
+    description: 'Não foi bem no ENEM? Saiba o que fazer: como analisar seus erros, montar um plano de estudos e aumentar sua nota no próximo ENEM.',
+    date: '2026-02-15',
+    readTime: 7,
+    content: `
+Não ir bem no ENEM na primeira tentativa não é o fim — é o começo de uma estratégia melhor. Cada edição, milhares de candidatos que refizeram o ENEM conseguiram notas muito acima da primeira vez.
+
+## Primeiro passo: Aceite o resultado sem se punir
+
+A nota do ENEM reflete o preparo de um momento específico. Não define sua inteligência, seu valor, nem seu futuro. Candidatos que chegam a 800+ de média quase sempre levam 2–3 tentativas.
+
+## Analise seu gabarito antes de qualquer coisa
+
+O INEP disponibiliza o gabarito e as respostas individuais. Com esses dados, você consegue:
+
+1. **Taxa de acerto por disciplina** — identifique sua maior fraqueza
+2. **Distribuição de erros por tema** — dentro de cada disciplina, onde você errou mais?
+3. **Padrão de erros** — foi por falta de conteúdo? Descuido? Gestão de tempo?
+
+## A regra do 80/20 para o ENEM
+
+80% da sua nota vai vir de 20% do conteúdo. Para cada disciplina, existe um núcleo de temas que responde pela maioria das questões. Não tente estudar tudo — estude o que mais cai.
+
+| Disciplina | Foco principal |
+|-----------|----------------|
+| Matemática | Funções + Geometria (50%+ da prova) |
+| C. Natureza | Ecologia + Química Orgânica + Mecânica |
+| C. Humanas | Brasil República + Geopolítica + Ecologia |
+| Linguagens | Interpretação de texto (80% da prova) |
+| Redação | Estrutura argumentativa (sempre cobrável) |
+
+## Monte um cronograma realista
+
+Um cronograma que você não consegue cumprir é pior do que nenhum cronograma. Seja honesto sobre seu tempo disponível:
+
+- **4+ horas por dia:** foco total, 6 meses é suficiente para nota alta
+- **2 horas por dia:** foco seletivo nos temas de maior impacto
+- **1 hora por dia:** priorize redação e questões comentadas
+
+## Redação: O atalho mais subestimado
+
+Se sua redação ficou abaixo de 600, você tem o maior potencial de crescimento. Uma redação bem treinada pode sair de 400 para 800+ em 3 meses de prática constante.
+
+Escreva **1 redação por semana** — mesmo sem corretor profissional, o hábito já melhora a estrutura e o repertório.
+
+## Questões comentadas vs. questões secas
+
+Resolver questões sem entender o erro é o maior desperdício de tempo nos estudos para o ENEM. Cada questão errada que você **entender o porquê** vale 10 questões que você resolve sem analisar.
+
+Use o ENEM Pro para ver explicações de IA para cada questão errada — é o equivalente a ter um professor particular disponível 24 horas.
+
+---
+
+Recomeço começa com a próxima questão. 10 grátis por dia no ENEM Pro — sem cartão de crédito.
+    `,
+  },
 ]
 
 // ─── Auto-generated SEO posts: gabarito por disciplina/ano ───────────────────

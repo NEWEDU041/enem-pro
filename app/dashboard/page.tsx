@@ -442,6 +442,7 @@ function DashboardContent() {
           <Link href="/gabarito" className="hover:underline">Gabarito ENEM →</Link>
           <Link href="/temas-redacao" className="hover:underline">Temas Redação →</Link>
           <Link href="/cronograma" className="hover:underline">Cronograma →</Link>
+          <Link href="/calcular-nota" className="hover:underline">Calcular nota →</Link>
         </div>
       </main>
     </div>
