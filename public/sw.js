@@ -1,4 +1,4 @@
-const CACHE = 'enem-pro-v1'
+const CACHE = 'enem-pro-v2'
 const PRECACHE = ['/', '/planos', '/blog', '/questoes', '/simulado']
 
 self.addEventListener('install', (e) => {
@@ -11,6 +11,31 @@ self.addEventListener('activate', (e) => {
     caches.keys().then((keys) =>
       Promise.all(keys.filter((k) => k !== CACHE).map((k) => caches.delete(k)))
     ).then(() => self.clients.claim())
+  )
+})
+
+self.addEventListener('push', (e) => {
+  const data = e.data?.json() || {}
+  e.waitUntil(
+    self.registration.showNotification(data.title || 'ENEM Pro', {
+      body: data.body || 'Hora de treinar suas questões do ENEM!',
+      icon: '/api/icons/192',
+      badge: '/api/icons/192',
+      data: { url: data.url || '/questoes' },
+      actions: [{ action: 'open', title: 'Treinar agora' }],
+    })
+  )
+})
+
+self.addEventListener('notificationclick', (e) => {
+  e.notification.close()
+  const url = e.notification.data?.url || '/questoes'
+  e.waitUntil(
+    self.clients.matchAll({ type: 'window' }).then((clients) => {
+      const existing = clients.find((c) => c.url.includes(self.location.origin))
+      if (existing) return existing.focus()
+      return self.clients.openWindow(url)
+    })
   )
 })
 

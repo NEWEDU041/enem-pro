@@ -6,6 +6,7 @@ import { useRouter, useParams, useSearchParams } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
 import { Question } from '@/lib/types'
 import { ENEM_DATE, daysUntil } from '@/lib/utils'
+import { toggleFavorito, isFavorito } from '@/app/favoritos/page'
 
 function MarkdownText({ text, className }: { text: string; className?: string }) {
   const TOKEN = /(\*\*[^*]+\*\*|\*[^*]+\*|!\[[^\]]*\]\([^)]+\))/g
@@ -62,6 +63,7 @@ function QuestionContent() {
   const [freeExplainAvailable, setFreeExplainAvailable] = useState(true)
   const [loading, setLoading] = useState(true)
   const [elapsed, setElapsed] = useState(0)
+  const [starred, setStarred] = useState(false)
 
   useEffect(() => {
     async function load() {
@@ -79,6 +81,7 @@ function QuestionContent() {
 
       const sub = subRes.data
       setIsPro(!!sub && sub.plan === 'pro' && sub.expires_at && new Date(sub.expires_at) > new Date())
+      setStarred(isFavorito(id))
       setLoading(false)
     }
     load()
@@ -235,8 +238,18 @@ function QuestionContent() {
           <Link href="/dashboard" className="text-xl font-bold text-indigo-600">ENEM Pro</Link>
           <div className="flex items-center gap-4">
             <span className="text-xs font-mono text-zinc-400">{mm}:{ss}</span>
-            <span className="text-xs bg-indigo-50 text-indigo-700 px-3 py-1 rounded-full">{question.discipline}</span>
+            <span className="text-xs bg-indigo-50 text-indigo-700 px-3 py-1 rounded-full">{question.discipline.split(',')[0]}</span>
             <span className="text-xs text-zinc-400">ENEM {question.year}</span>
+            <button
+              onClick={() => {
+                const next = toggleFavorito({ id: question.id, year: question.year, discipline: question.discipline, title: question.title })
+                setStarred(next)
+              }}
+              title={starred ? 'Remover dos favoritos' : 'Salvar nos favoritos'}
+              className={`text-xl transition-colors ${starred ? 'text-amber-400' : 'text-zinc-300 hover:text-amber-300'}`}
+            >
+              {starred ? '⭐' : '☆'}
+            </button>
           </div>
         </div>
       </header>

@@ -1,0 +1,210 @@
+import { Metadata } from 'next'
+import Link from 'next/link'
+import { notFound } from 'next/navigation'
+import { fetchQuestionsByYearCached } from '@/lib/questions-cache'
+
+const VALID_YEARS = [2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
+
+export async function generateStaticParams() {
+  return VALID_YEARS.map((year) => ({ year: String(year) }))
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ year: string }> }): Promise<Metadata> {
+  const { year } = await params
+  return {
+    title: `Gabarito ENEM ${year} — Todas as Disciplinas | ENEM Pro`,
+    description: `Gabarito oficial do ENEM ${year} completo: Matemática, Linguagens, Ciências Humanas e Ciências da Natureza. Veja as respostas corretas de todas as questões.`,
+    alternates: { canonical: `https://enem-pro-eight.vercel.app/gabarito/${year}` },
+    openGraph: {
+      title: `Gabarito ENEM ${year} Completo | ENEM Pro`,
+      description: `Gabarito oficial do ENEM ${year}. Respostas corretas de todas as disciplinas.`,
+    },
+  }
+}
+
+const DISC_ORDER = [
+  'Linguagens, Códigos e suas Tecnologias',
+  'Ciências Humanas e suas Tecnologias',
+  'Ciências da Natureza e suas Tecnologias',
+  'Matemática',
+]
+
+const DISC_SHORT: Record<string, string> = {
+  'Linguagens, Códigos e suas Tecnologias': 'Linguagens',
+  'Ciências Humanas e suas Tecnologias': 'Ciências Humanas',
+  'Ciências da Natureza e suas Tecnologias': 'Ciências da Natureza',
+  'Matemática': 'Matemática',
+}
+
+const DISC_SLUG: Record<string, string> = {
+  'Linguagens, Códigos e suas Tecnologias': 'linguagens',
+  'Ciências Humanas e suas Tecnologias': 'ciencias-humanas',
+  'Ciências da Natureza e suas Tecnologias': 'ciencias-natureza',
+  'Matemática': 'matematica',
+}
+
+export default async function GabaritoYearPage({ params }: { params: Promise<{ year: string }> }) {
+  const { year } = await params
+  const yearNum = parseInt(year)
+
+  if (!VALID_YEARS.includes(yearNum)) notFound()
+
+  let questions: Awaited<ReturnType<typeof fetchQuestionsByYearCached>> = []
+  try {
+    questions = await fetchQuestionsByYearCached(yearNum)
+  } catch {
+    questions = []
+  }
+
+  // Group by discipline, preserving index within full list
+  const byDisc: Record<string, { q: typeof questions[0]; globalIndex: number }[]> = {}
+  questions.forEach((q, i) => {
+    if (!byDisc[q.discipline]) byDisc[q.discipline] = []
+    byDisc[q.discipline].push({ q, globalIndex: i + 1 })
+  })
+
+  const disciplines = DISC_ORDER.filter((d) => byDisc[d]?.length)
+  const otherYears = VALID_YEARS.filter((y) => y !== yearNum)
+
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: `Gabarito ENEM ${year} — Todas as Disciplinas`,
+    description: `Gabarito oficial do ENEM ${year} completo com respostas corretas de todas as questões.`,
+    url: `https://enem-pro-eight.vercel.app/gabarito/${year}`,
+    publisher: { '@type': 'Organization', name: 'ENEM Pro', url: 'https://enem-pro-eight.vercel.app' },
+  }
+
+  return (
+    <div className="min-h-screen bg-zinc-50">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+
+      <nav className="sticky top-0 z-50 bg-white border-b border-zinc-200 px-6 py-4">
+        <div className="max-w-5xl mx-auto flex items-center justify-between">
+          <Link href="/" className="text-xl font-bold text-indigo-600">ENEM Pro</Link>
+          <div className="flex items-center gap-4">
+            <Link href="/auth/login" className="text-sm text-zinc-600 hover:text-zinc-900">Entrar</Link>
+            <Link href="/auth/register" className="text-sm bg-indigo-600 text-white px-4 py-2 rounded-lg hover:bg-indigo-700">
+              Começar grátis
+            </Link>
+          </div>
+        </div>
+      </nav>
+
+      <main className="max-w-5xl mx-auto px-6 py-12">
+        <nav className="text-xs text-zinc-400 mb-6">
+          <Link href="/" className="hover:text-zinc-700">Início</Link>
+          {' / '}
+          <Link href="/gabarito" className="hover:text-zinc-700">Gabarito ENEM</Link>
+          {' / '}
+          <span className="text-zinc-600">{year}</span>
+        </nav>
+
+        <div className="mb-8">
+          <h1 className="text-4xl font-bold text-zinc-900 mb-3">Gabarito ENEM {year}</h1>
+          <p className="text-lg text-zinc-500 max-w-2xl">
+            Gabarito oficial completo do ENEM {year} com {questions.length} questões organizadas por disciplina.
+            Clique em qualquer questão para praticar com gabarito e explicação por IA.
+          </p>
+        </div>
+
+        {/* Jump links */}
+        {disciplines.length > 0 && (
+          <div className="flex flex-wrap gap-2 mb-8">
+            {disciplines.map((d) => (
+              <a
+                key={d}
+                href={`#${DISC_SLUG[d]}`}
+                className="px-4 py-2 bg-white border border-zinc-200 rounded-xl text-sm font-medium text-zinc-700 hover:border-indigo-400 hover:text-indigo-600 transition-colors"
+              >
+                {DISC_SHORT[d]} ({byDisc[d].length})
+              </a>
+            ))}
+          </div>
+        )}
+
+        {/* CTA banner */}
+        <div className="bg-indigo-600 text-white rounded-2xl px-6 py-5 mb-8 flex flex-col sm:flex-row items-center justify-between gap-4">
+          <div>
+            <p className="font-semibold">Pratique estas questões com gabarito e IA</p>
+            <p className="text-indigo-200 text-sm">10 questões/dia grátis · Pro: ilimitado + IA explica cada resposta</p>
+          </div>
+          <Link href="/auth/register" className="shrink-0 bg-white text-indigo-600 px-6 py-2.5 rounded-xl font-semibold hover:bg-indigo-50 transition-colors text-sm">
+            Criar conta grátis
+          </Link>
+        </div>
+
+        {questions.length === 0 ? (
+          <div className="bg-white rounded-2xl border border-zinc-200 p-10 text-center text-zinc-400">
+            Gabarito não disponível no momento. Tente novamente em alguns segundos.
+          </div>
+        ) : (
+          <div className="space-y-8">
+            {disciplines.map((disc) => {
+              const items = byDisc[disc] || []
+              return (
+                <section key={disc} id={DISC_SLUG[disc]}>
+                  <div className="flex items-center justify-between mb-4">
+                    <h2 className="text-xl font-bold text-zinc-900">{DISC_SHORT[disc]}</h2>
+                    <Link
+                      href={`/questoes/${DISC_SLUG[disc]}/${year}`}
+                      className="text-xs text-indigo-600 font-semibold hover:underline"
+                    >
+                      Praticar {DISC_SHORT[disc]} {year} →
+                    </Link>
+                  </div>
+                  <div className="bg-white rounded-2xl border border-zinc-200 overflow-hidden">
+                    <div className="grid grid-cols-[3rem_1fr_3.5rem] text-xs font-semibold text-zinc-400 uppercase tracking-wide px-4 py-3 border-b border-zinc-100 bg-zinc-50">
+                      <span>Nº</span>
+                      <span>Enunciado</span>
+                      <span className="text-center">Gabarito</span>
+                    </div>
+                    <div className="divide-y divide-zinc-100">
+                      {items.map(({ q, globalIndex }) => (
+                        <Link
+                          key={q.id}
+                          href={`/questoes/${q.id}?year=${year}`}
+                          className="grid grid-cols-[3rem_1fr_3.5rem] items-center px-4 py-3.5 hover:bg-indigo-50 transition-colors group"
+                        >
+                          <span className="text-sm font-mono text-zinc-400">{globalIndex}</span>
+                          <span className="text-sm text-zinc-700 truncate pr-4 group-hover:text-indigo-700">
+                            {q.title ? q.title.slice(0, 90) + (q.title.length > 90 ? '…' : '') : 'Ver questão completa'}
+                          </span>
+                          <span className="text-center">
+                            <span className="inline-flex items-center justify-center w-8 h-8 rounded-full bg-green-100 text-green-700 font-bold text-sm">
+                              {q.correctAlternative}
+                            </span>
+                          </span>
+                        </Link>
+                      ))}
+                    </div>
+                  </div>
+                </section>
+              )
+            })}
+          </div>
+        )}
+
+        {/* Outros anos */}
+        <div className="mt-10 bg-white rounded-2xl border border-zinc-200 p-6">
+          <h2 className="font-bold text-zinc-900 mb-4">Gabarito de outros anos</h2>
+          <div className="flex flex-wrap gap-2">
+            {otherYears.map((y) => (
+              <Link
+                key={y}
+                href={`/gabarito/${y}`}
+                className="px-4 py-2 border border-zinc-200 rounded-lg text-sm font-medium text-zinc-700 hover:border-indigo-400 hover:text-indigo-600 transition-colors"
+              >
+                ENEM {y}
+              </Link>
+            ))}
+          </div>
+        </div>
+      </main>
+
+      <footer className="bg-zinc-900 text-zinc-500 text-sm py-8 px-6 text-center mt-12">
+        <p>© 2026 ENEM Pro — Questões reais do ENEM com explicação por IA</p>
+      </footer>
+    </div>
+  )
+}

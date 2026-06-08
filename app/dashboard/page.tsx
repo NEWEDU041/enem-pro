@@ -4,6 +4,7 @@ import { useEffect, useState, Suspense } from 'react'
 import Link from 'next/link'
 import { useRouter, useSearchParams } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
+import PushSubscribeButton from '@/components/PushSubscribeButton'
 
 const supabase = createBrowserClient()
 import { DISCIPLINES, YEARS } from '@/lib/enem-api'
@@ -242,6 +243,14 @@ function DashboardContent() {
             </div>
             <span className="ml-auto text-zinc-300 text-lg shrink-0">→</span>
           </Link>
+          <Link href="/favoritos" className="bg-white rounded-2xl border border-amber-100 p-6 hover:border-amber-400 hover:shadow-sm transition-all flex items-center gap-4">
+            <div className="text-3xl">⭐</div>
+            <div className="min-w-0">
+              <div className="font-bold text-zinc-900">Questões salvas</div>
+              <div className="text-sm text-zinc-500">Favoritos — salve questões importantes para rever</div>
+            </div>
+            <span className="ml-auto text-zinc-300 text-lg shrink-0">→</span>
+          </Link>
         </div>
 
         {/* Quick start */}
@@ -419,11 +428,18 @@ function DashboardContent() {
           </div>
         )}
 
+        {/* Lembrete de estudos */}
+        <div className="bg-white rounded-2xl border border-zinc-200 p-5 mb-6">
+          <PushSubscribeButton />
+        </div>
+
         {/* Bottom links */}
         <div className="flex flex-wrap justify-center gap-6 text-sm text-indigo-600">
           <Link href="/questoes" className="hover:underline">Questões por ano →</Link>
           <Link href="/revisao" className="hover:underline">Modo revisão →</Link>
           <Link href="/historico" className="hover:underline">Histórico completo →</Link>
+          <Link href="/favoritos" className="hover:underline">Favoritos →</Link>
+          <Link href="/gabarito" className="hover:underline">Gabarito ENEM →</Link>
         </div>
       </main>
     </div>

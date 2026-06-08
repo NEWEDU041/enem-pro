@@ -10,6 +10,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const corePages: MetadataRoute.Sitemap = [
     { url: base, lastModified: new Date(), changeFrequency: 'monthly', priority: 1 },
     { url: `${base}/planos`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.9 },
+    { url: `${base}/gabarito`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.95 },
     { url: `${base}/questoes`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
     { url: `${base}/blog`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
     { url: `${base}/auth/login`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.5 },
@@ -39,5 +40,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }))
 
-  return [...corePages, ...disciplinaLandingPages, ...disciplinePages, ...blogPages]
+  const gabaritoPages: MetadataRoute.Sitemap = [2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009].map(year => ({
+    url: `${base}/gabarito/${year}`,
+    lastModified: new Date(),
+    changeFrequency: 'yearly' as const,
+    priority: 0.9,
+  }))
+
+  return [...corePages, ...gabaritoPages, ...disciplinaLandingPages, ...disciplinePages, ...blogPages]
 }
