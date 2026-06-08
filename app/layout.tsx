@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
+import ServiceWorkerRegistrar from '@/components/ServiceWorkerRegistrar'
 
 const inter = Inter({ subsets: ['latin'], display: 'optional' })
 
@@ -46,6 +47,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link rel="dns-prefetch" href="https://api.enem.dev" />
       </head>
       <body className={`${inter.className} min-h-full bg-zinc-50 text-zinc-900 antialiased`}>
+        <ServiceWorkerRegistrar />
         {children}
       </body>
     </html>

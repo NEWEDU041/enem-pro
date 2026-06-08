@@ -1,6 +1,6 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
-import { fetchQuestionsByYear } from '@/lib/enem-api'
+import { fetchQuestionsByYearCached } from '@/lib/questions-cache'
 
 export const dynamic = 'force-dynamic'
 
@@ -44,9 +44,9 @@ export default async function SEOQuestoesPage({ params }: { params: Promise<{ di
 
   const shortDisc = disc.split(',')[0]
 
-  let questions: Awaited<ReturnType<typeof fetchQuestionsByYear>> = []
+  let questions: Awaited<ReturnType<typeof fetchQuestionsByYearCached>> = []
   try {
-    const all = await fetchQuestionsByYear(yearNum)
+    const all = await fetchQuestionsByYearCached(yearNum)
     questions = all.filter(q => q.discipline.toLowerCase().includes(shortDisc.toLowerCase().split(' ')[0]))
   } catch {
     questions = []
