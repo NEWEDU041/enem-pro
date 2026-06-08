@@ -6,7 +6,7 @@ import { useRouter, useParams, useSearchParams } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
 import { Question } from '@/lib/types'
 import { ENEM_DATE, daysUntil } from '@/lib/utils'
-import { toggleFavorito, isFavorito } from '@/app/favoritos/page'
+import { toggleFavorito, isFavorito } from '@/lib/favoritos'
 
 function MarkdownText({ text, className }: { text: string; className?: string }) {
   const TOKEN = /(\*\*[^*]+\*\*|\*[^*]+\*|!\[[^\]]*\]\([^)]+\))/g
