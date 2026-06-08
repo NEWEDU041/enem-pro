@@ -133,7 +133,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
   const post = getPost(slug)
   if (!post) notFound()
 
-  const related = BLOG_POSTS.filter(p => p.slug !== slug).slice(0, 3)
+  const related = getAllPosts().filter(p => p.slug !== slug).slice(0, 3)
 
   const articleSchema = {
     '@context': 'https://schema.org',

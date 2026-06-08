@@ -4,7 +4,7 @@ import { getAllPosts } from '@/lib/blog-data'
 
 export const metadata: Metadata = {
   title: 'Blog ENEM Pro — Guias, Estratégias e Gabaritos',
-  description: 'Artigos sobre ENEM: estratégias de estudo, gabaritos comentados, dicas por disciplina e tudo que você precisa para passar no ENEM 2025.',
+  description: 'Artigos sobre ENEM: estratégias de estudo, gabaritos comentados, dicas por disciplina e tudo que você precisa para passar no ENEM 2026.',
   alternates: { canonical: 'https://enem-pro-eight.vercel.app/blog' },
 }
 
@@ -26,7 +26,7 @@ export default function BlogPage() {
       <main className="max-w-5xl mx-auto px-6 py-12">
         <div className="mb-10">
           <h1 className="text-4xl font-bold text-zinc-900 mb-3">Blog ENEM Pro</h1>
-          <p className="text-zinc-500 text-lg">Estratégias, gabaritos e guias para passar no ENEM 2025.</p>
+          <p className="text-zinc-500 text-lg">Estratégias, gabaritos e guias para passar no ENEM 2026.</p>
         </div>
 
         <div className="grid md:grid-cols-2 gap-6">

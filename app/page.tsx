@@ -63,7 +63,7 @@ export default async function LandingPage() {
       <section className="flex-1 flex flex-col items-center justify-center px-6 py-24 text-center">
         <div className="inline-flex items-center gap-2 bg-indigo-50 text-indigo-700 text-sm font-medium px-4 py-2 rounded-full mb-8">
           <span>✦</span>
-          <span>ENEM 2025 — questões reais do INEP com IA</span>
+          <span>ENEM 2026 — questões reais do INEP com IA</span>
         </div>
         <h1 className="text-5xl font-bold tracking-tight text-zinc-900 max-w-3xl mb-6 leading-tight">
           Medicina, Direito, Engenharia na federal.<br />
@@ -120,10 +120,10 @@ export default async function LandingPage() {
         <div className="max-w-2xl mx-auto">
           <div className="text-center mb-10">
             <div className="inline-flex items-center gap-2 bg-green-50 text-green-700 text-xs font-semibold px-3 py-1 rounded-full mb-4">
-              Questão real do INEP — responda agora
+              Questão do Dia — nova todo dia
             </div>
             <h2 className="text-3xl font-bold mb-3">Teste antes de criar conta</h2>
-            <p className="text-zinc-500 max-w-md mx-auto">Responda uma questão real do ENEM. Veja como a IA explica o raciocínio completo no Pro.</p>
+            <p className="text-zinc-500 max-w-md mx-auto">Uma questão real do INEP por dia. Rotaciona disciplinas e anos automaticamente.</p>
           </div>
           <div className="bg-white rounded-2xl border border-zinc-200 p-6 shadow-sm">
             <DemoQuestion />
@@ -248,7 +248,7 @@ export default async function LandingPage() {
 
       {/* CTA final */}
       <section className="bg-indigo-600 py-20 px-6 text-center text-white">
-        <h2 className="text-3xl font-bold mb-4">O ENEM 2025 não espera.</h2>
+        <h2 className="text-3xl font-bold mb-4">O ENEM 2026 não espera.</h2>
         <p className="text-indigo-200 mb-2">Cada dia sem treino é um dia a menos de preparação.</p>
         <p className="text-indigo-300 text-sm mb-8">Comece agora — grátis, sem cartão de crédito.</p>
         <Link

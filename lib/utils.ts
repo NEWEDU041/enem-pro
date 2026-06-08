@@ -1,6 +1,6 @@
 export const FREE_DAILY_LIMIT = 10
 export const FREE_DAILY_EXPLANATIONS = 1
-export const ENEM_DATE = new Date('2025-11-09')
+export const ENEM_DATE = new Date('2026-11-08')
 
 export function cleanEnv(val: string | undefined): string {
   return (val || '').replace(new RegExp(String.fromCharCode(65279), 'g'), '').replace(/[\r\n]/g, '').trim()

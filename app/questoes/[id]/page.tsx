@@ -5,6 +5,7 @@ import Link from 'next/link'
 import { useRouter, useParams, useSearchParams } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
 import { Question } from '@/lib/types'
+import { ENEM_DATE, daysUntil } from '@/lib/utils'
 
 function MarkdownText({ text, className }: { text: string; className?: string }) {
   const TOKEN = /(\*\*[^*]+\*\*|\*[^*]+\*|!\[[^\]]*\]\([^)]+\))/g
@@ -181,7 +182,7 @@ function QuestionContent() {
   if (!question) return <div className="min-h-screen flex items-center justify-center text-zinc-400">Questão não encontrada.</div>
 
   if (limitReached) {
-    const daysToEnem = Math.ceil((new Date('2025-11-09').getTime() - Date.now()) / 86400000)
+    const daysToEnem = daysUntil(ENEM_DATE)
     return (
       <div className="min-h-screen bg-zinc-50 flex items-center justify-center px-6 py-12">
         <div className="max-w-md w-full">
@@ -193,7 +194,7 @@ function QuestionContent() {
             {daysToEnem > 0 && (
               <div className="bg-amber-50 border border-amber-200 rounded-xl px-4 py-3 mb-6">
                 <p className="text-amber-800 font-semibold text-sm">
-                  Faltam <span className="text-2xl font-bold">{daysToEnem}</span> dias para o ENEM 2025
+                  Faltam <span className="text-2xl font-bold">{daysToEnem}</span> dias para o ENEM 2026
                 </p>
                 <p className="text-amber-600 text-xs mt-1">Cada dia conta. Não perca o ritmo.</p>
               </div>
