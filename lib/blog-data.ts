@@ -1962,6 +1962,486 @@ Use o ENEM Pro para ver explicações de IA para cada questão errada — é o e
 Recomeço começa com a próxima questão. 10 grátis por dia no ENEM Pro — sem cartão de crédito.
     `,
   },
+  {
+    slug: 'redacao-enem-competencias',
+    title: 'As 5 Competências da Redação do ENEM — Guia Completo para 1000',
+    description: 'Entenda as 5 competências avaliadas na redação do ENEM: domínio da língua, compreensão da proposta, organização argumentativa, mecanismos linguísticos e proposta de intervenção.',
+    date: '2026-04-15',
+    readTime: 9,
+    content: `
+A redação do ENEM é avaliada em **5 competências**, cada uma valendo 200 pontos. Para tirar 1000, você precisa dominar todas. Veja o que cada uma exige.
+
+## Competência 1 — Domínio da Modalidade Escrita Formal
+
+**O que avalia:** gramática, ortografia, acentuação, pontuação e adequação ao registro formal.
+
+Erros avaliados:
+- Ortografia (troca de letras, acento incorreto)
+- Concordância verbal e nominal
+- Regência verbal e nominal
+- Pontuação (uso incorreto de vírgula, ponto e vírgula)
+- Uso de linguagem informal, gírias ou coloquialismos
+
+**Estratégia:** Evite palavras que você não domina a ortografia. Use vocabulário que conhece bem. Uma redação com palavras simples e corretas é melhor do que texto sofisticado com erros.
+
+## Competência 2 — Compreensão da Proposta e Aplicação dos Textos Motivadores
+
+**O que avalia:** se você entendeu o tema e usou os textos motivadores como apoio — sem copiar.
+
+Erros fatais:
+- Fuga ao tema (nota 0 nesta competência)
+- Tangenciar o tema (abordar lateralmente, sem focar no ponto central)
+- Copiar trechos dos textos motivadores (plágio = desconto)
+
+**Estratégia:** Leia o tema com atenção. Identifique a palavra-chave e o recorte específico. Se o tema é "desafios para X no Brasil", não basta falar de X — precisa falar dos *desafios* e precisar ser *no Brasil*.
+
+## Competência 3 — Seleção e Organização das Informações
+
+**O que avalia:** a qualidade dos seus argumentos, a coerência lógica e a pertinência dos dados usados.
+
+O que os corretores esperam:
+- Argumentos que realmente sustentam a tese
+- Dados, exemplos ou citações pertinentes e corretos
+- Lógica entre as ideias (causa → consequência → solução)
+- Sem contradição entre parágrafos
+
+**Estratégia:** Tenha 2–3 argumentos sólidos em vez de 5 superficiais. Cada argumento precisa de: afirmação → justificativa → exemplificação.
+
+## Competência 4 — Coesão e Coerência — Uso de Mecanismos Linguísticos
+
+**O que avalia:** a fluidez do texto, os conectivos e a ausência de repetições desnecessárias.
+
+Conectivos essenciais para a redação:
+- Adição: além disso, ademais, outrossim
+- Contraste: entretanto, todavia, no entanto, porém
+- Causa: pois, porque, visto que, já que
+- Consequência: portanto, logo, assim, dessa forma
+- Explicação: ou seja, isto é, em outras palavras
+- Exemplificação: por exemplo, a título de ilustração, como
+
+**Estratégia:** Use um conectivo diferente a cada parágrafo. Substitua pronomes por sinônimos para evitar repetição do sujeito.
+
+## Competência 5 — Proposta de Intervenção
+
+**O que avalia:** a conclusão com proposta concreta, detalhada e que respeite os direitos humanos.
+
+A proposta precisa ter **5 elementos:**
+1. **Agente** — quem vai executar? (Governo federal, ONGs, escolas, mídia...)
+2. **Ação** — o que vai fazer? (Implementar, criar, regulamentar, promover...)
+3. **Meio/Modo** — como vai fazer? (Por meio de campanhas, legislação, parcerias...)
+4. **Finalidade** — para quê? (Com o objetivo de, a fim de, para que...)
+5. **Detalhamento** — o que torna a proposta específica e viável?
+
+**Erro comum:** Proposta genérica ("o governo deve investir em educação"). Seja específico: "O Ministério da Educação deve implementar, por meio de parceria com universidades federais, programas de capacitação docente para a inclusão de discussões sobre X no currículo do Ensino Médio, a fim de Y."
+
+## Resumo — Distribuição de Pontos
+
+| Competência | Pontos | Foco principal |
+|-------------|--------|----------------|
+| C1 — Língua formal | 200 | Gramática e ortografia |
+| C2 — Tema | 200 | Entender e manter o foco |
+| C3 — Argumentos | 200 | Qualidade e lógica |
+| C4 — Coesão | 200 | Conectivos e fluidez |
+| C5 — Intervenção | 200 | Proposta específica e viável |
+
+---
+
+Pratique redação no ENEM Pro. Envie sua redação e receba análise das 5 competências gerada por IA.
+    `,
+  },
+  {
+    slug: 'filosofia-sociologia-enem',
+    title: 'Filosofia e Sociologia no ENEM — O que Cai e Como Estudar',
+    description: 'O que cai em Filosofia e Sociologia no ENEM: Durkheim, Weber, Marx, Platão, Kant, ética política. Estratégia para Ciências Humanas.',
+    date: '2026-03-22',
+    readTime: 7,
+    content: `
+Filosofia e Sociologia compõem parte da prova de Ciências Humanas do ENEM, junto com História e Geografia. As duas disciplinas juntas respondem por cerca de **12–16 questões** por prova.
+
+## O que cai em Filosofia no ENEM
+
+### Filósofos mais cobrados
+
+| Filósofo | Conceito principal no ENEM |
+|----------|---------------------------|
+| Platão | Mundo das ideias, mito da caverna, República |
+| Aristóteles | Ética a Nicômaco, política como natureza |
+| Descartes | Cogito ergo sum, dúvida metódica |
+| Locke | Direitos naturais, liberalismo político |
+| Rousseau | Contrato social, bondade natural |
+| Hobbes | Estado de natureza (guerra), Leviatã |
+| Kant | Imperativo categórico, ética do dever |
+| Marx | Materialismo histórico, alienação, luta de classes |
+| Hannah Arendt | Totalitarismo, banalidade do mal |
+| Michel Foucault | Poder, disciplina, biopolítica |
+
+### Temas mais recorrentes
+
+- **Ética e moral:** imperativo categórico (Kant), utilitarismo (Mill), virtude (Aristóteles)
+- **Filosofia política:** contrato social (Rousseau, Hobbes, Locke), democracia, soberania
+- **Epistemologia:** empirismo vs. racionalismo, teoria do conhecimento
+- **Filosofia contemporânea:** existencialismo, fenomenologia, pós-modernismo
+
+## O que cai em Sociologia no ENEM
+
+### Os três clássicos — presença garantida
+
+**Émile Durkheim**
+- Fato social: exterior, coercitivo e geral
+- Solidariedade mecânica vs. orgânica
+- Anomia: ausência de normas sociais
+- Divisão do trabalho social
+
+**Max Weber**
+- Ação social: racional, valorativa, tradicional, afetiva
+- Dominação: legal-racional, tradicional, carismática
+- Burocracia e racionalização
+- Ética protestante e capitalismo
+
+**Karl Marx**
+- Materialismo histórico
+- Mais-valia e exploração capitalista
+- Alienação do trabalho
+- Infraestrutura e superestrutura
+- Luta de classes
+
+### Temas contemporâneos (crescem a cada edição)
+
+- Desigualdade racial e de gênero
+- Movimentos sociais (MST, feminismo, LGBTQ+)
+- Mídia, redes sociais e manipulação
+- Trabalho precário e uberização
+- Identidade cultural e globalização
+
+## Estratégia para Filosofia e Sociologia
+
+**Não decore textos filosóficos** — o ENEM traz excertos e pede identificação do autor ou do conceito. Foque em conhecer as teses centrais de cada filósofo.
+
+**Fique atento ao vocabulário técnico** — anomia, alienação, habitus (Bourdieu), biopoder, panóptico (Foucault). Uma palavra desconhecida no excerto é uma dica.
+
+**Contextualize com a atualidade** — o ENEM frequentemente conecta pensadores clássicos com problemas contemporâneos (Marx e trabalho digital, Arendt e autoritarismos recentes).
+
+---
+
+Pratique questões reais de Ciências Humanas no ENEM Pro com gabarito e explicação de IA.
+    `,
+  },
+  {
+    slug: 'enem-ppcs-pessoas-com-deficiencia',
+    title: 'ENEM para Pessoas com Deficiência — Atendimento Especializado e Direitos',
+    description: 'Como solicitar atendimento especializado no ENEM: prova em braille, ledor, tempo adicional, sala reservada. Prazos e documentação necessária.',
+    date: '2026-05-10',
+    readTime: 6,
+    content: `
+O ENEM oferece **atendimento especializado** para candidatos com deficiência ou necessidades específicas. Se você se enquadra em alguma categoria, inscreva-se com antecedência — o prazo é durante o período de inscrição.
+
+## Quem tem direito ao atendimento especializado?
+
+- Deficiência visual (baixa visão ou cegueira)
+- Deficiência auditiva (surdez parcial ou total)
+- Deficiência física (limitações motoras)
+- Deficiência intelectual
+- Transtorno do Espectro Autista (TEA)
+- Dislexia, discalculia e outros transtornos de aprendizagem
+- Gestantes e lactantes
+- Idosos (com solicitação específica)
+
+## Tipos de atendimento disponíveis
+
+| Atendimento | Para quem |
+|------------|-----------|
+| Prova em Braille | Deficiência visual — cegueira |
+| Prova com fonte ampliada (tamanho 18 ou 24) | Baixa visão |
+| Ledor (leitura da prova em voz alta) | Deficiência visual, TEA, dislexia |
+| Videoprova em LIBRAS | Surdos usuários de LIBRAS |
+| Transcritor | Dificuldade de escrita motora |
+| Sala reservada individual | TEA, ansiedade severa com laudo |
+| Tempo adicional (1 hora) | Deficiência, dislexia, TEA |
+| Lanche durante a prova | Diabetes, outras condições metabólicas |
+| Amamentação | Lactantes |
+
+## Documentação necessária
+
+Para a maioria dos atendimentos, você precisa de **laudo médico** que comprove a condição, com:
+- Nome completo do médico e CRM
+- CID (Código Internacional de Doenças)
+- Descrição da limitação funcional
+- Assinatura e carimbo do médico
+
+O laudo deve ser **do período dos últimos 3 anos** (verifique o edital do ano em questão).
+
+## Como solicitar
+
+A solicitação é feita **durante o período de inscrição** no ENEM, no site do INEP. Não é possível solicitar após o encerramento das inscrições.
+
+Passos:
+1. Acesse o site de inscrição do ENEM
+2. No campo "Necessidades Especiais", marque os tipos de atendimento
+3. Anexe o laudo médico digitalizado em PDF
+4. Finalize a inscrição
+
+O INEP analisa o pedido e confirma o atendimento no Cartão de Confirmação de Inscrição.
+
+## Tempo adicional — como funciona
+
+Candidatos com direito ao tempo adicional têm **1 hora a mais** em cada dia de prova. Isso significa:
+- Dia 1 (Linguagens, Humanas, Redação): até 6h30 em vez de 5h30
+- Dia 2 (Natureza, Matemática): até 6h30 em vez de 5h30
+
+## Nota especial sobre Redação
+
+Candidatos com dislexia, discalculia ou TEA que solicitarem atendimento podem ter desconto nos critérios de **Competência 1** (domínio da língua formal). Mas é preciso solicitar especificamente durante a inscrição.
+
+---
+
+Pratique para o ENEM com questões adaptadas e acessíveis no ENEM Pro.
+    `,
+  },
+  {
+    slug: 'como-estudar-ciencias-humanas-enem',
+    title: 'Como Estudar Ciências Humanas para o ENEM — Estratégia Completa',
+    description: 'Estratégia completa para Ciências Humanas no ENEM: o que priorizar em História, Geografia, Filosofia e Sociologia, como interpretar fontes e gerenciar o tempo.',
+    date: '2026-03-25',
+    readTime: 8,
+    content: `
+Ciências Humanas é a área que mais assusta candidatos pela quantidade de conteúdo — mas é também uma das que mais recompensa quem tem **boa estratégia de leitura**. Não é memorização: é interpretação.
+
+## A estrutura da prova de Ciências Humanas
+
+São **45 questões** divididas entre:
+- História: ~12–16 questões
+- Geografia: ~12–15 questões
+- Filosofia: ~7–10 questões
+- Sociologia: ~7–10 questões
+
+Todas as questões vêm com fonte primária: texto histórico, mapa, charge, fotografia, infográfico, tabela ou gráfico. **A resposta está sempre no texto.**
+
+## O que priorizar em cada disciplina
+
+### História — foco em Brasil contemporâneo
+Brasil República, Era Vargas, Ditadura Militar (1964–1985) e Redemocratização aparecem em 40–50% das questões de História. Esse bloco é sua prioridade máxima.
+
+Segundo bloco: Segunda Guerra Mundial, Revolução Francesa e geopolítica pós-1945.
+
+### Geografia — mapas e questões ambientais
+Biomas brasileiros, urbanização e geopolítica juntos respondem por mais de 60% da Geografia no ENEM.
+
+Invista tempo em aprender a ler mapas temáticos — eles aparecem em praticamente toda prova.
+
+### Filosofia — os clássicos em profundidade
+Com apenas 7–10 questões, Filosofia tem baixa quantidade mas alta concentração de textos difíceis. Domine os 10 filósofos mais cobrados e você cobre 80% dos casos.
+
+### Sociologia — os três clássicos + temas atuais
+Durkheim, Weber e Marx = pelo menos 3–4 questões garantidas. Invista aqui antes de qualquer outro tema de Sociologia.
+
+## Técnica de leitura para Humanas — "Leia o texto 2 vezes"
+
+### Primeira leitura: identifique
+- Quem escreveu? Quando? Contexto histórico?
+- Qual a ideia central do texto?
+- Qual tom: informativo, crítico, irônico?
+
+### Segunda leitura: conecte com a alternativa
+Leia cada alternativa e volte ao texto para verificar. A alternativa correta **sempre** pode ser justificada pelo texto.
+
+## Os erros mais comuns em Ciências Humanas
+
+**Erro 1: Responder com o que "você sabe"**
+O ENEM cobra o que está no texto, não o que você memorizou. Candidatos que ignoram a fonte e respondem pelo conhecimento prévio erram muito.
+
+**Erro 2: Extrapolar o texto**
+A alternativa correta nunca vai além do que o texto permite inferir. Se uma alternativa afirma algo que o texto não diz diretamente, é errada.
+
+**Erro 3: Confundir causa e consequência**
+Em questões históricas, muitas alternativas invertem a ordem causal. Leia com atenção se o texto está falando de causa (o que motivou) ou consequência (o que resultou).
+
+## Cronograma sugerido para Humanas (3 meses)
+
+| Mês | Foco |
+|-----|------|
+| 1 | Brasil República ao Presente + Biomas + Durkheim/Weber/Marx |
+| 2 | Guerras Mundiais + Urbanização + Filosofia Política (Hobbes, Locke, Rousseau) |
+| 3 | Revisão geral + 30 simulados de questões de Humanas |
+
+---
+
+Pratique Ciências Humanas com questões reais ENEM 2009–2024 no ENEM Pro. 10 questões grátis por dia.
+    `,
+  },
+  {
+    slug: 'como-estudar-ciencias-natureza-enem',
+    title: 'Como Estudar Ciências da Natureza para o ENEM — Física, Química e Biologia',
+    description: 'Estratégia para Ciências da Natureza no ENEM: como dividir o tempo entre Física, Química e Biologia, quais temas priorizar e como resolver questões contextualizadas.',
+    date: '2026-03-28',
+    readTime: 8,
+    content: `
+Ciências da Natureza é a área mais temida do ENEM — mas também uma das mais estratégicas. Com o planejamento certo, você pode ir muito bem **sem precisar dominar tudo**.
+
+## A estrutura da prova
+
+São **45 questões** divididas entre Física, Química e Biologia. A distribuição histórica:
+- Biologia: 17–20 questões (~40%)
+- Química: 15–17 questões (~35%)
+- Física: 13–15 questões (~30%)
+
+**Biologia tem o maior peso.** Se você tem pouco tempo, priorize Biologia.
+
+## O grande segredo das questões de Ciências da Natureza
+
+O ENEM nunca pede cálculo puro. Toda questão tem um enunciado com contexto (notícia, experimento, situação do cotidiano). O contexto **às vezes contém a fórmula** ou o dado que você precisaria decorar.
+
+Isso significa que ler o enunciado com atenção substitui parte do que seria decoreba.
+
+## Como estudar Biologia
+
+**Prioridade máxima: Ecologia e Genética**
+- Ecologia: cadeias alimentares, biomas brasileiros, relações ecológicas
+- Genética: herança mendeliana, DNA, biotecnologia
+
+**Segunda prioridade: Fisiologia + Evolução**
+- Sistemas cardiovascular, respiratório, imunológico
+- Seleção natural, especiação, evidências da evolução
+
+**Dica de ouro:** Biomas do Brasil aparecem todo ano. Saiba as características do Cerrado, Amazônia, Caatinga, Mata Atlântica, Pantanal e Pampa.
+
+## Como estudar Química
+
+**Prioridade máxima: Química Orgânica**
+Funções orgânicas, reações de adição/eliminação/substituição e polímeros respondem por 30–40% das questões de Química. É o tema com maior retorno do investimento de estudo.
+
+**Segunda prioridade: Estequiometria**
+Balancear equações e calcular proporções em mol aparece em toda prova. É mecânico e treinável.
+
+**Não negligencie:** Termoquímica (entalpia, Lei de Hess) e Eletroquímica (pilhas, eletrólise) aparecem ao menos 1–2 vezes por prova.
+
+## Como estudar Física
+
+**Prioridade máxima: Mecânica**
+Cinemática (velocidade, aceleração, gráficos), Dinâmica (Leis de Newton) e Energia (trabalho, potência, conservação) respondem por mais de 50% das questões de Física.
+
+**Segunda prioridade: Eletricidade**
+Circuitos elétricos, Lei de Ohm, potência. Questões de conta com kWh aparecem com frequência.
+
+**Física Moderna:** Efeito fotoelétrico, radioatividade, relatividade — 1–2 questões por prova. Investimento baixo, bom retorno.
+
+## Gestão de tempo na prova — estratégia para Natureza
+
+Ciências da Natureza é o Dia 2 do ENEM (juntamente com Matemática). Você tem 5h30 para 90 questões.
+
+Sugestão:
+- 2h para Ciências da Natureza (45 questões ÷ 2h = ~2,5 min/questão)
+- 3h30 para Matemática
+- Não passe de 6 minutos numa única questão — marque e avance
+
+---
+
+Pratique Física, Química e Biologia com questões reais do ENEM no ENEM Pro. 10 questões grátis por dia.
+    `,
+  },
+  {
+    slug: 'nota-de-corte-psicologia-enem',
+    title: 'Nota de Corte para Psicologia no ENEM — SISU 2026 por Universidade',
+    description: 'Nota de corte para Psicologia pelo SISU 2026 nas principais universidades federais. Saiba o que o curso exige e como se preparar.',
+    date: '2026-04-10',
+    readTime: 5,
+    content: `
+Psicologia é um dos cursos mais disputados do SISU. Combinando forte demanda e número limitado de vagas nas federais, as notas de corte são elevadas — especialmente no período diurno.
+
+## Notas de Corte para Psicologia (referência histórica SISU)
+
+| Universidade | Turno | Nota Estimada |
+|-------------|-------|--------------|
+| USP | Manhã | 720–750 |
+| UFMG | Manhã | 700–730 |
+| UFF | Manhã | 680–710 |
+| UFRJ | Manhã | 695–720 |
+| UFPE | Manhã | 650–680 |
+| UFC | Manhã | 630–660 |
+| UFBA | Manhã | 615–645 |
+| UFPA | Manhã | 590–620 |
+| Noturno (média geral) | Noite | -30 a -50 da manhã |
+
+*Valores de referência histórica — consulte o edital oficial do SISU 2026.*
+
+## O que o curso de Psicologia avalia no ENEM?
+
+Psicologia nas universidades federais geralmente aplica pesos:
+- **Ciências Humanas:** peso alto (1,5–2,0x) — é a área mais relacionada à carreira
+- **Linguagens:** peso moderado (1,0–1,5x)
+- **Redação:** peso moderado a alto
+- **Ciências da Natureza e Matemática:** peso menor (0,5–1,0x)
+
+Verifique os pesos específicos de cada universidade no edital do SISU.
+
+## Estratégia: Quais disciplinas priorizar?
+
+**Ciências Humanas é determinante** para Psicologia. Se você está decidido pelo curso, invista pesado em História, Geografia, Filosofia e Sociologia.
+
+**Redação acima de 800** é diferencial importante — a capacidade de argumentar por escrito é valorizada tanto no processo seletivo quanto na carreira.
+
+**Linguagens sólida** — interpretação de texto é fundamental para Psicologia.
+
+## Turno noturno — estratégia para quem trabalha
+
+O noturno de Psicologia nas federais costuma ter nota de corte 30–50 pontos menor do que o diurno. Se sua situação exige horário noturno, isso pode ser decisivo na escolha da universidade.
+
+---
+
+Prepare-se com questões reais de Ciências Humanas e Linguagens no ENEM Pro.
+    `,
+  },
+  {
+    slug: 'enem-treineiro-2026',
+    title: 'ENEM Treineiro 2026 — O que É, Quem Pode Fazer e Como se Inscrever',
+    description: 'O ENEM Treineiro é para alunos do Ensino Médio que ainda não concluíram. Saiba quem pode participar, como se inscrever e se a nota conta para o SISU.',
+    date: '2026-05-01',
+    readTime: 5,
+    content: `
+O **ENEM Treineiro** é a modalidade do ENEM destinada a estudantes que ainda **não concluíram o Ensino Médio**. É uma oportunidade de praticar a prova no ambiente real, sem que a nota entre no histórico oficial para o SISU ou ProUni.
+
+## Quem pode fazer o ENEM Treineiro?
+
+Podem se inscrever como treineiro:
+- Estudantes matriculados no **1º ou 2º ano do Ensino Médio**
+- Estudantes do **3º ano** que ainda não concluíram (antes de dezembro do ano da prova)
+
+Alunos do 3º ano que já concluíram o Ensino Médio não se inscrevem como treineiro — fazem o ENEM regular.
+
+## A nota do ENEM Treineiro conta para o SISU?
+
+**Não.** A nota do ENEM Treineiro não é usada para ingresso no ensino superior. Ela serve exclusivamente para:
+- Praticar a prova no ambiente real
+- Identificar pontos fracos antes do ENEM oficial
+- Receber o resultado individual com desempenho por área
+
+## Como se inscrever no ENEM Treineiro
+
+A inscrição é feita no site oficial do ENEM (enem.inep.gov.br) durante o período de inscrições. O candidato deve indicar que é treineiro no momento do cadastro.
+
+**Taxa de inscrição:** O ENEM Treineiro segue as mesmas regras de isenção do ENEM regular. Se você tem direito à isenção, ela se aplica ao treineiro também.
+
+## Vantagens de fazer o ENEM Treineiro
+
+1. **Experiência real da prova** — local de prova, tempo, formato das questões
+2. **Redução da ansiedade** — quem já fez uma vez enfrenta o ENEM oficial com mais tranquilidade
+3. **Diagnóstico antecipado** — você descobre onde precisa melhorar com 1–2 anos de antecedência
+4. **Sem pressão** — como a nota não conta, você pode usar a prova como laboratório de estratégia
+
+## O que estudar como treineiro do 1º ou 2º ano?
+
+Se você ainda está no 1º ou 2º ano, não vai ter todo o conteúdo do Ensino Médio. Isso é normal — o ENEM não cobra só o que está no currículo do seu ano.
+
+**Foque em:**
+- Interpretação de texto (Linguagens e Ciências Humanas)
+- Matemática básica (funções do 1º grau, geometria plana, estatística)
+- Questões de ecologia e cotidiano em Ciências da Natureza
+- Redação — estrutura argumentativa começa no 1º ano
+
+---
+
+Pratique questões reais do ENEM no ENEM Pro. 10 grátis por dia — perfeito para treineiros que querem se preparar com antecedência.
+    `,
+  },
 ]
 
 // ─── Auto-generated SEO posts: gabarito por disciplina/ano ───────────────────
