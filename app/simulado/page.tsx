@@ -395,11 +395,22 @@ function FinishedScreen({ answers, totalTime, onRestart }: {
   totalTime: number
   onRestart: () => void
 }) {
+  const [shared, setShared] = useState(false)
   const correct = answers.filter((a) => a.is_correct).length
   const total = answers.length
   const accuracy = total > 0 ? Math.round((correct / total) * 100) : 0
   const avgTime = total > 0 ? Math.round(answers.reduce((s, a) => s + a.time_ms, 0) / total / 1000) : 0
   const estimatedScore = Math.round(300 + (accuracy / 100) * 600)
+
+  function handleShare() {
+    const emoji = estimatedScore >= 700 ? '🏆' : estimatedScore >= 500 ? '📈' : '💪'
+    const text = `${emoji} Fiz um simulado ENEM no ENEM Pro!\n\nNota estimada: ${estimatedScore} pts\nAcertos: ${correct}/${total} (${accuracy}%)\nTempo médio: ${avgTime}s/questão\n\nPratique grátis: https://enem-pro-eight.vercel.app`
+    if (navigator.share) {
+      navigator.share({ text }).catch(() => {})
+    } else {
+      navigator.clipboard.writeText(text).then(() => { setShared(true); setTimeout(() => setShared(false), 2000) })
+    }
+  }
 
   // Breakdown por disciplina
   const byDisc: Record<string, { correct: number; total: number; color: string }> = {}
@@ -467,6 +478,11 @@ function FinishedScreen({ answers, totalTime, onRestart }: {
           </div>
         </div>
       )}
+
+      <button onClick={handleShare}
+        className="w-full mb-3 border border-zinc-300 text-zinc-700 py-3 rounded-xl font-semibold hover:bg-zinc-50 flex items-center justify-center gap-2">
+        <span>{shared ? '✓ Copiado!' : '↗ Compartilhar resultado'}</span>
+      </button>
 
       <div className="flex gap-3">
         <button onClick={onRestart}
