@@ -440,6 +440,8 @@ function DashboardContent() {
           <Link href="/historico" className="hover:underline">Histórico completo →</Link>
           <Link href="/favoritos" className="hover:underline">Favoritos →</Link>
           <Link href="/gabarito" className="hover:underline">Gabarito ENEM →</Link>
+          <Link href="/temas-redacao" className="hover:underline">Temas Redação →</Link>
+          <Link href="/cronograma" className="hover:underline">Cronograma →</Link>
         </div>
       </main>
     </div>

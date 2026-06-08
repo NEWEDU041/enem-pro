@@ -11,6 +11,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: base, lastModified: new Date(), changeFrequency: 'monthly', priority: 1 },
     { url: `${base}/planos`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.9 },
     { url: `${base}/gabarito`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.95 },
+    { url: `${base}/temas-redacao`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.9 },
+    { url: `${base}/cronograma`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/questoes`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
     { url: `${base}/blog`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
     { url: `${base}/auth/login`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.5 },

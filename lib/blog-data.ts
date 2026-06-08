@@ -911,6 +911,431 @@ O ENEM frequentemente usa charges, cartazes, infográficos e fotografias como te
 Todas as questões de Linguagens do ENEM 2009 a 2024 estão disponíveis. Responda e entenda com explicação da IA.
     `,
   },
+  // ─── Posts de alto volume SEO ─────────────────────────────────────────────
+  {
+    slug: 'como-estudar-para-o-enem',
+    title: 'Como Estudar para o ENEM 2026 — Guia Completo do Zero',
+    description: 'Guia definitivo para estudar para o ENEM 2026: cronograma, técnicas, prioridades por disciplina e como usar questões anteriores para turbinar a nota.',
+    date: '2026-01-10',
+    readTime: 12,
+    content: `
+Estudar para o ENEM sem método é como treinar corrida sem saber a distância da prova. Este guia te dá o mapa completo — do diagnóstico inicial até a semana da prova.
+
+## 1. Faça um diagnóstico honesto
+
+Antes de qualquer cronograma, responda 20 questões de cada disciplina do ENEM (anos anteriores) e meça sua taxa de acerto. Isso revela onde investir mais tempo.
+
+**Taxa de acerto por disciplina — o que significa:**
+- Abaixo de 40%: Déficit grave. Prioridade máxima.
+- 40–60%: Base razoável. Pode melhorar com revisão focada.
+- Acima de 60%: Manter. Pratique para não perder.
+
+## 2. Monte um cronograma realista
+
+O ENEM cobra 4 áreas. Não tente estudar tudo todo dia. Uma estratégia eficiente:
+
+- **Segunda/Terça:** Matemática (área que mais exige prática)
+- **Quarta/Quinta:** Ciências da Natureza (Física, Química, Biologia)
+- **Sexta:** Linguagens + Redação
+- **Sábado:** Ciências Humanas (mais interpretação, menos memorização)
+- **Domingo:** Revisão das questões erradas na semana
+
+## 3. Questões anteriores valem mais que qualquer material
+
+O ENEM repete padrões. Uma questão de Matemática 2019 sobre funções ensina mais do que 3 páginas de teoria, porque você:
+- Aprende a interpretar o estilo do INEP
+- Vê quais fórmulas realmente caem
+- Treina o tempo de resolução
+
+**Meta:** 10 questões por disciplina por dia, com gabarito imediato e revisão dos erros.
+
+## 4. Redação: 200 pontos disponíveis por competência
+
+A redação é a única nota que você pode controlar 100% com prática. Escreva uma redação por semana, corrija pelas 5 competências do INEP e evolua sistematicamente.
+
+## 5. Últimas 4 semanas — o que fazer
+
+- **4 semanas antes:** Simulados completos (todas as disciplinas em um dia)
+- **2 semanas antes:** Revisão apenas dos pontos fracos identificados
+- **1 semana antes:** Somente revisão leve + redações
+- **Véspera:** Nada de novo. Revise cadernos e durma cedo.
+
+---
+
+Pratique no ENEM Pro com questões reais do INEP de 2009 a 2024. **10 questões por dia grátis.**
+    `,
+  },
+  {
+    slug: 'nota-de-corte-medicina-enem',
+    title: 'Nota de Corte Medicina ENEM 2026 — Federal, Unifesp e Mais',
+    description: 'Notas de corte para Medicina via SISU nas principais federais. Saiba qual nota você precisa e como calcular sua chance de aprovação.',
+    date: '2026-01-20',
+    readTime: 8,
+    content: `
+Medicina é o curso mais concorrido do SISU. Entender as notas de corte é o primeiro passo para montar uma estratégia de estudo eficiente.
+
+## Notas de corte históricas — Medicina (referência)
+
+As notas variam a cada edição do SISU, mas os patamares históricos são:
+
+| Universidade | Modalidade | Nota aproximada |
+|---|---|---|
+| USP (São Paulo) | Ampla concorrência | 800–820 |
+| UNIFESP | Ampla concorrência | 780–800 |
+| UFMG | Ampla concorrência | 770–790 |
+| UFC | Ampla concorrência | 760–780 |
+| UnB | Ampla concorrência | 770–790 |
+| UFRJ | Ampla concorrência | 770–800 |
+| UFSC | Ampla concorrência | 750–770 |
+
+*Valores de referência. Consulte sempre o site oficial do MEC/SISU para dados atualizados.*
+
+## Como funciona o cálculo da nota do ENEM
+
+O ENEM usa a TRI (Teoria de Resposta ao Item). Isso significa:
+- Acertar questões difíceis pesa mais do que acertar fáceis
+- Errar padrões inconsistentes (errar fácil, acertar difícil) pode **diminuir** sua nota
+- A nota final não é proporcional ao número de acertos
+
+**Estratégia TRI:** Responda primeiro as questões que você sabe. Não chute aleatoriamente — chute com lógica de eliminação de alternativas.
+
+## O que fazer para atingir 800+ no ENEM
+
+Para chegar em 800+, você precisa de consistência em todas as áreas. Um candidato de Medicina não pode ter uma disciplina abaixo de 700.
+
+1. **Matemática:** Pratique questões de funções, geometria e probabilidade diariamente
+2. **Ciências da Natureza:** Foque em Química orgânica e Biologia celular/genética
+3. **Redação:** Meta mínima de 900 pontos — toda nota abaixo de 800 compromete
+4. **Ciências Humanas:** Maior volume de questões interpretativas — leitura constante ajuda
+
+---
+
+O ENEM Pro tem todas as questões de 2009 a 2024 organizadas por disciplina. Treine as áreas que mais caem na nota de corte de Medicina.
+    `,
+  },
+  {
+    slug: 'tri-enem-como-funciona',
+    title: 'TRI ENEM — O Que É e Como Isso Afeta Sua Nota',
+    description: 'Entenda como funciona a TRI (Teoria de Resposta ao Item) do ENEM e como usar esse conhecimento a seu favor na hora da prova.',
+    date: '2026-02-01',
+    readTime: 7,
+    content: `
+A Teoria de Resposta ao Item (TRI) é o método que o INEP usa para calcular as notas do ENEM. Entender como ela funciona pode te fazer ganhar pontos sem estudar mais — só mudando a estratégia na prova.
+
+## O que é a TRI?
+
+A TRI não calcula sua nota contando acertos e erros. Ela analisa **padrões de resposta** comparando candidatos que acertaram e erraram as mesmas questões.
+
+Uma questão fácil que muita gente acerta, mas você errou, pesa negativamente. Uma questão difícil que poucos acertam, mas você acertou, pesa positivamente.
+
+## O mito do "chute certo"
+
+Muitas pessoas ouviram que "chutar prejudica". Não é bem assim:
+
+- **Chute sistemático (AAAAA em todas):** Prejudica muito, pois cria um padrão inconsistente
+- **Chute por eliminação:** Neutro a levemente positivo
+- **Não responder:** Conta como erro de qualquer jeito — sempre marque algo
+
+## Estratégia prática para a TRI
+
+1. **Responda primeiro o que você sabe** — questões que você domina plenamente
+2. **Identifique e pule questões que você não tem ideia** — volte no final
+3. **Elimine pelo menos 2 alternativas antes de chutar** — aumenta a chance e melhora o padrão
+4. **Nunca deixe em branco** — sem vantagem alguma
+
+## A consistência vale mais que a quantidade
+
+Na TRI, acertar 30 questões com consistência (acertando as fáceis e algumas médias) pode valer mais do que acertar 35 questões de forma aleatória.
+
+Isso reforça a importância de **dominar os fundamentos** de cada disciplina antes de partir para os tópicos avançados.
+
+---
+
+Treine com questões reais do ENEM e acompanhe sua taxa de acerto por disciplina no ENEM Pro.
+    `,
+  },
+  {
+    slug: 'redacao-enem-como-tirar-1000',
+    title: 'Redação ENEM — Como Tirar 1000 Pontos nas 5 Competências',
+    description: 'Guia completo para tirar nota máxima na redação do ENEM. Estrutura, competências, proposta de intervenção e os erros que derrubam a nota.',
+    date: '2026-02-15',
+    readTime: 10,
+    content: `
+A redação do ENEM vale 1000 pontos — o equivalente a uma área inteira da prova. E é a parte onde você tem mais controle: a nota depende 100% de treino, não de sorte.
+
+## As 5 competências — o que cada uma avalia
+
+**C1 — Domínio da Língua Escrita (0–200)**
+Gramática, ortografia, pontuação, concordância. Erros graves aqui custam caro. A regra: evite estruturas complexas que você não domina completamente.
+
+**C2 — Compreensão da Proposta (0–200)**
+Você respondeu ao tema? Fugiu do tema = nota 0 na redação inteira. Leia a proposta 3 vezes antes de escrever.
+
+**C3 — Seleção e Organização de Argumentos (0–200)**
+Qualidade dos argumentos. Dados, leis, filósofos, fatos históricos. Evite "achismos" como "muitas pessoas pensam que...".
+
+**C4 — Coesão Textual (0–200)**
+Conectivos e progressão textual. O texto precisa fluir. Use: "Ademais", "Nesse sentido", "Sob essa perspectiva", "Outrossim" — mas com moderação.
+
+**C5 — Proposta de Intervenção (0–200)**
+A parte mais mecânica. Precisa de 5 elementos: **agente + ação + modo + efeito + finalidade**.
+
+Exemplo ruim: "O governo deve investir em educação."
+
+Exemplo bom: "O Ministério da Educação (agente) deve implementar programas de letramento digital (ação) por meio de parcerias com municípios (modo), reduzindo a exclusão tecnológica (efeito) e promovendo igualdade de acesso (finalidade)."
+
+## Estrutura padrão que funciona
+
+**Introdução (5–7 linhas):** Contextualização + tese
+**Desenvolvimento 1 (8–10 linhas):** Argumento 1 + evidência
+**Desenvolvimento 2 (8–10 linhas):** Argumento 2 + evidência
+**Conclusão (5–7 linhas):** Proposta de intervenção completa
+
+## Os 5 erros que mais derrubam a nota
+
+1. Proposta de intervenção vaga ("o governo deve agir")
+2. Fuga parcial do tema (tangenciar sem responder)
+3. Exemplos genéricos sem dados ("muita gente sofre com isso")
+4. Parágrafo de conclusão sem proposta de intervenção
+5. Mais de 3 erros graves de gramática/ortografia
+
+---
+
+Pratique sua redação no ENEM Pro. A IA corrige nas 5 competências e dá nota de 0 a 1000 em segundos.
+    `,
+  },
+  {
+    slug: 'enem-2026-o-que-estudar',
+    title: 'ENEM 2026 — O Que Estudar em Cada Disciplina',
+    description: 'Guia de prioridades para o ENEM 2026: os temas mais cobrados por disciplina, o que cai mais e onde focar para maximizar sua nota.',
+    date: '2026-03-01',
+    readTime: 9,
+    content: `
+Com o ENEM 2026 marcado para novembro, a pergunta que todo candidato faz é: onde focar? Aqui está o mapa de prioridades baseado nos padrões dos últimos 10 anos.
+
+## Matemática — Prioridades 2026
+
+**Alta frequência (estude primeiro):**
+- Funções do 1º e 2º grau: mínimo 6 questões por prova
+- Geometria (plana + espacial): 8–10 questões
+- Estatística e probabilidade: 5–7 questões
+
+**Média frequência (estude depois):**
+- Progressões (PA e PG): 3–4 questões
+- Trigonometria: 3–4 questões
+- Matrizes: 2–3 questões
+
+**Dica:** Resolva questões contextualizadas. O ENEM nunca pede "calcule x". Sempre há uma situação real.
+
+## Linguagens — Prioridades 2026
+
+- Interpretação de texto: 60% da prova — não é estudável, é treinável
+- Gramática contextualizada: 8–10 questões (concordância, regência, crase)
+- Literatura (cronologia + características): 6–8 questões
+- Inglês/Espanhol: 5 questões — foco em vocabulário e contexto
+
+## Ciências Humanas — Prioridades 2026
+
+- História do Brasil (República): peso enorme nos últimos 5 anos
+- Geopolítica e globalização: sempre presente
+- Filosofia (Iluminismo, Contratualistas): recorrente
+- Sociologia (conceitos de Durkheim, Weber, Marx): 4–6 questões
+
+## Ciências da Natureza — Prioridades 2026
+
+- Biologia: 17–20 questões (maior fatia)
+  - Ecologia e biomas: sempre cai
+  - Genética (Mendel + molecular): 4–5 questões
+- Química: 14–16 questões
+  - Orgânica (funções e reações): essencial
+  - Estequiometria: 3–4 questões
+- Física: 12–14 questões
+  - Mecânica (cinemática e dinâmica): base
+  - Eletricidade: recorrente
+
+## Como usar esse mapa
+
+Pegue seu diagnóstico de acertos por disciplina e cruze com esse mapa de frequência. Invista o tempo onde o produto (frequência × déficit atual) for maior.
+
+---
+
+O ENEM Pro organiza todas as questões por disciplina e ano. Treine os temas prioritários agora.
+    `,
+  },
+  {
+    slug: 'sisu-2026-como-funciona',
+    title: 'SISU 2026 — Como Funciona, Notas de Corte e Como se Inscrever',
+    description: 'Tudo sobre o SISU 2026: regras de inscrição, como as notas de corte funcionam, estratégias para escolher curso e universidade.',
+    date: '2026-03-15',
+    readTime: 8,
+    content: `
+O SISU (Sistema de Seleção Unificada) é a porta de entrada para mais de 240 universidades federais usando a nota do ENEM. Entender como ele funciona pode definir sua aprovação.
+
+## Como funciona o SISU
+
+O SISU usa sua nota do ENEM para competir por vagas em universidades públicas. Você não presta uma prova específica — usa a nota que já tem.
+
+**Calendário típico:**
+- Inscrições: janeiro (após o resultado do ENEM)
+- Resultado da 1ª chamada: mesma semana das inscrições
+- Chamadas seguintes + lista de espera: fevereiro
+
+## Notas de corte — como funciona
+
+A nota de corte não é fixa. Ela flutua a cada edição do SISU conforme o número de candidatos inscritos em cada curso.
+
+**Variáveis que afetam a nota de corte:**
+- Número de vagas disponíveis
+- Número de candidatos inscritos
+- Notas dos candidatos naquele ano
+
+Uma nota que seria suficiente em 2024 pode não ser em 2026 se mais candidatos fizerem a mesma escolha.
+
+## Estratégia de inscrição
+
+O SISU permite 2 opções de curso/universidade. A estratégia:
+
+- **1ª opção:** Sua meta principal (pode ser mais concorrida)
+- **2ª opção:** Opção segura com nota de corte mais acessível
+
+**Monitore durante a inscrição:** A nota de corte atualiza em tempo real. Acompanhe se sua nota está acima ou abaixo da corte estimada.
+
+## Ampla concorrência vs. cotas
+
+Cada vaga tem modalidades. Verifique se você se qualifica para alguma cota:
+- L1/L2/L3/L4: Renda familiar + escola pública + cor/raça
+- Vagas para PcD (pessoas com deficiência)
+
+Cotas podem aumentar significativamente suas chances, pois a concorrência é menor.
+
+---
+
+Aumente sua nota no ENEM 2026 com o ENEM Pro — 3.600+ questões reais do INEP, grátis para começar.
+    `,
+  },
+  {
+    slug: 'ciencias-humanas-enem-o-que-cai',
+    title: 'Ciências Humanas ENEM — O Que Cai Mais e Como Estudar',
+    description: 'Guia completo para Ciências Humanas no ENEM: os temas mais cobrados de História, Geografia, Filosofia e Sociologia com dicas de estudo.',
+    date: '2026-04-01',
+    readTime: 9,
+    content: `
+Ciências Humanas é a área que mais candidatos subestimam — e onde é possível ganhar pontos significativos com estudo inteligente. São 45 questões divididas entre História, Geografia, Filosofia e Sociologia.
+
+## Distribuição aproximada das questões
+
+- **História:** 20–22 questões (maior fatia)
+- **Geografia:** 12–14 questões
+- **Filosofia:** 6–8 questões
+- **Sociologia:** 6–8 questões
+
+## História — O que estudar primeiro
+
+**Alta frequência:**
+- República Brasileira (Vargas, Ditadura Militar, Redemocratização)
+- Primeira e Segunda Guerra Mundial
+- Revoluções (Francesa, Industrial, Russa)
+- História da África e afro-brasileira (Lei 10.639)
+
+**Média frequência:**
+- Brasil Colonial e Imperial
+- Guerra Fria e ordem mundial pós-1945
+- Ditaduras na América Latina
+
+## Geografia — Foco nessas áreas
+
+- Globalização e fluxos de capital
+- Biomas brasileiros (Amazônia, Cerrado, Caatinga)
+- Cartografia (projeções, escalas, fusos)
+- Urbanização e problemas urbanos
+- Migrações (interna e internacional)
+
+## Filosofia — O que o ENEM realmente cobra
+
+O ENEM não cobra história da filosofia — cobra **aplicação de conceitos**. Os mais frequentes:
+
+- Contratualistas: Locke, Rousseau, Hobbes (Estado de Natureza × Estado Civil)
+- Iluminismo e razão
+- Ética (Kant, Aristóteles)
+- Filosofia política contemporânea
+
+## Sociologia — Conceitos-chave
+
+- Durkheim: fato social, anomia, solidariedade mecânica/orgânica
+- Weber: ação social, dominação, burocracia, ética protestante
+- Marx: mais-valia, alienação, luta de classes
+- Bourdieu: capital cultural, habitus, campo
+
+## Como estudar Ciências Humanas com eficiência
+
+Ciências Humanas é uma prova de **interpretação**, não de memorização. Questões raramente pedem "quando foi" — pedem "o que isso significa".
+
+Estratégia:
+1. Aprenda os conceitos centrais de cada área
+2. Leia jornais/notícias com olhar sociológico e histórico
+3. Pratique com questões anteriores — observe como o INEP contextualiza os temas
+
+---
+
+Pratique com todas as questões de Ciências Humanas do ENEM no ENEM Pro.
+    `,
+  },
+  {
+    slug: 'matematica-enem-dicas-estrategias',
+    title: 'Matemática no ENEM — Dicas e Estratégias para Não Ter Medo',
+    description: 'Como enfrentar a prova de Matemática do ENEM sem pânico. Estratégias de resolução, temas mais cobrados e como usar o tempo da prova.',
+    date: '2026-04-15',
+    readTime: 8,
+    content: `
+Matemática é a disciplina que mais assusta os candidatos do ENEM. Mas com a estratégia certa, é possível garantir uma nota sólida sem precisar dominar tudo.
+
+## A estrutura da prova de Matemática
+
+São 45 questões de múltipla escolha, todas contextualizadas. O ENEM nunca pede "resolva a equação x² + 3x - 4 = 0". Sempre há uma situação do cotidiano que exige essa resolução.
+
+**Isso é bom para você:** significa que intuição e raciocínio lógico valem tanto quanto fórmulas.
+
+## Os temas que mais caem (com frequência estimada)
+
+| Tema | Questões por prova |
+|---|---|
+| Funções (1°, 2°, exponencial, logarítmica) | 7–9 |
+| Geometria (plana + espacial) | 8–10 |
+| Estatística e probabilidade | 5–7 |
+| Progressões (PA e PG) | 3–4 |
+| Trigonometria | 3–4 |
+| Análise combinatória | 2–3 |
+| Matrizes e determinantes | 2–3 |
+
+## Estratégia para a prova — ordem de resolução
+
+Não resolva as questões na ordem em que aparecem. Use essa sequência:
+
+1. **Primeiro varredura:** Leia todas as questões rapidamente. Marque com ✓ as que sabe fazer.
+2. **Segundo passo:** Resolva as marcadas com ✓. São seus pontos garantidos.
+3. **Terceiro passo:** Questões onde você tem uma ideia, mas precisa de mais tempo.
+4. **Quarto passo:** Questões que você não tem ideia — elimine alternativas e chute.
+
+## Gestão de tempo
+
+Para 45 questões em 5 horas (300 minutos), você tem ~6 minutos por questão. Na prática:
+
+- Questões que você sabe: 2–3 minutos
+- Questões difíceis: máximo 8 minutos — se passar, marque e volte
+- Nunca passe mais de 10 minutos numa única questão
+
+## Os erros mais comuns que custam pontos
+
+1. **Não ler o enunciado completo** — o ENEM às vezes inverte a pergunta (pede o que **não** é verdadeiro)
+2. **Erro de unidade** — misturar km com m, g com kg
+3. **Calcular antes de entender** — defina o que a questão pede antes de qualquer cálculo
+4. **Deixar sem resposta** — na TRI, deixar em branco é pior que chutar com eliminação
+
+---
+
+Pratique Matemática com as questões reais do ENEM 2009–2024. O ENEM Pro mostra onde você erra e explica o raciocínio correto com IA.
+    `,
+  },
 ]
 
 // ─── Auto-generated SEO posts: gabarito por disciplina/ano ───────────────────
