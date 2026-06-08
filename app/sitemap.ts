@@ -16,6 +16,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/temas-redacao`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.9 },
     { url: `${base}/cronograma`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/calcular-nota`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.9 },
+    { url: `${base}/ferramentas`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.85 },
+    { url: `${base}/questao-do-dia`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.85 },
     { url: `${base}/questoes`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
     { url: `${base}/blog`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
     { url: `${base}/auth/login`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.5 },

@@ -443,6 +443,8 @@ function DashboardContent() {
           <Link href="/temas-redacao" className="hover:underline">Temas Redação →</Link>
           <Link href="/cronograma" className="hover:underline">Cronograma →</Link>
           <Link href="/calcular-nota" className="hover:underline">Calcular nota →</Link>
+          <Link href="/questao-do-dia" className="hover:underline">Questão do dia →</Link>
+          <Link href="/ferramentas" className="hover:underline">Ferramentas →</Link>
         </div>
       </main>
     </div>

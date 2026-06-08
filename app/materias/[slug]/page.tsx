@@ -249,7 +249,7 @@ export default async function MateriaPage({ params }: { params: Promise<{ slug: 
 
         <main className="max-w-3xl mx-auto px-4 py-10">
           <div className="mb-2">
-            <Link href="/disciplinas/{m.areaSlug}" className="text-xs text-zinc-500 hover:underline">
+            <Link href={`/disciplinas/${m.areaSlug}`} className="text-xs text-zinc-500 hover:underline">
               ← {m.area}
             </Link>
           </div>

@@ -47,6 +47,7 @@ export default async function LandingPage() {
         <div className="max-w-6xl mx-auto flex items-center justify-between">
           <span className="text-xl font-bold text-indigo-600">ENEM Pro</span>
           <div className="flex items-center gap-4">
+            <Link href="/ferramentas" className="text-sm text-zinc-600 hover:text-zinc-900 hidden md:inline">Ferramentas</Link>
             <Link href="/calcular-nota" className="text-sm text-zinc-600 hover:text-zinc-900 hidden sm:inline">Calcular nota</Link>
             <Link href="/planos" className="text-sm text-zinc-600 hover:text-zinc-900">Planos</Link>
             <Link href="/auth/login" className="text-sm text-zinc-600 hover:text-zinc-900">Entrar</Link>
