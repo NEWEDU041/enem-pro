@@ -8,6 +8,7 @@ const YEARS = [2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const MATERIAS_SLUGS = ['fisica','quimica','biologia','historia','geografia','filosofia','sociologia','portugues','literatura','matematica','ingles']
+  const VS_SLUGS = ['descomplica','stoodi','estuda-com']
 
   const corePages: MetadataRoute.Sitemap = [
     { url: base, lastModified: new Date(), changeFrequency: 'monthly', priority: 1 },
@@ -60,5 +61,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.9,
   }))
 
-  return [...corePages, ...gabaritoPages, ...disciplinaLandingPages, ...disciplinePages, ...blogPages]
+  const vsPages: MetadataRoute.Sitemap = VS_SLUGS.map(slug => ({
+    url: `${base}/vs/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.8,
+  }))
+
+  return [...corePages, ...gabaritoPages, ...disciplinaLandingPages, ...disciplinePages, ...blogPages, ...vsPages]
 }
