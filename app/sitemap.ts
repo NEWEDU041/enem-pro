@@ -16,6 +16,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/auth/register`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.7 },
   ]
 
+  const disciplinaLandingPages: MetadataRoute.Sitemap = DISCIPLINES.map(slug => ({
+    url: `${base}/disciplinas/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.85,
+  }))
+
   const disciplinePages: MetadataRoute.Sitemap = DISCIPLINES.flatMap(discipline =>
     YEARS.map(year => ({
       url: `${base}/questoes/${discipline}/${year}`,
@@ -32,5 +39,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }))
 
-  return [...corePages, ...disciplinePages, ...blogPages]
+  return [...corePages, ...disciplinaLandingPages, ...disciplinePages, ...blogPages]
 }

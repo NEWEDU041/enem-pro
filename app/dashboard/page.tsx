@@ -208,7 +208,7 @@ function DashboardContent() {
           <StatCard label="Sequência" value={stats.streak > 0 ? `${stats.streak}d` : '—'} highlight={stats.streak >= 3} />
         </div>
 
-        {/* Quick access — Simulado e Redação */}
+        {/* Quick access — Simulado, Redação, Revisão, Histórico */}
         <div className="grid md:grid-cols-2 gap-4 mb-8">
           <Link href="/simulado" className="bg-white rounded-2xl border border-zinc-200 p-6 hover:border-indigo-400 hover:shadow-sm transition-all flex items-center gap-4">
             <div className="text-3xl">⏱</div>
@@ -223,6 +223,22 @@ function DashboardContent() {
             <div className="min-w-0">
               <div className="font-bold text-zinc-900">Correção de Redação IA</div>
               <div className="text-sm text-zinc-500">5 competências INEP — nota 0 a 1000</div>
+            </div>
+            <span className="ml-auto text-zinc-300 text-lg shrink-0">→</span>
+          </Link>
+          <Link href="/revisao" className="bg-white rounded-2xl border border-red-100 p-6 hover:border-red-400 hover:shadow-sm transition-all flex items-center gap-4">
+            <div className="text-3xl">🔁</div>
+            <div className="min-w-0">
+              <div className="font-bold text-zinc-900">Modo Revisão</div>
+              <div className="text-sm text-zinc-500">Todas as questões erradas — filtre por disciplina</div>
+            </div>
+            <span className="ml-auto text-zinc-300 text-lg shrink-0">→</span>
+          </Link>
+          <Link href="/historico" className="bg-white rounded-2xl border border-zinc-200 p-6 hover:border-indigo-400 hover:shadow-sm transition-all flex items-center gap-4">
+            <div className="text-3xl">📋</div>
+            <div className="min-w-0">
+              <div className="font-bold text-zinc-900">Histórico completo</div>
+              <div className="text-sm text-zinc-500">Todas as respostas com filtros por acerto/disciplina</div>
             </div>
             <span className="ml-auto text-zinc-300 text-lg shrink-0">→</span>
           </Link>
@@ -282,12 +298,17 @@ function DashboardContent() {
         {/* Revisão de erros recentes */}
         {recentWrong.length > 0 && (
           <div className="bg-white rounded-2xl border border-zinc-200 p-6 mb-6">
-            <h2 className="text-lg font-bold mb-4">Revisar questões erradas</h2>
+            <div className="flex items-center justify-between mb-4">
+              <h2 className="text-lg font-bold">Últimos erros</h2>
+              <Link href="/revisao" className="text-xs text-indigo-600 font-semibold hover:underline">
+                Ver todos →
+              </Link>
+            </div>
             <div className="space-y-2">
               {recentWrong.map((w) => (
                 <Link key={`${w.question_id}-${w.answered_at}`} href={`/questoes/${w.question_id}?year=${w.year}`}
                   className="flex items-center justify-between px-4 py-3 rounded-xl border border-zinc-100 hover:border-indigo-300 hover:bg-indigo-50 transition-all text-sm">
-                  <span className="text-zinc-700">{w.discipline} — ENEM {w.year}</span>
+                  <span className="text-zinc-700">{w.discipline.split(',')[0]} — ENEM {w.year}</span>
                   <span className="text-indigo-500 text-xs">Revisar →</span>
                 </Link>
               ))}
@@ -398,11 +419,11 @@ function DashboardContent() {
           </div>
         )}
 
-        {/* History link */}
-        <div className="text-center">
-          <Link href="/questoes" className="text-sm text-indigo-600 hover:underline">
-            Ver todas as questões por ano e disciplina →
-          </Link>
+        {/* Bottom links */}
+        <div className="flex flex-wrap justify-center gap-6 text-sm text-indigo-600">
+          <Link href="/questoes" className="hover:underline">Questões por ano →</Link>
+          <Link href="/revisao" className="hover:underline">Modo revisão →</Link>
+          <Link href="/historico" className="hover:underline">Histórico completo →</Link>
         </div>
       </main>
     </div>
