@@ -2442,6 +2442,179 @@ Se você ainda está no 1º ou 2º ano, não vai ter todo o conteúdo do Ensino 
 Pratique questões reais do ENEM no ENEM Pro. 10 grátis por dia — perfeito para treineiros que querem se preparar com antecedência.
     `,
   },
+  {
+    slug: 'melhor-app-estudar-enem-gratis',
+    title: 'Melhor Aplicativo para Estudar para o ENEM Grátis em 2026',
+    description: 'Quais são os melhores apps e plataformas para estudar para o ENEM grátis? Compare ENEM Pro, Descomplica, Khan Academy e outros. Questões reais INEP + IA.',
+    date: '2026-05-20',
+    readTime: 6,
+    content: `
+Existe uma diferença enorme entre plataformas que prometem preparação para o ENEM e as que realmente entregam. Este guia compara os principais apps e plataformas gratuitas — ou com versão gratuita robusta.
+
+## O que um bom app para o ENEM precisa ter?
+
+Antes de comparar, defina o critério. Um bom aplicativo para o ENEM deve ter:
+
+1. **Questões reais do INEP** — não questões genéricas "estilo ENEM"
+2. **Gabarito imediato** — não adianta resolver sem saber se errou
+3. **Explicação dos erros** — saber a resposta certa não basta; você precisa entender o raciocínio
+4. **Organização por disciplina e ano** — para treinar onde você é mais fraco
+5. **Acompanhamento do progresso** — sem dados, você não sabe o que melhorar
+
+## Comparativo: Principais Plataformas ENEM 2026
+
+| Plataforma | Questões INEP reais | Gratuito | Explicação IA | Preço Pro |
+|-----------|--------------------|---------|-----------|-----------
+| **ENEM Pro** | ✓ 2009–2024 | 10/dia | ✓ Por questão | R$14,90/mês |
+| Descomplica | Parcial | Limitado | ✗ | R$39–79/mês |
+| Stoodi | Parcial | Trial | ✗ | R$39/mês |
+| Khan Academy | ✗ | ✓ Total | ✗ | Grátis |
+| QConcursos | ✓ | Limitado | ✗ | Pago |
+| Me Salva! | Parcial | Limitado | ✗ | R$29/mês |
+
+## Khan Academy — Melhor Totalmente Grátis (mas sem questões INEP)
+
+Khan Academy é a melhor opção totalmente gratuita para **reforçar conteúdo**. Videoaulas de alta qualidade em Matemática e Ciências. Limitação: as questões não são da prova real do INEP.
+
+**Ideal para:** quem precisa entender o conteúdo do zero.
+
+## ENEM Pro — Melhor para Praticar Questões Reais
+
+O ENEM Pro usa exclusivamente questões do banco oficial do INEP (2009–2024). O diferencial é a **explicação de IA para cada questão errada** — não um gabarito genérico, mas uma análise do raciocínio específico daquela questão.
+
+**Versão gratuita:** 10 questões por dia — suficiente para manutenção consistente de estudos.
+**Pro (R$14,90/mês):** ilimitado + simulados completos + modo revisão de erros.
+
+## Descomplica e Stoodi — Para Quem Prefere Videoaulas
+
+Se você aprende melhor assistindo do que praticando, Descomplica e Stoodi têm grandes bibliotecas de videoaulas. O custo é maior (R$39–79/mês) e o foco é diferente: conteúdo, não prática.
+
+**Limitação:** videoaula não substitui prática com questões reais. Você pode entender tudo na teoria e errar na prova por falta de treino.
+
+## Estratégia: Combine Plataformas
+
+O melhor resultado vem de combinar:
+- **Khan Academy** para entender o conteúdo (grátis)
+- **ENEM Pro** para praticar com questões reais e corrigir erros (grátis com 10/dia)
+
+Essa combinação cobre conteúdo + prática sem custo.
+
+---
+
+Comece grátis no ENEM Pro — 10 questões reais do INEP por dia, sem cartão de crédito.
+    `,
+  },
+  {
+    slug: 'alternativa-descomplica-gratuita',
+    title: 'Alternativa Gratuita ao Descomplica para o ENEM 2026',
+    description: 'Procurando alternativa gratuita ao Descomplica? Veja plataformas com questões reais INEP, explicação de IA e plano gratuito robusto para o ENEM 2026.',
+    date: '2026-05-22',
+    readTime: 5,
+    content: `
+O Descomplica cobra entre R$39 e R$79 por mês — o equivalente a quase R$1.000 por ano. Para muitos candidatos ao ENEM, esse valor é inviável. A boa notícia: existem alternativas gratuitas (ou muito mais baratas) que entregam o que mais importa na preparação.
+
+## O que o Descomplica oferece — e o que você realmente precisa
+
+O Descomplica é forte em **videoaulas**. Professores especializados, conteúdo bem produzido, organizado por disciplina. É uma boa plataforma.
+
+Mas videoaula não é suficiente para o ENEM. O ENEM cobra **aplicação** de conteúdo em questões contextualizadas — e isso só se aprende praticando com questões reais.
+
+## Alternativas gratuitas que entregam mais prática
+
+### 1. ENEM Pro — Melhor para Questões INEP Reais
+
+O ENEM Pro foca exclusivamente em questões oficiais do INEP (2009–2024). Diferente do Descomplica, o plano gratuito oferece **10 questões por dia com gabarito imediato**.
+
+O diferencial: ao errar, a **IA explica o raciocínio específico** daquela questão — não uma resposta genérica. É como ter um professor particular que analisa cada erro seu.
+
+| | Descomplica | ENEM Pro (grátis) |
+|--|-------------|-------------------|
+| Questões INEP reais | Parcial | ✓ 2009–2024 |
+| Grátis por dia | Trial curto | 10 questões/dia |
+| IA por questão | ✗ | ✓ |
+| Preço Pro | R$39–79/mês | R$14,90/mês |
+
+### 2. Khan Academy — Melhor para Conteúdo Base
+
+Khan Academy é 100% gratuita e excelente para **entender o conteúdo** de Matemática e Ciências. Não tem questões INEP, mas é imbatível para reforço de base.
+
+### 3. YouTube — Canais Especializados
+
+Canais como Ferretto Matemática, Biologia Total e Professor Noslen têm conteúdo gratuito de altíssima qualidade. Não substituem a prática, mas complementam bem.
+
+## Estratégia sem gastar R$79/mês
+
+1. **YouTube/Khan Academy** para entender o conteúdo (grátis)
+2. **ENEM Pro** para praticar com questões reais (10/dia grátis)
+3. **ENEM Pro Pro** se quiser ilimitado — R$14,90/mês vs R$79/mês do Descomplica
+
+Você economiza até R$772/ano mantendo a preparação focada no que realmente conta.
+
+---
+
+Crie sua conta gratuita no ENEM Pro — sem cartão, sem compromisso.
+    `,
+  },
+  {
+    slug: 'questoes-enem-online-gratis',
+    title: 'Questões ENEM Online Grátis — Banco Completo 2009 a 2024',
+    description: 'Pratique questões reais do ENEM online e grátis. Banco completo de 2009 a 2024 com gabarito imediato e explicação de IA. Matemática, Humanas, Natureza e Linguagens.',
+    date: '2026-05-25',
+    readTime: 5,
+    content: `
+O ENEM tem um banco oficial de questões — e você pode praticar com questões reais online, gratuitamente, sem precisar baixar PDFs de provas antigas.
+
+## Onde encontrar questões ENEM online grátis
+
+### ENEM Pro — Banco Interativo 2009–2024
+
+O ENEM Pro oferece acesso a todas as questões do ENEM de 2009 a 2024 de forma interativa: você responde, vê o gabarito imediatamente e, no plano Pro, recebe explicação detalhada da IA.
+
+**Grátis:** 10 questões por dia
+**Como acessar:** crie uma conta em enem-pro-eight.vercel.app — sem cartão de crédito.
+
+### INEP — PDFs Oficiais
+
+O INEP disponibiliza os PDFs das provas antigas em seu site (gov.br/enem). São gratuitos e oficiais, mas você precisa corrigir manualmente com o gabarito — sem interatividade.
+
+### Questões por Disciplina no ENEM Pro
+
+O banco do ENEM Pro é filtrado por disciplina e ano:
+- [Questões de Matemática →](/questoes/matematica)
+- [Questões de Ciências da Natureza →](/questoes/ciencias-natureza)
+- [Questões de Ciências Humanas →](/questoes/ciencias-humanas)
+- [Questões de Linguagens →](/questoes/linguagens)
+
+## Como usar as questões ENEM online de forma eficaz
+
+**Não resolva questões aleatoriamente.** Tenha uma estratégia:
+
+1. **Comece pela sua disciplina mais fraca** — é onde o ganho é maior
+2. **Resolva por ano** — questões mais recentes refletem o estilo atual da prova
+3. **Nunca pule o gabarito** — entender o erro é mais importante que resolver a questão
+4. **Use o modo revisão** — no ENEM Pro, questões erradas ficam salvas para você rever
+
+## Quantas questões praticar por dia?
+
+| Meta | Questões/dia | Resultado em 6 meses |
+|------|-------------|----------------------|
+| Mínimo | 10 (grátis) | 1.800 questões |
+| Moderado | 20 | 3.600 questões |
+| Intensivo | 45 (1 prova/dia) | 8.100 questões |
+
+**10 questões por dia consistentes superam qualquer maratona de fim de semana.** O cérebro fixa mais com repetição espaçada do que com volume concentrado.
+
+## Dicas para aproveitar ao máximo as questões online
+
+- **Resolva sem pressa** — o ENEM dá ~6 minutos por questão. Treinar com o mesmo ritmo ajuda.
+- **Anote padrões de erro** — se você erra sempre funções em Matemática, é onde precisa estudar
+- **Não use calculadora** — o ENEM não permite calculadora. Treine sem.
+
+---
+
+Acesse o banco completo de questões ENEM 2009–2024 no ENEM Pro. 10 por dia, grátis, sem cartão.
+    `,
+  },
 ]
 
 // ─── Auto-generated SEO posts: gabarito por disciplina/ano ───────────────────
