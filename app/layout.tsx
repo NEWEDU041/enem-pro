@@ -1,11 +1,26 @@
 import type { Metadata, Viewport } from 'next'
 import { Inter } from 'next/font/google'
+import Script from 'next/script'
 import './globals.css'
 import ServiceWorkerRegistrar from '@/components/ServiceWorkerRegistrar'
+import { SITE_URL } from '@/lib/site-config'
 
 const inter = Inter({ subsets: ['latin'], display: 'optional' })
 
-const siteUrl = 'https://enem-pro-eight.vercel.app'
+const siteUrl = SITE_URL
+
+const educationalOrgSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'EducationalOrganization',
+  name: 'ENEM Pro',
+  url: siteUrl,
+  description: 'Plataforma de preparação para o ENEM com questões reais do INEP e explicações geradas por IA.',
+  sameAs: [],
+  offers: [
+    { '@type': 'Offer', price: '0', priceCurrency: 'BRL', name: 'Plano Grátis — 10 questões/dia' },
+    { '@type': 'Offer', price: '14.90', priceCurrency: 'BRL', name: 'Plano Pro — questões ilimitadas + IA' },
+  ],
+}
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -47,6 +62,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link rel="dns-prefetch" href="https://api.enem.dev" />
       </head>
       <body className={`${inter.className} min-h-full bg-zinc-50 text-zinc-900 antialiased`}>
+        <Script
+          id="educational-org-schema"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(educationalOrgSchema) }}
+        />
         <ServiceWorkerRegistrar />
         {children}
       </body>

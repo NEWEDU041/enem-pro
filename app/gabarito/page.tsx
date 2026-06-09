@@ -1,10 +1,11 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
+import { SITE_URL } from '@/lib/site-config'
 
 export const metadata: Metadata = {
   title: 'Gabarito ENEM — Todas as Edições 2009 a 2024 | ENEM Pro',
   description: 'Gabarito oficial do ENEM de todas as edições de 2009 a 2024. Matemática, Linguagens, Ciências Humanas e Ciências da Natureza com respostas corretas.',
-  alternates: { canonical: 'https://enem-pro-eight.vercel.app/gabarito' },
+  alternates: { canonical: `${SITE_URL}/gabarito` },
 }
 
 const YEARS = [2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
@@ -33,19 +34,29 @@ const jsonLd = {
   '@type': 'ItemList',
   name: 'Gabarito ENEM — Todas as Edições',
   description: 'Gabarito oficial do ENEM de 2009 a 2024',
-  url: 'https://enem-pro-eight.vercel.app/gabarito',
+  url: `${SITE_URL}/gabarito`,
   itemListElement: YEARS.map((y, i) => ({
     '@type': 'ListItem',
     position: i + 1,
     name: `Gabarito ENEM ${y}`,
-    url: `https://enem-pro-eight.vercel.app/gabarito/${y}`,
+    url: `${SITE_URL}/gabarito/${y}`,
   })),
+}
+
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'ENEM Pro', item: SITE_URL },
+    { '@type': 'ListItem', position: 2, name: 'Gabarito ENEM', item: `${SITE_URL}/gabarito` },
+  ],
 }
 
 export default function GabaritoIndexPage() {
   return (
     <div className="min-h-screen bg-zinc-50">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
 
       <nav className="sticky top-0 z-50 bg-white border-b border-zinc-200 px-6 py-4">
         <div className="max-w-5xl mx-auto flex items-center justify-between">

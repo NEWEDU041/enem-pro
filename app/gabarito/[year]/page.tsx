@@ -2,6 +2,7 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { fetchQuestionsByYearCached } from '@/lib/questions-cache'
+import { SITE_URL } from '@/lib/site-config'
 
 const VALID_YEARS = [2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
 
@@ -14,7 +15,7 @@ export async function generateMetadata({ params }: { params: Promise<{ year: str
   return {
     title: `Gabarito ENEM ${year} — Todas as Disciplinas | ENEM Pro`,
     description: `Gabarito oficial do ENEM ${year} completo: Matemática, Linguagens, Ciências Humanas e Ciências da Natureza. Veja as respostas corretas de todas as questões.`,
-    alternates: { canonical: `https://enem-pro-eight.vercel.app/gabarito/${year}` },
+    alternates: { canonical: `${SITE_URL}/gabarito/${year}` },
     openGraph: {
       title: `Gabarito ENEM ${year} Completo | ENEM Pro`,
       description: `Gabarito oficial do ENEM ${year}. Respostas corretas de todas as disciplinas.`,
@@ -66,18 +67,33 @@ export default async function GabaritoYearPage({ params }: { params: Promise<{ y
   const disciplines = DISC_ORDER.filter((d) => byDisc[d]?.length)
   const otherYears = VALID_YEARS.filter((y) => y !== yearNum)
 
+  const pageUrl = `${SITE_URL}/gabarito/${year}`
+
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: `Gabarito ENEM ${year} — Todas as Disciplinas`,
     description: `Gabarito oficial do ENEM ${year} completo com respostas corretas de todas as questões.`,
-    url: `https://enem-pro-eight.vercel.app/gabarito/${year}`,
-    publisher: { '@type': 'Organization', name: 'ENEM Pro', url: 'https://enem-pro-eight.vercel.app' },
+    url: pageUrl,
+    inLanguage: 'pt-BR',
+    publisher: { '@type': 'EducationalOrganization', name: 'ENEM Pro', url: SITE_URL },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+  }
+
+  const breadcrumbLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'ENEM Pro', item: SITE_URL },
+      { '@type': 'ListItem', position: 2, name: 'Gabarito ENEM', item: `${SITE_URL}/gabarito` },
+      { '@type': 'ListItem', position: 3, name: `Gabarito ENEM ${year}`, item: pageUrl },
+    ],
   }
 
   return (
     <div className="min-h-screen bg-zinc-50">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
 
       <nav className="sticky top-0 z-50 bg-white border-b border-zinc-200 px-6 py-4">
         <div className="max-w-5xl mx-auto flex items-center justify-between">

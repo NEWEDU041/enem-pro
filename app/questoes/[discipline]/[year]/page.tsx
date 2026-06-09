@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
 import { fetchQuestionsByYearCached } from '@/lib/questions-cache'
+import { SITE_URL } from '@/lib/site-config'
 
 export const dynamic = 'force-dynamic'
 
@@ -25,7 +26,7 @@ export async function generateMetadata({ params }: { params: Promise<{ disciplin
   return {
     title: `Questões de ${shortDisc} ENEM ${year} com gabarito — ENEM Pro`,
     description: `Pratique todas as questões de ${shortDisc} do ENEM ${year} com gabarito oficial e explicação por IA. Treine grátis.`,
-    alternates: { canonical: `https://enem-pro-eight.vercel.app/questoes/${discipline}/${year}` },
+    alternates: { canonical: `${SITE_URL}/questoes/${discipline}/${year}` },
   }
 }
 
@@ -55,22 +56,37 @@ export default async function SEOQuestoesPage({ params }: { params: Promise<{ di
   const otherYears = VALID_YEARS.filter(y => y !== yearNum).slice(0, 6)
   const otherDiscs = Object.entries(SLUG_TO_DISCIPLINE).filter(([s]) => s !== discipline)
 
+  const pageUrl = `${SITE_URL}/questoes/${discipline}/${year}`
+
   const courseSchema = {
     '@context': 'https://schema.org',
     '@type': 'Course',
     name: `Questões de ${shortDisc} ENEM ${year}`,
     description: `Pratique todas as questões de ${shortDisc} do ENEM ${year} com gabarito oficial e explicação por IA.`,
-    provider: { '@type': 'Organization', name: 'ENEM Pro', url: 'https://enem-pro-eight.vercel.app' },
+    url: pageUrl,
+    provider: { '@type': 'EducationalOrganization', name: 'ENEM Pro', url: SITE_URL },
     hasCourseInstance: {
       '@type': 'CourseInstance',
       courseMode: 'online',
+      inLanguage: 'pt-BR',
       offers: { '@type': 'Offer', price: '0', priceCurrency: 'BRL', availability: 'https://schema.org/InStock' },
     },
+  }
+
+  const breadcrumbLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'ENEM Pro', item: SITE_URL },
+      { '@type': 'ListItem', position: 2, name: shortDisc, item: `${SITE_URL}/disciplinas/${discipline}` },
+      { '@type': 'ListItem', position: 3, name: `${shortDisc} ENEM ${year}`, item: pageUrl },
+    ],
   }
 
   return (
     <div className="min-h-screen bg-zinc-50">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(courseSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
       <header className="bg-white border-b border-zinc-200 px-6 py-4">
         <div className="max-w-5xl mx-auto flex items-center justify-between">
           <Link href="/" className="text-xl font-bold text-indigo-600">ENEM Pro</Link>

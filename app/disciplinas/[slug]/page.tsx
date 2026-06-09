@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
+import { SITE_URL } from '@/lib/site-config'
 
 const DISCIPLINES_MAP: Record<string, {
   name: string
@@ -72,7 +73,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `Questões ENEM ${disc.name} 2009–2024 | ENEM Pro`,
     description: disc.desc,
-    alternates: { canonical: `https://enem-pro-eight.vercel.app/disciplinas/${slug}` },
+    alternates: { canonical: `${SITE_URL}/disciplinas/${slug}` },
     openGraph: {
       title: `Questões ENEM ${disc.name} | ENEM Pro`,
       description: disc.desc,
@@ -97,29 +98,41 @@ export default async function DisciplinaPage({ params }: { params: Promise<{ slu
   const c = COLOR_MAP[disc.color]
   const apiDisc = encodeURIComponent(SLUG_TO_API_DISCIPLINE[slug])
 
+  const pageUrl = `${SITE_URL}/disciplinas/${slug}`
+
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Course',
     name: `ENEM ${disc.name} — Questões 2009 a 2024`,
     description: disc.desc,
+    url: pageUrl,
     provider: {
-      '@type': 'Organization',
+      '@type': 'EducationalOrganization',
       name: 'ENEM Pro',
-      url: 'https://enem-pro-eight.vercel.app',
+      url: SITE_URL,
     },
     hasCourseInstance: YEARS.map((y) => ({
       '@type': 'CourseInstance',
       name: `ENEM ${disc.name} ${y}`,
       courseMode: 'online',
+      inLanguage: 'pt-BR',
     })),
+  }
+
+  const breadcrumbLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'ENEM Pro', item: SITE_URL },
+      { '@type': 'ListItem', position: 2, name: 'Questões ENEM', item: `${SITE_URL}/questoes` },
+      { '@type': 'ListItem', position: 3, name: `${disc.name}`, item: pageUrl },
+    ],
   }
 
   return (
     <div className="min-h-screen bg-zinc-50">
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
 
       {/* Nav */}
       <nav className="sticky top-0 z-50 bg-white border-b border-zinc-200 px-6 py-4">

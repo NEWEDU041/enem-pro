@@ -3,6 +3,7 @@ import type { ReactNode } from 'react'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { getPost, getAllSlugs, getAllPosts } from '@/lib/blog-data'
+import { SITE_URL } from '@/lib/site-config'
 
 export const dynamic = 'force-dynamic'
 
@@ -17,7 +18,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: post.title,
     description: post.description,
-    alternates: { canonical: `https://enem-pro-eight.vercel.app/blog/${slug}` },
+    alternates: { canonical: `${SITE_URL}/blog/${slug}` },
     openGraph: {
       title: post.title,
       description: post.description,
@@ -135,18 +136,36 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
 
   const related = getAllPosts().filter(p => p.slug !== slug).slice(0, 3)
 
+  const postUrl = `${SITE_URL}/blog/${slug}`
+
   const articleSchema = {
     '@context': 'https://schema.org',
-    '@type': 'Article',
+    '@type': 'BlogPosting',
     headline: post.title,
     description: post.description,
     datePublished: post.date,
-    publisher: { '@type': 'Organization', name: 'ENEM Pro', url: 'https://enem-pro-eight.vercel.app' },
+    dateModified: post.date,
+    url: postUrl,
+    inLanguage: 'pt-BR',
+    author: { '@type': 'Organization', name: 'ENEM Pro', url: SITE_URL },
+    publisher: { '@type': 'EducationalOrganization', name: 'ENEM Pro', url: SITE_URL },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': postUrl },
+  }
+
+  const breadcrumbLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'ENEM Pro', item: SITE_URL },
+      { '@type': 'ListItem', position: 2, name: 'Blog', item: `${SITE_URL}/blog` },
+      { '@type': 'ListItem', position: 3, name: post.title, item: postUrl },
+    ],
   }
 
   return (
     <div className="min-h-screen bg-white">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
 
       <header className="bg-white border-b border-zinc-200 px-6 py-4">
         <div className="max-w-3xl mx-auto flex items-center justify-between">

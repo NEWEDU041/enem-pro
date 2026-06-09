@@ -1,8 +1,9 @@
 import type { MetadataRoute } from 'next'
+import { SITE_URL } from '@/lib/site-config'
 
 export default function robots(): MetadataRoute.Robots {
   return {
-    rules: { userAgent: '*', allow: '/', disallow: ['/api/', '/dashboard/'] },
-    sitemap: 'https://enem-pro-eight.vercel.app/sitemap.xml',
+    rules: { userAgent: '*', allow: '/', disallow: ['/api/', '/dashboard/', '/admin/', '/auth/'] },
+    sitemap: `${SITE_URL}/sitemap.xml`,
   }
 }

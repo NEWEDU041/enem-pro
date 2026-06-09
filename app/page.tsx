@@ -2,6 +2,7 @@ import Link from 'next/link'
 import Script from 'next/script'
 import DemoQuestion from '@/components/DemoQuestion'
 import { createServerClient } from '@/lib/supabase'
+import { SITE_URL } from '@/lib/site-config'
 
 async function getLiveStats() {
   try {
@@ -20,17 +21,54 @@ async function getLiveStats() {
   }
 }
 
+const faqItems = [
+  {
+    q: 'O ENEM Pro é grátis?',
+    a: 'Sim. O plano gratuito permite responder até 10 questões por dia sem necessidade de cartão de crédito. O plano Pro (R$14,90/mês) libera questões ilimitadas e as explicações geradas por IA.',
+  },
+  {
+    q: 'Quantas questões do ENEM estão disponíveis?',
+    a: 'O ENEM Pro reúne mais de 3.600 questões oficiais do INEP de 2009 a 2024, organizadas por ano, disciplina e área de conhecimento.',
+  },
+  {
+    q: 'O ENEM Pro tem questões de todas as disciplinas?',
+    a: 'Sim. Todas as 4 áreas do ENEM estão cobertas: Matemática, Linguagens e Códigos, Ciências Humanas e Ciências da Natureza — com questões de todos os anos desde 2009.',
+  },
+  {
+    q: 'Como funciona a explicação por IA?',
+    a: 'Após responder uma questão no plano Pro, a IA analisa a questão e gera em 30 segundos uma explicação completa: por que a alternativa correta está certa e por que as erradas estão erradas.',
+  },
+  {
+    q: 'Posso usar o ENEM Pro para simulados completos?',
+    a: 'Sim. O recurso de simulado permite montar provas com 10, 20 ou 45 questões por disciplina, com timer e nota estimada ao final — simulando as condições reais do ENEM.',
+  },
+  {
+    q: 'O ENEM Pro tem calculadora de nota?',
+    a: 'Sim. A calculadora de nota ENEM usa uma aproximação da curva TRI para estimar sua nota por área (300–900) a partir do número de acertos, e compara com as notas de corte de cursos como Medicina, Direito e Engenharia.',
+  },
+]
+
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'WebApplication',
   name: 'ENEM Pro',
-  url: 'https://enem-pro-eight.vercel.app',
+  url: SITE_URL,
   description: 'Todas as questões do ENEM de 2009 a 2024 com explicação gerada por IA.',
   applicationCategory: 'EducationApplication',
   offers: [
     { '@type': 'Offer', price: '0', priceCurrency: 'BRL', name: 'Plano Grátis' },
     { '@type': 'Offer', price: '14.90', priceCurrency: 'BRL', name: 'Plano Pro' },
   ],
+}
+
+const faqLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqItems.map(({ q, a }) => ({
+    '@type': 'Question',
+    name: q,
+    acceptedAnswer: { '@type': 'Answer', text: a },
+  })),
 }
 
 export default async function LandingPage() {
@@ -41,6 +79,11 @@ export default async function LandingPage() {
         id="json-ld"
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <Script
+        id="faq-ld"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
       />
       {/* Nav */}
       <nav className="sticky top-0 z-50 bg-white border-b border-zinc-200 px-6 py-4">
@@ -248,6 +291,25 @@ export default async function LandingPage() {
         </div>
       </section>
 
+      {/* FAQ */}
+      <section className="py-20 px-6 bg-white border-t border-zinc-100">
+        <div className="max-w-3xl mx-auto">
+          <h2 className="text-3xl font-bold text-center mb-4">Perguntas frequentes</h2>
+          <p className="text-zinc-500 text-center mb-12 max-w-lg mx-auto">Tudo que você precisa saber antes de começar.</p>
+          <div className="space-y-4">
+            {faqItems.map(({ q, a }) => (
+              <details key={q} className="group bg-zinc-50 rounded-2xl border border-zinc-200 px-6 py-4">
+                <summary className="flex items-center justify-between cursor-pointer list-none font-semibold text-zinc-900 text-sm gap-4">
+                  {q}
+                  <span className="text-indigo-500 shrink-0 text-lg group-open:rotate-45 transition-transform">+</span>
+                </summary>
+                <p className="mt-4 text-zinc-500 text-sm leading-relaxed">{a}</p>
+              </details>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* CTA final */}
       <section className="bg-indigo-600 py-20 px-6 text-center text-white">
         <h2 className="text-3xl font-bold mb-4">O ENEM 2026 não espera.</h2>
@@ -261,8 +323,53 @@ export default async function LandingPage() {
         </Link>
       </section>
 
-      <footer className="bg-zinc-900 text-zinc-500 text-sm py-8 px-6 text-center">
-        <p>© 2026 ENEM Pro — Questões reais do ENEM com explicação por IA</p>
+      <footer className="bg-zinc-900 text-zinc-400 text-sm py-12 px-6">
+        <div className="max-w-6xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 mb-10">
+          <div>
+            <p className="text-white font-semibold mb-3">Questões ENEM</p>
+            <ul className="space-y-2">
+              <li><Link href="/disciplinas/matematica" className="hover:text-white transition-colors">Matemática</Link></li>
+              <li><Link href="/disciplinas/linguagens" className="hover:text-white transition-colors">Linguagens</Link></li>
+              <li><Link href="/disciplinas/ciencias-humanas" className="hover:text-white transition-colors">Ciências Humanas</Link></li>
+              <li><Link href="/disciplinas/ciencias-natureza" className="hover:text-white transition-colors">Ciências da Natureza</Link></li>
+            </ul>
+          </div>
+          <div>
+            <p className="text-white font-semibold mb-3">Por Matéria</p>
+            <ul className="space-y-2">
+              <li><Link href="/materias/fisica" className="hover:text-white transition-colors">Física</Link></li>
+              <li><Link href="/materias/quimica" className="hover:text-white transition-colors">Química</Link></li>
+              <li><Link href="/materias/biologia" className="hover:text-white transition-colors">Biologia</Link></li>
+              <li><Link href="/materias/matematica" className="hover:text-white transition-colors">Matemática</Link></li>
+              <li><Link href="/materias/historia" className="hover:text-white transition-colors">História</Link></li>
+              <li><Link href="/materias/geografia" className="hover:text-white transition-colors">Geografia</Link></li>
+            </ul>
+          </div>
+          <div>
+            <p className="text-white font-semibold mb-3">Ferramentas</p>
+            <ul className="space-y-2">
+              <li><Link href="/calcular-nota" className="hover:text-white transition-colors">Calcular nota ENEM</Link></li>
+              <li><Link href="/gabarito" className="hover:text-white transition-colors">Gabarito ENEM</Link></li>
+              <li><Link href="/simulado" className="hover:text-white transition-colors">Simulado</Link></li>
+              <li><Link href="/cronograma" className="hover:text-white transition-colors">Cronograma de estudos</Link></li>
+              <li><Link href="/temas-redacao" className="hover:text-white transition-colors">Temas de redação</Link></li>
+              <li><Link href="/questao-do-dia" className="hover:text-white transition-colors">Questão do dia</Link></li>
+            </ul>
+          </div>
+          <div>
+            <p className="text-white font-semibold mb-3">ENEM Pro</p>
+            <ul className="space-y-2">
+              <li><Link href="/planos" className="hover:text-white transition-colors">Planos e preços</Link></li>
+              <li><Link href="/blog" className="hover:text-white transition-colors">Blog ENEM</Link></li>
+              <li><Link href="/auth/register" className="hover:text-white transition-colors">Criar conta grátis</Link></li>
+              <li><Link href="/auth/login" className="hover:text-white transition-colors">Entrar</Link></li>
+            </ul>
+          </div>
+        </div>
+        <div className="max-w-6xl mx-auto border-t border-zinc-800 pt-6 flex flex-col sm:flex-row justify-between gap-2">
+          <p>© 2026 ENEM Pro — Questões reais do ENEM com explicação por IA</p>
+          <p className="text-zinc-600">Gabarito ENEM 2009–2024 · Questões reais INEP</p>
+        </div>
       </footer>
     </div>
   )

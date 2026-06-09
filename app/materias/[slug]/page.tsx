@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
+import { SITE_URL } from '@/lib/site-config'
 
 type Materia = {
   name: string
@@ -211,7 +212,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `${m.name} no ENEM — O que Cai, Dicas e Questões | ENEM Pro`,
     description: m.desc,
-    alternates: { canonical: `https://enem-pro-eight.vercel.app/materias/${slug}` },
+    alternates: { canonical: `${SITE_URL}/materias/${slug}` },
     openGraph: { title: `${m.name} no ENEM`, description: m.desc },
   }
 }
@@ -223,12 +224,15 @@ export default async function MateriaPage({ params }: { params: Promise<{ slug: 
 
   const c = COLOR_MAP[m.color]
 
+  const pageUrl = `${SITE_URL}/materias/${slug}`
+
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Course',
     name: `${m.name} para o ENEM`,
     description: m.desc,
-    provider: { '@type': 'Organization', name: 'ENEM Pro', url: 'https://enem-pro-eight.vercel.app' },
+    url: pageUrl,
+    provider: { '@type': 'EducationalOrganization', name: 'ENEM Pro', url: SITE_URL },
     hasCourseInstance: {
       '@type': 'CourseInstance',
       courseMode: 'online',
@@ -236,9 +240,31 @@ export default async function MateriaPage({ params }: { params: Promise<{ slug: 
     },
   }
 
+  const breadcrumbLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'ENEM Pro', item: SITE_URL },
+      { '@type': 'ListItem', position: 2, name: `${m.area}`, item: `${SITE_URL}/disciplinas/${m.areaSlug}` },
+      { '@type': 'ListItem', position: 3, name: `${m.name} no ENEM`, item: pageUrl },
+    ],
+  }
+
+  const faqLd = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: m.dicas.map((dica, i) => ({
+      '@type': 'Question',
+      name: `Dica ${i + 1}: Como estudar ${m.name} para o ENEM?`,
+      acceptedAnswer: { '@type': 'Answer', text: dica },
+    })),
+  }
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }} />
       <div className="min-h-screen bg-zinc-50">
         <header className="bg-white border-b border-zinc-200 px-4 py-4 flex items-center justify-between">
           <Link href="/" className="text-xl font-bold text-indigo-600">ENEM Pro</Link>
