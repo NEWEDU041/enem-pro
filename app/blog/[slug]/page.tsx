@@ -176,21 +176,21 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
         </div>
       </header>
 
-      <main className="max-w-3xl mx-auto px-6 py-12">
-        <nav className="text-xs text-zinc-400 mb-8">
-          <Link href="/" className="hover:text-zinc-700">Início</Link>
-          {' / '}
-          <Link href="/blog" className="hover:text-zinc-700">Blog</Link>
-          {' / '}
-          <span className="text-zinc-600">{post.title.slice(0, 40)}...</span>
+      <main id="main-content" className="max-w-3xl mx-auto px-6 py-12">
+        <nav aria-label="Breadcrumb" className="text-xs text-zinc-500 mb-8 flex items-center gap-1.5">
+          <Link href="/" className="hover:text-indigo-600 transition-colors">Início</Link>
+          <span aria-hidden="true">/</span>
+          <Link href="/blog" className="hover:text-indigo-600 transition-colors">Blog</Link>
+          <span aria-hidden="true">/</span>
+          <span className="text-zinc-700 truncate max-w-xs">{post.title.slice(0, 40)}…</span>
         </nav>
 
         <div className="flex items-center gap-3 mb-6">
-          <span className="text-sm text-zinc-400">
+          <time dateTime={post.date} className="text-sm text-zinc-600">
             {new Date(post.date).toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' })}
-          </span>
-          <span className="text-zinc-200">·</span>
-          <span className="text-sm text-zinc-400">{post.readTime} min de leitura</span>
+          </time>
+          <span aria-hidden="true" className="text-zinc-300">·</span>
+          <span className="text-sm text-zinc-600">{post.readTime} min de leitura</span>
         </div>
 
         <h1 className="text-4xl font-bold text-zinc-900 leading-tight mb-6">{post.title}</h1>
@@ -212,23 +212,30 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
         </div>
 
         {related.length > 0 && (
-          <div className="mt-12">
+          <nav aria-label="Artigos relacionados" className="mt-12">
             <h2 className="text-xl font-bold text-zinc-900 mb-6">Artigos relacionados</h2>
             <div className="space-y-4">
               {related.map(p => (
                 <Link key={p.slug} href={`/blog/${p.slug}`}
+                  aria-label={`Ler artigo relacionado: ${p.title}`}
                   className="block bg-zinc-50 rounded-xl px-5 py-4 hover:bg-indigo-50 hover:border-indigo-200 border border-transparent transition-all">
                   <p className="font-semibold text-zinc-900 text-sm mb-1">{p.title}</p>
-                  <p className="text-xs text-zinc-400">{p.readTime} min de leitura</p>
+                  <p className="text-xs text-zinc-500">{p.readTime} min de leitura</p>
                 </Link>
               ))}
             </div>
-          </div>
+          </nav>
         )}
       </main>
 
-      <footer className="bg-zinc-900 text-zinc-500 text-sm py-8 px-6 text-center mt-16">
-        <p>© 2026 ENEM Pro — Questões reais do ENEM com explicação por IA</p>
+      <footer className="bg-zinc-900 text-zinc-400 text-sm py-8 px-6 mt-16">
+        <div className="max-w-3xl mx-auto flex flex-col sm:flex-row justify-between gap-2">
+          <p>© 2026 ENEM Pro — Questões reais do ENEM com explicação por IA</p>
+          <nav aria-label="Links do rodapé" className="flex gap-4">
+            <Link href="/blog" className="hover:text-white transition-colors">Blog</Link>
+            <Link href="/gabarito" className="hover:text-white transition-colors">Gabarito</Link>
+          </nav>
+        </div>
       </footer>
     </div>
   )

@@ -74,7 +74,7 @@ const faqLd = {
 export default async function LandingPage() {
   const stats = await getLiveStats()
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="flex flex-col min-h-screen" id="page-root">
       <Script
         id="json-ld"
         type="application/ld+json"
@@ -104,6 +104,7 @@ export default async function LandingPage() {
         </div>
       </nav>
 
+      <main id="main-content">
       {/* Hero */}
       <section className="flex-1 flex flex-col items-center justify-center px-6 py-24 text-center">
         <div className="inline-flex items-center gap-2 bg-indigo-50 text-indigo-700 text-sm font-medium px-4 py-2 rounded-full mb-8">
@@ -323,6 +324,7 @@ export default async function LandingPage() {
         </Link>
       </section>
 
+      </main>
       <footer className="bg-zinc-900 text-zinc-400 text-sm py-12 px-6">
         <div className="max-w-6xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 mb-10">
           <div>

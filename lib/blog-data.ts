@@ -2724,3 +2724,17 @@ export function getAllSlugs(): string[] {
 export function getAllPosts(): BlogPost[] {
   return ALL_POSTS
 }
+
+export type BlogCategory = 'Gabarito' | 'Questões' | 'Redação' | 'Universidades' | 'Por Matéria' | 'Estratégias' | 'Como Funciona' | 'Planejamento' | 'Comparativos'
+
+export function getCategory(slug: string): BlogCategory {
+  if (slug.startsWith('gabarito')) return 'Gabarito'
+  if (slug.startsWith('redacao')) return 'Redação'
+  if (slug.includes('nota-de-corte') || slug.includes('sisu') || slug.includes('prouni') || slug.includes('medicina') || slug.includes('direito') || slug.includes('engenharia') || slug.includes('psicologia')) return 'Universidades'
+  if (slug.includes('cronograma') || slug.includes('quanto-tempo') || slug.includes('enem-2026')) return 'Planejamento'
+  if (slug.includes('tri-enem') || slug.includes('calcular-nota') || slug.includes('como-funciona') || slug.includes('ppcs') || slug.includes('treineiro') || slug.includes('segunda-chance')) return 'Como Funciona'
+  if (slug.includes('fisica') || slug.includes('quimica') || slug.includes('biologia') || slug.includes('historia') || slug.includes('geografia') || slug.includes('filosofia') || slug.includes('matematica') || slug.includes('ingles') || slug.includes('ciencias')) return 'Por Matéria'
+  if (slug.includes('simulado') || slug.includes('questoes')) return 'Questões'
+  if (slug.includes('melhor-app') || slug.includes('alternativa') || slug.includes('online-gratis')) return 'Comparativos'
+  return 'Estratégias'
+}
