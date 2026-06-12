@@ -2711,7 +2711,717 @@ for (const disc of Object.keys(DISC_META)) {
   }
 }
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS]
+const EXTRA_POSTS: BlogPost[] = [
+  {
+    slug: 'enem-2026-data-inscricao',
+    title: 'ENEM 2026: Data da Prova, Inscrição e Tudo que Você Precisa Saber',
+    description: 'Datas, cronograma de inscrição, locais de prova e o que mudou no ENEM 2026. Tudo que você precisa saber para não perder nenhum prazo.',
+    date: '2026-01-15',
+    readTime: 6,
+    content: `
+O ENEM 2026 está se aproximando e organizar-se com antecedência é a diferença entre chegar na prova preparado — ou nem chegar. Neste artigo você encontra as datas oficiais, como funciona a inscrição e o que esperar da prova.
+
+## Datas do ENEM 2026 (Previsão Oficial)
+
+O INEP ainda não divulgou o edital oficial do ENEM 2026, mas baseado no histórico dos últimos anos, o cronograma previsto é:
+
+| Etapa | Previsão |
+|---|---|
+| Abertura de inscrições | Maio/Junho 2026 |
+| Encerramento de inscrições | Junho/Julho 2026 |
+| Pagamento da taxa | Mesmo período |
+| Pedido de isenção | Março/Abril 2026 |
+| Gabarito (dia seguinte) | Novembro 2026 |
+| Resultado final | Janeiro 2027 |
+| 1º dia de prova | Novembro 2026 |
+| 2º dia de prova | Novembro 2026 (domingo seguinte) |
+
+**Acompanhe o site oficial:** as datas definitivas são publicadas em enem.inep.gov.br.
+
+## O que Cai nos 2 Dias de Prova
+
+O ENEM é aplicado em dois domingos consecutivos de novembro:
+
+**1º dia (domingo):**
+- Ciências Humanas e suas Tecnologias — 45 questões
+- Ciências da Natureza e suas Tecnologias — 45 questões
+- Redação — 1 texto dissertativo-argumentativo
+
+**2º dia (domingo seguinte):**
+- Linguagens, Códigos e suas Tecnologias — 45 questões
+- Matemática e suas Tecnologias — 45 questões
+
+Total: **180 questões objetivas + 1 redação**.
+
+## Quem Pode Fazer o ENEM 2026?
+
+Qualquer pessoa pode se inscrever no ENEM — não há limite de idade nem exigência de ter concluído o Ensino Médio antes da prova. Estudantes do 3º ano do Ensino Médio que ainda não se formaram (treineiros) também podem participar, mas suas notas não são usadas para acesso ao SISU, ProUni ou FIES.
+
+## Como Pedir Isenção da Taxa
+
+A taxa de inscrição do ENEM 2026 gira em torno de R$ 85 (valor histórico). Você pode pedir isenção se:
+
+- Cursou o Ensino Médio inteiramente em escola pública
+- É membro de família inscrita no CadÚnico com renda familiar de até 1,5 salário mínimo per capita
+- É professor da rede pública de educação básica (desde 2019)
+
+**Atenção:** o pedido de isenção tem prazo próprio, normalmente antes da abertura das inscrições regulares. Não perca.
+
+## ENEM Digital vs ENEM Regular
+
+O INEP vem expandindo o ENEM Digital desde 2020. As provas têm o mesmo conteúdo e nível de dificuldade, mas o candidato responde em computador em vez de papel. A inscrição no ENEM Digital é separada e tem vagas limitadas — verifique a disponibilidade na sua cidade no edital.
+
+## Quanto Tempo Você Tem Para Estudar?
+
+Se você vai fazer o ENEM 2026 em novembro, tem entre **6 e 10 meses** de preparação a partir de janeiro. Isso é tempo suficiente para uma revisão completa de todas as 4 áreas se você estudar consistentemente.
+
+**Recomendação de carga horária:**
+- Estudante do 3º ano: 2–3 horas/dia além das aulas
+- Treineiro ou veterano: 3–4 horas/dia focadas em questões
+
+## Como o ENEM Pro Pode Ajudar
+
+O ENEM Pro reúne todas as questões do ENEM de 2009 a 2024 — mais de 3.600 questões reais do INEP. Você filtra por ano, disciplina e dificuldade, e recebe explicação gerada por IA para cada questão errada.
+
+Estudar com questões reais de provas anteriores é a forma mais eficiente de se preparar para o ENEM 2026. Você aprende o padrão de cobrança, o tipo de raciocínio exigido e identifica seus pontos fracos antes da prova.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+    `,
+  },
+  {
+    slug: 'como-se-inscrever-enem-2026',
+    title: 'Como se Inscrever no ENEM 2026 — Passo a Passo',
+    description: 'Guia completo de inscrição no ENEM 2026: documentos necessários, como criar conta no gov.br, pagar a taxa e solicitar isenção. Não perca os prazos.',
+    date: '2026-02-01',
+    readTime: 7,
+    content: `
+A inscrição no ENEM 2026 é feita 100% online, pelo site oficial do INEP. O processo leva menos de 15 minutos, mas exige atenção aos documentos e prazos. Este guia cobre cada passo para você não errar nada.
+
+## O que Você Vai Precisar
+
+Antes de começar, separe:
+
+- **CPF ativo** (sem pendências na Receita Federal)
+- **Conta gov.br** com nível de confiança prata ou ouro
+- **E-mail válido** que você acessa com frequência
+- **Dados pessoais:** RG ou Certidão de Nascimento, endereço completo, escola em que estuda ou estudou
+- **Cartão de crédito/débito** para pagar a taxa (caso não tenha isenção)
+
+## Passo 1: Crie ou Acesse sua Conta gov.br
+
+O ENEM 2026 usa a conta gov.br para autenticação. Se você ainda não tem:
+
+1. Acesse gov.br e clique em "Criar conta"
+2. Informe seu CPF
+3. Siga as instruções para validar sua identidade — use o app gov.br para elevar o nível da conta para **prata** (obrigatório)
+
+Se já tem conta, apenas faça login.
+
+## Passo 2: Acesse a Página de Inscrição do ENEM
+
+Durante o período de inscrições (previsto para maio/junho de 2026), acesse **enem.inep.gov.br** e clique em "Inscreva-se". O sistema vai autenticar pelo gov.br automaticamente.
+
+## Passo 3: Preencha o Formulário de Inscrição
+
+O formulário tem 5 seções:
+
+**1. Dados pessoais** — nome, data de nascimento, CPF, RG, estado civil, raça/cor (autodeclaração).
+
+**2. Situação escolar** — se você está cursando o 3º ano do EM, já concluiu, ou vai como treineiro.
+
+**3. Dados da escola** — nome da escola, município, estado.
+
+**4. Local de prova** — escolha o município de preferência. O INEP designa o local exato posteriormente.
+
+**5. Recursos especializados** — se você tem necessidade de atendimento especial (prova em Braille, intérprete de Libras, sala separada, etc.), marque aqui.
+
+## Passo 4: Pague a Taxa de Inscrição
+
+Após enviar o formulário, você recebe o boleto bancário ou as opções de pagamento:
+
+- **Boleto** — validade de alguns dias, pague em banco, lotérica ou app
+- **PIX** — pagamento instantâneo
+- **Cartão de crédito** — parcelamento geralmente não disponível
+
+A taxa histórica é cerca de R$ 85. O pagamento não é reembolsável, então confirme todos os dados antes de pagar.
+
+## Pedido de Isenção — Faça Antes das Inscrições
+
+Se você tem direito à isenção da taxa (escola pública, CadÚnico, professor da rede), o pedido é feito **antes** do período de inscrições regulares — normalmente em março ou abril.
+
+O prazo de isenção e o período de inscrições são etapas separadas. Não confunda: se perder o prazo de isenção, terá que pagar a taxa.
+
+Para solicitar:
+1. Acesse o sistema do ENEM em enem.inep.gov.br durante o período de isenção
+2. Informe seus dados e a justificativa
+3. Aguarde o resultado (divulgado semanas depois)
+4. Se deferido, sua inscrição já estará confirmada — sem necessidade de pagar taxa
+
+## Erros Comuns na Inscrição (e Como Evitar)
+
+**1. CPF com pendência** — Verifique antes na Receita Federal. CPF bloqueado impede o cadastro no gov.br.
+
+**2. E-mail errado** — O boleto e todas as comunicações chegam por e-mail. Confira duas vezes.
+
+**3. Local de prova longe de casa** — O INEP aloca por demanda. Se preferir uma cidade específica, inscreva-se cedo — as primeiras inscrições têm mais opções de local.
+
+**4. Não guardar o número de inscrição** — Anote e salve o comprovante. Você vai precisar para o dia da prova.
+
+**5. Pagar o boleto vencido** — Boleto ENEM tem validade curta. Pague no prazo ou gere segunda via.
+
+## Após a Inscrição — O que Esperar
+
+- **Cartão de confirmação** — disponível no site algumas semanas antes da prova, com o local exato
+- **Horários** — o 1º dia começa às 13h30 (abertura dos portões) e 14h00 (início da prova), com encerramento às 19h00
+- **O que levar** — documento original com foto, caneta esferográfica preta de corpo transparente
+
+## Pratique Antes da Prova
+
+Inscrição feita, hora de estudar. O ENEM Pro tem todas as questões do ENEM de 2009 a 2024 — mais de 3.600 questões reais do INEP, organizadas por disciplina e ano.
+
+Responda 10 questões por dia grátis. No plano Pro, a IA explica o raciocínio de cada resposta, ajudando você a entender onde está errando e como corrigir.
+    `,
+  },
+  {
+    slug: 'gabarito-enem-2022',
+    title: 'Gabarito ENEM 2022 — Todas as Disciplinas com Resolução',
+    description: 'Gabarito do ENEM 2022 com análise completa por disciplina. Veja o que caiu em Matemática, Ciências da Natureza, Ciências Humanas e Linguagens.',
+    date: '2022-11-13',
+    readTime: 8,
+    content: `
+O ENEM 2022 foi aplicado em novembro e ficou marcado por questões de alto nível de contextualização, especialmente em Ciências Humanas e Matemática. Neste artigo, você encontra o gabarito completo com análise de cada área.
+
+## Matemática e suas Tecnologias — ENEM 2022
+
+A prova de Matemática 2022 foi considerada de nível médio-difícil, com destaque para questões de:
+
+- **Funções** — especialmente funções do 2º grau e funções exponenciais aplicadas a crescimento populacional
+- **Geometria espacial** — volume de sólidos e figuras compostas
+- **Probabilidade e combinatória** — pelo menos 5 questões envolvendo eventos independentes
+- **Análise de gráficos e tabelas** — o ENEM 2022 cobrou muito a leitura crítica de dados estatísticos
+- **Progressões** — PA e PG em contextos de finanças e juros compostos
+
+**Dificuldade:** média-alta. A prova exigiu não apenas domínio das fórmulas, mas capacidade de interpretar o enunciado e modelar o problema matematicamente.
+
+## Ciências da Natureza — ENEM 2022
+
+Física, Química e Biologia dividiram as 45 questões. Destaques:
+
+### Física 2022
+- **Eletrodinâmica** — resistência elétrica, potência e efeito Joule (5 questões)
+- **Mecânica** — leis de Newton e trabalho/energia (4 questões)
+- **Ondas e óptica** — reflexão, refração e efeito Doppler (3 questões)
+- **Termodinâmica** — máquinas térmicas e eficiência (2 questões)
+
+### Química 2022
+- **Química orgânica** — funções e reações de adição e substituição (6 questões)
+- **Estequiometria** — balanceamento e proporções em reações industriais (4 questões)
+- **Termoquímica** — entalpia e energia de ativação (2 questões)
+- **Eletroquímica** — pilhas e eletrólise (3 questões)
+
+### Biologia 2022
+- **Ecologia** — biomas brasileiros, cadeia alimentar, impacto ambiental (5 questões)
+- **Genética** — herança monogênica e ligada ao sexo (4 questões)
+- **Biotecnologia** — CRISPR, transgênicos, vacinas de mRNA (3 questões)
+- **Fisiologia** — sistema nervoso, circulatório e imunológico (3 questões)
+
+## Ciências Humanas — ENEM 2022
+
+A área mais contextualizada da prova. Destaques:
+
+- **História do Brasil** — República Velha, Era Vargas e Ditadura Militar apareceram com força
+- **Direitos humanos** — questões sobre povos indígenas e quilombolas
+- **Geografia** — urbanização brasileira, problemas ambientais e geopolítica
+- **Filosofia** — Iluminismo, Contratualismo e Ética Contemporânea
+- **Sociologia** — estratificação social, movimentos sociais e cultura
+
+**Tendência ENEM 2022 em Humanas:** o exame cobrou muito questões com fontes primárias (documentos históricos, pinturas, mapas) — a habilidade de interpretação foi mais determinante do que a memorização.
+
+## Linguagens, Códigos e suas Tecnologias — ENEM 2022
+
+- **Interpretação de texto** — gêneros variados: crônica, artigo de opinião, notícia, poema
+- **Gramática** — concordância, regência e coesão textual em contexto
+- **Literatura** — Modernismo e Literatura Contemporânea
+- **Inglês** — 5 questões de leitura (sem necessidade de produção oral ou escrita)
+- **Artes e educação física** — questões sobre cinema brasileiro e esportes olímpicos
+
+## Nota de Corte Estimada 2022
+
+Com base nos dados do SISU 2023 (que usou a nota do ENEM 2022):
+
+| Curso | Nota de Corte Média |
+|---|---|
+| Medicina (Federal) | 730–800 pts (por área) |
+| Direito (Federal) | 650–720 pts |
+| Engenharia (Federal) | 620–680 pts |
+| Administração (Federal) | 580–640 pts |
+
+Esses valores variam por universidade, turno e localização. Use a calculadora de notas do ENEM Pro para estimar sua nota a partir dos acertos.
+
+## Pratique as Questões do ENEM 2022
+
+O ENEM Pro tem todas as questões do ENEM 2022 organizadas por disciplina. Responda, veja o gabarito e receba explicação de IA para entender onde errou — não apenas qual era a resposta certa.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+    `,
+  },
+  {
+    slug: 'gabarito-enem-2021',
+    title: 'Gabarito ENEM 2021 — Questões e Análise por Disciplina',
+    description: 'Gabarito e análise do ENEM 2021. Saiba o que caiu em cada área, dificuldade da prova e notas de corte do SISU 2022.',
+    date: '2021-11-21',
+    readTime: 7,
+    content: `
+O ENEM 2021 foi um dos mais comentados da última década. Aplicado em janeiro de 2022 (adiado da data original de novembro por conta da pandemia), a prova trouxe questões fortemente contextualizadas com temas da atualidade, especialmente COVID-19 e questões ambientais.
+
+## O Contexto do ENEM 2021
+
+O exame foi adiado de novembro de 2021 para janeiro de 2022 — decisão do INEP diante das restrições sanitárias. O adiamento gerou polêmica, mas a prova manteve o mesmo formato e nível de exigência.
+
+## Matemática ENEM 2021 — Análise
+
+A prova de Matemática 2021 foi considerada de nível médio, com destaque para:
+
+- **Funções do 1º e 2º grau** — modelagem de situações cotidianas (6 questões)
+- **Geometria plana** — área de figuras compostas e semelhança de triângulos (5 questões)
+- **Estatística** — média, mediana, moda e interpretação de gráficos (5 questões)
+- **Matemática financeira** — juros simples e compostos, porcentagem (4 questões)
+- **Funções trigonométricas** — seno, cosseno e tangente em triângulos (3 questões)
+
+**Diferencial 2021:** várias questões usaram dados reais da pandemia de COVID-19 (taxa de vacinação, curvas de contágio) como contexto para problemas de funções e estatística.
+
+## Ciências da Natureza ENEM 2021
+
+### Biologia — Destaque da prova
+Biologia teve protagonismo em 2021. Questões sobre:
+- **Vacinas e imunologia** — mecanismos de imunidade inata e adquirida (4 questões)
+- **Vírus e microbiologia** — estrutura viral e mecanismos de infecção (3 questões)
+- **Ecologia** — desmatamento, biomas e biodiversidade brasileira (4 questões)
+- **Genética** — mutações e biotecnologia (3 questões)
+
+### Física 2021
+- Eletrodinâmica e circuitos elétricos (4 questões)
+- Ondulatória e acústica (3 questões)
+- Mecânica clássica (4 questões)
+
+### Química 2021
+- Química orgânica — polímeros e combustíveis (5 questões)
+- Reações de oxirredução (3 questões)
+- Equilíbrio químico (3 questões)
+
+## Ciências Humanas ENEM 2021
+
+- **História contemporânea** — Segunda Guerra, Guerra Fria e descolonização (7 questões)
+- **Brasil republicano** — período militar e redemocratização (6 questões)
+- **Geopolítica** — relações internacionais e blocos econômicos (5 questões)
+- **Filosofia** — ética, cidadania e direitos fundamentais (4 questões)
+- **Sociologia** — movimentos sociais, desigualdade racial e de gênero (5 questões)
+
+## Linguagens ENEM 2021
+
+A prova de Linguagens 2021 trouxe textos variados com foco em:
+- Interpretação de mídias digitais — tweets, posts e fake news como objetos de análise
+- Literatura brasileira — Modernismo (Semana de 22) e pré-modernismo
+- Gramática em contexto — coesão e coerência textual
+- Inglês — textos sobre tecnologia e meio ambiente
+
+## Dificuldade Geral e Notas de Corte
+
+O ENEM 2021 foi considerado de dificuldade média-alta nas exatas e média nas humanas. As notas de corte do SISU 2022 (que usou essa prova):
+
+| Curso | Nota de Corte Estimada |
+|---|---|
+| Medicina (pública) | 735–810 pts |
+| Direito (pública) | 660–730 pts |
+| Engenharia Civil (pública) | 600–670 pts |
+| Pedagogia (pública) | 500–560 pts |
+
+## Estude com as Questões do ENEM 2021
+
+O ENEM Pro tem todas as questões do ENEM 2021 disponíveis para prática. Filtre por disciplina, responda no seu ritmo e receba explicações de IA para cada questão errada — entenda o raciocínio exigido pelo INEP.
+
+**10 questões por dia grátis** — sem precisar de cartão.
+    `,
+  },
+  {
+    slug: 'literatura-enem-o-que-cai',
+    title: 'Literatura no ENEM — O que Cai, Autores e Como Estudar',
+    description: 'Guia completo de Literatura para o ENEM: estilos literários mais cobrados, autores, obras e estratégias de estudo. Saiba o que priorizar para 2026.',
+    date: '2026-03-10',
+    readTime: 9,
+    content: `
+Literatura é uma das matérias que mais divide candidatos no ENEM: quem tem o hábito de leitura sente que "cai fácil", enquanto quem não lê tende a errar por interpretar o texto de forma literal. A boa notícia: o ENEM não exige leitura das obras completas — exige entender os contextos históricos e os recursos literários.
+
+## Quantas Questões de Literatura Caem?
+
+Literatura está inserida na área de **Linguagens, Códigos e suas Tecnologias** (45 questões). Não há divisão oficial publicada pelo INEP, mas o histórico das provas mostra:
+
+| Conteúdo | Questões Médias por Prova |
+|---|---|
+| Interpretação de texto geral | 12–15 |
+| Literatura brasileira e portuguesa | 8–10 |
+| Gramática e norma culta | 8–10 |
+| Língua estrangeira (Inglês/Espanhol) | 5 |
+| Artes, música e semiótica | 5–8 |
+
+Literatura aparece de forma direta (questão sobre estilo de um autor) e indireta (texto literário como base para interpretação).
+
+## Estilos Literários Mais Cobrados
+
+### Modernismo (1922–1945) — O Mais Cobrado
+O Modernismo brasileiro é disparado o estilo mais presente no ENEM. Conteúdos essenciais:
+
+- **Semana de Arte Moderna de 1922** — contexto, proposta de ruptura, principais participantes
+- **Primeira fase modernista** — humor, crítica social, linguagem coloquial
+- **Carlos Drummond de Andrade** — poesia reflexiva, existencialismo, crítica social
+- **Oswald de Andrade** — Manifesto Antropófago, humor e irreverência
+- **Manuel Bandeira** — cotidiano, simplicidade e lirismo
+- **Mário de Andrade** — Macunaíma como síntese do povo brasileiro
+
+### Pré-Modernismo (1900–1922)
+- **Euclides da Cunha** — Os Sertões: sertão, seca e violência
+- **Lima Barreto** — crítica ao coronelismo e ao positivismo
+- **Monteiro Lobato** — regionalismo e crítica social
+
+### Realismo/Naturalismo (séc. XIX)
+- **Machado de Assis** — ironia, narrador não confiável, crítica à burguesia carioca
+- **Aluísio Azevedo** — O Cortiço: determinismo social e naturalismo
+
+### Romantismo Brasileiro (séc. XIX)
+- **Indianismo** — José de Alencar e Gonçalves Dias
+- **Romantismo urbano** — Manuel Antônio de Almeida e Joaquim Manuel de Macedo
+- **Ultrarromantismo** — Álvares de Azevedo e o "mal do século"
+
+### Literatura Contemporânea (pós-1945)
+- **Guimarães Rosa** — Grande Sertão: Veredas, regionalismo universal
+- **Clarice Lispector** — introspectividade e fluxo de consciência
+- **João Cabral de Melo Neto** — poesia concreta e nordestina
+
+## O que o ENEM Realmente Cobra
+
+Diferente da literatura de vestibular tradicional, o ENEM nunca pede "qual foi o primeiro romance do Romantismo". As questões sempre partem de um **trecho de texto** e pedem:
+
+1. **Identificação do estilo literário** — "O trecho acima apresenta características do:..."
+2. **Análise de recursos expressivos** — metáfora, ironia, hipérbole, alegoria
+3. **Contexto histórico** — relação entre a obra e o momento histórico do autor
+4. **Intertextualidade** — o texto dialoga com outro texto, gênero ou tradição
+
+**Estratégia prática:** leia o trecho com calma. O ENEM sempre fornece informações suficientes no próprio texto para responder — você não precisa ter lido a obra completa.
+
+## Como Estudar Literatura para o ENEM
+
+### Método 1: Por Estilo, Não Por Autor
+Não estude "todos os autores do Romantismo". Estude as **características do Romantismo** — sentimentalismo, nacionalismo, idealização, natureza — e saiba reconhecê-las num texto.
+
+### Método 2: Leia Fragmentos das Obras Mais Cobradas
+Você não precisa ler "Dom Casmurro" inteiro. Leia:
+- O primeiro e último capítulos (Machado sempre ironiza o narrador)
+- Fragmentos disponíveis em domínio público no site do Domínio Público (dominiopublico.gov.br)
+
+### Método 3: Questões Anteriores do ENEM
+Nada prepara melhor do que resolver questões reais. O ENEM usa linguagem consistente — depois de 15 questões de Modernismo, você reconhece o padrão.
+
+## Autores que Nunca Faltam (Top 10 ENEM)
+
+1. Carlos Drummond de Andrade
+2. Machado de Assis
+3. Clarice Lispector
+4. Guimarães Rosa
+5. Fernando Pessoa
+6. Oswald de Andrade
+7. Manuel Bandeira
+8. Ferreira Gullar
+9. Gonçalves Dias
+10. Lima Barreto
+
+## Pratique com Questões Reais de Literatura
+
+O ENEM Pro reúne todas as questões de Linguagens do ENEM de 2009 a 2024. Filtre por disciplina e treine especificamente Literatura, com explicações de IA que apontam qual recurso expressivo a questão cobrava e por que a alternativa correta está certa.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+    `,
+  },
+  {
+    slug: 'nota-de-corte-administracao-enem',
+    title: 'Nota de Corte para Administração no ENEM — SISU 2026',
+    description: 'Nota de corte para Administração nas principais universidades federais via SISU. Saiba quanto você precisa tirar no ENEM para entrar em Administração.',
+    date: '2026-02-15',
+    readTime: 6,
+    content: `
+Administração é um dos cursos com maior número de vagas no SISU — e por isso também um dos mais acessíveis entre os cursos universitários federais. Mas "acessível" não significa fácil: dependendo da universidade e do turno, a nota de corte pode ser mais alta do que você imagina.
+
+## Nota de Corte para Administração — SISU 2025 (Referência)
+
+Os dados abaixo são do SISU 2025 (nota do ENEM 2024) e servem como referência para o SISU 2026:
+
+| Universidade | Turno | Nota de Corte |
+|---|---|---|
+| UnB — Universidade de Brasília | Diurno | 680–720 pts |
+| UFMG | Noturno | 620–660 pts |
+| UFRJ | Noturno | 600–640 pts |
+| UNESP Araraquara | Integral | 640–680 pts |
+| UFC | Noturno | 580–620 pts |
+| UFPE | Noturno | 570–610 pts |
+| UFBA | Noturno | 550–590 pts |
+| UFSC | Noturno | 610–650 pts |
+| UFPR | Noturno | 590–630 pts |
+| UFPB | Noturno | 530–570 pts |
+
+*Valores aproximados — consulte o site oficial do SISU para dados atualizados.*
+
+**Observação:** A maioria dos cursos de Administração em federais é no turno noturno. Cursos noturnos tendem a ter notas de corte menores que os diurnos.
+
+## Como a Nota de Administração é Calculada
+
+O SISU usa a nota do ENEM como critério de seleção. Para Administração, a ponderação mais comum nas federais é:
+
+| Área | Peso Típico |
+|---|---|
+| Linguagens e Códigos | 1x ou 2x |
+| Ciências Humanas | 2x ou 3x |
+| Ciências da Natureza | 1x |
+| Matemática | 2x ou 3x |
+| Redação | 1x ou 2x |
+
+As áreas de Matemática e Humanas costumam ter peso maior em Administração. Verifique os pesos específicos de cada universidade no simulador do SISU.
+
+## Qual Nota Você Precisa Tirar?
+
+Para Administração em uma federal de médio porte (UFC, UFPE, UFBA):
+
+- **Nota segura:** 620+ pontos por área (média ponderada acima de 600)
+- **Nota competitiva:** 650+ pontos por área
+- **Universidades capitais premium (UnB, UFMG, UFRJ):** 680+ pontos
+
+Para calcular se sua nota estimada seria suficiente, use a calculadora de notas do ENEM Pro.
+
+## Administração: Vale a Pena Tentar em Federal?
+
+Sim — e por vários motivos:
+
+1. **Custo zero:** graduação pública federal sem mensalidade
+2. **Diversidade de vagas:** Administração é oferecida em quase todas as federais do país
+3. **Noturno acessível:** ideal para quem trabalha durante o dia
+4. **Mercado de trabalho:** o curso abre portas para concursos públicos, gestão empresarial e empreendedorismo
+
+## O Que Priorizar nos Estudos Para Administração
+
+Com base nos pesos típicos das federais:
+
+**Alta prioridade:**
+- Matemática (funções, estatística, matemática financeira)
+- Ciências Humanas (geopolítica, história do Brasil, filosofia)
+- Redação (dissertação argumentativa — peso direto)
+
+**Média prioridade:**
+- Linguagens (interpretação de texto, gramática, literatura)
+
+**Baixa prioridade relativa:**
+- Ciências da Natureza (mas não zere — peso 1x ainda conta)
+
+## Pratique com Questões Reais do ENEM
+
+O ENEM Pro reúne todas as questões do ENEM de 2009 a 2024 organizadas por disciplina. Responda, veja o gabarito e receba explicação de IA para cada questão errada — ideal para focar nas áreas de maior peso para Administração.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+    `,
+  },
+  {
+    slug: 'nota-de-corte-enfermagem-enem',
+    title: 'Nota de Corte para Enfermagem no ENEM — SISU 2026',
+    description: 'Nota de corte para Enfermagem nas principais universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Enfermagem.',
+    date: '2026-02-20',
+    readTime: 6,
+    content: `
+Enfermagem é um dos cursos da área da saúde com mais vagas no SISU — e com notas de corte que variam muito dependendo da universidade e do turno. Para quem quer seguir a carreira de enfermeiro, entender o panorama de notas de corte é o primeiro passo no planejamento.
+
+## Nota de Corte para Enfermagem — SISU 2025 (Referência)
+
+| Universidade | Turno | Nota de Corte |
+|---|---|---|
+| UNICAMP | Integral | 700–740 pts |
+| USP (São Paulo) | Integral | 690–730 pts |
+| UNIFESP | Integral | 680–720 pts |
+| UnB | Integral | 650–690 pts |
+| UFMG | Integral | 640–680 pts |
+| UFRJ | Integral | 620–660 pts |
+| UFC | Integral | 600–640 pts |
+| UFBA | Integral | 580–620 pts |
+| UFPE | Integral/Noturno | 570–610 pts |
+| UFPB | Noturno | 540–580 pts |
+
+*Valores aproximados — verifique no site oficial do SISU antes de se inscrever.*
+
+## Por que Enfermagem Tem Nota Mais Alta que Administração?
+
+Cursos da saúde costumam ter notas de corte mais altas por três razões:
+
+1. **Maior concorrência** — a área de saúde atrai candidatos com notas elevadas
+2. **Pesos maiores em Biologia e Química** — matérias que diferem candidatos fortes dos medianos
+3. **Mercado de trabalho consolidado** — garantia de emprego atrai mais candidatos
+
+## Pesos do ENEM Para Enfermagem
+
+As federais que oferecem Enfermagem geralmente aplicam os seguintes pesos:
+
+| Área | Peso Típico |
+|---|---|
+| Ciências da Natureza | 3x |
+| Matemática | 2x |
+| Linguagens | 1x |
+| Ciências Humanas | 1x |
+| Redação | 2x |
+
+Biologia, Química e Física são decisivos. Candidatos com notas altas em Ciências da Natureza partem na frente.
+
+## Quanto Preciso Tirar Para Entrar em Enfermagem?
+
+Para as principais federais fora das capitais:
+
+- **Nota mínima segura:** 600+ por área ponderada
+- **Nota competitiva:** 640+ por área ponderada
+- **Universidades de ponta (UNICAMP, USP, UNIFESP):** 700+ por área
+
+Para Enfermagem em federal de região Norte/Nordeste, notas a partir de 560–580 podem ser suficientes. O que muda é a localização, não a qualidade do diploma federal.
+
+## Diferença Entre Enfermagem e Medicina no ENEM
+
+Enfermagem e Medicina são cursos distintos com carreiras diferentes. Se você está em dúvida:
+
+| Critério | Medicina | Enfermagem |
+|---|---|---|
+| Nota de corte | 730–810+ pts | 540–740 pts |
+| Duração do curso | 6 anos + residência | 4–5 anos |
+| Mercado | Alta demanda, alta remuneração | Alta demanda, remuneração crescente |
+| Foco | Diagnóstico e tratamento | Cuidado e assistência |
+
+## O que Priorizar nos Estudos Para Enfermagem
+
+Com base nos pesos típicos das federais:
+
+**Alta prioridade:**
+- Biologia (ecologia, genética, fisiologia, saúde)
+- Química (reações orgânicas, equilíbrio, estequiometria)
+- Redação (peso 2x na maioria das universidades)
+
+**Média prioridade:**
+- Física (eletricidade, termodinâmica)
+- Matemática (estatística, funções)
+
+**Estratégia:** candidatos que tiram 700+ em Ciências da Natureza conseguem compensar eventuais perdas em Matemática e Humanas.
+
+## Pratique com Questões de Ciências da Natureza
+
+O ENEM Pro tem todas as questões de Ciências da Natureza do ENEM de 2009 a 2024. Filtre por disciplina (Biologia, Química, Física), pratique por área e receba explicação de IA para cada questão errada.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+    `,
+  },
+  {
+    slug: 'como-estudar-matematica-enem',
+    title: 'Como Estudar Matemática para o ENEM — Guia por Temas e Estratégias',
+    description: 'Guia definitivo para estudar Matemática para o ENEM: temas mais cobrados, ordem de estudo, erros comuns e como usar questões antigas para maximizar o resultado.',
+    date: '2026-03-20',
+    readTime: 10,
+    content: `
+Matemática é a área que mais define aprovações no ENEM. Uma boa nota em Matemática abre as portas para os cursos mais concorridos — Medicina, Engenharia, Computação, Arquitetura. Uma nota baixa pode cortar metade das suas opções.
+
+A boa notícia: Matemática no ENEM tem padrão. Os mesmos temas voltam todo ano. Quem treina com inteligência — não com volume — consegue notas altas sem decorar centenas de fórmulas.
+
+## Os 7 Temas Mais Cobrados (Apareceram em 90%+ das Provas)
+
+### 1. Funções (15–20% da prova)
+**O que cobra:** funções do 1º grau, 2º grau, exponencial, logarítmica, modular.
+**Dica:** o ENEM quase nunca pede a fórmula isolada. Ele apresenta um contexto (crescimento de bactéria, inflação, juros) e pede que você **modele** a situação. Treine leitura do enunciado antes da conta.
+
+### 2. Geometria Plana (10–15%)
+**O que cobra:** área de triângulos, quadriláteros, círculos, figuras compostas.
+**Dica:** problemas de geometria do ENEM sempre têm uma figura ou situação real (azulejo, terreno, embalagem). Saiba calcular áreas combinadas — retângulo + semicírculo, por exemplo.
+
+### 3. Geometria Espacial (8–12%)
+**O que cobra:** volume e área de cilindro, cone, esfera, pirâmide, prisma.
+**Dica:** decore as 5 fórmulas principais. O ENEM fornece as fórmulas mais obscuras no próprio caderno — mas não as básicas.
+
+### 4. Estatística e Probabilidade (10–15%)
+**O que cobra:** média, mediana, moda, desvio padrão, probabilidade de eventos, gráficos.
+**Dica:** a maior dificuldade não é calcular, é **ler o gráfico ou tabela corretamente**. Pratique leitura crítica de dados — o ENEM usa gráficos com informações redundantes para confundir.
+
+### 5. Progressões Aritmética e Geométrica (8–10%)
+**O que cobra:** fórmula do termo geral, soma dos termos, aplicação em juros.
+**Dica:** PA e PG aparecem em problemas de finanças (juros compostos = PG). Conecte a teoria com a aplicação.
+
+### 6. Trigonometria (8–10%)
+**O que cobra:** seno, cosseno, tangente, relações no triângulo retângulo, lei dos senos e cossenos.
+**Dica:** o ENEM usa trigonometria em problemas de altura de prédio, distância entre pontos e inclinação de rampas. Visualize o problema antes de aplicar a fórmula.
+
+### 7. Análise Combinatória (6–8%)
+**O que cobra:** permutação, combinação, arranjo e probabilidade combinada.
+**Dica:** entenda quando usar cada fórmula (permutação = ordem importa; combinação = ordem não importa). Depois, a conta é simples.
+
+## O que Não Vale a Pena Estudar (Para o ENEM)
+
+Diferente de vestibulares como FUVEST, o ENEM **raramente** cobra:
+- Números complexos
+- Polinômios de alto grau
+- Teoria dos números (divisibilidade, MDC, MMC de forma isolada)
+- Geometria analítica avançada (cônicas)
+
+Esses temas podem aparecer como contexto de uma questão, mas não como conteúdo principal. Não gaste tempo excessivo aqui se houver lacunas nos temas centrais.
+
+## Ordem de Estudo Recomendada
+
+Se você tem 4 meses para a prova, siga esta sequência:
+
+**Mês 1 — Base**
+- Funções lineares e quadráticas
+- Geometria plana (área e perímetro)
+- Porcentagem e razão/proporção
+
+**Mês 2 — Volume**
+- Geometria espacial (volume dos 5 sólidos principais)
+- PA e PG + juros compostos
+- Estatística: média, mediana, moda, gráficos
+
+**Mês 3 — Resolução**
+- Probabilidade e combinatória
+- Trigonometria básica
+- Funções exponenciais e logarítmicas
+
+**Mês 4 — Simulados**
+- Apenas questões antigas do ENEM (2018–2024)
+- Revisar erros, não revisar teoria
+- Cronometrar: 45 questões em 4,5 horas = 6 minutos por questão
+
+## Erros Mais Comuns (e Como Evitar)
+
+**Erro 1: Calcular antes de ler o enunciado**
+O ENEM esconde a informação relevante no fim do enunciado. Leia tudo antes de começar a conta.
+
+**Erro 2: Não usar substituição nas alternativas**
+Se você travou, substitua as alternativas na equação. Às vezes é mais rápido do que resolver algebricamente.
+
+**Erro 3: Não checar a unidade de medida**
+O ENEM mistura cm com m, litros com m³, minutos com horas. Converter antes de calcular evita erros bobos.
+
+**Erro 4: Estudar teoria sem resolver questões**
+Você pode saber a fórmula de cor e errar a questão por não entender como aplicá-la. Resolva pelo menos 10 questões de cada tema antes de avançar.
+
+## Como Usar o ENEM Pro Para Matemática
+
+O ENEM Pro tem todas as questões de Matemática do ENEM de 2009 a 2024. A estratégia mais eficaz:
+
+1. **Filtre por tema** — resolva 20 questões só de funções, depois só de probabilidade
+2. **Analise os erros** — a IA explica o raciocínio completo de cada questão que você errar
+3. **Volte ao tema** — errou muito em geometria espacial? Resolva mais 20 questões desse tema antes de avançar
+
+Estudar por tema é mais eficiente do que estudar por ano — você compara questões de mesmo tema em anos diferentes e aprende o padrão de cobrança do INEP.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+    `,
+  },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)
