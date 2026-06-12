@@ -2738,3 +2738,11 @@ export function getCategory(slug: string): BlogCategory {
   if (slug.includes('melhor-app') || slug.includes('alternativa') || slug.includes('online-gratis')) return 'Comparativos'
   return 'Estratégias'
 }
+
+export function getRelatedPosts(currentSlug: string, limit = 3): BlogPost[] {
+  const category = getCategory(currentSlug)
+  const sameCategory = ALL_POSTS.filter(p => p.slug !== currentSlug && getCategory(p.slug) === category)
+  if (sameCategory.length >= limit) return sameCategory.slice(0, limit)
+  const others = ALL_POSTS.filter(p => p.slug !== currentSlug && getCategory(p.slug) !== category)
+  return [...sameCategory, ...others].slice(0, limit)
+}

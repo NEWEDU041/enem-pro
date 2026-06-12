@@ -2,10 +2,8 @@ import type { Metadata } from 'next'
 import type { ReactNode } from 'react'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { getPost, getAllSlugs, getAllPosts } from '@/lib/blog-data'
+import { getPost, getAllSlugs, getRelatedPosts } from '@/lib/blog-data'
 import { SITE_URL } from '@/lib/site-config'
-
-export const dynamic = 'force-dynamic'
 
 export async function generateStaticParams() {
   return getAllSlugs().map(slug => ({ slug }))
@@ -24,6 +22,14 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       description: post.description,
       type: 'article',
       publishedTime: post.date,
+      authors: ['ENEM Pro'],
+      siteName: 'ENEM Pro',
+      locale: 'pt_BR',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: post.title,
+      description: post.description,
     },
   }
 }
@@ -134,7 +140,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
   const post = getPost(slug)
   if (!post) notFound()
 
-  const related = getAllPosts().filter(p => p.slug !== slug).slice(0, 3)
+  const related = getRelatedPosts(slug)
 
   const postUrl = `${SITE_URL}/blog/${slug}`
 
