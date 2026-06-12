@@ -3421,7 +3421,370 @@ Estudar por tema é mais eficiente do que estudar por ano — você compara ques
   },
 ]
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS]
+const EXTRA_POSTS_2: BlogPost[] = [
+  {
+    slug: 'como-estudar-linguagens-enem',
+    title: 'Como Estudar Linguagens para o ENEM — Guia Completo',
+    description: 'Guia estratégico para estudar Linguagens no ENEM: interpretação de texto, gramática, literatura, inglês e redação. Saiba o que priorizar e como treinar.',
+    date: '2026-04-01',
+    readTime: 9,
+    content: `
+Linguagens e Códigos é a área do ENEM com maior variedade de conteúdo: Língua Portuguesa, Literatura, Gramática, Artes, Educação Física, Semiótica e Língua Estrangeira (Inglês ou Espanhol). A boa notícia é que quase metade das questões é de **interpretação de texto** — e isso se aprende com prática, não com memorização.
+
+## O que Cai em Linguagens (45 questões)
+
+| Conteúdo | Questões Estimadas |
+|---|---|
+| Interpretação de texto | 12–15 |
+| Literatura brasileira e portuguesa | 8–10 |
+| Gramática e norma culta | 8–10 |
+| Língua estrangeira (Inglês/Espanhol) | 5 |
+| Artes, música e semiótica | 5–8 |
+
+A Redação **não faz parte dessas 45 questões** — ela é avaliada separadamente, valendo 1.000 pontos.
+
+## Interpretação de Texto — O Coração da Prova
+
+Metade das questões de Linguagens gira em torno de interpretação. Os textos usados pelo ENEM são variados:
+
+- Artigos de opinião e editoriais
+- Crônicas e contos
+- Poemas e letras de música
+- Textos multimodais (imagens, charges, infográficos)
+- Posts de redes sociais e notícias digitais
+
+**A estratégia que funciona:**
+1. Leia o título e identifique o gênero textual antes de tudo
+2. Leia o texto com atenção, sublinhando mentalmente a ideia central de cada parágrafo
+3. Para questões com "o autor quis dizer que...", volte ao trecho indicado — a resposta sempre está no texto
+4. Desconfie de alternativas com generalizações absolutas ("sempre", "nunca", "todos")
+
+## Gramática — Cobrada em Contexto
+
+O ENEM não pede classificação gramatical isolada. As questões sempre apresentam um texto e pedem para:
+
+- Identificar o recurso de coesão (pronomes, conjunções, advérbios)
+- Analisar o efeito de uma escolha léxica
+- Reescrever uma frase sem alterar o sentido
+- Identificar desvios da norma culta em textos informais
+
+**Temas de gramática mais cobrados:**
+- Concordância verbal e nominal
+- Regência verbal (especialmente verbos como *assistir*, *obedecer*, *preferir*)
+- Pontuação (vírgula, ponto e vírgula, dois pontos)
+- Coesão textual — conectivos e referências
+
+## Literatura — Contexto, Não Decoreba
+
+O ENEM nunca pede "em que ano nasceu Machado de Assis". As questões partem de um **fragmento de texto** e exigem que você:
+
+1. Identifique o estilo literário (Romantismo, Realismo, Modernismo...)
+2. Reconheça recursos expressivos (ironia, metáfora, hipérbole)
+3. Entenda a relação entre o texto e o momento histórico
+
+**Estilos mais cobrados:**
+- Modernismo brasileiro (1922+) — Carlos Drummond, Manuel Bandeira, Oswald de Andrade
+- Realismo — Machado de Assis (ironia e narrador não confiável)
+- Literatura contemporânea — Clarice Lispector, Guimarães Rosa
+
+## Inglês — Leitura, Não Fala
+
+As 5 questões de Inglês do ENEM exigem apenas **compreensão de leitura**. Você não precisa escrever ou falar em inglês. Os textos são geralmente:
+
+- Textos informativos sobre tecnologia, meio ambiente, saúde
+- Anúncios, posts em inglês, memes bilíngues
+- Pequenas narrativas em contexto cotidiano
+
+**Estratégia para inglês sem fluência:**
+- Leia o texto buscando cognatos (palavras semelhantes ao português: *technology, information, cultural*)
+- Identifique palavras-chave no enunciado antes de ler o texto
+- Use o contexto — o ENEM sempre deixa pistas suficientes para deduzir o sentido
+
+## Artes e Semiótica — Questões de Interpretação
+
+Questões de Artes e Semiótica geralmente apresentam uma obra de arte, uma peça musical ou uma imagem publicitária e pedem que você:
+
+- Identifique elementos visuais e seu significado
+- Analise linguagem não verbal (gestos, cores, símbolos)
+- Compare diferentes linguagens expressivas
+
+Não é necessário conhecer a história da arte em detalhes — o ENEM fornece informações suficientes no próprio enunciado.
+
+## Ordem de Estudo Recomendada
+
+**Mês 1:** Interpretação de texto — resolva 30 questões apenas de interpretação, de anos diferentes
+**Mês 2:** Literatura — estude por estilos, não por autores. Modernismo primeiro.
+**Mês 3:** Gramática em contexto — foco em concordância, regência e coesão
+**Mês 4:** Inglês e artes — 2 semanas cada, mais revisão geral
+
+## Erro Mais Comum em Linguagens
+
+**Escolher a resposta mais bonita, não a mais correta.** Em interpretação, a resposta certa é sempre a que pode ser provada pelo texto — não a que "faz mais sentido" na sua experiência pessoal. Questione qualquer alternativa que não encontre respaldo direto no texto.
+
+## Pratique com Questões de Linguagens
+
+O ENEM Pro tem todas as questões de Linguagens do ENEM de 2009 a 2024 organizadas por disciplina. Filtre por tema — interpretação, literatura, gramática — e resolva com feedback da IA para cada erro.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+    `,
+  },
+  {
+    slug: 'nota-de-corte-farmacia-enem',
+    title: 'Nota de Corte para Farmácia no ENEM — SISU 2026',
+    description: 'Nota de corte para Farmácia nas universidades federais via SISU. Veja quanto você precisa tirar no ENEM para entrar em Farmácia.',
+    date: '2026-03-01',
+    readTime: 5,
+    content: `
+Farmácia é um curso da área de saúde com forte demanda no mercado — farmacêutico hospitalar, industrial, clínico e bioquímico. As notas de corte variam bastante entre universidades e regiões.
+
+## Nota de Corte para Farmácia — SISU 2025 (Referência)
+
+| Universidade | Turno | Nota de Corte |
+|---|---|---|
+| USP (Ribeirão Preto) | Integral | 700–740 pts |
+| UFRJ | Integral | 660–700 pts |
+| UFMG | Integral | 650–690 pts |
+| UnB | Integral | 640–680 pts |
+| UFSC | Integral | 630–670 pts |
+| UFC | Integral/Noturno | 610–650 pts |
+| UFBA | Integral | 590–630 pts |
+| UFPE | Noturno | 570–610 pts |
+| UFPB | Noturno | 550–590 pts |
+| UFAM | Integral | 520–560 pts |
+
+*Consulte o SISU oficial para dados atualizados do SISU 2026.*
+
+## Pesos do ENEM Para Farmácia
+
+A maioria das federais aplica pesos assim para Farmácia:
+
+| Área | Peso |
+|---|---|
+| Ciências da Natureza | 3x |
+| Matemática | 2x |
+| Linguagens | 1x |
+| Ciências Humanas | 1x |
+| Redação | 2x |
+
+Química e Biologia são determinantes. Candidatos com notas altas em Ciências da Natureza partem na frente.
+
+## Farmácia vs Outras Carreiras de Saúde
+
+| Curso | Nota de Corte Típica |
+|---|---|
+| Medicina | 730–810 pts |
+| Farmácia (federal capital) | 640–700 pts |
+| Enfermagem (federal) | 560–690 pts |
+| Nutrição (federal) | 560–660 pts |
+
+## O que Priorizar nos Estudos
+
+Com peso 3x em Ciências da Natureza:
+- **Alta prioridade:** Química orgânica e inorgânica, Bioquímica (metabolismo celular), Farmacologia básica no contexto de Biologia
+- **Média prioridade:** Física (óptica, eletricidade), Matemática (estatística)
+- **Redação:** peso 2x — não negligencie
+
+## Pratique Ciências da Natureza
+
+O ENEM Pro tem todas as questões de Química, Física e Biologia do ENEM de 2009 a 2024. Pratique por disciplina com explicações de IA para cada questão errada.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+    `,
+  },
+  {
+    slug: 'nota-de-corte-arquitetura-enem',
+    title: 'Nota de Corte para Arquitetura e Urbanismo no ENEM — SISU 2026',
+    description: 'Nota de corte para Arquitetura e Urbanismo nas federais via SISU. Saiba quanto você precisa tirar no ENEM para entrar em Arquitetura.',
+    date: '2026-03-05',
+    readTime: 5,
+    content: `
+Arquitetura e Urbanismo é um dos cursos mais concorridos fora da área de saúde. Com duração de 5 anos e forte componente criativo e técnico, atrai candidatos com notas elevadas — especialmente em Matemática e Humanidades.
+
+## Nota de Corte para Arquitetura — SISU 2025 (Referência)
+
+| Universidade | Turno | Nota de Corte |
+|---|---|---|
+| USP São Paulo | Integral | 730–770 pts |
+| UFRJ | Integral | 700–740 pts |
+| UnB | Integral | 690–730 pts |
+| UFRGS | Integral | 680–720 pts |
+| UFMG | Integral | 670–710 pts |
+| UFSC | Integral | 650–690 pts |
+| UFC | Integral | 630–670 pts |
+| UFBA | Integral | 610–650 pts |
+| UFPB | Integral/Noturno | 580–620 pts |
+
+## Pesos do ENEM Para Arquitetura
+
+As federais costumam usar pesos que valorizam Matemática e Humanas:
+
+| Área | Peso |
+|---|---|
+| Matemática | 3x |
+| Ciências Humanas | 2x |
+| Linguagens | 2x |
+| Ciências da Natureza | 1x |
+| Redação | 2x |
+
+Diferente dos cursos de saúde, Arquitetura valoriza Matemática e Humanas — não Ciências da Natureza.
+
+## Arquitetura Exige Habilidades Específicas?
+
+O vestibular tradicional de Arquitetura costumava incluir prova de habilidades específicas (desenho, criatividade). Pelo SISU/ENEM, **não há prova de habilidades** — a seleção é exclusivamente pela nota do ENEM.
+
+Isso significa que você pode entrar em Arquitetura sem nunca ter desenhado tecnicamente. As habilidades práticas são desenvolvidas ao longo do curso.
+
+## O que Priorizar
+
+Com peso 3x em Matemática e 2x em Humanas e Linguagens:
+- **Matemática:** geometria plana e espacial (altamente relevante para arquitetura), funções, trigonometria
+- **Ciências Humanas:** história da arte e urbanismo aparecem no curso — base sólida aqui ajuda
+- **Redação:** peso 2x na maioria das universidades
+
+## Pratique Geometria e Matemática
+
+Geometria espacial e trigonometria são os temas de Matemática mais relevantes para quem vai cursar Arquitetura. O ENEM Pro tem todas as questões de Matemática de 2009 a 2024 para você treinar esses temas.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+    `,
+  },
+  {
+    slug: 'nota-de-corte-nutricao-enem',
+    title: 'Nota de Corte para Nutrição no ENEM — SISU 2026',
+    description: 'Nota de corte para Nutrição nas universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Nutrição.',
+    date: '2026-03-08',
+    readTime: 5,
+    content: `
+Nutrição é um dos cursos da área de saúde com crescimento acelerado nos últimos anos — mercado aquecido por alimentação saudável, esportes e saúde preventiva. As notas de corte nas federais variam muito por região.
+
+## Nota de Corte para Nutrição — SISU 2025 (Referência)
+
+| Universidade | Turno | Nota de Corte |
+|---|---|---|
+| USP (São Paulo) | Integral | 680–720 pts |
+| UNIFESP | Integral | 660–700 pts |
+| UFMG | Integral | 650–690 pts |
+| UnB | Integral | 630–670 pts |
+| UFRJ | Integral/Noturno | 620–660 pts |
+| UFC | Integral | 600–640 pts |
+| UFBA | Integral | 580–620 pts |
+| UFPE | Noturno | 560–600 pts |
+| UFPB | Noturno | 540–580 pts |
+| UFAM | Integral | 510–550 pts |
+
+## Pesos do ENEM Para Nutrição
+
+| Área | Peso |
+|---|---|
+| Ciências da Natureza | 3x |
+| Matemática | 2x |
+| Linguagens | 1x |
+| Ciências Humanas | 1x |
+| Redação | 2x |
+
+Biologia e Química são os principais diferenciais — especialmente Bioquímica e metabolismo.
+
+## Nutrição vs Outros Cursos de Saúde
+
+| Curso | Nota Típica (federal) |
+|---|---|
+| Medicina | 730–810 pts |
+| Farmácia | 560–700 pts |
+| Enfermagem | 540–690 pts |
+| Nutrição | 510–720 pts |
+
+Nutrição tem uma das maiores variações regionais — na capital pode exigir 680+, mas em universidades do Norte pode entrar com 520 pts.
+
+## O que Priorizar
+
+- **Biologia:** metabolismo celular, digestão, fisiologia — diretamente ligados à área
+- **Química:** reações orgânicas, bioquímica básica, soluções e concentrações
+- **Redação:** peso alto na maioria das universidades — não negligencie
+- **Matemática:** estatística, porcentagem e análise de dados
+
+## Pratique Ciências da Natureza
+
+O ENEM Pro tem todas as questões de Biologia e Química de 2009 a 2024. Pratique por disciplina e receba explicações de IA para cada questão errada.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+    `,
+  },
+  {
+    slug: 'enem-digital-como-funciona',
+    title: 'ENEM Digital — Como Funciona, Diferenças e Como se Inscrever',
+    description: 'Tudo sobre o ENEM Digital: como funciona a prova em computador, diferenças do ENEM tradicional, como se inscrever e se vale a pena fazer.',
+    date: '2026-04-10',
+    readTime: 6,
+    content: `
+O ENEM Digital foi lançado em 2020 como alternativa ao ENEM impresso. Desde então, o número de vagas tem crescido a cada edição — mas ainda é menor do que o ENEM regular. Se você tem a opção de escolher, este artigo explica tudo para você decidir.
+
+## O que é o ENEM Digital?
+
+O ENEM Digital é a mesma prova do ENEM regular, aplicada em computador em vez de caderno de prova e gabarito impresso. O conteúdo, o nível de dificuldade e as notas têm o mesmo peso — você usa o resultado do ENEM Digital para o SISU, ProUni, FIES e ingresso em universidades particulares exatamente como no ENEM impresso.
+
+## Diferenças Entre ENEM Digital e ENEM Regular
+
+| Critério | ENEM Digital | ENEM Regular |
+|---|---|---|
+| Formato de resposta | Clique no computador | Bolha no gabarito impresso |
+| Texto longo | Rola na tela | Folheia o caderno |
+| Questões com imagem | Alta resolução, zoom disponível | Impressão padrão |
+| Rascunho | Bloco de papel fornecido | Espaço no caderno |
+| Redação | Digitada no computador | Escrita à mão |
+| Número de vagas | Limitado (menor oferta) | Amplo (milhões de candidatos) |
+| Local de prova | Centros específicos com computador | Escolas e centros convencionais |
+| Resultado | Mesma nota, mesma validade | Mesma nota, mesma validade |
+
+## A Redação no ENEM Digital
+
+Esta é a maior diferença prática: no ENEM Digital, a redação é **digitada no computador**. Isso significa:
+- Você digita o texto no sistema — sem escrita à mão
+- Não há limite de caracteres diferente da versão impressa, mas a avaliação segue os mesmos critérios (1.000 pontos)
+- Não há verificador ortográfico ativo — o texto é avaliado como se fosse manuscrito
+
+**Atenção:** se você tem dificuldade de digitação ou não está acostumado a escrever no computador, pratique antes. A pressão do tempo é a mesma que no ENEM regular.
+
+## Vale a Pena Fazer o ENEM Digital?
+
+**Vantagens:**
+- Questões com imagem em alta resolução (melhor para questões de artes, mapas, gráficos)
+- Zoom disponível para textos e imagens
+- Interface permite navegar entre questões mais rapidamente do que folhear o caderno
+
+**Desvantagens:**
+- Menos vagas — pode não ter vaga na sua cidade
+- Exige familiaridade com o computador
+- Redação digitada — diferente do que a maioria pratica
+- Em caso de problema técnico, o INEP tem protocolos, mas pode gerar estresse
+
+**Conclusão:** para candidatos confortáveis com computador que moram em cidade com disponibilidade de vagas, o ENEM Digital é uma boa opção. Para quem prefere papel ou não tem prática de digitação, o ENEM regular é mais seguro.
+
+## Como se Inscrever no ENEM Digital
+
+A inscrição no ENEM Digital é **separada** do ENEM regular. Durante o período de inscrições (previsto para maio/junho de 2026), o site do INEP disponibiliza a opção específica para o ENEM Digital.
+
+Passos:
+1. Acesse enem.inep.gov.br durante o período de inscrições
+2. Na opção de modalidade, selecione **ENEM Digital**
+3. Verifique se há vagas disponíveis na sua cidade ou região
+4. Preencha o formulário e pague a taxa (a mesma do ENEM regular, com isenção nas mesmas condições)
+
+**Importante:** se inscrever-se no ENEM Digital, você **não participa** do ENEM regular no mesmo ano. São modalidades excludentes.
+
+## O Resultado é Diferente?
+
+Não. A nota do ENEM Digital é calculada da mesma forma, com a mesma TRI, e vale para os mesmos processos seletivos. Não há distinção entre "nota ENEM Digital" e "nota ENEM regular" no SISU ou ProUni.
+
+## Pratique com Questões Reais
+
+Independente de qual modalidade você escolher, a preparação é a mesma: questões reais do INEP. O ENEM Pro reúne todas as questões de 2009 a 2024 com explicação de IA para cada erro.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+    `,
+  },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)

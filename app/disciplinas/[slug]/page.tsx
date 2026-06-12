@@ -55,6 +55,33 @@ const DISCIPLINES_MAP: Record<string, {
   },
 }
 
+const DISC_POSTS: Record<string, { slug: string; title: string }[]> = {
+  matematica: [
+    { slug: 'como-estudar-matematica-enem', title: 'Como estudar Matemática para o ENEM' },
+    { slug: 'matematica-enem-dicas-estrategias', title: 'Dicas e estratégias de Matemática' },
+    { slug: 'tri-enem-como-funciona', title: 'TRI do ENEM: como a nota é calculada' },
+    { slug: 'como-calcular-nota-enem', title: 'Como calcular sua nota no ENEM' },
+  ],
+  linguagens: [
+    { slug: 'literatura-enem-o-que-cai', title: 'Literatura no ENEM — o que cai' },
+    { slug: 'redacao-enem-como-tirar-1000', title: 'Como tirar 1000 na redação do ENEM' },
+    { slug: 'ingles-enem-dicas', title: 'Inglês no ENEM — dicas e estratégias' },
+    { slug: 'questoes-linguagens-enem', title: 'Questões de Linguagens — ENEM' },
+  ],
+  'ciencias-humanas': [
+    { slug: 'ciencias-humanas-enem-o-que-cai', title: 'O que cai em Ciências Humanas' },
+    { slug: 'como-estudar-ciencias-humanas-enem', title: 'Como estudar Ciências Humanas' },
+    { slug: 'historia-enem-o-que-cai', title: 'O que cai em História no ENEM' },
+    { slug: 'filosofia-sociologia-enem', title: 'Filosofia e Sociologia no ENEM' },
+  ],
+  'ciencias-natureza': [
+    { slug: 'como-estudar-ciencias-natureza-enem', title: 'Como estudar Ciências da Natureza' },
+    { slug: 'fisica-enem-o-que-cai', title: 'O que cai em Física no ENEM' },
+    { slug: 'quimica-enem-o-que-cai', title: 'O que cai em Química no ENEM' },
+    { slug: 'biologia-enem-o-que-cai', title: 'O que cai em Biologia no ENEM' },
+  ],
+}
+
 const SLUG_TO_API_DISCIPLINE: Record<string, string> = {
   matematica: 'Matemática',
   linguagens: 'Linguagens, Códigos e suas Tecnologias',
@@ -239,6 +266,27 @@ export default async function DisciplinaPage({ params }: { params: Promise<{ slu
           </div>
         </div>
       </section>
+
+      {/* Artigos relacionados */}
+      {DISC_POSTS[slug] && (
+        <section className="py-12 px-6 bg-zinc-50 border-t border-zinc-100">
+          <div className="max-w-4xl mx-auto">
+            <h2 className="text-lg font-bold text-zinc-900 mb-5">Leia também</h2>
+            <div className="grid sm:grid-cols-2 gap-3">
+              {DISC_POSTS[slug].map(post => (
+                <Link
+                  key={post.slug}
+                  href={`/blog/${post.slug}`}
+                  className="flex items-start gap-3 bg-white rounded-xl border border-zinc-200 px-5 py-4 hover:border-indigo-300 hover:bg-indigo-50 transition-all"
+                >
+                  <span className="text-indigo-500 mt-0.5 shrink-0">→</span>
+                  <span className="text-sm font-medium text-zinc-800">{post.title}</span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* Outras disciplinas */}
       <section className="py-12 px-6 bg-white border-t border-zinc-100">

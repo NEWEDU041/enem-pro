@@ -194,6 +194,55 @@ const MATERIAS: Record<string, Materia> = {
   },
 }
 
+const MATERIA_POSTS: Record<string, { slug: string; title: string }[]> = {
+  fisica: [
+    { slug: 'fisica-enem-o-que-cai', title: 'O que cai em Física no ENEM' },
+    { slug: 'questoes-fisica-enem', title: 'Questões de Física — ENEM' },
+  ],
+  quimica: [
+    { slug: 'quimica-enem-o-que-cai', title: 'O que cai em Química no ENEM' },
+    { slug: 'questoes-ciencias-natureza-enem', title: 'Questões de Ciências da Natureza' },
+  ],
+  biologia: [
+    { slug: 'biologia-enem-o-que-cai', title: 'O que cai em Biologia no ENEM' },
+    { slug: 'como-estudar-ciencias-natureza-enem', title: 'Como estudar Ciências da Natureza' },
+  ],
+  historia: [
+    { slug: 'historia-enem-o-que-cai', title: 'O que cai em História no ENEM' },
+    { slug: 'ciencias-humanas-enem-o-que-cai', title: 'O que cai em Ciências Humanas' },
+    { slug: 'como-estudar-ciencias-humanas-enem', title: 'Como estudar Ciências Humanas' },
+  ],
+  geografia: [
+    { slug: 'geografia-enem-o-que-cai', title: 'O que cai em Geografia no ENEM' },
+    { slug: 'ciencias-humanas-enem-o-que-cai', title: 'O que cai em Ciências Humanas' },
+  ],
+  filosofia: [
+    { slug: 'filosofia-sociologia-enem', title: 'Filosofia e Sociologia no ENEM' },
+    { slug: 'como-estudar-ciencias-humanas-enem', title: 'Como estudar Ciências Humanas' },
+  ],
+  sociologia: [
+    { slug: 'filosofia-sociologia-enem', title: 'Filosofia e Sociologia no ENEM' },
+    { slug: 'ciencias-humanas-enem-o-que-cai', title: 'O que cai em Ciências Humanas' },
+  ],
+  matematica: [
+    { slug: 'como-estudar-matematica-enem', title: 'Como estudar Matemática para o ENEM' },
+    { slug: 'matematica-enem-dicas-estrategias', title: 'Dicas e estratégias de Matemática' },
+    { slug: 'tri-enem-como-funciona', title: 'TRI do ENEM: como funciona a nota' },
+  ],
+  portugues: [
+    { slug: 'literatura-enem-o-que-cai', title: 'Literatura no ENEM — o que cai' },
+    { slug: 'questoes-linguagens-enem', title: 'Questões de Linguagens — ENEM' },
+  ],
+  literatura: [
+    { slug: 'literatura-enem-o-que-cai', title: 'Literatura no ENEM — o que cai' },
+    { slug: 'redacao-enem-como-tirar-1000', title: 'Como tirar 1000 na redação' },
+  ],
+  ingles: [
+    { slug: 'ingles-enem-dicas', title: 'Inglês no ENEM — dicas e estratégias' },
+    { slug: 'questoes-linguagens-enem', title: 'Questões de Linguagens — ENEM' },
+  ],
+}
+
 const COLOR_MAP: Record<string, { bg: string; text: string; badge: string; button: string }> = {
   emerald: { bg: 'bg-emerald-50', text: 'text-emerald-700', badge: 'bg-emerald-100 text-emerald-700', button: 'bg-emerald-600 hover:bg-emerald-700' },
   amber: { bg: 'bg-amber-50', text: 'text-amber-700', badge: 'bg-amber-100 text-amber-700', button: 'bg-amber-600 hover:bg-amber-700' },
@@ -347,6 +396,25 @@ export default async function MateriaPage({ params }: { params: Promise<{ slug: 
               ))}
             </div>
           </div>
+
+          {MATERIA_POSTS[slug] && MATERIA_POSTS[slug].length > 0 && (
+            <div className="mt-6 bg-white rounded-2xl border border-zinc-200 p-6">
+              <h2 className="font-bold text-zinc-900 mb-3 text-sm uppercase tracking-wide text-zinc-500">Leia também</h2>
+              <ul className="space-y-2">
+                {MATERIA_POSTS[slug].map(post => (
+                  <li key={post.slug}>
+                    <Link
+                      href={`/blog/${post.slug}`}
+                      className="flex items-center gap-2 text-sm text-indigo-600 hover:text-indigo-800 hover:underline"
+                    >
+                      <span aria-hidden="true">→</span>
+                      {post.title}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
 
           <div className="mt-6 flex flex-wrap gap-4 text-sm">
             <Link href={`/disciplinas/${m.areaSlug}`} className="text-indigo-600 hover:underline">← Voltar para {m.area}</Link>

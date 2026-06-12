@@ -128,6 +128,27 @@ function renderContent(content: string) {
   return elements
 }
 
+function getInternalLinks(slug: string): { href: string; label: string }[] {
+  const links: { href: string; label: string }[] = []
+  if (slug.includes('matematica') || slug.includes('math')) links.push({ href: '/materias/matematica', label: 'Questões de Matemática' }, { href: '/disciplinas/matematica', label: 'Prova de Matemática ENEM' })
+  if (slug.includes('fisica')) links.push({ href: '/materias/fisica', label: 'Questões de Física' })
+  if (slug.includes('quimica')) links.push({ href: '/materias/quimica', label: 'Questões de Química' })
+  if (slug.includes('biologia')) links.push({ href: '/materias/biologia', label: 'Questões de Biologia' })
+  if (slug.includes('historia')) links.push({ href: '/materias/historia', label: 'Questões de História' })
+  if (slug.includes('geografia')) links.push({ href: '/materias/geografia', label: 'Questões de Geografia' })
+  if (slug.includes('filosofia') || slug.includes('sociologia')) links.push({ href: '/materias/filosofia', label: 'Questões de Filosofia' }, { href: '/materias/sociologia', label: 'Questões de Sociologia' })
+  if (slug.includes('literatura') || slug.includes('portugues') || slug.includes('linguagens')) links.push({ href: '/materias/literatura', label: 'Questões de Literatura' }, { href: '/disciplinas/linguagens', label: 'Prova de Linguagens ENEM' })
+  if (slug.includes('ingles')) links.push({ href: '/materias/ingles', label: 'Questões de Inglês' })
+  if (slug.includes('ciencias-natureza') || slug.includes('ciencias-da-natureza')) links.push({ href: '/disciplinas/ciencias-natureza', label: 'Prova de Ciências da Natureza' })
+  if (slug.includes('ciencias-humanas')) links.push({ href: '/disciplinas/ciencias-humanas', label: 'Prova de Ciências Humanas' })
+  if (slug.includes('redacao')) links.push({ href: '/temas-redacao', label: 'Temas de redação ENEM' })
+  if (slug.includes('gabarito')) links.push({ href: '/gabarito', label: 'Gabarito ENEM' }, { href: '/calcular-nota', label: 'Calcular nota ENEM' })
+  if (slug.includes('nota') || slug.includes('calcular') || slug.includes('tri')) links.push({ href: '/calcular-nota', label: 'Calculadora de nota ENEM' })
+  if (slug.includes('simulado')) links.push({ href: '/simulado', label: 'Simulado ENEM grátis' })
+  if (slug.includes('cronograma') || slug.includes('estudar')) links.push({ href: '/cronograma', label: 'Montar cronograma de estudos' })
+  return links.slice(0, 3)
+}
+
 function formatInline(text: string): string {
   return text
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
@@ -206,7 +227,21 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
           {renderContent(post.content)}
         </article>
 
-        <div className="mt-12 bg-indigo-600 text-white rounded-2xl px-8 py-8 text-center">
+        {getInternalLinks(slug).length > 0 && (
+          <nav aria-label="Links relacionados" className="mt-10 flex flex-wrap gap-2">
+            {getInternalLinks(slug).map(link => (
+              <Link
+                key={link.href}
+                href={link.href}
+                className="text-sm text-indigo-600 border border-indigo-200 bg-indigo-50 px-3 py-1.5 rounded-lg hover:bg-indigo-100 transition-colors"
+              >
+                {link.label} →
+              </Link>
+            ))}
+          </nav>
+        )}
+
+        <div className="mt-8 bg-indigo-600 text-white rounded-2xl px-8 py-8 text-center">
           <h2 className="text-xl font-bold mb-2">Pratique agora — 10 questões grátis</h2>
           <p className="text-indigo-200 text-sm mb-5">Leitura é ótimo. Prática é o que aprova no ENEM.</p>
           <Link
