@@ -1,10 +1,11 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import { SITE_URL } from '@/lib/site-config'
 
 export const metadata: Metadata = {
   title: 'Ferramentas ENEM 2026 — Calculadoras e Recursos Gratuitos | ENEM Pro',
   description: 'Ferramentas gratuitas para o ENEM: calculadora de nota TRI, simulado, cronograma de estudos, gabarito oficial, temas de redação e questão do dia.',
-  alternates: { canonical: 'https://enem-pro-eight.vercel.app/ferramentas' },
+  alternates: { canonical: `${SITE_URL}/ferramentas` },
 }
 
 const FERRAMENTAS = [

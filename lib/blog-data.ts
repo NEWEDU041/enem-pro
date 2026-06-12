@@ -3784,7 +3784,326 @@ Independente de qual modalidade você escolher, a preparação é a mesma: quest
   },
 ]
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2]
+const EXTRA_POSTS_3: BlogPost[] = [
+  {
+    slug: 'nota-de-corte-veterinaria-enem',
+    title: 'Nota de Corte para Veterinária no ENEM — SISU 2026',
+    description: 'Nota de corte para Medicina Veterinária nas universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Veterinária.',
+    date: '2026-03-12',
+    readTime: 5,
+    content: `
+Medicina Veterinária é um dos cursos mais procurados fora da área médica humana. Com mercado aquecido em agronegócio, pets e saúde pública, as notas de corte nas federais variam bastante por região.
+
+## Nota de Corte para Veterinária — SISU 2025 (Referência)
+
+| Universidade | Turno | Nota de Corte |
+|---|---|---|
+| USP (São Paulo) | Integral | 700–750 pts |
+| UFRGS | Integral | 670–710 pts |
+| UFMG | Integral | 660–700 pts |
+| UnB | Integral | 650–690 pts |
+| UFRJ | Integral | 630–670 pts |
+| UFC | Integral | 610–650 pts |
+| UFV (Viçosa) | Integral | 620–660 pts |
+| UFBA | Integral | 590–630 pts |
+| UFPB | Integral | 570–610 pts |
+| UFAM | Integral | 540–580 pts |
+
+*Consulte o SISU oficial para dados atualizados do SISU 2026.*
+
+## Pesos do ENEM Para Veterinária
+
+| Área | Peso |
+|---|---|
+| Ciências da Natureza | 3x |
+| Matemática | 2x |
+| Linguagens | 1x |
+| Ciências Humanas | 1x |
+| Redação | 2x |
+
+Biologia é o grande diferencial — anatomia animal, fisiologia, parasitologia e microbiologia são bases do curso.
+
+## Veterinária vs Medicina (Humana)
+
+| Critério | Medicina | Veterinária |
+|---|---|---|
+| Nota de corte | 730–810 pts | 540–750 pts |
+| Duração | 6 anos + residência | 5 anos |
+| Mercado | Alta remuneração | Diversificado (pets, agro, saúde pública) |
+| Concorrência | Altíssima | Alta (mas menor que medicina) |
+
+## O que Priorizar
+
+- **Biologia:** anatomia, fisiologia animal, genética, microbiologia — diretamente aplicados no curso
+- **Química:** bioquímica, reações orgânicas, farmacologia básica
+- **Redação:** peso 2x — trabalhe competências, especialmente proposta de intervenção (C5)
+- **Matemática:** estatística e funções — bases para epidemiologia
+
+## Pratique Ciências da Natureza
+
+O ENEM Pro tem todas as questões de Biologia, Química e Física de 2009 a 2024 com explicação de IA para cada erro.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+    `,
+  },
+  {
+    slug: 'fies-2026-como-funciona',
+    title: 'FIES 2026 — Como Funciona, Quem Pode e Como se Inscrever',
+    description: 'Guia completo do FIES 2026: como funciona o financiamento estudantil, requisitos, taxa de juros, como se inscrever e diferenças do ProUni.',
+    date: '2026-04-15',
+    readTime: 7,
+    content: `
+O FIES (Fundo de Financiamento Estudantil) é o programa do governo federal que financia cursos de graduação em faculdades privadas. Se você não conseguiu vaga no SISU (universidade federal) ou quer estudar numa particular, o FIES pode financiar parte ou toda a sua mensalidade.
+
+## O que é o FIES?
+
+O FIES financia cursos de graduação presenciais em faculdades privadas com nota mínima no ENEM. Diferente do ProUni (que é uma bolsa — você não paga de volta), o FIES é um **financiamento**: você paga durante o curso uma parcela simbólica e quita o restante após a formatura, com juros baixos.
+
+## Requisitos para o FIES 2026
+
+Para se candidatar ao FIES, você precisa:
+
+- Ter participado do ENEM a partir de 2010 com nota **mínima de 450 pontos** na média das provas objetivas
+- **Não ter zerado a redação**
+- Ter renda familiar bruta mensal per capita de até **3 salários mínimos**
+- Não ter diploma de curso superior
+- O curso pretendido deve estar cadastrado no FIES
+
+## Como Funciona o Financiamento
+
+O FIES não financia 100% da mensalidade automaticamente. Existem dois tipos:
+
+**FIES Regular (com juros):**
+- Financia entre 50% e 100% da mensalidade
+- Taxa de juros: 3,4% ao ano
+- Carência durante o curso + 12 meses após a formatura
+- Prazo de pagamento: até 3 vezes o tempo do curso
+
+**FIES Social (sem juros para renda mais baixa):**
+- Para famílias com renda até 1 salário mínimo per capita
+- Taxa de juros: 0% (sem correção monetária)
+- Mesmas regras de carência e prazo
+
+## Como se Inscrever no FIES 2026
+
+1. **Acesse o site do FIES** (fies.mec.gov.br) durante o período de inscrições
+2. **Crie ou acesse sua conta no Acesso.gov.br** (mesma plataforma do gov.br)
+3. **Preencha a ficha** com dados pessoais, renda familiar e curso desejado
+4. **Informe o número do CPF e nota do ENEM** — o sistema valida automaticamente
+5. **Aguarde o resultado** — aprovados recebem contrato de financiamento para assinar
+
+O período de inscrições normalmente ocorre em **fevereiro** (1ª edição) e pode haver uma 2ª chamada mais tarde no ano. Acompanhe o calendário oficial.
+
+## FIES vs ProUni — Qual Escolher?
+
+| Critério | ProUni | FIES |
+|---|---|---|
+| Tipo | Bolsa (não paga) | Financiamento (paga após formatura) |
+| Cobertura | 50% ou 100% | 50% a 100% |
+| Renda máxima | 3 s.m. per capita (integral) / 1,5 s.m. (parcial) | 3 s.m. per capita |
+| Nota mínima ENEM | 450 pts + redação > 0 | 450 pts + redação > 0 |
+| Juros | Nenhum | 3,4% a.a. (ou 0% no FIES Social) |
+
+**Regra geral:** se você tem direito ao ProUni, prefira o ProUni — você não precisa devolver nada. O FIES é a melhor opção quando o ProUni não cobre o curso ou a faculdade que você quer.
+
+## Nota Mínima do ENEM Para o FIES
+
+A nota mínima oficial é **450 pontos** na média das provas objetivas. Mas na prática, faculdades mais concorridas dentro do FIES pedem notas maiores.
+
+Para cursos como Medicina e Direito em faculdades particulares via FIES, espere exigências de 550–650 pontos. Para cursos como Pedagogia, Administração e Letras, 450–500 pontos costumam ser suficientes.
+
+## Posso Ter FIES e ProUni ao Mesmo Tempo?
+
+Não. São programas incompatíveis — você só pode ter um dos dois para o mesmo curso.
+
+## Pratique Para o ENEM e Garanta Sua Vaga
+
+Seja para SISU (federal), ProUni ou FIES, você precisa de uma boa nota no ENEM. O ENEM Pro tem todas as questões de 2009 a 2024 com explicação de IA para cada erro.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+    `,
+  },
+  {
+    slug: 'enem-2025-gabarito-resultado',
+    title: 'ENEM 2025 — Gabarito, Resultado e Notas de Corte',
+    description: 'Gabarito e resultado do ENEM 2025. Veja as notas por disciplina, análise das questões mais difíceis e notas de corte para o SISU 2026.',
+    date: '2025-11-10',
+    readTime: 7,
+    content: `
+O ENEM 2025 foi aplicado em novembro de 2025 e o resultado foi divulgado em janeiro de 2026. Neste artigo você encontra análise do gabarito, dificuldade das provas e notas de corte estimadas para o SISU 2026.
+
+## Datas do ENEM 2025
+
+| Evento | Data |
+|---|---|
+| 1º dia de prova | 2 de novembro de 2025 |
+| 2º dia de prova | 9 de novembro de 2025 |
+| Gabarito preliminar | 10 de novembro de 2025 |
+| Resultado final | Janeiro de 2026 |
+| SISU 2026 (usando notas ENEM 2025) | Janeiro/Fevereiro de 2026 |
+
+## Matemática ENEM 2025 — Análise
+
+A prova de Matemática 2025 foi considerada de nível médio. Os temas mais cobrados:
+
+- **Funções** — logarítmicas e exponenciais aplicadas a crescimento e decaimento (6 questões)
+- **Geometria espacial** — volume de sólidos e áreas de superfície (5 questões)
+- **Probabilidade e estatística** — análise de dados e eventos compostos (5 questões)
+- **Progressões** — PA e PG em contexto financeiro (4 questões)
+- **Trigonometria** — no triângulo e círculo trigonométrico (3 questões)
+
+**Diferencial 2025:** várias questões usaram contextos de tecnologia, sustentabilidade e saúde — tendência crescente no ENEM.
+
+## Ciências da Natureza ENEM 2025
+
+### Biologia
+- Genética molecular e biotecnologia — CRISPR, OGMs, vacinas (4 questões)
+- Ecologia — biomas brasileiros, impacto ambiental (4 questões)
+- Fisiologia — sistema imunológico, hormônios (3 questões)
+
+### Química
+- Química orgânica — polímeros e reações (5 questões)
+- Eletroquímica — pilhas e baterias (3 questões)
+- Equilíbrio químico — Princípio de Le Chatelier (3 questões)
+
+### Física
+- Eletrodinâmica — lei de Ohm, resistência e potência (4 questões)
+- Mecânica — trabalho, energia e conservação (4 questões)
+- Ondas e óptica (3 questões)
+
+## Ciências Humanas ENEM 2025
+
+A área de Humanas 2025 teve destaque para:
+- **História do Brasil recente** — redemocratização, constituição de 1988
+- **Geopolítica contemporânea** — conflitos, globalização e blocos econômicos
+- **Filosofia** — ética ambiental e filosofia política
+- **Sociologia** — desigualdade racial e movimentos sociais
+
+## Linguagens ENEM 2025
+
+- Interpretação de textos multimodais — memes, infográficos, podcasts transcritos
+- Literatura contemporânea — autoras negras e periféricas
+- Inglês — textos sobre inteligência artificial e privacidade
+
+## Notas de Corte Estimadas — SISU 2026
+
+Com base no gabarito e nas provas de 2025, as estimativas de notas de corte para o SISU 2026:
+
+| Curso | Estimativa de Corte |
+|---|---|
+| Medicina (federal capital) | 740–810 pts |
+| Medicina (federal interior) | 700–760 pts |
+| Direito (federal capital) | 650–720 pts |
+| Engenharia (federal) | 610–680 pts |
+| Arquitetura (federal) | 640–700 pts |
+| Administração (federal) | 580–640 pts |
+| Enfermagem (federal) | 560–640 pts |
+| Pedagogia (federal) | 500–560 pts |
+
+*Valores estimados — consulte o site oficial do SISU para os cortes definitivos.*
+
+## Como Usar o Resultado do ENEM 2025
+
+Com sua nota do ENEM 2025 em mãos:
+
+1. **SISU** — use para entrar em universidades federais e estaduais
+2. **ProUni** — bolsas em faculdades particulares
+3. **FIES** — financiamento em faculdades particulares
+4. **Vestibulares** — muitas particulares e algumas estaduais aceitam nota do ENEM
+
+## Prepare-se Melhor Para o ENEM 2026
+
+Se você vai tentar novamente em 2026, o ENEM Pro tem todas as questões do ENEM de 2009 a 2024 com explicação de IA. Identifique onde errou mais em 2025 e foque nesses temas.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+    `,
+  },
+  {
+    slug: 'como-passar-no-sisu',
+    title: 'Como Passar no SISU 2026 — Estratégia, Notas e Dicas',
+    description: 'Guia completo do SISU 2026: como funciona a seleção, como escolher a opção certa, diferença entre ampla concorrência e cotas e estratégias para maximizar suas chances.',
+    date: '2026-01-20',
+    readTime: 8,
+    content: `
+O SISU (Sistema de Seleção Unificada) é o programa do MEC que usa a nota do ENEM para distribuir vagas em universidades públicas federais e estaduais. Entender como ele funciona é tão importante quanto estudar — candidatos com a mesma nota podem ter resultados muito diferentes dependendo da estratégia.
+
+## Como o SISU Funciona
+
+O SISU acontece normalmente em **janeiro/fevereiro**, logo após a divulgação dos resultados do ENEM. Você usa sua nota do ENEM para se candidatar a até **2 opções** de curso/universidade, em qualquer ordem de preferência.
+
+**O processo:**
+1. Você se inscreve nas 2 opções durante o período de inscrições (geralmente 4–5 dias)
+2. Pode **alterar suas opções** quantas vezes quiser enquanto as inscrições estão abertas
+3. Acompanha a **nota de corte parcial** em tempo real — o sistema atualiza conforme mais candidatos se inscrevem
+4. No último dia, a nota de corte é calculada com base em todos os inscritos
+5. Resultado: aprovados na 1ª opção ou 2ª opção
+
+## Ampla Concorrência vs Cotas
+
+Cada vaga do SISU está dividida em **modalidades de concorrência**:
+
+- **Ampla concorrência (AC):** qualquer candidato pode concorrer
+- **L1:** escola pública, renda familiar ≤ 1,5 salário mínimo per capita, autodeclaro preto/pardo/indígena (PPI)
+- **L2:** escola pública, renda ≤ 1,5 s.m. per capita, qualquer raça
+- **L5:** escola pública, renda > 1,5 s.m. per capita, PPI
+- **L6:** escola pública, renda > 1,5 s.m. per capita, qualquer raça
+- Outras modalidades para PCD (pessoas com deficiência)
+
+**Dica importante:** a nota de corte nas modalidades de cotas costuma ser **significativamente menor** do que na ampla concorrência. Se você tem direito a alguma modalidade, compare as notas de corte das duas — muitas vezes vale a pena.
+
+## Como Escolher as 2 Opções
+
+Esta é a decisão mais crítica do SISU. Estratégias comuns:
+
+### Estratégia 1 — Sonho + Seguro
+- 1ª opção: seu curso/universidade ideal (mesmo que arriscado)
+- 2ª opção: curso/local com nota de corte histórica bem abaixo da sua nota
+
+Vantagem: você pode entrar no curso dos sonhos. Risco: se não passar em nenhuma, fica sem vaga.
+
+### Estratégia 2 — Ambas com chance real
+- 1ª e 2ª opções: cursos com nota de corte do ano anterior próxima à sua nota (com margem de 20–30 pts)
+
+Vantagem: maior chance de aprovação em pelo menos uma. Risco: pode não entrar no curso preferido.
+
+### Estratégia 3 — Por localização
+- 1ª opção: cidade preferida
+- 2ª opção: outra cidade com nota menor para o mesmo curso
+
+Funciona bem para quem quer o curso mas tem flexibilidade geográfica.
+
+## Como Acompanhar a Nota de Corte Parcial
+
+Durante as inscrições, o SISU mostra a nota de corte **parcial** — atualizada continuamente. Ela não é a nota final, mas é um indicador valioso.
+
+**Cuidado com o efeito manada:** muitos candidatos trocam de opção no último dia, causando variações bruscas na nota de corte. Não tome decisões impulsivas — avalie a tendência ao longo dos dias.
+
+## Quanto Antes Melhor? Quando Alterar sua Opção?
+
+Você pode mudar suas opções a qualquer momento durante as inscrições. **Não há vantagem em se inscrever no primeiro dia** — o que importa é a nota final, não quando você se inscreveu.
+
+Monitore as notas parciais nos primeiros dias para sentir a tendência, depois decida com mais informação.
+
+## O que Acontece Depois do Resultado?
+
+**Aprovado na 1ª opção:** você é automaticamente eliminado da 2ª opção e deve seguir o processo de matrícula.
+
+**Aprovado na 2ª opção:** segue para matrícula no curso da 2ª opção.
+
+**Não aprovado em nenhuma:** você pode entrar na **lista de espera**. Se candidatos aprovados não matricularem, as vagas são redistribuídas para quem está na lista de espera, por ordem de nota.
+
+**Inscreva-se na lista de espera** — ela é automática no SISU, mas você precisa confirmar interesse dentro do prazo definido.
+
+## Pratique Para Maximizar Sua Nota
+
+Cada ponto na nota do ENEM pode ser a diferença entre aprovação e reprovação no SISU. O ENEM Pro tem todas as questões de 2009 a 2024 para você identificar onde pode melhorar — com explicação de IA para cada questão errada.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+    `,
+  },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)

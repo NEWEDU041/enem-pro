@@ -1,11 +1,12 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import CalcularNotaClient from '@/components/CalcularNotaClient'
+import { SITE_URL } from '@/lib/site-config'
 
 export const metadata: Metadata = {
   title: 'Calculadora de Nota ENEM 2026 — Estimativa TRI por Área | ENEM Pro',
   description: 'Calcule sua nota estimada no ENEM com base nos acertos por área. Usa a curva TRI e compara com notas de corte do SISU para Medicina, Direito, Engenharia e mais.',
-  alternates: { canonical: 'https://enem-pro-eight.vercel.app/calcular-nota' },
+  alternates: { canonical: `${SITE_URL}/calcular-nota` },
   openGraph: {
     title: 'Calculadora de Nota ENEM 2026 — Estimativa TRI',
     description: 'Descubra sua nota estimada no ENEM. Compare com notas de corte do SISU.',
@@ -17,7 +18,7 @@ const jsonLd = {
   '@type': 'WebApplication',
   name: 'Calculadora de Nota ENEM',
   description: 'Calculadora interativa de nota ENEM com estimativa TRI por área',
-  url: 'https://enem-pro-eight.vercel.app/calcular-nota',
+  url: `${SITE_URL}/calcular-nota`,
   applicationCategory: 'EducationalApplication',
   operatingSystem: 'All',
   offers: { '@type': 'Offer', price: '0', priceCurrency: 'BRL' },

@@ -1,13 +1,22 @@
 import { NextResponse } from 'next/server'
+import { getAllSlugs } from '@/lib/blog-data'
+import { SITE_URL } from '@/lib/site-config'
 
 const KEY = '6f7796920fdc4262ac71d91b405fc939'
-const HOST = 'enem-pro-eight.vercel.app'
-const BASE = `https://${HOST}`
+const HOST = new URL(SITE_URL).hostname
+const BASE = SITE_URL
 
-const NEW_URLS = [
+const STATIC_URLS = [
+  '/',
   '/calcular-nota',
   '/ferramentas',
   '/questao-do-dia',
+  '/gabarito',
+  '/temas-redacao',
+  '/cronograma',
+  '/simulado',
+  '/blog',
+  '/planos',
   '/materias/fisica',
   '/materias/quimica',
   '/materias/biologia',
@@ -19,29 +28,19 @@ const NEW_URLS = [
   '/materias/literatura',
   '/materias/matematica',
   '/materias/ingles',
+  '/disciplinas/matematica',
+  '/disciplinas/linguagens',
+  '/disciplinas/ciencias-humanas',
+  '/disciplinas/ciencias-natureza',
   '/vs/descomplica',
   '/vs/stoodi',
   '/vs/estuda-com',
-  '/blog/fisica-enem-o-que-cai',
-  '/blog/quimica-enem-o-que-cai',
-  '/blog/biologia-enem-o-que-cai',
-  '/blog/historia-enem-o-que-cai',
-  '/blog/geografia-enem-o-que-cai',
-  '/blog/nota-de-corte-engenharia-enem',
-  '/blog/nota-de-corte-direito-enem',
-  '/blog/prouni-2026-como-funciona',
-  '/blog/ingles-enem-dicas',
-  '/blog/enem-segunda-chance',
-  '/blog/redacao-enem-competencias',
-  '/blog/filosofia-sociologia-enem',
-  '/blog/como-estudar-ciencias-humanas-enem',
-  '/blog/como-estudar-ciencias-natureza-enem',
-  '/blog/nota-de-corte-psicologia-enem',
-  '/blog/enem-treineiro-2026',
 ]
 
 export async function GET() {
-  const urlList = NEW_URLS.map(path => `${BASE}${path}`)
+  const blogUrls = getAllSlugs().map(slug => `/blog/${slug}`)
+  const allPaths = [...STATIC_URLS, ...blogUrls]
+  const urlList = allPaths.map(path => `${BASE}${path}`)
 
   const body = {
     host: HOST,

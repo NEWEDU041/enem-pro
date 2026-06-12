@@ -2,11 +2,12 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import { Suspense } from 'react'
 import DemoQuestion from '@/components/DemoQuestion'
+import { SITE_URL } from '@/lib/site-config'
 
 export const metadata: Metadata = {
   title: 'Questão do Dia ENEM 2026 — Pratique Grátis Todo Dia | ENEM Pro',
   description: 'Uma questão nova do ENEM todo dia, rotacionando entre Matemática, Humanas, Linguagens e Ciências da Natureza. Veja o gabarito e treine a consistência.',
-  alternates: { canonical: 'https://enem-pro-eight.vercel.app/questao-do-dia' },
+  alternates: { canonical: `${SITE_URL}/questao-do-dia` },
   openGraph: {
     title: 'Questão do Dia ENEM — Nova Questão Todo Dia',
     description: 'Pratique uma questão real do ENEM por dia. Grátis, sem cadastro.',
@@ -18,7 +19,7 @@ const jsonLd = {
   '@type': 'Quiz',
   name: 'Questão do Dia ENEM',
   description: 'Questão diária rotativa do ENEM com gabarito',
-  url: 'https://enem-pro-eight.vercel.app/questao-do-dia',
+  url: `${SITE_URL}/questao-do-dia`,
   provider: { '@type': 'Organization', name: 'ENEM Pro' },
   educationalLevel: 'Ensino Médio',
   inLanguage: 'pt-BR',

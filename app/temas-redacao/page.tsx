@@ -1,10 +1,11 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
+import { SITE_URL } from '@/lib/site-config'
 
 export const metadata: Metadata = {
   title: 'Temas da Redação do ENEM — 2009 a 2024 | ENEM Pro',
   description: 'Lista completa dos temas da redação do ENEM de 2009 a 2024. Veja os temas já cobrados, analise padrões e prepare sua redação para o ENEM 2026.',
-  alternates: { canonical: 'https://enem-pro-eight.vercel.app/temas-redacao' },
+  alternates: { canonical: `${SITE_URL}/temas-redacao` },
   openGraph: {
     title: 'Temas da Redação do ENEM 2009–2024',
     description: 'Todos os temas da redação ENEM. Analise padrões e prepare-se para 2026.',
@@ -45,8 +46,8 @@ const jsonLd = {
   '@type': 'Article',
   headline: 'Temas da Redação do ENEM — 2009 a 2024',
   description: 'Lista completa dos temas da redação do ENEM de 2009 a 2024 com análise e dicas.',
-  url: 'https://enem-pro-eight.vercel.app/temas-redacao',
-  publisher: { '@type': 'Organization', name: 'ENEM Pro', url: 'https://enem-pro-eight.vercel.app' },
+  url: `${SITE_URL}/temas-redacao`,
+  publisher: { '@type': 'Organization', name: 'ENEM Pro', url: SITE_URL },
   mainEntity: {
     '@type': 'ItemList',
     itemListElement: TEMAS.map((t, i) => ({

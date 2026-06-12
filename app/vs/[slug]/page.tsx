@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
+import { SITE_URL } from '@/lib/site-config'
 
 type Competitor = {
   name: string
@@ -83,7 +84,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `ENEM Pro vs ${c.name} — Qual é Melhor para o ENEM 2026?`,
     description: `Compare ENEM Pro e ${c.name}: preço, questões INEP, IA e funcionalidades. Veja qual plataforma prepara melhor para o ENEM 2026 pelo menor custo.`,
-    alternates: { canonical: `https://enem-pro-eight.vercel.app/vs/${slug}` },
+    alternates: { canonical: `${SITE_URL}/vs/${slug}` },
   }
 }
 
