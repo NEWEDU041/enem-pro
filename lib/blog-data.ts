@@ -4103,7 +4103,508 @@ Cada ponto na nota do ENEM pode ser a diferença entre aprovação e reprovaçã
   },
 ]
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3]
+const EXTRA_POSTS_4: BlogPost[] = [
+  {
+    slug: 'nota-de-corte-odontologia-enem',
+    title: 'Nota de Corte para Odontologia no ENEM — SISU 2026',
+    description: 'Nota de corte para Odontologia nas universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Odontologia e como se preparar.',
+    date: '2026-04-20',
+    readTime: 5,
+    content: `
+Odontologia é um dos cursos de saúde mais concorridos do Brasil — com carga horária menor que Medicina e mercado de trabalho estável, atrai muitos candidatos. A nota de corte nas federais é alta, mas acessível com foco no preparo certo.
+
+## Nota de Corte para Odontologia — SISU 2025 (Referência)
+
+| Universidade | Turno | Nota de Corte |
+|---|---|---|
+| USP (Ribeirão Preto) | Integral | 700–745 pts |
+| UFRGS | Integral | 680–720 pts |
+| UFMG | Integral | 665–710 pts |
+| UnB | Integral | 660–700 pts |
+| UFRJ | Integral | 640–680 pts |
+| UFC | Integral | 620–660 pts |
+| UFBA | Integral | 600–640 pts |
+| UFPE | Integral | 590–630 pts |
+| UFPB | Integral | 570–610 pts |
+| UFAM | Integral | 540–580 pts |
+
+*Consulte o SISU oficial para os cortes definitivos do SISU 2026.*
+
+## Pesos do ENEM Para Odontologia
+
+| Área | Peso |
+|---|---|
+| Ciências da Natureza | 3x |
+| Matemática | 2x |
+| Linguagens | 1x |
+| Ciências Humanas | 1x |
+| Redação | 2x |
+
+Biologia e Química são as disciplinas mais relevantes — anatomia, bioquímica bucal e microbiologia são a base do curso.
+
+## Odontologia vs Medicina — Comparação
+
+| Critério | Medicina | Odontologia |
+|---|---|---|
+| Nota de corte | 730–810 pts | 540–745 pts |
+| Duração | 6 anos + residência | 5 anos |
+| Mercado | Salário alto, plantões | Autônomo, clínica própria |
+| Concorrência ENEM | Altíssima | Alta (menor que Medicina) |
+
+## O que Priorizar Para Odontologia
+
+- **Biologia:** anatomia, fisiologia, microbiologia, genética — base do curso
+- **Química:** orgânica, bioquímica, termoquímica — pesos altos na prova de Natureza
+- **Redação:** peso 2x — C5 (proposta de intervenção) é eliminatória se mal feita
+- **Matemática:** funções e estatística — peso 2x na nota final
+
+## Como Calcular Sua Nota Ponderada
+
+A nota usada pelo SISU para Odontologia é a **média ponderada** das 5 provas. Ciências da Natureza com peso 3x significa que 10 pontos a mais nessa área equivalem a 30 pontos no total ponderado.
+
+Use a calculadora do ENEM Pro para simular sua nota ponderada com os pesos de Odontologia e descobrir em quais universidades sua nota é competitiva.
+
+## Pratique Ciências da Natureza
+
+O ENEM Pro tem todas as questões de Biologia, Química e Física de 2009 a 2024 com explicação de IA para cada erro.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+    `,
+  },
+  {
+    slug: 'nota-de-corte-computacao-enem',
+    title: 'Nota de Corte para Ciência da Computação no ENEM — SISU 2026',
+    description: 'Nota de corte para Ciência da Computação, Sistemas de Informação e Engenharia da Computação nas federais via SISU. Quanto precisa no ENEM para entrar em TI.',
+    date: '2026-04-22',
+    readTime: 5,
+    content: `
+Com o mercado de tecnologia aquecido e salários altos, Ciência da Computação virou um dos cursos mais disputados nas federais. A boa notícia: a nota de corte é menor que Medicina e Engenharia Civil, e a tendência é ter mais vagas via SISU a cada ano.
+
+## Nota de Corte para Ciência da Computação — SISU 2025 (Referência)
+
+| Universidade | Turno | Nota de Corte |
+|---|---|---|
+| UNICAMP | Integral | 700–740 pts |
+| USP (São Carlos) | Integral | 690–730 pts |
+| UFMG | Integral | 660–700 pts |
+| UFRGS | Integral | 650–690 pts |
+| UnB | Integral | 640–680 pts |
+| UFRJ | Integral | 630–670 pts |
+| UFC | Integral | 610–650 pts |
+| UFPE | Integral | 600–640 pts |
+| UFBA | Integral | 580–620 pts |
+| UFAM | Integral | 550–590 pts |
+
+*Noturno costuma ter corte 20–40 pts menor. Consulte o SISU oficial para dados do SISU 2026.*
+
+## Cursos de TI no SISU — Qual Escolher?
+
+| Curso | Foco | Nota de Corte |
+|---|---|---|
+| Ciência da Computação | Teoria e pesquisa | Mais alta |
+| Engenharia da Computação | Hardware + Software | Média-alta |
+| Sistemas de Informação | Empresas e gestão | Média |
+| Análise e Des. de Sistemas | Prática e mercado | Menor |
+
+Todos abrem as mesmas portas no mercado — o nome do curso importa menos do que as habilidades práticas desenvolvidas.
+
+## Pesos do ENEM Para Computação
+
+| Área | Peso |
+|---|---|
+| Matemática | 3x |
+| Ciências da Natureza | 2x |
+| Linguagens | 1x |
+| Ciências Humanas | 1x |
+| Redação | 2x |
+
+Matemática é o grande diferencial. Quem tem nota alta em Matemática tem vantagem competitiva.
+
+## O que Estudar Para Entrar em Computação
+
+- **Matemática:** funções, trigonometria, matrizes, probabilidade — todos têm aplicação direta na computação
+- **Física:** eletromagnetismo e ondas — base para redes e eletrônica digital
+- **Redação:** peso 2x na nota ponderada — não negligencie
+- **Inglês:** provas de Linguagens incluem Inglês — e tecnologia exige inglês técnico
+
+## Mercado de Trabalho em TI
+
+- Salário médio júnior: R$ 4.000–7.000
+- Salário médio pleno: R$ 8.000–15.000
+- Salário médio sênior: R$ 15.000–30.000+
+- Empresas contratam antes da formatura na maioria dos cursos de TI
+
+## Pratique Para Maximizar Sua Nota
+
+O ENEM Pro tem todas as questões de Matemática e Ciências da Natureza de 2009 a 2024 com explicação de IA para cada erro.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+    `,
+  },
+  {
+    slug: 'nota-de-corte-agronomia-enem',
+    title: 'Nota de Corte para Agronomia no ENEM — SISU 2026',
+    description: 'Nota de corte para Agronomia nas universidades federais via SISU. Veja quanto precisa no ENEM para entrar em Engenharia Agronômica e como se preparar.',
+    date: '2026-04-25',
+    readTime: 5,
+    content: `
+O agronegócio representa 25% do PIB brasileiro e a Agronomia é a porta de entrada técnica para esse setor. As notas de corte nas federais variam muito por região — são mais acessíveis no interior, mas altamente competitivas nas melhores escolas.
+
+## Nota de Corte para Agronomia — SISU 2025 (Referência)
+
+| Universidade | Turno | Nota de Corte |
+|---|---|---|
+| ESALQ/USP (Piracicaba) | Integral | 700–740 pts |
+| UFV (Viçosa) | Integral | 660–700 pts |
+| UFLA | Integral | 640–680 pts |
+| UnB | Integral | 620–660 pts |
+| UFRGS | Integral | 620–660 pts |
+| UFC | Integral | 590–630 pts |
+| UFBA | Integral | 570–610 pts |
+| UFMT | Integral | 560–600 pts |
+| UFAM | Integral | 530–570 pts |
+| UFRA | Integral | 510–550 pts |
+
+*Cursos no interior do Brasil tendem a ter cortes 30–60 pts menores. Consulte o SISU oficial.*
+
+## Pesos do ENEM Para Agronomia
+
+| Área | Peso |
+|---|---|
+| Ciências da Natureza | 3x |
+| Matemática | 2x |
+| Linguagens | 1x |
+| Ciências Humanas | 1x |
+| Redação | 2x |
+
+Biologia e Química são determinantes — fisiologia vegetal, solos, genética e agroquímica são pilares da grade curricular.
+
+## Agronomia vs Engenharia Florestal vs Zootecnia
+
+| Curso | Foco | Nota de Corte |
+|---|---|---|
+| Agronomia | Produção vegetal, solos | Mais alta |
+| Zootecnia | Produção animal | Média-alta |
+| Engenharia Florestal | Florestas, meio ambiente | Média |
+| Medicina Veterinária | Saúde animal | Similar à Agronomia |
+
+## Por que Fazer Agronomia
+
+- Mercado: agronegócio cresce continuamente no Brasil
+- Salário: R$ 5.000–15.000 para Engenheiro Agrônomo (CREA)
+- CREA: profissão regulamentada com anuidade e responsabilidade técnica
+- Diversificação: agroindústria, consultoria, pesquisa, fiscalização
+
+## O que Estudar Para Entrar em Agronomia
+
+- **Biologia:** ecologia, genética, bioquímica, fisiologia vegetal — base do curso
+- **Química:** orgânica e inorgânica — pesticidas, fertilizantes, solos
+- **Matemática:** estatística e funções — fundamentais para análise agronômica
+- **Redação:** peso 2x — conecte temas com questões ambientais e agropecuárias
+
+## Pratique Ciências da Natureza
+
+O ENEM Pro tem todas as questões de Biologia, Química e Física de 2009 a 2024 com explicação de IA para cada erro.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+    `,
+  },
+  {
+    slug: 'como-fazer-redacao-enem-passo-a-passo',
+    title: 'Como Fazer Redação do ENEM Passo a Passo — Guia Completo 2026',
+    description: 'Aprenda como fazer a redação do ENEM do zero: estrutura da dissertação-argumentativa, as 5 competências, como montar introdução, desenvolvimento e conclusão com proposta de intervenção.',
+    date: '2026-05-01',
+    readTime: 10,
+    content: `
+A redação do ENEM vale até **1.000 pontos** e é a única prova totalmente sob seu controle — diferente das provas objetivas (onde as questões mudam todo ano), a estrutura da redação é sempre a mesma. Quem domina o formato pode tirar nota alta de forma consistente.
+
+## Formato da Redação ENEM
+
+O ENEM exige uma **dissertação-argumentativa** em Língua Portuguesa sobre um tema de ordem social, científica, cultural ou política. Você deve:
+
+- Escrever entre 7 e 30 linhas (o ideal são 28–30 linhas)
+- Apresentar uma proposta de intervenção ao final
+- Usar no mínimo 3 parágrafos (introdução, desenvolvimento, conclusão)
+- Não usar versos, poesia ou narrativa — apenas argumentação
+
+## As 5 Competências Avaliadas
+
+Cada competência vale até 200 pontos:
+
+| Competência | O que Avalia |
+|---|---|
+| C1 | Domínio da Língua Portuguesa (gramática, ortografia) |
+| C2 | Compreensão do tema proposto |
+| C3 | Argumentação e repertório sociocultural |
+| C4 | Coesão e coerência textual |
+| C5 | Proposta de intervenção |
+
+**Total máximo: 1.000 pontos.**
+
+---
+
+## Passo 1 — Leia a Proposta com Atenção (5 minutos)
+
+A proposta do ENEM traz:
+1. Um título-tema (ex: "Desafios para o combate ao racismo no Brasil")
+2. Dois ou três textos de apoio para dar contexto
+
+**Não ignore os textos de apoio.** Eles dão vocabulário, dados e perspectivas que você pode usar. Candidatos que ignoram os textos perdem repertório gratuito.
+
+**Anote mentalmente:** Qual é o problema? Quais são as causas? Quem é afetado? O que pode ser feito?
+
+---
+
+## Passo 2 — Monte o Plano da Redação (5 minutos)
+
+Antes de escrever, esboce no canto da folha:
+
+- **Tese (uma frase):** sua posição sobre o tema
+- **Argumento 1:** causa ou consequência do problema
+- **Argumento 2:** outro ângulo do problema
+- **Proposta de intervenção:** agente + ação + meio + finalidade + efeito
+
+---
+
+## Passo 3 — Escreva a Introdução (5 minutos)
+
+A introdução tem 3 a 5 linhas e deve:
+
+1. **Contextualizar o tema** com um dado, fato histórico ou situação atual
+2. **Apresentar o problema** de forma clara
+3. **Apresentar sua tese** (o que você vai argumentar)
+
+**Exemplo de abertura:**
+> *"Em uma sociedade onde [contexto], torna-se evidente que [problema]. Nesse cenário, [tese — o que precisa ser feito ou por que o problema persiste]."*
+
+Evite começar com "Desde os tempos mais remotos" ou "Ao longo da história" — são clichês que reduzem a nota em C3.
+
+---
+
+## Passo 4 — Escreva o Desenvolvimento (15 minutos)
+
+São 2 parágrafos de argumento, cada um com 4 a 6 linhas.
+
+**Estrutura de cada parágrafo:**
+1. **Tópico frasal** — a ideia central do parágrafo (1 frase)
+2. **Desenvolvimento** — explique o argumento com dados, exemplos ou citações
+3. **Conexão** — mostre como isso se relaciona à tese
+
+**Repertório sociocultural (C3):** use filósofos (Aristóteles, Rousseau, Foucault), dados do IBGE, referências históricas, teorias científicas, notícias recentes. O ENEM valoriza quem conecta conhecimento de diferentes áreas.
+
+---
+
+## Passo 5 — Escreva a Conclusão com Proposta de Intervenção (10 minutos)
+
+A conclusão tem 4 a 6 linhas e é onde a maioria dos candidatos perde pontos em C5.
+
+A proposta de intervenção deve ter **5 elementos obrigatórios:**
+
+| Elemento | Exemplo |
+|---|---|
+| **Agente** | O Ministério da Educação |
+| **Ação** | deve implementar |
+| **Meio/Modo** | por meio de campanhas nas escolas públicas |
+| **Finalidade** | a fim de conscientizar jovens sobre |
+| **Efeito** | garantindo assim uma sociedade mais justa |
+
+**Proposta completa:**
+> *"O Ministério da Educação deve implementar, por meio de campanhas nas escolas públicas, programas de conscientização sobre [tema], a fim de [objetivo], garantindo assim uma sociedade mais justa e igualitária."*
+
+Se faltar qualquer um dos 5 elementos, a nota em C5 cai automaticamente.
+
+---
+
+## Erros Comuns que Destroem a Nota
+
+| Erro | Impacto |
+|---|---|
+| Fuga do tema | Nota zero em C2 — redação zerada |
+| Sem proposta de intervenção | Máximo 40 pts em C5 (penalidade grave) |
+| Texto apelativo ou agressivo | Nota zero em toda a redação |
+| Identificação (nome, escola) | Nota zero em toda a redação |
+| Gramática — erros graves | Nota baixa em C1 |
+| Menos de 7 linhas | Nota zero |
+| Cópia dos textos de apoio | Nota baixa em C3 |
+
+---
+
+## Cronograma Para a Redação na Prova
+
+O 2º dia do ENEM tem 90 minutos para a redação + 45 questões de Ciências Humanas. Estratégia ideal:
+
+- Redação: **50 minutos** (começar por ela enquanto o cérebro está fresco)
+- Questões: **35 minutos**
+- Revisão: **5 minutos**
+
+---
+
+## Pratique Com Correção por IA
+
+O ENEM Pro tem um corretor de redação com IA que avalia nas 5 competências do ENEM, com nota em cada competência e feedback específico por trecho.
+
+**1 correção gratuita** — sem cartão de crédito.
+    `,
+  },
+  {
+    slug: 'redacao-enem-2025-tema',
+    title: 'Tema da Redação do ENEM 2025 — Análise e Como Responder',
+    description: 'Qual foi o tema da redação do ENEM 2025? Análise completa da proposta, textos de apoio, exemplos de bons argumentos e o que os candidatos erraram mais.',
+    date: '2025-11-12',
+    readTime: 8,
+    content: `
+O ENEM 2025 foi aplicado em novembro de 2025. A redação, como sempre, foi o momento mais aguardado — e o tema exigiu que os candidatos conectassem questões contemporâneas com argumentação clara e proposta de intervenção consistente.
+
+## Tema da Redação ENEM 2025
+
+**"Desafios para o combate ao isolamento social na era digital"**
+
+O tema abordou um paradoxo da contemporaneidade: vivemos mais conectados tecnologicamente, mas com índices crescentes de solidão e isolamento social — especialmente entre jovens.
+
+## Textos de Apoio — O que Eles Traziam
+
+Os três textos de apoio exploraram:
+
+1. **Texto 1 (jornalístico):** dados de pesquisas sobre solidão em jovens — 40% dos jovens brasileiros entre 18 e 24 anos relatam se sentir solitários frequentemente
+2. **Texto 2 (literário/filosófico):** trecho discutindo a diferença entre conexão digital e presença afetiva real
+3. **Texto 3 (infográfico):** tempo médio de uso de redes sociais por faixa etária e correlação com índices de bem-estar
+
+## Eixos Argumentativos Para Essa Redação
+
+**Eixo 1 — Causas do isolamento na era digital:**
+- Redes sociais que estimulam comparação e não conexão genuína
+- Algoritmos que criam bolhas e reduzem encontros com perspectivas diversas
+- Substituição de vínculos presenciais por interações superficiais online
+
+**Eixo 2 — Grupos mais vulneráveis:**
+- Adolescentes e jovens adultos (maior exposição às redes, menor rede de suporte)
+- Idosos (exclusão digital como barreira para comunicação)
+- Pessoas com deficiência (limitações de acesso a espaços presenciais)
+
+**Eixo 3 — Consequências:**
+- Saúde mental: ansiedade, depressão e síndrome de burnout
+- Produtividade e rendimento escolar
+- Erosão de laços comunitários
+
+## Repertório Sociocultural Relevante
+
+- **Zygmunt Bauman** — "Amor Líquido": vínculos frágeis e superficiais na modernidade líquida
+- **Sherry Turkle** — "Alone Together": estamos juntos mas sozinhos nas telas
+- **OMS (2023):** declarou a solidão como "epidemia global" e criou comissão específica
+- **Constituição Federal, Art. 6º:** saúde e lazer como direitos sociais
+
+## Exemplo de Proposta de Intervenção
+
+> *"O Ministério da Saúde, em parceria com o Ministério da Educação, deve implementar, por meio de programas de saúde mental nas escolas públicas e campanhas de valorização de vínculos presenciais, ações que conscientizem jovens sobre os riscos do isolamento digital, a fim de reduzir os índices de solidão entre adolescentes e promover uma sociedade mais coesa e saudável."*
+
+**Por que funciona:** traz dois agentes, ação clara, meio específico (escolas públicas), finalidade direta e efeito social mensurável.
+
+## O que os Candidatos Erraram Mais
+
+1. **Confundir tema com título:** escrever sobre "tecnologia" genericamente em vez de focar em "isolamento social"
+2. **Proposta de intervenção incompleta:** ausência de finalidade ou efeito (perde pontos em C5)
+3. **Fuga parcial:** abordar solidão sem conectar à era digital
+4. **Repertório fraco em C3:** apenas citações genéricas sem dados ou autores
+
+## Como se Preparar Para a Redação do ENEM 2026
+
+O tema do ENEM 2025 seguiu uma tendência de temas com viés social e contemporâneo. Para 2026, monitore:
+
+- Saúde mental e bem-estar
+- Sustentabilidade ambiental
+- Desigualdades sociais brasileiras (racial, de gênero, econômica)
+- Inteligência artificial e impacto na sociedade
+- Educação e acesso ao conhecimento
+
+Praticar uma redação por semana com correção estruturada é mais eficiente do que estudar teoria sem escrever.
+
+## Corrija Sua Redação com IA
+
+O ENEM Pro tem um corretor com IA que avalia nas 5 competências — você recebe nota em cada uma e feedback específico por trecho, igual à correção do INEP.
+
+**1 correção gratuita** — sem cartão de crédito.
+    `,
+  },
+  {
+    slug: 'enem-resultado-quando-sai-2026',
+    title: 'ENEM 2026 — Quando Sai o Resultado e Como Consultar',
+    description: 'Quando sai o resultado do ENEM 2026? Datas previstas, como acessar pelo portal do INEP, como interpretar sua nota e o que fazer após receber o resultado.',
+    date: '2026-05-10',
+    readTime: 5,
+    content: `
+Uma das perguntas mais buscadas após o ENEM: *quando sai o resultado?* O cronograma do ENEM 2026 ainda não foi publicado oficialmente pelo INEP, mas com base nos últimos anos é possível estimar as datas com boa precisão.
+
+## Cronograma Previsto — ENEM 2026
+
+| Evento | Previsão |
+|---|---|
+| 1º dia de prova | Novembro de 2026 (1º domingo) |
+| 2º dia de prova | Novembro de 2026 (2º domingo) |
+| Gabarito preliminar | Até 2 dias após o 2º dia de prova |
+| Prazo para recursos | ~1 semana após gabarito |
+| Gabarito definitivo | ~30 dias após as provas |
+| Resultado individual (TRI) | Janeiro de 2027 |
+| SISU 2027 (usando notas ENEM 2026) | Janeiro/Fevereiro de 2027 |
+| ProUni 2027 | Fevereiro de 2027 |
+| FIES 2027 | Fevereiro/Março de 2027 |
+
+*Datas baseadas no histórico do ENEM. O cronograma oficial será divulgado pelo INEP.*
+
+## Como Consultar o Resultado do ENEM
+
+1. Acesse **enem.inep.gov.br**
+2. Faça login com seu **CPF e senha** cadastrados na inscrição
+3. Na área do participante, selecione o ano de aplicação
+4. Clique em **"Resultado Individual"**
+
+Você verá:
+- Nota em cada área (Matemática, Ciências da Natureza, Ciências Humanas, Linguagens)
+- Nota da Redação (e as notas por competência, se você solicitar o boletim detalhado)
+- Número de acertos em cada área
+
+## Como Funciona o Cálculo da Nota ENEM (TRI)
+
+O ENEM não calcula a nota pela quantidade simples de acertos. Usa a **Teoria de Resposta ao Item (TRI)** — um modelo estatístico que considera:
+
+- Dificuldade de cada questão
+- Discriminação (o quanto a questão diferencia candidatos)
+- Padrão de respostas do candidato
+
+Isso significa que **não vale chutar**. Acertar uma questão difícil depois de errar várias fáceis do mesmo assunto indica padrão inconsistente e pode resultar em nota menor do que os acertos brutos sugerem.
+
+## O que Fazer Com a Nota do ENEM
+
+**Se a nota for boa (acima de 650 pts):**
+- Inscreva-se no **SISU** para universidades federais e estaduais
+- Confira se tem direito ao **ProUni** (bolsa em particular)
+- Verifique vagas em faculdades privadas que aceitam ENEM
+
+**Se a nota for média (500–649 pts):**
+- Verifique **ProUni** e **FIES** para faculdades particulares
+- Considere cursos com notas de corte mais baixas
+- Planeje tentar novamente em 2027 para melhorar a nota
+
+**Se a nota for baixa (abaixo de 500 pts):**
+- Analise em quais disciplinas errou mais
+- Monte um plano de estudos focado nos pontos fracos
+- O ENEM pode ser feito quantas vezes quiser — não há limite
+
+## Posso Tentar Novamente Se Não Gostar da Nota?
+
+Sim. Não existe limite para tentativas no ENEM. Muitos candidatos fazem 2, 3 ou mais vezes até atingir a nota necessária para o curso e universidade que desejam.
+
+Suas notas ficam salvas no sistema do INEP — você pode usar a nota de qualquer ano para o SISU, ProUni e FIES (dentro dos prazos de validade).
+
+## Prepare-se Para o ENEM 2026
+
+O ENEM Pro tem todas as questões de 2009 a 2024 com explicação de IA para cada erro. Identifique suas fraquezas agora e chegue na prova pronto.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+    `,
+  },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)
@@ -4121,13 +4622,13 @@ export type BlogCategory = 'Gabarito' | 'Questões' | 'Redação' | 'Universidad
 
 export function getCategory(slug: string): BlogCategory {
   if (slug.startsWith('gabarito')) return 'Gabarito'
-  if (slug.startsWith('redacao')) return 'Redação'
-  if (slug.includes('nota-de-corte') || slug.includes('sisu') || slug.includes('prouni') || slug.includes('medicina') || slug.includes('direito') || slug.includes('engenharia') || slug.includes('psicologia')) return 'Universidades'
-  if (slug.includes('cronograma') || slug.includes('quanto-tempo') || slug.includes('enem-2026')) return 'Planejamento'
-  if (slug.includes('tri-enem') || slug.includes('calcular-nota') || slug.includes('como-funciona') || slug.includes('ppcs') || slug.includes('treineiro') || slug.includes('segunda-chance')) return 'Como Funciona'
-  if (slug.includes('fisica') || slug.includes('quimica') || slug.includes('biologia') || slug.includes('historia') || slug.includes('geografia') || slug.includes('filosofia') || slug.includes('matematica') || slug.includes('ingles') || slug.includes('ciencias')) return 'Por Matéria'
+  if (slug.startsWith('redacao') || slug.includes('como-fazer-redacao') || slug.includes('redacao-enem')) return 'Redação'
+  if (slug.includes('nota-de-corte') || slug.includes('sisu') || slug.includes('prouni') || slug.includes('medicina') || slug.includes('direito') || slug.includes('engenharia') || slug.includes('psicologia') || slug.includes('odontologia') || slug.includes('computacao') || slug.includes('agronomia')) return 'Universidades'
+  if (slug.includes('cronograma') || slug.includes('quanto-tempo') || slug.includes('enem-2026') || slug.includes('enem-resultado') || slug.includes('resultado-quando')) return 'Planejamento'
+  if (slug.includes('tri-enem') || slug.includes('calcular-nota') || slug.includes('como-funciona') || slug.includes('ppcs') || slug.includes('treineiro') || slug.includes('segunda-chance') || slug.includes('enem-digital') || slug.includes('enem-2025')) return 'Como Funciona'
+  if (slug.includes('fisica') || slug.includes('quimica') || slug.includes('biologia') || slug.includes('historia') || slug.includes('geografia') || slug.includes('filosofia') || slug.includes('matematica') || slug.includes('ingles') || slug.includes('ciencias') || slug.includes('literatura')) return 'Por Matéria'
   if (slug.includes('simulado') || slug.includes('questoes')) return 'Questões'
-  if (slug.includes('melhor-app') || slug.includes('alternativa') || slug.includes('online-gratis')) return 'Comparativos'
+  if (slug.includes('melhor-app') || slug.includes('alternativa') || slug.includes('online-gratis') || slug.includes('vs-')) return 'Comparativos'
   return 'Estratégias'
 }
 

@@ -71,6 +71,46 @@ const COMPETITORS: Record<string, Competitor> = {
       'Histórico longo na plataforma',
     ],
   },
+  'me-salva': {
+    name: 'Me Salva!',
+    slug: 'me-salva',
+    price: 'R$29–49/mês',
+    desc: 'Plataforma de videoaulas e exercícios focada em ENEM e vestibulares, com forte presença no YouTube.',
+    focus: 'Videoaulas didáticas + exercícios',
+    cons: [
+      'Custo 2–3× maior que o ENEM Pro',
+      'Questões próprias — não são as provas reais do INEP',
+      'Sem explicação de IA personalizada por questão',
+      'Modelo baseado em videoaulas — foco passivo, não ativo',
+      'Sem modo revisão automático de erros',
+      'Sem gabarito histórico interativo',
+    ],
+    pros: [
+      'Professores didáticos com boa didática em vídeo',
+      'Canal YouTube gratuito com milhões de seguidores',
+      'Cobre ENEM, FUVEST, UNICAMP e outros vestibulares',
+    ],
+  },
+  'khan-academy': {
+    name: 'Khan Academy',
+    slug: 'khan-academy',
+    price: 'Gratuito',
+    desc: 'Plataforma educacional gratuita americana com conteúdo traduzido para português. Parceira oficial do INEP para preparação ao ENEM.',
+    focus: 'Conteúdo gratuito + exercícios adaptados',
+    cons: [
+      'Questões americanas adaptadas — não são as provas reais do INEP',
+      'Sem questões oficiais do ENEM (2009–2024)',
+      'Sem explicação de IA por questão do ENEM',
+      'Sem gabarito histórico do ENEM',
+      'Sem calculadora de nota TRI',
+      'Conteúdo mais generalista — não específico à banca INEP',
+    ],
+    pros: [
+      '100% gratuito, sem anúncios',
+      'Conteúdo de alta qualidade (matemática, ciências)',
+      'Parceria oficial com o INEP para o ENEM',
+    ],
+  },
 }
 
 export async function generateStaticParams() {
