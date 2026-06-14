@@ -6627,7 +6627,768 @@ Cursos livres complementam a formação durante a graduação — comece cedo.
   },
 ]
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6]
+const EXTRA_POSTS_7: BlogPost[] = [
+  {
+    slug: 'como-estudar-filosofia-enem',
+    title: 'Como Estudar Filosofia para o ENEM: Temas, Filósofos e Estratégia 2026',
+    description: 'Guia de Filosofia para o ENEM 2026. Os filósofos mais cobrados, temas frequentes em Ciências Humanas, como interpretar textos filosóficos e dicas de estudo.',
+    date: '2026-06-14',
+    readTime: 6,
+    content: `
+Filosofia é uma das disciplinas mais temidas do ENEM — mas também onde candidatos bem preparados se destacam. O segredo é focar nos filósofos e temas que a banca realmente cobra.
+
+## O Peso de Filosofia em Ciências Humanas
+
+Filosofia faz parte de Ciências Humanas (45 questões com História, Geografia e Sociologia). Filosofia representa em média **7–10 questões** por prova.
+
+O ENEM cobra Filosofia de forma integrada com as outras disciplinas de Humanas. Dificilmente uma questão é "puramente filosófica" — ela sempre conecta com um contexto histórico, social ou político.
+
+## Filósofos Mais Cobrados no ENEM
+
+Você não precisa conhecer toda a história da filosofia. O ENEM tem padrão claro:
+
+### Filosofia Política (alta frequência)
+- **Aristóteles:** política, ética, bem comum, zoôn politikon
+- **John Locke:** contrato social, propriedade, liberalismo
+- **Jean-Jacques Rousseau:** contrato social, vontade geral, igualdade
+- **Thomas Hobbes:** estado de natureza ("guerra de todos contra todos"), Leviatã
+- **Karl Marx:** materialismo histórico, luta de classes, alienação, capitalismo
+
+### Epistemologia e Teoria do Conhecimento (frequência média)
+- **René Descartes:** dúvida metódica, cogito ergo sum, racionalismo
+- **Francis Bacon:** método indutivo, empirismo, conhecimento científico
+- **Immanuel Kant:** imperativo categórico, ética, teoria do conhecimento
+
+### Ética e Moral
+- **Aristóteles:** ética das virtudes, eudaimonia (felicidade)
+- **Kant:** ética do dever, imperativo categórico
+- **Bentham / Mill:** utilitarismo (maior bem para o maior número)
+- **Nietzsche:** crítica à moral tradicional, vontade de potência
+
+### Filosofia Contemporânea
+- **Michel Foucault:** poder, disciplina, biopoder, discurso
+- **Hannah Arendt:** totalitarismo, banalidade do mal, espaço público
+- **Jean-Paul Sartre:** existencialismo, liberdade, responsabilidade
+
+## Temas Filosóficos Mais Recorrentes no ENEM
+
+| Tema | Frequência | Filósofos associados |
+|------|-----------|---------------------|
+| Contrato Social e Estado | Alta | Hobbes, Locke, Rousseau |
+| Ética e Moral | Alta | Aristóteles, Kant, Mill |
+| Alienação e Trabalho | Média | Marx |
+| Conhecimento e Ciência | Média | Descartes, Bacon, Kant |
+| Poder e Controle Social | Média | Foucault |
+| Totalitarismo | Média | Arendt |
+| Liberdade e Existência | Baixa | Sartre |
+
+## Como o ENEM Cobra Filosofia
+
+A banca nunca pede "quem é o autor desta teoria" de forma direta. Ela apresenta um trecho e pede:
+- Qual conceito filosófico está sendo expresso?
+- Com qual filósofo esta ideia se associa?
+- Como essa ideia se aplica a uma situação contemporânea?
+
+**Exemplo de questão típica:** Apresenta trecho sobre a origem das leis e pede qual filósofo iluminista seria o autor mais provável desta visão — Locke, Rousseau ou Hobbes.
+
+## Como Estudar Filosofia de Forma Eficiente
+
+**Abordagem errada:** Ler longos textos filosóficos de ponta a ponta.
+
+**Abordagem ENEM:** Estude os **conceitos-chave** de cada filósofo + pratique com questões da banca.
+
+### Por filósofo, o que saber:
+
+**Platão e Aristóteles:**
+- Platão: mundo das ideias, filósofo-rei, A República
+- Aristóteles: política como natureza do homem, virtude como meio-termo, ética
+
+**Contratualistas (Hobbes, Locke, Rousseau):**
+- Estado de natureza: cada um tem visão diferente
+- Contrato social: como surgiu o Estado?
+- Legitimidade do poder
+
+**Kant:**
+- Imperativo categórico: aja só por dever, não por interesse
+- "Age apenas segundo aquela máxima que podes querer que se torne lei universal"
+- Aplicação prática: ética, direitos humanos
+
+**Marx:**
+- Modo de produção capitalista: burguesia × proletariado
+- Alienação: trabalhador separado do produto de seu trabalho
+- Materialismo histórico: a história é movida por conflitos de classe
+
+**Foucault:**
+- Poder não está só no Estado — está nas instituições (escola, hospital, prisão)
+- Biopolítica: o Estado regulando corpos e populações
+- Discurso: como o que dizemos define o que é "verdade"
+
+## Estratégia de Estudo: 6 Semanas
+
+**Semanas 1–2:** Contrato Social (Hobbes, Locke, Rousseau) — leia os resumos, compare as três visões, resolva 15 questões ENEM.
+
+**Semanas 3–4:** Ética (Aristóteles, Kant, Marx) — conceitos-chave, aplicação em contextos contemporâneos.
+
+**Semanas 5–6:** Foucault, Arendt, Epistemologia + Revisão.
+
+## Dica de Ouro: A Linha do Tempo Filosófica
+
+O ENEM frequentemente usa o contexto histórico para situar a Filosofia. Um macete: o que estava acontecendo na história quando o filósofo viveu?
+
+- Hobbes: Guerra Civil Inglesa (século XVII) — daí o medo do caos e o Estado forte
+- Rousseau / Locke: Iluminismo e Revolução Francesa — daí a defesa da liberdade e igualdade
+- Marx: Revolução Industrial (século XIX) — daí a crítica à exploração capitalista
+- Foucault: pós-II Guerra, Estado de bem-estar — daí a crítica às instituições de controle
+
+**[Praticar questões de Filosofia com gabarito comentado](/auth/register)**
+    `,
+  },
+  {
+    slug: 'sociologia-enem-o-que-estudar',
+    title: 'Sociologia no ENEM: O que Estudar e os Temas Mais Cobrados 2026',
+    description: 'Guia completo de Sociologia para o ENEM 2026. Sociólogos clássicos, temas recorrentes em Ciências Humanas, como interpretar questões e estratégia de estudo.',
+    date: '2026-06-14',
+    readTime: 6,
+    content: `
+Sociologia no ENEM é sobre entender a sociedade — como funciona, como se organiza e por que as desigualdades existem. Com foco nos sociólogos certos, você domina essa disciplina rapidamente.
+
+## Sociologia em Ciências Humanas
+
+Sociologia faz parte de Ciências Humanas (45 questões). Representa em média **7–10 questões** por prova.
+
+Como Filosofia, Sociologia raramente aparece em questões "puras" — ela se integra com História, Geografia e até Linguagens.
+
+## Os Grandes Sociólogos do ENEM
+
+O ENEM tem favoritos claros em Sociologia:
+
+### Clássicos da Sociologia (Alta Frequência)
+
+**Émile Durkheim (1858–1917):**
+- Solidariedade mecânica e orgânica (sociedades tradicionais vs. modernas)
+- Fato social: coercivo, exterior e geral
+- Anomia: falta de normas que orientem o comportamento
+- Divisão do trabalho social
+
+**Karl Marx (1818–1883):** (compartilhado com Filosofia)
+- Classes sociais: burguesia vs. proletariado
+- Alienação do trabalho
+- Superestrutura e infraestrutura
+- Ideologia como instrumento de dominação
+
+**Max Weber (1864–1920):**
+- Tipos de dominação: tradicional, carismática, racional-legal
+- Ética protestante e o espírito do capitalismo
+- Ação social: as 4 categorias (racional, valorativa, afetiva, tradicional)
+- Burocracia como modelo organizacional moderno
+
+### Sociólogos Brasileiros e Modernos
+
+**Florestan Fernandes:**
+- Sociologia do negro no Brasil
+- "A Integração do Negro na Sociedade de Classes" — racismo estrutural no pós-abolição
+
+**Gilberto Freyre:**
+- "Casa-Grande & Senzala" — tese da democracia racial (e suas críticas)
+- O ENEM frequentemente cita Freyre para questionar ou contextualizar
+
+**Pierre Bourdieu:**
+- Capital cultural, econômico e social
+- Habitus: disposições incorporadas pelo meio social
+- Campo: espaços de disputa social (campo científico, artístico, etc.)
+- Violência simbólica: dominação sutil e legitimada
+
+## Temas de Sociologia Mais Cobrados
+
+| Tema | Frequência |
+|------|-----------|
+| Desigualdade social e classes | Alta |
+| Racismo estrutural e relações raciais | Alta |
+| Movimentos sociais | Alta |
+| Trabalho, alienação e precarização | Média |
+| Mídia, cultura de massa e indústria cultural | Média |
+| Globalização e identidade | Média |
+| Família e gênero | Média |
+| Educação e reprodução social | Média |
+
+## Desigualdade e Exclusão Social: O Tema Central
+
+O ENEM ama questões sobre desigualdade no Brasil:
+
+- Pirâmide de renda: concentração no topo
+- Índice de Gini e desigualdade
+- Mobilidade social: fatores que permitem subir ou descer na hierarquia
+- Pobreza absoluta vs. pobreza relativa
+- Exclusão social multidimensional (não só renda)
+
+**Conceito-chave:** Estratificação social — como a sociedade é dividida em camadas (classes, castas, estamentos).
+
+## Movimentos Sociais: Frequente e Contemporâneo
+
+O ENEM gosta de movimentos sociais como forma de entender mudança:
+
+- Feminismo (1ª, 2ª e 3ª ondas)
+- Movimento negro e luta por reparação
+- MST e movimento sem-teto
+- LGBTQIA+ e direitos civis
+- Movimento ambiental e ecologismo
+
+**Sociologia dos movimentos:** Por que as pessoas se organizam coletivamente? Quando movimentos são bem-sucedidos?
+
+## Indústria Cultural e Mídia
+
+Conceito da Escola de Frankfurt — Adorno e Horkheimer:
+- Indústria cultural: cultura produzida em série para consumo de massa
+- Padronização que embota o pensamento crítico
+- O ENEM usa esse conceito para questionar publicidade, entretenimento e redes sociais
+
+## Estratégia de Estudo para Sociologia: 6 Semanas
+
+**Semanas 1–2:** Os três clássicos (Durkheim, Marx, Weber)
+Entenda o contexto histórico de cada um. Compare as três abordagens: como cada um explica a sociedade?
+
+**Semanas 3–4:** Sociologia brasileira + Bourdieu
+Desigualdade, racismo, classes sociais no contexto do Brasil.
+
+**Semanas 5–6:** Temas contemporâneos + revisão
+Movimentos sociais, gênero, mídia, globalização. Resolva 30 questões ENEM.
+
+## Como o ENEM Integra Sociologia com Outras Disciplinas
+
+- **Sociologia + História:** Escravidão e seus impactos (Florestan Fernandes, abolição)
+- **Sociologia + Geografia:** Urbanização, segregação espacial, questão agrária
+- **Sociologia + Filosofia:** Ética, estado, contrato social (Marx compartilhado)
+- **Sociologia + Linguagens:** Indústria cultural, comunicação de massa
+
+Candidatos que veem essas conexões têm vantagem enorme em Ciências Humanas.
+
+## Dica: A Perspectiva Sociológica
+
+A Sociologia não "dá respostas" — oferece ferramentas para analisar a sociedade. No ENEM, a resposta certa frequentemente é a que demonstra **pensamento sociológico**: ver o problema social em seu contexto estrutural, não como falha individual.
+
+**Exemplo:** O crime não é culpa do criminoso individualmente — é produto de estruturas sociais (desigualdade, falta de oportunidade). Questões de Sociologia costumam privilegiar essa leitura.
+
+**[Praticar Ciências Humanas com questões do ENEM 2009–2024](/auth/register)**
+    `,
+  },
+  {
+    slug: 'progressoes-matematica-enem',
+    title: 'Progressões Aritmética e Geométrica no ENEM: Fórmulas e Questões 2026',
+    description: 'PA e PG no ENEM 2026: fórmulas do termo geral e soma, quando usar cada progressão, como resolver questões contextualizadas da banca INEP e dicas de estudo.',
+    date: '2026-06-14',
+    readTime: 6,
+    content: `
+Progressões Aritmética (PA) e Geométrica (PG) são temas frequentes em Matemática no ENEM. Aparecem em 1–2 questões por prova e costumam ser acessíveis para quem domina as fórmulas.
+
+## Progressão Aritmética (PA)
+
+**Definição:** Sequência onde a diferença entre termos consecutivos é constante.
+Essa diferença constante é chamada de **razão (r)**.
+
+Exemplo: 2, 5, 8, 11, 14, ... → r = 3
+
+### Fórmulas da PA
+
+**Termo geral:**
+aₙ = a₁ + (n – 1) · r
+
+onde:
+- aₙ = n-ésimo termo
+- a₁ = primeiro termo
+- n = posição do termo
+- r = razão
+
+**Soma dos n primeiros termos:**
+Sₙ = n · (a₁ + aₙ) / 2
+
+ou equivalentemente: Sₙ = n · (2a₁ + (n–1)r) / 2
+
+### Como Identificar PA em Questões ENEM
+
+- Plano de pagamentos com parcelas iguais ou acréscimo fixo
+- Temperatura aumentando ou diminuindo a taxa constante
+- Contagem de objetos dispostos em fileiras com mesmo acréscimo
+- Sequências numéricas em padrão regular
+
+### Exemplo de Questão ENEM com PA
+
+"Uma empresa tem 15 funcionários no primeiro mês e contrata 3 por mês. Quantos no 12º mês?"
+
+a₁ = 15, r = 3, n = 12
+a₁₂ = 15 + (12–1) × 3 = 15 + 33 = **48 funcionários**
+
+## Progressão Geométrica (PG)
+
+**Definição:** Sequência onde o quociente entre termos consecutivos é constante.
+Esse quociente é chamado de **razão (q)**.
+
+Exemplo: 2, 6, 18, 54, ... → q = 3
+
+### Fórmulas da PG
+
+**Termo geral:**
+aₙ = a₁ · q^(n–1)
+
+**Soma dos n primeiros termos (q ≠ 1):**
+Sₙ = a₁ · (qⁿ – 1) / (q – 1)
+
+**Soma de infinitos termos (PG infinita com |q| < 1):**
+S∞ = a₁ / (1 – q)
+
+### Como Identificar PG em Questões ENEM
+
+- **Juros compostos:** o dinheiro multiplica por (1+i) a cada período
+- **Crescimento populacional** com taxa percentual constante
+- **Dobramentos:** papel dobrado n vezes, bactérias duplicando
+- **Decaimento:** depreciação de veículo por percentual constante
+
+### Exemplo de Questão ENEM com PG
+
+"Uma bactéria se divide em 2 a cada hora. Começando com 1, quantas haverá após 8 horas?"
+
+a₁ = 1, q = 2, n = 9 (8 horas = 9 termos a partir do 1)
+a₉ = 1 × 2^(9–1) = 2⁸ = **256 bactérias**
+
+## PA vs. PG: Como Distinguir
+
+| Característica | PA | PG |
+|---------------|----|----|
+| Operação entre termos | Adição/subtração | Multiplicação/divisão |
+| Razão | Diferença constante | Quociente constante |
+| Gráfico | Linha reta | Curva exponencial |
+| Exemplo | Salário + R$200/mês | Investimento × 1,05/mês |
+
+**Regra prática:** Se o problema envolve acréscimo/decréscimo em valor fixo → PA. Se envolve porcentagem ou multiplicação → PG.
+
+## Progressões Especiais que Aparecem no ENEM
+
+### Propriedades da PA
+- Três termos em PA: a, b, c → b = (a + c) / 2 (média aritmética)
+- Quatro termos em PA: a, b, c, d → a + d = b + c
+
+### Propriedades da PG
+- Três termos em PG: a, b, c → b² = a × c (média geométrica)
+
+## Contextos Frequentes no ENEM
+
+**Juros compostos (sempre PG):**
+M = C × (1 + i)ⁿ
+onde C = capital, i = taxa, n = períodos, M = montante
+
+**Crescimento com taxa constante (PG):**
+P(t) = P₀ × (1 + r)^t
+
+**Sequência de parcelas iguais (PA com r = 0 = progressão constante):**
+Soma = n × parcela
+
+**Escadas e fileiras (pode ser PA):**
+Número de objetos em cada degrau seguindo um padrão de acréscimo fixo.
+
+## Dicas para Questões de Progressão no ENEM
+
+**Dica 1: Escreva os primeiros termos**
+Quando em dúvida se é PA ou PG, escreva 3–4 termos e observe o padrão. Isso raramente falha.
+
+**Dica 2: Cuidado com o índice**
+A fórmula do n-ésimo termo usa (n–1). Se pede o 10º termo, é a₁ + 9r, não a₁ + 10r.
+
+**Dica 3: PA com soma usa a média**
+Sₙ = n × (a₁ + aₙ)/2 é a fórmula mais rápida quando você já sabe a₁ e aₙ.
+
+**Dica 4: PG com juros compostos**
+Juros compostos no ENEM sempre são PG. Memorize: M = C(1+i)ⁿ e saberá resolver 95% das questões de juros.
+
+## Plano de Estudo: 2 Semanas
+
+**Semana 1 — PA:**
+- Decore as fórmulas (termo geral + soma)
+- Resolva 15 questões ENEM sobre PA
+- Foco em contextos: escadas, pagamentos, sequências numéricas
+
+**Semana 2 — PG:**
+- Decore as fórmulas
+- Resolva 15 questões ENEM sobre PG
+- Foco em: juros compostos, crescimento/decaimento, dobramentos
+
+**[Praticar PA e PG com questões reais do ENEM](/auth/register)**
+    `,
+  },
+  {
+    slug: 'redacao-enem-temas-provaveis-2026',
+    title: 'Temas Prováveis da Redação ENEM 2026: Análise e Preparação',
+    description: 'Quais são os temas prováveis da redação do ENEM 2026? Análise dos padrões históricos, temas em alta em 2025-2026 e como se preparar para qualquer assunto.',
+    date: '2026-06-14',
+    readTime: 7,
+    content: `
+A redação é a parte do ENEM que mais angustia candidatos. Mas com análise dos padrões históricos e preparação ampla, é possível estar pronto para qualquer tema.
+
+## Como o ENEM Escolhe os Temas
+
+O INEP não divulga os temas com antecedência, mas há padrões claros nos últimos 15 anos:
+
+**Padrão 1: Temas sobre grupos vulneráveis**
+Nos últimos 10 anos, a maioria dos temas envolveu minorias ou grupos historicamente marginalizados:
+- 2024: herança africana no Brasil
+- 2023: trabalho de cuidado realizado pela mulher
+- 2022: povos e comunidades tradicionais
+- 2021: invisibilidade e registro civil
+- 2020: estigma das doenças mentais
+- 2017: surdos no Brasil
+- 2016: intolerância religiosa
+- 2015: violência contra a mulher
+
+**Padrão 2: "Desafios para..." como título**
+Muito frequente. Implica que a redação deve: diagnosticar o problema + propor solução concreta.
+
+**Padrão 3: Conexão com legislação brasileira**
+Quase sempre há uma lei relevante: Lei Maria da Penha, Lei 10.639, Estatuto do Índio, Código de Defesa do Consumidor. Citá-la na intervenção (C5) traz pontos.
+
+**Padrão 4: Temas inéditos**
+O ENEM raramente repete temas idênticos. Se o tema foi "violência contra a mulher" (2015), não será o mesmo em 2026 — mas pode ser um tema relacionado.
+
+## Temas com Alta Probabilidade para 2026
+
+Com base nos padrões e nas discussões mais relevantes no Brasil em 2025-2026:
+
+### Saúde Mental e Bem-Estar
+- Saúde mental de jovens e adolescentes (burnout, ansiedade, depressão)
+- Impacto das redes sociais na saúde mental
+- Acesso a tratamento psicológico no SUS
+
+**Por que pode cair:** Crescimento exponencial de diagnósticos em jovens, debate global pós-pandemia.
+
+### Tecnologia e Sociedade
+- Inteligência artificial e o futuro do trabalho
+- Desinformação e fake news no Brasil
+- Privacidade de dados e vigilância digital
+- Inclusão digital como direito
+
+**Por que pode cair:** IA dominando o debate global, eleições com fake news, LGPD recente.
+
+### Questões Ambientais
+- Segurança climática e povos vulneráveis
+- Acesso à água potável no Brasil
+- Transição energética e emprego verde
+
+**Por que pode cair:** COP climáticas, seca histórica no Pantanal e Amazônia, crises hídricas.
+
+### Direitos e Cidadania
+- Violência contra LGBTQIA+ no Brasil
+- Saúde da população negra e desigualdades no SUS
+- Direitos das pessoas com deficiência (acessibilidade)
+- Envelhecimento da população e assistência ao idoso
+
+**Por que pode cair:** Todos os grupos listados têm legislação específica e lacunas de implementação.
+
+### Educação
+- Evasão escolar no ensino médio
+- Desigualdade educacional entre regiões
+- Educação quilombola e indígena
+
+## Como se Preparar Para Qualquer Tema
+
+Não é possível prever o tema com certeza. Mas é possível se preparar para qualquer tema:
+
+### 1. Domine a Estrutura da Dissertação Argumentativa
+
+Parágrafo 1 — Introdução: contextualize o tema e apresente sua tese
+Parágrafo 2 — Desenvolvimento 1: argumento A + evidência + análise
+Parágrafo 3 — Desenvolvimento 2: argumento B + evidência + análise
+Parágrafo 4 — Conclusão: retomada da tese + proposta de intervenção completa
+
+**A intervenção (C5) precisa ter:**
+- Agente: quem age? (Estado, governo federal, escola, empresas, ONGs)
+- Ação: o que fazer especificamente?
+- Modo/instrumento: como? (lei, campanha, política pública, tecnologia)
+- Efeito/finalidade: para quê? qual o resultado esperado?
+- Detalhamento: mínimo de informação que prove que você pensou
+
+### 2. Monte um Repertório Temático
+
+Estude 6–8 temas em profundidade:
+- Para cada tema: causa, consequência, dados, legislação, caso histórico ou atual
+- Esses temas servirão como "argumentos" em qualquer redação relacionada
+
+### 3. Pratique a Intervenção
+
+É onde mais candidatos perdem pontos. Escreva 10 propostas de intervenção completas para temas diferentes. Exemplo:
+
+**Tema hipotético: Evasão Escolar**
+
+"Para mitigar esse problema, é imperioso que o governo federal, por meio do Ministério da Educação, amplie o programa de transferência de renda condicionada — o Bolsa Família —, tornando a frequência escolar condição obrigatória para todas as faixas etárias, com vistas a reduzir o abandono por necessidade econômica."
+
+Está presente: agente (governo federal/MEC) + ação (ampliar o Bolsa Família) + modo (condicionar a frequência) + finalidade (reduzir abandono por necessidade econômica).
+
+## A Redação Vale 1000 Pontos — Não Subestime
+
+A redação representa 1/5 da nota total do ENEM. Candidatos que investem tempo nela têm vantagem desproporcionalmente grande.
+
+**Meta realista:**
+- 600–699 pontos: possível com estrutura correta e tema desenvolvido
+- 700–799 pontos: boa argumentação + intervenção detalhada
+- 800–899 pontos: coesão excelente + repertório diversificado
+- 900–1000 pontos: domínio total das 5 competências
+
+**[Ver temas da Redação ENEM 2009–2024 com análise completa](/temas-redacao)**
+    `,
+  },
+  {
+    slug: 'enem-2026-dia-da-prova',
+    title: 'ENEM 2026: Data, Horário e O que Levar no Dia da Prova',
+    description: 'Data do ENEM 2026, horário de abertura dos portões e encerramento, o que levar e não levar, dicas para o dia da prova e como chegar preparado.',
+    date: '2026-06-14',
+    readTime: 5,
+    content: `
+O dia da prova do ENEM concentra meses de preparação em dois domingos. Saber exatamente o que esperar evita surpresas e te deixa mais calmo.
+
+## Datas do ENEM 2026
+
+O ENEM 2026 ainda não teve as datas oficialmente confirmadas pelo INEP. Com base no histórico, espera-se:
+
+- **1º Dia:** Novembro de 2026 (domingo)
+  - Linguagens, Códigos e suas Tecnologias (45 questões)
+  - Ciências Humanas e suas Tecnologias (45 questões)
+  - Redação
+  - Duração: 5h30
+
+- **2º Dia:** Domingo seguinte
+  - Ciências da Natureza e suas Tecnologias (45 questões)
+  - Matemática e suas Tecnologias (45 questões)
+  - Duração: 5 horas
+
+*Consulte o INEP (gov.br/inep) para as datas oficiais quando publicadas.*
+
+## Horários do ENEM
+
+| Evento | Horário |
+|--------|---------|
+| Abertura dos portões | 12h00 |
+| Fechamento dos portões | 13h00 |
+| Início da prova | 13h30 |
+| Saída permitida (com caderno) | 15h30 – 1º dia |
+| Saída permitida (sem caderno) | A partir das 15h30 |
+| Encerramento | 19h00 (1º dia) / 18h30 (2º dia) |
+
+**Atenção:** Portões fecham às 13h. Chegue até as 12h30 para evitar stress.
+
+## O que Levar no Dia da Prova
+
+**Obrigatório:**
+- Documento de identificação com foto (RG, CNH, passaporte ou certidão de nascimento com foto)
+- Caneta esferográfica de ponta grossa com tinta PRETA (não azul, não gel)
+- Comprovante de inscrição (ou celular com ele, para consulta no portão)
+
+**Recomendado:**
+- Água (garrafa transparente, sem rótulo)
+- Lanche leve (barra de cereal, fruta)
+- Agasalho (locais de prova com ar-condicionado costumam ser frios)
+- Relógio analógico (celular não pode ser usado para ver horas)
+
+## O que NÃO Levar / Proibido
+
+- Celular ligado (deve ir desligado e lacrado em envelope)
+- Fone de ouvido
+- Calculadora
+- Régua e compassos (exceto se tiver necessidade especial aprovada)
+- Livros, cadernos, anotações
+- Caneta de cor azul ou qualquer cor diferente de preta
+- Boné/chapéu (em algumas edições foi proibido — verifique no edital)
+
+**Celular:** O celular deve ir para um envelope lacrado fornecido no local. Ele fica com você, mas desligado. Se tocar, você é eliminado.
+
+## A Noite Antes da Prova
+
+**O que fazer:**
+- Separar todos os materiais (documentos, caneta, lanche)
+- Planejar o trajeto e chegar com 30 minutos de antecedência
+- Dormir cedo (mínimo 7–8 horas)
+
+**O que evitar:**
+- Estudar a noite toda (contraproducente — o cansaço prejudica o desempenho)
+- Rever todo o conteúdo (late cramming não funciona)
+- Fazer simulado completo (guarde energia)
+- Café ou energéticos em excesso
+
+Uma revisão leve de 1–2 horas de pontos que você domina bem é suficiente.
+
+## Estratégia de Prova no Dia
+
+### 1º Dia: Linguagens + Humanas + Redação
+
+Ordem sugerida por candidatos que tiraram 900+:
+1. **Redação primeiro** (45–60 min): mente ainda fresca, mais criativa
+2. **Ciências Humanas** (60–70 min): mais conceitual, menos cansativo
+3. **Linguagens** (70–80 min): muitas questões de texto, precisa de atenção
+
+### 2º Dia: Ciências da Natureza + Matemática
+
+Ordem sugerida:
+1. **Ciências da Natureza** (70–80 min): mais questões conceituais
+2. **Matemática** (80–90 min): reservar energia para o cálculo
+
+### Sobre "Travar" em Questões
+
+- Máximo 3 min por questão. Se não resolveu, marque a melhor opção e passe.
+- Questões deixadas em branco valem 0. Chutar tem valor esperado positivo (1 em 5 chances).
+- Volte às questões difíceis no tempo restante.
+
+## No Final da Prova: A Transferência Para o Gabarito
+
+Reserve os **últimos 30 minutos** para transferir respostas ao cartão-resposta (gabarito) com calma. Erros de transferência anulam uma prova inteira.
+
+Confira:
+- Número da questão × alternativa marcada
+- Gabarito preenchido a caneta preta
+- Sem rasura no gabarito (pode anular a questão)
+
+## Após a Prova
+
+O gabarito oficial do ENEM 2026 será divulgado pelo INEP dias após a prova (geralmente 1–2 semanas). O resultado final (com notas TRI) sai aproximadamente em janeiro do ano seguinte.
+
+Guarde o número de inscrição para consultar o resultado.
+
+**[Calculadora de Nota ENEM — estime sua nota com os acertos](/calcular-nota)**
+    `,
+  },
+  {
+    slug: 'nota-de-corte-servico-social-enem',
+    title: 'Nota de Corte Serviço Social ENEM 2025 — SISU e Universidades',
+    description: 'Nota de corte para Serviço Social no SISU 2025. As notas nas principais federais, campo de trabalho e como planejar a candidatura para 2026.',
+    date: '2026-06-14',
+    readTime: 4,
+    content: `
+Serviço Social é um dos cursos de Ciências Sociais Aplicadas com notas de corte mais acessíveis no SISU, especialmente no turno noturno. Veja o que esperar para 2026.
+
+## Nota de Corte Serviço Social SISU 2025
+
+| Universidade | Turno | Nota de Corte Aprox. (AC) |
+|---|---|---|
+| UFRJ | Integral | 600–635 |
+| UnB | Integral | 590–625 |
+| UFMG | Integral | 585–620 |
+| UFSC | Noturno | 545–580 |
+| UFC | Noturno | 515–550 |
+| UFPE | Noturno | 505–540 |
+| UFBA | Noturno | 490–525 |
+| UFRN | Noturno | 475–510 |
+| UFPB | Noturno | 455–490 |
+| UFSM | Noturno | 445–480 |
+| UFPI | Noturno | 430–465 |
+
+*Notas aproximadas. Consulte o SISU oficial para valores exatos.*
+
+## Campo de Trabalho em Serviço Social
+
+Assistentes sociais atuam em:
+
+**Setor público (maior empregador):**
+- CRAS (Centro de Referência de Assistência Social) e CREAS
+- Hospitais e UBSs (Unidade Básica de Saúde)
+- Tribunal de Justiça e sistema socioeducativo
+- Prefeituras e secretarias de assistência social
+- Previdência Social (INSS)
+
+**Setor privado e terceiro setor:**
+- ONGs e fundações
+- Empresas (programas de responsabilidade social)
+- Hospitais privados
+
+O CRESS (Conselho Regional de Serviço Social) regulamenta a profissão — o diploma habilita para inscrição.
+
+Salário inicial: R$2.200–3.500. Concursos públicos (especialmente federais) chegam a R$4.500–7.000+.
+
+## Perspectivas da Carreira
+
+Assistentes sociais são profissionais essenciais para o Estado brasileiro:
+- A demanda por CRAS, CREAS e serviços sociais cresce com o aumento da população vulnerável
+- Reforma da Previdência e envelhecimento da população ampliam a demanda na saúde
+- O piso salarial nacional da categoria foi regulamentado por lei (embora ainda em disputa judicial)
+
+## Notas de Corte com Cotas
+
+Com cotas (L1 — escola pública + baixa renda), as notas de corte caem significativamente — em algumas universidades do interior, é possível ingressar com nota entre 400–440.
+
+## ProUni para Serviço Social
+
+Serviço Social tem ampla disponibilidade de bolsas ProUni no particular, com notas a partir de 400–450 pontos para bolsa integral.
+
+**[Ver minha nota e comparar com cortes](/calcular-nota)**
+    `,
+  },
+  {
+    slug: 'nota-de-corte-educacao-fisica-enem',
+    title: 'Nota de Corte Educação Física ENEM 2025 — SISU e Mercado de Trabalho',
+    description: 'Nota de corte para Educação Física no SISU 2025. Veja as notas nas federais, diferença entre licenciatura e bacharelado, e as perspectivas de carreira.',
+    date: '2026-06-14',
+    readTime: 4,
+    content: `
+Educação Física tem dois caminhos distintos no SISU: licenciatura (escola) e bacharelado (academia, saúde, esporte). As notas e carreiras são bem diferentes.
+
+## Nota de Corte Educação Física SISU 2025
+
+| Universidade | Habilitação | Nota de Corte Aprox. (AC) |
+|---|---|---|
+| UFRJ (EEFD) | Bacharelado | 590–625 |
+| USP | Licenciatura | 600–640 |
+| UnB | Licenciatura | 570–605 |
+| UFMG | Bacharelado | 565–600 |
+| UFRGS | Licenciatura | 545–580 |
+| UFSC | Bacharelado | 535–570 |
+| UFC | Licenciatura | 505–540 |
+| UFPE | Licenciatura | 495–530 |
+| UFBA | Licenciatura | 480–515 |
+| UFRN | Licenciatura | 465–500 |
+| UFPB | Licenciatura | 445–480 |
+
+*Notas aproximadas. Consulte o SISU oficial para dados exatos.*
+
+## Licenciatura vs. Bacharelado: A Diferença Fundamental
+
+| Aspecto | Licenciatura | Bacharelado |
+|---------|-------------|------------|
+| Onde atua | Escolas (Educação Infantil ao Ensino Médio) | Academias, clínicas, esporte de alto rendimento |
+| Carreira pública | Concurso para professor | Concurso em saúde/esporte (SESI, SESC, etc.) |
+| CONFEF | CREF — necessário em ambos | CREF — necessário em ambos |
+| Concursos | Prefeituras/estados para professor | SESI, SESC, clubes, órgãos de saúde |
+| Pós-graduação | Especialização em esporte escolar | Treinamento esportivo, fisiologia do exercício |
+
+**Atenção:** O CONFEF (Conselho Federal de Educação Física) regulamenta ambas. Sem registro no CREF, não é possível exercer legalmente.
+
+## Campo de Trabalho em Educação Física
+
+**Licenciado:**
+- Professor de Educação Física em escolas públicas e privadas
+- Concurso público: vagas regulares em prefeituras e estados
+- Salário inicial: R$2.200–4.000 (varia por estado)
+
+**Bacharel:**
+- Personal trainer e assessoria esportiva
+- Treinador de equipes (clubes, seleções)
+- Avaliação física em academias e clínicas
+- Preparação física para concursos militares e policiais
+- Saúde do trabalhador em empresas (SESI, SESC)
+
+## Crescimento da Área
+
+O mercado de Educação Física cresceu muito nos últimos anos:
+- Explosão das academias e modalidades fitness
+- Crossfit, funcional, pilates — novas especialidades
+- Saúde do idoso: terceira idade ativa e prevenção de quedas
+- Telemedicina e personal online (acelerado pós-pandemia)
+- Cuidado com atletas amadores: corridas de rua, ciclismo
+
+## Estratégia para Candidatos a Educação Física
+
+- As provas ENEM não têm ênfase específica para Educação Física — foco na nota geral
+- Ciências da Natureza (especialmente Biologia) é relevante para o conteúdo do curso
+- Turno noturno nas federais tem notas menores — boa opção para quem já trabalha
+
+**[Calcular minha nota ENEM](/calcular-nota)**
+    `,
+  },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)
@@ -6646,10 +7407,10 @@ export type BlogCategory = 'Gabarito' | 'Questões' | 'Redação' | 'Universidad
 export function getCategory(slug: string): BlogCategory {
   if (slug.startsWith('gabarito')) return 'Gabarito'
   if (slug.startsWith('redacao') || slug.includes('como-fazer-redacao') || slug.includes('redacao-enem')) return 'Redação'
-  if (slug.includes('nota-de-corte') || slug.includes('sisu') || slug.includes('prouni') || slug.includes('medicina') || slug.includes('direito') || slug.includes('engenharia') || slug.includes('psicologia') || slug.includes('odontologia') || slug.includes('computacao') || slug.includes('agronomia') || slug.includes('contabilidade') || slug.includes('pedagogia') || slug.includes('fies') || slug.includes('fisioterapia') || slug.includes('economia') || slug.includes('jornalismo')) return 'Universidades'
+  if (slug.includes('nota-de-corte') || slug.includes('sisu') || slug.includes('prouni') || slug.includes('medicina') || slug.includes('direito') || slug.includes('engenharia') || slug.includes('psicologia') || slug.includes('odontologia') || slug.includes('computacao') || slug.includes('agronomia') || slug.includes('contabilidade') || slug.includes('pedagogia') || slug.includes('fies') || slug.includes('fisioterapia') || slug.includes('economia') || slug.includes('jornalismo') || slug.includes('servico-social') || slug.includes('educacao-fisica')) return 'Universidades'
   if (slug.includes('cronograma') || slug.includes('quanto-tempo') || slug.includes('enem-2026') || slug.includes('enem-resultado') || slug.includes('resultado-quando')) return 'Planejamento'
   if (slug.includes('tri-enem') || slug.includes('calcular-nota') || slug.includes('como-funciona') || slug.includes('ppcs') || slug.includes('treineiro') || slug.includes('segunda-chance') || slug.includes('enem-digital') || slug.includes('enem-2025')) return 'Como Funciona'
-  if (slug.includes('fisica') || slug.includes('quimica') || slug.includes('biologia') || slug.includes('historia') || slug.includes('geografia') || slug.includes('filosofia') || slug.includes('matematica') || slug.includes('ingles') || slug.includes('ciencias') || slug.includes('literatura') || slug.includes('geometria') || slug.includes('estatistica') || slug.includes('interpretacao') || slug.includes('portugues') || slug.includes('trigonometria') || slug.includes('funcoes')) return 'Por Matéria'
+  if (slug.includes('fisica') || slug.includes('quimica') || slug.includes('biologia') || slug.includes('historia') || slug.includes('geografia') || slug.includes('filosofia') || slug.includes('matematica') || slug.includes('ingles') || slug.includes('ciencias') || slug.includes('literatura') || slug.includes('geometria') || slug.includes('estatistica') || slug.includes('interpretacao') || slug.includes('portugues') || slug.includes('trigonometria') || slug.includes('funcoes') || slug.includes('sociologia') || slug.includes('progressoes')) return 'Por Matéria'
   if (slug.includes('simulado') || slug.includes('questoes')) return 'Questões'
   if (slug.includes('melhor-app') || slug.includes('alternativa') || slug.includes('online-gratis') || slug.includes('vs-')) return 'Comparativos'
   return 'Estratégias'
