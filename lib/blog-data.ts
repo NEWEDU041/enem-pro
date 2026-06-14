@@ -7388,7 +7388,912 @@ O mercado de Educação Física cresceu muito nos últimos anos:
   },
 ]
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7]
+const EXTRA_POSTS_8: BlogPost[] = [
+  {
+    slug: 'como-estudar-ingles-enem',
+    title: 'Como Estudar Inglês para o ENEM: O que Cai e Estratégia 2026',
+    description: 'Guia completo de Inglês para o ENEM 2026. O que a banca cobra, tipos de texto em inglês, vocabulário essencial e como resolver questões sem ser fluente.',
+    date: '2026-06-14',
+    readTime: 6,
+    content: `
+Inglês no ENEM não exige fluência — exige estratégia. A banca cobra leitura e interpretação, não gramática isolada. Candidatos com inglês básico conseguem gabaritar se souberem o método certo.
+
+## Inglês no ENEM: O Que Realmente Cai
+
+Inglês faz parte de Linguagens, Códigos e suas Tecnologias. São **4–6 questões de língua estrangeira** por prova (o candidato pode escolher entre Inglês e Espanhol).
+
+O ENEM **não cobra:**
+- Gramática isolada (verb tenses, irregular verbs, conjugação)
+- Tradução literal de textos
+- Conversação ou produção escrita em inglês
+
+O ENEM **cobra:**
+- Compreensão leitora de textos em inglês
+- Identificação da ideia central e detalhes
+- Inferência de significado por contexto
+- Interpretação de textos multimodais (anúncios, instruções, infográficos)
+
+## Tipos de Texto que Aparecem em Inglês
+
+O ENEM usa textos autênticos, geralmente curtos:
+
+- **Anúncios e propagandas** — produto, serviço, evento
+- **Instruções e manuais** — como usar algo, avisos
+- **Notícias e artigos curtos** — título + lead + 2–3 parágrafos
+- **Letras de música em inglês** — interpretação de sentido
+- **Posts e conteúdo digital** — redes sociais, blogs, tweets
+- **Embalagens e rótulos** — ingredientes, instruções, advertências
+- **Tirinhas em inglês** — humor, ironia, crítica social
+
+## Como Resolver Questões Sem Ser Fluente
+
+A maioria dos candidatos lê menos de 30% do vocabulário de um texto em inglês. Mesmo assim, é possível acertar a maioria das questões:
+
+### Estratégia 1: Leia a Pergunta Primeiro
+
+Antes de ler o texto, leia o que está sendo perguntado. Isso orienta o que você vai buscar.
+
+### Estratégia 2: Use as Pistas Visuais
+
+Título, subtítulo, imagens, gráficos, nomes próprios e números aparecem em qualquer língua. Use-os.
+
+### Estratégia 3: Cognatos São Seus Aliados
+
+Palavras que existem em inglês e português com significado parecido:
+- education / educação
+- economy / economia
+- technology / tecnologia
+- environment / meio ambiente
+- democracy / democracia
+- information / informação
+- natural / natural
+
+Em textos sobre economia, tecnologia, meio ambiente — a maioria das palavras-chave tem cognato.
+
+### Estratégia 4: False Friends — Tome Cuidado
+
+Palavras que parecem cognatos mas não são:
+- **actually** = na verdade (não "atualmente")
+- **pretend** = fingir (não "pretender")
+- **library** = biblioteca (não "livraria")
+- **embarrassed** = envergonhado (não "grávida")
+- **eventually** = eventualmente / no final (cuidado com contexto)
+
+### Estratégia 5: Elimine pelo Absurdo
+
+Se uma alternativa contradiz claramente o texto ou traz informação inexistente → elimine. Mesmo sem entender tudo, dá para eliminar 2–3 alternativas absurdas.
+
+## Vocabulário Essencial Para o ENEM
+
+Grupos temáticos que mais aparecem:
+
+**Meio ambiente:**
+global warming, climate change, deforestation, pollution, renewable energy, sustainability, biodiversity
+
+**Tecnologia:**
+artificial intelligence, social media, algorithm, data privacy, digital, network, software
+
+**Saúde:**
+health care, disease, treatment, vaccine, mental health, epidemic, prevention
+
+**Sociedade:**
+inequality, poverty, diversity, human rights, migration, discrimination, community
+
+**Educação:**
+access, literacy, dropout, public school, scholarship, learning
+
+Conhecer esses grupos temáticos facilita a interpretação mesmo sem saber cada palavra individualmente.
+
+## Espanhol vs. Inglês: Qual Escolher?
+
+O candidato escolhe uma língua estrangeira na hora da prova. Algumas considerações:
+
+| Aspecto | Inglês | Espanhol |
+|---------|--------|---------|
+| Mais próximo do português | ❌ | ✅ (mais cognatos) |
+| Nível de dificuldade no ENEM | Médio | Médio |
+| Questão cultural (músicas, filmes) | Maior exposição | Menor exposição |
+
+**Recomendação:** Pratique com as duas línguas nas provas antigas. Escolha na hora com base no texto que parecer mais acessível.
+
+## Estratégia de Estudo: 4 Semanas
+
+**Semana 1 — Vocabulário temático**
+Aprenda os 5 grupos temáticos acima. 20–30 palavras por grupo.
+
+**Semana 2 — Cognatos e False Friends**
+Crie uma lista de cognatos úteis e false friends. Reconhecer padrões de formação de palavras ajuda muito.
+
+**Semana 3 — Prática com questões ENEM**
+Resolva questões ENEM de Inglês de 2015 a 2024. Analise: o que cada questão pede? Que vocabulário é essencial?
+
+**Semana 4 — Revisão e estratégia**
+Pratique a estratégia completa: pergunta primeiro, contexto, cognatos, eliminação.
+
+## Dica Extra: A Função da Música
+
+O ENEM frequentemente usa letras de música em inglês. Benefício: músicas têm contexto emocional e cultural que facilita a interpretação mesmo sem conhecer todas as palavras.
+
+Dica: ouça músicas em inglês com legenda. Com o tempo, você absorve vocabulário e estrutura frasalista de forma natural.
+
+**[Praticar questões de Inglês/Linguagens do ENEM](/auth/register)**
+    `,
+  },
+  {
+    slug: 'logaritmos-matematica-enem',
+    title: 'Logaritmos no ENEM: Propriedades, Fórmulas e Como Resolver 2026',
+    description: 'Logaritmos no ENEM 2026: definição, propriedades fundamentais, equações logarítmicas e como resolver questões contextualizadas da banca INEP.',
+    date: '2026-06-14',
+    readTime: 6,
+    content: `
+Logaritmos aparecem em 1–2 questões por prova do ENEM e costumam ser questões acessíveis para quem domina as propriedades. O segredo está em entender a relação entre logaritmo e exponencial.
+
+## Definição: O que é um Logaritmo?
+
+**log_a(b) = x significa que aˣ = b**
+
+Em palavras: "logaritmo de b na base a é x" significa "a elevado a x é igual a b".
+
+Exemplos:
+- log₂(8) = 3 → porque 2³ = 8
+- log₁₀(100) = 2 → porque 10² = 100
+- log₃(27) = 3 → porque 3³ = 27
+
+**Condições para o logaritmo existir:**
+- b > 0 (logaritmando positivo)
+- a > 0 e a ≠ 1 (base positiva e diferente de 1)
+
+## Logaritmos Especiais
+
+**Logaritmo decimal (log):**
+log(x) = log₁₀(x) — quando não tem base escrita, é base 10
+
+**Logaritmo natural (ln):**
+ln(x) = log_e(x) — base e (número de Euler, e ≈ 2,718)
+
+O ENEM usa principalmente log decimal.
+
+**Valores que você deve saber de cor:**
+- log(1) = 0 → porque 10⁰ = 1
+- log(10) = 1 → porque 10¹ = 10
+- log(100) = 2 → porque 10² = 100
+- log(0,1) = –1 → porque 10⁻¹ = 0,1
+- log(2) ≈ 0,301 (fornecido pelo ENEM quando necessário)
+- log(3) ≈ 0,477 (fornecido pelo ENEM quando necessário)
+
+## As 4 Propriedades Fundamentais
+
+**1. Produto:**
+log_a(M × N) = log_a(M) + log_a(N)
+
+Exemplo: log(2 × 5) = log(10) = 1 = log(2) + log(5)
+
+**2. Quociente:**
+log_a(M / N) = log_a(M) – log_a(N)
+
+Exemplo: log(100/10) = log(10) = 1 = log(100) – log(10) = 2 – 1
+
+**3. Potência:**
+log_a(Mⁿ) = n × log_a(M)
+
+Exemplo: log(10³) = 3 × log(10) = 3 × 1 = 3
+
+**4. Mudança de Base:**
+log_a(b) = log_c(b) / log_c(a)
+
+Mais usada para converter para base 10: log_a(b) = log(b) / log(a)
+
+## Equações Logarítmicas
+
+**Tipo 1: Equação direta**
+log₂(x) = 4 → x = 2⁴ = 16
+
+**Tipo 2: Usando propriedades**
+log(x) + log(x–1) = 1
+log(x(x–1)) = 1
+x(x–1) = 10¹ = 10
+x² – x – 10 = 0
+x = (1 + √41)/2 ≈ ... (verificar se x > 0 e x–1 > 0)
+
+**Tipo 3: Logaritmos iguais → logaritmandos iguais**
+log(2x–1) = log(x+3)
+2x – 1 = x + 3
+x = 4
+
+**Atenção:** Sempre verificar as condições de existência no final!
+
+## Inequações Logarítmicas
+
+Diferente das equações, nas inequações a **base importa para o sentido da desigualdade**:
+
+- Se a **> 1**: log_a(x) > k → x > aᵏ (sentido mantido)
+- Se 0 < a **< 1**: log_a(x) > k → x < aᵏ (sentido invertido)
+
+## Como o ENEM Aplica Logaritmos
+
+O ENEM sempre contextualiza. Os contextos mais frequentes:
+
+### Escala de Decibéis (Som)
+dB = 10 × log(I / I₀)
+
+Questões típicas: "Se a intensidade dobra, quantos dB aumenta?" → 10 × log(2) ≈ 3 dB
+
+### pH (Acidez/Basicidade)
+pH = –log[H⁺]
+
+Questões típicas: "pH 4 tem [H⁺] de 10⁻⁴ mol/L. Se pH passa a 2, a concentração multiplica por quanto?"
+→ 10⁻² / 10⁻⁴ = 100 vezes mais ácido
+
+### Escala Richter (Terremotos)
+M = log(A / A₀)
+
+Questões típicas: "Um terremoto de magnitude 7 é quantas vezes mais forte que um de magnitude 5?"
+→ 10⁷ / 10⁵ = 100 vezes
+
+### Crescimento Bacteriano / Decaimento
+N(t) = N₀ × aᵗ
+
+Quando a incógnita está no expoente, o logaritmo entra para resolver:
+2ᵗ = 64 → t × log(2) = log(64) → t = log(64)/log(2) = 6
+
+## Estratégia de Estudo: 2 Semanas
+
+**Semana 1:**
+- Definição e conversão logaritmo ↔ exponencial
+- As 4 propriedades com exemplos
+- Equações logarítmicas simples
+
+**Semana 2:**
+- Questões ENEM de 2014 a 2024 sobre logaritmos
+- Foco nos contextos: dB, pH, Richter
+- Inequações logarítmicas
+
+**[Praticar questões de Matemática do ENEM](/auth/register)**
+    `,
+  },
+  {
+    slug: 'probabilidade-combinatoria-enem',
+    title: 'Probabilidade e Combinatória no ENEM: Como Resolver Questões 2026',
+    description: 'Probabilidade e análise combinatória no ENEM 2026: princípio de contagem, permutações, combinações, cálculo de probabilidade e como resolver questões da banca.',
+    date: '2026-06-14',
+    readTime: 7,
+    content: `
+Probabilidade e Combinatória costumam aparecer juntas em 2–3 questões por prova do ENEM. São temas que parecem difíceis mas seguem lógica clara — com prática, tornam-se pontos seguros.
+
+## Análise Combinatória: Contando Possibilidades
+
+### Princípio Fundamental da Contagem (PFC)
+
+**Se há m maneiras de fazer A e n maneiras de fazer B, há m × n maneiras de fazer A e B.**
+
+Exemplo: quantas senhas de 2 dígitos distintos usando {1,2,3}?
+- 1ª posição: 3 opções
+- 2ª posição: 2 opções (sem repetir)
+- Total: 3 × 2 = **6 senhas**
+
+O PFC resolve a maioria das questões de combinatória do ENEM sem precisar de fórmulas complexas.
+
+### Fatorial
+
+n! = n × (n–1) × (n–2) × ... × 2 × 1
+
+- 0! = 1 (por definição)
+- 1! = 1
+- 2! = 2
+- 3! = 6
+- 4! = 24
+- 5! = 120
+
+### Permutação
+
+**Arranjar n elementos distintos em n posições:**
+P_n = n!
+
+Exemplo: 5 pessoas sentando em 5 cadeiras = 5! = 120 formas
+
+**Permutação com repetição:**
+P_n^(a,b,...) = n! / (a! × b! × ...)
+
+Exemplo: anagramas de "ENEM" (E aparece 2 vezes, N aparece 2 vezes):
+P = 4! / (2! × 2!) = 24/4 = **6 anagramas**
+
+### Combinação: Quando a Ordem Não Importa
+
+**Escolher k elementos de n, sem importar a ordem:**
+C(n,k) = n! / (k! × (n–k)!)
+
+Exemplos:
+- Quantos grupos de 3 pessoas em 10? → C(10,3) = 120
+- Quantas comissões de 2 dentre 5? → C(5,2) = 10
+
+**Macete:** Combinação quando a pergunta usa "escolher", "selecionar", "comissão", "grupo" (ordem irrelevante). Permutação quando usa "arranjar", "ordenar", "senha", "fila" (ordem importa).
+
+### Arranjo Simples
+
+**Escolher e ordenar k elementos de n:**
+A(n,k) = n! / (n–k)!
+
+Exemplo: pódio (1º, 2º, 3º) de 10 atletas = A(10,3) = 10!/7! = 720
+
+## Probabilidade: Medir o Acaso
+
+### Probabilidade Clássica
+
+**P(A) = casos favoráveis / casos totais**
+
+Condições: todos os resultados igualmente prováveis; espaço amostral finito.
+
+Exemplos:
+- Cara em uma moeda: P = 1/2
+- Número par em um dado (6 faces): P = 3/6 = 1/2
+- Tirar uma carta de copas em um baralho: P = 13/52 = 1/4
+
+### Complementar: O Truque Mais Útil
+
+**P(não A) = 1 – P(A)**
+
+Quando é mais fácil calcular a probabilidade do contrário:
+
+"Qual a probabilidade de tirar pelo menos um 6 em dois lançamentos de dado?"
+
+É mais fácil calcular P(nenhum 6):
+- P(não 6 no 1º dado) = 5/6
+- P(não 6 no 2º dado) = 5/6
+- P(nenhum 6) = 5/6 × 5/6 = 25/36
+
+P(pelo menos um 6) = 1 – 25/36 = **11/36**
+
+### Eventos Independentes: Multiplicar
+
+Se A e B são **independentes** (um não afeta o outro):
+P(A e B) = P(A) × P(B)
+
+Exemplo: probabilidade de tirar coroa duas vezes seguidas:
+P = 1/2 × 1/2 = 1/4
+
+### Eventos Mutuamente Exclusivos: Somar
+
+Se A e B **não podem ocorrer ao mesmo tempo:**
+P(A ou B) = P(A) + P(B)
+
+Exemplo: dado, P(1 ou 6) = 1/6 + 1/6 = 1/3
+
+**Caso geral (podem ocorrer juntos):**
+P(A ou B) = P(A) + P(B) – P(A e B)
+
+### Probabilidade Condicional
+
+P(B|A) = P(A e B) / P(A)
+
+"Probabilidade de B dado que A já ocorreu"
+
+Exemplo: urna com 3 bolas vermelhas e 2 azuis. Tirando duas sem reposição:
+P(2ª vermelha | 1ª vermelha) = 2/4 = 1/2
+
+## Como o ENEM Contextualiza
+
+Questões de probabilidade do ENEM sempre têm contexto:
+- **Genética:** probabilidade de filho herdar doença recessiva
+- **Jogo de dados/moedas:** análise de apostas e fairness
+- **Urnas/sorteios:** seleção aleatória em grupos
+- **Diagnóstico médico:** sensibilidade e especificidade de testes
+- **Criptografia e senhas:** quantas possibilidades existem
+
+## Erros Mais Comuns
+
+**Erro 1: Confundir com e sem reposição**
+Sem reposição: o denominador diminui a cada extração. Com reposição: permanece igual.
+
+**Erro 2: Esquecer o complementar**
+"Pelo menos um", "ao menos um" → use complementar. É muito mais rápido.
+
+**Erro 3: Usar Combinação quando é Permutação**
+Pergunta com "ordenar", "fila", "primeiro/segundo/terceiro" → Permutação.
+
+## Plano de Estudo: 3 Semanas
+
+**Semana 1 — PFC + Permutação**
+Resolva 20 questões só de contagem básica. Foco no PFC — resolve 70% sem fórmulas avançadas.
+
+**Semana 2 — Combinação + Arranjo**
+Quando usar cada um. Resolva 15 questões ENEM de combinatória.
+
+**Semana 3 — Probabilidade**
+Probabilidade simples, complementar, independente. Resolva 20 questões ENEM de probabilidade.
+
+**[Praticar Matemática com questões reais do ENEM](/auth/register)**
+    `,
+  },
+  {
+    slug: 'matrizes-determinantes-enem',
+    title: 'Matrizes e Determinantes no ENEM: O que Cai e Como Resolver 2026',
+    description: 'Matrizes e determinantes no ENEM 2026: operações, tipos de matriz, cálculo de determinante e sistemas lineares. O que a banca INEP realmente cobra.',
+    date: '2026-06-14',
+    readTime: 5,
+    content: `
+Matrizes e determinantes aparecem com frequência variável no ENEM — às vezes 2 questões, às vezes nenhuma. Mas dominando o básico, você está preparado para qualquer cenário.
+
+## Matrizes: O Básico que o ENEM Cobra
+
+Uma matriz é uma tabela organizada em linhas e colunas. Uma matriz m×n tem m linhas e n colunas.
+
+### Tipos de Matriz (Saber Identificar)
+
+- **Quadrada:** mesmo número de linhas e colunas (2×2, 3×3)
+- **Linha:** uma linha apenas (1×n)
+- **Coluna:** uma coluna apenas (m×1)
+- **Nula:** todos os elementos são 0
+- **Identidade (I):** diagonal principal são 1's, resto 0's
+- **Triangular:** elementos acima ou abaixo da diagonal principal são 0's
+- **Simétrica:** aᵢⱼ = aⱼᵢ (igual à sua transposta)
+
+### Igualdade de Matrizes
+
+Duas matrizes são iguais se têm o mesmo tipo E todos os elementos correspondentes são iguais.
+
+### Operações com Matrizes
+
+**Adição/Subtração:** Elemento a elemento (mesma ordem).
+
+**Multiplicação por escalar:** Multiplica cada elemento pelo número.
+
+**Multiplicação de matrizes A×B:**
+- Só é possível se o número de colunas de A = número de linhas de B
+- Resultado tem dimensão: (linhas de A) × (colunas de B)
+- Elemento cᵢⱼ = soma dos produtos da linha i de A pela coluna j de B
+
+**Atenção:** A×B ≠ B×A em geral (multiplicação de matrizes não é comutativa).
+
+### Transposta
+
+A transposta (Aᵀ) troca linhas por colunas:
+Se A = [aᵢⱼ], então Aᵀ = [aⱼᵢ]
+
+## Determinantes: Quando e Como Calcular
+
+### Determinante 2×2
+
+Para A = |a b|
+         |c d|
+
+det(A) = a×d – b×c
+
+Exemplo:
+|3 1|  →  det = 3×4 – 1×2 = 12 – 2 = 10
+|2 4|
+
+### Determinante 3×3: Regra de Sarrus
+
+Para A = |a b c|
+         |d e f|
+         |g h i|
+
+det(A) = aei + bfg + cdh – ceg – afh – bdi
+
+**Regra de Sarrus visualmente:**
+1. Repita as duas primeiras colunas à direita
+2. Some as diagonais "para baixo" (↘)
+3. Subtraia as diagonais "para cima" (↗)
+
+## Sistemas Lineares: Aplicação Prática
+
+O ENEM cobra matrizes principalmente no contexto de sistemas lineares. A Regra de Cramer usa determinantes:
+
+Para o sistema:
+- a₁x + b₁y = c₁
+- a₂x + b₂y = c₂
+
+Calcule:
+- D = det da matriz dos coeficientes
+- Dₓ = det substituindo coluna x pelos termos independentes
+- D_y = det substituindo coluna y pelos termos independentes
+
+Solução: x = Dₓ/D, y = D_y/D (se D ≠ 0)
+
+**Se D = 0:** sistema incompatível (sem solução) ou indeterminado (infinitas soluções).
+
+## Como o ENEM Cobra Matrizes
+
+O ENEM raramente pede cálculo puro de determinante. Os contextos reais:
+
+- **Sistemas de equações:** encontrar ponto de interseção, equilíbrio econômico
+- **Tabelas de dados:** organizar e operar dados em formato matricial
+- **Transformações geométricas:** rotação, reflexão representada por matriz
+- **Criptografia:** conceito de codificação com multiplicação matricial
+- **Equação de reta por determinante**
+
+## Equação de Reta pelo Determinante
+
+Uma das aplicações mais cobradas no ENEM:
+
+Três pontos A(x₁,y₁), B(x₂,y₂), C(x,y) são colineares se:
+
+|x  y  1|
+|x₁ y₁ 1| = 0
+|x₂ y₂ 1|
+
+Para encontrar a equação da reta por dois pontos, expanda esse determinante igualado a zero.
+
+## O que Priorizar
+
+Para o ENEM, foque nesta ordem:
+1. **Multiplicação de matrizes** — frequente em contextos práticos
+2. **Determinante 2×2** — simples e aparece muito
+3. **Sistemas lineares** — aplicação prática mais cobrada
+4. **Determinante 3×3** — regra de Sarrus, só se tiver tempo
+
+Tipos de matriz e operações básicas são cobradas de forma contextualizada — geralmente fáceis de resolver se você entende o conceito.
+
+**[Praticar questões de Matemática do ENEM — 10 por dia grátis](/auth/register)**
+    `,
+  },
+  {
+    slug: 'nota-de-corte-letras-enem',
+    title: 'Nota de Corte Letras ENEM 2025 — SISU, Universidades e Mercado',
+    description: 'Nota de corte para Letras no SISU 2025. Veja as notas nas principais universidades federais, diferença entre Letras Português e Letras Inglês, e perspectivas de carreira.',
+    date: '2026-06-14',
+    readTime: 5,
+    content: `
+Letras é um dos cursos com maior oferta de vagas no SISU e notas de corte variadas — de acessíveis nas federais do interior a moderadas nas grandes universidades do Sudeste.
+
+## Nota de Corte Letras (Português) SISU 2025
+
+| Universidade | Turno | Nota de Corte Aprox. (AC) |
+|---|---|---|
+| USP | Integral | 700–740 |
+| UNICAMP | Integral | 680–715 |
+| UFMG | Integral | 660–695 |
+| UFRJ | Integral | 645–680 |
+| UnB | Noturno | 615–650 |
+| UFRGS | Noturno | 600–635 |
+| UFSC | Noturno | 580–615 |
+| UFC | Noturno | 555–590 |
+| UFPE | Noturno | 540–575 |
+| UFBA | Noturno | 520–555 |
+| UFRN | Noturno | 505–540 |
+| UFPB | Noturno | 480–515 |
+
+*Notas aproximadas. Confira o SISU oficial para valores exatos.*
+
+**Letras Inglês/Espanhol:** Notas de corte geralmente menores que Letras Português (5–20 pontos abaixo), dependendo da instituição.
+
+**Letras dupla habilitação (Port/Inglês ou Port/Espanhol):** Disponível em muitas federais, notas intermediárias.
+
+## Habilitações em Letras
+
+A maioria das universidades oferece:
+- **Licenciatura em Letras — Português:** professor de língua materna
+- **Licenciatura em Letras — Inglês:** professor de inglês
+- **Licenciatura em Letras — Espanhol:** professor de espanhol
+- **Licenciatura em Letras — Dupla habilitação:** Português + língua estrangeira
+- **Bacharelado em Letras/Linguística:** carreira acadêmica, tradução, pesquisa
+
+## Campo de Trabalho em Letras
+
+**Licenciados (maioria dos formandos):**
+- Professor de Língua Portuguesa no Ensino Fundamental II e Médio
+- Professor de Língua Estrangeira
+- Concurso público municipal e estadual — vagas regulares
+- Salário inicial: R$2.200–4.500 (varia por estado e plano de carreira)
+
+**Outras saídas profissionais:**
+- Revisão de textos e copywriting
+- Tradução e interpretação (especialmente Inglês)
+- Editorial: editoras, revisão, preparação de originais
+- Jornalismo (com vantagem no domínio da língua)
+- Assessoria de comunicação
+- Linguística aplicada e pesquisa acadêmica
+
+## Letras vs. Pedagogia vs. Linguística
+
+| Aspecto | Letras | Pedagogia | Linguística |
+|---------|--------|-----------|-------------|
+| O que ensina | Português/língua estrangeira no Ensino Médio/Fund. II | Educação Infantil e Fund. I | Pesquisa da língua |
+| Concurso | Secretaria Estadual de Educação | Prefeituras | Universidades (acadêmico) |
+| Nota de corte | Média | Baixa-Média | Baixa |
+| Mercado | Amplo (escola + editorial) | Amplo (escola + pedagogo) | Acadêmico |
+
+## ProUni para Letras
+
+Letras é um dos cursos com maior disponibilidade de bolsas ProUni no país:
+- Nota a partir de 450–480 para bolsa integral em muitas faculdades privadas
+- Faculdades com bom conceito: Mackenzie, PUC (várias), Metodista, Univali
+
+## Por que Letras Vale a Pena em 2026
+
+A narrativa de que "Letras não tem mercado" está desatualizada:
+- Produção de conteúdo digital explodiu — e a habilidade de escrever bem é rara
+- Tradução técnica e literária cresce com a globalização
+- Professores de inglês são escassos em todas as regiões do Brasil
+- Revisão e edição de livros, roteiros e conteúdo corporativo têm demanda crescente
+
+**[Calcular minha nota ENEM e planejar candidatura](/calcular-nota)**
+    `,
+  },
+  {
+    slug: 'nota-de-corte-ciencias-biologicas-enem',
+    title: 'Nota de Corte Ciências Biológicas ENEM 2025 — SISU e Carreira',
+    description: 'Nota de corte para Ciências Biológicas no SISU 2025. Veja as notas nas federais, diferença entre licenciatura e bacharelado, e as perspectivas do biólogo em 2026.',
+    date: '2026-06-14',
+    readTime: 4,
+    content: `
+Ciências Biológicas tem dois caminhos distintos: licenciatura (professor de Biologia) e bacharelado (pesquisa, meio ambiente, saúde). As notas de corte e as carreiras são bem diferentes.
+
+## Nota de Corte Ciências Biológicas SISU 2025
+
+| Universidade | Habilitação | Nota de Corte Aprox. (AC) |
+|---|---|---|
+| USP | Bacharelado | 700–740 |
+| UNICAMP | Bacharelado | 685–720 |
+| UFMG | Bacharelado | 660–695 |
+| UFRJ | Bacharelado | 645–680 |
+| UnB | Licenciatura | 615–650 |
+| UFRGS | Licenciatura | 600–635 |
+| UFSC | Licenciatura | 580–615 |
+| UFC | Licenciatura | 555–590 |
+| UFPE | Licenciatura | 530–565 |
+| UFBA | Licenciatura | 510–545 |
+| UFRN | Licenciatura | 490–525 |
+| UFPB | Licenciatura | 465–500 |
+
+*Bacharelado em geral tem nota maior que licenciatura. Notas aproximadas.*
+
+## Licenciatura vs. Bacharelado em Biologia
+
+| Aspecto | Licenciatura | Bacharelado |
+|---------|-------------|------------|
+| Carreira principal | Professor de Biologia | Pesquisador, biólogo ambiental |
+| Concurso público | Secretaria de Educação | IBAMA, ICMBio, Ministério da Saúde |
+| Nota de corte | Menor | Maior |
+| Pós-graduação | Especialização em ensino | Mestrado/Doutorado em ciências |
+| Mercado | Estável (escola) | Crescendo (meio ambiente, biotech) |
+
+## Campo de Trabalho do Biólogo
+
+**Licenciado (professor de Biologia):**
+- Escolas públicas e privadas (Ensino Médio e Fundamental II)
+- Concurso público estadual e municipal
+- Salário inicial: R$2.200–4.000 (varia por estado)
+
+**Bacharel:**
+- **Meio ambiente:** IBAMA, ICMBio, consultorias ambientais, licenciamento
+- **Saúde:** laboratórios clínicos, vigilância sanitária, pesquisa farmacêutica
+- **Agronegócio:** controle biológico de pragas, melhoramento genético
+- **Pesquisa:** institutos, universidades, empresas de biotecnologia
+- **Conservação:** ONGs, parques nacionais, reservas biológicas
+
+## Perspectivas em 2026
+
+O mercado ambiental está em crescimento acelerado:
+- Legislação ambiental mais rígida aumenta demanda por biólogos em licenciamento
+- Biotecnologia e bioeconomia crescendo no Brasil
+- Agendas de descarbonização criando empregos verdes
+- Saúde pública — pandemia aumentou interesse em vigilância epidemiológica
+
+**CFBio** regulamenta a profissão — o registro é necessário para exercer como biólogo.
+
+## Estratégia para Candidatos a Biologia
+
+- **Ciências da Natureza:** Biologia é obviamente a mais relevante. Boa nota aqui ajuda na média.
+- **Considere o bacharelado** se tiver interesse em pesquisa ou meio ambiente — mercado crescendo
+- **Considere o turno noturno** na licenciatura se trabalha — notas menores, mesma qualidade
+
+**[Calcular minha nota ENEM e ver onde estou para Biologia](/calcular-nota)**
+    `,
+  },
+  {
+    slug: 'tecnicas-de-estudo-enem',
+    title: 'Técnicas de Estudo para o ENEM: Métodos que Funcionam em 2026',
+    description: 'As melhores técnicas de estudo para o ENEM: repetição espaçada, active recall, Pomodoro, mapas mentais e como aplicá-las para maximizar a retenção antes da prova.',
+    date: '2026-06-14',
+    readTime: 7,
+    content: `
+A maioria dos candidatos estuda do jeito errado. Não é falta de esforço — é falta de método. Técnicas baseadas em ciência cognitiva podem dobrar a retenção do conteúdo com o mesmo tempo de estudo.
+
+## O Problema com "Ler e Reler"
+
+Reler o caderno ou o livro é uma das formas menos eficientes de estudar. Pesquisas em psicologia cognitiva mostram que:
+
+- A **ilusão de fluência** faz você achar que entendeu porque reconhece o material
+- Mas reconhecer ≠ recordar. No dia da prova, você precisa recordar
+- Reler gasta tempo e cria falsa segurança
+
+As técnicas abaixo substituem isso por métodos comprovados.
+
+## 1. Active Recall (Recuperação Ativa)
+
+**O que é:** Tentar lembrar a informação antes de ver a resposta.
+
+**Como funciona:**
+- Leia o conteúdo uma vez com atenção
+- Feche o material
+- Tente reproduzir os pontos principais de memória
+- Só então confira o que errou
+
+**Por que funciona:** O esforço de tentar lembrar fortalece a memória mais do que reler. Cada tentativa de recall é como um exercício para o cérebro.
+
+**Como aplicar no ENEM:**
+- Após estudar um tema, feche o livro e escreva tudo que lembra
+- Resolva questões do ENEM sobre o tema antes de "sentir que está pronto"
+- Use flashcards: pergunta de um lado, resposta do outro
+
+## 2. Repetição Espaçada (Spaced Repetition)
+
+**O que é:** Revisar o conteúdo em intervalos crescentes, no momento certo antes de esquecer.
+
+**A curva do esquecimento de Ebbinghaus:**
+- Sem revisão, você esquece ~50% em 1 dia, ~80% em 1 semana
+- Revisando nos momentos certos, retém quase 100% com muito menos esforço
+
+**Cronograma básico de revisão:**
+1. Estuda hoje
+2. Revisa amanhã (1 dia depois)
+3. Revisa em 3 dias
+4. Revisa em 1 semana
+5. Revisa em 1 mês
+
+**Ferramenta digital:** Anki (gratuito) automatiza a repetição espaçada. Crie flashcards das fórmulas e conceitos do ENEM.
+
+## 3. Interleaving (Intercalação de Temas)
+
+**O que é:** Estudar temas diferentes na mesma sessão em vez de focar em um só por dias.
+
+**Exemplo de sessão errada:**
+- Dia 1: só Física
+- Dia 2: só Física
+- Dia 3: só Física
+
+**Exemplo de sessão correta:**
+- Dia 1: Física (40 min) → Biologia (40 min) → Matemática (40 min)
+- Dia 2: Química (40 min) → História (40 min) → Física (30 min)
+
+**Por que funciona:** O cérebro é forçado a "reativar" esquemas diferentes, criando conexões mais robustas. Praticar a alternância também simula a prova (que mistura temas).
+
+## 4. Técnica Pomodoro para Foco
+
+**O protocolo:**
+1. Defina uma tarefa específica ("resolver 15 questões de Trigonometria")
+2. Trabalhe por **25 minutos** sem interrupção
+3. Faça pausa de **5 minutos**
+4. A cada 4 Pomodoros, pausa de **15–30 minutos**
+
+**Por que funciona:**
+- Quebra o volume em partes gerenciáveis
+- Cria urgência artificial (25 min parecem pouco — você foca)
+- As pausas previnem a fadiga mental
+
+**Adaptação para ENEM:**
+- Use 45 min + 10 min se as sessões curtas parecerem insuficientes para questões mais longas
+- Durante a pausa: levante, alongue, beba água — nada de celular
+
+## 5. Elaborative Interrogation (Interrogação Elaborativa)
+
+**O que é:** Ao estudar um fato, perguntar-se "por quê?" e "como?"
+
+Em vez de memorizar: "O Estado Novo durou de 1937 a 1945"
+
+Pergunte: "Por que Vargas instaurou o Estado Novo? O que estava acontecendo que possibilitou isso? Como ele se sustentou no poder? Por que terminou em 1945?"
+
+**Por que funciona:** Conecta o novo conhecimento a redes de significado já existentes. Muito mais fácil de recordar do que fatos isolados.
+
+**No ENEM:** A maioria das questões pede justamente esse "por quê" e "como" — não datas e nomes isolados.
+
+## 6. Leitura Ativa: Como Ler Textos de Forma Eficiente
+
+Para textos densos (livros de história, artigos, capítulos):
+
+**Antes de ler:**
+- Leia o título, subtítulos, introdução e conclusão
+- Formule perguntas que espera que o texto responda
+
+**Durante a leitura:**
+- Sublinhe só o essencial (máximo 10% do texto)
+- Anote perguntas nas margens, não respostas
+
+**Após a leitura:**
+- Feche o material e escreva um resumo de 5 linhas de memória
+- Responda as perguntas que formulou antes
+
+## Montando Sua Rotina de Estudos
+
+**Combinação ideal para o ENEM:**
+
+| Atividade | Frequência | Técnica |
+|-----------|-----------|---------|
+| Aprender conteúdo novo | Diária | Leitura ativa + Pomodoro |
+| Resolver questões | Diária | Active recall |
+| Revisar conteúdo antigo | 3× por semana | Repetição espaçada |
+| Simulados completos | 1× por semana (mês anterior) | Interleaving |
+
+## Quanto Tempo Estudar por Dia?
+
+Não existe número mágico — depende de quanto tempo falta e do seu ponto de partida. Guia aproximado:
+
+- **Mais de 1 ano:** 2–3 horas focadas por dia
+- **6 meses a 1 ano:** 3–4 horas por dia
+- **3 a 6 meses:** 4–6 horas por dia
+- **Menos de 3 meses:** 6–8 horas com método (mais do que isso é contraproducente)
+
+**Qualidade > quantidade:** 2 horas de active recall + questões > 5 horas de leitura passiva.
+
+## A Questão do Sono
+
+O sono é quando o cérebro consolida memórias. Estudar até tarde regularmente prejudica a retenção.
+
+- Durma pelo menos 7–8 horas
+- Estudar de manhã cedo (após dormir bem) é mais eficiente que à meia-noite
+- Na véspera da prova: nada de virar a noite. Durma.
+
+**[Começar a praticar com questões reais do ENEM — 10 por dia grátis](/auth/register)**
+    `,
+  },
+  {
+    slug: 'nota-de-corte-historia-enem',
+    title: 'Nota de Corte História (Licenciatura) ENEM 2025 — SISU e Carreira',
+    description: 'Nota de corte para o curso de História no SISU 2025. Veja as notas nas principais federais, campo de trabalho do historiador e como planejar sua candidatura.',
+    date: '2026-06-14',
+    readTime: 4,
+    content: `
+O curso de História forma professores e pesquisadores, com boas opções no SISU e notas de corte variadas por região e turno.
+
+## Nota de Corte História SISU 2025
+
+| Universidade | Turno | Nota de Corte Aprox. (AC) |
+|---|---|---|
+| USP | Integral | 680–715 |
+| UNICAMP | Integral | 660–695 |
+| UFMG | Integral | 645–680 |
+| UFRJ | Integral | 630–665 |
+| UnB | Noturno | 600–635 |
+| UFRGS | Noturno | 585–620 |
+| UFSC | Noturno | 565–600 |
+| UFC | Noturno | 535–570 |
+| UFPE | Noturno | 515–550 |
+| UFBA | Noturno | 500–535 |
+| UFRN | Noturno | 480–515 |
+| UFPB | Noturno | 455–490 |
+
+*Notas aproximadas. Confira o SISU oficial para dados exatos.*
+
+## Campo de Trabalho em História
+
+**Professor de História (licenciatura):**
+- Ensino Fundamental II (6º ao 9º ano) e Ensino Médio
+- Concurso público estadual e municipal — vagas frequentes
+- Salário inicial: R$2.200–4.000 (varia por estado)
+- Progressão por titulação (especialização, mestrado, doutorado)
+
+**Bacharelado e pesquisa:**
+- Historiador em museus, arquivos e institutos históricos
+- Pesquisa em universidades (carreira de professor universitário)
+- Consultoria histórica (documentários, games, empresas)
+- Genealogia e história empresarial
+
+**Novas frentes:**
+- História pública: divulgação histórica em redes sociais, podcasts, YouTube
+- Consultoria para produção audiovisual (filmes de época, séries históricas)
+- Pesquisa genealógica para famílias e empresas
+
+## Por que Historia no ENEM tem Boas Notas
+
+Candidatos de Ciências Humanas geralmente vão bem em História — e a disciplina tem peso alto nas questões de Humanas. Candidatos que se preparam bem têm vantagem dupla: nota no ENEM e base para o curso.
+
+## Perspectivas Reais da Carreira
+
+A carreira de professor de História no Brasil é estável — a demanda por professores públicos não vai acabar. O mercado privado (escolas particulares) também tem vagas regulares.
+
+O bacharelado é mais nichado, mas cresce com a valorização da preservação histórica, museus e memória institucional de empresas.
+
+## Cotas e Notas de Acesso
+
+Com cotas (L1 — escola pública + baixa renda), as notas de corte caem 20–50 pontos nas principais federais. Em campi do interior (UFPE Caruaru, UFRN Caicó, etc.), as notas são significativamente menores.
+
+**[Calcular minha nota ENEM e ver possibilidades para História](/calcular-nota)**
+    `,
+  },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)
@@ -7410,7 +8315,7 @@ export function getCategory(slug: string): BlogCategory {
   if (slug.includes('nota-de-corte') || slug.includes('sisu') || slug.includes('prouni') || slug.includes('medicina') || slug.includes('direito') || slug.includes('engenharia') || slug.includes('psicologia') || slug.includes('odontologia') || slug.includes('computacao') || slug.includes('agronomia') || slug.includes('contabilidade') || slug.includes('pedagogia') || slug.includes('fies') || slug.includes('fisioterapia') || slug.includes('economia') || slug.includes('jornalismo') || slug.includes('servico-social') || slug.includes('educacao-fisica')) return 'Universidades'
   if (slug.includes('cronograma') || slug.includes('quanto-tempo') || slug.includes('enem-2026') || slug.includes('enem-resultado') || slug.includes('resultado-quando')) return 'Planejamento'
   if (slug.includes('tri-enem') || slug.includes('calcular-nota') || slug.includes('como-funciona') || slug.includes('ppcs') || slug.includes('treineiro') || slug.includes('segunda-chance') || slug.includes('enem-digital') || slug.includes('enem-2025')) return 'Como Funciona'
-  if (slug.includes('fisica') || slug.includes('quimica') || slug.includes('biologia') || slug.includes('historia') || slug.includes('geografia') || slug.includes('filosofia') || slug.includes('matematica') || slug.includes('ingles') || slug.includes('ciencias') || slug.includes('literatura') || slug.includes('geometria') || slug.includes('estatistica') || slug.includes('interpretacao') || slug.includes('portugues') || slug.includes('trigonometria') || slug.includes('funcoes') || slug.includes('sociologia') || slug.includes('progressoes')) return 'Por Matéria'
+  if (slug.includes('fisica') || slug.includes('quimica') || slug.includes('biologia') || slug.includes('historia') || slug.includes('geografia') || slug.includes('filosofia') || slug.includes('matematica') || slug.includes('ingles') || slug.includes('ciencias') || slug.includes('literatura') || slug.includes('geometria') || slug.includes('estatistica') || slug.includes('interpretacao') || slug.includes('portugues') || slug.includes('trigonometria') || slug.includes('funcoes') || slug.includes('sociologia') || slug.includes('progressoes') || slug.includes('logaritmo') || slug.includes('probabilidade') || slug.includes('matrizes')) return 'Por Matéria'
   if (slug.includes('simulado') || slug.includes('questoes')) return 'Questões'
   if (slug.includes('melhor-app') || slug.includes('alternativa') || slug.includes('online-gratis') || slug.includes('vs-')) return 'Comparativos'
   return 'Estratégias'
