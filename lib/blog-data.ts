@@ -5671,7 +5671,963 @@ A estratégia mais comum é:
   },
 ]
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5]
+const EXTRA_POSTS_6: BlogPost[] = [
+  {
+    slug: 'como-estudar-historia-enem',
+    title: 'Como Estudar História para o ENEM: Guia Completo 2026',
+    description: 'Guia definitivo de História para o ENEM 2026. Os temas mais cobrados, estratégia por período histórico, como interpretar fontes e dicas para gabaritar.',
+    date: '2026-06-14',
+    readTime: 8,
+    content: `
+História é uma das disciplinas onde os candidatos mais polarizam: ou vão muito bem ou perdem pontos desnecessários. A diferença está na abordagem. O ENEM não quer decoreba — quer raciocínio histórico.
+
+## O que o ENEM Cobra em História
+
+História faz parte de Ciências Humanas (45 questões com Geografia, Filosofia e Sociologia). História representa em média **12–15 questões por prova**.
+
+A distribuição histórica por período:
+
+| Período | Frequência média |
+|---------|----------------|
+| História do Brasil República | 3–5 questões |
+| Brasil Colonial e Imperial | 2–3 questões |
+| História Contemporânea (séc. XX) | 3–5 questões |
+| História Medieval e Moderna | 1–2 questões |
+| História Antiga | 0–1 questão |
+| Pré-História e primeiras civilizações | 0–1 questão |
+
+## Por que História Contemporânea é Prioridade
+
+O ENEM adora o século XX: guerras mundiais, totalitarismo, Guerra Fria, descolonização da África e Ásia, movimentos sociais. Razão: são eventos que moldaram o mundo atual.
+
+**Temas que aparecem todo ano:**
+- Primeira e Segunda Guerra Mundial (causas, consequências)
+- Nazismo, Fascismo e Stalinismo — comparação e análise
+- Guerra Fria (EUA vs URSS, corrida armamentista, dividindo o mundo)
+- Revolução Russa de 1917
+- Independências africanas e asiáticas (pós-45)
+- Globalização e neoliberalismo (anos 80–90)
+
+## Brasil: os Períodos que Mais Caem
+
+### Era Vargas (1930–1945) e Estado Novo
+Um dos favoritos do ENEM. Questões cobram:
+- Getúlio Vargas e o populismo
+- Estado Novo (1937): autoritarismo, propaganda, trabalhismo
+- Trabalhismo e leis trabalhistas (CLT, 1943)
+- Segunda Guerra Mundial e a posição do Brasil
+
+### Ditadura Militar (1964–1985)
+Alto volume de questões:
+- Golpe de 1964 (causas, papel dos EUA)
+- AI-5 (1968): o auge da repressão
+- Milagre Econômico: crescimento com desigualdade
+- Abertura política e anistia
+- Abertura e redemocratização
+
+### República Velha (1889–1930)
+- Coronelismo e política café com leite
+- Cangaço e questão social
+- Revolução de 1930
+
+### Período Colonial
+- Sistema colonial e Pacto Colonial
+- Ciclos econômicos: pau-brasil, cana, ouro, café
+- Resistência escrava: quilombos, revoltas
+- Independência (1822): contexto e contradições
+
+## Como o ENEM Cobra História: Análise de Fontes
+
+A diferença do ENEM para outros vestibulares: **as questões partem sempre de uma fonte primária ou secundária**.
+
+Tipos de fonte que aparecem:
+- **Documentos históricos:** discursos, decretos, cartas, manifestos
+- **Charges e caricaturas:** crítica política do período
+- **Fotografias históricas:** análise do contexto
+- **Mapas históricos:** mudanças territoriais, rotas comerciais
+- **Gráficos e estatísticas:** evolução de dados históricos
+
+**Como ler fontes no ENEM:**
+1. Identifique: quem produziu? quando? para quem?
+2. Qual é a intenção do autor/emissor?
+3. O que a fonte revela sobre o período?
+4. Conecte com o contexto histórico que você conhece
+
+## Estratégia de Estudo por Fase
+
+**Fase 1 (5 semanas) — Brasil no Século XX:**
+Foco total em República (1889–2000). É onde estão 40–50% das questões de História do ENEM. Resolva questões ENEM de 2018 a 2024 sobre esses temas.
+
+**Fase 2 (3 semanas) — História Contemporânea Mundial:**
+Guerras, totalitarismo, Guerra Fria, descolonização. Use documentários do YouTube para contextualizar.
+
+**Fase 3 (2 semanas) — Brasil Colonial e Imperial + História Antiga:**
+Menor peso, mas aparecem. Foque nos temas mais recorrentes: escravidão, independência, colonização.
+
+**Fase 4 (2 semanas) — Revisão com questões:**
+Monte "simulados temáticos" por período histórico. Analise os erros.
+
+## Dicas para Nunca Mais Errar Questões de História
+
+**Dica 1: Não tente memorizar datas exatas**
+O ENEM raramente pede datas precisas. Quer que você entenda sequência e causalidade.
+
+**Dica 2: Conecte com o presente**
+O ENEM frequentemente usa questões históricas para discutir temas atuais. Pergunte sempre: "o que esse evento tem a ver com o mundo de hoje?"
+
+**Dica 3: Pratique análise de charge**
+Charges históricas são frequentes. Pratique identificar o personagem retratado, a crítica e o contexto histórico.
+
+**Dica 4: Leia o enunciado inteiro**
+Muitas questões de História têm a resposta explicitada no próprio texto da questão. Candidatos que leem rápido demais perdem esses "presentes" da banca.
+
+## O Que Evitar em História ENEM
+
+- Focar só em Brasil e esquecer história mundial
+- Memorizar listas de eventos sem entender causas e consequências
+- Ignorar questões de análise de fontes (são as mais frequentes)
+- Confundir períodos históricos próximos (ex: República Velha x Era Vargas)
+
+## Conexão com Atualidade: Diferencial de Nota
+
+O ENEM ama questões que conectam história com atualidade:
+- Reforma trabalhista atual vs. CLT de Vargas
+- Fake news e propaganda nazista
+- Movimentos sociais atuais e suas raízes históricas
+- Globalização e neoliberalismo dos anos 90
+
+Candidatos que acompanham o noticiário e conseguem fazer essas conexões se destacam.
+
+**[Praticar questões de História com gabarito e IA](/auth/register)**
+    `,
+  },
+  {
+    slug: 'como-estudar-geografia-enem',
+    title: 'Como Estudar Geografia para o ENEM: Temas e Estratégia 2026',
+    description: 'Guia completo de Geografia para o ENEM 2026. Os temas mais cobrados, como interpretar mapas, climatologia, urbanização e dicas para gabaritar Ciências Humanas.',
+    date: '2026-06-14',
+    readTime: 7,
+    content: `
+Geografia no ENEM vai muito além de decorar capitais e rios. A banca INEP exige análise de mapas, gráficos e tabelas, além de raciocínio espacial. Veja como dominar essa disciplina.
+
+## O que Cai em Geografia no ENEM
+
+Geografia é parte de Ciências Humanas (45 questões com História, Filosofia e Sociologia). Em média, **10–13 questões** de Geografia por prova.
+
+| Tema | Frequência |
+|------|-----------|
+| Geopolítica e relações internacionais | 2–3 questões |
+| Urbanização e problemas urbanos | 2–3 questões |
+| Questões ambientais e natureza | 2–3 questões |
+| Climatologia e formações vegetais | 1–2 questões |
+| Agropecuária e questão agrária | 1–2 questões |
+| Industrialização e globalização | 1–2 questões |
+| Cartografia e leitura de mapas | 1–2 questões |
+
+## Geopolítica: O Favorito do ENEM
+
+Geopolítica lidera em frequência e costuma ser o tema mais contemporâneo. O ENEM cobra:
+
+- **Ordem mundial pós-Guerra Fria:** unipolaridade, multipolaridade, BRICS
+- **Globalização:** fluxos de capital, trabalho, cultura
+- **Conflitos geopolíticos:** Oriente Médio, Ucrânia, tensões EUA-China
+- **Organismos internacionais:** ONU, FMI, OMC, Mercosul
+- **Blocos econômicos:** UE, NAFTA/USMCA, ASEAN
+
+**Dica:** Questões de geopolítica sempre apresentam texto ou mapa. Interprete o contexto antes de responder.
+
+## Urbanização Brasileira: Sempre Presente
+
+O Brasil é 87% urbano — e o ENEM adora explorar essa realidade:
+
+- **Metropolização e megacidades:** São Paulo, Rio, Região Metropolitana
+- **Problemas urbanos:** favelização, mobilidade, saneamento, violência
+- **Segregação socioespacial:** centro vs. periferia
+- **Gentrificação e renovação urbana**
+- **Cidades médias e o papel da interiorização**
+
+**Diferença importante:**
+- Urbanização = processo de crescimento das cidades
+- Favelização = resultado das desigualdades desse processo
+- O ENEM cobra as causas E as consequências
+
+## Climatologia: Sistematize o Conhecimento
+
+Climatologia parece decoreba, mas o ENEM cobra raciocínio climático:
+
+**Fatores que influenciam o clima:**
+- Latitude (distância do equador)
+- Altitude (temperatura cai ~6,5°C a cada 1000m)
+- Maritimidade/Continentalidade
+- Correntes oceânicas
+- Massas de ar
+
+**Climas do Brasil:**
+- Equatorial (Amazônia): quente e úmido o ano todo
+- Tropical (Centro-Brasil): duas estações definidas
+- Semiárido (Nordeste): irregular e seco
+- Subtropical (Sul): quatro estações
+- Tropical de altitude (Sudeste): ameno nas serras
+
+**Formações vegetais:** Cerrado, Caatinga, Mata Atlântica, Pantanal, Pampas — associe cada bioma ao clima e ao estado de conservação.
+
+## Cartografia: Leitura de Mapas e Gráficos
+
+O ENEM sempre tem 1–2 questões de cartografia. O que saber:
+
+- **Escala:** numérica (1:50.000) e gráfica
+- **Projeções cartográficas:** Mercator (exagera polos), Peters (fiel em área)
+- **Mapas temáticos:** interpretar dados representados em mapa
+- **Fusos horários:** Brasil tem 4 fusos; cálculo de diferença horária
+
+**Orientação:** rosa dos ventos, coordenadas geográficas (latitude e longitude), paralelos e meridianos.
+
+## Questão Agrária Brasileira
+
+Frequente e relevante para o contexto do país:
+
+- **Latifúndio vs. agricultura familiar**
+- **Agronegócio:** exportações, commodities, desmatamento
+- **MST e reforma agrária:** causas, conflitos, assentamentos
+- **Fronteira agrícola:** avanço sobre o Cerrado e a Amazônia
+- **Êxodo rural:** causas e consequências para as cidades
+
+## Meio Ambiente: Tema Transversal
+
+Questões ambientais conectam Geografia, Ecologia e política:
+
+- **Desmatamento:** Amazônia, Cerrado, Mata Atlântica
+- **Mudanças climáticas:** aquecimento global, efeito estufa
+- **Energias renováveis:** Brasil na hidroelétrica e eólica
+- **Gestão de recursos hídricos:** crise hídrica, bacia do São Francisco
+- **Acordos internacionais:** Acordo de Paris, COP, Protocolo de Kyoto
+
+## Estratégia: 8 Semanas para Dominar
+
+**Semanas 1–2 — Geopolítica + Globalização**
+Leia resumos sobre ordem mundial e pratique com questões ENEM de 2015–2024.
+
+**Semanas 3–4 — Brasil: Urbanização + Questão Agrária**
+Foco na realidade brasileira. Dados do IBGE são frequentes nas questões.
+
+**Semanas 5–6 — Climatologia + Biomas**
+Monte uma tabela conectando clima → bioma → região → problemas ambientais.
+
+**Semanas 7–8 — Cartografia + Geopolítica avançada + Revisão**
+Pratique leitura de mapas. Analise questões erradas.
+
+## Integração com Outras Disciplinas
+
+Geografia no ENEM conversa com:
+- **História:** colonização, industrialização, geopolítica contemporânea
+- **Biologia:** biomas, ecologia
+- **Sociologia:** desigualdade, mobilidade social, questão agrária
+- **Filosofia:** ética ambiental, desenvolvimento sustentável
+
+Candidatos que enxergam essa integração respondem melhor às questões multidisciplinares do ENEM.
+
+**[Praticar questões de Geografia — Ciências Humanas no ENEM](/auth/register)**
+    `,
+  },
+  {
+    slug: 'como-estudar-portugues-enem',
+    title: 'Como Estudar Português para o ENEM: Gramática, Texto e Redação 2026',
+    description: 'Guia de Português para o ENEM 2026. O que cai em gramática, interpretação de texto e redação, estratégia de estudo por fase e os erros mais comuns dos candidatos.',
+    date: '2026-06-14',
+    readTime: 8,
+    content: `
+Português é a disciplina que mais candidatos subestimam e, ao mesmo tempo, onde mais pontos são perdidos desnecessariamente no ENEM. Com a estratégia certa, é possível gabaritar boa parte das questões.
+
+## Português no ENEM: Entendendo o Quadro
+
+Língua Portuguesa faz parte de Linguagens, Códigos e suas Tecnologias (45 questões). Português representa aproximadamente **15–20 questões** por prova — mais a Redação, que é avaliada separadamente (0–1000 pontos).
+
+## O que o ENEM Cobra em Português
+
+### 1. Interpretação de Texto (8–10 questões)
+
+É o maior bloco. O ENEM usa textos de crônicas, artigos, entrevistas, poemas, letras de música, charges, tirinhas e infográficos.
+
+O que é avaliado:
+- Compreensão global do texto
+- Inferência e leitura nas entrelinhas
+- Identificação de ponto de vista e intenção do autor
+- Análise de recursos expressivos (ironia, metáfora)
+
+### 2. Gramática em Contexto (5–8 questões)
+
+O ENEM não cobra gramática de forma isolada — sempre em texto. O que aparece:
+
+**Alta frequência:**
+- Coesão e coerência textual
+- Pontuação (vírgula, ponto e vírgula, dois-pontos)
+- Concordância (nominal e verbal)
+- Regência (nominal e verbal)
+- Crase
+
+**Média frequência:**
+- Pronomes (uso, colocação, referência)
+- Conjunções e seus valores semânticos (causa, concessão, adversidade)
+- Vozes verbais (ativa, passiva, reflexiva)
+- Variação linguística (norma culta vs. popular vs. regional)
+
+**Baixa frequência (mas aparecem):**
+- Figuras de linguagem
+- Funções da linguagem
+- Gêneros e tipologias textuais
+
+### 3. Literatura (3–5 questões)
+
+Literatura no ENEM é contextualizada e interpretativa — não pede decoreba de escolas literárias:
+
+- Modernismo brasileiro (Mário de Andrade, Oswald, Drummond) — mais frequente
+- Romantismo (José de Alencar, Gonçalves Dias)
+- Realismo/Naturalismo (Machado de Assis, Eça de Queirós)
+- Barroco e Arcadismo — ocasionalmente
+
+A banca geralmente apresenta um trecho e pede análise do estilo ou do contexto histórico da produção.
+
+## Estratégia de Estudo: 10 Semanas
+
+**Semanas 1–2 — Interpretação de texto intensiva**
+Leia 2–3 textos por dia de gêneros diferentes. Depois resolva questões ENEM sobre os textos. Foco em identificar o que o autor quer dizer, não apenas o que está escrito.
+
+**Semanas 3–4 — Gramática funcional**
+Estude cada tópico com exemplos em texto, não com tabelas isoladas. Para cada regra, resolva 5 questões ENEM. Priorize: concordância, coesão, pontuação, crase.
+
+**Semanas 5–6 — Literatura**
+Leia fragmentos dos autores mais cobrados (Machado de Assis, Drummond, Clarice Lispector). Não é necessário ler obras completas — o ENEM sempre fornece o trecho.
+
+**Semanas 7–8 — Redação**
+Escreva 2 redações por semana. Peça avaliação ou use critérios das 5 competências do ENEM para auto-avaliação.
+
+**Semanas 9–10 — Revisão + Simulados**
+Simulados completos de Linguagens. Analise os erros por tipo de questão.
+
+## Os 5 Erros Mais Comuns em Português ENEM
+
+**Erro 1: Responder com opinião pessoal**
+O ENEM pede o que o texto diz, não o que você pensa. "Eu acho que..." não tem espaço aqui.
+
+**Erro 2: Confundir norma culta com norma formal**
+Variação linguística é muito cobrada. O ENEM valoriza quem entende que a língua popular/regional não é "errada" — é diferente. Questões frequentemente criticam o preconceito linguístico.
+
+**Erro 3: Ignorar o contexto da citação**
+Questões de gramática apresentam um trecho e pedem análise de uma construção específica. Muitos candidatos respondem sem ler o trecho completo — e erram.
+
+**Erro 4: Subestimar a redação**
+A redação vale 1000 pontos — equivale a toda a prova de Linguagens em peso. Candidatos que investem na redação têm vantagem enorme.
+
+**Erro 5: Pular questões de literatura**
+Literatura parece difícil, mas as questões do ENEM são acessíveis — a banca explica o contexto. Com 10 minutos de estudo por autor mais cobrado, você passa bem.
+
+## Redação ENEM: As 5 Competências
+
+A redação é avaliada em 5 competências de 0–200 pontos cada:
+
+| Competência | O que avalia |
+|------------|-------------|
+| C1 | Domínio da norma culta |
+| C2 | Compreensão da proposta e uso dos textos motivadores |
+| C3 | Seleção de argumentos e organização da dissertação |
+| C4 | Coesão e mecanismos de argumentação |
+| C5 | Proposta de intervenção respeitando os direitos humanos |
+
+**A intervenção (C5) é onde muitos perdem pontos.** Deve conter: agente + ação + meio/modo + finalidade + detalhamento. Uma intervenção vaga não pontua 200.
+
+## Variação Linguística: Tema Recorrente
+
+O ENEM é explícito em valorizar a diversidade linguística. Temas que aparecem:
+- Dialetos regionais e suas construções
+- Língua popular vs. norma culta: qual usar em cada contexto
+- Neologismos e palavras novas na língua
+- Gírias, estrangeirismos, língua na internet
+
+A abordagem do ENEM é **descritiva** (como a língua é) e não **prescritiva** (como "deveria" ser). Saiba distinguir.
+
+## Texto Literário: Como Ler para o ENEM
+
+Ao ler um fragmento literário:
+1. Identifique o narrador e seu ponto de vista
+2. Observe o tom: irônico, lírico, crítico, melancólico?
+3. Que recursos o autor usa? Metáfora, ironia, hipérbole?
+4. A que período histórico pertence? O ENEM costuma indicar
+
+Não precisa saber toda a obra — o trecho é suficiente para responder.
+
+**[Começar a praticar Língua Portuguesa com questões reais do ENEM](/auth/register)**
+    `,
+  },
+  {
+    slug: 'funcoes-matematica-enem',
+    title: 'Funções no ENEM: 1º Grau, 2º Grau, Exponencial e Logarítmica 2026',
+    description: 'Funções no ENEM 2026: o que cai de função do 1º grau, 2º grau, exponencial e logarítmica. Fórmulas, gráficos e como resolver questões da banca INEP.',
+    date: '2026-06-14',
+    readTime: 7,
+    content: `
+Funções são um dos temas com maior peso em Matemática no ENEM. Aparecem em praticamente todas as edições e costumam representar 3–5 questões por prova.
+
+## O que o ENEM Cobra sobre Funções
+
+O ENEM aborda 4 tipos principais de função:
+
+| Tipo | Frequência |
+|------|-----------|
+| Função do 1º grau (linear/afim) | 1–2 questões |
+| Função do 2º grau (quadrática) | 1–2 questões |
+| Função exponencial | 1 questão |
+| Função logarítmica | 0–1 questão |
+
+Além dessas, aparecem funções no contexto de progressões (PA e PG) e relações funcionais.
+
+## Função do 1º Grau: Base de Tudo
+
+**Forma:** f(x) = ax + b
+
+- **a** = coeficiente angular (inclinação)
+- **b** = coeficiente linear (ponto onde cruza o eixo y)
+- Se a > 0: função crescente; se a < 0: decrescente
+
+**Gráfico:** linha reta
+
+**Zero da função (raiz):** f(x) = 0 → x = -b/a
+
+**Como o ENEM cobra:**
+- Situações com velocidade constante, tarifas, custo fixo + variável
+- "A empresa cobra R$50 de taxa fixa mais R$2 por km" → f(x) = 2x + 50
+- Interseção de duas retas (solução de sistemas lineares)
+- Função crescente ou decrescente em contexto
+
+## Função do 2º Grau: O Mais Cobrado
+
+**Forma:** f(x) = ax² + bx + c
+
+- **a ≠ 0** (se a = 0, vira 1º grau)
+- **a > 0:** parábola com concavidade para cima (mínimo)
+- **a < 0:** parábola com concavidade para baixo (máximo)
+
+**Vértice (ponto máximo ou mínimo):**
+- x_v = -b/(2a)
+- y_v = -Δ/(4a) = f(x_v)
+
+**Discriminante:** Δ = b² – 4ac
+- Δ > 0: dois zeros reais distintos
+- Δ = 0: um zero real (raiz dupla)
+- Δ < 0: sem zeros reais
+
+**Raízes (Fórmula de Bhaskara):** x = (-b ± √Δ) / (2a)
+
+**Como o ENEM cobra:**
+- Área máxima de um terreno retangular
+- Trajetória de projétil (ponto mais alto, distância horizontal)
+- Lucro máximo em um problema de economia
+- "Determine o valor de x que maximiza/minimiza f(x)"
+
+## Função Exponencial: Crescimento e Decaimento
+
+**Forma:** f(x) = aˣ onde a > 0 e a ≠ 1
+
+- **a > 1:** função crescente (crescimento exponencial)
+- **0 < a < 1:** função decrescente (decaimento exponencial)
+
+**Propriedades essenciais:**
+- a⁰ = 1 (qualquer base elevada a zero é 1)
+- aˣ > 0 para qualquer x (função sempre positiva)
+- Domínio: todos os reais; Imagem: positivos
+
+**Como o ENEM cobra:**
+- Crescimento populacional: P(t) = P₀ × 2^(t/k)
+- Decaimento radioativo: N(t) = N₀ × (1/2)^(t/T)
+- Juros compostos: M = C × (1+i)ⁿ
+- Contaminação / propagação de epidemia
+
+## Função Logarítmica: O Inverso da Exponencial
+
+**Forma:** f(x) = log_a(x) onde a > 0 e a ≠ 1
+
+A função logarítmica é o inverso da exponencial:
+- Se aˣ = b, então log_a(b) = x
+
+**Logaritmos especiais:**
+- log₁₀(x) = log(x) — logaritmo decimal (mais cobrado no ENEM)
+- ln(x) — logaritmo natural (base e, menos cobrado)
+
+**Propriedades fundamentais (memorize):**
+- log(a × b) = log(a) + log(b)
+- log(a / b) = log(a) – log(b)
+- log(aⁿ) = n × log(a)
+- log_a(a) = 1
+- log_a(1) = 0
+
+**Como o ENEM cobra:**
+- Escala sonora em decibéis: dB = 10 × log(I/I₀)
+- Escala de pH: pH = –log[H⁺]
+- Escala Richter (terremotos): M = log(A/A₀)
+- Inversão de equações exponenciais
+
+## Gráficos: Como Identificar
+
+O ENEM frequentemente apresenta um gráfico e pede identificação da função:
+
+| Gráfico | Função |
+|---------|--------|
+| Linha reta | 1º grau |
+| Parábola | 2º grau |
+| Curva crescente muito rápido | Exponencial crescente |
+| Curva decrescente que não toca o eixo x | Exponencial decrescente |
+| Curva que cresce devagar após rápido início | Logarítmica |
+
+## Estratégia para Funções no ENEM
+
+**Passo 1: Identifique o tipo de função**
+Leia o enunciado e identifique se é linear, quadrática, exponencial ou logarítmica. Isso determina qual abordagem usar.
+
+**Passo 2: Extraia os dados**
+Identifique os valores dados e o que precisa ser calculado.
+
+**Passo 3: Monte a equação**
+Com os dados, substitua na forma da função.
+
+**Passo 4: Resolva e confira a unidade**
+Cuidado com unidades: reais, km, kg. Confira se sua resposta faz sentido no contexto.
+
+## Questões de Máximo e Mínimo
+
+Muito frequentes no ENEM, especialmente com função do 2º grau:
+
+**Se f(x) = ax² + bx + c e a < 0 (concavidade para baixo):**
+O valor máximo é y_v = f(x_v)
+
+**Contextos comuns:**
+- Área máxima com perímetro fixo
+- Lucro máximo (receita – custo)
+- Altura máxima de um projétil
+
+**Técnica do produto:** Se x + y = k (soma constante), o produto x × y é máximo quando x = y = k/2.
+
+## Resumo: O que Priorizar
+
+1. **Função do 2º grau** — mais frequente, dominar vértice e Bhaskara
+2. **Função do 1º grau** — base de muitos problemas contextuais
+3. **Função exponencial** — crescimento/decaimento, juros compostos
+4. **Função logarítmica** — escalas (dB, pH, Richter)
+
+Para cada tipo, pratique identificação a partir do gráfico, além do cálculo algébrico.
+
+**[Praticar questões de Funções com questões reais do ENEM](/auth/register)**
+    `,
+  },
+  {
+    slug: 'trigonometria-enem-o-que-cai',
+    title: 'Trigonometria no ENEM: O que Cai e Como Resolver 2026',
+    description: 'Trigonometria no ENEM 2026: seno, cosseno, tangente, lei dos senos e cossenos. O que estudar, tabela de valores e como resolver questões contextualizadas da banca INEP.',
+    date: '2026-06-14',
+    readTime: 6,
+    content: `
+Trigonometria no ENEM aparece de forma consistente — 2 a 3 questões por prova. A boa notícia: o nível exigido é acessível com algumas semanas de estudo focado.
+
+## O que o ENEM Cobra de Trigonometria
+
+| Subtema | Frequência |
+|---------|-----------|
+| Razões trigonométricas no triângulo retângulo | 1–2 questões |
+| Ângulos notáveis (30°, 45°, 60°) | 1–2 questões |
+| Lei dos senos | 0–1 questão |
+| Lei dos cossenos | 0–1 questão |
+| Trigonometria no círculo trigonométrico | 0–1 questão |
+
+## Razões Trigonométricas: O Fundamental
+
+Para qualquer ângulo θ em um triângulo retângulo:
+
+- **seno:** sen θ = cateto oposto / hipotenusa
+- **cosseno:** cos θ = cateto adjacente / hipotenusa
+- **tangente:** tg θ = cateto oposto / cateto adjacente
+
+**Macete para memorizar:** SOH-CAH-TOA
+- **S**eno = **O**posto / **H**ipotenusa
+- **C**osseno = **A**djacente / **H**ipotenusa
+- **T**angente = **O**posto / **A**djacente
+
+## Tabela de Ângulos Notáveis: Decorar é Obrigatório
+
+| Ângulo | Seno | Cosseno | Tangente |
+|--------|------|---------|---------|
+| 0° | 0 | 1 | 0 |
+| 30° | 1/2 | √3/2 | √3/3 |
+| 45° | √2/2 | √2/2 | 1 |
+| 60° | √3/2 | 1/2 | √3 |
+| 90° | 1 | 0 | indefinida |
+
+**Macete para seno de 0° a 90°:** √0/2, √1/2, √2/2, √3/2, √4/2
+
+Ou seja: 0, 1/2, √2/2, √3/2, 1 (para 0°, 30°, 45°, 60°, 90°)
+
+E para o cosseno é o inverso: 1, √3/2, √2/2, 1/2, 0.
+
+## Relação Fundamental: Nunca Esqueça
+
+**sen²θ + cos²θ = 1**
+
+Isso decorre diretamente do Teorema de Pitágoras. Se você souber o seno, calcula o cosseno e vice-versa.
+
+Derivadas:
+- tg θ = sen θ / cos θ
+- sec θ = 1/cos θ, cossec θ = 1/sen θ, cotg θ = cos θ/sen θ
+
+## Lei dos Senos: Triangulos Não-Retângulos
+
+Para qualquer triângulo com lados a, b, c e ângulos A, B, C opostos:
+
+**a/sen A = b/sen B = c/sen C = 2R**
+
+onde R é o raio da circunferência circunscrita.
+
+**Quando usar:** quando você tem dois ângulos e um lado, ou dois lados e um ângulo oposto a um deles.
+
+**Contextos ENEM:** cálculo de distâncias inacessíveis (largura de rio, altura de prédio), levantamentos topográficos, navegação.
+
+## Lei dos Cossenos: O Teorema de Pitágoras Generalizado
+
+Para triângulo com lados a, b, c e ângulo C entre os lados a e b:
+
+**c² = a² + b² – 2ab·cos C**
+
+**Quando usar:** quando você tem dois lados e o ângulo entre eles, ou os três lados e quer um ângulo.
+
+**Atenção:** Se C = 90°, cos 90° = 0 e a fórmula vira o Teorema de Pitágoras: c² = a² + b².
+
+## Trigonometria no Círculo Trigonométrico
+
+O círculo trigonométrico (raio = 1, centro na origem) permite definir sen e cos para qualquer ângulo:
+
+- **1° quadrante (0° a 90°):** sen > 0, cos > 0
+- **2° quadrante (90° a 180°):** sen > 0, cos < 0
+- **3° quadrante (180° a 270°):** sen < 0, cos < 0
+- **4° quadrante (270° a 360°):** sen < 0, cos > 0
+
+**Ângulos suplementares:** sen(180° – θ) = sen θ; cos(180° – θ) = –cos θ
+
+O ENEM raramente vai além desses conceitos básicos do círculo.
+
+## Como o ENEM Contextualiza Trigonometria
+
+As questões nunca são "calcule sen 30°". Sempre há contexto:
+
+- **Altura de obstáculo:** "Um observador a 50m de distância vê o topo de uma árvore a 60°. Qual a altura?"
+- **Inclinação de rampa:** "Uma rampa faz ângulo de 30° com a horizontal. Com 6m de comprimento, qual a altura que ela vence?"
+- **Navegação:** "Um barco navega N45°E por 20km. Qual o deslocamento leste?"
+- **Sombra e ângulo solar:** "Com o sol a 45° do horizonte, um poste projeta sombra de 5m. Qual a altura do poste?"
+
+**Técnica:** desenhe sempre o triângulo. Identifique qual ângulo e quais lados são conhecidos. Aplique a razão correta.
+
+## Erros Mais Comuns em Trigonometria
+
+**Erro 1: Confundir cateto oposto com adjacente**
+Sempre identifique O ÂNGULO REFERÊNCIA. O cateto oposto é o que não toca esse ângulo. O adjacente é o que toca.
+
+**Erro 2: Confundir Lei dos Senos com Pitágoras**
+Pitágoras só funciona em triângulo **retângulo**. Para triângulos sem ângulo de 90°, use Lei dos Senos ou dos Cossenos.
+
+**Erro 3: Não simplificar radicais**
+O ENEM frequentemente tem alternativas com √2 e √3 que precisam ser simplificadas. Pratique: √12 = 2√3, √8 = 2√2 etc.
+
+## Plano de Estudo: 3 Semanas
+
+**Semana 1:** Razões trigonométricas + tabela de ângulos notáveis
+- Memorize a tabela
+- Resolva 20 questões de triângulo retângulo
+
+**Semana 2:** Leis dos Senos e Cossenos
+- Entenda QUANDO usar cada uma
+- Resolva questões de contexto (altitude, distância)
+
+**Semana 3:** Revisão + Círculo trigonométrico
+- Pratique com questões ENEM de Trigonometria de 2018 a 2024
+- Analise os erros
+
+**[Praticar Trigonometria com questões reais do ENEM](/auth/register)**
+    `,
+  },
+  {
+    slug: 'nota-de-corte-fisioterapia-enem',
+    title: 'Nota de Corte Fisioterapia ENEM 2025 — SISU e Universidades Federais',
+    description: 'Nota de corte para Fisioterapia no SISU 2025. Veja as notas nas principais universidades federais, perspectivas de mercado e como planejar sua candidatura.',
+    date: '2026-06-14',
+    readTime: 5,
+    content: `
+Fisioterapia é um dos cursos da área de saúde com notas de corte mais acessíveis do que Medicina, mas ainda exige boa preparação para o ENEM. Veja o que esperar do SISU 2026.
+
+## Nota de Corte Fisioterapia SISU 2025
+
+| Universidade | Turno | Nota de Corte Aprox. (AC) |
+|---|---|---|
+| UFRJ | Integral | 690–720 |
+| UFMG | Integral | 680–710 |
+| USP-Ribeirão Preto | Integral | 700–730 |
+| UnB | Integral | 665–695 |
+| UFSC | Integral | 655–685 |
+| UFPE | Integral | 640–670 |
+| UFC | Integral | 625–655 |
+| UFBA | Integral | 615–645 |
+| UFRN | Integral | 600–635 |
+| UFPB | Integral | 580–615 |
+| UFMS | Integral | 560–595 |
+| UFERSA | Integral | 545–580 |
+
+*Notas aproximadas. Consulte o site oficial do SISU para dados exatos do seu ciclo.*
+
+## Por que Fisioterapia Tem Nota Mais Alta que Outros Cursos de Saúde
+
+Fisioterapia é um dos cursos de saúde com mais prestígio e demanda crescente, mas com menos vagas nas federais comparado a Enfermagem e Farmácia:
+
+- **Mercado em expansão:** envelhecimento da população + esportes + reabilitação pós-pandemia
+- **Menor oferta de vagas nas federais** em relação à demanda
+- **Alta concorrência em São Paulo e Rio** (campi têm reputação nacional)
+
+## Campo de Trabalho em Fisioterapia
+
+A Fisioterapia tem diversas áreas de especialização:
+
+**Clínicas:**
+- Fisioterapia ortopédica e traumatológica (a mais comum)
+- Neurológica (AVC, Parkinson, lesões medulares)
+- Cardiorrespiratória (UTI, pós-operatório)
+- Pediátrica e geriátrica
+
+**Emergentes:**
+- Fisioterapia esportiva (clubes, seleções, academias)
+- Saúde da mulher (obstetrícia, incontinência urinária)
+- Fisioterapia estética (drenagem linfática, Pilates clínico)
+- Telerreabilitação (pós-pandemia)
+
+Salário médio recém-formado: R$2.500–4.000. Com especialização e experiência: R$6.000–15.000+.
+
+## Fisioterapia no Particular: ProUni e Mensalidades
+
+Para quem não passa no SISU, há boas opções no particular:
+
+**ProUni:** Fisioterapia é elegível. Com nota ENEM acima de 500–550, é possível conseguir bolsa integral em várias faculdades privadas bem avaliadas pelo MEC.
+
+**Mensalidades:** R$800–1.800/mês em boas faculdades particulares. Verifique o conceito do curso no e-MEC antes de escolher.
+
+## Como o ENEM Impacta o Acesso à Fisioterapia
+
+Fisioterapia nos federais não tem pesos muito diferentes por área — todas as notas ENEM contam de forma similar. Mas algumas universidades dão peso maior a:
+- Ciências da Natureza (Química, Física, Biologia)
+- Matemática
+
+Verifique os pesos específicos de cada universidade no SISU antes de se inscrever.
+
+## Estratégia para Candidatos a Fisioterapia
+
+1. **Mire em Ciências da Natureza:** Biologia é a disciplina mais relevante para o curso. Boa nota aqui ajuda na candidatura e na base para o curso.
+2. **Não negligencie a Redação:** 1000 pontos de redação fecham a diferença entre candidatos com notas parecidas
+3. **Considere campi do interior:** Mesma instituição, menor concorrência
+4. **Use as cotas se elegível:** Notas de corte pelo L1 ou L5 são 30–60 pontos menores
+
+## Fisioterapia vs. Outros Cursos de Saúde
+
+| Curso | Nota de Corte Média (top federais) | Duração | Salário inicial |
+|-------|-----------------------------------|---------|----------------|
+| Medicina | 780–820 | 6 anos + residência | R$8.000–20.000 |
+| Odontologia | 700–750 | 5 anos | R$4.000–8.000 |
+| Fisioterapia | 640–700 | 5 anos | R$2.500–4.000 |
+| Enfermagem | 580–640 | 5 anos | R$2.000–3.500 |
+| Farmácia | 620–670 | 5 anos | R$3.000–5.000 |
+
+**[Calcular minha nota ENEM e comparar com cortes de Fisioterapia](/calcular-nota)**
+    `,
+  },
+  {
+    slug: 'nota-de-corte-economia-enem',
+    title: 'Nota de Corte Economia ENEM 2025 — SISU, Universidades e Mercado',
+    description: 'Nota de corte para Ciências Econômicas no SISU 2025. Veja as notas nas principais federais, FGV e USP, e como planejar sua candidatura para o ENEM 2026.',
+    date: '2026-06-14',
+    readTime: 5,
+    content: `
+Ciências Econômicas é um dos cursos mais valorizados do mercado financeiro e público. Mas as notas de corte variam muito — de muito alta nas top universidades a acessível nas federais do interior.
+
+## Nota de Corte Economia SISU 2025
+
+| Universidade | Turno | Nota de Corte Aprox. (AC) |
+|---|---|---|
+| USP | Integral | 740–780 |
+| UNICAMP | Integral | 720–755 |
+| UFMG | Integral | 710–745 |
+| UFRJ | Integral | 700–735 |
+| UnB | Integral | 695–730 |
+| UFRGS | Integral | 685–720 |
+| UFSC | Integral | 670–705 |
+| UFC | Integral | 645–680 |
+| UFPE | Integral | 640–675 |
+| UFBA | Noturno | 620–655 |
+| UFRN | Noturno | 600–635 |
+| UFPB | Noturno | 580–615 |
+| UFMS | Noturno | 555–590 |
+
+*Notas aproximadas. Confira o SISU oficial para dados exatos.*
+
+**FGV (particular, não participa do SISU):** É o curso de Economia mais concorrido do Brasil. Processo seletivo próprio altíssimo. Não usa nota do ENEM diretamente.
+
+## Campo de Trabalho em Economia
+
+Economistas atuam em praticamente todos os setores:
+
+**Setor financeiro (maior empregador):**
+- Bancos e corretoras (análise de investimentos, crédito)
+- Gestoras de fundos e assets
+- Fintechs e consultorias financeiras
+
+**Setor público (carreira estável):**
+- Banco Central do Brasil (concurso altamente concorrido)
+- BNDES, Tesouro Nacional, IPEA, IBGE
+- Prefeituras e estados (planejamento orçamentário)
+
+**Setor privado e consultoria:**
+- Consultorias econômicas (McKinsey, Bain, BCG contratam economistas)
+- Regulação e compliance em grandes empresas
+- Pesquisa e think tanks
+
+Salário médio inicial: R$3.500–6.000. Economistas de destaque em bancos ou Banco Central: R$15.000–40.000+.
+
+## Economia vs. Administração vs. Contabilidade
+
+Candidatos frequentemente têm dúvida entre as três:
+
+| Aspecto | Economia | Administração | Contabilidade |
+|---------|----------|--------------|--------------|
+| Nota de corte (top) | Alta | Média-Alta | Média |
+| Foco | Teoria econômica, mercados | Gestão, estratégia | Finanças, tributos |
+| Concurso público | BACEN, BNDES, IPEA | Gerência pública | CRC, Receita Federal |
+| Mercado financeiro | Excelente | Bom | Bom |
+| Matemática no curso | Alta | Média | Média-alta |
+
+## Pesos no SISU para Economia
+
+Ciências Econômicas geralmente dá peso maior para:
+- **Matemática:** peso 2 ou 3 na maioria das instituições
+- **Ciências Humanas:** peso 2 em universidades que valorizam raciocínio social
+
+Candidatos com nota muito boa em Matemática têm vantagem considerável.
+
+## ProUni para Economia
+
+Economia no particular tem boas opções de bolsa ProUni:
+- Nota a partir de 500–550 para bolsa em faculdades privadas reconhecidas
+- Faculdades como Mackenzie, PUC, FAAP têm bom conceito e aceitam ProUni
+
+Verifique o Conceito de Curso (CC) e o Conceito Preliminar de Curso (CPC) no e-MEC antes de escolher.
+
+## Estratégia para Candidatos a Economia
+
+1. **Invista em Matemática:** É o maior diferencial entre candidatos para Economia
+2. **Ciências Humanas alta:** Economia conecta com História e Sociologia
+3. **Redação nota 900+:** Candidatos próximos na nota numérica são separados pela redação
+4. **Considere noturno nas federais:** Menor concorrência, mesma qualidade
+
+## Economia nas Melhores Federais: Vale a Pena Tentar?
+
+Sim — a qualidade das federais brasileiras em Economia é alta. UFMG, UFRJ, UnB e UFRGS formam profissionais que competem igualmente com os de USP e UNICAMP no mercado.
+
+A diferença de nota de corte entre USP (740+) e UFRJ (700+) é de 40 pontos — que podem ser conquistados com bom estudo de Matemática e Redação.
+
+**[Calcular minha nota ENEM e ver onde estou para Economia](/calcular-nota)**
+    `,
+  },
+  {
+    slug: 'nota-de-corte-jornalismo-enem',
+    title: 'Nota de Corte Jornalismo ENEM 2025 — SISU e Perspectivas de Carreira',
+    description: 'Nota de corte para Jornalismo no SISU 2025. Veja as notas nas federais, mercado de trabalho em 2026, diferença entre Jornalismo e Comunicação Social.',
+    date: '2026-06-14',
+    readTime: 5,
+    content: `
+Jornalismo é um dos cursos de Comunicação com mercado em transformação — mas ainda com grande demanda por profissionais qualificados. As notas de corte nas federais variam muito por região.
+
+## Nota de Corte Jornalismo SISU 2025
+
+| Universidade | Nota de Corte Aprox. (AC) |
+|---|---|
+| USP | 720–755 |
+| UFRJ (Escola de Comunicação) | 690–720 |
+| UFMG | 680–710 |
+| UnB | 670–705 |
+| UFRGS | 655–690 |
+| UFSC | 645–680 |
+| UFC | 620–655 |
+| UFPE | 610–645 |
+| UFBA | 595–630 |
+| UFRN | 580–615 |
+| UFPB | 560–595 |
+| UFMA | 530–565 |
+
+*Algumas instituições oferecem Comunicação Social (com habilitação em Jornalismo), não o curso separado. Verifique no SISU.*
+
+## O Mercado de Jornalismo em 2026
+
+O mercado mudou muito desde 2015. O que está crescendo:
+
+**Jornalismo digital e multiplataforma:**
+- Portais e newsletters independentes (como The Intercept Brasil, Piauí, Agência Pública)
+- Jornalismo em vídeo para redes sociais e YouTube
+- Podcasts de notícias e análise
+- Fact-checking e jornalismo de dados
+
+**Comunicação corporativa:**
+- Assessoria de imprensa e relações públicas
+- Conteúdo corporativo (branded content)
+- ESG e comunicação sustentável
+- Comunicação política e campanhas
+
+**O que está encolhendo:**
+- Jornais impressos e tevê aberta tradicionais
+- Jornalismo de redação grande
+
+Salário inicial: R$1.800–3.000 em redação. Assessoria de imprensa e comunicação corporativa: R$3.000–6.000+.
+
+## Jornalismo vs. Comunicação Social vs. Publicidade
+
+Candidatos costumam se perguntar qual curso escolher:
+
+| Curso | Nota de Corte | Foco | Mercado |
+|-------|--------------|------|---------|
+| Jornalismo | Média-Alta | Reportagem, edição, narrativa | Mídia, assessoria, conteúdo |
+| Relações Públicas | Média | Imagem institucional | Empresas, governo, ONGs |
+| Publicidade e Propaganda | Média-Alta | Marketing, criação | Agências, marketing digital |
+| Rádio, TV e Internet | Média | Produção audiovisual | Streaming, redes sociais |
+
+## Diferencial para Jornalismo: Português e Redação
+
+O ENEM tem peso diferente para Jornalismo em muitas universidades:
+- **Linguagens:** peso maior (comunicação exige domínio da língua)
+- **Ciências Humanas:** peso significativo (contexto histórico/social)
+
+**Redação nota 900+** é especialmente importante para Jornalismo — é a prova direta da habilidade central da profissão.
+
+## Jornalismo no Particular: ProUni
+
+Jornalismo tem boa disponibilidade de bolsas ProUni:
+- Notas a partir de 500–520 para bolsa integral em muitas faculdades
+- Faculdades de referência com ProUni: Cásper Líbero (SP), PUC-RS, Metodista
+
+Verifique o histórico de aprovação no trabalho de conclusão de curso e se a faculdade oferece laboratórios bem equipados.
+
+## Habilidades Complementares para Jornalistas em 2026
+
+O mercado de comunicação valoriza profissionais com:
+- **Produção de vídeo e áudio** (edição básica em Premiere, Audacity)
+- **Análise de dados** (planilhas, Python básico para dados jornalísticos)
+- **SEO e métricas digitais** (Google Analytics, entender o algoritmo)
+- **Inglês avançado** (fontes internacionais, publicações globais)
+
+Cursos livres complementam a formação durante a graduação — comece cedo.
+
+**[Calcular minha nota e verificar notas de corte no SISU](/calcular-nota)**
+    `,
+  },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)
@@ -5690,10 +6646,10 @@ export type BlogCategory = 'Gabarito' | 'Questões' | 'Redação' | 'Universidad
 export function getCategory(slug: string): BlogCategory {
   if (slug.startsWith('gabarito')) return 'Gabarito'
   if (slug.startsWith('redacao') || slug.includes('como-fazer-redacao') || slug.includes('redacao-enem')) return 'Redação'
-  if (slug.includes('nota-de-corte') || slug.includes('sisu') || slug.includes('prouni') || slug.includes('medicina') || slug.includes('direito') || slug.includes('engenharia') || slug.includes('psicologia') || slug.includes('odontologia') || slug.includes('computacao') || slug.includes('agronomia') || slug.includes('contabilidade') || slug.includes('pedagogia') || slug.includes('fies')) return 'Universidades'
+  if (slug.includes('nota-de-corte') || slug.includes('sisu') || slug.includes('prouni') || slug.includes('medicina') || slug.includes('direito') || slug.includes('engenharia') || slug.includes('psicologia') || slug.includes('odontologia') || slug.includes('computacao') || slug.includes('agronomia') || slug.includes('contabilidade') || slug.includes('pedagogia') || slug.includes('fies') || slug.includes('fisioterapia') || slug.includes('economia') || slug.includes('jornalismo')) return 'Universidades'
   if (slug.includes('cronograma') || slug.includes('quanto-tempo') || slug.includes('enem-2026') || slug.includes('enem-resultado') || slug.includes('resultado-quando')) return 'Planejamento'
   if (slug.includes('tri-enem') || slug.includes('calcular-nota') || slug.includes('como-funciona') || slug.includes('ppcs') || slug.includes('treineiro') || slug.includes('segunda-chance') || slug.includes('enem-digital') || slug.includes('enem-2025')) return 'Como Funciona'
-  if (slug.includes('fisica') || slug.includes('quimica') || slug.includes('biologia') || slug.includes('historia') || slug.includes('geografia') || slug.includes('filosofia') || slug.includes('matematica') || slug.includes('ingles') || slug.includes('ciencias') || slug.includes('literatura') || slug.includes('geometria') || slug.includes('estatistica') || slug.includes('interpretacao')) return 'Por Matéria'
+  if (slug.includes('fisica') || slug.includes('quimica') || slug.includes('biologia') || slug.includes('historia') || slug.includes('geografia') || slug.includes('filosofia') || slug.includes('matematica') || slug.includes('ingles') || slug.includes('ciencias') || slug.includes('literatura') || slug.includes('geometria') || slug.includes('estatistica') || slug.includes('interpretacao') || slug.includes('portugues') || slug.includes('trigonometria') || slug.includes('funcoes')) return 'Por Matéria'
   if (slug.includes('simulado') || slug.includes('questoes')) return 'Questões'
   if (slug.includes('melhor-app') || slug.includes('alternativa') || slug.includes('online-gratis') || slug.includes('vs-')) return 'Comparativos'
   return 'Estratégias'
