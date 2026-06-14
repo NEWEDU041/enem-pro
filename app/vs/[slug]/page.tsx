@@ -111,6 +111,46 @@ const COMPETITORS: Record<string, Competitor> = {
       'Parceria oficial com o INEP para o ENEM',
     ],
   },
+  poliedro: {
+    name: 'Sistema Poliedro',
+    slug: 'poliedro',
+    price: 'R$79–129/mês',
+    desc: 'Sistema de ensino premium focado em vestibulares de elite (FUVEST, UNICAMP) com material didático impresso e plataforma online.',
+    focus: 'Preparação vestibulares top + ENEM',
+    cons: [
+      'Custo 5–9× maior que o ENEM Pro',
+      'Foco em vestibulares de elite — não otimizado só para ENEM',
+      'Banco de questões próprio, não as provas reais do INEP',
+      'Sem explicação de IA personalizada por questão errada',
+      'Sem modo revisão automático de erros',
+      'Material impresso (livros) — não substituível por questões do INEP',
+    ],
+    pros: [
+      'Material didático de alta qualidade',
+      'Ótimo para quem mira FUVEST/UNICAMP além do ENEM',
+      'Professores especializados por disciplina',
+    ],
+  },
+  gauss: {
+    name: 'Gauss Educação',
+    slug: 'gauss',
+    price: 'R$29–59/mês',
+    desc: 'Plataforma de questões e exercícios para ENEM e vestibulares com banco extenso de itens e estatísticas de desempenho.',
+    focus: 'Banco de questões + desempenho',
+    cons: [
+      'Custo 2–4× maior que o ENEM Pro',
+      'Interface menos moderna e fluida',
+      'Sem explicação de IA personalizada por questão',
+      'Sem cronograma de estudos integrado',
+      'Sem calculadora de nota TRI',
+      'Sem gabarito histórico interativo com contexto por ano',
+    ],
+    pros: [
+      'Banco extenso de questões',
+      'Estatísticas de desempenho por assunto',
+      'Cobre ENEM e outros vestibulares',
+    ],
+  },
 }
 
 export async function generateStaticParams() {

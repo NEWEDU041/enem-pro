@@ -4604,7 +4604,1074 @@ O ENEM Pro tem todas as questões de 2009 a 2024 com explicação de IA para cad
   },
 ]
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4]
+const EXTRA_POSTS_5: BlogPost[] = [
+  {
+    slug: 'como-estudar-fisica-enem',
+    title: 'Como Estudar Física para o ENEM: Guia Completo 2026',
+    description: 'Aprenda como estudar Física para o ENEM de forma eficiente. Veja os temas que mais caem, estratégias de estudo e como resolver questões da banca INEP.',
+    date: '2026-06-14',
+    readTime: 8,
+    content: `
+Física assusta muitos candidatos, mas é uma das áreas com maior potencial de ganho de pontos no ENEM. Com a estratégia certa, você pode dominar os temas que mais caem e melhorar sua nota significativamente.
+
+## O que Cai em Física no ENEM
+
+O ENEM testa Física dentro de Ciências da Natureza (45 questões no total com Química e Biologia). Física representa em média **15–18 questões por prova**.
+
+Os temas mais recorrentes nos últimos 10 anos:
+
+| Tema | Frequência |
+|------|-----------|
+| Mecânica (cinemática, dinâmica, energia) | 4–6 questões |
+| Eletromagnetismo (circuitos, indução, ondas) | 3–5 questões |
+| Óptica e ondulatória | 2–3 questões |
+| Termodinâmica e calor | 2–3 questões |
+| Física Moderna (radioatividade, efeito fotoelétrico) | 1–2 questões |
+
+## Estratégia de Estudo por Fase
+
+### Fase 1 — Base (4–8 semanas)
+
+Comece pelos temas de maior peso e que formam a base dos outros:
+
+**Mecânica:**
+- Cinemática: MRU, MRUV, queda livre, lançamento oblíquo
+- Dinâmica: Leis de Newton, força resultante, atrito
+- Energia: trabalho, potência, energia cinética, potencial
+- Quantidade de movimento: colisões, impulso
+
+**Por que começar aqui:** Mecânica corresponde a ~30% das questões de Física no ENEM e serve de base para outras áreas.
+
+### Fase 2 — Eletromagnetismo (3–5 semanas)
+
+- Eletrostática: carga elétrica, lei de Coulomb, campo elétrico
+- Circuitos: resistência, Ohm, associação de resistores
+- Eletromagnetismo: campo magnético, indução, transformadores
+- Ondas eletromagnéticas: espectro, aplicações
+
+**Dica:** Muitas questões de eletricidade envolvem aplicações do dia a dia — chuveiro elétrico, conta de luz, aparelhos elétricos.
+
+### Fase 3 — Óptica, Termodinâmica e Física Moderna (2–3 semanas)
+
+- Óptica: reflexão, refração, lentes, espelhos
+- Termodinâmica: temperatura, calor, leis da termodinâmica
+- Física Moderna: radioatividade, efeito fotoelétrico, relatividade básica
+
+## Como o ENEM Cobra Física
+
+O ENEM não pede decoreba de fórmulas. As questões pedem **raciocínio e aplicação**:
+
+- Contexto real: questões sobre aparelhos elétricos, carros, aviões, medicina
+- Gráficos: interpretação de gráfico v×t, F×t, E×x etc.
+- Estimativa: calcular com dados aproximados
+- Texto: extrair informações físicas de um parágrafo
+
+**Exemplo de abordagem ENEM:** Em vez de "calcule a velocidade de um objeto", a prova diz "um ciclista acelera uniformemente de 5 m/s a 15 m/s em 20 segundos. Qual a distância percorrida?"
+
+## Fórmulas que Mais Caem
+
+Você vai usar essas dezenas de vezes:
+
+**Cinemática:**
+- v = v₀ + at
+- s = s₀ + v₀t + at²/2
+- v² = v₀² + 2aΔs
+
+**Energia:**
+- Ec = mv²/2
+- Ep = mgh
+- W = FΔs·cos θ
+
+**Eletricidade:**
+- V = R·I (Lei de Ohm)
+- P = V·I = V²/R = I²R
+- Q = It
+
+**Óptica:**
+- n = c/v (índice de refração)
+- 1/f = 1/p + 1/q (Gauss)
+
+## Erro Mais Comum dos Candidatos
+
+**Tentar memorizar tudo.** Física no ENEM exige entender o conceito, não a fórmula. Quem entende por que F = ma funciona resolve qualquer variação da questão. Quem só decorou a fórmula trava na primeira questão diferente.
+
+**Como evitar:** Para cada fórmula que estudar, resolva 3 questões que pedem o mesmo conceito em contextos diferentes.
+
+## Plano de 90 Dias para Física
+
+**Dias 1–30:** Mecânica completa. 2h por dia. Resolva 10 questões ENEM antigas por semana de cada subtema.
+
+**Dias 31–60:** Eletromagnetismo. 1,5h por dia. Foco especial em circuitos elétricos (aparecem muito).
+
+**Dias 61–80:** Óptica + Termodinâmica. 1h por dia cada.
+
+**Dias 81–90:** Física Moderna + revisão geral. Simulados completos de Ciências da Natureza.
+
+## Recursos Recomendados
+
+**Para questões reais:** Pratique com as provas do ENEM de 2009 a 2024. Questões reais da banca INEP têm padrão próprio — muito diferente de livros didáticos.
+
+O ENEM Pro tem todas essas questões organizadas por disciplina e ano. Quando você erra, a IA explica o raciocínio completo da questão — muito mais eficiente do que buscar a resolução no YouTube.
+
+**Para conceitos:** Khan Academy tem vídeos bons de Física básica. Para ENEM especificamente, foque em questões reais do INEP.
+
+## Física Moderna: o Diferencial
+
+Muitos candidatos ignoram Física Moderna por parecer difícil. Mas o ENEM cobra os conceitos de forma acessível:
+
+- **Radioatividade:** decaimento alfa, beta, gama. O ENEM pergunta sobre aplicações (medicina nuclear, datação, usinas)
+- **Efeito fotoelétrico:** relação entre frequência da luz e emissão de elétrons. Einstein, não decoreba
+- **Relatividade básica:** dilatação do tempo, encurtamento do espaço — contexto conceitual, sem matemática pesada
+
+Estudar esses temas coloca você à frente de quem ignora.
+
+## Resumo: Prioridades para Física ENEM
+
+1. **Mecânica** — maior peso, base de tudo
+2. **Circuitos elétricos** — aparecem todo ano, costumam ser resolvíveis
+3. **Ondas e óptica** — frequentes, conceitual
+4. **Fisica Moderna** — diferencial de nota
+
+Pratique com questões reais do ENEM. É a forma mais eficiente de aprender o estilo da banca.
+
+**[Começar grátis no ENEM Pro — 10 questões de Física por dia](/auth/register)**
+    `,
+  },
+  {
+    slug: 'como-estudar-biologia-enem',
+    title: 'Como Estudar Biologia para o ENEM: Temas, Estratégia e Dicas 2026',
+    description: 'Guia completo de Biologia para o ENEM 2026. Veja os temas mais cobrados, estratégia de estudo por fase e como resolver questões da banca INEP.',
+    date: '2026-06-14',
+    readTime: 8,
+    content: `
+Biologia é uma das disciplinas com maior quantidade de temas no ENEM, mas também uma das mais acessíveis quando você estuda com foco. A boa notícia: os temas mais cobrados são sempre os mesmos.
+
+## O que Cai em Biologia no ENEM
+
+Biologia faz parte de Ciências da Natureza (45 questões com Física e Química). Biologia representa em média **15–17 questões por prova**.
+
+Distribuição histórica dos últimos 10 anos:
+
+| Tema | Frequência |
+|------|-----------|
+| Ecologia e meio ambiente | 4–6 questões |
+| Genética e hereditariedade | 3–5 questões |
+| Evolução | 2–3 questões |
+| Citologia (célula) | 2–3 questões |
+| Fisiologia humana | 2–3 questões |
+| Biotecnologia e saúde | 1–2 questões |
+
+## Por que Ecologia É Prioridade
+
+Ecologia lidera o ranking de frequência há mais de uma década. O ENEM cobra:
+
+- Cadeias e teias alimentares
+- Ciclos biogeoquímicos (carbono, nitrogênio, fósforo)
+- Fluxo de energia nas pirâmides
+- Biomas brasileiros (Amazônia, Cerrado, Mata Atlântica, Caatinga)
+- Impactos ambientais: desmatamento, queimadas, poluição, aquecimento global
+- Biodiversidade e conservação
+
+**Dica:** Questões de ecologia frequentemente trazem textos sobre notícias ambientais reais. Fique atento ao noticiário sobre questões ambientais brasileiras — o ENEM usa esses contextos.
+
+## Genética: Como o ENEM Cobra
+
+Genética é o segundo tema mais frequente. O ENEM vai além de cruzamentos simples de Mendel:
+
+- Primeira e Segunda Lei de Mendel
+- Herança ligada ao sexo (daltonismo, hemofilia)
+- Alelos múltiplos (tipo sanguíneo ABO)
+- Interação gênica
+- Mutação genética
+- DNA e síntese proteica
+
+**O que o ENEM NÃO cobra em genética:** Exercícios de quadro de Punnett simples sem contexto. A prova sempre apresenta uma situação real (família com histórico de doença, análise forense) e pede para você interpretar.
+
+## Evolução: Mais Conceitual do que Parece
+
+Evolução no ENEM é majoritariamente conceitual:
+
+- Darwin e a seleção natural
+- Evidências da evolução (fósseis, anatomia comparada, embriologia)
+- Especiação e isolamento reprodutivo
+- Evolução humana básica
+- Resistência bacteriana como exemplo de evolução
+
+**Questão típica ENEM:** apresentar uma situação de resistência a antibióticos e pedir que o candidato explique à luz da seleção natural.
+
+## Citologia: O Que Estudar
+
+Célula no ENEM foca em:
+
+- Estrutura da célula procariótica vs. eucariótica
+- Organelas e suas funções (mitocôndria, cloroplasto, ribossomo)
+- Divisão celular: mitose e meiose
+- Metabolismo celular: respiração aeróbia e fotossíntese
+
+**Relação com outros temas:** Fotossíntese conecta com ecologia (produtores na cadeia alimentar). Meiose conecta com genética (formação de gametas).
+
+## Fisiologia Humana: Temas Frequentes
+
+- Sistema digestório e nutrição
+- Sistema circulatório: coração, sangue, pressão arterial
+- Sistema respiratório: pulmões, trocas gasosas
+- Sistema nervoso: neurônios, reflexos
+- Doenças sexualmente transmissíveis e saúde pública
+- Sistema endócrino: hormônios
+
+O ENEM frequentemente contextualiza com saúde pública — epidemias, vacinação, alimentação.
+
+## Estratégia de Estudo: 12 Semanas
+
+**Semanas 1–3 — Ecologia (prioridade máxima)**
+Dedique pelo menos 6h por semana. Resolva questões ENEM de 2015 a 2024 sobre ecologia. Muitas questões se repetem em padrão.
+
+**Semanas 4–6 — Genética**
+Entenda os princípios antes de resolver exercícios. Foque em interpretação de situações, não em cálculos mecânicos.
+
+**Semanas 7–8 — Evolução**
+2 semanas é suficiente. Foque em seleção natural e evidências da evolução.
+
+**Semanas 9–10 — Citologia**
+Memorize as funções das organelas e entenda fotossíntese + respiração.
+
+**Semanas 11–12 — Fisiologia + Revisão**
+Revisão dos temas principais + simulados de Ciências da Natureza completo.
+
+## Biologia no Contexto ENEM: Exemplos Reais
+
+O ENEM de 2024 trouxe questões sobre:
+- Crise hídrica e ciclo da água
+- CRISPR e edição genética
+- Resistência antimicrobiana
+- Biomas ameaçados
+
+O padrão é sempre: texto ou imagem contextualiza → você aplica o conhecimento biológico.
+
+## Erro Mais Comum em Biologia
+
+Estudar nomenclatura sem entender o processo. Saber que "mitocôndria é a usina de energia da célula" sem entender respiração aeróbia não resolve nenhuma questão do ENEM.
+
+O ENEM testa raciocínio. Pratique lendo questões e identificando qual conceito está sendo testado antes de olhar as alternativas.
+
+## Biotecnologia: O Diferencial
+
+Questões sobre biotecnologia aparecem 1–2 vezes por ano e costumam discriminar bem os candidatos:
+
+- Transgênicos: como funcionam, vantagens, polêmicas
+- Clonagem e células-tronco
+- PCR e análise de DNA
+- Vacinas: imunidade ativa e passiva
+
+Não é necessário conhecimento técnico profundo — o ENEM sempre apresenta um texto explicativo e pede interpretação.
+
+## Biomas Brasileiros: Saber de Cor
+
+O ENEM cobra os 6 biomas com frequência:
+
+| Bioma | Características | Ameaças |
+|-------|----------------|---------|
+| Amazônia | Maior biodiversidade | Desmatamento |
+| Cerrado | Savana rica em espécies | Agropecuária |
+| Mata Atlântica | 12% remanescente | Urbanização |
+| Caatinga | Semiárido único | Desertificação |
+| Pampa | Sul do Brasil | Monocultura |
+| Pantanal | Maior planície alagável | Queimadas |
+
+## Resumo: Prioridades em Biologia
+
+1. **Ecologia** — maior peso, aparece todo ano
+2. **Genética** — segundo mais frequente, conceitual e interpretativo
+3. **Evolução** — conceitual, acessível com 2 semanas de estudo
+4. **Citologia** — base para entender outros temas
+5. **Biotecnologia** — diferencial para notas altas
+
+Pratique com questões reais do INEP. O estilo da banca é muito específico e você precisa conhecê-lo.
+
+**[Treinar Biologia agora — 10 questões grátis por dia](/auth/register)**
+    `,
+  },
+  {
+    slug: 'como-estudar-quimica-enem',
+    title: 'Como Estudar Química para o ENEM: Temas que Mais Caem e Estratégia 2026',
+    description: 'Guia de estudo de Química para o ENEM 2026. Os temas mais cobrados, estratégia por fase, dicas para questões contextualizadas e como resolver a banca INEP.',
+    date: '2026-06-14',
+    readTime: 7,
+    content: `
+Química é, para muitos candidatos, a disciplina mais temida do ENEM. Mas quando você entende o que a banca INEP realmente cobra, percebe que não é tão difícil quanto parece.
+
+## A Realidade de Química no ENEM
+
+O ENEM não testa memorização de reações orgânicas ou cálculos estequiométricos complexos. A prova cobra **entendimento de conceitos no contexto do cotidiano**.
+
+Química faz parte de Ciências da Natureza (45 questões com Física e Biologia). Química representa em média **14–16 questões por prova**.
+
+## Temas Mais Cobrados (últimos 10 anos)
+
+| Tema | Frequência | Prioridade |
+|------|-----------|-----------|
+| Química Orgânica (funções, reações) | 4–6 questões | Alta |
+| Soluções e concentração | 2–3 questões | Alta |
+| Ligações químicas | 2–3 questões | Alta |
+| Eletroquímica (pilhas, eletrólise) | 1–2 questões | Média |
+| Radioatividade | 1–2 questões | Média |
+| Equilíbrio químico | 1–2 questões | Média |
+| Termoquímica | 1–2 questões | Média |
+
+## Química Orgânica: Prioridade Máxima
+
+Química orgânica aparece em praticamente todas as provas do ENEM. O que saber:
+
+**Funções orgânicas (saber identificar):**
+- Hidrocarbonetos (alcanos, alcenos, alcinos, benzeno)
+- Álcoois, éteres, aldeídos, cetonas
+- Ácidos carboxílicos, ésteres, aminas, amidas
+
+**Reações importantes:**
+- Combustão (completa e incompleta)
+- Adição (nos alcenos)
+- Substituição (nos alcanos e aromáticos)
+- Esterificação e saponificação
+- Fermentação
+
+**Como o ENEM cobra:** Sempre contextualizado. Questões sobre:
+- Combustíveis (etanol, gasolina, biodiesel)
+- Plásticos e polímeros
+- Agrotóxicos e suas estruturas
+- Medicamentos
+- Alimentos (açúcares, gorduras, proteínas)
+
+**Dica prática:** Aprenda a identificar as funções orgânicas pela fórmula estrutural. O ENEM sempre apresenta a estrutura e pede identificação ou propriedade.
+
+## Soluções: Sempre Contextualizado
+
+Questões de soluções no ENEM frequentemente envolvem:
+- Concentração em g/L e mol/L
+- Diluição: como calcular concentração após adicionar água
+- Misturas de soluções
+- pH e acidez/basicidade
+
+Contextos típicos: soro fisiológico, desinfetantes, fertilizantes, bebidas alcoólicas.
+
+## Ligações Químicas e Propriedades
+
+O ENEM cobra ligações no contexto de propriedades dos materiais:
+- Por que água tem ponto de ebulição alto? (pontes de hidrogênio)
+- Por que o sal dissolve em água? (ligação iônica vs. polar)
+- Por que o diamante é tão duro? (ligação covalente em rede)
+
+Não é "decorar os tipos de ligação" — é entender por que as propriedades existem.
+
+## Estratégia de Estudo: 10 Semanas
+
+**Semanas 1–3 — Química Orgânica (base)**
+Foque em reconhecer funções orgânicas e entender as principais reações. Use questões ENEM de 2015 a 2024.
+
+**Semanas 4–5 — Soluções e Concentração**
+Pratique cálculos simples. O ENEM raramente pede cálculos complexos — mais interpretação e conceito.
+
+**Semanas 6–7 — Ligações Químicas e Propriedades**
+Conecte ligação com propriedade. Entenda por que, não só o quê.
+
+**Semanas 8–9 — Eletroquímica + Equilíbrio + Termoquímica**
+Estes temas aparecem 1–2 vezes cada. Dedique 3–4h por semana a cada um.
+
+**Semana 10 — Revisão + Simulado**
+Simulado completo de Ciências da Natureza.
+
+## Erros Frequentes em Química ENEM
+
+**Erro 1: Tentar decorar equações**
+O ENEM fornece tabelas e dados quando necessário. Entenda o raciocínio, não a memorização.
+
+**Erro 2: Ignorar a contextualização**
+A contextualização é a chave para interpretar o que está sendo pedido. Leia o texto da questão com atenção antes de olhar as alternativas.
+
+**Erro 3: Pular cálculo**
+Muitos candidatos evitam questões com cálculo e perdem pontos fáceis. Os cálculos do ENEM são simples — regra de três, proporção, operações básicas.
+
+## Química no Cotidiano: O Estilo ENEM
+
+O ENEM tem orgulho de contextualizar Química em situações reais. Exemplos de temas frequentes:
+
+- **Combustíveis:** etanol, biodiesel, hidrogênio — reações de combustão, impacto ambiental
+- **Polímeros:** PET, PVC, polietileno — estrutura, reciclagem, impacto ambiental
+- **Agrotóxicos:** organofosforados, herbicidas — toxicidade, contaminação
+- **Medicamentos:** analgésicos, antibióticos — estrutura molecular básica
+- **Alimentos:** fermentação, conservantes, corantes — funções orgânicas aplicadas
+
+## Radioatividade em Química
+
+Radioatividade aparece tanto em Química quanto em Física. Em Química, o foco é:
+- Tipos de emissão (alfa, beta, gama)
+- Aplicações: medicina nuclear (diagnóstico e tratamento), datação carbono-14, energia nuclear
+- Estabilidade nuclear e decaimento
+
+Não é necessário calcular tempo de meia-vida — o ENEM pede interpretação.
+
+## Eletroquímica: Pilhas e Eletrólise
+
+Aparecem 1–2 questões por ano, mas costumam ser acessíveis:
+
+**Pilhas:**
+- Qual eletrodo é anodo/catodo
+- Qual reação ocorre em cada polo
+- Pilha de Daniel como exemplo clássico
+
+**Eletrólise:**
+- Diferença entre eletrólise ígnea e em solução
+- Aplicação: produção de alumínio, galvanoplastia
+
+**Contextos ENEM:** pilha a combustível (hidrogênio), eletroplastia, baterias de veículos elétricos.
+
+## Resumo: O Que Priorizar
+
+1. **Química Orgânica** — maior peso, aparece todo ano
+2. **Soluções** — frequente e com bons contextos
+3. **Ligações e Propriedades** — conceitual, acessível
+4. **Eletroquímica** — diferencial de nota
+5. **Radioatividade** — 1–2 questões, conceitual
+
+A chave para Química no ENEM é praticar com questões reais do INEP. O estilo da banca é muito diferente do livro didático.
+
+**[Praticar Química agora — 10 questões grátis](/auth/register)**
+    `,
+  },
+  {
+    slug: 'geometria-enem-o-que-cai',
+    title: 'Geometria no ENEM: Temas, Fórmulas e Dicas para 2026',
+    description: 'Saiba o que cai em Geometria no ENEM 2026. Plana, espacial e analítica: os temas mais cobrados, fórmulas essenciais e como resolver questões da banca INEP.',
+    date: '2026-06-14',
+    readTime: 7,
+    content: `
+Geometria é um dos temas mais importantes do ENEM em Matemática. Aparece em praticamente todas as provas e costuma representar 4–7 questões de Matemática por edição.
+
+## Tipos de Geometria no ENEM
+
+O ENEM cobre três grandes áreas:
+
+1. **Geometria Plana** — figuras bidimensionais
+2. **Geometria Espacial** — sólidos tridimensionais
+3. **Geometria Analítica** — geometria com coordenadas
+
+Cada área tem peso diferente e estilo de questão específico.
+
+## Geometria Plana: o Mais Frequente
+
+Geometria plana aparece em 3–5 questões por prova. Os temas que mais caem:
+
+**Triângulos:**
+- Teorema de Pitágoras: a² = b² + c²
+- Relações métricas no triângulo retângulo
+- Semelhança de triângulos
+- Área: A = base × altura / 2
+
+**Triângulos Notáveis (memorize estas relações):**
+- 30°-60°-90°: lados em proporção 1 : √3 : 2
+- 45°-45°-90°: lados em proporção 1 : 1 : √2
+
+**Círculo:**
+- Área: A = πr²
+- Comprimento: C = 2πr
+- Setor circular e arco
+
+**Polígonos:**
+- Quadriláteros: quadrado, retângulo, losango, trapézio
+- Soma dos ângulos internos: (n – 2) × 180°
+
+**Como o ENEM cobra:** Sempre em contexto. Cálculo de área de terreno irregular, projeto de calçamento, análise de embalagem.
+
+## Geometria Espacial: Solidão dos Candidatos
+
+Geometria espacial assusta, mas as fórmulas são poucas. O que o ENEM mais cobra:
+
+| Sólido | Volume | Área Lateral + Bases |
+|--------|--------|---------------------|
+| Cubo | a³ | 6a² |
+| Paralelepípedo | a×b×c | 2(ab + bc + ac) |
+| Cilindro | πr²h | 2πrh + 2πr² |
+| Cone | πr²h/3 | πrl + πr² |
+| Esfera | 4πr³/3 | 4πr² |
+| Pirâmide | A_base × h/3 | (depende da base) |
+
+**Dica fundamental:** O ENEM fornece as fórmulas quando necessário, mas você precisa saber qual fórmula usar e como interpretar o problema.
+
+**Contextos frequentes:** embalagens, tanques, construção civil, piscinas, silos.
+
+## Geometria Analítica
+
+Geometria analítica aparece 1–2 vezes por prova. Temas frequentes:
+
+**Ponto:**
+- Distância entre dois pontos: d = √[(x₂-x₁)² + (y₂-y₁)²]
+- Ponto médio: M = ((x₁+x₂)/2, (y₁+y₂)/2)
+
+**Reta:**
+- Equação da reta: y = ax + b
+- Coeficiente angular (inclinação): a = Δy/Δx
+- Posições relativas: paralelas (mesmo a), perpendiculares (a₁ × a₂ = -1)
+
+**Circunferência:**
+- Equação: (x-a)² + (y-b)² = r²
+
+## Trigonometria no ENEM
+
+Trigonometria conecta geometria e álgebra. O ENEM cobra:
+
+**Razões trigonométricas no triângulo retângulo:**
+- sen θ = cateto oposto / hipotenusa
+- cos θ = cateto adjacente / hipotenusa
+- tg θ = cateto oposto / cateto adjacente
+
+**Valores que você precisa saber de cor:**
+
+| Ângulo | sen | cos | tg |
+|--------|-----|-----|-----|
+| 30° | 1/2 | √3/2 | √3/3 |
+| 45° | √2/2 | √2/2 | 1 |
+| 60° | √3/2 | 1/2 | √3 |
+
+**Lei dos senos e dos cossenos:** aparecem em questões de navegação, topografia e astronomia.
+
+## Estratégia para Geometria ENEM
+
+**Passo 1: Identifique qual tipo de problema é**
+- Bidimensional → Geometria plana
+- Tridimensional → Geometria espacial
+- Coordenadas → Geometria analítica
+
+**Passo 2: Desenhe a figura**
+Mesmo se o enunciado já tem um desenho, refaça simplificado. Isso ativa o raciocínio espacial.
+
+**Passo 3: Identifique o que é pedido e o que você tem**
+Área? Volume? Distância? Liste os dados conhecidos.
+
+**Passo 4: Escolha a fórmula correta**
+Com o tipo e o pedido identificados, a fórmula é direta.
+
+## Erros Mais Comuns em Geometria ENEM
+
+**Erro 1: Confundir área com perímetro**
+Área = superfície (m²). Perímetro = contorno (m). O enunciado sempre especifica — leia com atenção.
+
+**Erro 2: Esquecer o π**
+Em questões com círculo ou cilindro, candidatos frequentemente esquecem de incluir π no cálculo.
+
+**Erro 3: Não usar a unidade certa**
+Se os dados estão em cm, o resultado deve ser em cm² (área) ou cm³ (volume). Cuidado com conversões de unidades.
+
+**Erro 4: Ignorar figuras compostas**
+O ENEM frequentemente apresenta figuras que são combinação de formas simples. Decomponha a figura e calcule parte por parte.
+
+## Questões com Escala e Proporção
+
+O ENEM frequentemente usa mapas, plantas baixas e maquetes. Saiba trabalhar com escala:
+
+escala = distância no mapa / distância real
+
+Se escala é 1:1000, cada 1 cm no mapa = 1000 cm = 10 m na realidade.
+
+## Resumo: O que Estudar Primeiro
+
+1. **Teorema de Pitágoras** — aparece indiretamente em quase tudo
+2. **Área das figuras planas** — triângulo, quadrado, círculo, trapézio
+3. **Volume de cilindro e cone** — mais frequentes em geometria espacial
+4. **Trigonometria básica** — sen, cos, tg dos ângulos notáveis
+5. **Equação da reta** — base da geometria analítica
+
+**[Praticar Geometria com questões reais do ENEM](/auth/register)**
+    `,
+  },
+  {
+    slug: 'interpretacao-de-texto-enem',
+    title: 'Interpretação de Texto no ENEM: Como Não Errar Questões de Linguagens',
+    description: 'Como melhorar a interpretação de texto no ENEM 2026. Estratégias para questões de Linguagens, tipos de texto cobrados e os erros mais comuns dos candidatos.',
+    date: '2026-06-14',
+    readTime: 7,
+    content: `
+Interpretação de texto não é habilidade ou dom — é técnica. E como qualquer técnica, pode ser aprendida e aperfeiçoada. Veja como o ENEM cobra interpretação e o que fazer para nunca mais errar esse tipo de questão.
+
+## O Peso de Interpretação de Texto no ENEM
+
+Linguagens, Códigos e suas Tecnologias tem 45 questões no ENEM. Desse total, aproximadamente:
+
+- **20–25 questões** são essencialmente de leitura e interpretação de texto
+- **10–12 questões** de Língua Portuguesa (gramática, coesão, variação linguística)
+- **5–8 questões** de Inglês/Espanhol
+- **5–7 questões** de Arte, Educação Física, Tecnologias da Comunicação
+
+Saber interpretar textos bem impacta mais da metade das questões de Linguagens.
+
+## Tipos de Texto que Aparecem no ENEM
+
+O ENEM usa diversidade enorme de gêneros textuais:
+
+**Textos verbais:**
+- Crônicas literárias
+- Artigos de opinião
+- Contos e fragmentos de romances
+- Letras de música
+- Reportagens e notícias
+- Poemas
+
+**Textos não-verbais ou mistos:**
+- Charges e cartuns
+- Tirinhas (HQs)
+- Infográficos
+- Propagandas e anúncios
+- Fotografias com legenda
+
+A habilidade de ler diferentes tipos de texto é exatamente o que o ENEM quer testar.
+
+## O Método em 4 Passos para Interpretar Qualquer Texto
+
+### Passo 1: Leia o enunciado da questão ANTES do texto
+
+Parece contraintuitivo, mas ler a pergunta primeiro orienta o que você vai buscar no texto. Você não precisa memorizar tudo — só encontrar o que é pedido.
+
+### Passo 2: Leia o texto inteiro uma vez, sem pressa
+
+Na primeira leitura, não sublinhe nada. Só leia para ter a ideia geral:
+- Qual é o assunto?
+- Qual é o tom? (irônico, crítico, informativo, poético)
+- Quem fala para quem?
+
+### Passo 3: Releia o trecho relevante
+
+Volte ao texto e leia com atenção a parte que responde à questão. Agora sim, sublinhe palavras-chave.
+
+### Passo 4: Elimine alternativas incorretas
+
+No ENEM, a alternativa errada sempre tem algum deslize: exagera o que o texto diz, tira a ideia do contexto, inverte a relação, ou inclui algo que o texto não menciona.
+
+Eliminação é mais eficiente que busca direta pela correta.
+
+## Por que Candidatos Erram Questões de Interpretação
+
+**Erro 1: Usar "conhecimento externo" sobre o assunto**
+O ENEM testa o que o texto diz, não o que você sabe sobre o tema. Se o texto de crônica critica o trânsito, a resposta está no texto — não em suas opiniões sobre mobilidade urbana.
+
+**Erro 2: Ler rápido demais**
+Candidatos ansiosos leem o texto em 30 segundos e erram por não perceber nuances do autor. Tempo bem investido na leitura = menos revisões e mais acertos.
+
+**Erro 3: Marcar a alternativa que parece mais "certa" em geral**
+Uma afirmativa pode ser verdadeira no mundo real mas errada em relação ao texto. Sempre julgue à luz do texto, não do mundo.
+
+**Erro 4: Ignorar textos não-verbais**
+Charges e tirinhas testam as mesmas habilidades de interpretação. A mensagem está na imagem — analise o contexto, os personagens, a ironia.
+
+## Como Interpretar Charges e Tirinhas
+
+Charges e tirinhas têm linguagem própria:
+
+1. **Identifique o contexto:** é atual? histórico? abstrato?
+2. **Quem são os personagens?** Representam grupos, ideias, pessoas famosas?
+3. **Qual é a crítica ou humor?** Charges quase sempre criticam algo
+4. **O texto verbal complementa ou contradiz a imagem?** Às vezes a ironia está exatamente na contradição
+
+O ENEM adora charges sobre política, meio ambiente, consumismo e tecnologia.
+
+## Interpretação de Poemas
+
+Poesia no ENEM assusta candidatos que nunca estudaram análise literária. Mas o que o ENEM cobra é simples:
+
+1. **Tema central:** sobre o que fala o poema?
+2. **Tom/sentimento:** saudade, crítica, ironia, celebração?
+3. **Figura de linguagem:** metáfora, ironia, hipérbole, antítese
+4. **Intenção do autor:** por que ele escreveu isso?
+
+O ENEM nunca pede identificação técnica de métrica ou rima — pede interpretação do sentido.
+
+## Figuras de Linguagem que Mais Caem
+
+| Figura | Definição | Exemplo |
+|--------|-----------|---------|
+| Metáfora | Comparação implícita | "Sua voz é mel" |
+| Ironia | Diz o oposto do que quer dizer | "Que bela educação!" (para criticar) |
+| Hipérbole | Exagero proposital | "Estou morrendo de fome" |
+| Antítese | Oposição de ideias | "Vida e morte, luz e sombra" |
+| Eufemismo | Suavizar algo negativo | "Passar desta para melhor" (morrer) |
+| Anáfora | Repetição no início de frases | "Era belo, era jovem, era forte" |
+
+## Língua Portuguesa x Interpretação: A Diferença
+
+Não confunda as duas:
+
+**Interpretação de texto:** entender o sentido, a intenção e as ideias do texto.
+
+**Questões de Língua Portuguesa:** gramática, coesão, variação linguística, norma culta, recursos expressivos.
+
+Questões de Língua Portuguesa no ENEM quase sempre partem de um texto, mas o que testam é o funcionamento da língua, não apenas o sentido.
+
+## Estratégia de Tempo para Linguagens
+
+Linguagens tem 45 questões em 5 horas (compartilhadas com Ciências Humanas — cada caderno com 4 áreas). Uma estratégia eficiente:
+
+- Questões de interpretação com texto curto: 2–3 min cada
+- Questões com texto longo (crônica, poema extenso): 4–5 min
+- Questões de gramática: 1–2 min
+- Reserve os últimos 30 min para revisar as questões que deixou em branco
+
+## Pratique com Textos Variados
+
+A melhor forma de melhorar interpretação é ler regularmente:
+- Jornais e revistas (Folha, Veja, Piauí)
+- Crônicas (Rubem Braga, Luís Fernando Veríssimo)
+- Letras de músicas diversas (MPB, rap, bossa nova — o ENEM ama música brasileira)
+
+E claro — pratique com questões reais do ENEM de 2009 a 2024.
+
+**[Começar a praticar questões de Linguagens agora](/auth/register)**
+    `,
+  },
+  {
+    slug: 'estatistica-enem-o-que-cai',
+    title: 'Estatística no ENEM: O que Cai e Como Resolver as Questões 2026',
+    description: 'Tudo sobre Estatística no ENEM 2026. Média, mediana, moda, probabilidade, gráficos e tabelas: o que estudar e como resolver questões da banca INEP.',
+    date: '2026-06-14',
+    readTime: 6,
+    content: `
+Estatística no ENEM é um dos temas que mais candidatos subestimam ou ignoram — e pagam o preço na hora da prova. Com 2–4 questões por edição, vale muito a pena dominar o básico.
+
+## O que o ENEM Cobra de Estatística
+
+Estatística e Probabilidade fazem parte do eixo de Matemática. As questões são distribuídas assim:
+
+| Subtema | Frequência anual |
+|---------|----------------|
+| Média, mediana, moda | 1–2 questões |
+| Leitura de gráficos e tabelas | 1–2 questões |
+| Probabilidade | 1–2 questões |
+| Análise combinatória | 0–1 questão |
+
+## Medidas de Tendência Central
+
+**Média aritmética:**
+- Soma de todos os valores ÷ quantidade de valores
+- Exemplo: notas 6, 7, 8, 9, 10 → média = (6+7+8+9+10)/5 = 8
+
+**Média ponderada:**
+- Cada valor tem um peso diferente
+- Exemplo: prova (peso 3) = 8, trabalho (peso 1) = 6 → média = (8×3 + 6×1)/(3+1) = 30/4 = 7,5
+
+**Mediana:**
+- O valor central quando os dados estão em ordem
+- Com quantidade par de dados: média dos dois centrais
+- Exemplo: 2, 4, 6, 8, 10 → mediana = 6
+
+**Moda:**
+- O valor que aparece mais vezes
+- Pode haver mais de uma moda (bimodal) ou nenhuma
+
+**Por que o ENEM cobra isso:** Questões com salários, notas escolares, preços, temperaturas — sempre pedem qual medida representa melhor uma situação real.
+
+**Dica importante:** O ENEM frequentemente pergunta qual medida usar em cada contexto. A mediana é mais adequada quando há valores extremos que distorcem a média (ex: salários com CEO vs. funcionários).
+
+## Leitura de Gráficos e Tabelas
+
+É a habilidade estatística mais cobrada no ENEM. Tipos de gráfico que aparecem:
+
+**Gráfico de barras e colunas:** comparação entre categorias
+**Gráfico de linha:** evolução ao longo do tempo
+**Gráfico de setores (pizza):** proporções de um todo
+**Histograma:** frequências em intervalos
+**Box plot:** distribuição dos dados com quartis
+
+**O que o ENEM pede:**
+- Qual categoria tem o maior/menor valor?
+- Qual foi a variação percentual entre dois períodos?
+- O que a tendência indica?
+- Qual alternativa NÃO está de acordo com o gráfico?
+
+**Armadilha clássica:** Questões que apresentam gráfico com eixo truncado (não começa no zero) para fazer diferenças pareceram maiores do que são. O ENEM às vezes pede que o candidato identifique essa distorção.
+
+## Probabilidade: Cálculo Básico
+
+Probabilidade aparece 1–2 vezes por prova. O cálculo básico é simples:
+
+**P(evento) = número de casos favoráveis / número de casos totais**
+
+Exemplo: tirar uma carta vermelha de um baralho = 26/52 = 1/2 = 50%
+
+**Probabilidades compostas:**
+- **E (interseção):** P(A e B) = P(A) × P(B) — quando os eventos são independentes
+- **OU (união):** P(A ou B) = P(A) + P(B) – P(A e B)
+
+**Probabilidade complementar:**
+P(não A) = 1 – P(A)
+
+Muito útil: às vezes é mais fácil calcular a probabilidade de o evento NÃO acontecer.
+
+**Contextos frequentes no ENEM:** dados, urnas com bolas coloridas, cartas de baralho, probabilidade de diagnóstico médico, genética (cruzamentos).
+
+## Análise Combinatória
+
+Análise combinatória aparece com menos frequência que probabilidade, mas ainda aparece:
+
+**Princípio fundamental da contagem:**
+Se há m maneiras de fazer a escolha A e n maneiras de fazer a escolha B, então há m × n maneiras de fazer ambas.
+
+**Permutação:** arranjos de n elementos = n! (fatorial)
+- 3! = 3 × 2 × 1 = 6
+
+**Combinação:** escolher k elementos de n sem importar a ordem
+- C(n,k) = n! / (k! × (n-k)!)
+
+O ENEM raramente pede cálculo puro de combinatória — prefere situações contextualizadas (quantas formas de escolher time, montar senha, organizar fila).
+
+## Desvio Padrão e Variância
+
+Raramente cobrados diretamente no ENEM, mas aparecem em forma de interpretação:
+- "Qual conjunto de dados tem maior variabilidade?"
+- "Qual situação apresenta menor dispersão?"
+
+Não é necessário calcular desvio padrão — o ENEM pede interpretação do conceito.
+
+## Estratégia de Estudo para Estatística
+
+**Semana 1:** Medidas de tendência central (média, mediana, moda)
+- Resolva 15 questões ENEM sobre cada medida
+- Pratique identificar QUAL medida usar em cada contexto
+
+**Semana 2:** Gráficos e tabelas
+- Leia gráficos de jornais e revistas
+- Resolva questões ENEM sobre interpretação de dados
+
+**Semana 3:** Probabilidade
+- Comece com o conceito básico (casos favoráveis / total)
+- Evolua para probabilidades compostas
+
+**Semana 4:** Análise combinatória + revisão
+
+## Questões de Estatística são Presentes no ENEM
+
+Candidatos que dominam estatística têm vantagem porque:
+
+1. Questões de estatística costumam ser mais contextualizadas e menos "abstratas" que outros temas de Matemática
+2. O cálculo raramente é complexo — o desafio é a interpretação
+3. São questões onde a eliminação de alternativas é fácil — alternativas absurdas são fáceis de descartar
+
+**Dica de prova:** Se tiver que escolher entre resolver uma questão de equação diferencial ou uma de estatística, sempre prefira a de estatística — muito maior chance de acerto.
+
+## Resumo: Prioridades em Estatística
+
+1. **Leitura de gráficos** — aparece todo ano, às vezes 2x
+2. **Média, mediana, moda** — conceito + saber quando usar cada um
+3. **Probabilidade básica** — fórmula simples, contextualização variada
+4. **Análise combinatória** — princípio da contagem é suficiente para a maioria das questões
+
+**[Praticar Matemática e Estatística com questões reais do ENEM](/auth/register)**
+    `,
+  },
+  {
+    slug: 'nota-de-corte-contabilidade-enem',
+    title: 'Nota de Corte Contabilidade ENEM 2025 — SISU e Universidades',
+    description: 'Nota de corte para Contabilidade no SISU 2025. Veja as notas das principais universidades federais, como calcular sua nota e as perspectivas para 2026.',
+    date: '2026-06-14',
+    readTime: 5,
+    content: `
+Contabilidade é um dos cursos com melhor empregabilidade do Brasil e com notas de corte mais acessíveis no SISU. Se você pretende cursar Ciências Contábeis, veja o que esperar das notas de corte.
+
+## Nota de Corte Contabilidade SISU 2025
+
+As notas variam muito por universidade, turno e localização. Referência para ampla concorrência (AC):
+
+| Universidade | Turno | Nota de Corte Aprox. |
+|---|---|---|
+| UFMG | Integral | 680–710 |
+| UFRJ | Integral | 670–700 |
+| UnB | Integral | 670–695 |
+| UFRGS | Integral | 650–680 |
+| UFSC | Integral | 645–675 |
+| UFC | Integral | 620–650 |
+| UFPE | Integral | 615–645 |
+| UFBA | Integral | 600–630 |
+| UFRN | Integral | 590–620 |
+| UFPB | Noturno | 570–600 |
+| UFMS | Noturno | 540–575 |
+| UFSM | Noturno | 545–575 |
+
+*Notas aproximadas baseadas nas últimas edições do SISU. Consulte o site oficial do SISU para dados exatos.*
+
+## Por que Contabilidade Tem Notas Acessíveis?
+
+Ciências Contábeis tem, em média, notas de corte menores que cursos como Medicina, Direito, Engenharia e Administração. Razões:
+
+- Muitas vagas disponíveis (curso com alta oferta no SISU)
+- Opções em turno noturno (reduz a concorrência)
+- Menos candidatos de alta pontuação
+- Disponível em muitas cidades menores (menos concorrência local)
+
+## Cotas: Como Afeta a Nota de Corte
+
+Nas universidades federais, as vagas são divididas entre:
+- **L1:** Renda baixa + escola pública (nota de corte menor, mais vagas)
+- **L2:** PPI (preto, pardo, indígena) + renda baixa + escola pública
+- **L5:** Escola pública apenas
+- **AC:** Ampla concorrência (notas mais altas)
+
+Candidatos com direito a cotas podem ingressar com notas significativamente menores.
+
+## O Mercado de Trabalho em Contabilidade
+
+Investir em Ciências Contábeis vale a pena em 2026:
+
+- **CFC regulamenta** — o contador precisa do registro no Conselho Federal de Contabilidade
+- **Alta empregabilidade** — toda empresa precisa de contabilidade
+- **Expansão do MEI e empreendedorismo** — crescimento da demanda por contadores
+- **Tecnologia contábil (conttech)** — novas oportunidades em fintechs e ERP
+- **Tributação no Brasil** — sistema complexo cria demanda permanente
+
+Salário médio inicial: R$2.500–3.500. Com CRC e especialização: R$5.000–12.000+.
+
+## Diferença Entre Ciências Contábeis e Administração
+
+Muitos candidatos se perguntam: Contabilidade ou Administração?
+
+| Aspecto | Ciências Contábeis | Administração |
+|---------|-------------------|---------------|
+| Nota de corte | Menor | Maior (nas top federais) |
+| Mercado | Regulamentado (CRC) | Amplo e variado |
+| Foco | Finanças, tributos, auditoria | Gestão, estratégia, pessoas |
+| Carreira inicial | Escritórios contábeis, empresas | Varejo, indústria, startups |
+
+## ProUni e FIES para Contabilidade
+
+Se você não ingressar via SISU, há alternativas em faculdades particulares:
+
+**ProUni:** Notas em torno de 450–550 pontos já abrem vagas com bolsa em muitas faculdades privadas. Para bolsa parcial (50%), notas ainda menores.
+
+**FIES:** Financiamento estudantil com critério de renda. Verifique a disponibilidade no site do MEC.
+
+Faculdades reconhecidas em Contabilidade no particular: FIPECAFI (SP), UNIFACS (BA), FGV (SP, notas altíssimas).
+
+## Como Calcular Sua Nota para o SISU
+
+Sua nota no SISU é a média ponderada das 5 notas:
+- Linguagens
+- Ciências Humanas
+- Ciências da Natureza
+- Matemática
+- Redação
+
+Cada curso define os pesos. Para Contabilidade, os pesos variam mas geralmente Matemática tem peso maior.
+
+Use a **[Calculadora de Nota ENEM Pro](/calcular-nota)** para estimar sua pontuação.
+
+## Estratégia para Quem Mira Contabilidade
+
+1. **Foque em Matemática** — tem peso alto na maioria das instituições
+2. **Não negligencie a Redação** — é 20% da nota e muitos candidatos perdem pontos fáceis
+3. **Pesquise a universidade antes** — notas e pesos variam por instituição
+4. **Considere o turno noturno** — notas menores, ideal para quem já trabalha
+
+**[Calcular minha nota ENEM e comparar com cortes do SISU](/calcular-nota)**
+    `,
+  },
+  {
+    slug: 'nota-de-corte-pedagogia-enem',
+    title: 'Nota de Corte Pedagogia ENEM 2025 — SISU e Universidades Federais',
+    description: 'Nota de corte para Pedagogia no SISU 2025. Veja as notas nas principais universidades, diferença entre turnos e como planejar sua candidatura para 2026.',
+    date: '2026-06-14',
+    readTime: 5,
+    content: `
+Pedagogia é o curso de licenciatura com maior quantidade de vagas no SISU e uma das opções mais acessíveis para candidatos que buscam carreira na educação. Mas as notas variam bastante por universidade.
+
+## Nota de Corte Pedagogia SISU 2025
+
+| Universidade | Turno | Nota de Corte Aprox. (AC) |
+|---|---|---|
+| UFMG | Integral | 640–670 |
+| UFRJ | Integral | 620–650 |
+| UnB | Integral | 615–645 |
+| USP | Integral | 650–680 |
+| UFRGS | Noturno | 580–615 |
+| UFSC | Noturno | 565–595 |
+| UFCE (UFC) | Noturno | 540–570 |
+| UFPE | Noturno | 530–560 |
+| UFBA | Noturno | 515–545 |
+| UFPB | Noturno | 490–525 |
+| UFERSA | Noturno | 470–510 |
+| UNILAB | Noturno | 440–475 |
+
+*Notas aproximadas. Consulte o SISU oficial para valores exatos.*
+
+## Por que Pedagogia Tem Notas Acessíveis
+
+- **Alta oferta de vagas:** Pedagogia tem mais vagas no SISU do que qualquer outra licenciatura
+- **Muitas opções noturnas:** Ideal para quem trabalha, com menor concorrência
+- **Presença em cidades menores:** Menos concorrência em campi do interior
+- **Perfil diferente de candidatos:** Menos candidatos de alta pontuação competindo
+
+Com cotas (L1, L2, L5), as notas de corte caem significativamente — às vezes 30–50 pontos abaixo da ampla concorrência.
+
+## Campo de Trabalho em Pedagogia
+
+A carreira pedagógica tem crescido em possibilidades além da sala de aula:
+
+**Atuação tradicional:**
+- Professor de Educação Infantil e Ensino Fundamental I
+- Coordenação pedagógica
+- Direção escolar (com especialização)
+
+**Novas frentes:**
+- Pedagogia empresarial (treinamento e desenvolvimento)
+- Tecnologia educacional (edtech, plataformas digitais)
+- Gestão de projetos educacionais em ONGs e prefeituras
+- Educação especial e inclusiva
+
+**Concurso público:** A forma mais segura de carreira. Prefeituras e estados realizam concursos regularmente. Salário inicial: R$2.200–4.500 (varia por estado e nível).
+
+## Pedagogia vs. Licenciaturas Específicas
+
+Se você gosta de uma disciplina específica (Matemática, Letras, História), talvez prefira uma licenciatura específica. A diferença:
+
+| Aspecto | Pedagogia | Licenciatura específica |
+|---------|-----------|------------------------|
+| O que ensina | Ed. Infantil e Fund. I | Disciplina específica no Ensino Médio/Fundamental II |
+| Nota de corte | Menor | Varia (Letras menor, Matemática maior) |
+| Concurso | Mais vagas em concursos locais | Concursos estaduais por disciplina |
+| Campo de trabalho | Mais amplo (gestão, pedagogo) | Específico à disciplina |
+
+## Ingresso por ProUni em Pedagogia
+
+Pedagogia é um dos cursos com mais bolsas ProUni disponíveis no país. Com notas a partir de 450 pontos, é possível conseguir bolsa integral em faculdades de boa qualidade.
+
+MEC/INEP publica a lista de cursos autorizados e suas avaliações (Conceito de Curso - CC) — verifique antes de escolher uma instituição particular.
+
+## Formação Continuada em Pedagogia
+
+Para professores da rede pública, a progressão salarial depende de:
+- Especialização (pós-graduação): progressão na carreira
+- Mestrado/Doutorado: progressão maior, abertura para universidades
+- CAPES e planos de carreira municipais/estaduais variam
+
+Muitas redes públicas pagam adicional para professores com especialização. Vale a pena planejar a continuidade desde o início da graduação.
+
+## Como Estudar para Pedagogia no ENEM
+
+Pedagogia não exige habilidades específicas além das cobradas no ENEM geral. Mas alguns pontos ajudam:
+
+- **Redação nota 1000:** Candidatos de licenciatura geralmente têm melhor desempenho em redação — aproveite essa vantagem
+- **Ciências Humanas:** História, Geografia, Filosofia e Sociologia têm conexão com a formação pedagógica
+- **Linguagens:** Foco em interpretação de texto e produção escrita
+
+Para as notas mais baixas (universidades do interior), mesmo uma pontuação de 500–520 já abre portas.
+
+## Verificar Notas em Tempo Real
+
+No período do SISU (geralmente em março), as notas flutuam a cada novo inscrito. Monitore a nota de corte parcial no site oficial e prepare-se para mudar a opção de curso/campus se necessário.
+
+A estratégia mais comum é:
+1. Colocar a universidade desejada na 1ª opção
+2. Uma universidade mais acessível (mesma carreira) na 2ª opção
+
+**[Calcular minha nota ENEM e planejar candidatura ao SISU](/calcular-nota)**
+    `,
+  },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)
@@ -4623,10 +5690,10 @@ export type BlogCategory = 'Gabarito' | 'Questões' | 'Redação' | 'Universidad
 export function getCategory(slug: string): BlogCategory {
   if (slug.startsWith('gabarito')) return 'Gabarito'
   if (slug.startsWith('redacao') || slug.includes('como-fazer-redacao') || slug.includes('redacao-enem')) return 'Redação'
-  if (slug.includes('nota-de-corte') || slug.includes('sisu') || slug.includes('prouni') || slug.includes('medicina') || slug.includes('direito') || slug.includes('engenharia') || slug.includes('psicologia') || slug.includes('odontologia') || slug.includes('computacao') || slug.includes('agronomia')) return 'Universidades'
+  if (slug.includes('nota-de-corte') || slug.includes('sisu') || slug.includes('prouni') || slug.includes('medicina') || slug.includes('direito') || slug.includes('engenharia') || slug.includes('psicologia') || slug.includes('odontologia') || slug.includes('computacao') || slug.includes('agronomia') || slug.includes('contabilidade') || slug.includes('pedagogia') || slug.includes('fies')) return 'Universidades'
   if (slug.includes('cronograma') || slug.includes('quanto-tempo') || slug.includes('enem-2026') || slug.includes('enem-resultado') || slug.includes('resultado-quando')) return 'Planejamento'
   if (slug.includes('tri-enem') || slug.includes('calcular-nota') || slug.includes('como-funciona') || slug.includes('ppcs') || slug.includes('treineiro') || slug.includes('segunda-chance') || slug.includes('enem-digital') || slug.includes('enem-2025')) return 'Como Funciona'
-  if (slug.includes('fisica') || slug.includes('quimica') || slug.includes('biologia') || slug.includes('historia') || slug.includes('geografia') || slug.includes('filosofia') || slug.includes('matematica') || slug.includes('ingles') || slug.includes('ciencias') || slug.includes('literatura')) return 'Por Matéria'
+  if (slug.includes('fisica') || slug.includes('quimica') || slug.includes('biologia') || slug.includes('historia') || slug.includes('geografia') || slug.includes('filosofia') || slug.includes('matematica') || slug.includes('ingles') || slug.includes('ciencias') || slug.includes('literatura') || slug.includes('geometria') || slug.includes('estatistica') || slug.includes('interpretacao')) return 'Por Matéria'
   if (slug.includes('simulado') || slug.includes('questoes')) return 'Questões'
   if (slug.includes('melhor-app') || slug.includes('alternativa') || slug.includes('online-gratis') || slug.includes('vs-')) return 'Comparativos'
   return 'Estratégias'
