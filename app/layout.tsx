@@ -15,7 +15,7 @@ const educationalOrgSchema = {
   name: 'ENEM Pro',
   url: siteUrl,
   description: 'Plataforma de preparação para o ENEM com questões reais do INEP e explicações geradas por IA.',
-  sameAs: [],
+  sameAs: [siteUrl],
   offers: [
     { '@type': 'Offer', price: '0', priceCurrency: 'BRL', name: 'Plano Grátis — 10 questões/dia' },
     { '@type': 'Offer', price: '14.90', priceCurrency: 'BRL', name: 'Plano Pro — questões ilimitadas + IA' },
@@ -37,13 +37,15 @@ export const metadata: Metadata = {
     siteName: 'ENEM Pro',
     locale: 'pt_BR',
     type: 'website',
+    images: [{ url: '/opengraph-image', width: 1200, height: 630, alt: 'ENEM Pro — Questões reais do ENEM com IA' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'ENEM Pro — Questões reais + IA',
     description: 'Estude ENEM com questões reais de 2009 a 2024 e explicações geradas por IA.',
+    images: ['/opengraph-image'],
   },
-  robots: { index: true, follow: true },
+  robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1, 'max-video-preview': -1 } },
   alternates: { canonical: siteUrl },
 }
 

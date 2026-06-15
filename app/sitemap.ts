@@ -15,18 +15,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const VS_SLUGS = ['descomplica','stoodi','estuda-com','me-salva','khan-academy','poliedro','gauss','prepara-enem','estrategia']
 
   const corePages: MetadataRoute.Sitemap = [
-    { url: base, lastModified: D('2026-06-09'), changeFrequency: 'monthly', priority: 1 },
-    { url: `${base}/planos`, lastModified: D('2026-05-01'), changeFrequency: 'monthly', priority: 0.9 },
-    { url: `${base}/gabarito`, lastModified: D('2024-11-15'), changeFrequency: 'yearly', priority: 0.95 },
+    { url: base, lastModified: D('2026-06-15'), changeFrequency: 'weekly', priority: 1 },
+    { url: `${base}/planos`, lastModified: D('2026-06-01'), changeFrequency: 'monthly', priority: 0.9 },
+    { url: `${base}/gabarito`, lastModified: D('2024-11-15'), changeFrequency: 'yearly', priority: 0.98 },
     { url: `${base}/temas-redacao`, lastModified: D('2026-01-01'), changeFrequency: 'yearly', priority: 0.9 },
-    { url: `${base}/cronograma`, lastModified: D('2026-01-01'), changeFrequency: 'monthly', priority: 0.8 },
-    { url: `${base}/calcular-nota`, lastModified: D('2026-03-01'), changeFrequency: 'monthly', priority: 0.9 },
-    { url: `${base}/ferramentas`, lastModified: D('2026-03-01'), changeFrequency: 'monthly', priority: 0.85 },
-    { url: `${base}/questao-do-dia`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.85 },
-    { url: `${base}/questoes`, lastModified: D('2026-03-01'), changeFrequency: 'weekly', priority: 0.8 },
+    { url: `${base}/cronograma`, lastModified: D('2026-06-01'), changeFrequency: 'monthly', priority: 0.85 },
+    { url: `${base}/calcular-nota`, lastModified: D('2026-03-01'), changeFrequency: 'monthly', priority: 0.92 },
+    { url: `${base}/ferramentas`, lastModified: D('2026-06-01'), changeFrequency: 'monthly', priority: 0.88 },
+    { url: `${base}/questao-do-dia`, lastModified: D('2026-06-15'), changeFrequency: 'daily', priority: 0.85 },
+    { url: `${base}/questoes`, lastModified: D('2026-03-01'), changeFrequency: 'weekly', priority: 0.85 },
+    { url: `${base}/simulado`, lastModified: D('2026-06-01'), changeFrequency: 'monthly', priority: 0.82 },
     { url: `${base}/blog`, lastModified: D('2026-06-15'), changeFrequency: 'weekly', priority: 0.8 },
-    { url: `${base}/auth/login`, lastModified: D('2026-01-01'), changeFrequency: 'yearly', priority: 0.5 },
-    { url: `${base}/auth/register`, lastModified: D('2026-01-01'), changeFrequency: 'yearly', priority: 0.7 },
     ...MATERIAS_SLUGS.map(slug => ({
       url: `${base}/materias/${slug}`,
       lastModified: D('2026-03-01'),

@@ -13,18 +13,21 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params
   const post = getPost(slug)
   if (!post) return {}
+  const postUrl = `${SITE_URL}/blog/${slug}`
   return {
     title: post.title,
     description: post.description,
-    alternates: { canonical: `${SITE_URL}/blog/${slug}` },
+    alternates: { canonical: postUrl },
     openGraph: {
       title: post.title,
       description: post.description,
       type: 'article',
       publishedTime: post.date,
+      modifiedTime: post.date,
       authors: ['ENEM Pro'],
       siteName: 'ENEM Pro',
       locale: 'pt_BR',
+      url: postUrl,
     },
     twitter: {
       card: 'summary_large_image',

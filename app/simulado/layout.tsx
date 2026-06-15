@@ -3,17 +3,20 @@ import { SITE_URL } from '@/lib/site-config'
 
 export const metadata: Metadata = {
   title: 'Simulado ENEM 2026 Grátis — Questões Reais do INEP | ENEM Pro',
-  description: 'Faça um simulado do ENEM com questões reais do INEP. Escolha disciplina, quantidade de questões e receba sua nota estimada com curva TRI ao final.',
+  description: 'Faça um simulado do ENEM 2026 com questões reais do INEP. Escolha disciplina e quantidade de questões, responda com timer e receba sua nota estimada no final.',
   alternates: { canonical: `${SITE_URL}/simulado` },
   openGraph: {
-    title: 'Simulado ENEM 2026 — Questões Reais do INEP',
-    description: 'Simulado grátis do ENEM com questões oficiais. Nota estimada com TRI.',
+    title: 'Simulado ENEM 2026 Grátis | ENEM Pro',
+    description: 'Questões reais do INEP no formato simulado. Nota estimada com TRI ao final. Grátis.',
     type: 'website',
+    url: `${SITE_URL}/simulado`,
+    siteName: 'ENEM Pro',
+    locale: 'pt_BR',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Simulado ENEM 2026 Grátis',
-    description: 'Questões reais do INEP. Nota estimada com TRI ao final.',
+    title: 'Simulado ENEM 2026 Grátis | ENEM Pro',
+    description: 'Questões reais do INEP no formato simulado. Nota estimada ao final.',
   },
 }
 
