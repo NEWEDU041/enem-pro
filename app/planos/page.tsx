@@ -1,13 +1,37 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import { createBrowserClient } from '@/lib/supabase'
 
 const supabase = createBrowserClient()
 
 export default function PlanosPage() {
-  const [loading, setLoading] = useState<'monthly' | 'annual' | null>(null)
+  const [loading, setLoading] = useState<'monthly' | 'annual' | 'portal' | null>(null)
+  const [isPro, setIsPro] = useState(false)
+
+  useEffect(() => {
+    supabase.auth.getSession().then(({ data: { session } }) => {
+      if (!session) return
+      supabase.from('subscriptions').select('plan, expires_at').eq('user_id', session.user.id).maybeSingle()
+        .then(({ data }) => {
+          if (data?.plan === 'pro' && data?.expires_at && new Date(data.expires_at) > new Date()) setIsPro(true)
+        })
+    })
+  }, [])
+
+  async function handlePortal() {
+    setLoading('portal')
+    try {
+      const { data: { session } } = await supabase.auth.getSession()
+      if (!session) { window.location.href = '/auth/login?next=/planos'; return }
+      const res = await fetch('/api/portal', { method: 'POST', headers: { Authorization: `Bearer ${session.access_token}` } })
+      const data = await res.json()
+      if (data.url) window.location.href = data.url
+    } finally {
+      setLoading(null)
+    }
+  }
 
   async function handleCheckout(plan: 'monthly' | 'annual') {
     setLoading(plan)
@@ -46,6 +70,18 @@ export default function PlanosPage() {
       </header>
 
       <main className="max-w-3xl mx-auto px-6 py-16 text-center">
+        {isPro && (
+          <div className="bg-indigo-50 border border-indigo-200 rounded-2xl px-6 py-5 mb-10 flex items-center justify-between">
+            <div className="text-left">
+              <p className="font-bold text-indigo-900">✦ Você é Pro!</p>
+              <p className="text-indigo-600 text-sm">Questões ilimitadas + IA ativos.</p>
+            </div>
+            <button onClick={handlePortal} disabled={loading === 'portal'}
+              className="bg-indigo-600 text-white px-5 py-2.5 rounded-xl text-sm font-semibold hover:bg-indigo-700 disabled:opacity-50">
+              {loading === 'portal' ? 'Aguarde...' : 'Gerenciar assinatura →'}
+            </button>
+          </div>
+        )}
         <h1 className="text-4xl font-bold mb-4">Escolha seu plano</h1>
         <p className="text-zinc-500 mb-14">Comece grátis. Assine quando quiser mais.</p>
 
@@ -178,7 +214,7 @@ const faqs = [
   },
   {
     q: 'Posso cancelar quando quiser?',
-    a: 'Sim. Não há fidelidade. Cancele a qualquer momento no painel do Stripe.',
+    a: 'Sim. Não há fidelidade. Cancele a qualquer momento clicando em "Gerenciar assinatura" no topo desta página ou no dashboard.',
   },
   {
     q: 'Quais formas de pagamento são aceitas?',

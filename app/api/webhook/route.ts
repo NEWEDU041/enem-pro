@@ -42,6 +42,7 @@ export async function POST(request: NextRequest) {
         plan: 'pro',
         expires_at: addMonths(months),
         stripe_subscription_id: session.subscription as string,
+        stripe_customer_id: session.customer as string,
         updated_at: new Date().toISOString(),
       },
       { onConflict: 'user_id' }
@@ -55,7 +56,6 @@ export async function POST(request: NextRequest) {
 
     const isActive = sub.status === 'active' || sub.status === 'trialing'
     if (isActive) {
-      // Detect plan duration from price interval
       const interval = sub.items?.data?.[0]?.price?.recurring?.interval
       const months = interval === 'year' ? 12 : 1
       await supabase.from('subscriptions').upsert(
@@ -64,10 +64,16 @@ export async function POST(request: NextRequest) {
           plan: 'pro',
           expires_at: addMonths(months),
           stripe_subscription_id: sub.id,
+          stripe_customer_id: sub.customer as string,
           updated_at: new Date().toISOString(),
         },
         { onConflict: 'user_id' }
       )
+    } else {
+      // past_due, paused, incomplete_expired → rebaixa para free
+      await supabase.from('subscriptions')
+        .update({ plan: 'free', expires_at: new Date().toISOString(), updated_at: new Date().toISOString() })
+        .eq('user_id', userId)
     }
   }
 

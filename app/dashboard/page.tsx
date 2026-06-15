@@ -38,9 +38,13 @@ function DashboardContent() {
 
   useEffect(() => {
     async function load() {
-      const { data: { user } } = await supabase.auth.getUser()
+      const [{ data: { user } }, { data: { session } }] = await Promise.all([
+        supabase.auth.getUser(),
+        supabase.auth.getSession(),
+      ])
       if (!user) { router.push('/auth/login'); return }
       setUser(user)
+      const accessToken = session?.access_token ?? ''
 
       const today = new Date().toISOString().split('T')[0]
 
@@ -106,11 +110,11 @@ function DashboardContent() {
         .catch(() => {})
 
       // Gap 8 — trigger D0 welcome email (only once)
-      if (!meta.email_drip_d0_sent) {
+      if (!meta.email_drip_d0_sent && accessToken) {
         fetch('/api/email-drip', {
           method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ user_id: user.id, email: user.email, name: meta.name || '', drip_day: 0 }),
+          headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${accessToken}` },
+          body: JSON.stringify({ drip_day: 0 }),
         }).catch(() => {})
         // Mark as triggered (optimistic — avoids second trigger)
         supabase.auth.updateUser({ data: { email_drip_d0_sent: true } }).catch(() => {})
@@ -192,6 +196,7 @@ function DashboardContent() {
         {isPro && (
           <div className="bg-indigo-600 text-white rounded-2xl px-6 py-4 mb-8 flex items-center justify-between">
             <span className="font-semibold">✦ Plano Pro ativo — questões ilimitadas + IA</span>
+            <ManageSubscriptionButton />
           </div>
         )}
         {!isPro && (
@@ -315,7 +320,7 @@ function DashboardContent() {
             </div>
             <div className="space-y-2">
               {recentWrong.map((w) => (
-                <Link key={`${w.question_id}-${w.answered_at}`} href={`/questoes/${w.question_id}?year=${w.year}`}
+                <Link key={`${w.question_id}-${w.answered_at}`} href={`/questoes/${encodeURIComponent(w.discipline)}/${w.year}`}
                   className="flex items-center justify-between px-4 py-3 rounded-xl border border-zinc-100 hover:border-indigo-300 hover:bg-indigo-50 transition-all text-sm">
                   <span className="text-zinc-700">{w.discipline.split(',')[0]} — ENEM {w.year}</span>
                   <span className="text-indigo-500 text-xs">Revisar →</span>
@@ -498,6 +503,31 @@ function StatCard({ label, value, highlight }: { label: string; value: string; h
       <div className="text-sm text-zinc-500">{label}</div>
       {highlight && <div className="text-xs text-amber-500 mt-1">em chamas!</div>}
     </div>
+  )
+}
+
+function ManageSubscriptionButton() {
+  const [loading, setLoading] = useState(false)
+  async function handlePortal() {
+    setLoading(true)
+    try {
+      const { data: { session } } = await supabase.auth.getSession()
+      if (!session) return
+      const res = await fetch('/api/portal', {
+        method: 'POST',
+        headers: { Authorization: `Bearer ${session.access_token}` },
+      })
+      const data = await res.json()
+      if (data.url) window.location.href = data.url
+    } finally {
+      setLoading(false)
+    }
+  }
+  return (
+    <button onClick={handlePortal} disabled={loading}
+      className="text-xs text-indigo-200 hover:text-white underline disabled:opacity-50">
+      {loading ? 'Aguarde...' : 'Gerenciar assinatura →'}
+    </button>
   )
 }
 

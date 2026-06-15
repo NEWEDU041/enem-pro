@@ -56,6 +56,12 @@ create table if not exists questions_cache (
   cached_at   timestamptz not null default now()
 );
 
+alter table questions_cache enable row level security;
+-- Leitura pública permitida (dados são questões públicas do INEP)
+drop policy if exists "public_read_questions_cache" on questions_cache;
+create policy "public_read_questions_cache" on questions_cache
+  for select using (true);
+
 -- ────────────────────────────────────────────────────────────
 -- ÍNDICES DE PERFORMANCE
 -- ────────────────────────────────────────────────────────────
@@ -162,9 +168,10 @@ create policy "service_inserts_redacoes" on redacao_submissions
 create index if not exists idx_redacao_user on redacao_submissions (user_id, submitted_at desc);
 
 -- ────────────────────────────────────────────────────────────
--- REFERRAL CODE na tabela subscriptions
+-- REFERRAL CODE + STRIPE CUSTOMER na tabela subscriptions
 -- ────────────────────────────────────────────────────────────
 alter table subscriptions add column if not exists referral_code text unique;
+alter table subscriptions add column if not exists stripe_customer_id text;
 
 -- Índice para lookup rápido por código
 create index if not exists idx_subscriptions_referral_code on subscriptions (referral_code);
@@ -180,6 +187,10 @@ create table if not exists referrals (
 );
 
 alter table referrals enable row level security;
+
+drop policy if exists "users_read_own_referrals" on referrals;
+create policy "users_read_own_referrals" on referrals
+  for select using (auth.uid() = referrer_id);
 
 -- ────────────────────────────────────────────────────────────
 -- EMAIL DRIP LOG — evita envios duplicados
