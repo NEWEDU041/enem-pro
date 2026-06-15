@@ -62,6 +62,20 @@ const COMPETITORS = [
     focus: 'Banco de questões + desempenho',
     diff: '2–4× mais caro, sem IA personalizada',
   },
+  {
+    slug: 'prepara-enem',
+    name: 'Prepara ENEM',
+    price: 'R$19–39/mês',
+    focus: 'App mobile + simulados rápidos',
+    diff: 'Sem IA por questão, banco incompleto',
+  },
+  {
+    slug: 'estrategia',
+    name: 'Estratégia Vestibulares',
+    price: 'R$39–89/mês',
+    focus: 'Videoaulas + simulados + ENEM',
+    diff: '2,6–6× mais caro, sem questões INEP reais',
+  },
 ]
 
 const jsonLd = {

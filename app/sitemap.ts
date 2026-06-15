@@ -12,7 +12,7 @@ const D = (s: string) => new Date(s)
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const MATERIAS_SLUGS = ['fisica','quimica','biologia','historia','geografia','filosofia','sociologia','portugues','literatura','matematica','ingles']
-  const VS_SLUGS = ['descomplica','stoodi','estuda-com','me-salva','khan-academy','poliedro','gauss']
+  const VS_SLUGS = ['descomplica','stoodi','estuda-com','me-salva','khan-academy','poliedro','gauss','prepara-enem','estrategia']
 
   const corePages: MetadataRoute.Sitemap = [
     { url: base, lastModified: D('2026-06-09'), changeFrequency: 'monthly', priority: 1 },
@@ -24,7 +24,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/ferramentas`, lastModified: D('2026-03-01'), changeFrequency: 'monthly', priority: 0.85 },
     { url: `${base}/questao-do-dia`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.85 },
     { url: `${base}/questoes`, lastModified: D('2026-03-01'), changeFrequency: 'weekly', priority: 0.8 },
-    { url: `${base}/blog`, lastModified: D('2026-06-14'), changeFrequency: 'weekly', priority: 0.8 },
+    { url: `${base}/blog`, lastModified: D('2026-06-15'), changeFrequency: 'weekly', priority: 0.8 },
     { url: `${base}/auth/login`, lastModified: D('2026-01-01'), changeFrequency: 'yearly', priority: 0.5 },
     { url: `${base}/auth/register`, lastModified: D('2026-01-01'), changeFrequency: 'yearly', priority: 0.7 },
     ...MATERIAS_SLUGS.map(slug => ({
@@ -65,12 +65,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: year >= 2022 ? 0.95 : 0.85,
   }))
 
-  const vsPages: MetadataRoute.Sitemap = VS_SLUGS.map(slug => ({
-    url: `${base}/vs/${slug}`,
-    lastModified: D('2026-05-01'),
-    changeFrequency: 'monthly' as const,
-    priority: 0.8,
-  }))
+  const vsPages: MetadataRoute.Sitemap = [
+    { url: `${base}/vs`, lastModified: D('2026-06-15'), changeFrequency: 'monthly' as const, priority: 0.85 },
+    ...VS_SLUGS.map(slug => ({
+      url: `${base}/vs/${slug}`,
+      lastModified: D('2026-06-15'),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
+    })),
+  ]
 
   return [...corePages, ...gabaritoPages, ...disciplinaLandingPages, ...disciplinePages, ...blogPages, ...vsPages]
 }

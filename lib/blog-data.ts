@@ -8293,7 +8293,1606 @@ Com cotas (L1 — escola pública + baixa renda), as notas de corte caem 20–50
   },
 ]
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8]
+const EXTRA_POSTS_9: BlogPost[] = [
+  {
+    slug: 'nota-de-corte-matematica-curso-enem',
+    title: 'Nota de Corte Matemática (Curso) ENEM 2025 — SISU e Licenciatura',
+    description: 'Nota de corte para o curso de Matemática no SISU 2025. Veja as notas nas federais, diferença entre licenciatura e bacharelado e perspectivas de carreira.',
+    date: '2026-06-14',
+    readTime: 4,
+    content: `
+O curso de Matemática forma professores e pesquisadores, com boas perspectivas no mercado e notas de corte variadas no SISU.
+
+## Nota de Corte Matemática SISU 2025
+
+| Universidade | Habilitação | Nota de Corte Aprox. (AC) |
+|---|---|---|
+| USP-IME | Bacharelado | 720–760 |
+| UNICAMP | Bacharelado | 700–740 |
+| UFMG | Bacharelado | 675–710 |
+| UFRJ | Bacharelado | 660–695 |
+| UnB | Licenciatura | 635–670 |
+| UFRGS | Licenciatura | 615–650 |
+| UFSC | Licenciatura | 595–630 |
+| UFC | Licenciatura | 565–600 |
+| UFPE | Licenciatura | 545–580 |
+| UFBA | Licenciatura | 525–560 |
+| UFRN | Licenciatura | 500–535 |
+| UFPB | Licenciatura | 475–510 |
+
+*Notas aproximadas. Consulte o SISU oficial para dados exatos.*
+
+## Licenciatura vs. Bacharelado em Matemática
+
+**Licenciatura:** forma professores de Matemática para Ensino Médio e Fundamental II. É a habilitação com mais vagas e notas de corte menores.
+
+**Bacharelado:** forma matemáticos para pesquisa, finanças quantitativas e tecnologia. Nota de corte maior, especialmente nas top universidades.
+
+## Campo de Trabalho
+
+**Licenciado (professor de Matemática):**
+- Professor de Matemática no Ensino Médio e Fundamental II
+- Concurso público estadual e municipal — alta demanda (falta de professores de Matemática é crônica no Brasil)
+- Salário inicial: R$2.400–4.500 (varia por estado)
+- Um dos concursos mais frequentes e com vagas garantidas
+
+**Bacharel:**
+- Pesquisa acadêmica (matemática pura e aplicada)
+- Finanças quantitativas (quants) em bancos e fundos
+- Ciência de dados e modelagem estatística
+- Tecnologia e desenvolvimento de algoritmos
+- Atuária (com especialização)
+
+## A Escassez de Professores de Matemática
+
+O Brasil tem déficit crônico de professores de Matemática — especialmente no interior. Isso significa:
+- Concursos públicos frequentes com vagas não preenchidas
+- Alta chance de aprovação mesmo com notas menores
+- Oportunidade de trabalhar em regiões com menor custo de vida e menor concorrência
+- Progressão acelerada na carreira pública
+
+## Pesos no SISU para Matemática
+
+Matematicamente, os cursos de Matemática nas federais dão peso maior para:
+- **Matemática:** peso 3 ou 4 na maioria das instituições
+- **Ciências da Natureza:** peso 2
+
+Candidatos com nota excepcional em Matemática têm vantagem enorme.
+
+**[Calcular minha nota e ver possibilidades para Matemática](/calcular-nota)**
+    `,
+  },
+  {
+    slug: 'nota-de-corte-fisica-curso-enem',
+    title: 'Nota de Corte Física (Licenciatura/Bacharelado) ENEM 2025 — SISU',
+    description: 'Nota de corte para o curso de Física no SISU 2025. Veja as notas nas federais, mercado para físicos e professores de Física, e como planejar sua candidatura.',
+    date: '2026-06-14',
+    readTime: 4,
+    content: `
+Física é um dos cursos com maior escassez de professores no Brasil — o que significa boas oportunidades para quem escolhe a licenciatura.
+
+## Nota de Corte Física SISU 2025
+
+| Universidade | Habilitação | Nota de Corte Aprox. (AC) |
+|---|---|---|
+| USP-IF | Bacharelado | 710–750 |
+| UNICAMP | Bacharelado | 695–730 |
+| UFRJ | Bacharelado | 670–705 |
+| UFMG | Licenciatura | 640–675 |
+| UnB | Licenciatura | 615–650 |
+| UFRGS | Licenciatura | 595–630 |
+| UFSC | Licenciatura | 575–610 |
+| UFC | Licenciatura | 545–580 |
+| UFPE | Licenciatura | 525–560 |
+| UFBA | Licenciatura | 505–540 |
+| UFRN | Licenciatura | 480–515 |
+| UFPB | Licenciatura | 455–490 |
+
+*Notas aproximadas. Consulte o SISU oficial para dados exatos.*
+
+## Campo de Trabalho em Física
+
+**Licenciado:**
+- Professor de Física no Ensino Médio — demanda muito alta, poucos profissionais
+- Concurso público estadual com vagas frequentes
+- Salário inicial: R$2.400–4.500
+
+**Bacharel:**
+- Pesquisa em física pura e aplicada (institutos, universidades)
+- Engenharia de radiação e física médica (hospitais, radioterapia)
+- Meteorologia e geofísica (INMET, INPE)
+- Tecnologia: fotônica, semicondutores, energia solar
+- Finanças quantitativas (físicos são muito contratados por bancos)
+
+## A Crise de Professores de Física
+
+A situação é alarmante: **menos de 30% das aulas de Física no Brasil são ministradas por professores com formação na área**. Isso cria oportunidade única:
+- Vagas garantidas em praticamente qualquer estado
+- Concursos com poucas inscrições para muitas vagas
+- Melhor negociação salarial em escolas privadas
+
+## Pesos no SISU para Física
+
+A maioria das federais dá peso maior para:
+- **Matemática:** peso 3–4
+- **Ciências da Natureza:** peso 2–3
+
+Candidatos com boa nota em Matemática têm vantagem significativa.
+
+**[Calcular minha nota ENEM para o curso de Física](/calcular-nota)**
+    `,
+  },
+  {
+    slug: 'nota-de-corte-quimica-curso-enem',
+    title: 'Nota de Corte Química (Licenciatura/Bacharelado) ENEM 2025 — SISU',
+    description: 'Nota de corte para o curso de Química no SISU 2025. Veja as notas nas federais, diferença entre licenciatura e bacharelado industrial/pesquisa, e carreira.',
+    date: '2026-06-14',
+    readTime: 4,
+    content: `
+Química tem diversas saídas profissionais além da sala de aula — indústria química, petróleo, cosméticos, alimentos e pesquisa. As notas de corte variam por habilitação e região.
+
+## Nota de Corte Química SISU 2025
+
+| Universidade | Habilitação | Nota de Corte Aprox. (AC) |
+|---|---|---|
+| USP | Bacharelado | 700–740 |
+| UNICAMP | Bacharelado | 685–720 |
+| UFRJ | Bacharelado | 660–695 |
+| UFMG | Bacharelado | 645–680 |
+| UnB | Licenciatura | 610–645 |
+| UFRGS | Licenciatura | 590–625 |
+| UFSC | Licenciatura | 570–605 |
+| UFC | Licenciatura | 540–575 |
+| UFPE | Licenciatura | 520–555 |
+| UFBA | Licenciatura | 500–535 |
+| UFRN | Licenciatura | 475–510 |
+| UFPB | Licenciatura | 450–485 |
+
+*Notas aproximadas. Confira o SISU oficial.*
+
+## Licenciatura vs. Bacharelado em Química
+
+**Licenciatura:** professor de Química no Ensino Médio. Alta demanda, concursos frequentes, mercado estável.
+
+**Bacharelado (Industrial/Tecnológico):** trabalho em indústria (petroquímica, farmacêutica, cosméticos, alimentos). Mais voltado ao setor privado.
+
+**Bacharelado (Química Pura/Pesquisa):** carreira acadêmica, mestrado e doutorado.
+
+## Campo de Trabalho
+
+**Licenciado:**
+- Professor de Química no Ensino Médio
+- Concurso público — demanda alta em todas as regiões
+- Salário inicial: R$2.400–4.000
+
+**Bacharel industrial:**
+- Indústria petroquímica (Petrobras, Braskem e similares)
+- Indústria farmacêutica e cosmética
+- Indústria de alimentos e bebidas
+- Controle de qualidade e regulatório
+- Salário inicial: R$3.500–6.000
+
+**Bacharel pesquisador:**
+- Institutos de pesquisa (FAPESP, CNPq, INPI)
+- Empresas de P&D
+- Pós-graduação e docência universitária
+
+## Química e o Mercado Industrial no Brasil
+
+O Brasil tem um dos maiores setores petroquímicos do mundo. Químicos bacharéis têm:
+- Empregabilidade alta em São Paulo, Rio e Polo Petroquímico de Camaçari (BA)
+- Bons salários no setor privado comparado com licenciaturas
+- Oportunidades em startups de biotecnologia e materiais avançados
+
+**[Calcular minha nota ENEM para Química](/calcular-nota)**
+    `,
+  },
+  {
+    slug: 'enem-2026-cronograma-datas',
+    title: 'ENEM 2026: Cronograma Completo de Datas e Prazos',
+    description: 'Calendário completo do ENEM 2026: data de inscrição, gabarito, resultado e prazos do SISU e ProUni. Tudo que você precisa saber para não perder nenhuma data.',
+    date: '2026-06-14',
+    readTime: 4,
+    content: `
+O ENEM tem um calendário anual com datas críticas que você não pode perder. Marque na agenda e prepare-se com antecedência.
+
+## Calendário ENEM 2026 (Estimado)
+
+O INEP ainda não confirmou as datas exatas do ENEM 2026. Com base no padrão histórico:
+
+| Evento | Data Estimada |
+|--------|--------------|
+| Abertura das inscrições | Maio/Junho 2026 |
+| Encerramento das inscrições | Junho 2026 |
+| Solicitação de atendimento especial | Mesmo período da inscrição |
+| Divulgação dos locais de prova | Outubro 2026 |
+| 1º dia de prova (Linguagens + Humanas + Redação) | 1º domingo de novembro 2026 |
+| 2º dia de prova (Natureza + Matemática) | 2º domingo de novembro 2026 |
+| Divulgação do gabarito preliminar | Novembro 2026 (3–5 dias após) |
+| Gabarito definitivo | Dezembro 2026 |
+| Resultado/Notas | Janeiro 2027 |
+
+*Datas estimadas com base no histórico. Acompanhe o site oficial: gov.br/inep*
+
+## Calendário SISU 2027 (Pós-ENEM 2026)
+
+Após o resultado do ENEM 2026:
+
+| Evento | Data Estimada |
+|--------|--------------|
+| Abertura do SISU | Janeiro 2027 |
+| Inscrições no SISU | Janeiro 2027 (4–5 dias) |
+| Resultado 1ª chamada | Fevereiro 2027 |
+| Matrícula 1ª chamada | Fevereiro 2027 |
+| Lista de espera | Fevereiro/Março 2027 |
+
+## ProUni 2027 (Pós-ENEM 2026)
+
+| Evento | Data Estimada |
+|--------|--------------|
+| Abertura das inscrições | Janeiro/Fevereiro 2027 |
+| Resultado 1ª chamada | Fevereiro 2027 |
+| Comprovação dos dados | Fevereiro/Março 2027 |
+
+## FIES (Financiamento Estudantil)
+
+O FIES tem edital próprio, geralmente em fevereiro/março. Utilize a nota do ENEM 2026 para se inscrever em 2027.
+
+## Datas que Você NÃO Pode Perder
+
+**1. Inscrição no ENEM (maio/junho 2026)**
+A inscrição é pelo site do INEP. Taxa de R$85 (isenção disponível para renda baixa). Prazo geralmente é de 3–4 semanas.
+
+**2. Solicitação de isenção de taxa**
+Para quem tem renda per capita baixa ou é de escola pública. Feita antes da inscrição regular.
+
+**3. Data da prova (novembro 2026)**
+Marque na agenda agora. Reserve os dois finais de semana. Não viaje, não marque compromissos.
+
+**4. Resultado (janeiro 2027)**
+Suas notas ficam disponíveis no sistema do INEP. Use imediatamente para inscrição no SISU.
+
+**5. Inscrição no SISU (janeiro 2027)**
+Apenas 4–5 dias. Não perca. Use a calculadora de nota para analisar chances antes de abrir.
+
+## Como Acompanhar as Datas Oficiais
+
+- **Site do INEP:** gov.br/inep (fonte oficial)
+- **Página do SISU:** acessado via INEP
+- **Página do ProUni:** prouni.mec.gov.br
+
+Cadastre seu e-mail no sistema do INEP para receber notificações automáticas.
+
+## Prepare-se com Antecedência
+
+Com base no cronograma, você tem aproximadamente **5 meses** de estudo entre agora (junho 2026) e a prova (novembro 2026). É tempo suficiente para melhorar significativamente — se estudar com método.
+
+**[Montar meu cronograma de estudos personalizado](/cronograma)**
+    `,
+  },
+  {
+    slug: 'como-passar-no-prouni-dicas',
+    title: 'Como Passar no ProUni 2026: Nota Mínima, Documentos e Estratégia',
+    description: 'Guia completo para conseguir bolsa ProUni 2026. Nota mínima, critérios de renda, documentos necessários, como escolher o curso e dicas para aumentar as chances.',
+    date: '2026-06-14',
+    readTime: 6,
+    content: `
+O ProUni é uma das maiores oportunidades de acesso ao ensino superior no Brasil. Com a nota certa no ENEM e os documentos em ordem, você pode garantir uma bolsa integral ou parcial em uma boa faculdade particular.
+
+## O que é o ProUni?
+
+O Programa Universidade para Todos (ProUni) oferece bolsas de estudo integrais (100%) e parciais (50%) em faculdades privadas para estudantes de baixa renda.
+
+**Tipos de bolsa:**
+- **Bolsa integral:** para renda familiar per capita de até 1,5 salário mínimo
+- **Bolsa parcial (50%):** para renda familiar per capita entre 1,5 e 3 salários mínimos
+
+## Critérios de Elegibilidade
+
+Para se inscrever no ProUni, você precisa:
+
+✅ **Ter feito o ENEM** no ano do edital ou nos anos anteriores (a nota não expira para o ProUni)
+✅ **Nota mínima de 450 pontos** na média das 4 provas objetivas
+✅ **Não ter zerado a Redação** (nota mínima: 1 ponto)
+✅ **Ter cursado o Ensino Médio** completo em escola pública OU ter feito como bolsista integral em escola privada
+✅ **Renda familiar per capita** dentro dos limites (varia por tipo de bolsa)
+✅ **Não ter diploma de ensino superior**
+
+**Exceção:** Pessoas com deficiência e professores da rede pública de Ensino Básico podem se inscrever sem restrição de renda para bolsas em cursos de licenciatura e pedagogia.
+
+## Nota Mínima para o ProUni
+
+A nota de corte real varia por curso, instituição e número de inscritos. Mas a **nota mínima para se inscrever** é:
+- **450 pontos** na média das provas objetivas (sem contar redação)
+- **Redação acima de zero** (pelo menos 1 ponto)
+
+Na prática, a competição eleva esse piso. Para cursos populares (Administração, Pedagogia, Letras) em cidades grandes, espere notas acima de 500–550. Para cursos menos procurados ou em cidades menores, a nota de corte real fica próxima dos 450.
+
+## Documentos Necessários para Comprovar a Bolsa
+
+Ao ser selecionado, você precisará comprovar:
+
+1. **Renda familiar:** holerite, declaração de imposto de renda, extrato bancário dos últimos 3 meses ou declaração de autônomo
+2. **Escola pública:** histórico escolar completo do Ensino Médio
+3. **CPF e RG:** documentos de identificação
+4. **Certidão de nascimento ou casamento**
+5. **Comprovante de residência** (conta de luz, água ou gás)
+
+**Atenção:** A verificação é rigorosa. Declarar renda incorreta causa exclusão do programa e pode gerar sanções legais.
+
+## Como Escolher o Curso e a Instituição
+
+**Passo 1: Pesquise o conceito do curso**
+Antes de escolher, verifique no e-MEC (emec.mec.gov.br) o Conceito de Curso (CC) e o CPC (Conceito Preliminar de Curso). Cursos com CC 3, 4 ou 5 têm qualidade reconhecida.
+
+**Passo 2: Considere a localização**
+Mesmo com bolsa integral, você paga moradia, transporte e alimentação. Uma faculdade mais próxima de casa pode ser mais viável financeiramente.
+
+**Passo 3: Use a lista de espera estrategicamente**
+No ProUni, candidatos com bolsa parcial podem se candidatar a bolsa integral na lista de espera se houver vagas não preenchidas. Fique atento.
+
+**Passo 4: Compare múltiplas opções**
+O sistema permite marcar até 2 opções de curso/instituição. Na 1ª escolha, mire o melhor. Na 2ª, coloque uma opção mais acessível para garantir.
+
+## Estratégia para Aumentar as Chances
+
+**Estratégia 1: Aumente a nota do ENEM**
+Cada ponto extra de média abre novas possibilidades. Foque especialmente na Redação (nota de 0 a 1000, com peso de 20% na média).
+
+**Estratégia 2: Considere turnos noturnos**
+Cursos noturnos têm notas de corte menores no ProUni — mais vagas, menos concorrência.
+
+**Estratégia 3: Explore cidades do interior**
+Faculdades em cidades menores têm notas de corte menores e custo de vida mais baixo.
+
+**Estratégia 4: Cursos menos concorridos**
+Tecnólogos (cursos de 2–3 anos) são elegíveis para ProUni e têm notas de corte menores. Podem ser uma entrada estratégica para o mercado de trabalho.
+
+## ProUni + FIES: Complementação Possível?
+
+Não é possível acumular ProUni e FIES no mesmo curso. Mas para bolsistas parciais (50%), a outra metade pode ser financiada por:
+- Programas estaduais de bolsa
+- Financiamento da própria instituição
+
+## Quando as Inscrições Abrem?
+
+O ProUni abre inscrições em 2 edições anuais:
+- **1ª edição:** janeiro/fevereiro (usando nota do ENEM do ano anterior)
+- **2ª edição:** junho/julho (segunda chance no mesmo ano)
+
+Acompanhe o site oficial: prouni.mec.gov.br
+
+**[Calcular minha nota ENEM e verificar elegibilidade para bolsas](/calcular-nota)**
+    `,
+  },
+  {
+    slug: 'redacao-enem-nota-zero-como-evitar',
+    title: 'Redação ENEM Nota Zero: O que Causa e Como Evitar em 2026',
+    description: 'Saiba o que causa nota zero na Redação do ENEM e como evitar os erros que anulam a prova. Fuga de tema, texto ilegível, insultos e outras armadilhas fatais.',
+    date: '2026-06-14',
+    readTime: 5,
+    content: `
+A redação nota zero é o pior pesadelo de um candidato ao ENEM — anos de estudo anulados por um erro evitável. Entenda o que causa nota zero e como garantir que isso não aconteça com você.
+
+## Quando a Redação Recebe Nota Zero
+
+O INEP estabelece critérios claros para nota zero. Qualquer um desses fatores **anula a redação inteira:**
+
+### 1. Fuga Total ao Tema
+É a causa mais comum. Ocorre quando o texto ignora completamente o tema proposto ou discute outro assunto.
+
+**Exemplo real:** tema sobre "saúde mental de jovens" → candidato escreve sobre depressão econômica do Brasil. Mesmo que o texto seja bem escrito, é anulado.
+
+**Como evitar:** Leia o tema 3 vezes antes de escrever. Sublinhe as palavras-chave. Confirme que cada parágrafo se conecta ao tema principal.
+
+### 2. Texto com Até 7 Linhas
+Redações com 7 linhas ou menos recebem nota zero — mesmo que sejam de alta qualidade. O ENEM exige texto com desenvolvimento mínimo.
+
+**A meta:** Mínimo de 20 linhas. Ideal: 25–30 linhas.
+
+**Como evitar:** Nunca entregue sem completar. Se o tempo estiver acabando, escreva mais rápido, mesmo que menos elaborado. Um texto simples mas longo é melhor que um texto excelente curto demais.
+
+### 3. Cópia dos Textos Motivadores
+Se você copiar trechos extensos dos textos de apoio (que são fornecidos com a proposta) sem elaborar, pode receber nota zero.
+
+**Como evitar:** Cite ideias dos textos motivadores, nunca copie literalmente. Parafraseie e desenvolva a ideia com suas próprias palavras.
+
+### 4. Texto Em Desacordo com o Tipo Dissertativo-Argumentativo
+O ENEM pede dissertação argumentativa (tese + argumentos + proposta). Outros gêneros são anulados:
+- Carta, poema, conto, diálogo, texto em forma de lista
+
+**Como evitar:** Escreva sempre em prosa dissertativa. Introdução → desenvolvimento → conclusão.
+
+### 5. Proposta de Intervenção que Desrespeita Direitos Humanos
+O ENEM avalia (Competência 5) se a proposta de intervenção respeita os direitos humanos. Propostas que sugerem:
+- Pena de morte, tortura, discriminação
+- Violação de direitos de qualquer grupo
+- Solução que exclua ou prejudique minorias
+
+...podem resultar em nota 0 na competência 5 (200 pontos) ou até anulação total em casos extremos.
+
+**Como evitar:** Sua proposta deve ser inclusiva. Mesmo criticando o sistema, a solução deve preservar a dignidade humana.
+
+### 6. Texto Ilegível
+Caligrafia impossível de ler, tinta apagada ou mancha que cobre o texto. Casos raros mas acontecem.
+
+**Como evitar:** Escreva com caneta de ponta grossa e tinta preta (obrigatório). Escreva devagar o suficiente para ser legível. Não escreva muito pequeno.
+
+### 7. Assinar ou Identificar-se
+Colocar nome, número de inscrição ou qualquer identificação no texto anula a redação.
+
+**Como evitar:** Preencha apenas o cabeçalho padrão. Não escreva seu nome no texto.
+
+## O que NÃO Causa Nota Zero (Mas Reduz a Nota)
+
+Esses erros são comuns mas não anulam — apenas reduzem a pontuação:
+- Erros de ortografia e gramática
+- Argumentos fracos ou pouco desenvolvidos
+- Proposta de intervenção incompleta (perde pontos na C5, não anula)
+- Tangenciamento de tema (abordou o tema mas de forma superficial) → nota baixa em C2, não zero
+
+## Tangenciamento vs. Fuga Total: A Diferença
+
+**Fuga total:** ignora completamente o tema. Nota zero na C2 (0 pontos) e nota zero geral.
+
+**Tangenciamento:** abordou o tema mas de forma tangencial, sem desenvolver. Nota baixa na C2 (40–80 pontos), mas não é zero geral.
+
+**Domínio do tema:** desenvolveu o tema com clareza. Nota alta na C2 (120–200 pontos).
+
+## O Que Fazer Se Perceber Que Fugiu do Tema
+
+Se estiver no meio da redação e perceber que está saindo do tema:
+
+1. **Não entre em pânico** — você ainda tem tempo
+2. **Volte ao início** do texto com a mente no tema
+3. **Reescreva** conectando ao tema (mesmo que repita ideias)
+4. **Use a conclusão** para reafirmar explicitamente a conexão com o tema proposto
+
+É melhor uma redação mediocre sobre o tema do que uma boa redação que foge.
+
+## Checklist Final Antes de Entregar
+
+Antes de passar para o gabarito (cartão-resposta da redação):
+
+- [ ] Meu texto tem pelo menos 20 linhas?
+- [ ] Todas as ideias se conectam ao tema proposto?
+- [ ] Escrevi em forma dissertativa (não carta, poema, etc.)?
+- [ ] Minha proposta de intervenção respeita os direitos humanos?
+- [ ] Não copiei trechos dos textos motivadores?
+- [ ] Não escrevi meu nome ou qualquer identificação?
+- [ ] O texto está legível?
+
+**[Ver todos os temas de Redação do ENEM 2009–2024](/temas-redacao)**
+    `,
+  },
+  {
+    slug: 'enem-pontuacao-maxima-como-tirar-900',
+    title: 'Como Tirar 900+ no ENEM: Estratégia dos Candidatos de Alta Nota',
+    description: 'O que fazem os candidatos que tiram 900+ no ENEM? Estratégia de estudo, gestão de tempo na prova, redação nota 900 e como maximizar a pontuação em cada área.',
+    date: '2026-06-14',
+    readTime: 7,
+    content: `
+Tirar 900+ no ENEM coloca você entre os 1% melhores candidatos e abre as melhores universidades do país. Não é só talento — é estratégia, consistência e método.
+
+## O que Significa 900+ no ENEM?
+
+A nota máxima em cada área é em torno de 1000 pontos (pela TRI). Uma nota geral acima de 900 significa:
+
+- Acima de ~95% dos candidatos
+- Acesso às melhores universidades públicas do Brasil
+- Medicina, Direito USP, Engenharia ITA, Economia FGV — todas ao alcance
+
+**Distribuição real das notas (referência):**
+- Abaixo de 500: ~40% dos candidatos
+- 500–650: ~40% dos candidatos
+- 650–750: ~15% dos candidatos
+- 750–850: ~4% dos candidatos
+- Acima de 850: ~1% dos candidatos
+
+## O Perfil de Quem Tira 900+
+
+**Características comuns:**
+1. **Estudam consistentemente por 12+ meses** — não é virada de noite na véspera
+2. **Resolvem centenas de questões ENEM reais** — conhecem o estilo da banca
+3. **Dominam a redação** — raramente tiram menos de 800 em Redação
+4. **Têm poucas "buracos"** — não ignoram nenhuma área completamente
+5. **Gerenciam bem o tempo na prova** — não "travam" em questões difíceis
+
+## Estratégia por Área para Notas Altas
+
+### Matemática (meta: 800+)
+
+Matemática tem a maior variância de notas — candidatos vão de 400 a 1000. Para 800+:
+
+- **Zero erros nos temas base:** funções, geometria plana, probabilidade básica
+- **Sólido em álgebra:** inequações, sistemas, progressões
+- **Pelo menos razoável em cálculo:** trigonometria, análise combinatória
+- **Gestão de tempo:** se uma questão não sai em 4 min, marque e passe
+
+### Linguagens (meta: 750+)
+
+- **Interpretação de texto:** praticar leitura profunda, não superficial
+- **Redação acima de 800:** é fundamental para nota alta em Linguagens
+- **Inglês:** mesmo com inglês básico, 4–5 questões são acessíveis
+- **Literatura:** ler 1 obra completa dos autores mais cobrados (Machado de Assis, por exemplo)
+
+### Ciências Humanas (meta: 780+)
+
+- **História contemporânea:** domínio profundo do século XX
+- **Geopolítica atualizada:** acompanhar notícias geopolíticas do ano da prova
+- **Filosofia:** os 8–10 filósofos mais cobrados, com profundidade
+- **Sociologia:** os 3 clássicos + Bourdieu + temas contemporâneos
+
+### Ciências da Natureza (meta: 750+)
+
+- **Não existe "pular" disciplina:** candidatos de 900+ não ignoram nem Física nem Biologia
+- **Aplicação em contexto:** questões difíceis sempre têm contexto — entender o contexto vale a questão
+- **Interdisciplinaridade:** questões que misturam Química + Biologia, Física + Química — frequentes nas difíceis
+
+## A Redação: O Diferencial dos 900+
+
+Candidatos de alta nota raramente tiram menos de 800 na Redação. O que eles fazem:
+
+**1. Repertório cultural amplo**
+Dominam referências de diferentes campos: filosofia, história, dados estatísticos, leis, casos concretos.
+
+**2. Proposta de intervenção 200/200**
+Sempre completa: agente + ação + modo + finalidade + detalhamento. Sem genéricos.
+
+**3. Texto fluido e coeso**
+Sem os conectivos forçados ("outrossim", "destarte" usados incorretamente). Coesão natural.
+
+**4. Domínio de C1 (língua)**
+Não começa frase com pronome oblíquo, não confunde crase, não erra concordância — mas escreve naturalmente.
+
+## Gestão de Tempo na Prova
+
+Para nota alta, o tempo é crítico:
+
+**1º Dia (5h30 — Linguagens + Humanas + Redação):**
+- Redação: 60–70 min (mente fresca, mais criativa)
+- Ciências Humanas: 70–80 min (45 questões)
+- Linguagens: 80–90 min (45 questões)
+- Revisão: 20–30 min
+
+**2º Dia (5h — Natureza + Matemática):**
+- Ciências da Natureza: 80–90 min (45 questões)
+- Matemática: 100–110 min (45 questões — mais tempo por questão)
+- Revisão: 20 min
+
+**Regra de ouro:** Máximo 3 min por questão de humanas/natureza/linguagens. Máximo 5 min por questão de Matemática.
+
+## O Ciclo de Estudo Semanal Dos Top 1%
+
+| Dia | Atividade |
+|-----|-----------|
+| Segunda | Conteúdo novo (1 disciplina em profundidade) |
+| Terça | Questões do conteúdo estudado na segunda (active recall) |
+| Quarta | Conteúdo novo (outra disciplina) |
+| Quinta | Questões + revisão de erros da semana |
+| Sexta | Conteúdo novo + revisão com flashcards |
+| Sábado | Simulado parcial (2 áreas) — cronometrado |
+| Domingo | Análise de erros do simulado + descanso |
+
+**Volume:** mínimo de 50 questões ENEM por semana. Candidatos de 900+ geralmente fazem 100–150.
+
+## Os 3 Meses Finais: Intensificação
+
+Com 3 meses para a prova:
+
+- **Simulados completos todo fim de semana** (as duas provas, cronometradas)
+- **Análise de erro profunda:** cada erro incorreto recebe uma ficha de revisão
+- **Redação semanal:** 1 por semana com auto-avaliação nas 5 competências
+- **Sem conteúdo completamente novo:** revisão e consolidação do que já estudou
+
+**O que NÃO fazer nos últimos 3 meses:**
+- Começar a estudar uma disciplina do zero
+- Fazer simulados sem analisar os erros (pior desperdício de tempo)
+- Estudar mais de 8h sem método (rendimento cai para quase zero)
+
+## Mentalidade: O Que Separa os Top 1%
+
+Candidatos de alta nota enxergam o ENEM de forma diferente:
+
+- **Não estudam para "passar"** — estudam para entender
+- **Não evitam as questões difíceis** — as difíceis são as que separam 800 de 900
+- **Tratam os erros como dados** — cada erro mostra exatamente o que estudar
+
+A diferença entre 750 e 900 é frequentemente mais de método e mentalidade do que de horas de estudo.
+
+**[Começar com questões reais do ENEM — 10 por dia grátis](/auth/register)**
+    `,
+  },
+  {
+    slug: 'enem-2026-inscricao-isentos-baixa-renda',
+    title: 'Isenção de Taxa do ENEM 2026: Quem Tem Direito e Como Pedir',
+    description: 'Saiba quem tem direito à isenção de taxa do ENEM 2026, como solicitar, os documentos necessários e os prazos. Escola pública e baixa renda podem se inscrever grátis.',
+    date: '2026-06-14',
+    readTime: 4,
+    content: `
+A taxa de inscrição do ENEM custa R$85, mas candidatos de baixa renda e escola pública podem se inscrever gratuitamente. Entenda quem tem direito e como garantir a isenção.
+
+## Quem Tem Direito à Isenção de Taxa
+
+O INEP concede isenção automática ou mediante solicitação para:
+
+### Isenção Automática
+- Estudantes que cursam o **3º ano do Ensino Médio em escola pública** no ano do ENEM
+- Estes candidatos são notificados automaticamente — não precisam solicitar
+
+### Isenção por Solicitação
+
+**Candidatos que atendem a PELO MENOS UM dos critérios:**
+
+1. **Escola pública no Ensino Médio:** cursou todo o EM em escola pública (mesmo que já tenha concluído)
+
+2. **Baixa renda:** renda familiar mensal per capita de até meio salário mínimo
+
+3. **CadÚnico:** está inscrito no Cadastro Único para Programas Sociais do Governo Federal (NIS — Número de Identificação Social)
+
+4. **Participante de programas sociais:** Bolsa Família, BPC e outros programas vinculados ao CadÚnico
+
+### Isenção para Situações Especiais
+- Jovens em cumprimento de medida socioeducativa
+- Pessoa privada de liberdade
+- Quem comprova ser de área indígena
+
+## Como Solicitar a Isenção
+
+A solicitação é feita **antes das inscrições regulares**, em período específico no começo do ano:
+
+**Passo a passo:**
+1. Acesse o site do INEP (gov.br/inep) no período de isenção (geralmente março/abril)
+2. Entre com login do Gov.br (CPF + senha)
+3. Preencha o formulário de isenção
+4. Envie os documentos comprobatórios
+5. Aguarde a análise (resultado em 1–2 semanas)
+
+**Documentos geralmente necessários:**
+- Histórico escolar (para isenção por escola pública)
+- Comprovante de renda (contracheque, declaração de autônomo)
+- Comprovante de CadÚnico/NIS (se aplicável)
+- Declaração de renda familiar (formulário do INEP)
+
+## E Se a Isenção For Negada?
+
+Se o INEP negar sua solicitação, você ainda pode:
+1. **Recorrer** dentro do prazo estabelecido (geralmente 5–7 dias após o resultado)
+2. **Pagar a taxa** na inscrição regular (R$85)
+
+## Atenção: Prazos São Diferentes
+
+O período de **solicitação de isenção** é diferente do período de **inscrição**:
+
+- **Isenção:** geralmente março/abril
+- **Inscrição regular:** geralmente maio/junho
+
+Se você perdeu o prazo de isenção, ainda pode se inscrever pagando a taxa.
+
+## Quem NÃO Tem Direito à Isenção
+
+- Candidatos que cursaram Ensino Médio em escola privada sem bolsa integral
+- Candidatos com renda per capita acima de meio salário mínimo sem CadÚnico
+- Candidatos que já fizeram o ENEM anteriormente e não atendem aos critérios acima
+
+## Isenção por CadÚnico: O Mais Acessível
+
+Se você ou alguém da sua família está inscrito no CadÚnico (tem NIS), você provavelmente tem direito à isenção. O CadÚnico inclui milhões de famílias brasileiras.
+
+Para verificar se está no CadÚnico: acesse o aplicativo "Caixa Tem" ou ligue para a Caixa Econômica Federal.
+
+## Dicas Importantes
+
+- **Solicite isenção antes de tudo:** mesmo que não tenha certeza se será aprovada
+- **Guarde o número do protocolo** da solicitação
+- **Monitore o resultado** — muitos perdem por não acompanhar
+- **Fique atento ao prazo de recurso** — geralmente curto (5 dias)
+
+Candidatos que perdem o prazo de isenção pagam a taxa. Candidatos que perdem o prazo de inscrição não podem participar do ENEM naquele ano.
+
+**[Ver datas e cronograma completo do ENEM 2026](/blog/enem-2026-cronograma-datas)**
+    `,
+  },
+]
+
+const EXTRA_POSTS_10: BlogPost[] = [
+  {
+    slug: 'como-estudar-matematica-enem',
+    title: 'Como Estudar Matemática para o ENEM: Guia Definitivo 2026',
+    description: 'Guia completo para estudar Matemática no ENEM 2026. Veja o que cai, cronograma de estudos, os temas mais cobrados e como resolver questões difíceis.',
+    date: '2026-06-15',
+    readTime: 10,
+    content: `
+## Por Que Matemática Assusta Tanto no ENEM?
+
+Matemática é a prova com menor média histórica no ENEM — e não é por acaso. Com 45 questões em 5,5 horas no 2º dia, muitos candidatos entram sem estratégia e saem frustrados.
+
+A boa notícia: **a Matemática do ENEM não exige decorar fórmulas**. Ela testa raciocínio, interpretação e aplicação prática. Quem entende isso muda completamente a abordagem.
+
+## O Que Cai em Matemática no ENEM (Por Frequência)
+
+| Tema | Frequência média | Questões por prova |
+|------|-----------------|-------------------|
+| Funções (1º e 2º grau, exponencial, logarítmica) | Alta | 6–8 |
+| Geometria Plana e Espacial | Alta | 5–7 |
+| Estatística e Probabilidade | Alta | 4–6 |
+| Progressões (PA/PG) | Média | 2–3 |
+| Trigonometria | Média | 2–3 |
+| Matrizes e Determinantes | Média | 2–3 |
+| Equações e Sistemas | Alta | 3–5 |
+| Razão, Proporção e Porcentagem | Alta | 3–4 |
+| Juros e Matemática Financeira | Média | 2–3 |
+| Combinatória | Média | 2–3 |
+
+**Temas mais cobrados = onde concentrar energia:**
+1. Funções — toda prova tem pelo menos 5 questões
+2. Geometria — prova extremamente visual, cai todo ano
+3. Estatística — dado de realidade, INEP adora
+4. Porcentagem e proporção — base de tudo
+
+## Como Estudar Matemática para o ENEM: Passo a Passo
+
+### Passo 1: Diagnóstico Inicial (Semana 1)
+
+Antes de qualquer coisa, faça **45 questões de Matemática do ENEM 2024** sem estudar nada novo. Calcule sua nota aproximada.
+
+- **Abaixo de 500:** foque nos fundamentos (álgebra básica, geometria plana, porcentagem)
+- **Entre 500 e 650:** domine os temas de alta frequência
+- **Acima de 650:** aprofunde em funções e geometria espacial
+
+### Passo 2: Sequência de Estudo por Nível
+
+**Mês 1 — Fundamentos:**
+- Semana 1–2: Álgebra (equações, inequações, sistemas)
+- Semana 3: Razão, proporção, regra de três, porcentagem
+- Semana 4: Funções do 1º grau + revisão
+
+**Mês 2 — Temas Essenciais:**
+- Semana 5–6: Funções do 2º grau + logarítmica + exponencial
+- Semana 7: Geometria plana (área, perímetro, Pitágoras)
+- Semana 8: Geometria espacial (volume, área de superfície)
+
+**Mês 3 — Completar e Revisar:**
+- Semana 9–10: Estatística + probabilidade + combinatória
+- Semana 11: Progressões + trigonometria
+- Semana 12: Revisão + simulados cronometrados
+
+### Passo 3: Técnica das Questões — O Método ENEM
+
+Diferente do vestibular tradicional, as questões de Matemática do ENEM sempre vêm contextualizadas. O método:
+
+**1. Leia o enunciado até o final antes de calcular**
+80% dos candidatos começa a calcular antes de entender o que a questão quer. Isso leva a erros bobos.
+
+**2. Identifique o dado e o pedido**
+"Dados: ... Pedido: ..." — escreva isso no rascunho quando a questão for complexa.
+
+**3. Elimine alternativas impossíveis**
+Antes de calcular, veja se alguma alternativa pode ser eliminada por ordem de grandeza ou lógica.
+
+**4. Use estimativas quando possível**
+Muitas questões de Estatística e Porcentagem podem ser resolvidas por estimativa, sem cálculo preciso.
+
+## Os 5 Tipos de Questão Que Mais Caem
+
+### Tipo 1: Gráfico + Porcentagem
+O INEP adora apresentar dados em gráficos e pedir porcentagem, variação ou projeção. Treine leitura de gráfico de linha, barra e pizza.
+
+### Tipo 2: Geometria no Mundo Real
+Área de terreno irregular, volume de caixa d'água, relação entre embalagens. Sempre há figura — use-a.
+
+### Tipo 3: Função como Modelo
+"Uma empresa produz x unidades com custo C(x) = ..." — funções aplicadas à realidade.
+
+### Tipo 4: Probabilidade com Contagem
+Combinações e permutações aplicadas: times, senhas, comissões. Use a fórmula C(n,k) = n! / (k! × (n–k)!).
+
+### Tipo 5: Juros Compostos ou Simples
+Sempre com calculadora financeira ou tabela — o ENEM às vezes fornece valores já calculados.
+
+## Cronograma de Estudos: Matemática em 90 Dias
+
+| Semana | Conteúdo | Questões |
+|--------|----------|----------|
+| 1–2 | Álgebra e equações | 30 questões ENEM |
+| 3–4 | Funções 1º e 2º grau | 40 questões ENEM |
+| 5–6 | Funções exp/log + progressões | 35 questões ENEM |
+| 7–8 | Geometria plana + espacial | 40 questões ENEM |
+| 9 | Trigonometria + matrizes | 25 questões ENEM |
+| 10 | Estatística + probabilidade | 35 questões ENEM |
+| 11 | Combinatória + financeira | 25 questões ENEM |
+| 12 | Revisão + 2 simulados completos | 90 questões ENEM |
+
+**Regra de ouro:** pelo menos **30 questões de Matemática do ENEM por semana**, sempre corrigindo os erros no mesmo dia.
+
+## Erros Que Derrubam a Nota em Matemática
+
+**Erro 1: Decorar fórmulas sem entender**
+O ENEM raramente pede a fórmula direta — pede aplicação em contexto. Entenda o conceito, a fórmula vem naturalmente.
+
+**Erro 2: Pular questões de geometria por causa do desenho**
+Geometria é visual, mas todos os dados necessários estão no enunciado. Não desista pelo medo da figura.
+
+**Erro 3: Não revisar os cálculos**
+Em Matemática, o erro mais comum não é de conceito — é aritmético. Reserve 5 min para checar as questões que você fez.
+
+**Erro 4: Gastar mais de 5 min por questão**
+Se travar, marque, passe adiante e volte. Questões fáceis estão distribuídas na prova inteira.
+
+**Erro 5: Não treinar com provas reais do INEP**
+Simulados genéricos têm nível diferente do ENEM real. Pratique sempre com provas originais do INEP.
+
+## Recursos Recomendados
+
+**Gratuitos:**
+- Questões reais do INEP (2009–2024) organizadas por tema
+- Gabaritos oficiais com comentários
+
+**Pago:**
+- ENEM Pro: 3.600+ questões reais do INEP com explicação de IA por tema → [Praticar questões de Matemática no ENEM Pro](/questoes/matematica)
+
+## A Matemática do ENEM é Difícil?
+
+Depende da perspectiva. O nível técnico é de ensino médio — mas a interpretação exige maturidade. Em 2024, a média de Matemática no ENEM foi de ~530. Mas candidatos que estudam com questões reais e método consistente chegam com facilidade a 650–700.
+
+**Com 90 dias, método certo e questões reais do INEP, 650+ é acessível para qualquer candidato comprometido.**
+
+[Comece com 10 questões de Matemática grátis no ENEM Pro](/questoes/matematica)
+    `,
+  },
+  {
+    slug: 'nota-de-corte-biomedicina-enem',
+    title: 'Nota de Corte Biomedicina ENEM 2025: SISU, ProUni e Mercado',
+    description: 'Nota de corte para Biomedicina no SISU 2025 por universidade. Veja as notas por modalidade, perspectivas do mercado e como se preparar para o ENEM.',
+    date: '2026-06-15',
+    readTime: 7,
+    content: `
+## O Que é Biomedicina e Por Que a Nota é Alta?
+
+Biomedicina é uma das graduações da área de saúde com maior crescimento no Brasil. O curso forma profissionais que atuam em análises clínicas, pesquisa, biologia molecular, banco de sangue, estética avançada e citologia.
+
+Por ser uma carreira da área de saúde e ter alta demanda, as notas de corte são competitivas — especialmente em universidades federais.
+
+## Nota de Corte Biomedicina SISU 2025 (por universidade)
+
+| Universidade | Estado | Modalidade | Nota de Corte |
+|-------------|--------|-----------|---------------|
+| UFPE | PE | Ampla Concorrência | ~695 |
+| UFMT | MT | Ampla Concorrência | ~660 |
+| UFMA | MA | Ampla Concorrência | ~650 |
+| UNIRIO | RJ | Ampla Concorrência | ~680 |
+| UFPI | PI | Ampla Concorrência | ~645 |
+| UFAL | AL | Ampla Concorrência | ~640 |
+| UFJF | MG | Ampla Concorrência | ~670 |
+| UNICENTRO | PR | Ampla Concorrência | ~620 |
+
+*Notas baseadas no SISU 2024/2025. Variam a cada edição.*
+
+## Nota de Corte por Modalidade de Cota
+
+| Modalidade | Variação aproximada |
+|-----------|---------------------|
+| Ampla Concorrência | 620–700 |
+| Escola Pública (L1) | 590–660 |
+| PPI – Escola Pública (L2) | 570–640 |
+| Renda familiar ≤ 1,5 SM (L3) | 565–635 |
+| Renda + PPI (L4) | 555–625 |
+
+## ProUni: Bolsas para Biomedicina
+
+O ProUni oferece bolsas em faculdades privadas para quem tem nota mínima de **450 pontos em cada prova + Redação**.
+
+Nota sugerida para boa competitividade no ProUni:
+- **Bolsa integral (renda ≤ 1,5 SM):** ~550–620 na média
+- **Bolsa parcial (renda ≤ 3 SM):** ~520–580 na média
+
+## Mercado de Trabalho: Biomedicina Vale a Pena?
+
+O biomédico tem uma das atuações mais amplas entre as profissões de saúde:
+
+**Áreas de atuação:**
+- Análises Clínicas (laboratórios, hospitais)
+- Biologia Molecular e Genética
+- Banco de Sangue e Hemoterapia
+- Saúde Estética (procedimentos estéticos avançados)
+- Pesquisa Científica e Farmacêutica
+- Citologia e Anatomia Patológica
+- Imunologia e Parasitologia
+
+**Salários médios (2025):**
+- Recém-formado: R$2.500–3.500
+- Especializado (análises clínicas): R$4.000–6.000
+- Saúde estética própria: R$6.000–12.000+
+
+## Como Calcular Sua Nota Para Biomedicina
+
+O SISU usa a média ponderada das 5 notas do ENEM:
+- Linguagens e Códigos
+- Ciências Humanas
+- Ciências da Natureza
+- Matemática
+- Redação
+
+Para Biomedicina, a ponderação varia por universidade. Algumas enfatizam Ciências da Natureza e Matemática.
+
+**Use a calculadora do MEC:** enem.mec.gov.br
+
+## Diferença Entre Biomedicina e Biologia/Medicina
+
+| Curso | Duração | Atuação | Nota ENEM |
+|-------|---------|---------|-----------|
+| Biomedicina | 4 anos | Lab, pesquisa, estética, análises | 620–700 |
+| Biologia | 4 anos | Ensino, pesquisa, ambiental | 590–660 |
+| Medicina | 6 anos | Clínica, cirurgia, diagnóstico | 780–880 |
+
+## Estratégia de Estudos Para Biomedicina
+
+Como Biomedicina exige Ciências da Natureza sólida:
+
+**Foque em:**
+- Biologia: genética, metabolismo celular, biologia molecular
+- Química: orgânica, bioquímica, soluções
+- Matemática: estatística (usada em pesquisa) + funções
+
+**Meta de nota por área:**
+- Ciências da Natureza: 680+
+- Matemática: 650+
+- Redação: 700+
+- Linguagens: 620+
+- Humanas: 620+
+
+[Pratique questões de Ciências da Natureza no ENEM Pro — 10 grátis por dia](/questoes/ciencias-da-natureza)
+    `,
+  },
+  {
+    slug: 'nota-de-corte-turismo-enem',
+    title: 'Nota de Corte Turismo ENEM 2025: SISU, ProUni e Mercado',
+    description: 'Nota de corte para Turismo no SISU 2025. Veja universidades, notas por modalidade, mercado de trabalho e como se preparar para o ENEM.',
+    date: '2026-06-15',
+    readTime: 6,
+    content: `
+## Turismo: Curso Acessível com Mercado em Expansão
+
+Turismo é uma das graduações com **menor nota de corte no SISU**, tornando-a acessível para candidatos com notas entre 500 e 600. Com o aquecimento do turismo nacional e internacional pós-pandemia, a demanda por profissionais qualificados cresceu significativamente.
+
+## Nota de Corte Turismo SISU 2025
+
+| Universidade | Estado | Modalidade | Nota de Corte |
+|-------------|--------|-----------|---------------|
+| UFPR | PR | Ampla Concorrência | ~580 |
+| UFBA | BA | Ampla Concorrência | ~570 |
+| UFC | CE | Ampla Concorrência | ~575 |
+| UFF | RJ | Ampla Concorrência | ~590 |
+| UFRN | RN | Ampla Concorrência | ~560 |
+| UFAM | AM | Ampla Concorrência | ~530 |
+| UFPB | PB | Ampla Concorrência | ~545 |
+| UFMS | MS | Ampla Concorrência | ~520 |
+
+*Dados baseados no SISU 2024/2025. As notas variam a cada edição.*
+
+## Nota de Corte por Cota
+
+| Modalidade | Variação |
+|-----------|----------|
+| Ampla Concorrência | 520–595 |
+| Escola Pública (L1) | 490–560 |
+| PPI + Escola Pública (L2) | 475–545 |
+| Renda ≤ 1,5 SM (L3) | 470–540 |
+| Renda + PPI (L4) | 460–530 |
+
+## ProUni em Turismo
+
+Com nota mínima de **450 pontos** em cada área + Redação, você já pode concorrer ao ProUni. Turismo é uma das graduações com maior oferta de bolsas integrais por ter notas menores e boa oferta em faculdades privadas.
+
+## O Que Faz um Bacharel em Turismo?
+
+O turismólogo tem atuação ampla:
+
+**Áreas de trabalho:**
+- Agências de viagens e operadoras turísticas
+- Hotéis e redes hoteleiras (gerência)
+- Planejamento turístico municipal e estadual
+- Ecoturismo e turismo de aventura
+- Eventos corporativos e festivais
+- Aeroportos e companhias aéreas
+- Plataformas digitais de turismo (Booking, Airbnb)
+- Órgãos de fomento do turismo (Embratur, Secretarias)
+
+**Salários:**
+- Guia de turismo: R$2.000–4.000 (+ gorjetas)
+- Gerente de hotel: R$4.000–8.000
+- Consultor em operadora: R$3.000–5.000
+- Especialista em eventos: R$3.500–6.000
+
+## Duração e Grade do Curso
+
+- **Duração:** 4 anos (8 semestres)
+- **Regime:** Integral ou Noturno (dependendo da universidade)
+- **Estágio:** Obrigatório — normalmente em hotéis, agências ou eventos
+
+## Comparativo com Cursos Próximos
+
+| Curso | Nota ENEM | Mercado | Salário médio |
+|-------|-----------|---------|---------------|
+| Turismo | 520–595 | Crescendo | R$3.000–6.000 |
+| Hotelaria | 500–570 | Aquecido | R$3.500–7.000 |
+| Gastronomia | 510–580 | Estável | R$2.500–6.000 |
+| Gestão Comercial | 490–560 | Amplo | R$3.000–5.500 |
+
+## Estratégia Para Atingir a Nota em Turismo
+
+Como Turismo exige nota equilibrada (sem área dominante):
+
+**Foque em:**
+- Redação: meta 700+ (peso alto na média)
+- Linguagens: texto e interpretação são essenciais
+- Humanas: geografia e história do turismo
+- Não negligencie Matemática e Ciências
+
+[Comece a praticar questões do ENEM gratuitamente — 10 por dia no ENEM Pro](/questoes/ciencias-humanas)
+    `,
+  },
+  {
+    slug: 'nota-de-corte-relacoes-internacionais-enem',
+    title: 'Nota de Corte Relações Internacionais ENEM 2025: SISU e Mercado',
+    description: 'Nota de corte para Relações Internacionais no SISU 2025. Veja universidades, notas por cota, mercado de trabalho e dicas para o ENEM.',
+    date: '2026-06-15',
+    readTime: 7,
+    content: `
+## Por Que Relações Internacionais Tem Nota Tão Alta?
+
+Relações Internacionais (RI) é um dos cursos mais concorridos nas universidades federais. Combina Direito Internacional, Economia, Ciência Política e Línguas — o que atrai candidatos com perfil de alta performance.
+
+A nota de corte costuma ficar entre **Direito e Ciências Sociais**, sendo o 4º ou 5º curso mais concorrido na maioria das federais.
+
+## Nota de Corte Relações Internacionais SISU 2025
+
+| Universidade | Estado | Modalidade | Nota de Corte |
+|-------------|--------|-----------|---------------|
+| UnB | DF | Ampla Concorrência | ~730 |
+| UFRGS | RS | Ampla Concorrência | ~715 |
+| USP (via FUVEST) | SP | — | FUVEST |
+| PUC-Rio (via ENEM) | RJ | Ampla Concorrência | ~700 |
+| UFMG | MG | Ampla Concorrência | ~710 |
+| UNICAMP (via Comvest) | SP | — | Comvest |
+| UFSC | SC | Ampla Concorrência | ~695 |
+| UFBA | BA | Ampla Concorrência | ~670 |
+| UFRJ | RJ | Ampla Concorrência | ~700 |
+| UFC | CE | Ampla Concorrência | ~665 |
+
+*UnB tem um dos cursos mais tradicionais do país em RI.*
+
+## Nota de Corte por Cota
+
+| Modalidade | Variação |
+|-----------|----------|
+| Ampla Concorrência | 665–735 |
+| Escola Pública (L1) | 630–700 |
+| PPI + Escola Pública (L2) | 615–685 |
+| Renda ≤ 1,5 SM (L3) | 610–680 |
+| Renda + PPI (L4) | 600–670 |
+
+## O Que Faz um Profissional de RI?
+
+Relações Internacionais é um dos cursos com maior diversidade de saída profissional:
+
+**Áreas de atuação:**
+- Diplomacia (carreira do Itamaraty — exige concurso CACD)
+- Comércio Exterior (importação/exportação)
+- Organismos Internacionais (ONU, OEA, Banco Mundial)
+- ONGs e cooperação internacional
+- Assessoria em empresas multinacionais
+- Inteligência de negócios internacionais
+- Jornalismo internacional
+- Consultoria em geopolítica
+
+**Salários:**
+- Trainee multinacional: R$4.000–6.000
+- Analista de comércio exterior: R$5.000–8.000
+- Diplomata (após concurso): R$20.000–35.000
+- Consultor em organismo internacional: US$3.000–8.000/mês
+
+## O Concurso do Itamaraty (CACD)
+
+Para quem quer ser diplomata, o CACD (Concurso de Admissão à Carreira Diplomática) é um dos mais difíceis do Brasil:
+
+- Prova de 5 línguas (inclui inglês e espanhol obrigatórios)
+- Economia internacional
+- Direito Internacional
+- História do Brasil e Contemporânea
+
+**O curso de RI na UnB tem o maior índice de aprovados no CACD.**
+
+## Ponderação das Notas para RI
+
+A maioria das universidades aplica peso maior em:
+- **Ciências Humanas** (história, geopolítica)
+- **Linguagens** (produção de texto, inglês)
+- **Redação** (sempre peso alto)
+
+Alguns programas específicos valorizam Matemática para RI com foco em economia.
+
+## Meta de Notas Por Área
+
+Para ser competitivo em RI nas federais:
+| Área | Meta mínima | Meta ideal |
+|------|------------|-----------|
+| Ciências Humanas | 700 | 740+ |
+| Linguagens | 660 | 700+ |
+| Redação | 720 | 800+ |
+| Ciências da Natureza | 620 | 660+ |
+| Matemática | 630 | 660+ |
+
+**Média ponderada alvo: 680–720**
+
+[Pratique questões de Ciências Humanas no ENEM Pro — 10 grátis por dia](/questoes/ciencias-humanas)
+    `,
+  },
+  {
+    slug: 'nota-de-corte-design-enem',
+    title: 'Nota de Corte Design ENEM 2025: SISU, ProUni e Mercado',
+    description: 'Nota de corte para Design no SISU 2025. Veja notas por universidade, modalidades de cota, mercado de trabalho e como se preparar.',
+    date: '2026-06-15',
+    readTime: 6,
+    content: `
+## Design: Um Dos Cursos Com Maior Crescimento de Demanda
+
+Design é uma das graduações que mais cresceu em valorização nos últimos anos. Com a digitalização da economia, designers são essenciais em empresas de tecnologia, agências de marketing, estúdios de UX/UI e no mercado freelancer.
+
+As notas de corte ficam em um nível médio — acessíveis, mas competitivas nas federais mais tradicionais.
+
+## Nota de Corte Design SISU 2025
+
+| Universidade | Estado | Habilitação | Nota de Corte |
+|-------------|--------|-------------|---------------|
+| UFPR | PR | Gráfico/Produto | ~620 |
+| UFRJ | RJ | Industrial/Gráfico | ~640 |
+| UFPB | PB | Gráfico | ~590 |
+| UFSC | SC | Gráfico | ~610 |
+| UFES | ES | Produto/Gráfico | ~595 |
+| UFAM | AM | Produto | ~560 |
+| UFPEL | RS | Produto | ~575 |
+| UFRN | RN | Gráfico | ~585 |
+| UFRGS | RS | Visual | ~630 |
+| UFBA | BA | Ind. Gráfico | ~600 |
+
+*Variam por habilitação (Gráfico, Produto, Digital, Moda, Interiores).*
+
+## Design: Quais Habilitações Existem?
+
+| Habilitação | Foco | Mercado |
+|------------|------|---------|
+| Design Gráfico | Identidade visual, editorial | Agências, freelance |
+| Design de Produto | Objetos, embalagens | Indústria, startups |
+| Design UX/UI | Interfaces digitais | Tecnologia, apps |
+| Design de Moda | Roupas, acessórios | Moda, têxtil |
+| Design de Interiores | Espaços, mobiliário | Construção civil, decoração |
+
+## Notas de Corte por Cota
+
+| Modalidade | Variação |
+|-----------|----------|
+| Ampla Concorrência | 555–645 |
+| Escola Pública (L1) | 525–610 |
+| PPI + Escola Pública (L2) | 510–595 |
+| Renda ≤ 1,5 SM (L3) | 505–590 |
+| Renda + PPI (L4) | 495–580 |
+
+## ProUni em Design
+
+Design é uma das graduações com boa oferta de bolsas ProUni em faculdades privadas. Nota mínima: **450 em cada área + Redação**.
+
+Exemplos de faculdades com ProUni em Design:
+- Anhembi Morumbi (SP) — Design de Moda
+- Estácio (vários estados) — Design Gráfico
+- Uninove (SP) — Design Digital
+
+## Mercado de Trabalho: Design Paga Bem?
+
+**Salários médios (2025):**
+- Designer Gráfico júnior: R$2.500–3.500
+- Designer UX/UI pleno: R$6.000–10.000
+- Designer Produto sênior: R$8.000–14.000
+- Freelancer (especialista): R$80–200/hora
+- Diretor de Arte: R$10.000–20.000
+
+O maior diferencial salarial em Design está em **especialização em UX/UI e produto digital**.
+
+## O Que Cai no ENEM Para Quem Quer Estudar Design?
+
+Design exige nota balanceada. Foque em:
+- **Redação** (comunicação e argumentação — essencial para designers)
+- **Linguagens** (interpretação visual e textual)
+- **Matemática** (geometria, proporções, escalas)
+- **Humanas** (contexto histórico da arte e design)
+
+**Meta de nota:**
+- Para federais médias (UFPB, UFES, UFRN): 580–620
+- Para federais top (UFRJ, UFRGS): 630–650
+- ProUni: 480–530
+
+[Pratique questões do ENEM por área no ENEM Pro — 10 grátis por dia](/questoes/linguagens)
+    `,
+  },
+  {
+    slug: 'nota-de-corte-ciencias-sociais-enem',
+    title: 'Nota de Corte Ciências Sociais ENEM 2025: SISU e Mercado',
+    description: 'Nota de corte para Ciências Sociais no SISU 2025. Notas por universidade, cota, mercado de trabalho e diferença entre licenciatura e bacharelado.',
+    date: '2026-06-15',
+    readTime: 6,
+    content: `
+## Ciências Sociais: Curso Versátil com Notas Acessíveis
+
+Ciências Sociais (também chamada de Sociologia) é uma das graduações com maior tradição nas federais brasileiras. O curso tem notas de corte acessíveis e forma profissionais que atuam em pesquisa, educação, políticas públicas e terceiro setor.
+
+Existe em duas modalidades: **Bacharelado** (pesquisa e análise) e **Licenciatura** (docência no ensino médio).
+
+## Nota de Corte Ciências Sociais SISU 2025
+
+| Universidade | Estado | Modalidade | Nota de Corte |
+|-------------|--------|-----------|---------------|
+| USP (via FUVEST) | SP | — | FUVEST |
+| UNICAMP (via Comvest) | SP | — | Comvest |
+| UFRJ | RJ | Bacharelado | ~620 |
+| UnB | DF | Bacharelado | ~640 |
+| UFMG | MG | Bacharelado | ~625 |
+| UFRGS | RS | Licenciatura | ~590 |
+| UFBA | BA | Bacharelado | ~600 |
+| UFPE | PE | Bacharelado | ~595 |
+| UFPR | PR | Bacharelado | ~610 |
+| UFC | CE | Licenciatura | ~575 |
+
+## Bacharelado vs. Licenciatura em Ciências Sociais
+
+| Modalidade | Duração | Saída | Requer |
+|-----------|---------|-------|--------|
+| Bacharelado | 4 anos | Pesquisa, consultoria, ONG | Pós-graduação para carreira acadêmica |
+| Licenciatura | 4 anos | Ensino médio (professor) | Concurso público ou CLT em escola privada |
+
+## Nota de Corte por Cota
+
+| Modalidade | Variação |
+|-----------|----------|
+| Ampla Concorrência | 575–645 |
+| Escola Pública (L1) | 545–610 |
+| PPI + Escola Pública (L2) | 530–595 |
+| Renda ≤ 1,5 SM (L3) | 525–590 |
+| Renda + PPI (L4) | 515–580 |
+
+## O Que Faz um Cientista Social?
+
+**Bacharelado — áreas de atuação:**
+- Pesquisas de mercado e opinião
+- Consultoria em políticas públicas
+- ONGs e organizações internacionais
+- Jornalismo e comunicação política
+- Recursos humanos e diversidade
+- Análise de dados qualitativos
+
+**Licenciatura — áreas de atuação:**
+- Professor de Sociologia no ensino médio
+- Coordenação pedagógica
+- Concurso público para educação
+
+**Salários:**
+- Professor de Sociologia (início): R$2.800–3.500
+- Pesquisador em institutos: R$4.000–6.000
+- Consultor em políticas públicas: R$5.000–9.000
+- Analista em ONG internacional: R$6.000–12.000
+
+## Quais Matérias do ENEM São Mais Importantes Para Ciências Sociais?
+
+Para a maioria das universidades que oferecem Ciências Sociais, o peso maior é em:
+
+- **Ciências Humanas** (História, Geografia, Filosofia, Sociologia)
+- **Linguagens e Códigos** (texto, argumentação)
+- **Redação** (sempre peso relevante)
+
+**Meta de nota por área:**
+| Área | Meta |
+|------|------|
+| Ciências Humanas | 680+ |
+| Linguagens | 640+ |
+| Redação | 700+ |
+| Ciências da Natureza | 580+ |
+| Matemática | 570+ |
+
+**Média ponderada alvo:** 620–650
+
+[Pratique questões de Ciências Humanas no ENEM Pro — 10 grátis por dia](/questoes/ciencias-humanas)
+    `,
+  },
+  {
+    slug: 'cronograma-enem-3-meses',
+    title: 'Cronograma de Estudos para o ENEM em 3 Meses: Semana a Semana',
+    description: 'Cronograma completo de estudos para o ENEM em 3 meses (12 semanas). Veja o que estudar cada semana, quantas horas por dia e como não desanimar.',
+    date: '2026-06-15',
+    readTime: 8,
+    content: `
+## É Possível Passar no ENEM em 3 Meses?
+
+Sim — com o método certo. Três meses (12 semanas) é tempo suficiente para elevar a nota em **80 a 150 pontos** em cada área, se você:
+
+1. Estudar de forma consistente (não precisa ser 8h/dia)
+2. Priorizar os temas de maior peso
+3. Praticar com questões reais do INEP, não apenas teoria
+4. Corrigir os erros no mesmo dia em que erra
+
+Este cronograma foi desenhado para quem tem **2 a 4 horas por dia** disponíveis.
+
+## Cronograma Geral: Visão de 12 Semanas
+
+| Semanas | Foco |
+|---------|------|
+| 1–2 | Diagnóstico + base de Matemática e Língua Portuguesa |
+| 3–4 | Ciências da Natureza (Física + Química + Bio básica) |
+| 5–6 | Ciências Humanas (História + Geografia + Filosofia + Sociologia) |
+| 7–8 | Aprofundamento: Matemática avançada + Biologia |
+| 9–10 | Redação: técnica + prática de textos |
+| 11 | Revisão geral + simulado cronometrado |
+| 12 | Revisão de erros + descanso estratégico |
+
+## Semana a Semana: O Que Estudar
+
+### Semanas 1–2: Diagnóstico e Base
+
+**Semana 1:**
+- 2ª: Fazer 45 questões de Matemática do ENEM 2024 (diagnóstico)
+- 3ª: Álgebra básica (equações 1º e 2º grau)
+- 4ª: Interpretação de texto — prova ENEM 2023 (Linguagens)
+- 5ª: Razão, proporção, porcentagem
+- 6ª: Gramática contextual — interpretação de textos literários
+- Sáb: 20 questões de Humanas (diagnóstico)
+
+**Semana 2:**
+- 2ª: Funções do 1º grau + gráficos
+- 3ª: Intertextualidade + literatura brasileira (ENEM cobra muito)
+- 4ª: Funções do 2º grau
+- 5ª: Figuras de linguagem + gêneros textuais
+- 6ª: Revisão + 30 questões mistas
+- Sáb: Simulado parcial (Linguagens + Matemática)
+
+### Semanas 3–4: Ciências da Natureza
+
+**Semana 3 (Física):**
+- 2ª: Mecânica (Newton, vetores, movimento)
+- 3ª: Energia (trabalho, potência, conservação)
+- 4ª: Termodinâmica + calorimetria
+- 5ª: Eletrostática e eletrodinâmica
+- 6ª: Óptica + ondas (som, luz)
+- Sáb: 25 questões de Física ENEM
+
+**Semana 4 (Química + Bio básica):**
+- 2ª: Química Orgânica (funções, reações)
+- 3ª: Soluções e estequiometria
+- 4ª: Química ambiental + reações inorgânicas
+- 5ª: Célula + metabolismo + genética básica
+- 6ª: Ecologia + evolução
+- Sáb: 30 questões de Natureza
+
+### Semanas 5–6: Ciências Humanas
+
+**Semana 5 (História + Geo):**
+- 2ª: Brasil Colonial e Imperial
+- 3ª: República e século XX brasileiro
+- 4ª: Geopolítica mundial e conflitos
+- 5ª: Cartografia, climatologia, urbanização
+- 6ª: História contemporânea (pós-Guerra Fria)
+- Sáb: 25 questões de Humanas
+
+**Semana 6 (Filosofia + Sociologia):**
+- 2ª: Iluminismo, contratualistas, Kant, Marx
+- 3ª: Desigualdades sociais + cidadania + direitos
+- 4ª: Ética, política e Estado
+- 5ª: Contemporaneidade: globalização, diversidade, movimentos sociais
+- 6ª: Revisão geral de Humanas
+- Sáb: Simulado de Humanas completo
+
+### Semanas 7–8: Aprofundamento
+
+**Semana 7 (Matemática avançada):**
+- 2ª: Logaritmos e exponenciais
+- 3ª: Progressões PA e PG
+- 4ª: Estatística e probabilidade
+- 5ª: Geometria espacial (volume, área)
+- 6ª: Trigonometria
+- Sáb: 40 questões de Matemática
+
+**Semana 8 (Biologia aprofundada):**
+- 2ª: Genética (lei de Mendel, cromossomos)
+- 3ª: Biotecnologia e DNA
+- 4ª: Saúde e doenças (ENEM sempre cobra)
+- 5ª: Biomas e meio ambiente
+- 6ª: Revisão de Natureza completa
+- Sáb: Simulado de Natureza completo
+
+### Semanas 9–10: Redação
+
+**Semana 9 (Estrutura e repertório):**
+- 2ª: As 5 competências — entenda o que a banca avalia
+- 3ª: Escreva uma redação + corrija com os critérios
+- 4ª: Repertório: pesquise 10 temas quentes do ENEM 2026
+- 5ª: Proposta de intervenção — como escrever 200/200
+- 6ª: Escreva outra redação em 60 min
+- Sáb: Mais 1 redação completa (cronometrada)
+
+**Semana 10 (Prática intensa):**
+- 2ª: Análise dos seus erros nas redações anteriores
+- 3ª: Coesão e coerência — reestruture textos ruins
+- 4ª: Escreva redação sobre tema novo
+- 5ª: Revise erros de C1 (domínio da língua)
+- 6ª: Redação completa final
+- Sáb: Simulado completo 1 (dia inteiro)
+
+### Semana 11: Revisão Geral
+
+- 2ª: Revisão rápida de Matemática (erros mais comuns)
+- 3ª: Revisão de Ciências da Natureza
+- 4ª: Revisão de Humanas
+- 5ª: Revisão de Linguagens
+- 6ª: Questões de temas que você ainda erra
+- Sáb: **Simulado completo 2** (todos os dias, cronometrado)
+
+### Semana 12: Reta Final
+
+- 2ª: Analisar erros do Simulado 2 — só revisar, não estudar conteúdo novo
+- 3ª: Questões de aquecimento — 20–30 fáceis/médias
+- 4ª: Revisão de fórmulas e macetes de Matemática
+- 5ª: Descanso + organização para a prova
+- 6ª: Ler as instruções da prova, conferir local, dormir cedo
+- **ENEM: estar no local às 12h (prova começa às 13h)**
+
+## Quantas Horas Por Dia?
+
+| Disponibilidade | Progresso esperado |
+|----------------|-------------------|
+| 2h/dia | +50 a +80 pontos por área |
+| 3h/dia | +70 a +110 pontos por área |
+| 4h/dia | +90 a +150 pontos por área |
+
+**Qualidade > quantidade:** 2h focadas valem mais que 5h dispersas.
+
+## Materiais Recomendados Para 3 Meses
+
+1. **Questões reais do INEP (2009–2024)** — mais importante que videoaulas
+2. **Provas comentadas** — entender o raciocínio dos gabaritos
+3. **ENEM Pro** — questões organizadas por tema com explicação de IA em 30s
+
+[Comece com 10 questões por dia grátis no ENEM Pro — sem cartão de crédito](/questoes/matematica)
+    `,
+  },
+  {
+    slug: 'dicas-ultima-hora-enem',
+    title: 'Dicas de Última Hora Para o ENEM: O Que Fazer na Semana da Prova',
+    description: 'O que fazer (e o que evitar) na semana do ENEM. Dicas práticas de revisão, alimentação, logística e como chegar no dia da prova no seu melhor.',
+    date: '2026-06-15',
+    readTime: 7,
+    content: `
+## A Semana Mais Importante: O Que Fazer Agora
+
+A semana antes do ENEM é decisiva — mas não da forma que a maioria pensa. Não é hora de aprender coisas novas. É hora de **consolidar, organizar e chegar no dia em ótimo estado**.
+
+Candidatos que estudam desesperadamente até a madrugada do ENEM geralmente performam abaixo do potencial. Os que seguem um plano de reta final saudável mantêm ou elevam a nota.
+
+## Segunda-Feira: Revisão Estratégica
+
+**O que fazer:**
+- Revise apenas temas que você domina bem (reforço positivo)
+- Releia anotações e resumos — não abra novos conteúdos
+- Faça 20–30 questões de aquecimento (não de treino intenso)
+
+**Evite:**
+- Estudar temas novos ou difíceis
+- Fazer simulado longo — vai gerar ansiedade desnecessária
+- Estudar mais de 3 horas
+
+## Terça-Feira: Matemática e Redação
+
+**Matemática:**
+- Releia as fórmulas que você tem dificuldade
+- Faça 15–20 questões de temas que você costuma acertar
+- Não tente "resolver" seus pontos fracos agora
+
+**Redação:**
+- Releia suas melhores redações escritas durante os estudos
+- Revise a estrutura da proposta de intervenção (agente + ação + modo + finalidade)
+- Pesquise 2–3 repertórios culturais sobre temas prováveis 2026
+
+## Quarta-Feira: Ciências e Humanas
+
+**Manhã — Natureza (Física, Química, Biologia):**
+- Revise fórmulas e conceitos chave (tabela periódica, leis de Newton, genética)
+- 15–20 questões de revisão
+
+**Tarde — Humanas (História, Geo, Filo, Socio):**
+- Revise mapas mentais de eventos históricos principais
+- Releia cronologia dos fatos mais cobrados no ENEM
+
+**Noite:** Descanse. Sem estudo depois das 21h.
+
+## Quinta-Feira: Logística e Documentos
+
+**Lista de checagem:**
+- [ ] Local de prova confirmado (site do ENEM / Minha Página)
+- [ ] Horário de abertura dos portões (13h — portões fecham 13h)
+- [ ] Documento oficial com foto: RG, CNH ou CTPS (original, não cópia)
+- [ ] Caneta esferográfica de tinta **preta e fabricação nacional** (pode levar 2–3)
+- [ ] Lanche e água (pode entrar com comida embalada)
+- [ ] Como chegar ao local: teste o trajeto se possível
+
+**Sobre a caneta:** O ENEM exige caneta esferográfica de tinta preta de fabricação nacional. BIC, Faber-Castell e Paper Mate são as mais seguras. Evite caneta gel — o INEP pode invalidar o gabarito se houver borrão.
+
+## Sexta-Feira: Descanso Ativo
+
+- Pare de estudar às 17h no máximo
+- Atividade física leve (caminhada, alongamento)
+- Jantar tranquilo + dormir cedo (22h–23h)
+- Defina o alarme para acordar com tranquilidade: pelo menos 2h antes da saída de casa
+
+## Sábado (1º Dia da Prova): Linguagens + Humanas + Redação
+
+**Manhã:**
+- Café da manhã completo (glicose = foco)
+- Saia de casa com antecedência — chegue ao local antes das 12h30
+- Leve: documento, caneta (2–3), lanche, água
+
+**Na sala:**
+- Leia todo o caderno antes de começar a responder
+- Comece pela **Redação** (você ainda está fresco e criativo)
+- Reserve 60–70 min para a Redação
+
+**Gestão de tempo — 1º dia (5h30):**
+| Parte | Tempo sugerido |
+|-------|---------------|
+| Redação | 60–70 min |
+| Ciências Humanas (45 questões) | 70–80 min |
+| Linguagens (45 questões) | 80–90 min |
+| Revisão + transferência | 20–30 min |
+
+**Não saia cedo:** portões trancam às 13h, mas você só pode sair sem levar o caderno após 15h30. A partir das 15h30, pode sair e levar o caderno (use para conferir gabarito depois).
+
+## Domingo (2º Dia da Prova): Natureza + Matemática
+
+**Dica de ordem:**
+- Comece por **Ciências da Natureza** (Física, Química, Bio) — mais objetiva
+- Reserve mais tempo para **Matemática** — questões são mais longas
+
+**Gestão de tempo — 2º dia (5h):**
+| Parte | Tempo sugerido |
+|-------|---------------|
+| Ciências da Natureza (45 questões) | 80–90 min |
+| Matemática (45 questões) | 100–110 min |
+| Revisão | 20 min |
+
+**Atenção:** O 2º dia costuma ter mais questões difíceis de Matemática. Não trave — marque, passe e volte.
+
+## O Que Comer no Dia da Prova
+
+**Ideal:**
+- Café da manhã completo com carboidratos + proteína
+- Lanche para levar: frutas, castanhas, barra de cereal, sanduíche
+- Água (atenção: pode ir ao banheiro, mas perde tempo)
+
+**Evite:**
+- Comidas pesadas (macarrão, feijoada) que causam sonolência
+- Café em excesso (pode gerar ansiedade)
+- Ficar sem comer (hipoglicemia prejudica memória e raciocínio)
+
+## Mentalidade: O Que Diz a Pesquisa
+
+Estudos sobre performance em testes mostram que:
+- **Sono** na véspera impacta mais a nota que horas extras de estudo
+- **Ansiedade moderada** é normal e melhora foco — ansiedade extrema prejudica
+- Candidatos que **confiam no preparo** tendem a performar melhor
+
+Você estudou. Agora é hora de entregar.
+
+**[Faça um simulado rápido antes da prova — 10 questões grátis no ENEM Pro](/questoes/matematica)**
+    `,
+  },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)

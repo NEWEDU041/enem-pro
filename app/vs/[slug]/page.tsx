@@ -151,6 +151,46 @@ const COMPETITORS: Record<string, Competitor> = {
       'Cobre ENEM e outros vestibulares',
     ],
   },
+  'prepara-enem': {
+    name: 'Prepara ENEM',
+    slug: 'prepara-enem',
+    price: 'R$19–39/mês',
+    desc: 'Aplicativo móvel com questões de ENEM e simulados rápidos para praticar no celular.',
+    focus: 'App mobile + simulados rápidos',
+    cons: [
+      'Custo 1,3–2,6× maior que o ENEM Pro',
+      'Banco de questões incompleto (não cobre 2009–2024 integralmente)',
+      'Sem explicação de IA por questão',
+      'Sem gabarito histórico interativo',
+      'Sem calculadora de nota TRI',
+      'Sem cronograma personalizado de estudos',
+    ],
+    pros: [
+      'Interface mobile amigável',
+      'Simulados rápidos para praticar no celular',
+      'Notificações de lembretes de estudo',
+    ],
+  },
+  estrategia: {
+    name: 'Estratégia Vestibulares',
+    slug: 'estrategia',
+    price: 'R$39–89/mês',
+    desc: 'Plataforma com videoaulas, cursos e simulados para ENEM e vestibulares, com professores reconhecidos.',
+    focus: 'Videoaulas + simulados + ENEM',
+    cons: [
+      'Custo 2,6–6× maior que o ENEM Pro',
+      'Foco em conteúdo passivo (videoaulas) — não em prática ativa',
+      'Sem banco de questões INEP real organizado por ano',
+      'Sem IA que explica o raciocínio de cada questão errada',
+      'Sem modo revisão automático de erros por disciplina',
+      'Plano com mais recursos custa R$89/mês',
+    ],
+    pros: [
+      'Professores reconhecidos com didática comprovada',
+      'Cobre ENEM e principais vestibulares estaduais',
+      'Simulados completos com correção',
+    ],
+  },
 }
 
 export async function generateStaticParams() {
