@@ -90,7 +90,7 @@ create policy "users_own_subscription" on subscriptions
 drop policy if exists "service_manages_daily_usage" on daily_usage;
 drop policy if exists "users_read_own_daily_usage" on daily_usage;
 create policy "users_read_own_daily_usage" on daily_usage
-  for select using (auth.uid() = user_id);
+  for select using ((select auth.uid()) = user_id);
 
 -- API routes usam service_role_key (bypassa RLS — correto para server-side)
 -- As policies abaixo cobrem acesso via anon key (browser direto — não deve acontecer)
@@ -99,20 +99,20 @@ drop policy if exists "users_read_own_answers" on user_answers;
 drop policy if exists "service_inserts_own_answers" on user_answers;
 
 create policy "users_read_own_answers" on user_answers
-  for select using (auth.uid() = user_id);
+  for select using ((select auth.uid()) = user_id);
 
 create policy "service_inserts_own_answers" on user_answers
   for insert with check (auth.uid() = user_id);
 
 -- ────────────────────────────────────────────────────────────
--- TRIGGER: criar subscription free ao registrar usuário
+-- TRIGGERS — funções no schema supabase_functions (não exposto
+-- via PostgREST, evita que anon/authenticated chamem via /rpc/)
 -- ────────────────────────────────────────────────────────────
 
-create or replace function handle_new_user()
-returns trigger
-language plpgsql
-security definer
-set search_path = public
+create schema if not exists supabase_functions;
+
+create or replace function supabase_functions.handle_new_user()
+returns trigger language plpgsql security definer set search_path = ''
 as $$
 begin
   insert into public.subscriptions (user_id, plan)
@@ -125,15 +125,10 @@ $$;
 drop trigger if exists on_auth_user_created on auth.users;
 create trigger on_auth_user_created
   after insert on auth.users
-  for each row execute procedure handle_new_user();
+  for each row execute function supabase_functions.handle_new_user();
 
--- ────────────────────────────────────────────────────────────
--- TRIGGER: atualizar subscriptions.updated_at automaticamente
--- ────────────────────────────────────────────────────────────
-
-create or replace function set_updated_at()
-returns trigger
-language plpgsql
+create or replace function supabase_functions.set_updated_at()
+returns trigger language plpgsql set search_path = ''
 as $$
 begin
   new.updated_at = now();
@@ -143,8 +138,8 @@ $$;
 
 drop trigger if exists subscriptions_updated_at on subscriptions;
 create trigger subscriptions_updated_at
-  before update on subscriptions
-  for each row execute procedure set_updated_at();
+  before update on public.subscriptions
+  for each row execute function supabase_functions.set_updated_at();
 
 -- Redações enviadas para correção por IA
 create table if not exists redacao_submissions (
@@ -159,11 +154,11 @@ alter table redacao_submissions enable row level security;
 
 drop policy if exists "users_read_own_redacoes" on redacao_submissions;
 create policy "users_read_own_redacoes" on redacao_submissions
-  for select using (auth.uid() = user_id);
+  for select using ((select auth.uid()) = user_id);
 
 drop policy if exists "service_inserts_redacoes" on redacao_submissions;
 create policy "service_inserts_redacoes" on redacao_submissions
-  for insert with check (auth.uid() = user_id);
+  for insert with check ((select auth.uid()) = user_id);
 
 create index if not exists idx_redacao_user on redacao_submissions (user_id, submitted_at desc);
 
@@ -188,9 +183,11 @@ create table if not exists referrals (
 
 alter table referrals enable row level security;
 
+create index if not exists idx_referrals_referrer_id on referrals (referrer_id);
+
 drop policy if exists "users_read_own_referrals" on referrals;
 create policy "users_read_own_referrals" on referrals
-  for select using (auth.uid() = referrer_id);
+  for select using ((select auth.uid()) = referrer_id);
 
 -- ────────────────────────────────────────────────────────────
 -- EMAIL DRIP LOG — evita envios duplicados
@@ -203,6 +200,10 @@ create table if not exists email_drip_log (
 );
 
 alter table email_drip_log enable row level security;
+
+drop policy if exists "no_direct_access_drip_log" on email_drip_log;
+create policy "no_direct_access_drip_log" on email_drip_log
+  for select using ((select auth.uid()) = user_id);
 
 -- ────────────────────────────────────────────────────────────
 -- USER PROFILES — para cron de email drip sem auth admin API
@@ -218,10 +219,11 @@ alter table user_profiles enable row level security;
 
 drop policy if exists "users_read_own_profile" on user_profiles;
 create policy "users_read_own_profile" on user_profiles
-  for select using (auth.uid() = user_id);
+  for select using ((select auth.uid()) = user_id);
 
-create or replace function handle_new_user_profile()
-returns trigger language plpgsql security definer set search_path = public as $$
+create or replace function supabase_functions.handle_new_user_profile()
+returns trigger language plpgsql security definer set search_path = ''
+as $$
 begin
   if new.email is not null then
     insert into public.user_profiles (user_id, email, name)
@@ -235,7 +237,7 @@ $$;
 drop trigger if exists on_auth_user_created_profile on auth.users;
 create trigger on_auth_user_created_profile
   after insert on auth.users
-  for each row execute procedure handle_new_user_profile();
+  for each row execute function supabase_functions.handle_new_user_profile();
 
 -- ────────────────────────────────────────────────────────────
 -- VERIFICAÇÃO FINAL
