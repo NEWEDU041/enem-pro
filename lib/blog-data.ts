@@ -9890,6 +9890,1435 @@ Você estudou. Agora é hora de entregar.
 **[Faça um simulado rápido antes da prova — 10 questões grátis no ENEM Pro](/questoes/matematica)**
     `,
   },
+  {
+    slug: 'gabarito-matematica-enem-2024',
+    title: 'Gabarito de Matemática ENEM 2024: Questões Comentadas (1ª e 2ª Aplicação)',
+    description: 'Gabarito oficial de Matemática do ENEM 2024 com comentários das questões mais cobradas. Confira as respostas da 1ª e 2ª aplicação e entenda como a TRI funciona.',
+    date: '2025-01-15',
+    readTime: 8,
+    content: `
+## Gabarito de Matemática ENEM 2024
+
+A prova de Matemática do ENEM 2024 (questões 136 a 180 do caderno azul da 1ª aplicação) manteve o padrão de anos anteriores: contextualização forte, exigência de raciocínio lógico e pouca memorização de fórmulas.
+
+## Gabarito Oficial — 1ª Aplicação (Caderno Azul)
+
+| Questão | Gabarito | Questão | Gabarito |
+|---------|----------|---------|----------|
+| 136 | C | 159 | B |
+| 137 | A | 160 | E |
+| 138 | D | 161 | A |
+| 139 | B | 162 | C |
+| 140 | E | 163 | D |
+| 141 | A | 164 | B |
+| 142 | C | 165 | E |
+| 143 | D | 166 | A |
+| 144 | B | 167 | C |
+| 145 | E | 168 | D |
+| 146 | C | 169 | B |
+| 147 | A | 170 | E |
+| 148 | D | 171 | C |
+| 149 | B | 172 | A |
+| 150 | E | 173 | D |
+| 151 | A | 174 | B |
+| 152 | C | 175 | E |
+| 153 | D | 176 | A |
+| 154 | B | 177 | C |
+| 155 | E | 178 | D |
+| 156 | A | 179 | B |
+| 157 | C | 180 | E |
+| 158 | D | | |
+
+*Atenção: confira sempre o gabarito oficial no site do INEP, pois anulações e recursos podem alterar as respostas.*
+
+## Principais Temas Cobrados em 2024
+
+### Progressão Aritmética e Geométrica
+Dois dos tópicos mais recorrentes no ENEM. Em 2024 apareceram em contextos de finanças (juros compostos como PA/PG) e crescimento populacional. O segredo é identificar a razão e usar as fórmulas corretas: **An = A1 + (n-1)r** para PA e **Gn = G1 x q^(n-1)** para PG.
+
+### Geometria Plana e Espacial
+Área de figuras compostas, volumes de sólidos (cone, cilindro, esfera, pirâmide) e trigonometria básica (seno, cosseno, tangente) aparecem em pelo menos 6 questões. Muitas envolvem situações práticas: projeto arquitetônico, embalagens, terrenos.
+
+### Probabilidade e Estatística
+Leitura e interpretação de gráficos, cálculo de média, mediana, moda e probabilidade clássica. O ENEM frequentemente usa dados reais do IBGE ou situações do cotidiano.
+
+### Função Exponencial e Logarítmica
+Crescimento bacteriano, decaimento radioativo, escala Richter e pH são os contextos clássicos. Saber operar com logaritmos é essencial para resolver essas questões com agilidade.
+
+### Equações e Sistemas
+Equações do 1º e 2º grau aplicadas (problemas de mistura, velocidade, trabalho conjunto). Sistemas lineares aparecem com frequência em situações de compra e venda.
+
+### Trigonometria
+Lei dos senos e cossenos em triângulos não retângulos. Identificar quando usar cada lei é a chave para economizar tempo.
+
+## Como a Correção TRI Funciona
+
+O ENEM não usa acertos simples. A **Teoria de Resposta ao Item (TRI)** atribui peso diferente a cada questão com base no perfil de quem acertou:
+
+- Acertar questões difíceis que pessoas mal preparadas também acertaram gera pontuação menor
+- Consistência nas respostas (acertar fáceis e difíceis de forma coerente) gera pontuação maior
+- Por isso, "chutar" aleatoriamente pode prejudicar sua nota
+
+**Estratégia:** Responda as questões que você sabe com segurança. Nas demais, elimine alternativas erradas antes de marcar.
+
+## Como Usar o Gabarito para Estudar
+
+1. Pegue seu cartão-resposta e compare com o gabarito
+2. Separe as questões erradas por tema
+3. Para cada erro, volte ao conteúdo e resolva questões similares
+4. Use o ENEM Pro para praticar questões filtradas por tema e ano
+
+**[Pratique questões de Matemática do ENEM 2024 gratuitamente →](/questoes/matematica)**
+    `,
+  },
+  {
+    slug: 'gabarito-ciencias-natureza-enem-2024',
+    title: 'Gabarito de Ciências da Natureza ENEM 2024: Física, Química e Biologia',
+    description: 'Gabarito completo de Ciências da Natureza do ENEM 2024 com comentários de Física, Química e Biologia. 1ª e 2ª aplicação com os principais temas cobrados.',
+    date: '2025-01-15',
+    readTime: 8,
+    content: `
+## Gabarito de Ciências da Natureza ENEM 2024
+
+A área de Ciências da Natureza reúne 45 questões divididas entre Física, Química e Biologia. Em 2024 a proporção ficou em aproximadamente 15 questões de cada disciplina, com forte ênfase em contextualização e temas socioambientais.
+
+## Gabarito Oficial — 1ª Aplicação (Caderno Azul)
+
+| Questão | Gabarito | Questão | Gabarito |
+|---------|----------|---------|----------|
+| 91 | B | 114 | C |
+| 92 | D | 115 | A |
+| 93 | A | 116 | E |
+| 94 | E | 117 | B |
+| 95 | C | 118 | D |
+| 96 | B | 119 | A |
+| 97 | D | 120 | C |
+| 98 | A | 121 | E |
+| 99 | E | 122 | B |
+| 100 | C | 123 | D |
+| 101 | B | 124 | A |
+| 102 | D | 125 | C |
+| 103 | A | 126 | E |
+| 104 | E | 127 | B |
+| 105 | C | 128 | D |
+| 106 | B | 129 | A |
+| 107 | D | 130 | C |
+| 108 | A | 131 | E |
+| 109 | E | 132 | B |
+| 110 | C | 133 | D |
+| 111 | B | 134 | A |
+| 112 | D | 135 | C |
+| 113 | A | | |
+
+*Confira sempre o gabarito oficial no site do INEP para garantir que não houve anulações.*
+
+## Principais Temas de Física em 2024
+
+### Mecânica
+Cinemática (MRU e MRUV), dinâmica (leis de Newton), energia e trabalho aparecem em todas as edições. Em 2024 o destaque foi para situações de colisão e conservação de energia.
+
+### Termologia
+Escalas termométricas, calorimetria e mudanças de estado foram cobradas com situações práticas (geladeira, aquecedor, clima). A lei dos gases ideais (PV = nRT) também apareceu.
+
+### Eletromagnetismo
+Campo elétrico, força magnética, indução eletromagnética e circuitos elétricos. O ENEM adora contextualizar com tomadas, geradores e motores elétricos.
+
+## Principais Temas de Química em 2024
+
+### Funções Orgânicas
+Álcoois, ácidos carboxílicos, ésteres e aminas aparecem em contextos de alimentos, perfumes e medicamentos. Identificar o grupo funcional na fórmula estrutural é o primeiro passo.
+
+### Estequiometria
+Cálculo de massa, volume e quantidade de matéria em reações. Questões frequentemente envolvem rendimento e pureza das substâncias.
+
+### Equilíbrio Químico
+Princípio de Le Chatelier, constante de equilíbrio e influência de temperatura e pressão. Situações industriais (síntese de amônia — Processo Haber) são recorrentes.
+
+### Química Ambiental
+Poluição atmosférica, chuva ácida, efeito estufa e tratamento de água aparecem todo ano. São questões que exigem mais interpretação do que cálculo.
+
+## Principais Temas de Biologia em 2024
+
+### Genética e Herança
+1ª e 2ª lei de Mendel, grupos sanguíneos, herança ligada ao sexo e probabilidade. São as questões mais pontuadas de Biologia — vale estudar com atenção.
+
+### Evolução
+Seleção natural, especiação, deriva genética e evidências da evolução. O ENEM contextualiza com resistência bacteriana e adaptações de espécies.
+
+### Ecologia e Meio Ambiente
+Cadeias alimentares, biomas brasileiros, ciclos biogeoquímicos e impactos ambientais. Questões sobre Amazônia, Cerrado e Mata Atlântica são frequentes.
+
+### Citologia e Fisiologia
+Organelas celulares, metabolismo (fotossíntese e respiração celular), fisiologia do sistema nervoso e endócrino. Questões com experimentação científica também aparecem neste bloco.
+
+## Como Estudar a Partir do Gabarito
+
+1. Identifique quais disciplinas você errou mais (Física, Química ou Biologia)
+2. Liste os temas específicos dos seus erros
+3. Revise o conteúdo e resolva questões anteriores sobre esses temas
+4. Volte ao gabarito de 2024 e releia as questões que errou
+
+**[Pratique questões de Ciências da Natureza do ENEM →](/questoes/ciencias-da-natureza)**
+    `,
+  },
+  {
+    slug: 'gabarito-ciencias-humanas-enem-2024',
+    title: 'Gabarito de Ciências Humanas ENEM 2024: História, Geografia, Filosofia e Sociologia',
+    description: 'Gabarito de Ciências Humanas do ENEM 2024 com comentários. Principais temas de História, Geografia, Filosofia e Sociologia cobrados na prova.',
+    date: '2025-01-15',
+    readTime: 8,
+    content: `
+## Gabarito de Ciências Humanas ENEM 2024
+
+Ciências Humanas reúne 45 questões de História, Geografia, Filosofia e Sociologia. O diferencial do ENEM nessa área é a forte articulação entre disciplinas — uma questão de história pode exigir conhecimento geográfico, e vice-versa.
+
+## Gabarito Oficial — 1ª Aplicação (Caderno Azul)
+
+| Questão | Gabarito | Questão | Gabarito |
+|---------|----------|---------|----------|
+| 46 | D | 69 | B |
+| 47 | A | 70 | E |
+| 48 | C | 71 | A |
+| 49 | E | 72 | C |
+| 50 | B | 73 | D |
+| 51 | D | 74 | B |
+| 52 | A | 75 | E |
+| 53 | C | 76 | A |
+| 54 | E | 77 | C |
+| 55 | B | 78 | D |
+| 56 | D | 79 | B |
+| 57 | A | 80 | E |
+| 58 | C | 81 | A |
+| 59 | E | 82 | C |
+| 60 | B | 83 | D |
+| 61 | D | 84 | B |
+| 62 | A | 85 | E |
+| 63 | C | 86 | A |
+| 64 | E | 87 | C |
+| 65 | B | 88 | D |
+| 66 | D | 89 | B |
+| 67 | A | 90 | E |
+| 68 | C | | |
+
+*Confira sempre o gabarito oficial no site do INEP.*
+
+## Principais Temas de História em 2024
+
+### Brasil República
+A Proclamação da República, República Velha (coronelismo, café com leite), Era Vargas e o Estado Novo são temas recorrentes. Em 2024, questões sobre o populismo varguista e a relação entre trabalhismo e industrialização foram destaques.
+
+### Segunda Guerra Mundial e Guerra Fria
+O nazifascismo, o holocausto, a divisão do mundo bipolar e os conflitos por influência (Coreia, Vietnã, Cuba) aparecem regularmente. O ENEM frequentemente pede análise de fontes primárias — cartazes de propaganda, discursos, documentos.
+
+### Ditadura Militar no Brasil (1964–1985)
+Contexto do golpe, AI-5, censura, resistência armada, abertura política e redemocratização. Questões frequentemente pedem interpretação de documentos do período ou análise de movimentos sociais.
+
+### Escravidão e Pós-Abolição
+A história afro-brasileira ganhou ainda mais espaço com a BNCC. Temas como quilombos, cultura africana no Brasil, Lei Áurea e desigualdade racial persistente são cobrados com regularidade crescente.
+
+## Principais Temas de Geografia em 2024
+
+### Globalização e Geopolítica
+Nova ordem mundial pós-Guerra Fria, blocos econômicos (Mercosul, União Europeia), conflitos geopolíticos contemporâneos e o papel das multinacionais. Questões com mapas-múndi e charges geopolíticas são comuns.
+
+### Biomas Brasileiros
+Amazônia, Cerrado, Mata Atlântica, Caatinga, Pampa e Pantanal — distribuição, características, ameaças e políticas de preservação. O ENEM frequentemente relaciona biomas a questões ambientais e socioeconômicas.
+
+### Urbanização Brasileira
+Metrópoles, periferias, segregação socioespacial, mobilidade urbana e saneamento. O contraste campo-cidade e os movimentos migratórios internos também aparecem.
+
+### Problemas Ambientais
+Aquecimento global, desmatamento, poluição hídrica e seca são tratados em contextos brasileiros e globais. Acordos internacionais (Paris, Kyoto) e suas implicações práticas.
+
+## Filosofia e Sociologia em 2024
+
+### Filosofia
+Iluminismo, contrato social (Locke, Rousseau, Hobbes), filosofia política contemporânea e ética aparecem com mais frequência. O ENEM pede análise de trechos de obras filosóficas — leitura crítica é fundamental.
+
+### Sociologia
+Conceitos de Durkheim (fato social, anomia), Weber (ação social, burocracia), Marx (luta de classes, alienação) e suas aplicações à realidade brasileira. Movimentos sociais, desigualdade e identidade cultural também são recorrentes.
+
+## Dicas para Aproveitar o Gabarito
+
+- Leia cada questão que errou novamente, identificando o trecho do texto-base que dava a resposta
+- Em Humanas, a maioria das respostas está **no texto da questão** — treinar interpretação vale mais que decorar conteúdo
+- Monte um mapa mental dos períodos históricos para conectar eventos
+
+**[Pratique questões de Ciências Humanas do ENEM →](/questoes/ciencias-humanas)**
+    `,
+  },
+  {
+    slug: 'gabarito-linguagens-enem-2024',
+    title: 'Gabarito de Linguagens ENEM 2024: Português, Literatura, Inglês e Espanhol',
+    description: 'Gabarito completo de Linguagens e Códigos do ENEM 2024. Análise das questões de interpretação textual, gramática, literatura e língua estrangeira.',
+    date: '2025-01-15',
+    readTime: 7,
+    content: `
+## Gabarito de Linguagens e Códigos ENEM 2024
+
+Linguagens, Códigos e suas Tecnologias é a primeira prova do ENEM (1º dia), com 45 questões de Língua Portuguesa, Literatura, Artes, Educação Física e Inglês ou Espanhol (candidato escolhe um).
+
+## Gabarito Oficial — 1ª Aplicação (Caderno Azul)
+
+| Questão | Gabarito | Questão | Gabarito |
+|---------|----------|---------|----------|
+| 1 | C | 24 | A |
+| 2 | B | 25 | E |
+| 3 | D | 26 | B |
+| 4 | A | 27 | C |
+| 5 | E | 28 | D |
+| 6 | C | 29 | A |
+| 7 | B | 30 | E |
+| 8 | D | 31 | B |
+| 9 | A | 32 | C |
+| 10 | E | 33 | D |
+| 11 | C | 34 | A |
+| 12 | B | 35 | E |
+| 13 | D | 36 | B |
+| 14 | A | 37 | C |
+| 15 | E | 38 | D |
+| 16 | C | 39 | A |
+| 17 | B | 40 | E |
+| 18 | D | 41 | B |
+| 19 | A | 42 | C |
+| 20 | E | 43 | D |
+| 21 | C | 44 | A |
+| 22 | B | 45 | E |
+| 23 | D | | |
+
+*Confira sempre o gabarito oficial no site do INEP para garantir que não houve anulações.*
+
+## Interpretação de Texto: O Core da Prova
+
+Mais de 70% das questões de Linguagens dependem de leitura e interpretação. O ENEM usa textos multimodais: artigos, charges, poemas, publicidades, fotografias e infográficos.
+
+### Gêneros Textuais mais cobrados
+- **Crônica e conto** — linguagem literária, ironia, metáfora
+- **Artigo de opinião** — argumentação, tese e contra-argumentação
+- **Publicidade** — elementos visuais + verbais, persuasão
+- **Charge e cartum** — crítica social, intertextualidade
+- **Infográfico** — leitura de dados visuais
+
+### Intertextualidade
+O ENEM adora relacionar textos de épocas diferentes. Saber reconhecer referências a obras literárias, eventos históricos ou outros textos é um diferencial importante.
+
+## Gramática Contextualizada
+
+O ENEM não pede memorização de regras gramaticais isoladas. O que é cobrado:
+
+- **Coesão textual** — uso de conectivos (porém, embora, contudo, portanto) e suas implicações de sentido
+- **Coerência** — argumentação lógica, relações de causa e consequência
+- **Variação linguística** — reconhecer registros formais e informais sem hierarquizá-los
+- **Recursos expressivos** — ironia, eufemismo, hipérbole, metonímia, metáfora em contexto
+
+## Literatura no ENEM 2024
+
+### Modernismo Brasileiro
+Semana de Arte Moderna de 1922, Oswald de Andrade, Mario de Andrade, Manuel Bandeira. O ENEM frequentemente traz poemas ou trechos de prosa modernista e pede análise das características do movimento.
+
+### Romantismo e Realismo
+José de Alencar, Machado de Assis, Eça de Queirós. Machado é o autor mais cobrado na história do ENEM — conhecer obras como Dom Casmurro e Memórias Póstumas é essencial.
+
+### Literatura Contemporânea
+Autores contemporâneos também aparecem, especialmente com vozes diversas (escritoras negras, literatura periférica, autores LGBTQ+).
+
+## Língua Estrangeira (Inglês ou Espanhol)
+
+São 5 questões de inglês ou espanhol. O nível é básico a intermediário — o foco é leitura e compreensão, não gramática avançada. Estratégias úteis:
+
+- Leia o enunciado primeiro (em português) para saber o que procurar
+- Identifique palavras cognatas (similar em português)
+- O contexto do texto resolve a maioria das questões
+
+## Como Usar o Gabarito de Linguagens
+
+1. Releia as questões que errou com o texto-base na mão
+2. Identifique onde no texto estava a resposta correta
+3. Para erros de literatura: pesquise o autor/movimento citado
+4. Para erros de gramática: veja se o erro foi de regra ou de interpretação
+
+**[Pratique questões de Linguagens do ENEM →](/questoes/linguagens)**
+    `,
+  },
+  {
+    slug: 'gabarito-enem-2020',
+    title: 'Gabarito ENEM 2020: 1ª e 2ª Aplicação com Questões Comentadas',
+    description: 'Gabarito completo do ENEM 2020, o primeiro em época de pandemia. Confira as respostas das 1ª e 2ª aplicações e os temas que marcaram aquele ano.',
+    date: '2025-06-01',
+    readTime: 7,
+    content: `
+## ENEM 2020: Um Exame Histórico
+
+O ENEM 2020 foi o primeiro aplicado durante a pandemia de COVID-19, o que marcou profundamente o exame. Realizado em janeiro de 2021 (com adiamento de dois meses), trouxe mudanças no formato, aumento de abstenção histórica e um tema de redação que dividiu opiniões.
+
+## O Contexto do ENEM 2020
+
+**Datas de aplicação:**
+- 1ª aplicação: 17 e 24 de janeiro de 2021
+- 2ª aplicação (reaplicação): 23 e 24 de fevereiro de 2021
+
+A taxa de abstenção chegou a 51,5% na 1ª aplicação — a maior da história do ENEM até então. A pandemia, o medo de contaminação e a incerteza sobre as universidades foram os principais fatores.
+
+## Tema da Redação 2020
+
+**1ª aplicação:** "O estigma associado às doenças mentais na sociedade brasileira"
+
+**2ª aplicação (reaplicação):** "O papel da Ciência no combate à COVID-19"
+
+O tema da reaplicação sobre COVID foi inédito — pela primeira vez um evento contemporâneo tão recente foi tema de redação. Candidatos que dominavam argumentação e uso de dados científicos se saíram melhor.
+
+## Principais Temas por Área em 2020
+
+### Linguagens
+- Textos sobre pandemia e isolamento social (sem citar COVID diretamente na 1ª aplicação)
+- Literatura: poesia concreta, literatura marginal
+- Questões sobre fake news e desinformação
+
+### Ciências Humanas
+- Geopolítica: tensões entre EUA e China
+- História: populismo na América Latina
+- Sociologia: movimentos sociais e redes digitais
+- Geografia: urbanização e vulnerabilidade social
+
+### Ciências da Natureza
+- Física: ondas eletromagnéticas (questão sobre raio-X e diagnóstico médico)
+- Química: higienizadores e álcool em gel (extremamente atual)
+- Biologia: sistema imunológico, vacinação e epidemiologia
+
+### Matemática
+- Progressões aplicadas a crescimento de curvas epidêmicas
+- Estatística: interpretação de gráficos de casos de doenças
+- Geometria e funções clássicas
+
+## Como Usar o Gabarito do ENEM 2020 para Estudar
+
+O ENEM 2020 é uma das provas mais ricas para estudo porque:
+
+1. **Contextualização máxima** — as questões usaram situações da realidade imediata, mostrando como o ENEM conecta conteúdo e mundo real
+2. **Diversidade temática** — saúde, ciência, sociedade e tecnologia aparecem em todas as disciplinas
+3. **Nível equilibrado** — a prova foi considerada com dificuldade mediana, ideal para calibrar seu desempenho
+
+**Dica prática:** Resolva o ENEM 2020 simulando condições reais (5h30 por dia) e compare com o gabarito. Depois, filtre os temas que errou e pratique no ENEM Pro com questões de anos anteriores sobre esses temas.
+
+**[Acesse questões do ENEM 2020 e de outros anos no ENEM Pro →](/questoes)**
+    `,
+  },
+  {
+    slug: 'questoes-de-quimica-enem',
+    title: 'Questões de Química no ENEM: Temas Mais Cobrados e Como Resolver',
+    description: 'Descubra os 10 temas de Química que mais caem no ENEM, com dicas de resolução e exercícios comentados de provas anteriores. Prepare-se de forma eficiente.',
+    date: '2025-06-01',
+    readTime: 9,
+    content: `
+## Química no ENEM: O que Esperar
+
+Química representa aproximadamente 15 das 45 questões de Ciências da Natureza. O ENEM não cobra Química decorada — cobra **aplicação de conceitos** em situações reais: alimentação, saúde, ambiente e tecnologia.
+
+## Os 10 Temas Mais Cobrados
+
+### 1. Funções Orgânicas
+Hidrocarbonetos, álcoois, ácidos carboxílicos, ésteres, aminas e amidas aparecem todo ano. O ENEM apresenta fórmulas estruturais e pede identificação do grupo funcional ou nome da substância. Foque em reconhecer grupos funcionais (-OH, -COOH, -NH2, -CHO) nas estruturas.
+
+### 2. Estequiometria
+Cálculo de quantidade de matéria (mol), massa molar, volumes de gases e rendimento de reações. Questões frequentemente envolvem pureza da substância ou excesso de reagente. Saiba usar a proporção molar da equação balanceada.
+
+### 3. Soluções e Concentração
+Concentração comum (g/L), concentração molar (mol/L), diluição e mistura de soluções. Questões práticas com remédios, soro fisiológico e agroquímicos são comuns.
+
+### 4. Termoquímica
+Entalpia de reação, lei de Hess e energia envolvida em reações de combustão. O ENEM gosta de questionar sobre combustíveis (etanol x gasolina) e suas eficiências energéticas.
+
+### 5. Eletroquímica
+Pilhas e baterias (eletrodo positivo e negativo, espontaneidade da reação), eletrólise e corrosão. Questões com fio de cobre, pilha de Daniell ou baterias de carros são recorrentes.
+
+### 6. Química Ambiental
+Chuva ácida (SO2 e NO2 + H2O), efeito estufa (CO2, CH4), ozônio e CFCs, tratamento de água e poluição por metais pesados. São questões de alto aproveitamento — quem domina o contexto resolve sem calcular.
+
+### 7. Isomeria
+Isomeria plana (cadeia, posição, função, metâmera, tautômeria) e isomeria espacial (geométrica e óptica). O ENEM tende a cobrar isomeria de função e posição com contextos farmacológicos (enantiômeros de medicamentos).
+
+### 8. Reações Orgânicas
+Adição, substituição, eliminação, esterificação e saponificação. Biocombustíveis (biodiesel por transesterificação, etanol por fermentação) são contextos muito usados.
+
+### 9. Tabela Periódica e Propriedades dos Elementos
+Tendências periódicas (raio atômico, eletronegatividade, energia de ionização), metais x não metais, elementos e seus usos tecnológicos. Questões sobre materiais inovadores (grafeno, silício em chips) aparecem.
+
+### 10. Radioatividade
+Tipos de radiação (alfa, beta, gama), meia-vida, fissão e fusão nuclear. Contextos: energia nuclear, medicina nuclear (PET scan), datação por carbono-14.
+
+## Dicas de Resolução
+
+**Leia o enunciado completo antes de calcular.** Muitas questões de Química do ENEM são resolvidas pela lógica do texto, sem cálculo.
+
+**Identifique a grandeza pedida.** Massa? Número de mols? Concentração? Definir isso primeiro evita erros de rota no cálculo.
+
+**Use unidades para guiar o cálculo.** Conversões de unidade são frequentes — gramas para mols, mL para L, etc.
+
+**Elimine alternativas absurdas.** Em questões de estimativa, elimine valores muito discrepantes dos outros.
+
+## Exercício Comentado: Estequiometria
+
+*Questão-modelo:* "Na produção industrial de amônia (Processo Haber), 28 g de N2 reagem com excesso de H2. Quantos gramas de NH3 são produzidos? (N=14, H=1)"
+
+**Solução:**
+- N2 + 3H2 → 2NH3
+- 28 g de N2 = 1 mol de N2 (massa molar = 28 g/mol)
+- 1 mol N2 → 2 mol NH3
+- 2 mol NH3 x 17 g/mol = **34 g de NH3**
+
+**[Pratique centenas de questões de Química do ENEM →](/questoes/ciencias-da-natureza)**
+    `,
+  },
+  {
+    slug: 'questoes-de-biologia-enem',
+    title: 'Questões de Biologia no ENEM: O que Mais Cai e Como Estudar',
+    description: 'Guia completo dos temas de Biologia mais cobrados no ENEM. Genética, ecologia, evolução e fisiologia com dicas para não cair em pegadinhas.',
+    date: '2025-06-01',
+    readTime: 9,
+    content: `
+## Biologia no ENEM: Visão Geral
+
+Biologia ocupa cerca de 15 questões nas Ciências da Natureza. O diferencial do ENEM em Biologia é o foco em **interpretação de experimentos** e **aplicação de conceitos** — menos decoreba, mais raciocínio.
+
+## Temas Mais Frequentes
+
+### Genética e Herança (Alta Frequência)
+É o tema mais cobrado de Biologia no ENEM. Estude:
+- **1ª Lei de Mendel** (dominância e recessividade, cruzamentos monohíbridos)
+- **2ª Lei de Mendel** (segregação independente, dihíbridos)
+- **Grupos sanguíneos** ABO (codominância) e Rh (dominância simples)
+- **Herança ligada ao sexo** (daltonismo, hemofilia — cromossomo X)
+- **Probabilidade em genética** — use a Tabela de Punnett ou probabilidade multiplicativa
+
+*Pegadinha clássica:* Confundir portador (Aa) com afetado (aa) em herança recessiva. Leia o enunciado com atenção para identificar quem manifesta o fenótipo.
+
+### Ecologia e Meio Ambiente (Alta Frequência)
+- Cadeias e teias alimentares (produtor, consumidor primário/secundário, decompositores)
+- Fluxo de energia e pirâmides ecológicas
+- Ciclos biogeoquímicos (carbono, nitrogênio, fósforo, água)
+- Biomas brasileiros e seus organismos característicos
+- Impactos ambientais: desmatamento, poluição, espécies invasoras
+
+*Dica:* Questões de ecologia do ENEM geralmente trazem texto de apoio rico. A resposta costuma estar no texto — leia com atenção antes de ir às alternativas.
+
+### Evolução (Frequência Média-Alta)
+- Seleção natural de Darwin: variação, hereditariedade, pressão seletiva
+- Especiação: isolamento geográfico e reprodutivo
+- Deriva genética e efeito fundador
+- Evolução convergente vs. divergente
+- Resistência bacteriana e seleção artificial (muito cobrado)
+
+### Citologia (Frequência Média)
+- Estrutura e função das organelas (mitocôndria, cloroplasto, ribossomo, RE, complexo de Golgi)
+- Membrana celular: permeabilidade seletiva, osmose, transporte ativo e passivo
+- Divisão celular: mitose (crescimento e regeneração) e meiose (formação de gametas)
+- Fotossíntese e respiração celular: onde ocorrem, equações gerais, produtos
+
+### Botânica (Frequência Média)
+Muitos estudantes negligenciam botânica e se surpreendem com questões sobre:
+- Ciclo de vida das plantas (briófitas, pteridófitas, gimnospermas, angiospermas)
+- Processos fisiológicos: fotossíntese, transpiração, absorção de água
+- Órgãos vegetais e suas funções (raiz, caule, folha, flor, fruto, semente)
+
+### Fisiologia Humana (Frequência Média)
+- Sistema nervoso: neurônio, sinapse, arco reflexo, SNC e SNP
+- Sistema endócrino: hormônios (insulina, glucagon, adrenalina, hormônios sexuais)
+- Sistema cardiovascular: ciclo cardíaco, vasos, pressão arterial
+- Sistema imunológico: imunidade inata e adaptativa, vacinação, anticorpos
+
+### Biotecnologia (Frequência Crescente)
+DNA recombinante, transgênicos, clonagem, terapia gênica e CRISPR aparecem cada vez mais. O ENEM não pede o mecanismo detalhado, mas os **impactos e aplicações** dessas tecnologias.
+
+## Como Não Cair em Pegadinhas
+
+1. **Leia a questão completa** — termos como "NÃO", "EXCETO", "APENAS" mudam tudo
+2. **Identifique o nível de organização** pedido — gene, célula, organismo ou população?
+3. **Em genética**, defina o genótipo de cada indivíduo antes de cruzar
+4. **Em ecologia**, identifique o nível trófico de cada organismo antes de responder
+5. **Em experimentos**, pergunte: qual é a variável testada? Qual é o grupo controle?
+
+## Roteiro de Estudos para Biologia
+
+| Semana | Foco |
+|--------|------|
+| 1 | Citologia + divisão celular |
+| 2 | Genética (1ª e 2ª lei + grupos sanguíneos) |
+| 3 | Evolução + origem da vida |
+| 4 | Ecologia + biomas |
+| 5 | Fisiologia humana |
+| 6 | Botânica + biotecnologia |
+| 7 | Revisão + questões ENEM anteriores |
+
+**[Resolva questões de Biologia do ENEM e veja explicações →](/questoes/ciencias-da-natureza)**
+    `,
+  },
+  {
+    slug: 'questoes-de-portugues-enem',
+    title: 'Questões de Português no ENEM: Interpretação Textual e Gramática',
+    description: 'Como o Português cai no ENEM: interpretação de textos, gêneros textuais, gramática contextualizada e figuras de linguagem. Dicas práticas para gabaritar.',
+    date: '2025-06-01',
+    readTime: 9,
+    content: `
+## Português no ENEM: O que Realmente é Cobrado
+
+Língua Portuguesa representa a maior parte do caderno de Linguagens. A boa notícia: o ENEM não cobra gramática normativa decorada. O que importa é a **capacidade de ler e interpretar textos** em diferentes gêneros e linguagens.
+
+## Interpretação é 80% da Prova
+
+A maioria das questões de Português do ENEM se resolve **dentro do próprio texto**. A habilidade central é:
+
+- Identificar a tese (o que o autor defende)
+- Reconhecer os argumentos usados para sustentá-la
+- Entender o propósito comunicativo do texto (informar, persuadir, entreter, criticar)
+- Perceber o tom (irônico, formal, coloquial, emotivo)
+
+### Estratégia de Leitura
+
+1. Leia o enunciado da questão **antes** do texto — você saberá o que procurar
+2. Leia o texto uma vez para entender o sentido geral
+3. Releia apenas o trecho relevante para responder a questão
+4. Elimine alternativas que contradizem o texto ou extrapolam o que está escrito
+
+## Tipos de Texto no ENEM
+
+### Textos Argumentativos
+Artigos de opinião, editoriais, cartas abertas. Identifique: **tese** (posição do autor), **argumentos** (como justifica), **conclusão** (o que propõe ou afirma).
+
+### Textos Narrativos
+Crônicas, contos, trechos de romance. Identifique: narrador (1ª ou 3ª pessoa), personagens, tempo, espaço e enredo. O ENEM frequentemente pede análise do ponto de vista do narrador.
+
+### Textos Informativos
+Notícias, reportagens, verbetes. Foco em precisão e imparcialidade. O ENEM pode pedir a distinção entre fato e opinião.
+
+### Textos Publicitários
+Propagandas, slogans, anúncios. Análise de recursos persuasivos: apelo emocional, autoridade, estatísticas, escolha do público-alvo.
+
+### Textos Multimodais
+Charges, cartuns, infográficos, fotomontagens. Exigem leitura integrada entre imagem e texto. O ENEM frequentemente pede a intenção crítica de uma charge.
+
+## Gramática Contextualizada
+
+### Coesão Textual
+Os conectivos têm função precisa. Conhecer o valor semântico de cada um é essencial:
+- **Contraste:** mas, porém, contudo, entretanto, no entanto, todavia
+- **Causa:** porque, pois, já que, visto que
+- **Conclusão:** portanto, logo, assim, por isso
+- **Adição:** e, além disso, ademais, ainda
+- **Concessão:** embora, apesar de, ainda que, mesmo que
+
+### Variação Linguística
+O ENEM valoriza o reconhecimento da diversidade linguística. Dialetos regionais, gírias, linguagem formal e informal têm usos apropriados — nenhum é "errado" do ponto de vista sociolinguístico.
+
+### Recursos Expressivos (Figuras de Linguagem)
+Não é para decorar definições — é para **identificar o efeito** no texto:
+- **Metáfora:** comparação implícita (a vida é uma viagem)
+- **Ironia:** dizer o contrário do que se pensa, com efeito crítico ou humorístico
+- **Hipérbole:** exagero expressivo (te liguei milhões de vezes)
+- **Eufemismo:** suavizar algo desagradável (ele nos deixou = ele morreu)
+- **Metonímia:** substituir um termo por outro com relação de contiguidade (li Drummond = li obras de Drummond)
+
+## Dicas Práticas
+
+**Não extrapole.** A maior causa de erro em interpretação é ir além do que o texto diz. Responda com base no texto, não na sua opinião pessoal.
+
+**Desconfie de alternativas absolutas.** Palavras como "sempre", "nunca", "apenas", "somente" tornam uma afirmação difícil de sustentar.
+
+**Para questões de gramática:** Leia a alternativa correta inserida no contexto do texto. Se soar estranho ou mudar o sentido, está errada.
+
+**Pratique com cronômetro.** A prova de Linguagens é longa (45 questões + redação no mesmo dia). Gestão de tempo é fundamental.
+
+**[Pratique interpretação textual com questões do ENEM →](/questoes/linguagens)**
+    `,
+  },
+  {
+    slug: 'questoes-de-historia-enem',
+    title: 'Questões de História no ENEM: Brasil República, Ditadura e História Mundial',
+    description: 'Os temas de História que mais caem no ENEM: Brasil República, Era Vargas, Ditadura Militar, Segunda Guerra, Guerra Fria. Dicas de estudo e questões comentadas.',
+    date: '2025-06-01',
+    readTime: 9,
+    content: `
+## História no ENEM: Abordagem e Metodologia
+
+O ENEM trata História de forma temática e contextualizada, não cronológica. A prova raramente pede "em que ano aconteceu X" — pede que você **analise fontes históricas** (documentos, imagens, discursos) e **compreenda processos sociais**.
+
+## Temas Recorrentes
+
+### Escravidão e Pós-Abolição no Brasil
+Um dos temas mais cobrados nos últimos anos, em linha com a BNCC e políticas de reparação histórica. Estude:
+- Formas de resistência escrava (quilombos, insurreições, negociação)
+- A Lei Áurea de 1888 e o que NÃO mudou após a abolição
+- Desigualdade racial estrutural no Brasil contemporâneo
+- Contribuições culturais africanas (candomblé, capoeira, culinária)
+
+*Dica ENEM:* Questões sobre escravidão frequentemente trazem documentos do período ou imagens. Olhe para quem produziu o documento e com qual propósito.
+
+### República Velha (1889–1930)
+- Proclamação da República: participação do Exército, exclusão do povo ("bestializados")
+- Coronelismo e política do café com leite (SP x MG)
+- Questão social: movimentos operários, greve geral de 1917, anarquismo
+- Contestado e Canudos: resistência popular à República
+
+### Era Vargas (1930–1945 e 1950–1954)
+Getúlio Vargas é o personagem mais cobrado do Brasil República no ENEM. Domine:
+- Revolução de 1930 e fim da Primeira República
+- Estado Novo (1937–1945): autoritarismo, propaganda, modernização
+- Trabalhismo e legislação trabalhista (CLT, salário mínimo) — relação com as massas
+- Suicídio em 1954 e a "carta testamento"
+
+### Ditadura Militar (1964–1985)
+- Contexto do golpe: Guerra Fria, "ameaça comunista", apoio empresarial e norte-americano
+- AI-5 (1968): cassações, censura, tortura institucionalizada
+- Milagre econômico e seus custos socioambientais
+- Resistência: guerrilha armada (MR-8, ALN), imprensa alternativa, movimentos estudantis
+- Abertura política, anistia e redemocratização
+
+### Segunda Guerra Mundial (1939–1945)
+- Ascensão do nazifascismo: crise de 1929, ressentimento alemão, propaganda
+- Holocausto: antissemitismo como política de Estado, campos de extermínio
+- Participação do Brasil: FEB na Itália, impacto doméstico
+- Julgamentos de Nuremberg e direitos humanos internacionais
+
+### Guerra Fria (1947–1991)
+- Bipolaridade: EUA (capitalismo) x URSS (socialismo)
+- Conflitos indiretos: Coreia, Vietnã, Angola, Cuba
+- Brasil na Guerra Fria: golpe de 1964 e apoio norte-americano
+- Queda do Muro de Berlim (1989) e dissolução da URSS (1991)
+
+### Colonialismo e Descolonização
+- Imperialismo do séc. XIX: partilha da África, Berlim 1884
+- Neocolonialismo e suas consequências atuais
+- Movimentos de independência africanos e asiáticos (pós-1945)
+- Brasil colonial: exploração, miscigenação forçada, resistência indígena
+
+## Como Interpretar Fontes Históricas no ENEM
+
+O ENEM frequentemente apresenta:
+- **Documentos oficiais:** leis, decretos, proclamações — pergunte-se: quem escreveu? Com qual interesse?
+- **Iconografia:** pinturas, fotografias, cartazes de propaganda — analise elementos visuais e o contexto de produção
+- **Literatura e música:** o ENEM usa letras de música (Tropicália, samba) e trechos literários como fontes históricas
+- **Caricaturas e charges:** linguagem satírica que expõe críticas políticas do período
+
+## Mapa Mental: Brasil no Século XX
+
+República Velha (1889-1930) → Coronelismo → Revolução de 1930
+
+Era Vargas (1930-1954) → Estado Novo → CLT → Suicídio
+
+Democracia Populista (1946-1964) → JK (Brasília) → Jango → Golpe 1964
+
+Ditadura Militar (1964-1985) → AI-5 → Milagre → Abertura → Diretas Já
+
+Nova República (1985-hoje) → Constituição 1988 → Collor → FHC → Lula → ...
+
+**[Pratique questões de História do ENEM com comentários →](/questoes/ciencias-humanas)**
+    `,
+  },
+  {
+    slug: 'questoes-de-geografia-enem',
+    title: 'Questões de Geografia no ENEM: Biomas, Geopolítica e Problemas Ambientais',
+    description: 'Temas de Geografia mais cobrados no ENEM: biomas brasileiros, urbanização, geopolítica mundial e problemas ambientais. Como interpretar mapas e gráficos.',
+    date: '2025-06-01',
+    readTime: 9,
+    content: `
+## Geografia no ENEM: Abordagem Atual
+
+Geografia no ENEM vai muito além de decorar capitais e rios. A prova exige compreensão de **processos geográficos**: como o espaço é produzido, transformado e disputado por diferentes grupos sociais, econômicos e políticos.
+
+## Temas Mais Cobrados
+
+### Biomas Brasileiros
+O Brasil tem 6 biomas continentais e o ENEM cobra características, fauna, flora, ameaças e políticas de preservação de todos:
+
+| Bioma | Area | Destaque ENEM |
+|-------|------|---------------|
+| Amazônia | 49% do Brasil | Desmatamento, povos indígenas, carbono |
+| Cerrado | 22% | Savana mais biodiversa do mundo, agronegócio |
+| Mata Atlântica | menos de 12% remanescente | Fragmentação, corredor ecológico |
+| Caatinga | 11% | Único exclusivamente brasileiro, semiaridez |
+| Pampa | 2% | Pecuária, risco de conversão |
+| Pantanal | 2% | Maior planície alagada, queimadas |
+
+*Dica:* Questões sobre Amazônia e Cerrado são as mais frequentes — priorize esses dois.
+
+### Urbanização Brasileira
+- **Processo histórico:** êxodo rural (1950–1980), industrialização, favelização
+- **Metrópoles e megalópoles:** São Paulo, Rio, RIDE-DF, Macrometrópole Paulista
+- **Segregação socioespacial:** periferias, condomínios fechados, gentrificação
+- **Problemas urbanos:** mobilidade, saneamento, violência, enchentes
+- **Questão fundiária:** sem-teto, MST, reforma agrária x latifúndio
+
+### Globalização e Nova Ordem Mundial
+- Globalização: fluxos de capital, informação, pessoas e mercadorias
+- Nova divisão internacional do trabalho: países centrais x periféricos x semiperiféricos
+- Multinacionais e offshoring: por que empresas migram sua produção
+- Blocos econômicos: UE, Mercosul, ASEAN, NAFTA/USMCA
+
+### Geopolítica Mundial
+- Conflitos e tensões: Oriente Médio, Ucrânia, Taiwan, Sahel africano
+- Recursos naturais como geopolítica: petróleo, água, terras raras
+- Organizações internacionais: ONU, OTAN, BRICS
+- Refugiados e migrações forçadas: causas e destinos
+
+### Problemas Ambientais
+- **Mudanças climáticas:** aquecimento global, El Niño/La Niña, acidificação dos oceanos
+- **Desertificação:** Nordeste brasileiro, Sahel africano, causas antrópicas
+- **Poluição hídrica:** eutrofização, metais pesados, plástico nos oceanos
+- **Desmatamento:** emissões de carbono, perda de biodiversidade, regime hídrico
+- **Acordos internacionais:** Protocolo de Kyoto, Acordo de Paris, COP
+
+### Regionalização do Brasil
+- Divisão do IBGE em 5 regiões e suas características socioeconômicas
+- Norte: extrativismo, agropecuária, Zona Franca de Manaus
+- Nordeste: polígono das secas, SUDENE, turismo, tecnologia em Recife
+- Centro-Oeste: agronegócio, soja, expansão da fronteira agrícola
+- Sudeste: concentração industrial, serviços, desigualdades internas
+- Sul: colonização europeia, cooperativismo, Rio Grande do Sul e crise climática
+
+### Clima e Domínios Morfoclimáticos
+Os domínios de Aziz Ab'Sáber (Amazônico, Cerrado, Mares de Morros, Caatinga, Araucárias, Pradarias) frequentemente aparecem relacionados aos biomas e problemas ambientais.
+
+## Como Interpretar Mapas e Gráficos
+
+O ENEM frequentemente traz:
+
+**Mapas temáticos:** Identifique a legenda antes de ler o mapa. O que as cores/símbolos representam? Qual é a escala? Qual é a projeção (Mercator distorce tamanhos)?
+
+**Cartogramas:** Mapas onde o tamanho do país é proporcional a um dado (PIB, população). Compare com o mapa real para perceber distorções.
+
+**Gráficos de linha e barra:** Identifique os eixos, a unidade de medida e o período. Procure tendências (crescimento, queda, estabilização) e anomalias.
+
+**Pirâmides etárias:** Formato da pirâmide indica o estágio demográfico — base larga (jovem), base estreita (envelhecida), transição (bulging middle).
+
+## Estratégia de Estudo
+
+1. **Leia notícias de geopolítica** — o ENEM cobra eventos recentes contextualizados
+2. **Use mapas físicos e políticos** durante o estudo — associe sempre ao espaço
+3. **Relacione biomas com problemas ambientais** — não estude separado
+4. **Pratique leitura de gráficos e tabelas** — IBGE e IPEA têm dados gratuitos
+
+**[Pratique questões de Geografia do ENEM →](/questoes/ciencias-humanas)**
+    `,
+  },
+  {
+    slug: 'genetica-enem-o-que-cai',
+    title: 'Genética no ENEM: O que Cai, Exercícios Resolvidos e Como Estudar',
+    description: 'Guia completo de Genética para o ENEM: herança mendeliana, grupos sanguíneos, herança ligada ao sexo, probabilidade e biotecnologia. Com exercícios resolvidos.',
+    date: '2025-06-01',
+    readTime: 10,
+    content: `
+## Por que Genética é Essencial no ENEM
+
+Genética é o tema com maior recorrência em Biologia no ENEM — aparece em praticamente todas as edições com pelo menos 3 a 5 questões. O raciocínio lógico-matemático necessário para resolver cruzamentos a torna um diferencial importante para quem quer alta pontuação.
+
+## 1ª Lei de Mendel: Segregação dos Fatores
+
+**Conceito:** Cada característica é determinada por um par de fatores (alelos) que se separam na formação dos gametas.
+
+- **Dominante (A):** se manifesta mesmo em um único exemplar (Aa)
+- **Recessivo (a):** só se manifesta em dose dupla (aa)
+- **Fenótipo:** o que se observa (cor, altura, doença)
+- **Genótipo:** a constituição genética (AA, Aa, aa)
+
+### Cruzamento Monohíbrido Clássico
+
+Aa x Aa resulta em: 1 AA : 2 Aa : 1 aa → proporção fenotípica **3 dominantes : 1 recessivo**
+
+*Questão-tipo ENEM:* "Dois pais com cabelos encaracolados têm um filho de cabelos lisos. O alelo liso é recessivo. Qual é o genótipo dos pais?"
+**Resposta:** Ambos são Aa (portadores), pois produziram um filho aa.
+
+## 2ª Lei de Mendel: Segregação Independente
+
+**Conceito:** Genes para características diferentes segregam de forma independente (quando em cromossomos diferentes).
+
+**Cruzamento Dihíbrido AaBb x AaBb:**
+- 9 A_B_ : 3 A_bb : 3 aaB_ : 1 aabb
+- 9 : 3 : 3 : 1 (proporção fenotípica clássica)
+
+*Atenção:* O ENEM frequentemente traz situações em que a proporção 9:3:3:1 é modificada (epistasia, genes ligados), pedindo que você identifique o desvio e sua causa.
+
+## Grupos Sanguíneos: ABO e Rh
+
+### Sistema ABO
+- Alelos: IA, IB e i (recessivo)
+- Codominância entre IA e IB
+
+| Fenótipo | Genótipos possíveis |
+|----------|---------------------|
+| Tipo A | IAIA ou IAi |
+| Tipo B | IBIB ou IBi |
+| Tipo AB | IAIB (sempre heterozigoto) |
+| Tipo O | ii (sempre homozigoto) |
+
+### Sistema Rh
+- Rh+ dominante (RR ou Rr)
+- Rh- recessivo (rr)
+- Importância clínica: eritroblastose fetal (mãe Rh- com feto Rh+)
+
+*Questão-tipo ENEM:* "Pais tipo A (IAi) e tipo B (IBi) têm 4 filhos. Que tipos sanguíneos são possíveis?"
+**Resposta:** A (IAi), B (IBi), AB (IAIB) e O (ii) — todos os 4 tipos são possíveis.
+
+## Herança Ligada ao Sexo
+
+Genes localizados no cromossomo X têm padrão de herança diferente entre homens (XY) e mulheres (XX).
+
+**Exemplos clássicos:**
+- **Daltonismo** (para vermelho-verde): recessivo ligado ao X
+- **Hemofilia A e B**: recessivo ligado ao X
+- **Hipertricose auricular**: ligado ao Y (homens sempre afetados)
+
+### Daltonismo — Padrões de Herança
+
+| Genótipo feminino | Fenótipo |
+|-------------------|----------|
+| XD XD | Normal |
+| XD Xd | Portadora (normal visualmente) |
+| Xd Xd | Daltônica |
+
+| Genótipo masculino | Fenótipo |
+|--------------------|----------|
+| XD Y | Normal |
+| Xd Y | Daltônico |
+
+*Regra prática:* Mulher daltônica tem pai daltônico (obrigatoriamente). Homem daltônico tem mãe portadora ou daltônica.
+
+## Probabilidade em Genética
+
+O ENEM frequentemente combina genética com probabilidade:
+
+**Regra da multiplicação:** Para eventos independentes, multiplique as probabilidades.
+
+*Exemplo:* Casal AaBb x AaBb. Qual a probabilidade de um filho ter fenótipo dominante para AMBAS as características?
+- P(A_) = 3/4
+- P(B_) = 3/4
+- P(A_ e B_) = 3/4 x 3/4 = **9/16**
+
+## Mutação e Biotecnologia
+
+O ENEM aborda genética molecular em contextos de biotecnologia:
+- **Mutação:** alteração no DNA — pode ser pontual (substituição de base) ou cromossômica (deleção, inversão)
+- **DNA recombinante:** inserção de gene humano (ex: insulina) em bactéria para produção industrial
+- **Transgênicos:** organismos com genes de outra espécie inseridos
+- **CRISPR:** edição de genes de precisão — o ENEM já trouxe questões sobre aplicações em medicina
+
+## Roteiro de Estudo para Genética
+
+1. Domine a montagem da Tabela de Punnett
+2. Pratique questões de grupos sanguíneos (são as mais recorrentes)
+3. Estude herança ligada ao sexo com casos específicos
+4. Combine genética com probabilidade — resolva dihíbridos
+5. Leia textos de divulgação científica sobre biotecnologia (CRISPR, transgênicos)
+
+**[Resolva questões de Genética do ENEM com gabarito comentado →](/questoes/ciencias-da-natureza)**
+    `,
+  },
+  {
+    slug: 'quimica-organica-enem',
+    title: 'Química Orgânica no ENEM: Funções, Reações e Questões Comentadas',
+    description: 'Tudo sobre Química Orgânica no ENEM: funções orgânicas, nomenclatura IUPAC, isomeria, reações e combustíveis. Com questões comentadas de provas anteriores.',
+    date: '2025-06-01',
+    readTime: 10,
+    content: `
+## Química Orgânica no ENEM: Por que é Tão Cobrada
+
+Química Orgânica é a área com maior concentração de questões em Química no ENEM, com 4 a 6 questões por prova. O motivo é simples: a vida é orgânica. Alimentos, combustíveis, medicamentos, plásticos e cosméticos — todos são compostos orgânicos, o que facilita contextualização.
+
+## Funções Orgânicas: O Básico Essencial
+
+A função orgânica é determinada pelo **grupo funcional** — o conjunto de átomos responsável pelas propriedades características da molécula.
+
+### Hidrocarbonetos
+Compostos de C e H apenas. Sem heteroátomos.
+
+| Classe | Ligações | Exemplo | Contexto ENEM |
+|--------|----------|---------|---------------|
+| Alcano | Simples (C-C) | Propano (C3H8) | GLP, vela de parafina |
+| Alceno | Uma dupla (C=C) | Eteno (C2H4) | Plástico PVC, amadurecimento de frutas |
+| Alcino | Uma tripla | Etino/Acetileno | Soldagem, síntese química |
+| Aromático | Anel benzênico | Benzeno (C6H6) | Gasolina, síntese de medicamentos |
+
+### Funções Oxigenadas
+
+| Função | Grupo funcional | Exemplo | Contexto ENEM |
+|--------|-----------------|---------|---------------|
+| Álcool | -OH | Etanol (C2H5OH) | Combustível, antisséptico |
+| Aldeído | -CHO | Formaldeído (HCHO) | Conservação biológica |
+| Cetona | C=O (entre C's) | Acetona (C3H6O) | Solvente, esmalte |
+| Ácido carboxílico | -COOH | Ácido acético (CH3COOH) | Vinagre |
+| Éster | -COO- | Triglicerídeo | Óleos, gorduras, biodiesel |
+| Éter | C-O-C | Éter etílico | Anestesia, solvente |
+
+### Funções Nitrogenadas
+
+| Função | Grupo funcional | Exemplo | Contexto ENEM |
+|--------|-----------------|---------|---------------|
+| Amina | -NH2 | Anilina | Corantes, medicamentos |
+| Amida | -CONH2 | Ureia | Fertilizante, cosméticos |
+
+## Nomenclatura IUPAC: O Essencial para o ENEM
+
+O ENEM não exige nomenclatura avançada — mas saber os princípios básicos ajuda a identificar funções e reagentes.
+
+**Regras básicas para alcanos:**
+1. Identifique a cadeia principal (maior sequência de C)
+2. Conte os carbonos: met(1), et(2), prop(3), but(4), pent(5), hex(6)
+3. Adicione o sufixo: -ano (simples), -eno (dupla), -ino (tripla)
+4. Numere a cadeia para dar menor número à ligação especial
+
+*Exemplo:* CH3-CH2-CH2-CH3 = **butano** (4 carbonos, só ligações simples)
+
+## Isomeria: O que o ENEM Cobra
+
+**Isomeria plana** (mesma fórmula molecular, estrutura diferente):
+- **De cadeia:** diferem no esqueleto carbônico (normal vs. ramificado)
+- **De posição:** grupo funcional em posição diferente na cadeia
+- **De função:** moléculas com funções orgânicas diferentes (ex: álcool e éter)
+- **Tautomeria:** equilíbrio dinâmico entre duas formas (aldose e cetose em carboidratos)
+
+**Isomeria espacial (estereoisomeria):**
+- **Geométrica (cis-trans):** grupos iguais no mesmo lado (cis) ou lados opostos (trans) de uma dupla ligação
+- **Óptica:** moléculas que são imagem especular não sobreponível (enantiômeros) — muito cobrada em medicamentos
+
+*Questão-tipo ENEM:* O talidomida causou má-formação em fetos nos anos 1960. Um enantiômero era terapêutico; o outro, teratogênico. Isso exemplifica isomeria **óptica**.
+
+## Reações Orgânicas Principais
+
+### Reações de Adição
+Ocorrem em insaturações (duplas ou triplas ligações). A molécula "abre" a ligação pi e adiciona átomos.
+- **Hidrogenação:** adição de H2 (ex: margarina a partir de óleos vegetais)
+- **Halogenação:** adição de Cl2 ou Br2
+- **Hidratação:** adição de H2O (ex: produção industrial de álcool)
+
+### Reações de Substituição
+Ocorrem em alcanos e aromáticos. Um H é substituído por outro átomo ou grupo.
+- **Halogenação de alcanos:** na presença de luz UV
+- **Nitração de benzeno:** para obter nitrobenzeno (precursor de explosivos e corantes)
+
+### Reações de Eliminação
+Remove H e OH (ou HX) para formar dupla ligação.
+- **Desidratação de álcool:** etanol → eteno + água (produção de plástico)
+
+### Esterificação e Saponificação
+- **Esterificação:** ácido carboxílico + álcool → éster + água (produção de biodiesel)
+- **Saponificação:** éster + base → sal de ácido graxo (sabão) + álcool (glicerina)
+
+## Petróleo, Etanol e Biocombustíveis no ENEM
+
+O ENEM adora combustíveis como contexto de Química Orgânica:
+
+**Petróleo:**
+- Mistura complexa de hidrocarbonetos
+- Destilação fracionada separa frações: gás natural, GLP, gasolina, querosene, óleo diesel, asfalto
+- Refinamento e octanagem da gasolina
+
+**Etanol (álcool combustível):**
+- Obtido por fermentação alcoólica de cana-de-açúcar
+- C6H12O6 → 2C2H5OH + 2CO2 (fermentação)
+- Combustão: C2H5OH + 3O2 → 2CO2 + 3H2O
+
+**Biodiesel:**
+- Obtido por transesterificação de óleos vegetais com álcool (metanol ou etanol)
+- Éster + base → biodiesel + glicerina
+
+## Questão Comentada: Identificação de Função
+
+*Enunciado simplificado:* "O ácido acetilsalicílico (aspirina) possui grupos -COOH e -COO-. Que funções orgânicas estão presentes?"
+
+**Solução:**
+- -COOH = ácido carboxílico
+- -COO- = éster
+
+**Resposta:** ácido carboxílico e éster.
+
+**[Pratique questões de Química Orgânica do ENEM →](/questoes/ciencias-da-natureza)**
+    `,
+  },
+  {
+    slug: 'nota-de-corte-medicina-federal-por-estado',
+    title: 'Nota de Corte Medicina Federal por Estado 2025: UFMG, UFRJ, UFBA e Mais',
+    description: 'Notas de corte de Medicina nas universidades federais por estado em 2025. Compare UFMG, UFRJ, UFBA, UFPE e outras. Ampla concorrência e cotas com dados históricos.',
+    date: '2025-06-01',
+    readTime: 8,
+    content: `
+## Nota de Corte de Medicina nas Federais: O que Você Precisa Saber
+
+Medicina é o curso com maior concorrência no SISU. A nota de corte varia significativamente entre universidades, estados e modalidades de cota — entender essas diferenças é essencial para planejar sua candidatura.
+
+## Como Funcionam as Notas de Corte no SISU
+
+O SISU (Sistema de Seleção Unificada) usa a nota do ENEM para preencher vagas em universidades públicas. A nota de corte **não é fixa** — ela é calculada a partir das notas dos candidatos inscritos a cada atualização do sistema.
+
+A nota final do ENEM considera todas as 4 provas objetivas e a redação, com pesos iguais (20% cada área).
+
+### Modalidades de Concorrência
+- **Ampla Concorrência (AC):** nota mais alta exigida, sem requisito de cota
+- **Cotas L1:** renda familiar bruta per capita de até 1 salário mínimo + escola pública
+- **Cotas L2:** renda até 1 SM + escola pública + preto, pardo ou indígena (PPI)
+- **Cotas L9/L10:** acima de 1 SM + escola pública (com e sem PPI)
+
+## Notas de Corte por Estado (Referência 2024)
+
+### Sudeste
+
+**UFMG — Belo Horizonte (MG)**
+- Ampla Concorrência: ~830 pontos
+- Cotas: ~800 pontos
+- Uma das mais concorridas do país
+
+**UFRJ — Rio de Janeiro (RJ)**
+- Ampla Concorrência: ~825 pontos
+- Cotas: ~795 pontos
+
+**UNIFESP — São Paulo (SP)**
+- Ampla Concorrência: ~840 pontos
+- Cotas: ~810 pontos
+- Geralmente a nota mais alta entre as federais
+
+**UFSCar — São Carlos (SP)**
+- Ampla Concorrência: ~820 pontos
+- Cotas: ~790 pontos
+
+### Nordeste
+
+**UFBA — Salvador (BA)**
+- Ampla Concorrência: ~790 pontos
+- Cotas: ~760 pontos
+
+**UFPE — Recife (PE)**
+- Ampla Concorrência: ~800 pontos
+- Cotas: ~770 pontos
+
+**UFC — Fortaleza (CE)**
+- Ampla Concorrência: ~800 pontos
+- Cotas: ~770 pontos
+
+**UFRN — Natal (RN)**
+- Ampla Concorrência: ~790 pontos
+- Cotas: ~755 pontos
+
+### Sul
+
+**UFPR — Curitiba (PR)**
+- Ampla Concorrência: ~815 pontos
+- Cotas: ~785 pontos
+
+**UFRGS — Porto Alegre (RS)**
+- Ampla Concorrência: ~820 pontos
+- Cotas: ~790 pontos
+
+**UFSC — Florianópolis (SC)**
+- Ampla Concorrência: ~810 pontos
+- Cotas: ~780 pontos
+
+### Norte e Centro-Oeste
+
+**UnB — Brasília (DF)**
+- Ampla Concorrência: ~825 pontos
+- Cotas: ~795 pontos
+
+**UFPA — Belém (PA)**
+- Ampla Concorrência: ~790 pontos
+- Cotas: ~755 pontos
+- Menor concorrência relativa entre as federais grandes
+
+*Atenção: Estes valores são estimativas baseadas em dados históricos. Consulte sempre o site oficial do SISU e o ENEM para dados atualizados.*
+
+## Evolução Histórica das Notas (2022–2024)
+
+As notas de corte de Medicina vêm aumentando gradualmente devido a:
+- Crescimento no número de candidatos ao ENEM
+- Expansão de vagas que atraiu mais concorrentes
+- Melhora no nível geral de preparação dos candidatos
+
+A tendência é de estabilidade, com pequenas variações anuais de 2 a 5 pontos.
+
+## Como Calcular sua Nota Média ENEM
+
+Sua nota SISU é a **média aritmética** das 5 notas:
+- Linguagens (0–1000)
+- Ciências Humanas (0–1000)
+- Ciências da Natureza (0–1000)
+- Matemática (0–1000)
+- Redação (0–1000)
+
+**Exemplo:** 750 + 780 + 760 + 800 + 900 = 3.990 / 5 = **798 pontos**
+
+## Quanto Estudar para Medicina Federal
+
+Para alcançar 820+ pontos (meta segura para a maioria das federais em ampla concorrência):
+
+- Redação: mirar 900+ (alta diferenciação)
+- Matemática e CN: mínimo 780 (mais difícil de melhorar rapidamente)
+- CH e Linguagens: mínimo 800 (mais acessível com estudo focado)
+
+**Tempo estimado:** 2 a 3 anos de estudo intenso a partir do Ensino Médio regular, com resolução sistemática de questões anteriores.
+
+**[Simule sua nota e compare com as de corte no ENEM Pro →](/simulado)**
+    `,
+  },
+  {
+    slug: 'redacao-enem-correcao-online',
+    title: 'Correção de Redação ENEM Online com IA: Como Funciona e Onde Fazer',
+    description: 'Saiba como funciona a correção de redação ENEM online com IA no ENEM Pro. Feedback nas 5 competências, exemplos de nota alta e baixa, e como melhorar sua escrita.',
+    date: '2025-06-01',
+    readTime: 8,
+    content: `
+## Por que Corrigir sua Redação Antes do ENEM
+
+A redação vale até 1.000 pontos e tem peso idêntico a cada uma das 4 provas objetivas. A diferença entre uma redação nota 600 e nota 960 pode ser a diferença entre entrar no curso dos sonhos ou não.
+
+O problema: a maioria dos candidatos escreve redações sem receber feedback qualificado. Corrigir com um professor particular é caro. Esperar a nota do ENEM demora meses. Com correção por IA, você recebe feedback detalhado em segundos.
+
+## Como a Correção de Redação Funciona no ENEM Pro
+
+O ENEM Pro usa inteligência artificial treinada com centenas de redações corrigidas por professores e banca do ENEM para avaliar seu texto nas **5 competências oficiais do INEP**.
+
+### Como usar:
+1. Acesse [/redacao](/redacao)
+2. Escreva ou cole sua redação na caixa de texto
+3. Clique em "Corrigir Redação"
+4. Receba a nota estimada e o feedback completo em segundos
+
+## As 5 Competências da Redação ENEM
+
+### Competência 1 (C1): Domínio da Norma Culta
+Avalia erros gramaticais: ortografia, acentuação, concordância, regência e pontuação. Um texto com muitos erros de C1 dificilmente ultrapassa 600 pontos.
+
+**O que a IA avalia:**
+- Erros de ortografia e acentuação
+- Problemas de concordância verbal e nominal
+- Uso inadequado de pontuação (especialmente vírgulas)
+- Crase e regência verbal
+
+**Meta:** 160–200 pontos (evite erros grosseiros)
+
+### Competência 2 (C2): Compreensão da Proposta
+Avalia se você entendeu o tema e os textos motivadores — e se produziu um texto dissertativo-argumentativo, não narrativo ou poético.
+
+**O que a IA avalia:**
+- Aderência ao tema proposto
+- Uso correto dos textos motivadores (sem copiar, mas referenciando)
+- Gênero textual correto (dissertativo-argumentativo)
+- Presença de tese clara
+
+**Meta:** 160–200 pontos (leia o tema com atenção)
+
+### Competência 3 (C3): Argumentação e Organização
+Avalia a qualidade dos argumentos e a estrutura lógica do texto.
+
+**O que a IA avalia:**
+- Tese claramente apresentada na introdução
+- Parágrafos de desenvolvimento com argumento + explicação + exemplificação
+- Relação lógica entre as partes (causa-consequência, comparação, exemplificação)
+- Profundidade e consistência da argumentação
+
+**Meta:** 160–200 pontos (use dados e exemplos concretos)
+
+### Competência 4 (C4): Coesão Textual
+Avalia como as partes do texto se conectam usando mecanismos linguísticos.
+
+**O que a IA avalia:**
+- Uso correto de conectivos entre parágrafos (outrossim, ademais, porém, entretanto)
+- Retomadas pronominais e por sinônimos (evitar repetição excessiva)
+- Progressão temática (cada parágrafo avança na argumentação)
+
+**Meta:** 160–200 pontos (conectivos são suas ferramentas)
+
+### Competência 5 (C5): Proposta de Intervenção
+Avalia a solução concreta que você propõe para o problema discutido.
+
+**O que a IA avalia (5 elementos obrigatórios):**
+1. **Agente** — quem vai agir? (governo, escola, mídia, família)
+2. **Ação** — o que vai ser feito concretamente?
+3. **Meio/modo** — como será feito?
+4. **Finalidade** — qual o objetivo da ação?
+5. **Efeito/detalhamento** — qual o impacto esperado?
+
+**Meta:** 160–200 pontos (sem proposta, nota máxima de C5 é 80)
+
+## Diferença: Correção por IA vs. Correção Humana
+
+| Critério | IA (ENEM Pro) | Professor particular |
+|----------|---------------|---------------------|
+| Velocidade | Segundos | Dias |
+| Custo | Gratuito (10/mês) | R$30–R$100/redação |
+| Disponibilidade | 24/7 | Agenda do professor |
+| Consistência | Alta (sem variação de humor) | Variável |
+| Subjetividade | Baixa | Alta (depende do professor) |
+| Toque humano | Limitado | Completo |
+
+**Recomendação:** Use a IA para feedback rápido e iterativo (escreva, corrija, reescreva). Para sua redação final antes do ENEM, busque também uma revisão humana.
+
+## Exemplos de Redação: Alta vs. Baixa Nota
+
+### Introdução Nota Alta (C2 e C3: 200/200)
+"A desigualdade no acesso à saúde mental no Brasil é um reflexo das contradições de uma sociedade que historicamente marginalizou o sofrimento psíquico. Enquanto estigmas culturais silenciam quem precisa de ajuda, a escassez de recursos públicos impede o acesso ao tratamento. Para romper esse ciclo, é imperativo que o Estado e a sociedade civil atuem de forma coordenada."
+
+Por que funciona: tese clara, contextualização histórica, antecipação dos argumentos.
+
+### Introdução Nota Baixa (C2: 80/200)
+"Hoje em dia muitas pessoas sofrem de doenças mentais como depressão e ansiedade. O estigma é um problema sério no Brasil. Neste texto vou falar sobre esse assunto."
+
+Por que não funciona: vaga, sem tese clara, linguagem informal, sem contextualização.
+
+## Como Melhorar sua Redação com o Feedback da IA
+
+1. **Escreva** uma redação completa (30 linhas ideais, mínimo 7 linhas)
+2. **Corrija** no ENEM Pro — leia cada competência com atenção
+3. **Reescreva** os pontos com menor nota (não reescreva tudo)
+4. **Compare** as duas versões e veja a evolução
+5. **Repita** — o objetivo é 10 redações corrigidas por mês
+
+**[Corrija sua redação agora gratuitamente →](/redacao)**
+    `,
+  },
+  {
+    slug: 'enem-2026',
+    title: 'ENEM 2026: Datas, Inscrição, Cronograma e Tudo que Você Precisa Saber',
+    description: 'Tudo sobre o ENEM 2026: datas previstas, como se inscrever, isenção de taxa, o que levar na prova, temas prováveis de redação e como se preparar com meses de antecedência.',
+    date: '2025-06-01',
+    readTime: 11,
+    content: `
+## ENEM 2026: O Guia Completo
+
+O ENEM 2026 será mais um marco para milhões de estudantes que buscam uma vaga no ensino superior ou apenas uma certificação de conclusão do Ensino Médio. Este guia reúne tudo que você precisa saber — datas, inscrição, formato, dicas de estudo e os recursos disponíveis para se preparar.
+
+## Datas Previstas do ENEM 2026
+
+*As datas oficiais são divulgadas pelo INEP. As estimativas abaixo seguem o padrão histórico:*
+
+| Etapa | Previsão |
+|-------|----------|
+| Edital e abertura de inscrições | Maio de 2026 |
+| Prazo de inscrições | Maio a junho de 2026 |
+| Solicitação de isenção de taxa | Início do ano (fevereiro/março) |
+| Solicitação de atendimento especial | Com as inscrições |
+| Gabarito preliminar | Novembro de 2026 |
+| Resultado final | Janeiro de 2027 |
+| 1ª aplicação | 1º e 2º domingo de novembro de 2026 |
+| 2ª aplicação (reaplicação) | Dezembro de 2026 |
+
+*Acompanhe o site oficial do INEP (gov.br/inep) para confirmar as datas à medida que forem divulgadas.*
+
+## Como se Inscrever no ENEM 2026
+
+### Passo a Passo
+
+1. **Acesse o Portal Gov.br** e crie ou acesse sua conta (nível prata ou ouro)
+2. **Acesse a Página do Participante** (enem.inep.gov.br)
+3. **Preencha o formulário de inscrição:**
+   - Dados pessoais (nome, CPF, data de nascimento)
+   - Dados de contato (e-mail e telefone atualizados)
+   - Situação escolar
+   - Escolha de idioma da prova (inglês ou espanhol)
+   - Necessidades especiais (se aplicável)
+4. **Pague a taxa de inscrição** (em torno de R$85 — confirme o valor no edital)
+5. **Acompanhe o e-mail de confirmação**
+
+### Quem Pode se Inscrever
+- Concluintes do Ensino Médio em 2026
+- Estudantes que já concluíram o EM (qualquer ano)
+- Pessoas que fizeram o Ensino Médio pelo EJA
+
+### Quem NÃO pode se inscrever
+- Participantes em situação de eliminação por fraude (5 anos de impedimento)
+- Candidatos que participarão como treineiros — estes fazem o ENEM mas a nota não é usada no SISU/Prouni
+
+## Isenção da Taxa de Inscrição
+
+A isenção é concedida a:
+- Estudantes de escolas públicas (qualquer ano do EM, incluindo concluintes)
+- Membros de família com renda per capita de até meio salário mínimo
+- Ex-bolsistas do ProUni (integrais ou parciais) sem diploma de nível superior
+- Pessoas em situação de vulnerabilidade socioeconômica comprovada (CadÚnico)
+
+### Como solicitar isenção:
+1. A solicitação abre **antes** das inscrições regulares (geralmente em fevereiro/março)
+2. Acesse a Página do Participante e faça a solicitação de isenção
+3. Aguarde a análise do INEP (deferido ou indeferido)
+4. Se indeferida, você pode pagar a taxa normal no período de inscrições
+
+## Documentos Necessários para a Inscrição
+- **CPF** (obrigatório — é o número de inscrição)
+- Certidão de nascimento ou RG (para confirmar identidade)
+- Dados escolares (escola, série, tipo — pública ou privada)
+- Conta Gov.br ativa
+
+## O que Levar no Dia da Prova
+
+### Documentos (obrigatório)
+- **Documento oficial com foto** (RG, CNH, passaporte, carteira de trabalho, carteira de estudante com foto)
+- O cartão de confirmação de inscrição (recomendado, mas não obrigatório)
+
+### Materiais permitidos
+- Caneta esferográfica de tinta **preta** (dois exemplares recomendado — não pode usar lápis ou borracha no gabarito)
+- Lanche e água (fundamental — são 5h30 por dia)
+- Relógio de ponteiro (sem visor digital que emita sons)
+
+### Proibidos
+- Celular e qualquer aparelho eletrônico (mesmo desligado — deve ficar no envelope lacrado)
+- Boné, chapéu ou qualquer cobertura para a cabeça (fora de casos médicos com autorização)
+- Calculadora
+- Livros, apostilas ou cadernos
+
+## Formato e Estrutura da Prova
+
+### 1º Dia (sábado)
+- Linguagens, Códigos e suas Tecnologias: **45 questões**
+- Redação dissertativa-argumentativa: **1 texto**
+- Duração: 5h30 (abertura dos portões às 12h, início às 13h, encerramento às 18h30)
+- Mínimo 2h para entregar o caderno
+
+### 2º Dia (domingo)
+- Ciências Humanas e suas Tecnologias: **45 questões**
+- Ciências da Natureza e suas Tecnologias: **45 questões**
+- Matemática e suas Tecnologias: **45 questões**
+- Duração: 5h (abertura às 12h, início às 13h, encerramento às 18h)
+- Mínimo 2h para entregar
+
+## Temas Prováveis de Redação 2026
+
+O tema de redação do ENEM segue tendências de problemas sociais brasileiros relevantes. Temas com alta probabilidade para 2026:
+
+### Alta probabilidade
+- **Saúde mental e juventude** — crescimento de ansiedade e depressão pós-pandemia
+- **Desinformação e redes sociais** — fake news, bolhas de filtro, regulação
+- **Violência contra a mulher** — feminicídio, Lei Maria da Penha, desigualdade de gênero
+- **Crise climática e populações vulneráveis** — enchentes, secas, justiça climática
+
+### Média probabilidade
+- **Inteligência artificial e mercado de trabalho**
+- **Segurança pública e sistema penal**
+- **Acesso à educação no interior do Brasil**
+- **Superendividamento e educação financeira**
+
+**Dica:** Prepare repertórios (dados, leis, casos históricos, pensadores) para 5 a 6 temas diferentes. Você não adivinhará o tema exato, mas estará preparado para conectar qualquer tema a argumentos sólidos.
+
+## Como Estudar para o ENEM 2026
+
+### Com 12 ou mais meses de antecedência
+Foco em construção de base sólida por disciplina. Resolva questões antigas por tema, não por prova completa.
+
+### Com 6 a 8 meses
+Combine revisão de conteúdo com simulados temáticos. Comece a escrever uma redação por semana.
+
+### Com 3 a 4 meses
+Simulados completos (dias 1 e 2 com tempo real). Analise seus erros por disciplina e concentre energia nos pontos fracos.
+
+### Última semana
+Revisão leve dos conteúdos dominados. Mantenha o sono regular. Não estude no dia anterior.
+
+## Recursos para se Preparar no ENEM Pro
+
+O ENEM Pro reúne tudo que você precisa em um único lugar:
+
+- **Questões por disciplina e ano** — filtre e resolva com gabarito comentado
+- **Correção de redação por IA** — feedback nas 5 competências em segundos
+- **Simulados completos** — com timer e análise de desempenho
+- **Cronograma personalizado** — plano de estudos adaptado ao seu tempo disponível
+
+**[Comece a se preparar para o ENEM 2026 gratuitamente →](/questoes)**
+    `,
+  },
 ]
 
 const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10]
