@@ -56,13 +56,11 @@ export async function POST(request: NextRequest) {
 
     const isActive = sub.status === 'active' || sub.status === 'trialing'
     if (isActive) {
-      const interval = sub.items?.data?.[0]?.price?.recurring?.interval
-      const months = interval === 'year' ? 12 : 1
       await supabase.from('subscriptions').upsert(
         {
           user_id: userId,
           plan: 'pro',
-          expires_at: addMonths(months),
+          expires_at: new Date(sub.current_period_end * 1000).toISOString(),
           stripe_subscription_id: sub.id,
           stripe_customer_id: sub.customer as string,
           updated_at: new Date().toISOString(),

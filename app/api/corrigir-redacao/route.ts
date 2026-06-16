@@ -47,14 +47,6 @@ export async function POST(request: NextRequest) {
   if (!auth.ok) return auth.response
   const { userId } = auth
 
-  const rl = checkRateLimit(userId)
-  if (!rl.ok) {
-    return Response.json(
-      { error: 'Muitas requisições. Aguarde alguns segundos.' },
-      { status: 429, headers: { 'Retry-After': String(Math.ceil(rl.retryAfterMs / 1000)) } }
-    )
-  }
-
   const body = await request.json()
   const { tema, texto } = body as { tema?: string; texto?: string }
 
@@ -68,6 +60,14 @@ export async function POST(request: NextRequest) {
   const supabase = createServerClient()
   const { data: sub } = await supabase.from('subscriptions').select('plan, expires_at').eq('user_id', userId).maybeSingle()
   const userIsPro = isPro(sub)
+
+  const rl = await checkRateLimit(userId, supabase, userIsPro)
+  if (!rl.ok) {
+    return Response.json(
+      { error: 'Muitas requisições. Aguarde alguns segundos.' },
+      { status: 429, headers: { 'Retry-After': String(Math.ceil(rl.retryAfterMs / 1000)) } }
+    )
+  }
 
   if (!userIsPro) {
     const { count } = await supabase

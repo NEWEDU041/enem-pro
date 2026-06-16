@@ -7,6 +7,7 @@ import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
 import { DISCIPLINES, YEARS } from '@/lib/enem-api'
+import { isPro, FREE_DAILY_LIMIT } from '@/lib/utils'
 
 const supabase = createBrowserClient()
 
@@ -112,6 +113,19 @@ export default function SimuladoPage() {
   }, [state, qCount, finishSimulado])
 
   async function startSimulado() {
+    // Verificar limite free antes de iniciar
+    const { data: { session } } = await supabase.auth.getSession()
+    if (session) {
+      const today = new Date().toISOString().split('T')[0]
+      const { data: usage } = await supabase.from('daily_usage').select('count').eq('user_id', session.user.id).eq('date', today).maybeSingle()
+      const { data: sub } = await supabase.from('subscriptions').select('plan, expires_at').eq('user_id', session.user.id).maybeSingle()
+
+      if (!isPro(sub) && (usage?.count ?? 0) >= FREE_DAILY_LIMIT) {
+        alert('Você atingiu o limite diário de 10 questões. Volte amanhã ou assine o Pro para questões ilimitadas.')
+        return
+      }
+    }
+
     setState('loading')
     answersRef.current = []
     try {

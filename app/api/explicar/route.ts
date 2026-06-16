@@ -12,14 +12,6 @@ export async function POST(request: NextRequest) {
   if (!auth.ok) return auth.response
   const { userId } = auth
 
-  const rl = checkRateLimit(userId)
-  if (!rl.ok) {
-    return NextResponse.json(
-      { error: 'Muitas requisições. Aguarde alguns segundos.' },
-      { status: 429, headers: { 'Retry-After': String(Math.ceil(rl.retryAfterMs / 1000)) } }
-    )
-  }
-
   const anthropic = new Anthropic({ apiKey: cleanEnv(process.env.ANTHROPIC_API_KEY) })
   const supabase = createServerClient()
 
@@ -34,6 +26,14 @@ export async function POST(request: NextRequest) {
   }
 
   const userIsPro = isPro(sub)
+
+  const rl = await checkRateLimit(userId, supabase, userIsPro)
+  if (!rl.ok) {
+    return NextResponse.json(
+      { error: 'Muitas requisições. Aguarde alguns segundos.' },
+      { status: 429, headers: { 'Retry-After': String(Math.ceil(rl.retryAfterMs / 1000)) } }
+    )
+  }
 
   if (!userIsPro) {
     const today = new Date().toISOString().split('T')[0]

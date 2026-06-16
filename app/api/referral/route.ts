@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
+import { requireAuth } from '@/lib/auth'
 
 export const dynamic = 'force-dynamic'
 
@@ -10,10 +11,11 @@ function makeCode(userId: string, attempt = 0): string {
   return (base.slice(start, start + 8) + base.slice(0, attempt)).slice(0, 8).toUpperCase()
 }
 
-// GET /api/referral?user_id=X — get or generate referral code + stats
+// GET /api/referral — get or generate referral code + stats (requires auth)
 export async function GET(req: NextRequest) {
-  const userId = req.nextUrl.searchParams.get('user_id')
-  if (!userId) return NextResponse.json({ error: 'Missing user_id' }, { status: 400 })
+  const auth = await requireAuth(req)
+  if (!auth.ok) return auth.response
+  const { userId } = auth
 
   const sb = createServerClient()
 
