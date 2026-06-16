@@ -24,7 +24,7 @@ async function getLiveStats() {
 const faqItems = [
   {
     q: 'O ENEM Pro é grátis?',
-    a: 'Sim. O plano gratuito permite responder até 10 questões por dia sem necessidade de cartão de crédito. O plano Pro (R$14,90/mês) libera questões ilimitadas e as explicações geradas por IA.',
+    a: 'Sim. O plano gratuito permite responder até 10 questões por dia sem necessidade de cartão de crédito. O plano Pro (R$8,25/mês no plano anual, ou R$14,90/mês no mensal) libera questões ilimitadas e as explicações geradas por IA.',
   },
   {
     q: 'Quantas questões do ENEM estão disponíveis?',
@@ -57,7 +57,8 @@ const jsonLd = {
   applicationCategory: 'EducationApplication',
   offers: [
     { '@type': 'Offer', price: '0', priceCurrency: 'BRL', name: 'Plano Grátis' },
-    { '@type': 'Offer', price: '14.90', priceCurrency: 'BRL', name: 'Plano Pro' },
+    { '@type': 'Offer', price: '99', priceCurrency: 'BRL', name: 'Plano Pro Anual' },
+    { '@type': 'Offer', price: '14.90', priceCurrency: 'BRL', name: 'Plano Pro Mensal' },
   ],
 }
 
@@ -129,10 +130,11 @@ export default async function LandingPage() {
             href="/planos"
             className="bg-white text-zinc-900 border border-zinc-300 px-8 py-4 rounded-xl text-lg font-semibold hover:bg-zinc-50 transition-colors"
           >
-            Ver Pro — R$14,90/mês
+            Ver Pro — R$8,25/mês
           </Link>
         </div>
         <p className="text-sm text-zinc-400 mt-4">Sem cartão de crédito. 10 questões/dia grátis para sempre.</p>
+        <p className="text-xs text-zinc-400 mt-2">🛡️ 30 dias de garantia · Cancele quando quiser · Sem cartão para começar</p>
       </section>
 
       {/* Stats bar */}
@@ -237,9 +239,9 @@ export default async function LandingPage() {
             />
             <PricingCard
               name="Pro"
-              price="R$14,90"
+              price="R$8,25"
               period="/mês"
-              desc="Para quem quer passar"
+              desc="Para quem quer passar — R$99/ano"
               features={[
                 'Questões ilimitadas',
                 'IA explica cada resposta',
@@ -247,7 +249,7 @@ export default async function LandingPage() {
                 'Estatísticas detalhadas',
                 'Todos os anos (2009–2024)',
               ]}
-              cta="Assinar Pro"
+              cta="Assinar Pro Anual — R$99/ano"
               href="/planos"
               highlighted={true}
             />

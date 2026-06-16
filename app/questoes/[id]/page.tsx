@@ -80,7 +80,17 @@ function QuestionContent() {
       setQuestion(qData.question || null)
 
       const sub = subRes.data
-      setIsPro(!!sub && sub.plan === 'pro' && sub.expires_at && new Date(sub.expires_at) > new Date())
+      const userIsPro = !!sub && sub.plan === 'pro' && sub.expires_at && new Date(sub.expires_at) > new Date()
+      setIsPro(userIsPro)
+
+      // Verificar se já usou explicação grátis hoje
+      const today = new Date().toISOString().split('T')[0]
+      const { data: usage } = await supabase.from('daily_usage')
+        .select('explanation_count').eq('user_id', user.id).eq('date', today).maybeSingle()
+      if (!userIsPro && (usage?.explanation_count ?? 0) >= 1) {
+        setFreeExplainAvailable(false)
+      }
+
       setStarred(isFavorito(id))
       setLoading(false)
     }

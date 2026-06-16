@@ -5,6 +5,7 @@ import Link from 'next/link'
 import { useRouter, useSearchParams } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
 import PushSubscribeButton from '@/components/PushSubscribeButton'
+import { trackPurchase } from '@/lib/analytics'
 
 const supabase = createBrowserClient()
 import { DISCIPLINES, YEARS } from '@/lib/enem-api'
@@ -30,6 +31,12 @@ function DashboardContent() {
   const [loading, setLoading] = useState(true)
   const [upgradeSuccess] = useState(searchParams.get('upgrade') === 'success')
   const [goal, setGoal] = useState<{ course: string; university: string; score: number } | null>(null)
+
+  useEffect(() => {
+    if (upgradeSuccess) {
+      trackPurchase(99, 'BRL', 'pro')
+    }
+  }, [upgradeSuccess])
   const [editingGoal, setEditingGoal] = useState(false)
   const [goalScore, setGoalScore] = useState(700)
   const [referralCode, setReferralCode] = useState('')

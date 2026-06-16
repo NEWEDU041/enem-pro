@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import { createBrowserClient } from '@/lib/supabase'
+import { trackBeginCheckout } from '@/lib/analytics'
 
 const supabase = createBrowserClient()
 
@@ -35,6 +36,7 @@ export default function PlanosPage() {
 
   async function handleCheckout(plan: 'monthly' | 'annual') {
     setLoading(plan)
+    trackBeginCheckout(plan, plan === 'monthly' ? 14.90 : 99)
     try {
       const { data: { session } } = await supabase.auth.getSession()
       if (!session) {
@@ -85,6 +87,48 @@ export default function PlanosPage() {
         <h1 className="text-4xl font-bold mb-4">Escolha seu plano</h1>
         <p className="text-zinc-500 mb-14">Comece grátis. Assine quando quiser mais.</p>
 
+        {(() => {
+          const enem = new Date('2026-10-26')
+          const days = Math.ceil((enem.getTime() - Date.now()) / 86400000)
+          if (days <= 0) return null
+          return (
+            <div className="inline-flex items-center gap-2 bg-amber-50 border border-amber-200 rounded-full px-4 py-1.5 text-sm font-medium text-amber-800 mb-8">
+              ⏱️ Faltam <strong>{days} dias</strong> para o ENEM 2026
+            </div>
+          )
+        })()}
+
+        {/* Value Stack */}
+        <div className="bg-indigo-50 border border-indigo-100 rounded-2xl p-6 mb-10 text-left">
+          <p className="text-xs font-semibold text-indigo-500 uppercase tracking-wider mb-3">O que está incluso no Pro</p>
+          <div className="grid sm:grid-cols-2 gap-3">
+            {[
+              { name: 'Sistema de Questões INEP Real', value: 'R$197', desc: '3.600+ questões reais 2009–2024' },
+              { name: 'IA por Questão (streaming)', value: 'R$147', desc: 'Explicação completa de cada erro' },
+              { name: 'Sistema de 90 Dias para o ENEM', value: 'R$97', desc: 'Cronograma personalizado automático' },
+              { name: 'Banco de Temas de Redação', value: 'R$47', desc: '50+ temas com repertório pronto' },
+              { name: 'Calculadora TRI + Mapa de Cursos', value: 'R$37', desc: 'Estime sua nota e veja onde passar' },
+              { name: 'Correção de Redação por IA', value: 'R$67', desc: 'Feedback nas 5 competências do ENEM' },
+            ].map(b => (
+              <div key={b.name} className="flex items-start gap-3 bg-white rounded-xl p-3 border border-indigo-100">
+                <span className="text-indigo-500 mt-0.5 shrink-0">✓</span>
+                <div className="min-w-0">
+                  <p className="text-sm font-semibold text-zinc-900">{b.name}</p>
+                  <p className="text-xs text-zinc-500">{b.desc}</p>
+                </div>
+                <span className="text-xs font-bold text-indigo-400 shrink-0 ml-auto">{b.value}</span>
+              </div>
+            ))}
+          </div>
+          <div className="mt-4 pt-4 border-t border-indigo-100 flex items-center justify-between">
+            <span className="text-sm text-zinc-600">Valor total se vendido separado:</span>
+            <div className="text-right">
+              <span className="text-zinc-400 line-through text-sm">R$592</span>
+              <span className="text-indigo-700 font-bold text-lg ml-2">Pro Anual: R$99/ano</span>
+            </div>
+          </div>
+        </div>
+
         <div className="grid md:grid-cols-3 gap-6 mb-12">
           {/* Free */}
           <div className="bg-white rounded-2xl border border-zinc-200 p-8 text-left">
@@ -112,7 +156,7 @@ export default function PlanosPage() {
           {/* Pro Anual — HERO */}
           <div className="bg-indigo-600 rounded-2xl p-8 text-left text-white relative ring-4 ring-amber-400 ring-offset-2">
             <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-amber-400 text-zinc-900 text-xs font-bold px-4 py-1 rounded-full whitespace-nowrap">
-              MELHOR CUSTO-BENEFÍCIO
+              ESCOLHA PARA O ENEM 2026
             </div>
             <h2 className="text-xl font-bold mb-1">Pro Anual</h2>
             <p className="text-indigo-200 text-sm mb-4">Compromisso com a aprovação</p>
@@ -135,6 +179,10 @@ export default function PlanosPage() {
                 <li key={f} className="flex gap-2"><span className="text-indigo-300">✓</span>{f}</li>
               ))}
             </ul>
+            <div className="flex items-center gap-2 bg-indigo-500/20 rounded-xl px-4 py-2.5 mb-3">
+              <span className="text-amber-300 text-lg">🛡️</span>
+              <p className="text-indigo-100 text-xs"><strong>Garantia 30 dias</strong> — Devolução total, sem perguntas, sem formulário</p>
+            </div>
             <button
               onClick={() => handleCheckout('annual')}
               disabled={loading !== null}
@@ -201,23 +249,23 @@ export default function PlanosPage() {
 
 const faqs = [
   {
-    q: 'O plano grátis é realmente grátis para sempre?',
-    a: 'Sim. O plano gratuito permite 10 questões por dia sem limite de prazo. Não precisa de cartão de crédito.',
+    q: 'Vou realmente melhorar minha nota?',
+    a: 'Quem usa a plataforma consistentemente (20+ questões/dia) identifica seus pontos fracos em menos de 2 semanas. A IA explica cada questão errada — não só o gabarito, mas o raciocínio completo. É o mesmo que ter um professor particular por R$8,25/mês.',
   },
   {
-    q: 'O que é a "explicação por IA"?',
-    a: 'Após você responder uma questão, a IA analisa a questão e gera uma explicação detalhada de por que a alternativa correta é a certa e por que as outras estão erradas.',
+    q: 'Funciona para quem tem pouco tempo?',
+    a: 'Sim. 15 minutos por dia (10 questões no plano grátis, 30 no Pro) são suficientes para criar consistência. O cronograma integrado distribui as matérias automaticamente pela sua disponibilidade.',
   },
   {
-    q: 'As questões são as do ENEM oficial?',
-    a: 'Sim. Usamos as questões reais do ENEM de 2009 a 2024, disponibilizadas publicamente pelo INEP.',
+    q: 'É melhor que cursinho?',
+    a: 'Para questões do ENEM específico, sim. Um cursinho custa R$3.000-R$8.000/ano e mistura ENEM com vestibulares estaduais. O ENEM Pro usa as questões reais do INEP — as mesmas que vão aparecer na prova — por R$99/ano.',
   },
   {
     q: 'Posso cancelar quando quiser?',
-    a: 'Sim. Não há fidelidade. Cancele a qualquer momento clicando em "Gerenciar assinatura" no topo desta página ou no dashboard.',
+    a: 'Sim. Sem fidelidade, sem formulário, sem enrolação. Cancele direto no "Gerenciar assinatura" no dashboard ou nesta página. O reembolso em 30 dias é automático.',
   },
   {
-    q: 'Quais formas de pagamento são aceitas?',
-    a: 'Cartão de crédito/débito (Visa, Mastercard, Elo) via Stripe. Parcelamento disponível.',
+    q: 'As questões são as do ENEM oficial?',
+    a: 'Sim. Usamos as questões reais do ENEM de 2009 a 2024, disponibilizadas pelo INEP. Não são "questões inspiradas" — são as mesmas que gerações de candidatos responderam.',
   },
 ]
