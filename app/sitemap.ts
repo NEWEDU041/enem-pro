@@ -26,6 +26,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/questoes`, lastModified: D('2026-03-01'), changeFrequency: 'weekly', priority: 0.85 },
     { url: `${base}/simulado`, lastModified: D('2026-06-01'), changeFrequency: 'monthly', priority: 0.82 },
     { url: `${base}/blog`, lastModified: D('2026-06-15'), changeFrequency: 'weekly', priority: 0.8 },
+    { url: `${base}/sobre`, lastModified: D('2026-06-17'), changeFrequency: 'yearly', priority: 0.5 },
     ...MATERIAS_SLUGS.map(slug => ({
       url: `${base}/materias/${slug}`,
       lastModified: D('2026-03-01'),

@@ -657,6 +657,20 @@ Para quem tem apenas 2–3 horas por semana:
 ## Comece Hoje
 
 O cronograma perfeito que você não começa vale menos do que o cronograma imperfeito que você começa agora. Crie sua conta grátis no ENEM Pro e comece as primeiras 10 questões.
+
+## Perguntas Frequentes
+
+### Quantas horas por dia devo estudar para o ENEM?
+2 a 4 horas diárias de estudo focado (sem celular, sem distrações) são mais eficazes do que 8 horas dispersas. O mais importante é a consistência: estudar 2h por dia durante 6 meses supera 8h por dia durante 3 semanas.
+
+### Como montar um cronograma de estudos para o ENEM do zero?
+Comece definindo quantos meses você tem, quantas horas por dia consegue estudar e quais são suas disciplinas mais fracas. Então alterne as 5 áreas ao longo da semana, priorizando as que você tem menor desempenho. Reserve pelo menos 1 dia por semana para simulado ou revisão.
+
+### Quantos meses antes do ENEM devo começar a estudar?
+O ideal é 6 a 12 meses. Com 6 meses, é possível cobrir os temas principais e ainda fazer simulados. Com 3 meses, foque apenas nos temas mais recorrentes e resolva muitas questões antigas. Com 1 mês, concentre-se em simulados e revisão dos seus pontos mais fracos.
+
+### Preciso estudar todo o conteúdo do ensino médio para o ENEM?
+Não. O ENEM cobre a Matriz de Referência do INEP, que é um recorte dos temas mais importantes. Em Matemática, por exemplo, os 7 temas principais representam 70–80% da prova. Focar nesses temas é muito mais eficiente do que revisar tudo.
     `,
   },
   {
@@ -1122,6 +1136,20 @@ Isso reforça a importância de **dominar os fundamentos** de cada disciplina an
 ---
 
 Treine com questões reais do ENEM e acompanhe sua taxa de acerto por disciplina no ENEM Pro.
+
+## Perguntas Frequentes
+
+### O que é a TRI do ENEM e como ela calcula a nota?
+A TRI (Teoria de Resposta ao Item) avalia consistência: acertar uma questão difícil e errar uma fácil do mesmo tema pesa negativamente. A nota não é proporcional ao número de acertos — é uma escala que considera dificuldade de cada questão e padrão de respostas.
+
+### A TRI pune quem chuta respostas no ENEM?
+Sim, em certa medida. Padrões de resposta inconsistentes (acertar difíceis e errar fáceis do mesmo tema) são detectados pelo modelo TRI e geram notas menores do que o simples número de acertos sugeriria. Melhor deixar em branco do que chutar aleatoriamente.
+
+### Qual é a nota máxima no ENEM?
+1000 pontos em cada uma das 5 áreas (Linguagens, Ciências Humanas, Ciências da Natureza, Matemática e Redação). A nota da Redação usa escala própria (0–1000), mas as demais usam a escala TRI.
+
+### Como a TRI beneficia candidatos bem preparados?
+Candidatos que dominam os fundamentos de cada área acertam tanto as questões fáceis quanto algumas difíceis — o padrão ideal para a TRI. Isso gera notas mais altas do que simplesmente acertar 35 questões de forma aleatória.
     `,
   },
   {
@@ -1172,6 +1200,20 @@ Exemplo bom: "O Ministério da Educação (agente) deve implementar programas de
 ---
 
 Pratique sua redação no ENEM Pro. A IA corrige nas 5 competências e dá nota de 0 a 1000 em segundos.
+
+## Perguntas Frequentes
+
+### Qual nota de redação é considerada boa no ENEM?
+Redação acima de 800 é considerada excelente e suficiente para a maioria dos cursos. Para Medicina nas federais de prestígio, a meta é 900+. Redação abaixo de 600 prejudica significativamente a média no SISU.
+
+### É possível tirar 1000 na redação do ENEM sem estudar?
+Não. Tirar 1000 exige dominar as 5 competências simultaneamente: norma culta, compreensão do tema, argumentação sólida, coesão e proposta de intervenção completa. Sem treino e feedback, é praticamente impossível atingir a nota máxima.
+
+### O que deve ter na proposta de intervenção do ENEM?
+A proposta de intervenção (Competência 5) precisa ter 5 elementos: agente (quem executa), ação (o que faz), modo (como faz), efeito (resultado esperado) e finalidade (por que). Propostas incompletas perdem pontos em C5.
+
+### Quantas linhas deve ter a redação do ENEM?
+A redação deve ter entre 26 e 30 linhas no caderno do ENEM. Abaixo de 8 linhas = nota 0. Abaixo de 20 linhas já compromete a argumentação. Não existe penalidade por ultrapassar 30 linhas, mas o espaço não permite muito mais.
     `,
   },
   {
@@ -3033,6 +3075,20 @@ Esses valores variam por universidade, turno e localização. Use a calculadora 
 O ENEM Pro tem todas as questões do ENEM 2022 organizadas por disciplina. Responda, veja o gabarito e receba explicação de IA para entender onde errou — não apenas qual era a resposta certa.
 
 **10 questões por dia grátis** — sem cartão de crédito.
+
+## Perguntas Frequentes
+
+### Quando foi o ENEM 2022?
+O ENEM 2022 foi aplicado nos dias 13 e 14 de novembro de 2022. O 1º dia teve Linguagens e Ciências Humanas (mais Redação); o 2º dia teve Ciências da Natureza e Matemática.
+
+### Onde encontro o gabarito oficial do ENEM 2022?
+O gabarito oficial está disponível no portal do INEP (gov.br/inep), na seção de provas e gabaritos. É público, gratuito e disponível por cor de caderno.
+
+### Qual foi a dificuldade da prova do ENEM 2022?
+A prova de 2022 foi considerada de dificuldade média, com Matemática ligeiramente mais desafiadora. Ciências Humanas teve questões com fontes primárias exigindo mais interpretação. A média geral ficou próxima de 510–520 pontos.
+
+### O gabarito do ENEM 2022 é diferente por cor de caderno?
+Sim. A ordem das questões varia por cor de caderno (amarelo, azul, cinza, rosa e branco), mas o conteúdo é o mesmo. O gabarito do INEP especifica a letra correta para cada posição de questão em cada caderno.
     `,
   },
   {
