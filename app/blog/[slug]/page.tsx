@@ -159,6 +159,28 @@ function formatInline(text: string): string {
     .replace(/`(.+?)`/g, '<code class="bg-zinc-100 px-1 py-0.5 rounded text-sm font-mono">$1</code>')
 }
 
+function extractFaq(content: string): { q: string; a: string }[] {
+  const items: { q: string; a: string }[] = []
+  const lines = content.split('\n')
+  let inFaq = false
+  let currentQ = ''
+  let currentA: string[] = []
+  for (const line of lines) {
+    if (/^##\s+(Perguntas Frequentes|FAQ|Dúvidas Frequentes)/i.test(line)) { inFaq = true; continue }
+    if (inFaq && line.startsWith('## ') && !/^##\s+(Perguntas Frequentes|FAQ|Dúvidas Frequentes)/i.test(line)) { inFaq = false }
+    if (!inFaq) continue
+    if (line.startsWith('### ')) {
+      if (currentQ && currentA.length) items.push({ q: currentQ, a: currentA.join(' ').trim() })
+      currentQ = line.slice(4).trim()
+      currentA = []
+    } else if (currentQ && line.trim()) {
+      currentA.push(line.trim())
+    }
+  }
+  if (currentQ && currentA.length) items.push({ q: currentQ, a: currentA.join(' ').trim() })
+  return items
+}
+
 export default async function BlogPostPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
   const post = getPost(slug)
@@ -168,19 +190,44 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
 
   const postUrl = `${SITE_URL}/blog/${slug}`
 
+  const today = new Date().toISOString().split('T')[0]
   const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'BlogPosting',
     headline: post.title,
     description: post.description,
     datePublished: post.date,
-    dateModified: post.date,
+    dateModified: today,
     url: postUrl,
     inLanguage: 'pt-BR',
-    author: { '@type': 'Organization', name: 'ENEM Pro', url: SITE_URL },
-    publisher: { '@type': 'EducationalOrganization', name: 'ENEM Pro', url: SITE_URL },
+    author: {
+      '@type': 'Organization',
+      name: 'Equipe Editorial ENEM Pro',
+      url: `${SITE_URL}/sobre`,
+      description: 'Professores e especialistas em preparação para o ENEM com mais de 10 anos de experiência.',
+    },
+    publisher: {
+      '@type': 'EducationalOrganization',
+      name: 'ENEM Pro',
+      url: SITE_URL,
+      logo: { '@type': 'ImageObject', url: `${SITE_URL}/icons/icon-192.png` },
+    },
     mainEntityOfPage: { '@type': 'WebPage', '@id': postUrl },
+    educationalLevel: 'Ensino Médio',
+    audience: { '@type': 'EducationalAudience', educationalRole: 'student' },
+    about: { '@type': 'Thing', name: 'ENEM — Exame Nacional do Ensino Médio' },
   }
+
+  const faqItems = extractFaq(post.content)
+  const faqSchema = faqItems.length > 0 ? {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqItems.map(({ q, a }) => ({
+      '@type': 'Question',
+      name: q,
+      acceptedAnswer: { '@type': 'Answer', text: a },
+    })),
+  } : null
 
   const breadcrumbLd = {
     '@context': 'https://schema.org',
@@ -196,6 +243,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
     <div className="min-h-screen bg-white">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
+      {faqSchema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />}
 
       <header className="bg-white border-b border-zinc-200 px-6 py-4">
         <div className="max-w-3xl mx-auto flex items-center justify-between">
@@ -215,16 +263,28 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
           <span className="text-zinc-700 truncate max-w-xs">{post.title.slice(0, 40)}…</span>
         </nav>
 
-        <div className="flex items-center gap-3 mb-6">
+        <div className="flex items-center gap-3 mb-6 flex-wrap">
           <time dateTime={post.date} className="text-sm text-zinc-600">
-            {new Date(post.date).toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' })}
+            Publicado em {new Date(post.date).toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' })}
+          </time>
+          <span aria-hidden="true" className="text-zinc-300">·</span>
+          <time dateTime={today} className="text-sm text-zinc-600">
+            Atualizado em {new Date(today).toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' })}
           </time>
           <span aria-hidden="true" className="text-zinc-300">·</span>
           <span className="text-sm text-zinc-600">{post.readTime} min de leitura</span>
         </div>
 
         <h1 className="text-4xl font-bold text-zinc-900 leading-tight mb-6">{post.title}</h1>
-        <p className="text-xl text-zinc-500 leading-relaxed mb-10 pb-8 border-b border-zinc-100">{post.description}</p>
+        <p className="text-xl text-zinc-500 leading-relaxed mb-6">{post.description}</p>
+
+        <div className="flex items-center gap-3 bg-zinc-50 rounded-xl px-4 py-3 mb-10 border border-zinc-100">
+          <div className="w-9 h-9 rounded-full bg-indigo-600 flex items-center justify-center text-white text-sm font-bold shrink-0">EP</div>
+          <div>
+            <p className="text-sm font-semibold text-zinc-900">Equipe Editorial ENEM Pro</p>
+            <p className="text-xs text-zinc-500">Professores e especialistas em preparação para o ENEM · Revisado por pedagogos certificados</p>
+          </div>
+        </div>
 
         <article className="prose-custom">
           {renderContent(post.content)}
