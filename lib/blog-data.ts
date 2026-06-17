@@ -11335,17 +11335,11 @@ O ENEM 2019 foi aplicado nos dias **3 e 4 de novembro de 2019** para mais de 5,1
 
 ## Gabarito por Disciplina — 1º Dia (Domingo, 3/11/2019)
 
-### Linguagens, Códigos e suas Tecnologias (Língua Portuguesa)
+### Gabarito Completo ENEM 2019 — Acesse no INEP
 
-| Questão | Caderno Amarelo | Questão | Caderno Amarelo |
-|---------|-----------------|---------|-----------------|
-| 1 | D | 6 | B |
-| 2 | A | 7 | C |
-| 3 | C | 8 | E |
-| 4 | E | 9 | A |
-| 5 | B | 10 | D |
+O gabarito oficial com todas as respostas (Linguagens, Humanas, Ciências da Natureza e Matemática) está disponível no portal do INEP para download em PDF:
 
-*O gabarito completo com as 45 questões de Linguagens e 5 de Língua Estrangeira está disponível no site do INEP (gov.br/inep).*
+**[→ Gabarito oficial ENEM 2019 no INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/gabarito-e-microdados)**
 
 ### Ciências Humanas e suas Tecnologias
 
@@ -11655,35 +11649,13 @@ O ENEM 2017 foi ligeiramente mais difícil que o 2016 em Matemática, mas mais f
 
 A prova de **Matemática e suas Tecnologias** do ENEM 2023 foi aplicada no **2º domingo (12/11/2023)**. Com 45 questões, a prova de 2023 foi considerada de **nível alto** pela maioria dos professores.
 
-## Gabarito Oficial — Caderno Amarelo (ENEM 2023)
+## Gabarito Oficial ENEM 2023 — Acesse no INEP
 
-| Q | Gabarito | Tema | Q | Gabarito | Tema |
-|---|----------|------|---|----------|------|
-| 136 | C | Funções | 159 | A | Geometria espacial |
-| 137 | E | Estatística | 160 | B | Probabilidade |
-| 138 | B | Aritmética | 161 | D | Funções |
-| 139 | D | Geometria plana | 162 | C | Álgebra |
-| 140 | A | PA/PG | 163 | E | Estatística |
-| 141 | C | Trigonometria | 164 | A | Geometria analítica |
-| 142 | E | Função quadrática | 165 | B | Funções |
-| 143 | B | Logaritmos | 166 | D | Combinatória |
-| 144 | D | Matrizes | 167 | C | Trigonometria |
-| 145 | A | Probabilidade | 168 | E | Geometria plana |
-| 146 | C | Geometria espacial | 169 | A | PA/PG |
-| 147 | E | Álgebra | 170 | B | Função exponencial |
-| 148 | B | Estatística | 171 | D | Matrizes/Sistemas |
-| 149 | D | Funções | 172 | C | Estatística |
-| 150 | A | Trigonometria | 173 | E | Geometria analítica |
-| 151 | C | Combinatória | 174 | A | Logaritmos |
-| 152 | E | Função logarítmica | 175 | B | Geometria espacial |
-| 153 | B | Probabilidade | 176 | D | Trigonometria |
-| 154 | D | Geometria plana | 177 | C | Probabilidade |
-| 155 | A | Matrizes | 178 | E | Funções |
-| 156 | C | Estatística | 179 | A | Combinatória |
-| 157 | E | Aritmética | 180 | B | Geometria espacial |
-| 158 | B | Geometria analítica | — | — | — |
+O gabarito completo com as 45 questões de Matemática está disponível no portal oficial do INEP, que publica todos os cadernos (Amarelo, Azul, Branco, Rosa) em até 48h após a aplicação. Lá você também confere eventuais questões anuladas.
 
-*Nota: O gabarito acima é uma representação educacional. Para o gabarito oficial completo, acesse gov.br/inep.*
+**[→ Gabarito oficial ENEM 2023 no INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/gabarito-e-microdados)**
+
+A seguir, veja a análise completa: distribuição por tema, questões mais difíceis e dicas de estudo baseadas nesta edição.
 
 ## Análise dos Temas Cobrados
 
@@ -11757,35 +11729,13 @@ Baseado no histórico de 2009 a 2024:
 
 A prova de **Ciências da Natureza e suas Tecnologias** foi aplicada no **2º domingo (12/11/2023)**, junto com Matemática. Com 45 questões divididas entre Física, Química e Biologia (15 de cada), a prova de 2023 foi considerada de **nível médio-alto**.
 
-## Gabarito Oficial — Caderno Amarelo
+## Gabarito Oficial ENEM 2023 — Acesse no INEP
 
-| Q | Gabarito | Área | Q | Gabarito | Área |
-|---|----------|------|---|----------|------|
-| 91 | D | Biologia | 114 | A | Química |
-| 92 | A | Biologia | 115 | C | Biologia |
-| 93 | C | Química | 116 | E | Física |
-| 94 | E | Física | 117 | B | Biologia |
-| 95 | B | Biologia | 118 | D | Química |
-| 96 | D | Química | 119 | A | Física |
-| 97 | A | Física | 120 | C | Biologia |
-| 98 | C | Biologia | 121 | E | Química |
-| 99 | E | Física | 122 | B | Física |
-| 100 | B | Química | 123 | D | Biologia |
-| 101 | D | Biologia | 124 | A | Química |
-| 102 | A | Física | 125 | C | Física |
-| 103 | C | Química | 126 | E | Biologia |
-| 104 | E | Biologia | 127 | B | Química |
-| 105 | B | Física | 128 | D | Física |
-| 106 | D | Química | 129 | A | Biologia |
-| 107 | A | Biologia | 130 | C | Química |
-| 108 | C | Física | 131 | E | Física |
-| 109 | E | Química | 132 | B | Biologia |
-| 110 | B | Biologia | 133 | D | Química |
-| 111 | D | Física | 134 | A | Física |
-| 112 | A | Química | 135 | C | Biologia |
-| 113 | C | Física | — | — | — |
+O gabarito completo com as 45 questões de Ciências da Natureza (Física, Química e Biologia) está disponível no portal oficial do INEP para download em PDF.
 
-*Gabarito representativo. Para o oficial completo: gov.br/inep → ENEM → Gabaritos → 2023*
+**[→ Gabarito oficial ENEM 2023 no INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/gabarito-e-microdados)**
+
+Abaixo encontre a análise detalhada do que foi cobrado em cada área nesta edição.
 
 ## Análise por Área
 
@@ -11859,35 +11809,13 @@ Biotecnologia + genética molecular: como a transgenia é usada na produção de
 
 A prova de **Ciências Humanas e suas Tecnologias** foi aplicada no **1º domingo (5/11/2023)**, junto com Linguagens e Redação. As 45 questões são distribuídas entre História, Geografia, Filosofia e Sociologia.
 
-## Gabarito Oficial — Caderno Amarelo
+## Gabarito Oficial ENEM 2023 — Acesse no INEP
 
-| Q | Gabarito | Disciplina | Q | Gabarito | Disciplina |
-|---|----------|------------|---|----------|------------|
-| 46 | B | História | 69 | D | Sociologia |
-| 47 | A | Filosofia | 70 | A | Filosofia |
-| 48 | C | Sociologia | 71 | C | Geografia |
-| 49 | D | História | 72 | E | História |
-| 50 | E | Geografia | 73 | B | Filosofia |
-| 51 | B | Filosofia | 74 | D | Sociologia |
-| 52 | A | Sociologia | 75 | A | História |
-| 53 | C | História | 76 | C | Geografia |
-| 54 | E | Geografia | 77 | E | Sociologia |
-| 55 | B | Filosofia | 78 | B | História |
-| 56 | D | História | 79 | D | Filosofia |
-| 57 | A | Sociologia | 80 | A | Sociologia |
-| 58 | C | Geografia | 81 | C | História |
-| 59 | E | Filosofia | 82 | E | Geografia |
-| 60 | B | Sociologia | 83 | B | Filosofia |
-| 61 | D | História | 84 | D | Sociologia |
-| 62 | A | Filosofia | 85 | A | História |
-| 63 | C | Sociologia | 86 | C | Filosofia |
-| 64 | E | História | 87 | E | Sociologia |
-| 65 | B | Geografia | 88 | B | História |
-| 66 | D | Filosofia | 89 | D | Sociologia |
-| 67 | A | Sociologia | 90 | A | Filosofia |
-| 68 | C | História | — | — | — |
+O gabarito completo com as 45 questões de Ciências Humanas (História, Geografia, Filosofia e Sociologia) está disponível no portal oficial do INEP para download em PDF, incluindo todos os cadernos.
 
-*Gabarito representativo. Oficial: gov.br/inep → ENEM → Gabaritos → 2023*
+**[→ Gabarito oficial ENEM 2023 no INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/gabarito-e-microdados)**
+
+A seguir, análise completa dos temas cobrados por disciplina nesta edição.
 
 ## Análise por Disciplina
 
@@ -11967,29 +11895,13 @@ A prova de Humanas tem **muito texto** — cada questão traz um trecho longo. A
 
 A prova de **Linguagens, Códigos e suas Tecnologias** foi aplicada no **1º domingo (5/11/2023)**. São 45 questões de Língua Portuguesa + 5 de Língua Estrangeira (inglês ou espanhol) = 50 questões totais (mas a nota é em 45).
 
-## Gabarito Oficial — Caderno Amarelo (Língua Inglesa)
+## Gabarito Oficial ENEM 2023 — Acesse no INEP
 
-| Q | Gabarito | Q | Gabarito | Q | Gabarito |
-|---|----------|---|----------|---|----------|
-| 1 | C | 18 | B | 35 | E |
-| 2 | E | 19 | D | 36 | B |
-| 3 | A | 20 | A | 37 | C |
-| 4 | D | 21 | C | 38 | A |
-| 5 | B | 22 | E | 39 | D |
-| 6 | C | 23 | B | 40 | B |
-| 7 | E | 24 | D | 41 | C |
-| 8 | A | 25 | A | 42 | E |
-| 9 | D | 26 | C | 43 | A |
-| 10 | B | 27 | E | 44 | D |
-| 11 | C | 28 | B | 45 | B |
-| 12 | A | 29 | D | LE1 | C |
-| 13 | E | 30 | A | LE2 | E |
-| 14 | B | 31 | C | LE3 | A |
-| 15 | D | 32 | E | LE4 | D |
-| 16 | A | 33 | B | LE5 | B |
-| 17 | C | 34 | D | — | — |
+O gabarito completo com as 45 questões de Linguagens e as 5 de Língua Estrangeira (inglês ou espanhol) está disponível no portal oficial do INEP para download.
 
-*Gabarito representativo. Oficial: gov.br/inep → ENEM → Gabaritos → 2023*
+**[→ Gabarito oficial ENEM 2023 no INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/gabarito-e-microdados)**
+
+A seguir, análise do que foi cobrado em Língua Portuguesa, Literatura e Língua Estrangeira nesta edição.
 
 ## Análise da Prova
 
