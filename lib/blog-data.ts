@@ -51,6 +51,20 @@ Língua Portuguesa, Literatura, Artes, Educação Física e Inglês/Espanhol. A 
 O ENEM Pro reúne todas as questões do ENEM 2024 e de anos anteriores. Responda, veja o gabarito e entenda o raciocínio com explicação gerada por IA.
 
 **10 questões por dia grátis** — sem cartão de crédito.
+
+## Perguntas Frequentes
+
+### Quando o gabarito oficial do ENEM 2024 foi divulgado?
+O gabarito oficial do ENEM 2024 foi divulgado pelo INEP no dia seguinte à aplicação da prova, disponível no site oficial do INEP (gov.br/inep).
+
+### O gabarito do ENEM 2024 é o mesmo para todos os cadernos?
+Não. O ENEM usa diferentes cadernos de prova (cores), e cada caderno tem uma ordem diferente de questões. O gabarito oficial do INEP especifica as respostas para cada cor de caderno.
+
+### Como usar o gabarito para calcular minha nota no ENEM 2024?
+Conte o número de acertos por área. A nota final não é proporcional aos acertos — o ENEM usa o modelo TRI (Teoria de Resposta ao Item), que considera a dificuldade de cada questão. Use a calculadora de nota do ENEM Pro para estimar sua pontuação.
+
+### Qual foi a questão mais difícil do ENEM 2024?
+As questões de maior dificuldade foram nas áreas de Matemática (geometria espacial e probabilidade) e Física (eletromagnetismo). O TRI penaliza erros em questões fáceis mais do que erros em questões difíceis.
     `,
   },
   {
@@ -89,6 +103,20 @@ Interpretação textual com foco em **textos argumentativos**. Inglês cobrou ph
 ## Estude as Questões de 2023
 
 Acesse todas as questões do ENEM 2023 organizadas por disciplina no ENEM Pro. Responda e receba explicação da IA para cada erro.
+
+## Perguntas Frequentes
+
+### Quando foi aplicado o ENEM 2023?
+O ENEM 2023 foi aplicado nos dias 5 e 6 de novembro de 2023. O 1º dia teve Linguagens e Ciências Humanas; o 2º dia teve Ciências da Natureza e Matemática.
+
+### Onde encontro o gabarito oficial do ENEM 2023?
+O gabarito oficial do ENEM 2023 está disponível no site do INEP (gov.br/inep). O ENEM Pro reúne as questões com explicações de IA para facilitar o estudo.
+
+### Quantos participantes fizeram o ENEM 2023?
+O ENEM 2023 teve cerca de 3,9 milhões de participantes presentes, segundo o INEP.
+
+### Qual foi a média de notas no ENEM 2023?
+A média geral ficou próxima de 510 pontos. Notas acima de 650 já são consideradas competitivas para a maioria dos cursos federais pelo SISU.
     `,
   },
   {
@@ -267,6 +295,20 @@ Atingir 600 em média e 700+ na redação já garante acesso a cursos de alta de
 ## Comece Agora — 10 questões por dia
 
 A melhor hora para começar era há 6 meses. A segunda melhor hora é agora. O ENEM Pro tem todas as questões reais de 2009 a 2024. Comece grátis.
+
+## Perguntas Frequentes
+
+### Como passar no ENEM com nota alta?
+Para notas acima de 700, a estratégia é: focar nos temas mais recorrentes de cada área (que representam 60-70% da prova), resolver questões reais do INEP de 2009 a 2024 por tema, e garantir redação acima de 800. Consistência supera volume de estudo.
+
+### Quantas horas por dia devo estudar para o ENEM?
+2 a 4 horas diárias bem focadas são mais eficazes do que 8 horas de estudo disperso. A chave é qualidade: resolver questões, analisar erros e revisar o conteúdo que mais falhou.
+
+### Quanto tempo antes do ENEM devo começar a estudar?
+O ideal é começar 6 a 12 meses antes. Com 6 meses, é possível cobrir os temas principais e fazer simulados. Com 3 meses, o foco deve ser revisão e resolução intensa de questões antigas.
+
+### Qual disciplina tem mais peso no ENEM?
+Todas as 5 áreas têm peso igual na média do SISU. Porém, alguns cursos aplicam pesos específicos (ex: Medicina costuma pesar mais C. Natureza). Verifique o edital do curso desejado.
     `,
   },
   {
@@ -678,6 +720,20 @@ Se você já tem 650 em quatro disciplinas e 400 na redação, melhorar a redaç
 ## Descubra Sua Nota Atual
 
 Responda questões reais do ENEM e acompanhe sua taxa de acerto por disciplina no ENEM Pro. Identifique onde melhorar antes da prova.
+
+## Perguntas Frequentes
+
+### Como funciona o cálculo de nota do ENEM com a TRI?
+A TRI (Teoria de Resposta ao Item) não é uma simples porcentagem de acertos. Ela considera a dificuldade de cada questão e a consistência das suas respostas. Acertar questões difíceis vale mais; acertar questões fáceis e errar as fáceis do mesmo tema pode reduzir a nota.
+
+### Qual a nota mínima para passar no ENEM?
+Não existe nota mínima única. A nota de corte depende do curso e da universidade. Para Medicina em federais de prestígio, é preciso geralmente 780+ de média. Para cursos menos concorridos, 550–600 já é competitivo.
+
+### O SISU usa qual nota: a de cada prova ou a média?
+O SISU usa a média das 5 notas do ENEM, podendo aplicar pesos diferentes por disciplina conforme definido por cada curso. A nota da redação sempre entra no cálculo.
+
+### Como calcular minha nota do ENEM antes do resultado oficial?
+Use a ferramenta "Calcular Nota" do ENEM Pro: insira seus acertos em cada área (estimados via gabarito) e a nota da redação para obter uma estimativa TRI.
     `,
   },
   {
@@ -1011,6 +1067,20 @@ Para chegar em 800+, você precisa de consistência em todas as áreas. Um candi
 ---
 
 O ENEM Pro tem todas as questões de 2009 a 2024 organizadas por disciplina. Treine as áreas que mais caem na nota de corte de Medicina.
+
+## Perguntas Frequentes
+
+### Qual é a nota mínima para Medicina no ENEM?
+Para Medicina em universidades federais de alto prestígio (UFMG, USP, UNIFESP), a nota de corte costuma ficar entre 750 e 820 de média das 5 áreas, com nota da redação acima de 800. Para universidades estaduais menores, o corte pode ser entre 680 e 730.
+
+### Qual a nota de corte de Medicina para UFMG e USP pelo SISU?
+A UFMG Medicina geralmente exige média próxima de 800 no turno integral. A USP usa FUVEST e não aceita o SISU. Para Medicina pelo SISU, UNIFESP, UFPE, UFRJ e UNB costumam ter cortes entre 760 e 820.
+
+### A nota de Medicina pelo SISU muda todo ano?
+Sim. A nota de corte varia conforme o número de candidatos, as vagas disponíveis e o desempenho geral da turma naquele ano. Consulte o histórico no Quero Bolsa ou no site oficial do SISU para ver os cortes dos anos anteriores.
+
+### Como a redação influencia na nota de corte de Medicina?
+A nota de redação entra na média do SISU com o mesmo peso das outras áreas. Para Medicina, uma redação abaixo de 700 compromete a média final significativamente. A meta mínima é 800; candidatos top costumam ter 900+.
     `,
   },
   {
@@ -3313,108 +3383,6 @@ Com base nos pesos típicos das federais:
 ## Pratique com Questões de Ciências da Natureza
 
 O ENEM Pro tem todas as questões de Ciências da Natureza do ENEM de 2009 a 2024. Filtre por disciplina (Biologia, Química, Física), pratique por área e receba explicação de IA para cada questão errada.
-
-**10 questões por dia grátis** — sem cartão de crédito.
-    `,
-  },
-  {
-    slug: 'como-estudar-matematica-enem',
-    title: 'Como Estudar Matemática para o ENEM — Guia por Temas e Estratégias',
-    description: 'Guia definitivo para estudar Matemática para o ENEM: temas mais cobrados, ordem de estudo, erros comuns e como usar questões antigas para maximizar o resultado.',
-    date: '2026-03-20',
-    readTime: 10,
-    content: `
-Matemática é a área que mais define aprovações no ENEM. Uma boa nota em Matemática abre as portas para os cursos mais concorridos — Medicina, Engenharia, Computação, Arquitetura. Uma nota baixa pode cortar metade das suas opções.
-
-A boa notícia: Matemática no ENEM tem padrão. Os mesmos temas voltam todo ano. Quem treina com inteligência — não com volume — consegue notas altas sem decorar centenas de fórmulas.
-
-## Os 7 Temas Mais Cobrados (Apareceram em 90%+ das Provas)
-
-### 1. Funções (15–20% da prova)
-**O que cobra:** funções do 1º grau, 2º grau, exponencial, logarítmica, modular.
-**Dica:** o ENEM quase nunca pede a fórmula isolada. Ele apresenta um contexto (crescimento de bactéria, inflação, juros) e pede que você **modele** a situação. Treine leitura do enunciado antes da conta.
-
-### 2. Geometria Plana (10–15%)
-**O que cobra:** área de triângulos, quadriláteros, círculos, figuras compostas.
-**Dica:** problemas de geometria do ENEM sempre têm uma figura ou situação real (azulejo, terreno, embalagem). Saiba calcular áreas combinadas — retângulo + semicírculo, por exemplo.
-
-### 3. Geometria Espacial (8–12%)
-**O que cobra:** volume e área de cilindro, cone, esfera, pirâmide, prisma.
-**Dica:** decore as 5 fórmulas principais. O ENEM fornece as fórmulas mais obscuras no próprio caderno — mas não as básicas.
-
-### 4. Estatística e Probabilidade (10–15%)
-**O que cobra:** média, mediana, moda, desvio padrão, probabilidade de eventos, gráficos.
-**Dica:** a maior dificuldade não é calcular, é **ler o gráfico ou tabela corretamente**. Pratique leitura crítica de dados — o ENEM usa gráficos com informações redundantes para confundir.
-
-### 5. Progressões Aritmética e Geométrica (8–10%)
-**O que cobra:** fórmula do termo geral, soma dos termos, aplicação em juros.
-**Dica:** PA e PG aparecem em problemas de finanças (juros compostos = PG). Conecte a teoria com a aplicação.
-
-### 6. Trigonometria (8–10%)
-**O que cobra:** seno, cosseno, tangente, relações no triângulo retângulo, lei dos senos e cossenos.
-**Dica:** o ENEM usa trigonometria em problemas de altura de prédio, distância entre pontos e inclinação de rampas. Visualize o problema antes de aplicar a fórmula.
-
-### 7. Análise Combinatória (6–8%)
-**O que cobra:** permutação, combinação, arranjo e probabilidade combinada.
-**Dica:** entenda quando usar cada fórmula (permutação = ordem importa; combinação = ordem não importa). Depois, a conta é simples.
-
-## O que Não Vale a Pena Estudar (Para o ENEM)
-
-Diferente de vestibulares como FUVEST, o ENEM **raramente** cobra:
-- Números complexos
-- Polinômios de alto grau
-- Teoria dos números (divisibilidade, MDC, MMC de forma isolada)
-- Geometria analítica avançada (cônicas)
-
-Esses temas podem aparecer como contexto de uma questão, mas não como conteúdo principal. Não gaste tempo excessivo aqui se houver lacunas nos temas centrais.
-
-## Ordem de Estudo Recomendada
-
-Se você tem 4 meses para a prova, siga esta sequência:
-
-**Mês 1 — Base**
-- Funções lineares e quadráticas
-- Geometria plana (área e perímetro)
-- Porcentagem e razão/proporção
-
-**Mês 2 — Volume**
-- Geometria espacial (volume dos 5 sólidos principais)
-- PA e PG + juros compostos
-- Estatística: média, mediana, moda, gráficos
-
-**Mês 3 — Resolução**
-- Probabilidade e combinatória
-- Trigonometria básica
-- Funções exponenciais e logarítmicas
-
-**Mês 4 — Simulados**
-- Apenas questões antigas do ENEM (2018–2024)
-- Revisar erros, não revisar teoria
-- Cronometrar: 45 questões em 4,5 horas = 6 minutos por questão
-
-## Erros Mais Comuns (e Como Evitar)
-
-**Erro 1: Calcular antes de ler o enunciado**
-O ENEM esconde a informação relevante no fim do enunciado. Leia tudo antes de começar a conta.
-
-**Erro 2: Não usar substituição nas alternativas**
-Se você travou, substitua as alternativas na equação. Às vezes é mais rápido do que resolver algebricamente.
-
-**Erro 3: Não checar a unidade de medida**
-O ENEM mistura cm com m, litros com m³, minutos com horas. Converter antes de calcular evita erros bobos.
-
-**Erro 4: Estudar teoria sem resolver questões**
-Você pode saber a fórmula de cor e errar a questão por não entender como aplicá-la. Resolva pelo menos 10 questões de cada tema antes de avançar.
-
-## Como Usar o ENEM Pro Para Matemática
-
-O ENEM Pro tem todas as questões de Matemática do ENEM de 2009 a 2024. A estratégia mais eficaz:
-
-1. **Filtre por tema** — resolva 20 questões só de funções, depois só de probabilidade
-2. **Analise os erros** — a IA explica o raciocínio completo de cada questão que você errar
-3. **Volte ao tema** — errou muito em geometria espacial? Resolva mais 20 questões desse tema antes de avançar
-
-Estudar por tema é mais eficiente do que estudar por ano — você compara questões de mesmo tema em anos diferentes e aprende o padrão de cobrança do INEP.
 
 **10 questões por dia grátis** — sem cartão de crédito.
     `,
