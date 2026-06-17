@@ -13027,7 +13027,718 @@ Questões de Matemática exigem cálculos — alguns candidatos levam 5-8 minuto
   },
 ]
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11]
+const EXTRA_POSTS_12: BlogPost[] = [
+  {
+    slug: 'gabarito-matematica-enem-2022',
+    title: 'Gabarito de Matemática ENEM 2022 — Temas, Resolução e Análise',
+    description: 'Gabarito oficial de Matemática do ENEM 2022 com análise dos temas mais cobrados, resolução comentada das questões-chave e link para o gabarito do INEP.',
+    date: '2026-06-17',
+    readTime: 8,
+    content: `
+O ENEM 2022 foi aplicado em 13 e 14 de novembro de 2022. A prova de Matemática e suas Tecnologias (2º dia) manteve o padrão de exigir raciocínio contextualizado — sem decoreba, com foco em aplicar conceitos.
+
+## Gabarito Oficial Matemática ENEM 2022
+
+O gabarito oficial completo está disponível no portal do INEP:
+
+**[Acesse o gabarito oficial no INEP →](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/gabarito)**
+
+O arquivo contém as respostas por cor de caderno (amarelo, azul, cinza, rosa e branco) para as 45 questões de Matemática e suas Tecnologias.
+
+## Temas Mais Cobrados na Prova de Matemática ENEM 2022
+
+A prova de 2022 seguiu o padrão histórico da Matriz de Referência do INEP, com distribuição aproximada:
+
+| Tema | Questões estimadas |
+|------|-------------------|
+| Funções (1º grau, 2º grau, exponencial, logarítmica) | 9–11 |
+| Geometria Plana e Espacial | 8–10 |
+| Probabilidade e Estatística | 7–9 |
+| Progressões Aritmética e Geométrica | 3–5 |
+| Trigonometria | 3–5 |
+| Análise Combinatória | 3–4 |
+| Álgebra e Matrizes | 3–4 |
+
+## Características da Prova de 2022
+
+**Contextualização forte:** Quase todas as questões apresentavam uma situação real — financiamento, construção, dados epidemiológicos, situações de trânsito. O ENEM de 2022 exigiu mais leitura e interpretação do que cálculo puro.
+
+**Sem fórmulas decoradas:** As questões mais difíceis não exigiam fórmulas específicas — exigiam montar um modelo matemático a partir de um contexto.
+
+**Gráficos e tabelas:** Cerca de 30% das questões apresentavam dados em formato visual. Saber ler e interpretar gráficos foi essencial.
+
+## Dificuldade Relativa
+
+A prova de Matemática 2022 foi considerada de dificuldade média-alta, com:
+- ~10 questões consideradas fáceis (abaixo de 500 no TRI)
+- ~25 questões de dificuldade média (500–650)
+- ~10 questões difíceis (acima de 650)
+
+O desempenho médio em Matemática no ENEM 2022 ficou próximo de 520 pontos.
+
+## Como Estudar a Partir do Gabarito 2022
+
+Resolver o gabarito de 2022 só faz sentido se você **analisar os erros**:
+
+1. Baixe o gabarito oficial no INEP
+2. Resolva as 45 questões sem consulta
+3. Compare com o gabarito e marque os erros
+4. Para cada erro, identifique o tema (função? geometria? probabilidade?)
+5. Revise o tema e resolva mais questões daquele tipo no ENEM Pro
+
+Repetir esse ciclo com provas de 2021, 2020, 2019 e 2018 cobre a maioria dos temas que vão cair na próxima edição.
+
+## Pratique Questões de Matemática no ENEM Pro
+
+O ENEM Pro reúne todas as questões de Matemática do ENEM 2022 e de anos anteriores. Filtre por tema, resolva e receba explicação da IA para cada questão errada.
+
+**10 questões por dia grátis** — sem cartão de crédito.
+
+## Perguntas Frequentes
+
+### Onde encontro o gabarito oficial de Matemática do ENEM 2022?
+No portal do INEP (gov.br/inep), na seção ENEM → Gabarito. O arquivo PDF contém as respostas por cor de caderno para todas as áreas, incluindo Matemática.
+
+### Quantas questões de Funções caíram no ENEM 2022?
+Em média, de 9 a 11 questões envolvem funções (1º grau, 2º grau, exponencial ou logarítmica) na prova de Matemática do ENEM. Em 2022, o padrão foi mantido.
+
+### O gabarito de Matemática do ENEM 2022 é igual para todos os candidatos?
+Não. O ENEM usa diferentes cores de caderno, e a ordem das questões varia. O gabarito do INEP especifica a resposta correta para cada cor. O conteúdo das questões é o mesmo, mas a numeração muda.
+
+### Qual foi a média de Matemática no ENEM 2022?
+A média de Matemática no ENEM 2022 ficou próxima de 520 pontos na escala TRI. É uma das áreas com menor média entre os candidatos.
+    `,
+  },
+  {
+    slug: 'gabarito-ciencias-natureza-enem-2022',
+    title: 'Gabarito Ciências da Natureza ENEM 2022 — Física, Química e Biologia',
+    description: 'Gabarito oficial de Ciências da Natureza do ENEM 2022 com análise por disciplina (Física, Química e Biologia), temas cobrados e resolução das questões principais.',
+    date: '2026-06-17',
+    readTime: 8,
+    content: `
+O ENEM 2022 trouxe uma prova de Ciências da Natureza equilibrada entre as três disciplinas — Física, Química e Biologia — com forte contextualização em situações cotidianas e questões ambientais.
+
+## Gabarito Oficial Ciências da Natureza ENEM 2022
+
+O gabarito oficial está disponível no portal do INEP:
+
+**[Acesse o gabarito oficial no INEP →](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/gabarito)**
+
+## Distribuição por Disciplina
+
+A prova de Ciências da Natureza tem 45 questões divididas aproximadamente assim:
+
+| Disciplina | Questões |
+|-----------|----------|
+| Biologia | 15–16 |
+| Química | 15–16 |
+| Física | 13–15 |
+
+## Biologia no ENEM 2022
+
+Temas de maior incidência:
+
+- **Ecologia:** cadeias alimentares, fluxo de energia, impactos ambientais
+- **Genética:** herança mendeliana, mutações, biotecnologia
+- **Evolução:** seleção natural, especiação, filogenia
+- **Citologia:** membrana celular, organelas, metabolismo celular
+- **Fisiologia:** sistemas cardiovascular, respiratório e imunológico
+
+O ENEM 2022 cobrou bastante questões sobre saúde pública e impacto ambiental — contexto pós-pandemia influenciou o conteúdo.
+
+## Química no ENEM 2022
+
+- **Química Orgânica:** funções orgânicas, isomeria, reações de adição/substituição
+- **Estequiometria:** cálculo de massa, mol e rendimento
+- **Termoquímica:** entalpia, energia das ligações
+- **Eletroquímica:** pilhas, eletrólise, oxidação e redução
+- **Soluções:** concentração, diluição, misturas
+
+## Física no ENEM 2022
+
+- **Eletromagnetismo:** circuitos elétricos, campo magnético, indução
+- **Termodinâmica:** calor, trabalho, máquinas térmicas
+- **Óptica:** reflexão, refração, lentes
+- **Mecânica:** força, energia, quantidade de movimento
+- **Ondulatória:** som, luz, efeito Doppler
+
+## Como Usar o Gabarito Para Estudar
+
+1. Resolva a prova completa sem gabarito
+2. Compare com o oficial do INEP
+3. Para cada erro, identifique a disciplina e o tema
+4. Estude o tema e resolva mais questões do mesmo tipo
+5. Repita com provas de 2021, 2020 e 2019
+
+O ENEM Pro tem todas as questões de Ciências da Natureza organizadas por disciplina e tema.
+
+## Perguntas Frequentes
+
+### Quantas questões de Biologia, Química e Física tem no ENEM?
+A prova de Ciências da Natureza tem 45 questões no total, divididas aproximadamente entre 15 de Biologia, 15 de Química e 15 de Física. A proporção pode variar ligeiramente entre edições.
+
+### Onde baixar o gabarito oficial de Ciências da Natureza do ENEM 2022?
+No site do INEP (gov.br/inep) na seção Gabarito do ENEM. O arquivo é público e gratuito.
+
+### Qual foi a disciplina mais difícil em Ciências da Natureza no ENEM 2022?
+Historicamente, Física tem a menor taxa de acertos. Em 2022, questões de eletromagnetismo e termodinâmica foram as mais desafiadoras.
+
+### É possível zerar alguma disciplina no ENEM sem prejudicar muito a nota?
+Não. A nota de Ciências da Natureza é calculada com base nas 45 questões juntas via TRI. Zerar uma disciplina reduz significativamente a nota final da área.
+    `,
+  },
+  {
+    slug: 'gabarito-ciencias-humanas-enem-2022',
+    title: 'Gabarito Ciências Humanas ENEM 2022 — História, Geografia, Filosofia e Sociologia',
+    description: 'Gabarito oficial de Ciências Humanas do ENEM 2022 com análise por disciplina, temas mais cobrados e estratégias de estudo para a prova de 2025.',
+    date: '2026-06-17',
+    readTime: 7,
+    content: `
+Ciências Humanas e suas Tecnologias é a área com a maior proporção de questões interpretativas no ENEM. Em 2022, a prova cobrou fortemente atualidades, interpretação de textos históricos e análise de gráficos geográficos.
+
+## Gabarito Oficial Ciências Humanas ENEM 2022
+
+O gabarito oficial está disponível no portal do INEP:
+
+**[Acesse o gabarito oficial no INEP →](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/gabarito)**
+
+## Distribuição por Disciplina
+
+| Disciplina | Questões (estimado) |
+|-----------|---------------------|
+| História | 12–14 |
+| Geografia | 12–14 |
+| Filosofia | 7–9 |
+| Sociologia | 7–9 |
+
+## História no ENEM 2022
+
+Temas com maior incidência:
+
+- **Brasil Colônia e Império:** escravidão, abolição, independência
+- **República:** Era Vargas, Ditadura Militar, redemocratização
+- **História Mundial:** Revoluções, Guerra Fria, Segunda Guerra Mundial
+- **Direitos Humanos:** movimentos sociais, cidadania, democracia
+- **Atualidades históricas:** questões que conectam passado e presente
+
+## Geografia no ENEM 2022
+
+- **Geopolítica:** blocos econômicos, conflitos territoriais, fluxos migratórios
+- **Urbanização:** crescimento das cidades, segregação espacial, metropolização
+- **Questões ambientais:** desmatamento, aquecimento global, recursos hídricos
+- **Cartografia:** interpretação de mapas, escala, projeções
+- **Agropecuária e indústria:** cadeias produtivas, agronegócio, desindustrialização
+
+## Filosofia no ENEM 2022
+
+- **Ética e Moral:** filosofia política de Locke, Hobbes, Rousseau
+- **Epistemologia:** teoria do conhecimento, racionalismo, empirismo
+- **Lógica e argumentação:** validade de argumentos, falácias
+- **Pensamento contemporâneo:** Foucault, Habermas, existencialismo
+
+## Sociologia no ENEM 2022
+
+- **Clássicos:** Marx (alienação, classes sociais), Durkheim (fato social), Weber (burocracia)
+- **Desigualdade social:** renda, raça, gênero no Brasil
+- **Trabalho e capitalismo:** precarização, desemprego, economia informal
+- **Cultura e identidade:** diversidade cultural, indústria cultural
+
+## Estratégia de Estudo
+
+Em Ciências Humanas, **ler o enunciado até o fim** é a habilidade mais importante. O ENEM frequentemente apresenta a informação-chave no último parágrafo ou na fonte da imagem/charge.
+
+Candidatos que praticam leitura crítica diariamente (notícias, artigos, documentos históricos) têm desempenho significativamente melhor do que os que só estudam teoria.
+
+## Perguntas Frequentes
+
+### O ENEM 2022 cobrou atualidades em Ciências Humanas?
+Sim. O ENEM sistematicamente conecta conteúdo curricular com questões contemporâneas. Em 2022, temas como desmatamento, desigualdade racial e pandemia apareceram como contexto de questões históricas e sociológicas.
+
+### Filosofia e Sociologia valem menos no ENEM?
+Não. Todas as 45 questões de Ciências Humanas têm o mesmo peso no cálculo TRI. Filosofia e Sociologia representam cerca de 30–35% da prova.
+
+### É possível tirar nota alta em Humanas sem estudar Filosofia?
+É difícil. Questões de Filosofia no ENEM exigem conhecimento dos filósofos clássicos (Platão, Aristóteles, Locke, Rousseau, Kant) e contemporâneos (Foucault, Marx). Ignorar a disciplina limita o teto de nota.
+
+### Qual a média histórica em Ciências Humanas no ENEM?
+Ciências Humanas costuma ter uma das maiores médias entre as áreas, próxima de 530–550 pontos. Candidatos com boa leitura e base em história tendem a se sair bem.
+    `,
+  },
+  {
+    slug: 'gabarito-linguagens-enem-2022',
+    title: 'Gabarito Linguagens ENEM 2022 — Português, Literatura, Inglês e Artes',
+    description: 'Gabarito oficial de Linguagens e Códigos do ENEM 2022 com análise dos temas de Língua Portuguesa, Literatura, Inglês, Artes e Educação Física.',
+    date: '2026-06-17',
+    readTime: 7,
+    content: `
+Linguagens, Códigos e suas Tecnologias é a área do 1º dia do ENEM, aplicada junto com Ciências Humanas. Em 2022, a prova cobrou fortemente interpretação de textos multimodais — textos com imagens, charges, gráficos e poemas.
+
+## Gabarito Oficial Linguagens ENEM 2022
+
+O gabarito oficial está disponível no portal do INEP:
+
+**[Acesse o gabarito oficial no INEP →](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/gabarito)**
+
+## Distribuição por Área
+
+A prova de Linguagens tem 45 questões divididas aproximadamente:
+
+| Área | Questões |
+|------|----------|
+| Língua Portuguesa e Literatura | 25–28 |
+| Língua Estrangeira (Inglês ou Espanhol) | 5 |
+| Artes e Semiótica | 7–9 |
+| Educação Física e Cultura Corporal | 4–6 |
+
+## Língua Portuguesa e Literatura 2022
+
+- **Interpretação de texto:** o núcleo da prova. Todo enunciado traz um ou mais textos para interpretar
+- **Recursos linguísticos:** coesão, coerência, figuras de linguagem, modalização
+- **Literatura brasileira:** Romantismo, Modernismo, Realismo — com trechos para interpretar
+- **Variação linguística:** registros formais e informais, dialetos, norma culta
+- **Gêneros textuais:** crônica, conto, artigo de opinião, charge, publicidade
+
+## Língua Estrangeira 2022
+
+Candidatos escolhem entre Inglês e Espanhol. As questões são de **interpretação**, não de gramática isolada. O texto é o ponto de partida; o vocabulário pode ser inferido pelo contexto.
+
+Para inglês em 2022, os textos abordaram cultura digital, meio ambiente e diversidade cultural.
+
+## Artes e Semiótica
+
+O ENEM usa obras de artes visuais, músicas, filmes e peças de teatro como base para questões de interpretação cultural. Em 2022, a prova cobrou:
+
+- Análise de obras de arte brasileiras e internacionais
+- Interpretação de linguagem publicitária
+- Relação entre diferentes manifestações culturais
+
+## Como a Prova de Linguagens Funciona
+
+O segredo é: **a resposta está no texto**. O ENEM não cobra opinião do candidato — cobra capacidade de interpretar o que está escrito. Toda alternativa correta pode ser sustentada com trecho do texto.
+
+Candidatos que leem o texto inteiro antes de olhar as alternativas erram menos do que os que vão direto às alternativas para encontrar palavras-chave.
+
+## Perguntas Frequentes
+
+### O ENEM 2022 cobrou gramática em Linguagens?
+O ENEM não cobra gramática de forma isolada (identificar sujeito, predicado, classe gramatical). Cobra o efeito do uso da linguagem no texto — por que o autor escolheu essa palavra, qual o efeito de sentido desse recurso.
+
+### Inglês ou Espanhol: qual é mais fácil no ENEM?
+Depende do candidato. O nível de dificuldade das questões é equivalente. A maioria dos candidatos escolhe inglês, mas espanhol pode ser vantagem para quem tem mais familiaridade com a língua.
+
+### É possível passar no ENEM sem saber literatura?
+É possível passar, mas difícil tirar nota alta. Literatura representa 10–15% da prova de Linguagens e aparece com trechos de obras para interpretar. O ENEM não exige memorizar datas, mas exige entender o contexto histórico das obras.
+
+### Qual a média de Linguagens no ENEM historicamente?
+A média de Linguagens costuma ficar entre 510 e 540 pontos. É uma das áreas com resultados mais homogêneos entre os candidatos.
+    `,
+  },
+  {
+    slug: 'gabarito-matematica-enem-2021',
+    title: 'Gabarito de Matemática ENEM 2021 — Temas, Resolução e Análise',
+    description: 'Gabarito oficial de Matemática do ENEM 2021 com análise dos temas cobrados, características da prova e estratégia de estudo a partir do gabarito.',
+    date: '2026-06-17',
+    readTime: 7,
+    content: `
+O ENEM 2021 foi aplicado em janeiro de 2022 (edição atrasada por conta da pandemia). A prova de Matemática manteve o padrão contextualizado, com questões que exigiam modelagem matemática e interpretação de dados.
+
+## Gabarito Oficial Matemática ENEM 2021
+
+O gabarito oficial está disponível no portal do INEP:
+
+**[Acesse o gabarito oficial no INEP →](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/gabarito)**
+
+## Por Que Estudar o ENEM 2021
+
+A prova de 2021 é particularmente útil para estudo porque:
+- Contexto pandêmico gerou questões únicas sobre dados epidemiológicos e estatística
+- Alta incidência de questões de probabilidade e funções aplicadas
+- Boa diversidade de temas — cobre bem a Matriz de Referência
+
+## Temas Cobrados em Matemática 2021
+
+| Tema | Incidência |
+|------|-----------|
+| Funções | Alta (9–11 questões) |
+| Geometria | Alta (8–10 questões) |
+| Estatística e Probabilidade | Alta (contexto pandemia) |
+| Progressões | Média |
+| Trigonometria | Média |
+| Análise Combinatória | Média |
+
+## Características da Prova 2021
+
+**Dados reais:** Várias questões usaram dados reais da pandemia de COVID-19 — tabelas de infectados, gráficos de vacinação, cálculos de taxa de mortalidade. Isso exigiu interpretação cuidadosa dos dados antes de calcular.
+
+**Menos geometria pura, mais geometria aplicada:** As questões de geometria em 2021 focaram em situações concretas — área de terreno, volume de embalagem, distância entre pontos.
+
+**Funções como linguagem:** Boa parte das questões de funções exigiu que o candidato identificasse ou montasse a função a partir de um contexto, não apenas resolvesse uma equação dada.
+
+## Estratégia Para Usar o Gabarito 2021
+
+1. Resolva a prova sem gabarito e cronometre (45 questões em 4,5 horas)
+2. Compare com o gabarito oficial do INEP
+3. Classifique cada erro por tema
+4. Use o ENEM Pro para resolver mais 20 questões do tema onde errou mais
+5. Repita com o gabarito de 2020, 2019 e 2022
+
+## Pratique no ENEM Pro
+
+Todas as questões de Matemática do ENEM 2021 estão disponíveis no ENEM Pro, com explicação da IA para cada questão.
+
+## Perguntas Frequentes
+
+### O ENEM 2021 foi aplicado em 2021 ou 2022?
+O ENEM 2021 (edição do ano letivo de 2021) foi aplicado em janeiro de 2022 — a aplicação foi adiada por conta da pandemia de COVID-19. O resultado saiu em fevereiro de 2022.
+
+### A prova de Matemática do ENEM 2021 foi mais difícil que a de 2022?
+A dificuldade é relativa e calculada pelo TRI. Em geral, as provas de 2021 e 2022 tiveram nível de dificuldade semelhante. A de 2021 se destacou pelo uso intenso de dados reais da pandemia.
+
+### Onde baixar as provas do ENEM 2021 para estudar?
+As provas e gabaritos do ENEM 2021 estão disponíveis para download no site do INEP, na seção "Provas e Gabaritos". São arquivos PDF públicos e gratuitos.
+    `,
+  },
+  {
+    slug: 'gabarito-ciencias-natureza-enem-2021',
+    title: 'Gabarito Ciências da Natureza ENEM 2021 — Física, Química e Biologia',
+    description: 'Gabarito oficial de Ciências da Natureza do ENEM 2021 com análise de Física, Química e Biologia, temas cobrados e como usar o gabarito para estudar.',
+    date: '2026-06-17',
+    readTime: 7,
+    content: `
+A prova de Ciências da Natureza do ENEM 2021 foi marcada pela forte contextualização em saúde pública e questões ambientais — reflexo direto do momento pandêmico em que a prova foi elaborada.
+
+## Gabarito Oficial Ciências da Natureza ENEM 2021
+
+O gabarito oficial está disponível no portal do INEP:
+
+**[Acesse o gabarito oficial no INEP →](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/gabarito)**
+
+## Biologia no ENEM 2021
+
+Destaque para:
+- **Saúde e doenças:** vírus, sistema imunológico, vacinas (forte presença dado contexto pandêmico)
+- **Ecologia:** biomas, impacto ambiental, cadeia alimentar
+- **Genética:** mutação, DNA, engenharia genética
+- **Evolução:** seleção natural, adaptação, especiação
+- **Fisiologia:** sistema circulatório, respiratório, nervoso
+
+## Química no ENEM 2021
+
+- **Química Orgânica:** funções, reações e propriedades
+- **Estequiometria:** cálculos de mol, massa e volume
+- **Eletroquímica:** pilhas e baterias, oxidação/redução
+- **Substâncias e misturas:** separação, propriedades físicas
+- **Polímeros e materiais:** plásticos, borracha, fibras sintéticas
+
+## Física no ENEM 2021
+
+- **Eletromagnetismo:** circuitos, resistência, potência elétrica
+- **Termodinâmica:** calor, temperatura, máquinas térmicas
+- **Mecânica:** leis de Newton, energia, trabalho, potência
+- **Ondulatória:** som, ondas, espectro eletromagnético
+
+## O Contexto Pandêmico na Prova
+
+O ENEM 2021 foi a primeira edição elaborada integralmente durante a pandemia. Questões de Biologia abordaram:
+- Mecanismo de ação de vacinas
+- Imunidade de rebanho
+- Transmissão de vírus
+- Importância da ciência e do método científico
+
+Isso representou uma oportunidade para candidatos que acompanharam as notícias sobre COVID-19 — os contextos eram familiares.
+
+## Perguntas Frequentes
+
+### Biologia teve mais questões em 2021 por causa da pandemia?
+A distribuição entre Biologia, Química e Física não mudou significativamente. O que mudou foi o conteúdo — questões de Biologia usaram a pandemia como contexto, mas avaliaram competências da Matriz de Referência como em outras edições.
+
+### A prova de Ciências da Natureza 2021 foi mais fácil por causa do tema pandemia?
+Para quem acompanhou as notícias, questões sobre vírus e vacinas eram mais familiares. Mas o ENEM avalia raciocínio científico, não memorização — a contextualização muda, mas a exigência intelectual é semelhante.
+
+### Onde estão as questões de Ciências da Natureza do ENEM 2021?
+No site do INEP (gov.br/inep) para download das provas completas. No ENEM Pro, você acessa as questões organizadas por disciplina e tema, com explicação por IA.
+    `,
+  },
+  {
+    slug: 'gabarito-ciencias-humanas-enem-2021',
+    title: 'Gabarito Ciências Humanas ENEM 2021 — História, Geografia, Filosofia e Sociologia',
+    description: 'Gabarito oficial de Ciências Humanas do ENEM 2021 com análise por disciplina, temas de maior incidência e estratégia de estudo.',
+    date: '2026-06-17',
+    readTime: 7,
+    content: `
+A prova de Ciências Humanas do ENEM 2021 cobriu de forma equilibrada as quatro disciplinas (História, Geografia, Filosofia e Sociologia) com forte ênfase em questões de cidadania, direitos humanos e atualidades.
+
+## Gabarito Oficial Ciências Humanas ENEM 2021
+
+O gabarito oficial está disponível no portal do INEP:
+
+**[Acesse o gabarito oficial no INEP →](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/gabarito)**
+
+## História no ENEM 2021
+
+- **História do Brasil:** colonização, escravidão, República, Ditadura Militar e redemocratização
+- **História Mundial:** Revoluções, Imperialismo, Guerras Mundiais, Guerra Fria
+- **Movimentos sociais:** feminismo, luta por direitos civis, movimentos de trabalhadores
+- **Fontes históricas:** análise de documentos, pinturas, mapas históricos
+
+## Geografia no ENEM 2021
+
+- **Questões ambientais:** mudanças climáticas, desmatamento, gestão de recursos hídricos
+- **Geopolítica:** regionalização do espaço, blocos econômicos, conflitos
+- **Urbanização:** crescimento urbano, periferias, mobilidade
+- **Globalização:** fluxos econômicos, migração, desigualdade internacional
+
+## Filosofia no ENEM 2021
+
+- **Ética e política:** contrato social (Hobbes, Locke, Rousseau), democracia
+- **Teoria do conhecimento:** Platão, Descartes, Kant
+- **Filosofia contemporânea:** Foucault, Arendt, pensamento crítico
+
+## Sociologia no ENEM 2021
+
+- **Clássicos da Sociologia:** Marx, Durkheim, Weber
+- **Desigualdade:** raça, classe, gênero no Brasil
+- **Cultura:** indústria cultural, diversidade, identidade
+- **Trabalho:** precarização, desemprego, novas formas de trabalho
+
+## Estratégia Para Ciências Humanas
+
+A chave é a **leitura do enunciado completo**. Questões de Humanas são longas e têm a resposta contextualizada no próprio texto. Candidatos que vão direto às alternativas costumam errar por não ler a fonte ou a última linha do enunciado.
+
+## Perguntas Frequentes
+
+### Filosofia é muito difícil no ENEM?
+Filosofia no ENEM não exige memorização de sistemas filosóficos complexos. Exige identificar posições filosóficas em situações concretas — quem diria isso? Que conceito está sendo usado? Com leitura dirigida, é acessível.
+
+### O ENEM 2021 cobrou a pandemia em Ciências Humanas?
+Sim. Questões de Sociologia e Geografia abordaram desigualdade social aprofundada pela pandemia, e questões de Filosofia discutiram liberdade individual vs. bem coletivo — diretamente ligado ao debate sobre medidas sanitárias.
+
+### Como se preparar para Filosofia e Sociologia no ENEM?
+Foque nos filósofos e sociólogos clássicos que o ENEM sempre cita: Locke, Hobbes, Rousseau, Kant, Marx, Durkheim e Weber. Para o contemporâneo: Foucault e Hannah Arendt aparecem com frequência.
+    `,
+  },
+  {
+    slug: 'gabarito-linguagens-enem-2021',
+    title: 'Gabarito Linguagens ENEM 2021 — Português, Literatura e Inglês',
+    description: 'Gabarito oficial de Linguagens e Códigos do ENEM 2021 com análise dos temas de Língua Portuguesa, Literatura, Inglês/Espanhol e Artes.',
+    date: '2026-06-17',
+    readTime: 7,
+    content: `
+A prova de Linguagens do ENEM 2021 teve forte ênfase em textos multimodais — charges, tirinhas, textos publicitários e poemas conviveram com textos jornalísticos e literários. A interpretação crítica foi a habilidade central cobrada.
+
+## Gabarito Oficial Linguagens ENEM 2021
+
+O gabarito oficial está disponível no portal do INEP:
+
+**[Acesse o gabarito oficial no INEP →](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/gabarito)**
+
+## Língua Portuguesa e Literatura 2021
+
+- **Interpretação de texto:** textos argumentativos, informativos, literários e publicitários
+- **Gêneros textuais:** editorial, artigo de opinião, crônica, conto
+- **Recursos linguísticos:** intertextualidade, ironia, ambiguidade, figuras de linguagem
+- **Literatura:** trechos de obras do Romantismo, Realismo, Modernismo e Literatura Contemporânea
+- **Variação linguística:** registros, dialetos regionais, língua padrão vs. coloquial
+
+## Literatura Brasileira no ENEM 2021
+
+O ENEM sempre cobra literatura com foco em **interpretação de trechos**, não em memorização de datas ou nomes. Em 2021, apareceram textos de:
+
+- **Modernismo:** Drummond, Guimarães Rosa, Clarice Lispector
+- **Realismo/Naturalismo:** Machado de Assis, Eça de Queirós
+- **Literatura contemporânea:** autores afro-brasileiros e regionais
+
+## Língua Estrangeira 2021
+
+As 5 questões de Inglês (ou Espanhol) foram, como de costume, de interpretação de texto. Os temas abordaram cultura digital, sustentabilidade e relações interpessoais.
+
+## Artes e Semiótica
+
+Questões de Artes exigiram analisar obras visuais, músicas e manifestações culturais — identificar o contexto histórico, o movimento artístico e a mensagem transmitida.
+
+## Dicas Para a Prova de Linguagens
+
+1. **Leia os textos de apoio** antes das alternativas — a resposta está no texto
+2. **Identifique o gênero textual** — artigo de opinião exige identificar tese e argumentos; charge exige identificar crítica implícita
+3. **Não use conhecimento externo** — o ENEM avalia sua interpretação do texto dado, não o que você sabe sobre o assunto
+4. **Para literatura:** identifique o estilo de época pelo vocabulário e pelo tema, não pela memorização do período
+
+## Perguntas Frequentes
+
+### O ENEM 2021 cobrou gramática normativa em Linguagens?
+Não da forma tradicional. O ENEM não pede para classificar palavras ou apontar erros gramaticais. Cobra o efeito de sentido de escolhas linguísticas dentro do texto.
+
+### É necessário ler os clássicos da literatura brasileira para o ENEM?
+Não é necessário ler as obras completas. O ENEM sempre apresenta trechos e cobra interpretação do trecho, não conhecimento da obra inteira. Conhecer o estilo de época e os temas principais de cada período é suficiente.
+
+### Qual a diferença entre Linguagens do ENEM e a prova de Português de outros vestibulares?
+O ENEM de Linguagens é 100% interpretativo e contextualizado. Vestibulares como FUVEST cobram mais gramática normativa explícita. Para o ENEM, treinar leitura crítica e interpretação é mais eficaz do que estudar regras gramaticais isoladas.
+    `,
+  },
+  {
+    slug: 'data-enem-2025',
+    title: 'Data do ENEM 2025 — Quando é, Cronograma e o que Esperar',
+    description: 'Data oficial do ENEM 2025, cronograma completo de inscrições, aplicação e resultados. Tudo o que você precisa saber sobre o calendário do ENEM 2025.',
+    date: '2026-06-17',
+    readTime: 6,
+    content: `
+O ENEM 2025 seguiu o calendário oficial do MEC com aplicação em novembro. Entender as datas é essencial para planejar os estudos com antecedência.
+
+## Calendário do ENEM 2025
+
+O cronograma oficial do ENEM 2025 foi publicado pelo INEP. As datas a seguir são baseadas no calendário oficial:
+
+| Etapa | Data (aproximada) |
+|-------|------------------|
+| Abertura das inscrições | Maio/Junho 2025 |
+| Encerramento das inscrições | Junho/Julho 2025 |
+| Pagamento da taxa | Até o encerramento |
+| Isenção de taxa | Março/Abril 2025 |
+| Cartão de confirmação | Outubro 2025 |
+| 1º dia de prova | 2 de novembro de 2025 |
+| 2º dia de prova | 9 de novembro de 2025 |
+| Gabarito preliminar | 1 ou 2 dias após a prova |
+| Resultado individual | Janeiro/Fevereiro 2026 |
+| SISU 2026 | Janeiro/Fevereiro 2026 |
+
+**Sempre confirme as datas no site oficial do INEP (enem.inep.gov.br).** Datas podem ser ajustadas pelo MEC.
+
+## O que Cai no 1º Dia do ENEM 2025
+
+**1º Dia (2 de novembro de 2025):**
+- Linguagens, Códigos e suas Tecnologias (45 questões)
+- Ciências Humanas e suas Tecnologias (45 questões)
+- Redação (1 tema dissertativo-argumentativo)
+- Duração: 5h30 (entrada até 12h, saída a partir de 15h30)
+
+## O que Cai no 2º Dia do ENEM 2025
+
+**2º Dia (9 de novembro de 2025):**
+- Ciências da Natureza e suas Tecnologias (45 questões)
+- Matemática e suas Tecnologias (45 questões)
+- Duração: 5h (entrada até 12h, saída a partir de 15h30)
+
+## Como se Planejar com Base nas Datas
+
+**6 meses antes (Maio 2025):** Diagnóstico — que disciplinas precisam de mais atenção?
+
+**4 meses antes (Julho 2025):** Conteúdo — cobrir os temas mais recorrentes por área
+
+**2 meses antes (Setembro 2025):** Questões — resolver 30+ questões por dia por área
+
+**1 mês antes (Outubro 2025):** Simulados — provas completas cronometradas
+
+**Semana da prova:** Revisão leve, descanso, logística (local, documentos)
+
+## Taxa de Inscrição
+
+A taxa de inscrição do ENEM é definida pelo MEC a cada edição. Candidatos com renda familiar per capita de até 1,5 salário mínimo e que cursaram o ensino médio em escola pública têm direito à isenção da taxa.
+
+## Perguntas Frequentes
+
+### Quando é o ENEM 2025?
+O ENEM 2025 foi aplicado nos dias 2 e 9 de novembro de 2025. O 1º dia teve Linguagens e Ciências Humanas (+ Redação); o 2º dia teve Ciências da Natureza e Matemática.
+
+### Quando abre a inscrição do ENEM 2025?
+As inscrições do ENEM 2025 foram abertas em maio/junho de 2025 pelo INEP. Para o ENEM 2026, as inscrições devem abrir em período semelhante. Acompanhe o portal enem.inep.gov.br.
+
+### Quando sai o resultado do ENEM 2025?
+O resultado individual do ENEM 2025 foi divulgado em janeiro de 2026. O SISU 2026 usou essas notas para a seleção nas federais.
+
+### Quem tem direito à isenção da taxa do ENEM?
+Candidatos que cursaram todo o ensino médio em escola pública, ou que comprovam renda familiar per capita de até 1,5 salário mínimo, têm direito à isenção. O pedido de isenção deve ser feito no período específico antes da abertura das inscrições gerais.
+    `,
+  },
+  {
+    slug: 'redacao-enem-2024-tema',
+    title: 'Tema da Redação ENEM 2024 — Análise Completa e Como Deveria Ter Sido Escrita',
+    description: 'Qual foi o tema da redação do ENEM 2024, como o INEP esperava que fosse abordado e o que diferencou as redações nota 1000 das demais.',
+    date: '2026-06-17',
+    readTime: 9,
+    content: `
+A redação é o componente do ENEM mais temido — e mais diferenciador. Candidatos que dominam a estrutura dissertativo-argumentativa e constroem uma proposta de intervenção sólida conseguem notas próximas de 1000 mesmo sem conhecer profundamente o tema.
+
+## Tema da Redação ENEM 2024
+
+O INEP divulga o tema da redação após a aplicação da prova. Para o tema oficial do ENEM 2024, consulte:
+
+**[Portal oficial do INEP →](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem)**
+
+O tema é revelado no 1º dia da prova, após o encerramento do período de prova (após as 15h30 do 1º dia).
+
+## Como o INEP Avalia a Redação do ENEM
+
+A nota da redação vai de 0 a 1000, distribuída em 5 competências de 0 a 200 pontos cada:
+
+| Competência | O que avalia |
+|------------|-------------|
+| **C1** | Domínio da norma culta escrita |
+| **C2** | Compreensão da proposta e uso de repertório |
+| **C3** | Seleção e organização de informações |
+| **C4** | Coesão — mecanismos linguísticos de conexão |
+| **C5** | Proposta de intervenção detalhada e respeitosa aos direitos humanos |
+
+## O que Diferencia Redação Nota 1000
+
+**Competência 5 é o grande diferencial:** A proposta de intervenção precisa ter 5 elementos — agente, ação, meio/modo, finalidade e efeito esperado. Redações que omitem um desses elementos raramente passam de 160 na C5.
+
+**Repertório legitimador (C2):** O ENEM valoriza referências de alta credibilidade — dados de pesquisas, leis, conceitos filosóficos ou sociológicos, autores literários. Não é qualquer exemplo que funciona: precisa ser pertinente ao tema.
+
+**Coesão real (C4):** Conectivos de corrida como "além disso, portanto, entretanto" em excesso não constituem coesão. O ENEM avalia coesão como a capacidade de retomar ideias e construir relações lógicas entre parágrafos.
+
+## Estrutura da Redação Dissertativo-Argumentativa
+
+**Introdução (4–5 linhas):**
+- Contextualize o tema com um dado ou citação (repertório)
+- Apresente a tese — sua posição sobre o problema
+
+**1º Desenvolvimento (6–8 linhas):**
+- Apresente o 1º argumento
+- Sustente com evidência concreta (dado, exemplo, conceito)
+- Analise a relação entre argumento e tema
+
+**2º Desenvolvimento (6–8 linhas):**
+- Apresente o 2º argumento (diferente do primeiro em natureza)
+- Sustente com evidência
+- Analise
+
+**Conclusão (4–5 linhas):**
+- Retome a tese de forma sintética
+- Apresente a proposta de intervenção completa (5 elementos)
+
+## Temas Recorrentes no ENEM
+
+Estudar temas anteriores prepara para qualquer tema novo, pois os repertórios se repetem:
+
+- Desigualdade social e acesso a direitos
+- Tecnologia e seus impactos (trabalho, privacidade, saúde mental)
+- Meio ambiente e sustentabilidade
+- Saúde pública e acesso ao sistema de saúde
+- Racismo, diversidade e inclusão
+- Educação: acesso, qualidade e desafios
+
+## Pratique Redação com Correção por IA
+
+O ENEM Pro oferece correção de redação por IA baseada nas 5 competências do INEP. Envie sua redação e receba nota estimada por competência + feedback para melhorar.
+
+## Perguntas Frequentes
+
+### Qual foi o tema da redação do ENEM 2024?
+O tema é divulgado pelo INEP após a aplicação. Para consultar o tema oficial do ENEM 2024, acesse o portal do INEP (gov.br/inep) ou o Correio Braziliense, G1 e demais veículos que publicam o tema no dia da prova.
+
+### É possível fugir do tema e tirar nota zero na redação?
+Sim. Fuga total do tema (T0) resulta em nota zero em TODAS as competências, mesmo que o texto seja bem escrito. A C2 avalia principalmente se a redação responde ao tema proposto.
+
+### Redação com apenas 3 parágrafos pode tirar nota alta?
+O INEP não exige 4 parágrafos explicitamente, mas a estrutura dissertativo-argumentativa com introdução, dois desenvolvimentos e conclusão tende a produzir melhores notas em todas as 5 competências.
+
+### O que zera a redação automaticamente no ENEM?
+Fuga total do tema, texto em branco, texto sem formato dissertativo-argumentativo, texto com menos de 8 linhas, ou texto que contenha desrespeito aos direitos humanos (discurso de ódio, defesa da violência, etc.).
+    `,
+  },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)
@@ -13047,7 +13758,7 @@ export function getCategory(slug: string): BlogCategory {
   if (slug.startsWith('gabarito')) return 'Gabarito'
   if (slug.startsWith('redacao') || slug.includes('como-fazer-redacao') || slug.includes('redacao-enem')) return 'Redação'
   if (slug.includes('nota-de-corte') || slug.includes('sisu') || slug.includes('prouni') || slug.includes('medicina') || slug.includes('direito') || slug.includes('engenharia') || slug.includes('psicologia') || slug.includes('odontologia') || slug.includes('computacao') || slug.includes('agronomia') || slug.includes('contabilidade') || slug.includes('pedagogia') || slug.includes('fies') || slug.includes('fisioterapia') || slug.includes('economia') || slug.includes('jornalismo') || slug.includes('servico-social') || slug.includes('educacao-fisica') || slug.includes('veterinaria')) return 'Universidades'
-  if (slug.includes('cronograma') || slug.includes('quanto-tempo') || slug.includes('enem-2026') || slug.includes('enem-resultado') || slug.includes('resultado-quando')) return 'Planejamento'
+  if (slug.includes('cronograma') || slug.includes('quanto-tempo') || slug.includes('enem-2026') || slug.includes('enem-resultado') || slug.includes('resultado-quando') || slug.includes('data-enem') || slug.includes('inscricao-enem')) return 'Planejamento'
   if (slug.includes('tri-enem') || slug.includes('calcular-nota') || slug.includes('como-funciona') || slug.includes('ppcs') || slug.includes('treineiro') || slug.includes('segunda-chance') || slug.includes('enem-digital') || slug.includes('enem-2025')) return 'Como Funciona'
   if (slug.includes('fisica') || slug.includes('quimica') || slug.includes('biologia') || slug.includes('historia') || slug.includes('geografia') || slug.includes('filosofia') || slug.includes('matematica') || slug.includes('ingles') || slug.includes('ciencias') || slug.includes('literatura') || slug.includes('geometria') || slug.includes('estatistica') || slug.includes('interpretacao') || slug.includes('portugues') || slug.includes('trigonometria') || slug.includes('funcoes') || slug.includes('sociologia') || slug.includes('progressoes') || slug.includes('logaritmo') || slug.includes('probabilidade') || slug.includes('matrizes')) return 'Por Matéria'
   if (slug.includes('simulado') || slug.includes('questoes')) return 'Questões'
