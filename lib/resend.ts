@@ -2,7 +2,7 @@ import { Resend } from 'resend'
 import { cleanEnv } from './utils'
 import { getDripEmail } from './email-templates'
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://enem-pro-eight.vercel.app'
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://questoesenem.pro'
 
 export function getResend(): Resend | null {
   const key = cleanEnv(process.env.RESEND_API_KEY)

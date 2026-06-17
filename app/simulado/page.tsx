@@ -419,7 +419,7 @@ function FinishedScreen({ answers, totalTime, onRestart }: {
 
   function handleShare() {
     const emoji = estimatedScore >= 700 ? '🏆' : estimatedScore >= 500 ? '📈' : '💪'
-    const text = `${emoji} Fiz um simulado ENEM no ENEM Pro!\n\nNota estimada: ${estimatedScore} pts\nAcertos: ${correct}/${total} (${accuracy}%)\nTempo médio: ${avgTime}s/questão\n\nPratique grátis: https://enem-pro-eight.vercel.app`
+    const text = `${emoji} Fiz um simulado ENEM no ENEM Pro!\n\nNota estimada: ${estimatedScore} pts\nAcertos: ${correct}/${total} (${accuracy}%)\nTempo médio: ${avgTime}s/questão\n\nPratique grátis: https://questoesenem.pro`
     if (navigator.share) {
       navigator.share({ text }).catch(() => {})
     } else {

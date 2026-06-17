@@ -31,7 +31,7 @@ export async function POST(request: NextRequest) {
 
   const origin = cleanEnv(request.headers.get('origin') ?? undefined)
     || cleanEnv(process.env.NEXT_PUBLIC_SITE_URL)
-    || 'https://enem-pro-eight.vercel.app'
+    || 'https://questoesenem.pro'
 
   const session = await stripe.checkout.sessions.create({
     mode: 'subscription',

@@ -428,7 +428,7 @@ function DashboardContent() {
                 </p>
                 <div className="flex items-center gap-2 bg-white border border-zinc-200 rounded-lg px-3 py-2 max-w-sm">
                   <span className="text-xs text-zinc-600 truncate flex-1">
-                    {typeof window !== 'undefined' ? window.location.origin : 'https://enem-pro-eight.vercel.app'}/r/{referralCode}
+                    {typeof window !== 'undefined' ? window.location.origin : 'https://questoesenem.pro'}/r/{referralCode}
                   </span>
                   <button onClick={copyReferral}
                     className="shrink-0 text-xs font-semibold text-indigo-600 hover:text-indigo-800">

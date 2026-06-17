@@ -215,17 +215,17 @@ export default function AdminPage() {
           <h3 className="font-semibold mb-3 text-zinc-700">Referência curl</h3>
           <pre className="bg-zinc-900 text-zinc-100 rounded-lg p-4 text-xs overflow-x-auto whitespace-pre-wrap">
 {`# Upgrade
-curl -X POST https://enem-pro-eight.vercel.app/api/admin/upgrade \\
+curl -X POST https://questoesenem.pro/api/admin/upgrade \\
   -H "Content-Type: application/json" \\
   -H "x-admin-secret: CRON_SECRET" \\
   -d '{"email":"user@email.com","months":1}'
 
 # Stats
-curl https://enem-pro-eight.vercel.app/api/admin/stats \\
+curl https://questoesenem.pro/api/admin/stats \\
   -H "x-admin-secret: CRON_SECRET"
 
 # Warm cache
-curl -X POST https://enem-pro-eight.vercel.app/api/admin/warm-cache \\
+curl -X POST https://questoesenem.pro/api/admin/warm-cache \\
   -H "x-admin-secret: CRON_SECRET"`}
           </pre>
         </div>

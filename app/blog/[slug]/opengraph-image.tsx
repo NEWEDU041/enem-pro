@@ -82,7 +82,7 @@ export default async function OGImage({ params }: { params: Promise<{ slug: stri
 
           {/* Footer */}
           <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-            <span style={{ color: '#52525b', fontSize: '19px' }}>enem-pro-eight.vercel.app</span>
+            <span style={{ color: '#52525b', fontSize: '19px' }}>questoesenem.pro</span>
             <div style={{
               background: accent,
               color: '#fff',

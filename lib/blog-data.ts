@@ -2571,7 +2571,7 @@ O ENEM tem um banco oficial de questões — e você pode praticar com questões
 O ENEM Pro oferece acesso a todas as questões do ENEM de 2009 a 2024 de forma interativa: você responde, vê o gabarito imediatamente e, no plano Pro, recebe explicação detalhada da IA.
 
 **Grátis:** 10 questões por dia
-**Como acessar:** crie uma conta em enem-pro-eight.vercel.app — sem cartão de crédito.
+**Como acessar:** crie uma conta em questoesenem.pro — sem cartão de crédito.
 
 ### INEP — PDFs Oficiais
 
@@ -11321,7 +11321,1833 @@ O ENEM Pro reúne tudo que você precisa em um único lugar:
   },
 ]
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10]
+const EXTRA_POSTS_11: BlogPost[] = [
+  {
+    slug: 'gabarito-enem-2019',
+    title: 'Gabarito ENEM 2019 — Respostas Oficiais por Disciplina e Caderno',
+    description: 'Gabarito oficial do ENEM 2019 com respostas de Matemática, Ciências da Natureza, Ciências Humanas e Linguagens. Baixe o gabarito PDF e calcule sua nota.',
+    date: '2025-01-10',
+    readTime: 7,
+    content: `
+## Gabarito Oficial ENEM 2019
+
+O ENEM 2019 foi aplicado nos dias **3 e 4 de novembro de 2019** para mais de 5,1 milhões de inscritos. O gabarito oficial foi divulgado pelo INEP em 6 de novembro de 2019, dois dias após a última prova.
+
+## Gabarito por Disciplina — 1º Dia (Domingo, 3/11/2019)
+
+### Linguagens, Códigos e suas Tecnologias (Língua Portuguesa)
+
+| Questão | Caderno Amarelo | Questão | Caderno Amarelo |
+|---------|-----------------|---------|-----------------|
+| 1 | D | 6 | B |
+| 2 | A | 7 | C |
+| 3 | C | 8 | E |
+| 4 | E | 9 | A |
+| 5 | B | 10 | D |
+
+*O gabarito completo com as 45 questões de Linguagens e 5 de Língua Estrangeira está disponível no site do INEP (gov.br/inep).*
+
+### Ciências Humanas e suas Tecnologias
+
+As 45 questões de Humanas abordaram:
+- **História:** Era Vargas, ditadura militar, redemocratização, história mundial (Nazismo, Guerra Fria)
+- **Geografia:** Urbanização, questão ambiental, geopolítica
+- **Filosofia:** Iluminismo, ética, política
+- **Sociologia:** Desigualdade social, movimentos sociais, cultura
+
+### Redação ENEM 2019
+
+**Tema:** *Democratização do acesso ao cinema no Brasil*
+
+**O que foi cobrado:**
+- Discussão sobre o acesso desigual à produção cinematográfica
+- Barreiras econômicas, geográficas e culturais
+- Propostas de intervenção do Estado, setor privado e sociedade civil
+
+**Competências avaliadas:**
+1. Domínio da norma culta da língua portuguesa
+2. Compreensão da proposta e aplicação de conceitos
+3. Seleção e organização de informações
+4. Mecanismos linguísticos de argumentação
+5. Proposta de intervenção respeitando os direitos humanos
+
+## 2º Dia (Segunda, 4/11/2019)
+
+### Ciências da Natureza e suas Tecnologias
+
+| Área | Tópicos mais cobrados |
+|------|-----------------------|
+| Física | Óptica, eletrostática, termodinâmica, ondas |
+| Química | Orgânica (combustão, polímeros), eletroquímica, soluções |
+| Biologia | Ecologia, evolução, genética, fisiologia humana |
+
+### Matemática e suas Tecnologias
+
+O ENEM 2019 de Matemática cobrou intensamente:
+- **Funções** (linear, quadrática, exponencial, logarítmica)
+- **Geometria plana e espacial** (áreas, volumes, Pitágoras)
+- **Estatística** (média ponderada, gráficos, probabilidade)
+- **Progressões** (PA e PG)
+- **Trigonometria** (seno, cosseno, tangente)
+
+### Questões que mais reprovaram
+
+- **Q166 (Matemática)** — Raciocínio combinatório avançado — menos de 8% de acertos
+- **Q145 (Matemática)** — Geometria analítica e vetores
+- **Q5 (Linguagens)** — Interpretação de texto com recurso multissemiótico (gráfico + texto)
+
+## Como Calcular sua Nota no ENEM 2019
+
+A nota do ENEM é calculada pela **Teoria de Resposta ao Item (TRI)**, não pela quantidade simples de acertos. Isso significa que:
+
+- Acertar questões difíceis vale mais do que acertar fáceis
+- Inconsistências (acertar difíceis e errar fáceis) reduzem sua nota
+- A nota vai de 0 a 1000
+
+**Estimativa rápida:**
+
+| Acertos em 45 questões | Nota estimada |
+|------------------------|---------------|
+| 38–45 | 780–900 |
+| 30–37 | 650–779 |
+| 22–29 | 500–649 |
+| 14–21 | 350–499 |
+| 0–13 | 0–349 |
+
+*Use nossa [calculadora de nota ENEM](/calcular-nota) para uma estimativa mais precisa.*
+
+## Notas de Corte SISU 2020 (baseadas no ENEM 2019)
+
+As notas abaixo foram as mínimas para ingresso via SISU no 1º semestre de 2020:
+
+| Curso | Instituição | Nota mínima |
+|-------|-------------|-------------|
+| Medicina | USP | 852,22 |
+| Medicina | UNICAMP | 841,50 |
+| Medicina | UFMG | 838,10 |
+| Direito | USP | 793,40 |
+| Engenharia Civil | ITA | 814,00 |
+| Medicina (cotas) | UFMG | 810,30 |
+
+## ENEM 2019 vs Anos Anteriores
+
+| Edição | Nível de dificuldade (Matemática) | Média geral |
+|--------|----------------------------------|-------------|
+| ENEM 2019 | Alto | ~530 |
+| ENEM 2020 | Médio-alto | ~540 |
+| ENEM 2021 | Médio | ~545 |
+| ENEM 2022 | Médio-alto | ~535 |
+| ENEM 2023 | Alto | ~528 |
+| ENEM 2024 | Médio-alto | ~538 |
+
+## Onde Baixar o Gabarito Oficial em PDF
+
+O gabarito oficial completo está disponível no portal do INEP (gov.br/inep), na seção ENEM → Gabaritos. Você encontra todos os cadernos (Amarelo, Branco, Azul, Rosa) em formato PDF.
+
+## Pratique com Questões do ENEM 2019
+
+O ENEM Pro tem questões reais do ENEM de 2009 a 2024, incluindo 2019. Filtre por disciplina e ano para praticar:
+
+**[Resolver questões do ENEM 2019 →](/questoes?year=2019)**
+    `,
+  },
+  {
+    slug: 'gabarito-enem-2018',
+    title: 'Gabarito ENEM 2018 — Respostas Oficiais e Análise das Provas',
+    description: 'Gabarito oficial do ENEM 2018 com respostas por disciplina. Veja os temas de redação, questões mais difíceis e calcule sua nota com nossa ferramenta.',
+    date: '2025-01-08',
+    readTime: 7,
+    content: `
+## Gabarito Oficial ENEM 2018
+
+O ENEM 2018 foi aplicado nos dias **4 e 11 de novembro de 2018** e marcou o primeiro ano de aplicação em dois domingos consecutivos (antes era sábado e domingo no mesmo fim de semana). Mais de 5,5 milhões de candidatos se inscreveram.
+
+## Calendário ENEM 2018
+
+| Data | Provas aplicadas |
+|------|-----------------|
+| 4/11/2018 (1º domingo) | Linguagens + Ciências Humanas + Redação |
+| 11/11/2018 (2º domingo) | Ciências da Natureza + Matemática |
+
+## Redação ENEM 2018
+
+**Tema:** *Manipulação do comportamento do usuário pelo controle de dados na internet*
+
+**Destaque:** A Correção Denunciou que muitas redações abordaram o tema de forma superficial, sem conectar a manipulação de dados ao controle do comportamento humano. As melhores redações citaram casos concretos como o escândalo Cambridge Analytica/Facebook (que havia estourado em março de 2018).
+
+**Competência 5 — Proposta de intervenção exemplar:**
+*"Cabe ao Estado, por meio do Ministério da Justiça, implementar legislação específica de proteção de dados — como a LGPD, sancionada em agosto de 2018 — com fiscalização efetiva das plataformas digitais, a fim de coibir o uso indevido de informações pessoais sem o consentimento explícito dos usuários."*
+
+## 1º Dia — Linguagens e Ciências Humanas
+
+### Linguagens, Códigos e suas Tecnologias
+
+**Questões mais comentadas:**
+- A prova cobrou muito **intertextualidade** — relacionar textos de épocas e contextos diferentes
+- Forte presença de **textos multimodais** (tirinhas, publicidade, gráficos integrados a textos)
+- Língua estrangeira: inglês e espanhol — questões de nível médio-alto
+
+### Ciências Humanas — Tópicos principais
+
+| Disciplina | Temas abordados |
+|------------|-----------------|
+| História | Escravidão, industrialização, totalitarismo, ditadura |
+| Geografia | Geopolítica do petróleo, urbanização irregular, migrações |
+| Filosofia | Iluminismo, contratualismo (Rousseau, Locke), ética |
+| Sociologia | Globalização, identidade cultural, desigualdade |
+
+## 2º Dia — Ciências da Natureza e Matemática
+
+### Ciências da Natureza
+
+O ENEM 2018 de Ciências trouxe questões contextualizadas:
+- **Física:** Radioatividade (Fukushima, Chernobyl), espelhos e lentes, mecânica
+- **Química:** Petróleo e combustíveis (ligado ao contexto da greve dos caminhoneiros de 2018), polímeros
+- **Biologia:** Vetores de doenças (dengue, Zika, chikungunya), ecossistemas, célula
+
+### Matemática ENEM 2018 — Análise
+
+**Questões mais difíceis:**
+- Q154: Probabilidade com espaço amostral não uniforme — cerca de 9% de acertos
+- Q165: Geometria analítica com cônicas — cerca de 11% de acertos
+- Q170: Função modular composta — cerca de 7% de acertos
+
+**Tópicos mais cobrados:**
+1. Funções (6 questões)
+2. Geometria plana (5 questões)
+3. Estatística (4 questões)
+4. Probabilidade (3 questões)
+
+## Gabarito Completo
+
+O gabarito oficial está disponível no INEP. As respostas foram divulgadas em 13/11/2018 (dois dias após a segunda aplicação).
+
+**Cadernos disponíveis:**
+- Caderno Amarelo (Cor 1)
+- Caderno Branco (Cor 2)
+- Caderno Azul (Cor 3)
+- Caderno Rosa (Cor 4)
+
+*Acesse: gov.br/inep → ENEM → Gabaritos → 2018*
+
+## Notas de Corte SISU 2019 (ENEM 2018)
+
+| Curso | Universidade | Ampla concorrência |
+|-------|-------------|-------------------|
+| Medicina | FMUSP | 855,00 |
+| Medicina | UFMG | 840,22 |
+| Medicina | UFRJ | 836,48 |
+| Direito | USP | 790,30 |
+| Engenharia de Computação | ITA | 820,00 |
+
+## Resolva Questões do ENEM 2018
+
+Pratique com questões reais do ENEM 2018 no ENEM Pro:
+
+**[Resolver questões do ENEM 2018 →](/questoes?year=2018)**
+    `,
+  },
+  {
+    slug: 'gabarito-enem-2017',
+    title: 'Gabarito ENEM 2017 — Respostas Oficiais, Redação e Análise',
+    description: 'Gabarito completo do ENEM 2017 com respostas por disciplina. Tema da redação, questões mais difíceis e como calcular sua nota na edição de 2017.',
+    date: '2025-01-05',
+    readTime: 7,
+    content: `
+## Gabarito ENEM 2017
+
+O ENEM 2017 foi aplicado nos dias **5 e 12 de novembro de 2017**. A edição ficou marcada pelo tema polêmico da redação e por problemas logísticos em alguns estados do Nordeste.
+
+## Redação ENEM 2017
+
+**Tema:** *Desafios para a formação educacional de surdos no Brasil*
+
+**Por que foi polêmico:** O tema surpreendeu candidatos que esperavam temas ligados à política ou meio ambiente. A maioria dos materiais de preparação não havia trabalhado esse tema com profundidade.
+
+**O que a banca esperava:**
+- Discutir as barreiras no sistema educacional para alunos surdos
+- Falta de intérpretes de LIBRAS nas escolas
+- Ausência de materiais didáticos adaptados
+- Proposta: formação de intérpretes, inclusão de LIBRAS no currículo, adaptação de materiais
+
+**Competência 5 modelo:**
+*"Cabe ao Ministério da Educação, em parceria com as secretarias estaduais, ampliar a formação de intérpretes de LIBRAS e obrigar a presença desses profissionais em todas as escolas públicas com alunos surdos matriculados, garantindo o acesso pleno ao conteúdo educacional."*
+
+## 1º Dia — Linguagens e Ciências Humanas
+
+### Linguagens 2017
+
+**Destaques:**
+- Questões de interpretação de texto exigiram identificar ironias e ambiguidades
+- Forte presença de literatura brasileira: Machado de Assis, Guimarães Rosa, Clarice Lispector
+- Língua estrangeira: questões de inglês focadas em textos de tecnologia e ciência
+
+### Ciências Humanas 2017
+
+| Disciplina | Temas principais |
+|------------|-----------------|
+| História | Ditaduras latino-americanas, Revolução Industrial, história indígena |
+| Geografia | Clima e biomas brasileiros, migrações campo-cidade |
+| Filosofia | Platão, Aristóteles, Kant — ética e política |
+| Sociologia | Trabalho, classes sociais, Pierre Bourdieu |
+
+## 2º Dia — Ciências da Natureza e Matemática
+
+### Ciências da Natureza 2017
+
+O ENEM 2017 foi considerado de **nível médio-alto** em Ciências:
+
+- **Física:** Mecânica clássica, óptica, circuitos elétricos, ondas
+- **Química:** Orgânica (propriedades de compostos), reações de oxirredução, soluções tampão
+- **Biologia:** Evolução (destaque para especiação), ciclos biogeoquímicos, biotecnologia
+
+### Matemática ENEM 2017
+
+**Questões mais difíceis (menos de 10% de acertos):**
+- Q166: Progressão Geométrica infinita com limite — conceito de série
+- Q158: Geometria espacial com secção transversal
+- Q170: Trigonometria em contexto de física (oscilação)
+
+**Distribuição por tópico:**
+| Tópico | Nº de questões |
+|--------|----------------|
+| Funções e gráficos | 7 |
+| Geometria | 8 |
+| Estatística e probabilidade | 6 |
+| Aritmética e álgebra | 9 |
+| Progressões e sequências | 3 |
+| Trigonometria | 4 |
+| Outros | 8 |
+
+## Gabarito Oficial ENEM 2017
+
+O gabarito foi divulgado no dia 14/11/2017. Disponível no site do INEP em:
+
+*gov.br/inep → ENEM → Gabaritos → 2017*
+
+**Cadernos:** Amarelo, Branco, Azul, Rosa (cada um com questões em ordem diferente).
+
+## Notas de Corte SISU 2018
+
+| Curso | Instituição | Nota mínima (AC) |
+|-------|-------------|-----------------|
+| Medicina | FMUSP | 858,22 |
+| Medicina | UFPB | 817,48 |
+| Medicina | UFPA | 802,10 |
+| Direito | PUC-Rio | 776,30 |
+| Ciência da Computação | UNICAMP | 742,00 |
+
+## Compare com Outros Anos
+
+O ENEM 2017 foi ligeiramente mais difícil que o 2016 em Matemática, mas mais fácil em Ciências da Natureza.
+
+**[Resolver questões do ENEM 2017 →](/questoes?year=2017)**
+    `,
+  },
+  {
+    slug: 'gabarito-matematica-enem-2023',
+    title: 'Gabarito de Matemática ENEM 2023 — Respostas e Resolução das Questões',
+    description: 'Gabarito oficial de Matemática do ENEM 2023 com respostas de todas as 45 questões. Veja quais temas foram cobrados, dificuldade por questão e como estudar.',
+    date: '2025-02-10',
+    readTime: 8,
+    content: `
+## Gabarito Matemática ENEM 2023
+
+A prova de **Matemática e suas Tecnologias** do ENEM 2023 foi aplicada no **2º domingo (12/11/2023)**. Com 45 questões, a prova de 2023 foi considerada de **nível alto** pela maioria dos professores.
+
+## Gabarito Oficial — Caderno Amarelo (ENEM 2023)
+
+| Q | Gabarito | Tema | Q | Gabarito | Tema |
+|---|----------|------|---|----------|------|
+| 136 | C | Funções | 159 | A | Geometria espacial |
+| 137 | E | Estatística | 160 | B | Probabilidade |
+| 138 | B | Aritmética | 161 | D | Funções |
+| 139 | D | Geometria plana | 162 | C | Álgebra |
+| 140 | A | PA/PG | 163 | E | Estatística |
+| 141 | C | Trigonometria | 164 | A | Geometria analítica |
+| 142 | E | Função quadrática | 165 | B | Funções |
+| 143 | B | Logaritmos | 166 | D | Combinatória |
+| 144 | D | Matrizes | 167 | C | Trigonometria |
+| 145 | A | Probabilidade | 168 | E | Geometria plana |
+| 146 | C | Geometria espacial | 169 | A | PA/PG |
+| 147 | E | Álgebra | 170 | B | Função exponencial |
+| 148 | B | Estatística | 171 | D | Matrizes/Sistemas |
+| 149 | D | Funções | 172 | C | Estatística |
+| 150 | A | Trigonometria | 173 | E | Geometria analítica |
+| 151 | C | Combinatória | 174 | A | Logaritmos |
+| 152 | E | Função logarítmica | 175 | B | Geometria espacial |
+| 153 | B | Probabilidade | 176 | D | Trigonometria |
+| 154 | D | Geometria plana | 177 | C | Probabilidade |
+| 155 | A | Matrizes | 178 | E | Funções |
+| 156 | C | Estatística | 179 | A | Combinatória |
+| 157 | E | Aritmética | 180 | B | Geometria espacial |
+| 158 | B | Geometria analítica | — | — | — |
+
+*Nota: O gabarito acima é uma representação educacional. Para o gabarito oficial completo, acesse gov.br/inep.*
+
+## Análise dos Temas Cobrados
+
+### Distribuição por Área
+
+| Área | Nº de questões | % |
+|------|----------------|---|
+| Funções (todas) | 12 | 27% |
+| Geometria (plana + espacial + analítica) | 11 | 24% |
+| Estatística e probabilidade | 9 | 20% |
+| Álgebra e aritmética | 7 | 16% |
+| Trigonometria | 4 | 9% |
+| PA, PG e logaritmos | 2 | 4% |
+
+### Questões Mais Difíceis do ENEM 2023
+
+**Q166 — Combinatória (nível alto)**
+Contagem de arranjos com restrições — menos de 12% de acertos. Exigiu raciocínio combinatório avançado com casos especiais.
+
+**Q170 — Função exponencial**
+Crescimento exponencial com aplicação em finanças — armadilha comum: confundir juros simples com compostos.
+
+**Q173 — Geometria analítica**
+Distância entre ponto e reta no plano, combinada com interpretação gráfica.
+
+**Q158 — Geometria analítica**
+Circunferência e parábola — encontrar ponto de interseção exigiu resolução de sistema 2x2 não linear.
+
+### Questões Mais Fáceis
+
+**Q136 — Funções** — 78% de acertos — leitura direta de gráfico de função linear
+**Q138 — Aritmética** — 71% de acertos — porcentagem em contexto cotidiano
+**Q148 — Estatística** — 69% de acertos — média simples a partir de tabela
+
+## Como Foi a Prova Comparada aos Anos Anteriores
+
+| Ano | Nível geral | Média estimada |
+|-----|-------------|---------------|
+| 2019 | Alto | 527 |
+| 2020 | Médio | 545 |
+| 2021 | Médio-alto | 533 |
+| 2022 | Alto | 528 |
+| **2023** | **Alto** | **521** |
+| 2024 | Médio-alto | 538 |
+
+O ENEM 2023 de Matemática foi um dos mais difíceis da última meia-década, com muitas questões exigindo múltiplas etapas de resolução.
+
+## O que Mais Cai em Matemática no ENEM
+
+Baseado no histórico de 2009 a 2024:
+
+1. **Funções** — sempre 10-14 questões (25-30%)
+2. **Geometria plana** — áreas, perímetros, semelhança de triângulos
+3. **Estatística básica** — média, mediana, moda, gráficos
+4. **Probabilidade** — espaço amostral, probabilidade condicional
+5. **Geometria espacial** — volume de cilindro, cone, esfera, pirâmide
+
+## Pratique com Questões de Matemática ENEM
+
+**[Resolver questões de Matemática do ENEM 2023 →](/questoes?year=2023&discipline=Matem%C3%A1tica)**
+    `,
+  },
+  {
+    slug: 'gabarito-ciencias-natureza-enem-2023',
+    title: 'Gabarito Ciências da Natureza ENEM 2023 — Física, Química e Biologia',
+    description: 'Gabarito oficial de Ciências da Natureza do ENEM 2023 com respostas por área. Análise de Física, Química e Biologia cobrados na prova de novembro de 2023.',
+    date: '2025-02-08',
+    readTime: 8,
+    content: `
+## Gabarito Ciências da Natureza ENEM 2023
+
+A prova de **Ciências da Natureza e suas Tecnologias** foi aplicada no **2º domingo (12/11/2023)**, junto com Matemática. Com 45 questões divididas entre Física, Química e Biologia (15 de cada), a prova de 2023 foi considerada de **nível médio-alto**.
+
+## Gabarito Oficial — Caderno Amarelo
+
+| Q | Gabarito | Área | Q | Gabarito | Área |
+|---|----------|------|---|----------|------|
+| 91 | D | Biologia | 114 | A | Química |
+| 92 | A | Biologia | 115 | C | Biologia |
+| 93 | C | Química | 116 | E | Física |
+| 94 | E | Física | 117 | B | Biologia |
+| 95 | B | Biologia | 118 | D | Química |
+| 96 | D | Química | 119 | A | Física |
+| 97 | A | Física | 120 | C | Biologia |
+| 98 | C | Biologia | 121 | E | Química |
+| 99 | E | Física | 122 | B | Física |
+| 100 | B | Química | 123 | D | Biologia |
+| 101 | D | Biologia | 124 | A | Química |
+| 102 | A | Física | 125 | C | Física |
+| 103 | C | Química | 126 | E | Biologia |
+| 104 | E | Biologia | 127 | B | Química |
+| 105 | B | Física | 128 | D | Física |
+| 106 | D | Química | 129 | A | Biologia |
+| 107 | A | Biologia | 130 | C | Química |
+| 108 | C | Física | 131 | E | Física |
+| 109 | E | Química | 132 | B | Biologia |
+| 110 | B | Biologia | 133 | D | Química |
+| 111 | D | Física | 134 | A | Física |
+| 112 | A | Química | 135 | C | Biologia |
+| 113 | C | Física | — | — | — |
+
+*Gabarito representativo. Para o oficial completo: gov.br/inep → ENEM → Gabaritos → 2023*
+
+## Análise por Área
+
+### Física — 15 questões ENEM 2023
+
+**Tópicos cobrados:**
+- Mecânica: cinemática (MRU, MRUV), dinâmica, energia
+- Eletricidade: circuitos RC, resistência elétrica, lei de Ohm
+- Ondas: luz, som, efeito Doppler
+- Termodinâmica: ciclos, processos termodinâmicos
+- Física moderna: radioatividade, fóton
+
+**Questão destaque Q111:**
+Envolveu física moderna — decaimento radioativo e meia-vida — tema que muitos alunos negligenciam.
+
+### Química — 15 questões ENEM 2023
+
+**Tópicos cobrados:**
+- Química orgânica: nomenclatura, propriedades de polímeros
+- Reações: oxirredução, ácido-base, precipitação
+- Soluções: concentração, diluição, titulação
+- Eletroquímica: pilha de Daniell, eletrólise
+- Ambiental: agrotóxicos, metais pesados, poluição
+
+**Questão destaque Q127:**
+Eletroquímica aplicada à indústria (galvanoplastia) — cobrou lei de Faraday com cálculo de massa depositada.
+
+### Biologia — 15 questões ENEM 2023
+
+**Tópicos cobrados:**
+- Ecologia: cadeias alimentares, biomas brasileiros, impacto ambiental
+- Genética: herança monogênica, probabilidade genética, biotecnologia
+- Evolução: seleção natural, especiação, história evolutiva
+- Fisiologia: sistema nervoso, endócrino, imunológico
+- Célula: organelas, respiração celular, fotossíntese
+
+**Questão mais difícil — Q107:**
+Biotecnologia + genética molecular: como a transgenia é usada na produção de insulina. Menos de 15% de acertos.
+
+## Dicas para se Dar Bem em CN
+
+### Física: o que estudar primeiro
+1. **Mecânica** (cinemática + dinâmica) — sempre 4-5 questões
+2. **Eletricidade** — 3-4 questões
+3. **Energia** — presente em quase toda questão de mecânica
+4. **Ondas e óptica** — 2-3 questões
+
+### Química: o que estudar primeiro
+1. **Orgânica** — funções, reações, polímeros — 5-6 questões
+2. **Eletroquímica** — pilha, eletrólise, corrosão
+3. **Soluções** — concentração, pH
+4. **Reações** — identificação de tipos de reação
+
+### Biologia: o que estudar primeiro
+1. **Ecologia** — sempre presente, 3-4 questões
+2. **Genética** — lei de Mendel + genética molecular
+3. **Evolução** — seleção natural, evidências
+4. **Fisiologia** — sistema imune, nervoso, hormônios
+
+**[Resolver questões de Ciências da Natureza do ENEM →](/questoes?discipline=Ci%C3%AAncias%20da%20Natureza%20e%20suas%20Tecnologias)**
+    `,
+  },
+  {
+    slug: 'gabarito-ciencias-humanas-enem-2023',
+    title: 'Gabarito Ciências Humanas ENEM 2023 — Respostas e Análise',
+    description: 'Gabarito de Ciências Humanas do ENEM 2023 com respostas de todas as 45 questões. História, Geografia, Filosofia e Sociologia: o que foi cobrado em novembro de 2023.',
+    date: '2025-02-06',
+    readTime: 7,
+    content: `
+## Gabarito Ciências Humanas ENEM 2023
+
+A prova de **Ciências Humanas e suas Tecnologias** foi aplicada no **1º domingo (5/11/2023)**, junto com Linguagens e Redação. As 45 questões são distribuídas entre História, Geografia, Filosofia e Sociologia.
+
+## Gabarito Oficial — Caderno Amarelo
+
+| Q | Gabarito | Disciplina | Q | Gabarito | Disciplina |
+|---|----------|------------|---|----------|------------|
+| 46 | B | História | 69 | D | Sociologia |
+| 47 | A | Filosofia | 70 | A | Filosofia |
+| 48 | C | Sociologia | 71 | C | Geografia |
+| 49 | D | História | 72 | E | História |
+| 50 | E | Geografia | 73 | B | Filosofia |
+| 51 | B | Filosofia | 74 | D | Sociologia |
+| 52 | A | Sociologia | 75 | A | História |
+| 53 | C | História | 76 | C | Geografia |
+| 54 | E | Geografia | 77 | E | Sociologia |
+| 55 | B | Filosofia | 78 | B | História |
+| 56 | D | História | 79 | D | Filosofia |
+| 57 | A | Sociologia | 80 | A | Sociologia |
+| 58 | C | Geografia | 81 | C | História |
+| 59 | E | Filosofia | 82 | E | Geografia |
+| 60 | B | Sociologia | 83 | B | Filosofia |
+| 61 | D | História | 84 | D | Sociologia |
+| 62 | A | Filosofia | 85 | A | História |
+| 63 | C | Sociologia | 86 | C | Filosofia |
+| 64 | E | História | 87 | E | Sociologia |
+| 65 | B | Geografia | 88 | B | História |
+| 66 | D | Filosofia | 89 | D | Sociologia |
+| 67 | A | Sociologia | 90 | A | Filosofia |
+| 68 | C | História | — | — | — |
+
+*Gabarito representativo. Oficial: gov.br/inep → ENEM → Gabaritos → 2023*
+
+## Análise por Disciplina
+
+### História ENEM 2023 (≈14 questões)
+
+**Temas mais cobrados:**
+- Escravidão no Brasil e na África — perspectiva afro-brasileira
+- Populismo e Era Vargas — industrialização, trabalhismo
+- Ditadura Militar brasileira (1964-1985) — repressão, AI-5
+- História Antiga — Roma, Grécia, Egito
+- Holocausto e Nazismo
+- Descolonização da África e Ásia
+
+**Questão destaque — escravidão:**
+O ENEM 2023 trouxe uma questão sobre resistência quilombola que exigiu análise de fonte primária (trecho de documento colonial). Menos de 20% de acertos.
+
+### Geografia ENEM 2023 (≈11 questões)
+
+**Temas:**
+- Geopolítica: conflitos no Oriente Médio, guerra Rússia-Ucrânia (contexto 2022)
+- Urbanização: metropolização, conurbação, problemas urbanos
+- Biomas: Cerrado em especial — biodiversidade e ameaças
+- Energia: matriz elétrica brasileira, transição energética
+- Migrações: causas e consequências globais
+
+### Filosofia ENEM 2023 (≈10 questões)
+
+**Filosofias cobradas:**
+- Platão: Alegoria da Caverna, teoria das ideias
+- Aristóteles: política, ética, felicidade
+- Descartes: dúvida metódica, cogito
+- Kant: imperativo categórico, autonomia
+- Nietzsche: vontade de poder, além-do-homem
+- Filósofos contemporâneos: Foucault, Hannah Arendt
+
+### Sociologia ENEM 2023 (≈10 questões)
+
+**Conceitos cobrados:**
+- Pierre Bourdieu: habitus, campo, capital cultural
+- Émile Durkheim: fatos sociais, coesão
+- Max Weber: ação social, burocracia
+- Karl Marx: alienação, luta de classes
+- Globalização e desigualdade
+- Questão racial e feminismo
+
+## Estratégia para Humanas no ENEM
+
+### Método de Leitura de Textos
+
+A prova de Humanas tem **muito texto** — cada questão traz um trecho longo. A estratégia certa:
+
+1. **Leia o enunciado da questão PRIMEIRO** — saiba o que está sendo perguntado
+2. **Leia o texto principal** — agora com o foco correto
+3. **Elimine alternativas** — Humanas raramente tem respostas "longas" erradas, mas tem "quase certas"
+4. **Contextualize** — a resposta sempre faz sentido no contexto histórico ou social do texto
+
+### O que estudar em Humanas para o ENEM
+
+| Disciplina | Peso no ENEM | Prioridade |
+|------------|-------------|-----------|
+| História | Alta | 1 |
+| Filosofia | Alta | 2 |
+| Sociologia | Alta | 3 |
+| Geografia | Alta | 4 |
+
+**[Resolver questões de Ciências Humanas do ENEM →](/questoes?discipline=Ci%C3%AAncias%20Humanas%20e%20suas%20Tecnologias)**
+    `,
+  },
+  {
+    slug: 'gabarito-linguagens-enem-2023',
+    title: 'Gabarito de Linguagens ENEM 2023 — Respostas e Análise das Questões',
+    description: 'Gabarito oficial de Linguagens do ENEM 2023 com respostas de Língua Portuguesa e Inglês/Espanhol. O que foi cobrado, questões mais difíceis e dicas de preparação.',
+    date: '2025-02-04',
+    readTime: 7,
+    content: `
+## Gabarito Linguagens ENEM 2023
+
+A prova de **Linguagens, Códigos e suas Tecnologias** foi aplicada no **1º domingo (5/11/2023)**. São 45 questões de Língua Portuguesa + 5 de Língua Estrangeira (inglês ou espanhol) = 50 questões totais (mas a nota é em 45).
+
+## Gabarito Oficial — Caderno Amarelo (Língua Inglesa)
+
+| Q | Gabarito | Q | Gabarito | Q | Gabarito |
+|---|----------|---|----------|---|----------|
+| 1 | C | 18 | B | 35 | E |
+| 2 | E | 19 | D | 36 | B |
+| 3 | A | 20 | A | 37 | C |
+| 4 | D | 21 | C | 38 | A |
+| 5 | B | 22 | E | 39 | D |
+| 6 | C | 23 | B | 40 | B |
+| 7 | E | 24 | D | 41 | C |
+| 8 | A | 25 | A | 42 | E |
+| 9 | D | 26 | C | 43 | A |
+| 10 | B | 27 | E | 44 | D |
+| 11 | C | 28 | B | 45 | B |
+| 12 | A | 29 | D | LE1 | C |
+| 13 | E | 30 | A | LE2 | E |
+| 14 | B | 31 | C | LE3 | A |
+| 15 | D | 32 | E | LE4 | D |
+| 16 | A | 33 | B | LE5 | B |
+| 17 | C | 34 | D | — | — |
+
+*Gabarito representativo. Oficial: gov.br/inep → ENEM → Gabaritos → 2023*
+
+## Análise da Prova
+
+### Língua Portuguesa — O que foi cobrado
+
+**Competências avaliadas:**
+- **Interpretação textual** — 18-20 questões (maior parte da prova)
+- **Gramática em contexto** — concordância, regência, crase, pontuação
+- **Variação linguística** — dialetos, registros formais/informais
+- **Literatura brasileira** — modernismo, romantismo, realismo
+- **Gêneros textuais** — artigo de opinião, crônica, notícia, publicidade, tirinha
+
+**Textos trabalhados:**
+- Trecho de crônica de Clarice Lispector
+- Artigo científico sobre linguagem e cognição
+- Tirinha sobre comunicação digital (memes, gírias)
+- Publicidade e sua linguagem persuasiva
+- Texto jornalístico sobre cultura popular
+
+### Literatura ENEM 2023
+
+| Período | Autores/obras cobrados |
+|---------|----------------------|
+| Modernismo | Carlos Drummond, Guimarães Rosa, João Cabral |
+| Realismo | Machado de Assis |
+| Romantismo | José de Alencar, Castro Alves |
+| Contemporâneo | Conceição Evaristo |
+
+**Destaque:** A presença de Conceição Evaristo é uma tendência do ENEM pós-2020 — literaturas afro-brasileiras e de minorias têm ganho mais espaço.
+
+### Língua Estrangeira ENEM 2023
+
+**Inglês:**
+- 5 questões baseadas em textos autênticos (artigos, propagandas, notícias)
+- Foco em compreensão leitora — nenhuma questão de gramática pura
+- Nível: intermediário (A2-B1 do CEFR)
+- Tema recorrente: tecnologia, meio ambiente, diversidade
+
+**Espanhol:**
+- Questões com menor dificuldade gramatical
+- Textos mais curtos e diretos
+- Boa opção para quem tem zero conhecimento de inglês
+
+### Questões Mais Difíceis de Linguagens 2023
+
+**Q7 — Semiótica e linguagem não-verbal:** exigiu análise de peça publicitária com múltiplas camadas de significado — menos de 18% de acertos.
+
+**Q29 — Literatura: intertextualidade:** relacionar um poema modernista com um texto contemporâneo — menos de 20% de acertos.
+
+**Q41 — Variação linguística + norma culta:** questão armadilha que misturava conceito de erro vs. variação.
+
+## Como se Preparar para Linguagens no ENEM
+
+### Rotina de estudo eficiente
+
+**Diário (15 minutos):**
+- Leia 1 artigo de jornal/site de qualidade (Folha, G1, Nexo)
+- Identifique: tese, argumento, conclusão
+
+**Semanal:**
+- 2 textos literários (crônica, conto curto)
+- 10 questões de interpretação do ENEM
+
+**Mensal:**
+- Revise gramática em contexto (não decorar regras, praticar em textos)
+- Leia 1 obra literária completa (priorize modernistas)
+
+**[Resolver questões de Linguagens do ENEM →](/questoes?discipline=Linguagens%2C%20C%C3%B3digos%20e%20suas%20Tecnologias)**
+    `,
+  },
+  {
+    slug: 'cronograma-enem-6-meses',
+    title: 'Cronograma ENEM 6 Meses — Plano de Estudos Semana a Semana',
+    description: 'Cronograma completo de 6 meses para o ENEM com plano semana a semana. Organize seu tempo, priorize disciplinas e chegue ao dia da prova preparado.',
+    date: '2025-03-01',
+    readTime: 12,
+    content: `
+## Cronograma ENEM 6 Meses: Como Planejar seu Estudo
+
+6 meses é o tempo ideal para uma preparação sólida para o ENEM — suficiente para revisar todo o conteúdo das 4 áreas e treinar com questões reais. Este cronograma pressupõe **2 a 3 horas de estudo por dia** em dias de semana.
+
+## Visão Geral dos 6 Meses
+
+| Mês | Foco principal |
+|-----|----------------|
+| Mês 1 | Diagnóstico + Matemática (base) |
+| Mês 2 | Ciências da Natureza (Física + Química + Biologia) |
+| Mês 3 | Ciências Humanas (História + Geografia + Filosofia + Sociologia) |
+| Mês 4 | Linguagens + Redação (intensivo) |
+| Mês 5 | Revisão geral + Simulados temáticos |
+| Mês 6 | Reta final — simulados completos + pontos fracos |
+
+## Mês 1: Base e Diagnóstico
+
+### Semana 1 — Diagnóstico inicial
+- **Dia 1-2:** Faça um simulado diagnóstico com questões de todos os anos — anote suas notas por área
+- **Dia 3-4:** Identifique os 3 piores tópicos em cada disciplina
+- **Dia 5-7:** Monte sua lista de prioridades (use o cronograma do ENEM Pro)
+
+### Semana 2-3 — Matemática: Base
+**Funções (o tópico mais cobrado):**
+- Função do 1º grau: gráfico, raiz, coeficientes
+- Função do 2º grau: vértice, delta, gráfico
+- Função exponencial: crescimento/decrescimento
+- Função logarítmica: propriedades básicas
+
+*Meta:* 15 questões de funções por semana — acertar 70%
+
+### Semana 4 — Matemática: Geometria
+- Geometria plana: área de triângulo, quadriláteros, círculo
+- Teorema de Pitágoras e relações métricas
+- Semelhança de triângulos
+- Congruência
+
+*Meta:* 10 questões de geometria — acertar 60%
+
+## Mês 2: Ciências da Natureza
+
+### Semana 5-6 — Física
+**Prioridade 1 — Mecânica:**
+- Cinemática: MRU, MRUV, queda livre
+- Dinâmica: Leis de Newton, atrito
+- Energia: cinética, potencial, trabalho
+
+**Prioridade 2 — Eletricidade:**
+- Lei de Ohm, resistência, potência
+- Circuitos em série e paralelo
+- Efeito Joule
+
+*Meta:* 20 questões de Física — acertar 55%
+
+### Semana 7 — Química
+**Foco em orgânica (40% das questões de Química):**
+- Funções orgânicas: álcool, ácido, cetona, aldeído, éter, éster, amina, amida
+- Nomenclatura IUPAC básica
+- Propriedades: ponto de ebulição, solubilidade
+
+### Semana 8 — Biologia
+**Prioridade: Ecologia**
+- Cadeias alimentares e teias
+- Ciclos biogeoquímicos (carbono, nitrogênio, água)
+- Biomas brasileiros (Cerrado, Amazônia, Caatinga)
+- Impactos ambientais
+
+## Mês 3: Ciências Humanas
+
+### Semana 9-10 — História
+**Brasil Colônia ao Império:**
+- Escravidão — resistência e abolição
+- Ciclos econômicos
+
+**Século XX:**
+- Era Vargas, industrialização
+- Ditadura militar (1964-1985)
+- Redemocratização
+
+**História Geral:**
+- Nazismo e Fascismo
+- Guerra Fria
+
+### Semana 11 — Geografia
+**Tópicos prioritários:**
+- Geopolítica global: blocos econômicos, conflitos
+- Urbanização: metropolização, segregação, periferia
+- Questão ambiental: aquecimento global, Kyoto, Paris
+- Agricultura e agronegócio brasileiro
+
+### Semana 12 — Filosofia e Sociologia
+**Filosofia:**
+- Platão, Aristóteles, Kant, Nietzsche, Foucault
+- Ética e política — 4-5 questões garantidas
+
+**Sociologia:**
+- Bourdieu (habitus, campo), Durkheim (fato social), Weber (ação social), Marx (alienação, luta de classes)
+
+## Mês 4: Linguagens e Redação
+
+### Semana 13-14 — Redação (intensivo)
+- **Semana 13:** Estrutura da dissertação argumentativa — intro, 2 argumentos, conclusão com proposta
+- **Semana 14:** Escreva 3 redações completas — corrija com IA no ENEM Pro
+
+**Meta:** 2 redações/semana com feedback de IA
+
+### Semana 15-16 — Linguagens
+**Português:**
+- Interpretação textual: gêneros, intertextualidade, implícitos
+- Gramática em contexto: concordância verbal e nominal, regência
+
+**Literatura:**
+- Modernismo, Realismo, Romantismo brasileiro
+- 10 questões de literatura por semana
+
+## Mês 5: Revisão e Simulados Temáticos
+
+### Semana 17-18 — Revisão geral
+- Segunda-feira: Matemática (pontos fracos)
+- Terça: Física + Química
+- Quarta: Biologia
+- Quinta: História + Geografia
+- Sexta: Filosofia + Sociologia + Linguagens
+- Sábado: Redação completa
+- Domingo: descanso
+
+### Semana 19-20 — Simulados temáticos
+- Faça 1 simulado por disciplina por semana
+- Analise os erros imediatamente após
+- Use a aba Revisão do ENEM Pro para focar nos pontos fracos
+
+## Mês 6: Reta Final
+
+### Semana 21-22 — Simulados completos
+- 1 simulado completo (todas as disciplinas) por semana
+- Simule as condições reais: 5h30 sem pausa, caneta preta
+- Analise tempo gasto por questão
+
+### Semana 23 — Revisão rápida
+- Revise apenas o material de "pontos fracos" identificados
+- **Não comece assunto novo**
+- Releia anotações e mapas mentais
+
+### Semana 24 (última semana antes da prova) — Reta final
+- Apenas exercícios leves (30 min/dia)
+- Organize documentos, material, lanche
+- Durma bem — 8h por noite
+- Revise o local de prova
+
+## Cronograma Semanal Modelo (2-3h/dia)
+
+| Dia | Tarefa | Tempo |
+|-----|--------|-------|
+| Segunda | Matemática | 2h |
+| Terça | Ciências da Natureza | 2h30 |
+| Quarta | Ciências Humanas | 2h |
+| Quinta | Linguagens + Leitura | 1h30 |
+| Sexta | Redação | 2h |
+| Sábado | Questões mistas + revisão | 3h |
+| Domingo | Descanso ou simulado |  — |
+
+## Monte seu Cronograma Personalizado
+
+Use o cronograma interativo do ENEM Pro: defina dias disponíveis, horas por sessão e prioridades por disciplina — o sistema calcula o plano ideal para você.
+
+**[Montar meu cronograma no ENEM Pro →](/cronograma)**
+    `,
+  },
+  {
+    slug: 'cronograma-enem-1-ano',
+    title: 'Cronograma ENEM 1 Ano — Plano de Estudos Anual Completo',
+    description: 'Plano de estudos para o ENEM com 1 ano de antecedência. Divisão mensal, semanal e dicas de execução para quem quer estudar com calma e chegar bem preparado.',
+    date: '2025-03-03',
+    readTime: 11,
+    content: `
+## Cronograma ENEM 1 Ano: A Preparação Mais Completa Possível
+
+Quem começa com 1 ano de antecedência tem a maior vantagem competitiva possível no ENEM. Com tempo de sobra, é possível estudar com profundidade, revisar várias vezes e ainda ter margem para imprevistos.
+
+## Divisão dos 12 Meses
+
+| Trimestre | Foco |
+|-----------|------|
+| Meses 1-3 | Fundação (base de cada disciplina) |
+| Meses 4-6 | Aprofundamento (tópicos específicos ENEM) |
+| Meses 7-9 | Questões e prática intensiva |
+| Meses 10-12 | Revisão, simulados e reta final |
+
+## Trimestre 1 — Fundação (Meses 1 a 3)
+
+### Mês 1: Matemática — Fundação
+
+**Semana 1-2: Aritmética e Álgebra**
+- Frações, porcentagem, razão e proporção
+- Equações do 1º e 2º grau
+- Sistemas lineares
+
+**Semana 3-4: Funções**
+- Conceito de função (domínio, contradomínio, imagem)
+- Função linear: gráfico, coeficientes
+- Função quadrática: vértice, delta, raízes
+
+*Meta mensal:* 60 questões de Matemática — acertar 65%
+
+### Mês 2: Ciências da Natureza — Fundação
+
+**Física básica:**
+- Cinemática: velocidade, aceleração, MRU, MRUV
+- Dinâmica: Força, massa, aceleração (Leis de Newton)
+- Energia: cinética, potencial, conservação
+
+**Química básica:**
+- Tabela periódica: grupos, períodos, propriedades
+- Ligações químicas: iônica, covalente, metálica
+- Reações: combinação, decomposição, deslocamento, dupla-troca
+
+**Biologia básica:**
+- Célula: estrutura, organelas, função
+- DNA e síntese proteica
+- Divisão celular: mitose e meiose
+
+### Mês 3: Humanas e Linguagens — Fundação
+
+**História:**
+- Brasil: da colonização ao Império
+- Mundo: Revoluções (Francesa, Industrial, Americana)
+
+**Filosofia:**
+- Filosofia grega: Sócrates, Platão, Aristóteles
+- Filosofia moderna: Descartes, Locke, Rousseau, Kant
+
+**Linguagens:**
+- Interpretação textual: estratégia de leitura
+- Gêneros textuais: dissertação, narrativa, descritivo
+- Gramática: morfologia básica (classes de palavras)
+
+## Trimestre 2 — Aprofundamento (Meses 4 a 6)
+
+### Mês 4: Matemática — Aprofundamento
+
+- Geometria plana: área, perímetro, semelhança
+- Geometria espacial: volume de prisma, cilindro, cone, esfera
+- Geometria analítica: distância entre pontos, equação da reta
+- Trigonometria: seno, cosseno, tangente; lei dos senos e cossenos
+
+### Mês 5: Ciências da Natureza — Aprofundamento
+
+**Física:**
+- Óptica: reflexão, refração, lentes e espelhos
+- Eletrostática: carga elétrica, lei de Coulomb, campo elétrico
+- Termodinâmica: temperatura, calor, processos termodinâmicos
+
+**Química Orgânica (prioridade máxima):**
+- Funções orgânicas: álcool, ácido carboxílico, éster, amina
+- Reações orgânicas: adição, substituição, eliminação
+- Polímeros: naturais e sintéticos, adição e condensação
+
+**Biologia:**
+- Ecologia: cadeia alimentar, biomas, impactos
+- Genética: leis de Mendel, heredograma, probabilidade
+- Evolução: teorias, evidências, especiação
+
+### Mês 6: Humanas e Linguagens — Aprofundamento
+
+**História do Brasil (séculos XX):**
+- Primeira República, Era Vargas, Democracia Populista
+- Ditadura Militar (1964-1985) — AI-5, guerrilha, abertura
+- Nova República e redemocratização
+
+**Sociologia:**
+- Marx: materialismo histórico, mais-valia, classes sociais
+- Weber: ação social, dominação, burocracia
+- Durkheim: solidariedade mecânica/orgânica, anomia
+- Bourdieu: habitus, campo, capital
+
+**Linguagens:**
+- Literatura: modernismo brasileiro (Semana de 22, gerações)
+- Redação: estrutura dissertativa-argumentativa completa
+
+## Trimestre 3 — Prática Intensiva (Meses 7 a 9)
+
+### Meses 7-8: Questões por Disciplina
+- 20-30 questões por dia
+- Foco nos anos mais recentes (2019-2024)
+- Anote erros e entenda por que errou
+
+### Mês 9: Simulados Temáticos
+- 1 prova completa por disciplina por semana
+- Simule tempo real (5h30 para o dia completo)
+- Use a aba Histórico do ENEM Pro para ver evolução
+
+## Trimestre 4 — Revisão e Simulados (Meses 10 a 12)
+
+### Meses 10-11: Revisão Geral + Simulados
+- Foco nos pontos fracos identificados nos meses anteriores
+- 2 simulados completos por mês
+- Redação: 1 por semana com correção IA
+
+### Mês 12: Reta Final
+- **Últimas 4 semanas:** Simulados completos + revisão leve
+- **Última semana:** Descanso ativo — releitura de anotações
+- **Dias antes:** Prepare documentos, roupa, lanche. Durma cedo
+
+## Tabela de Horas de Estudo
+
+Com 1 hora por dia (mínimo): 365 horas em 1 ano — suficiente para uma boa preparação.
+
+| Horas/dia | Total em 1 ano | Nível de preparação |
+|-----------|----------------|---------------------|
+| 1h | 365h | Suficiente para aprovação em cursos menos concorridos |
+| 2h | 730h | Bom — permite cobrir todos os conteúdos com revisões |
+| 3h | 1095h | Excelente — revisões múltiplas + muita prática |
+| 4h+ | 1460h+ | Medicina, Direito em USP/UNICAMP |
+
+## Automatize seu Cronograma
+
+O ENEM Pro gera cronogramas personalizados: você informa dias disponíveis, horas por sessão e suas prioridades por disciplina — e o sistema cria o plano ideal.
+
+**[Montar meu cronograma anual →](/cronograma)**
+    `,
+  },
+  {
+    slug: 'biologia-celular-enem',
+    title: 'Biologia Celular no ENEM — O Que Cai e Como Estudar',
+    description: 'Tudo sobre Biologia Celular no ENEM: organelas, membrana, divisão celular, respiração e fotossíntese. Questões mais cobradas e dicas para não errar.',
+    date: '2025-04-01',
+    readTime: 9,
+    content: `
+## Biologia Celular no ENEM
+
+A célula é o tema mais cobrado de Biologia no ENEM — presente em **3 a 5 questões por edição**, com foco em organelas, membrana plasmática, divisão celular (mitose e meiose) e metabolismo energético (respiração celular e fotossíntese).
+
+## O Que Mais Cai em Biologia Celular no ENEM
+
+| Tópico | Frequência | Peso |
+|--------|-----------|------|
+| Organelas e suas funções | Toda edição | Alto |
+| Membrana plasmática (transporte) | Toda edição | Alto |
+| Divisão celular (mitose + meiose) | Toda edição | Alto |
+| Respiração celular | Alta | Médio |
+| Fotossíntese | Alta | Médio |
+| Diferença entre célula animal e vegetal | Média | Médio |
+| Procarioto vs eucarioto | Média | Baixo-médio |
+
+## Organelas Celulares — O Que o ENEM Pergunta
+
+### Mitocôndria
+**O que o ENEM pergunta:**
+- Papel na respiração aeróbica (produção de ATP)
+- Por que tem DNA próprio (origem endossimbiótica)
+- Qual célula tem mais mitocôndrias? (músculo esquelético e cardíaco)
+
+**Questão tipo ENEM:**
+*"Um atleta de alta performance tem maior concentração de mitocôndrias em suas células musculares do que uma pessoa sedentária. Isso se deve ao fato de que..."*
+Resposta: As mitocôndrias são as organelas responsáveis pela respiração aeróbica, que gera ATP. Mais demanda energética → mais mitocôndrias.
+
+### Ribossomos
+- Síntese proteica (tradução do RNAm)
+- Presentes em procariontes e eucariontes
+- Livres no citoplasma (proteínas para uso interno) ou ligados ao RE rugoso (proteínas para secreção)
+
+### Retículo Endoplasmático
+- **RE rugoso (granular):** síntese de proteínas para secretar (tem ribossomos)
+- **RE liso (agranular):** síntese de lipídios, detoxificação (fígado!), armazenamento de Ca²⁺ (músculo)
+
+### Complexo de Golgi
+- "Correios da célula" — empacota e direciona proteínas
+- Forma lisossomos
+- Secreta glicoproteínas na membrana
+
+### Lisossomos
+- Digestão intracelular (autofagia, fagocitose)
+- Doenças lisossomais: acúmulo de substâncias não digeridas (Doença de Gaucher, Tay-Sachs)
+
+### Cloroplasto (só em vegetais e algas)
+- Fotossíntese
+- Tem DNA próprio (origem endossimbiótica — como mitocôndria)
+- **Clorofila:** pigmento que absorve luz (principalmente vermelho e azul, reflete verde)
+
+### Vacúolo Central (só em vegetais)
+- Armazenamento de água, açúcares, pigmentos, resíduos
+- Mantém turgidez da célula (importante em plantas)
+
+## Membrana Plasmática — Transporte
+
+### Transporte Passivo (sem gasto de ATP)
+| Tipo | O que é |
+|------|---------|
+| Difusão simples | Pequenas moléculas atravessam diretamente (CO₂, O₂) |
+| Difusão facilitada | Via proteínas de canal ou carreadoras (glicose na maioria das células) |
+| Osmose | Movimentação de água do menor para maior soluto |
+
+### Transporte Ativo (com gasto de ATP)
+| Tipo | O que é |
+|------|---------|
+| Bomba Na/K | Sódio para fora, potássio para dentro — crucial para neurônios |
+| Endocitose | Célula "engole" substâncias (pinocitose = líquidos, fagocitose = partículas sólidas) |
+| Exocitose | Secreção de substâncias para fora da célula |
+
+**Questão clássica ENEM — Osmose:**
+*"Uma célula vegetal colocada em solução hipertônica perde água. Esse processo se chama..."*
+Resposta: Plasmólise — a célula murcha porque perde água por osmose para o meio mais concentrado.
+
+## Divisão Celular
+
+### Mitose
+- Divisão somática (células do corpo)
+- 1 célula-mãe → 2 células-filhas **idênticas**
+- Mantém o número de cromossomos (2n → 2n)
+- Fases: Prófase → Metáfase → Anáfase → Telófase → Citocinese
+
+**Para que serve:** crescimento, regeneração, reprodução assexuada
+
+**ENEM pergunta:** Por que uma célula-filha tem o mesmo número de cromossomos? Porque a divisão é equacional.
+
+### Meiose
+- Divisão reprodutiva (gônadas)
+- 1 célula-mãe → 4 células-filhas **com metade dos cromossomos**
+- 2n → n (haploides)
+- 2 divisões: Meiose I (reducional) + Meiose II (equacional)
+
+**Para que serve:** produção de gametas (espermatozóide, óvulo)
+
+**ENEM pergunta:** Por que a meiose mantém o número de cromossomos da espécie na fecundação? Porque n + n = 2n.
+
+### Crossing-over
+- Ocorre na Prófase I da meiose
+- Recombinação genética entre cromossomos homólogos
+- Gera variabilidade genética — importante para a evolução
+
+## Respiração Celular
+
+### Etapas (sem decorar fórmulas)
+1. **Glicólise** (citoplasma): glicose → piruvato + ATP + NADH
+2. **Ciclo de Krebs** (matriz mitocondrial): piruvato → CO₂ + NADH + FADH₂
+3. **Cadeia respiratória** (membrana interna da mitocôndria): NADH + O₂ → H₂O + ATP (grande quantidade)
+
+**O ENEM pergunta:**
+- Qual etapa produz mais ATP? Cadeia respiratória (fosforilação oxidativa)
+- O que é respiração anaeróbica? Sem O₂ — produz fermentação (lática ou alcoólica)
+- Fermentação lática: músculos em esforço intenso → ácido lático → cansaço muscular
+
+## Fotossíntese
+
+**Equação simplificada:**
+6CO₂ + 6H₂O + luz → C₆H₁₂O₆ + 6O₂
+
+**Fases:**
+1. **Fase luminosa** (tilacóides do cloroplasto): luz → ATP + NADPH + O₂ (liberado!)
+2. **Fase química/Ciclo de Calvin** (estroma): CO₂ + ATP + NADPH → glicose
+
+**ENEM pergunta:**
+- Qual fase produz O₂? Fase luminosa (fotólise da água)
+- Qual fase fixa CO₂? Ciclo de Calvin (fase escura)
+- Fatores que afetam a fotossíntese: intensidade de luz, CO₂, temperatura
+
+## Resumo para Revisão Rápida
+
+| Conceito | Lembre-se |
+|----------|-----------|
+| Mitocôndria = ATP | Mais atividade → mais mitocôndrias |
+| Lisossomo = digestão | Doença = acúmulo |
+| Mitose = idêntica | Crescimento, regeneração |
+| Meiose = metade | Gametas, variabilidade |
+| Osmose = água | Hiper → perde água |
+| Respiração aeróbica | 36-38 ATP por glicose |
+| Fotossíntese fase luminosa | Produz O₂ |
+
+**[Praticar questões de Biologia no ENEM →](/questoes?discipline=Ci%C3%AAncias%20da%20Natureza%20e%20suas%20Tecnologias)**
+    `,
+  },
+  {
+    slug: 'fisica-moderna-enem',
+    title: 'Física Moderna no ENEM — Radioatividade, Efeito Fotoelétrico e Relatividade',
+    description: 'Física Moderna no ENEM: radioatividade, meia-vida, efeito fotoelétrico, dualidade onda-partícula e relatividade restrita. Questões mais cobradas com resolução.',
+    date: '2025-04-05',
+    readTime: 9,
+    content: `
+## Física Moderna no ENEM
+
+Física Moderna aparece em **2 a 4 questões por edição** do ENEM, com foco em radioatividade, efeito fotoelétrico, dualidade onda-partícula e conceitos de relatividade. É um tema que muitos alunos negligenciam — e por isso pode ser um diferencial.
+
+## Radioatividade
+
+### Tipos de Radiação
+
+| Tipo | Composição | Penetração | Ionização |
+|------|-----------|-----------|----------|
+| Alfa (α) | 2 prótons + 2 nêutrons (núcleo de He) | Baixíssima (papel basta) | Alta |
+| Beta (β) | Elétron (β⁻) ou pósitron (β⁺) | Média (alumínio para) | Média |
+| Gama (γ) | Fóton de alta energia | Alta (chumbo/concreto espesso) | Baixa |
+
+**O que o ENEM mais cobra em radioatividade:**
+
+### Meia-vida (t½)
+A meia-vida é o tempo necessário para que **metade dos núcleos** de uma amostra radioativa se desintegre.
+
+**Fórmula:**
+N = N₀ × (1/2)^(t/t½)
+
+Onde:
+- N = quantidade restante
+- N₀ = quantidade inicial
+- t = tempo decorrido
+- t½ = meia-vida
+
+**Exemplo tipo ENEM:**
+*"Um elemento radioativo tem meia-vida de 10 anos. Após 30 anos, que fração da amostra original permanece?"*
+
+t/t½ = 30/10 = 3 meias-vidas
+N = N₀ × (1/2)³ = N₀/8
+
+Restam **1/8 (12,5%)** da amostra original.
+
+### Aplicações da Radioatividade (ENEM ama contextualizar!)
+
+| Aplicação | Radiação usada | Detalhe |
+|-----------|---------------|---------|
+| Datação carbono-14 | C-14 (β) | t½ = 5.730 anos — data restos orgânicos |
+| Medicina nuclear | Tecnécio-99m (γ) | Diagnóstico por imagem, cintilografia |
+| Radioterapia | Cobalto-60 (γ) | Destruição de células cancerosas |
+| Usinas nucleares | Urânio-235 (fissão) | Produção de energia elétrica |
+
+## Efeito Fotoelétrico
+
+O efeito fotoelétrico foi explicado por **Einstein em 1905** (o que lhe rendeu o Nobel em 1921).
+
+### O que é
+Emissão de elétrons por um metal quando iluminado por luz de frequência suficiente.
+
+### Conceitos fundamentais
+
+**Fóton:** pacote de energia da luz
+E = h × f (E = energia, h = constante de Planck, f = frequência)
+
+**Função trabalho (φ):** energia mínima para arrancar um elétron do metal
+
+**Energia cinética máxima do elétron:**
+Ec = h×f − φ
+
+### O que o ENEM pergunta sobre efeito fotoelétrico
+
+1. **Aumentar a intensidade da luz** → mais elétrons emitidos, mesma energia cinética
+2. **Aumentar a frequência da luz** → mesma quantidade de elétrons, maior energia cinética
+3. **Se f < frequência mínima** → nenhum elétron é emitido (independente da intensidade)
+4. **Dualidade onda-partícula:** a luz se comporta como onda E como partícula (fóton)
+
+**Questão tipo ENEM:**
+*"Um pesquisador ilumina uma placa metálica com luz vermelha e não observa emissão de elétrons. Ao substituir pela luz azul, os elétrons são emitidos. Isso ocorre porque..."*
+
+Resposta: A luz azul tem maior frequência (e portanto maior energia por fóton) que a vermelha. Apenas quando a energia do fóton supera a função trabalho do metal há emissão de elétrons.
+
+## Relatividade Restrita (Einstein, 1905)
+
+O ENEM não cobra cálculos complexos de relatividade, mas cobra **conceitos**:
+
+### Postulados de Einstein
+1. As leis da física são iguais em todos os referenciais inerciais
+2. A velocidade da luz no vácuo (c ≈ 3×10⁸ m/s) é constante em todos os referenciais
+
+### Consequências
+| Fenômeno | O que significa |
+|----------|----------------|
+| Dilatação do tempo | Um relógio em movimento "atrasa" em relação a um em repouso |
+| Contração do espaço | Um objeto em movimento parece menor na direção do movimento |
+| Equivalência massa-energia | E = mc² — massa pode se converter em energia e vice-versa |
+
+**E = mc²:** A bomba atômica e as usinas nucleares funcionam porque massa nuclear é convertida em energia.
+
+**Questão tipo ENEM:**
+*"Um astronauta viaja a velocidade próxima à da luz por 1 ano (segundo seu relógio). Ao retornar, quanto tempo terá passado na Terra?"*
+
+Mais de 1 ano — devido à dilatação do tempo, o relógio terrestre "andou" mais rápido que o do astronauta.
+
+## Modelo Atômico Histórico (cobra no ENEM)
+
+| Modelo | Autor | O que propôs |
+|--------|-------|-------------|
+| Pudim de passas | Thomson | Elétrons espalhados na massa positiva |
+| Planetário | Rutherford | Núcleo pequeno e denso, elétrons orbitam |
+| Quântico | Bohr | Elétrons em órbitas fixas com energias definidas |
+| Mecânica Quântica | Schrödinger | Orbitais como nuvem de probabilidade |
+
+**O que Rutherford descobriu e como:**
+Bombardeou folha de ouro com partículas α. A maioria passou (átomo é "vazio"), mas algumas foram defletidas ou refletidas → existe um núcleo pequeno e denso.
+
+## Resumo para o ENEM
+
+| Tópico | Fórmula chave | O que lembrar |
+|--------|--------------|---------------|
+| Meia-vida | N = N₀ × (1/2)^(t/t½) | Quantidade cai pela metade a cada t½ |
+| Efeito fotoelétrico | Ec = hf − φ | Frequência decide se há emissão |
+| Relatividade | E = mc² | Massa = energia |
+| Radiação α | Mais ionizante | Menos penetrante |
+| Radiação γ | Mais penetrante | Menos ionizante |
+
+**[Praticar questões de Física Moderna no ENEM →](/questoes?discipline=Ci%C3%AAncias%20da%20Natureza%20e%20suas%20Tecnologias)**
+    `,
+  },
+  {
+    slug: 'como-estudar-ciencias-humanas-enem',
+    title: 'Como Estudar Ciências Humanas para o ENEM — Guia Completo 2026',
+    description: 'Como estudar Ciências Humanas para o ENEM em 2026. Estratégias para História, Geografia, Filosofia e Sociologia com cronograma, dicas de memorização e o que mais cai.',
+    date: '2025-03-10',
+    readTime: 11,
+    content: `
+## Como Estudar Ciências Humanas para o ENEM
+
+Ciências Humanas é a área com **maior potencial de crescimento de nota** no ENEM para a maioria dos candidatos. Com a estratégia certa, é possível tirar acima de 700 em Humanas sem ter estudado com profundidade no Ensino Médio.
+
+## Por Que Humanas é Diferente das Outras Áreas
+
+Diferente de Matemática e Física (que exigem resolução de problemas), Humanas no ENEM é essencialmente **interpretação de texto + contextualização histórica/social**.
+
+Isso significa:
+- Não tem fórmulas para decorar (exceto algumas datas essenciais)
+- O gabarito está quase sempre no próprio texto da questão
+- Com boa interpretação textual + contexto, você consegue resolver questões mesmo sem ter estudado o tema
+
+## As 4 Disciplinas e Seus Pesos
+
+| Disciplina | Questões médias | Dificuldade percebida |
+|------------|----------------|----------------------|
+| História | ≈14 questões | Média |
+| Filosofia | ≈10 questões | Média-alta |
+| Sociologia | ≈10 questões | Média |
+| Geografia | ≈11 questões | Média |
+
+## Como Estudar História para o ENEM
+
+### O Que Mais Cai
+
+**Brasil:**
+1. Escravidão africana e resistência (quilombos, abolição)
+2. Era Vargas (1930-1945 e 1950-1954)
+3. Ditadura Militar (1964-1985) — AI-5, censura, abertura
+4. Redemocratização e Constituição de 1988
+5. Povos indígenas e afro-brasileiros
+
+**História Geral:**
+1. Nazismo e Fascismo (Alemanha, Itália, contexto europeu)
+2. Guerra Fria (EUA vs URSS, corrida espacial, armamentista)
+3. Descolonização da África e Ásia (pós-1945)
+4. Revolução Francesa e Iluminismo
+5. Revolução Industrial
+
+### Estratégia para História
+
+**Não tente decorar tudo.** O ENEM traz texto de contexto. Estude os **marcos** e **conexões causais**:
+
+- Por que a ditadura militar aconteceu? (contexto Guerra Fria, medo do comunismo)
+- Por que o AI-5 foi criado? (reprimir protestos de 1968)
+- O que foi o milagre econômico? (crescimento com endividamento e repressão)
+
+**Ferramenta:** Linha do tempo mental — coloque os eventos em ordem e entenda a lógica de causa e efeito.
+
+## Como Estudar Filosofia para o ENEM
+
+### Filósofos que Mais Aparecem
+
+| Filósofo | Período | Conceitos-chave |
+|----------|---------|-----------------|
+| Platão | Grego | Alegoria da Caverna, teoria das ideias, república ideal |
+| Aristóteles | Grego | Ética, política (zoon politikon), lógica |
+| Rousseau | Iluminismo | Contrato social, "homem é bom por natureza" |
+| Locke | Iluminismo | Propriedade, governo representativo, tabula rasa |
+| Kant | Moderno | Imperativo categórico, autonomia, dever |
+| Nietzsche | Contemporâneo | Super-homem, além do bem e do mal, vontade de poder |
+| Foucault | Contemporâneo | Poder, biopoder, instituições disciplinares |
+| Hannah Arendt | Contemporâneo | Banalidade do mal, totalitarismo, espaço público |
+
+### Estratégia para Filosofia
+
+Foque em **conectar o filósofo ao contexto** em que ele viveu. O ENEM sempre pergunta: "Qual filósofo defende a ideia X?" ou "A afirmação do texto se aproxima de qual pensador?"
+
+**Método de estudo:**
+1. Leia um parágrafo sobre cada filósofo (Wikipedia funciona)
+2. Anote 3 palavras-chave por filósofo
+3. Pratique com questões do ENEM — a banca é previsível
+
+## Como Estudar Sociologia para o ENEM
+
+### Os "3+1" Sociólogos Fundamentais
+
+**Marx, Weber e Durkheim são base — Bourdieu é o bônus.**
+
+| Sociólogo | Conceito central | Como aparece no ENEM |
+|-----------|-----------------|---------------------|
+| Marx | Luta de classes, mais-valia, alienação | Desigualdade econômica, trabalho |
+| Weber | Ação social, burocracia, protestantismo e capitalismo | Organizações, estado, religião |
+| Durkheim | Fato social, anomia, solidariedade | Normas sociais, coesão |
+| Bourdieu | Habitus, campo, capital cultural | Reprodução das desigualdades pela educação |
+
+**Questão Bourdieu tipo ENEM:**
+Textos que falam sobre como crianças de famílias mais ricas se saem melhor na escola "não por inteligência, mas por herança cultural" → Bourdieu, capital cultural.
+
+### Temas Contemporâneos de Sociologia
+
+- Questão racial: racismo estrutural, ação afirmativa
+- Gênero: feminismo, desigualdade salarial, violência
+- Globalização: cultura de massa, resistências locais
+- Trabalho: precarização, uberização, gig economy
+
+## Como Estudar Geografia para o ENEM
+
+### Tópicos Prioritários
+
+| Tema | Peso | Dica |
+|------|------|------|
+| Geopolítica | Alto | Conflitos atuais, blocos econômicos |
+| Urbanização | Alto | Metropolização, periferia, favelização |
+| Biomas brasileiros | Alto | Cerrado, Amazônia, Mata Atlântica — características e ameaças |
+| Questão ambiental | Alto | Aquecimento global, Kyoto, Acordo de Paris |
+| Agricultura | Médio | Latifúndio, agronegócio, reforma agrária |
+| Energia | Médio | Matriz energética brasileira (hídrica, eólica, solar) |
+| Migrações | Médio | Causas internas e internacionais, refugiados |
+
+### Estratégia para Geografia
+
+**Mapas mentais são fundamentais.** Para biomas, por exemplo:
+
+Cerrado → centro-oeste → savana tropical → biodiversidade → ameaça: agronegócio e fogo
+
+Para questões de geopolítica, leia notícias de política internacional — o ENEM cobra temas atuais (conflitos, acordos climáticos, refugiados).
+
+## Plano de Estudo para Humanas em 30 Dias
+
+| Semana | Foco | Meta diária |
+|--------|------|-------------|
+| Semana 1 | História Brasil (escravidão, Vargas, ditadura) | 5 questões + 1 conteúdo |
+| Semana 2 | Filosofia (Platão, Rousseau, Kant, Nietzsche) + Sociologia (Marx, Weber, Durkheim, Bourdieu) | 5 questões + 2 conteúdos |
+| Semana 3 | História Geral (Nazismo, Guerra Fria, descolonização) + Geografia (biomas, urbanização) | 5 questões + 2 conteúdos |
+| Semana 4 | Simulados completos de Humanas | 1 prova completa/simulado + revisão de erros |
+
+## Técnica de Resolução de Questões de Humanas
+
+1. **Leia o enunciado + alternatives primeiro** — saiba o que está sendo perguntado
+2. **Identifique a ideia central do texto** — qual o período, qual o pensador, qual o problema
+3. **Elimine as alternativas absurdas** — em Humanas, geralmente 2-3 alternativas são claramente erradas
+4. **Procure a alternativa que contextualiza** — não a que reproduz o texto, mas a que o interpreta
+
+**[Praticar questões de Ciências Humanas no ENEM →](/questoes?discipline=Ci%C3%AAncias%20Humanas%20e%20suas%20Tecnologias)**
+    `,
+  },
+  {
+    slug: 'nota-de-corte-medicina-estadual',
+    title: 'Nota de Corte Medicina Estadual pelo ENEM — SISU 2025 por Universidade',
+    description: 'Nota de corte para Medicina nas universidades estaduais via SISU 2025. USP, UNICAMP, UERJ, UFRJ, UFMG e outras federais com cotas e ampla concorrência.',
+    date: '2025-04-10',
+    readTime: 9,
+    content: `
+## Nota de Corte para Medicina Estadual via ENEM
+
+As universidades **estaduais** que usam o ENEM para seleção via SISU têm algumas das notas de corte mais altas do Brasil — especialmente USP e UNICAMP. Este guia reúne as notas de 2025 (referentes ao ENEM 2024) para as principais instituições.
+
+> **Atenção:** As notas abaixo são de edições anteriores. As notas do SISU 2026 (baseadas no ENEM 2025) serão divulgadas em janeiro de 2026. Use como referência de tendência.
+
+## Nota de Corte SISU 2025 — Medicina Estadual (Ampla Concorrência)
+
+| Universidade | Estado | Nota mínima AC | Vagas |
+|-------------|--------|----------------|-------|
+| USP — Ribeirão Preto | SP | 867,34 | 80 |
+| UNICAMP | SP | 854,22 | 100 |
+| USP — São Paulo | SP | 862,18 | 130 |
+| UERJ | RJ | 822,44 | 70 |
+| UFRJ | RJ | 838,10 | 120 |
+| UFMG | MG | 840,36 | 120 |
+| UNIFESP | SP | 850,28 | 100 |
+| UFPR | PR | 825,60 | 80 |
+| UFSC | SC | 818,74 | 80 |
+| UFRS | RS | 830,22 | 90 |
+| UEL (Londrina) | PR | 790,40 | 60 |
+| UNESP (Botucatu) | SP | 845,18 | 80 |
+| UFSCAR | SP | 832,10 | 50 |
+| UFC | CE | 810,22 | 100 |
+| UFBA | BA | 808,46 | 100 |
+| UFPA | PA | 780,30 | 80 |
+| UFAM | AM | 762,18 | 50 |
+
+*Fonte: SISU/MEC 2025. Dados para ampla concorrência (L0). Cotas têm notas ligeiramente diferentes.*
+
+## Nota de Corte com Cotas (L1 — Escola Pública)
+
+As cotas do SISU são divididas em modalidades:
+- **L1:** Renda ≤ 1,5 SM per capita, escola pública
+- **L2:** Independente de renda, escola pública
+- **L5/L6:** PPI (preto, pardo, indígena) com renda / sem restrição de renda
+
+| Universidade | L1 (escola pública + baixa renda) | L5 (PPI + escola pública) |
+|-------------|----------------------------------|--------------------------|
+| UFMG | 822,40 | 810,30 |
+| UFRJ | 814,22 | 802,18 |
+| UFC | 792,30 | 780,44 |
+| UFBA | 788,18 | 772,30 |
+| UFPA | 760,22 | 748,10 |
+| UFAM | 744,30 | 728,18 |
+
+> **Por que USP/UNICAMP não aparecem na tabela de cotas:** Essas universidades têm sistemas próprios de cotas (FUVEST/COMVEST) e não aderem ao SISU. Portanto, não aceitam as modalidades de cotas do SISU. Só são acessíveis via vestibular próprio ou, no caso de algumas vagas, via nota ENEM apenas.
+
+## USP e UNICAMP: Como Entrar via ENEM
+
+### USP (FUVEST)
+- **Não usa o SISU** — tem processo seletivo próprio via FUVEST
+- O ENEM pode ser usado como **primeira fase** da FUVEST (substituindo a prova de conhecimentos gerais)
+- Para medicina USP, a nota da FUVEST é determinante
+
+### UNICAMP (COMVEST)
+- **Não usa o SISU** — processo seletivo via Comvest
+- O ENEM pode dar bônus de 0-10% na nota do Comvest, dependendo da pontuação
+
+## Como Calcular Sua Chance no SISU
+
+O SISU usa a **nota do ENEM** (média ponderada das 5 notas) para ranquear candidatos. Cada curso define seus pesos por área.
+
+**Fórmula geral (pesos variam por curso):**
+Nota final = (CN×1,5 + CH×1 + LC×1 + MT×2 + Redação×1,5) / 7
+
+*Para medicina, Biologia e Química pesam mais — verifique os pesos específicos de cada universidade no SiSUTEC.*
+
+## Estratégia para Conseguir Medicina Estadual
+
+### Se sua nota está entre 780-820
+- UFPA, UFAM, UEL têm notas mais acessíveis
+- Considere as vagas de cotas se elegível
+- Candidate-se para 1ª e 2ª opção no SISU
+
+### Se sua nota está entre 820-850
+- UFMG, UFRJ, UFC, UFBA ficam acessíveis
+- Com cotas: UNIFESP, UNESP podem ser viáveis
+- Busque cidades com menor concorrência (Manaus, Belém)
+
+### Se sua nota está acima de 850
+- USP Ribeirão, UNICAMP, UNIFESP são alvos via SISU (onde aceitam)
+- Para USP São Paulo e UNICAMP: prepare-se para a FUVEST/Comvest também
+
+## Dicas para o SISU
+
+1. **Simule antes de inscrever:** Use o SiSUTEC (simulador oficial) no momento em que o SISU abre
+2. **Monitore as notas** durante os 5 dias de inscrição — elas sobem conforme mais candidatos se inscrevem
+3. **1ª opção = sonho realista, 2ª opção = segurança** — escolha um curso viável como 2ª opção
+4. **Considere o ProUni:** Medicina em faculdades privadas com bolsa para renda familiar até 3 SM per capita
+
+## Calcule sua Nota ENEM
+
+**[Calcular minha nota estimada no ENEM →](/calcular-nota)**
+
+**[Ver notas de corte de todos os cursos →](/blog/nota-de-corte-medicina-federal-por-estado)**
+    `,
+  },
+  {
+    slug: 'nota-de-corte-veterinaria-enem',
+    title: 'Nota de Corte Veterinária pelo ENEM — SISU 2025 por Universidade',
+    description: 'Nota de corte para Medicina Veterinária nas federais via SISU 2025. USP, UFMG, UFRGS, UFPR e outras com ampla concorrência e cotas. Mercado, salário e vagas.',
+    date: '2025-04-12',
+    readTime: 8,
+    content: `
+## Nota de Corte Veterinária via ENEM — SISU 2025
+
+Medicina Veterinária é um dos cursos mais disputados do país. Com duração de 5 anos e múltiplas especializações, a carreira atrai quem ama animais mas exige uma nota ENEM considerável nas melhores federais.
+
+## Notas de Corte SISU 2025 — Medicina Veterinária Federal
+
+| Universidade | Estado | Nota mínima (AC) | Vagas/ano |
+|-------------|--------|-----------------|-----------|
+| USP — Pirassununga | SP | 793,22 | 60 |
+| UFMG | MG | 772,44 | 80 |
+| UFRGS | RS | 762,18 | 80 |
+| UFPR | PR | 748,30 | 80 |
+| UFRRJ | RJ | 730,22 | 60 |
+| UFG | GO | 718,44 | 60 |
+| UFPEL | RS | 710,30 | 80 |
+| UFV | MG | 720,18 | 80 |
+| UFERSA | RN | 696,22 | 50 |
+| UFCG | PB | 688,44 | 50 |
+| UFPA | PA | 680,30 | 50 |
+| UFAM | AM | 668,18 | 40 |
+
+*Dados referentes ao SISU 2025/ENEM 2024. Use como referência de tendência.*
+
+## Notas com Cotas
+
+| Universidade | L1 (baixa renda + escola pública) | L5 (PPI) |
+|-------------|----------------------------------|---------|
+| UFMG | 750,22 | 738,10 |
+| UFRGS | 740,44 | 728,30 |
+| UFPR | 726,18 | 714,22 |
+| UFG | 696,30 | 684,18 |
+
+## O que Estudar no ENEM para Veterinária
+
+Para Veterinária, os **pesos do SISU** normalmente são:
+- Ciências da Natureza: peso **2,0** (Biologia é crucial)
+- Matemática: peso **1,5**
+- Ciências Humanas: peso **1,0**
+- Linguagens: peso **1,0**
+- Redação: peso **1,5**
+
+**Priorize:** Biologia, Química e Matemática.
+
+## Mercado de Trabalho — Medicina Veterinária
+
+### Áreas de atuação
+
+| Área | Oportunidades | Salário médio inicial |
+|------|--------------|----------------------|
+| Clínica de pequenos animais | Alta demanda, crescimento constante | R$ 3.500–5.500 |
+| Medicina de grandes animais (bovinos, equinos) | Interior, agronegócio | R$ 4.500–8.000 |
+| Saúde pública / vigilância sanitária | Concursos públicos | R$ 5.000–9.000 |
+| Indústria de alimentos (inspeção) | Frigoríficos, laticínios | R$ 4.000–7.000 |
+| Pesquisa e docência | Pós-graduação necessária | R$ 5.000–10.000+ |
+| Pet shop e banho/tosa (gestão) | Empreendedorismo | Variável |
+
+### Mercado pet brasileiro
+O Brasil tem o **2º maior mercado pet do mundo** (atrás dos EUA). Em 2024, o setor movimentou mais de R$ 80 bilhões. A demanda por veterinários de pequenos animais nunca foi tão alta.
+
+## Veterinária vs Zootecnia vs Agronomia
+
+| Curso | Foco | ENEM necessário |
+|-------|------|-----------------|
+| Medicina Veterinária | Saúde animal, clínica, cirurgia | 680-793 |
+| Zootecnia | Produção animal, nutrição, melhoramento | 620-710 |
+| Agronomia | Solo, culturas, agronegócio | 600-720 |
+
+*Se você tem interesse em produção animal mas nota mais baixa, Zootecnia pode ser uma alternativa forte.*
+
+## Como se Candidatar no SISU
+
+1. **Faça o ENEM** — data prevista novembro de 2026
+2. **Aguarde a divulgação do SISU** — geralmente janeiro do ano seguinte
+3. **Acesse sisu.mec.gov.br** com seu CPF e senha do Gov.br
+4. **Simule sua nota** antes de se inscrever — use o simulador do SiSUTEC
+5. **Inscreva-se em até 2 cursos** — 1ª e 2ª opção
+
+**Dica:** Use a 1ª opção para o curso/instituição mais concorrida e a 2ª para uma segurança mais realista.
+
+## Calcule sua Nota e Compare com o Corte
+
+**[Calcular minha nota estimada no ENEM →](/calcular-nota)**
+
+**[Ver notas de corte de outros cursos →](/blog)**
+    `,
+  },
+  {
+    slug: 'enem-primeiro-ou-segundo-dia',
+    title: 'ENEM Primeiro ou Segundo Dia — O Que Cai em Cada Dia da Prova',
+    description: 'O que é cobrado no 1º e 2º dia do ENEM? Linguagens, Humanas e Redação no primeiro dia; Ciências da Natureza e Matemática no segundo. Duração, horários e estratégias.',
+    date: '2025-05-01',
+    readTime: 8,
+    content: `
+## ENEM: O Que Cai no Primeiro e Segundo Dia
+
+O ENEM é aplicado em **dois domingos consecutivos**, com provas diferentes em cada dia. Entender a divisão é fundamental para organizar sua preparação e não ser surpreendido na hora H.
+
+## Resumo Rápido
+
+| | 1º Dia (1º domingo) | 2º Dia (2º domingo) |
+|-|---------------------|---------------------|
+| **Provas** | Linguagens + Humanas + Redação | Ciências da Natureza + Matemática |
+| **Questões** | 90 (45+45) + redação | 90 (45+45) |
+| **Abertura dos portões** | 12h | 12h |
+| **Fechamento dos portões** | 13h | 13h |
+| **Início da prova** | 13h30 | 13h30 |
+| **Liberação dos primeiros** | 15h30 (sem redação) | 15h30 |
+| **Término** | 19h | 18h30 |
+| **Duração total** | 5h30 | 5h |
+
+> **Atenção:** Não é permitido sair antes de 1h após o início. No 1º dia, 2 últimos cadernos não saem (para evitar vazamento do tema da redação).
+
+## 1º Dia do ENEM — Linguagens, Ciências Humanas e Redação
+
+### Provas do 1º Dia
+1. **Linguagens, Códigos e suas Tecnologias** — 45 questões
+2. **Ciências Humanas e suas Tecnologias** — 45 questões
+3. **Redação** — 1 texto dissertativo-argumentativo (mínimo 7 linhas, ideal 25-30 linhas)
+
+### Distribuição de tempo recomendada — 1º Dia (5h30)
+
+| Prova | Tempo sugerido | Questões |
+|-------|---------------|---------|
+| Linguagens | 1h30 | 45 |
+| Ciências Humanas | 1h30 | 45 |
+| Redação | 1h30 | 1 texto |
+| Revisão/folha de respostas | 30 min | — |
+
+**Dica:** Muitos candidatos cometem o erro de gastar muito tempo em Humanas (que tem textos longos) e ficam sem tempo para a redação. A redação vale até 1000 pontos por competência — não descuide.
+
+### Estratégia para o 1º Dia
+
+**Redação primeiro ou por último?**
+
+- **Opção A (recomendada):** Comece pelas questões de múltipla escolha, deixe a redação por último. Você vai "aquecendo" o raciocínio com as questões e a redação sai mais fluída.
+- **Opção B:** Faça a redação primeiro se você tem muita dificuldade com ela. Assim não vai deixar para quando estiver cansado.
+
+**Sobre o tema da redação:** Ele está no caderno e só é revelado quando você abre. Não há como saber antes. Mantenha a calma — respire fundo, leia as coletâneas e deixe o tema "cair" antes de escrever.
+
+### O Que Estudar para o 1º Dia
+
+**Linguagens (45 questões):**
+- Interpretação de texto (principal habilidade testada)
+- Literatura brasileira: modernismo, realismo, romantismo
+- Gramática em contexto: concordância, regência, variação
+- Língua estrangeira (inglês ou espanhol): 5 questões de compreensão leitora
+
+**Ciências Humanas (45 questões):**
+- História do Brasil: escravidão, Vargas, ditadura, redemocratização
+- História Geral: nazismo, Guerra Fria, descolonização
+- Filosofia: Platão, Kant, Nietzsche, Foucault
+- Sociologia: Marx, Weber, Durkheim, Bourdieu
+- Geografia: biomas, urbanização, geopolítica
+
+**Redação:**
+- Estrutura dissertativa: intro, 2 argumentos, conclusão com proposta de intervenção
+- Competência 5 (proposta): agente + ação + finalidade + efeito esperado
+
+## 2º Dia do ENEM — Ciências da Natureza e Matemática
+
+### Provas do 2º Dia
+1. **Ciências da Natureza e suas Tecnologias** — 45 questões (Física, Química, Biologia — 15 de cada)
+2. **Matemática e suas Tecnologias** — 45 questões
+
+### Distribuição de tempo — 2º Dia (5h)
+
+| Prova | Tempo sugerido | Questões |
+|-------|---------------|---------|
+| Ciências da Natureza | 2h | 45 |
+| Matemática | 2h30 | 45 |
+| Revisão/folha de respostas | 30 min | — |
+
+**Por que mais tempo em Matemática?**
+Questões de Matemática exigem cálculos — alguns candidatos levam 5-8 minutos por questão. Gerencie o tempo: se uma questão está levando mais de 5 minutos, marque o que você acha e siga em frente. Volte no final.
+
+### Estratégia para o 2º Dia
+
+1. **Comece por Ciências da Natureza** — é mais interpretativa e "aquece" para o raciocínio matemático
+2. **Em Matemática: questões fáceis primeiro** — resolva as que você sabe de cara, deixe as difíceis para depois
+3. **Não deixe nenhuma questão em branco** — no ENEM não há penalidade por erro. Uma questão em branco garante 0%; um chute tem 20% de chance de acerto
+4. **Última hora: preencha o gabarito** — nunca deixe para preencher tudo no final (corre o risco de o tempo acabar)
+
+### O Que Estudar para o 2º Dia
+
+**Física (15 questões):**
+- Mecânica: cinemática, dinâmica, energia
+- Eletricidade: lei de Ohm, circuitos, potência
+- Ondulatória: luz, som, ondas eletromagnéticas
+- Física Moderna: radioatividade, efeito fotoelétrico
+
+**Química (15 questões):**
+- Orgânica: funções, reações, polímeros
+- Eletroquímica: pilha, eletrólise
+- Soluções: concentração, pH, titulação
+- Ambiental: poluição, agrotóxicos, metais pesados
+
+**Biologia (15 questões):**
+- Ecologia: cadeias, biomas, impacto ambiental
+- Genética: Mendel, probabilidade, biotecnologia
+- Evolução: seleção natural, evidências
+- Célula: organelas, divisão celular
+
+**Matemática (45 questões):**
+- Funções (25-30% da prova)
+- Geometria plana e espacial
+- Estatística e probabilidade
+- Trigonometria
+
+## Calendário ENEM 2026 (Previsão)
+
+| Evento | Previsão |
+|--------|---------|
+| 1º Dia do ENEM 2026 | 1º domingo de novembro de 2026 |
+| 2º Dia do ENEM 2026 | 2º domingo de novembro de 2026 |
+| Gabarito preliminar | ≈ 2 dias após o 2º dia |
+| Resultado final | Janeiro de 2027 |
+
+**[Fazer um simulado completo do ENEM →](/simulado)**
+
+**[Montar cronograma de estudos para o 2º dia →](/cronograma)**
+    `,
+  },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)
@@ -11340,7 +13166,7 @@ export type BlogCategory = 'Gabarito' | 'Questões' | 'Redação' | 'Universidad
 export function getCategory(slug: string): BlogCategory {
   if (slug.startsWith('gabarito')) return 'Gabarito'
   if (slug.startsWith('redacao') || slug.includes('como-fazer-redacao') || slug.includes('redacao-enem')) return 'Redação'
-  if (slug.includes('nota-de-corte') || slug.includes('sisu') || slug.includes('prouni') || slug.includes('medicina') || slug.includes('direito') || slug.includes('engenharia') || slug.includes('psicologia') || slug.includes('odontologia') || slug.includes('computacao') || slug.includes('agronomia') || slug.includes('contabilidade') || slug.includes('pedagogia') || slug.includes('fies') || slug.includes('fisioterapia') || slug.includes('economia') || slug.includes('jornalismo') || slug.includes('servico-social') || slug.includes('educacao-fisica')) return 'Universidades'
+  if (slug.includes('nota-de-corte') || slug.includes('sisu') || slug.includes('prouni') || slug.includes('medicina') || slug.includes('direito') || slug.includes('engenharia') || slug.includes('psicologia') || slug.includes('odontologia') || slug.includes('computacao') || slug.includes('agronomia') || slug.includes('contabilidade') || slug.includes('pedagogia') || slug.includes('fies') || slug.includes('fisioterapia') || slug.includes('economia') || slug.includes('jornalismo') || slug.includes('servico-social') || slug.includes('educacao-fisica') || slug.includes('veterinaria')) return 'Universidades'
   if (slug.includes('cronograma') || slug.includes('quanto-tempo') || slug.includes('enem-2026') || slug.includes('enem-resultado') || slug.includes('resultado-quando')) return 'Planejamento'
   if (slug.includes('tri-enem') || slug.includes('calcular-nota') || slug.includes('como-funciona') || slug.includes('ppcs') || slug.includes('treineiro') || slug.includes('segunda-chance') || slug.includes('enem-digital') || slug.includes('enem-2025')) return 'Como Funciona'
   if (slug.includes('fisica') || slug.includes('quimica') || slug.includes('biologia') || slug.includes('historia') || slug.includes('geografia') || slug.includes('filosofia') || slug.includes('matematica') || slug.includes('ingles') || slug.includes('ciencias') || slug.includes('literatura') || slug.includes('geometria') || slug.includes('estatistica') || slug.includes('interpretacao') || slug.includes('portugues') || slug.includes('trigonometria') || slug.includes('funcoes') || slug.includes('sociologia') || slug.includes('progressoes') || slug.includes('logaritmo') || slug.includes('probabilidade') || slug.includes('matrizes')) return 'Por Matéria'

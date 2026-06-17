@@ -8,7 +8,7 @@ export interface DripEmailData {
 export function getDripEmail(data: DripEmailData): { subject: string; html: string } | null {
   const firstName = data.name?.split(' ')[0] || 'Estudante'
   const enemDays = Math.ceil((new Date('2026-10-26').getTime() - Date.now()) / 86400000)
-  const url = process.env.NEXT_PUBLIC_SITE_URL || 'https://enem-pro-eight.vercel.app'
+  const url = process.env.NEXT_PUBLIC_SITE_URL || 'https://questoesenem.pro'
 
   const base = `font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;color:#18181b;max-width:560px;margin:0 auto;padding:40px 24px`
   const btn = `display:inline-block;background:#4f46e5;color:#fff;padding:14px 28px;border-radius:12px;text-decoration:none;font-weight:600;font-size:15px;margin:20px 0`
