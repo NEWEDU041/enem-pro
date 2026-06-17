@@ -12,6 +12,7 @@ export default function PushSubscribeButton() {
 
   useEffect(() => {
     if ('Notification' in window && 'serviceWorker' in navigator) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect -- syncs React state with browser Notification/localStorage APIs
       setSupported(true)
       setGranted(Notification.permission === 'granted')
       setScheduled(!!localStorage.getItem('enem_push_enabled'))

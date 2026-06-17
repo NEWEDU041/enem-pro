@@ -33,7 +33,7 @@ export async function POST(request: NextRequest) {
 
     const currentCount = usage?.count || 0
 
-    if (currentCount >= FREE_DAILY_LIMIT) { // eslint-disable-line
+    if (currentCount >= FREE_DAILY_LIMIT) {
       return NextResponse.json(
         { error: 'Limite diário atingido', limitReached: true },
         { status: 403 }

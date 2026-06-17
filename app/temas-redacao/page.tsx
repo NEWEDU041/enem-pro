@@ -106,12 +106,12 @@ export default function TemasRedacaoPage() {
               <div className="text-indigo-200">Mulheres, negros, surdos, imigrantes, povos tradicionais — 9 de 16 temas envolvem minorias.</div>
             </div>
             <div className="bg-white/10 rounded-xl p-4">
-              <div className="font-semibold mb-1">Sempre começa com "Desafios"</div>
-              <div className="text-indigo-200">6 temas recentes começam com "Desafios para...". Provável em 2026 também.</div>
+              <div className="font-semibold mb-1">Sempre começa com &ldquo;Desafios&rdquo;</div>
+              <div className="text-indigo-200">6 temas recentes começam com &ldquo;Desafios para...&rdquo;. Provável em 2026 também.</div>
             </div>
             <div className="bg-white/10 rounded-xl p-4">
               <div className="font-semibold mb-1">Foco em Brasil</div>
-              <div className="text-indigo-200">Quase todo tema termina em "...no Brasil". O contexto é sempre nacional, nunca genérico.</div>
+              <div className="text-indigo-200">Quase todo tema termina em &ldquo;...no Brasil&rdquo;. O contexto é sempre nacional, nunca genérico.</div>
             </div>
           </div>
         </div>

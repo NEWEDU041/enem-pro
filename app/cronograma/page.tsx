@@ -5,13 +5,6 @@ import Link from 'next/link'
 import { DISCIPLINES } from '@/lib/enem-api'
 import { ENEM_DATE, daysUntil } from '@/lib/utils'
 
-const DISC_SLUG: Record<string, string> = {
-  'Matemática': 'matematica',
-  'Linguagens, Códigos e suas Tecnologias': 'linguagens',
-  'Ciências Humanas e suas Tecnologias': 'ciencias-humanas',
-  'Ciências da Natureza e suas Tecnologias': 'ciencias-natureza',
-}
-
 const DISC_SHORT: Record<string, string> = {
   'Matemática': 'Matemática',
   'Linguagens, Códigos e suas Tecnologias': 'Linguagens',
@@ -126,6 +119,7 @@ function CronogramaContent() {
     try {
       const saved = JSON.parse(localStorage.getItem('enem_cronograma') || 'null')
       if (saved) {
+        // eslint-disable-next-line react-hooks/set-state-in-effect -- syncs React state with localStorage, an external system
         setSelectedDays(saved.selectedDays || [1,2,3,4,5])
         setSessionsPerDay(saved.sessionsPerDay || 2)
         setPriorities(saved.priorities || {})
@@ -266,7 +260,6 @@ function CronogramaContent() {
                   <div className="space-y-2">
                     {dayPlan.sessions.map((s, i) => {
                       const short = DISC_SHORT[s.disc] || s.disc
-                      const slug = DISC_SLUG[s.disc]
                       return (
                         <div key={i} className="flex items-start gap-2">
                           <span className="shrink-0 w-5 h-5 rounded-full bg-indigo-100 text-indigo-700 text-xs font-bold flex items-center justify-center mt-0.5">{i + 1}</span>

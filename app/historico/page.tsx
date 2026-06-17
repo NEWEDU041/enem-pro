@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useState, Suspense } from 'react'
+import { useEffect, useMemo, useState, Suspense } from 'react'
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
@@ -22,7 +22,6 @@ type Filter = 'all' | 'correct' | 'wrong'
 function HistoricoContent() {
   const router = useRouter()
   const [answers, setAnswers] = useState<AnswerRow[]>([])
-  const [filtered, setFiltered] = useState<AnswerRow[]>([])
   const [filter, setFilter] = useState<Filter>('all')
   const [discipline, setDiscipline] = useState('')
   const [year, setYear] = useState('')
@@ -48,15 +47,14 @@ function HistoricoContent() {
     load()
   }, [router])
 
-  useEffect(() => {
+  const filtered = useMemo(() => {
     let res = answers
     if (filter === 'correct') res = res.filter((a) => a.is_correct)
     if (filter === 'wrong') res = res.filter((a) => !a.is_correct)
     if (discipline) res = res.filter((a) => a.discipline.includes(discipline))
     if (year) res = res.filter((a) => String(a.year) === year)
-    setFiltered(res)
-    setPage(1)
-  }, [filter, discipline, year, answers])
+    return res
+  }, [answers, filter, discipline, year])
 
   const paginated = filtered.slice((page - 1) * PER_PAGE, page * PER_PAGE)
   const totalPages = Math.ceil(filtered.length / PER_PAGE)
@@ -111,7 +109,7 @@ function HistoricoContent() {
               {(['all', 'correct', 'wrong'] as const).map((f) => (
                 <button
                   key={f}
-                  onClick={() => setFilter(f)}
+                  onClick={() => { setFilter(f); setPage(1) }}
                   className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition-colors ${filter === f ? 'bg-indigo-600 text-white' : 'bg-zinc-100 text-zinc-600 hover:bg-zinc-200'}`}
                 >
                   {f === 'all' ? 'Todas' : f === 'correct' ? 'Acertos' : 'Erros'}
@@ -125,7 +123,7 @@ function HistoricoContent() {
             <label className="block text-xs font-medium text-zinc-600 mb-1">Disciplina</label>
             <select
               value={discipline}
-              onChange={(e) => setDiscipline(e.target.value)}
+              onChange={(e) => { setDiscipline(e.target.value); setPage(1) }}
               className="border border-zinc-300 rounded-lg px-3 py-1.5 text-xs focus:outline-none focus:ring-2 focus:ring-indigo-500"
             >
               <option value="">Todas</option>
@@ -140,7 +138,7 @@ function HistoricoContent() {
             <label className="block text-xs font-medium text-zinc-600 mb-1">Ano</label>
             <select
               value={year}
-              onChange={(e) => setYear(e.target.value)}
+              onChange={(e) => { setYear(e.target.value); setPage(1) }}
               className="border border-zinc-300 rounded-lg px-3 py-1.5 text-xs focus:outline-none focus:ring-2 focus:ring-indigo-500"
             >
               <option value="">Todos</option>
@@ -152,7 +150,7 @@ function HistoricoContent() {
 
           {(filter !== 'all' || discipline || year) && (
             <button
-              onClick={() => { setFilter('all'); setDiscipline(''); setYear('') }}
+              onClick={() => { setFilter('all'); setDiscipline(''); setYear(''); setPage(1) }}
               className="text-xs text-zinc-400 hover:text-zinc-700 underline ml-auto"
             >
               Limpar filtros

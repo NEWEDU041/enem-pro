@@ -75,7 +75,7 @@ export default function SimuladoPage() {
   // Timer
   const [timeLeft, setTimeLeft] = useState(0)
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null)
-  const questionStartRef = useRef<number>(Date.now())
+  const questionStartRef = useRef<number>(0)
 
   // Finished state
   const [finalAnswers, setFinalAnswers] = useState<Answer[]>([])
@@ -194,6 +194,7 @@ export default function SimuladoPage() {
   // Auto-save when finished
   useEffect(() => {
     if (state === 'finished' && finalAnswers.length > 0) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect -- saveResults persists to API, setSaving is incidental
       saveResults(finalAnswers)
     }
   }, [state]) // eslint-disable-line react-hooks/exhaustive-deps

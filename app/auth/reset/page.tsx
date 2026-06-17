@@ -24,6 +24,7 @@ function ResetContent() {
     })
     // Handle hash-based tokens (Supabase magic link style)
     const hash = window.location.hash
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- syncs React state with the browser URL hash set by Supabase's redirect
     if (hash.includes('access_token')) setReady(true)
   }, [searchParams])
 

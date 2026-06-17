@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useState, Suspense } from 'react'
+import { useEffect, useMemo, useState, Suspense } from 'react'
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
@@ -19,7 +19,6 @@ type WrongAnswer = {
 function RevisaoContent() {
   const router = useRouter()
   const [answers, setAnswers] = useState<WrongAnswer[]>([])
-  const [filtered, setFiltered] = useState<WrongAnswer[]>([])
   const [discipline, setDiscipline] = useState('')
   const [loading, setLoading] = useState(true)
   const [page, setPage] = useState(1)
@@ -47,20 +46,15 @@ function RevisaoContent() {
         return true
       })
       setAnswers(deduped)
-      setFiltered(deduped)
       setLoading(false)
     }
     load()
   }, [router])
 
-  useEffect(() => {
-    if (!discipline) {
-      setFiltered(answers)
-    } else {
-      setFiltered(answers.filter((a) => a.discipline.includes(discipline)))
-    }
-    setPage(1)
-  }, [discipline, answers])
+  const filtered = useMemo(
+    () => (discipline ? answers.filter((a) => a.discipline.includes(discipline)) : answers),
+    [answers, discipline]
+  )
 
   const paginated = filtered.slice((page - 1) * PER_PAGE, page * PER_PAGE)
   const totalPages = Math.ceil(filtered.length / PER_PAGE)
@@ -109,7 +103,7 @@ function RevisaoContent() {
             {/* Breakdown por disciplina */}
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-8">
               <button
-                onClick={() => setDiscipline('')}
+                onClick={() => { setDiscipline(''); setPage(1) }}
                 className={`rounded-xl border p-4 text-left transition-all ${!discipline ? 'border-indigo-400 bg-indigo-50' : 'border-zinc-200 bg-white hover:border-indigo-300'}`}
               >
                 <div className="text-xl font-bold text-zinc-900">{answers.length}</div>
@@ -121,7 +115,7 @@ function RevisaoContent() {
                 return (
                   <button
                     key={d}
-                    onClick={() => setDiscipline(d)}
+                    onClick={() => { setDiscipline(d); setPage(1) }}
                     className={`rounded-xl border p-4 text-left transition-all ${discipline === d ? 'border-indigo-400 bg-indigo-50' : 'border-zinc-200 bg-white hover:border-indigo-300'}`}
                   >
                     <div className={`text-xl font-bold ${count === 0 ? 'text-zinc-300' : count > 10 ? 'text-red-600' : 'text-amber-600'}`}>{count}</div>

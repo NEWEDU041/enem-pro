@@ -38,6 +38,7 @@ export default function AdminPage() {
   }, [secret])
 
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- loadStats fetches and syncs admin stats, the documented data-fetching effect pattern
     if (authed) loadStats()
   }, [authed, loadStats])
 
