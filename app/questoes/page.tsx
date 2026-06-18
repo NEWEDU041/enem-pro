@@ -6,10 +6,19 @@ import { useSearchParams } from 'next/navigation'
 import { Question } from '@/lib/types'
 import { YEARS, DISCIPLINES } from '@/lib/enem-api'
 
+const SLUG_TO_DISCIPLINE: Record<string, string> = {
+  'matematica': 'Matemática',
+  'linguagens': 'Linguagens, Códigos e suas Tecnologias',
+  'ciencias-humanas': 'Ciências Humanas e suas Tecnologias',
+  'ciencias-natureza': 'Ciências da Natureza e suas Tecnologias',
+  'ciencias-da-natureza': 'Ciências da Natureza e suas Tecnologias',
+}
+
 function QuestoesContent() {
   const params = useSearchParams()
   const [year, setYear] = useState(params.get('year') || '2023')
-  const [discipline, setDiscipline] = useState(params.get('discipline') || 'Matemática')
+  const rawDisc = params.get('discipline') || params.get('disciplina') || ''
+  const [discipline, setDiscipline] = useState((SLUG_TO_DISCIPLINE[rawDisc] ?? rawDisc) || 'Matemática')
   const [questions, setQuestions] = useState<Question[]>([])
   const [total, setTotal] = useState(0)
   const [page, setPage] = useState(1)
