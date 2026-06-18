@@ -12603,9 +12603,9 @@ Bombardeou folha de ouro com partículas α. A maioria passou (átomo é "vazio"
     `,
   },
   {
-    slug: 'como-estudar-ciencias-humanas-enem',
-    title: 'Como Estudar Ciências Humanas para o ENEM — Guia Completo 2026',
-    description: 'Como estudar Ciências Humanas para o ENEM em 2026. Estratégias para História, Geografia, Filosofia e Sociologia com cronograma, dicas de memorização e o que mais cai.',
+    slug: 'ciencias-humanas-enem-guia-avancado',
+    title: 'Ciências Humanas ENEM — Guia Avançado para Nota 700+',
+    description: 'Estratégia avançada de Ciências Humanas para o ENEM. Como ir de 600 para 700+ em História, Geografia, Filosofia e Sociologia com as técnicas que os melhores candidatos usam.',
     date: '2025-03-10',
     readTime: 11,
     content: `
@@ -13794,7 +13794,497 @@ Fuga total do tema, texto em branco, texto sem formato dissertativo-argumentativ
   },
 ]
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12]
+const EXTRA_POSTS_13: BlogPost[] = [
+  {
+    slug: 'quando-sai-resultado-enem',
+    title: 'Quando Sai o Resultado do ENEM 2025 — Datas e Como Consultar',
+    description: 'Quando o resultado do ENEM 2025 é divulgado, como consultar pelo CPF, o que significa cada nota e o que fazer assim que o resultado sair.',
+    date: '2026-06-17',
+    readTime: 5,
+    content: `
+O resultado do ENEM é o momento mais esperado por milhões de candidatos. Entender quando sai, onde consultar e o que fazer com as notas é essencial para aproveitar cada oportunidade.
+
+## Quando Sai o Resultado do ENEM 2025
+
+O resultado individual do ENEM 2025 foi divulgado em **janeiro de 2026** pelo INEP. O prazo exato varia por edição, mas historicamente:
+
+| Edição | Data do Resultado |
+|--------|-----------------|
+| ENEM 2024 | Janeiro de 2025 |
+| ENEM 2023 | Fevereiro de 2024 |
+| ENEM 2022 | Fevereiro de 2023 |
+| ENEM 2021 | Fevereiro de 2022 |
+
+**Sempre confirme a data exata no portal oficial do INEP (enem.inep.gov.br).** As datas podem variar alguns dias entre edições.
+
+## Como Consultar o Resultado do ENEM
+
+1. Acesse o site oficial: **enem.inep.gov.br**
+2. Clique em "Resultado Individual"
+3. Informe seu CPF e senha cadastrada no Página do Participante
+4. Baixe o boletim de desempenho em PDF
+
+O boletim mostra as 5 notas: Linguagens, Ciências Humanas, Ciências da Natureza, Matemática e Redação.
+
+## O que Cada Nota Significa
+
+A nota do ENEM vai de 0 a 1000 em cada área. A escala não é linear — ela usa a TRI (Teoria de Resposta ao Item):
+
+| Faixa de Nota | Desempenho |
+|--------------|------------|
+| Abaixo de 450 | Abaixo da média |
+| 450–550 | Médio — acesso a cursos menos concorridos |
+| 550–650 | Bom — competitivo para a maioria das federais |
+| 650–750 | Muito bom — cursos de alta demanda |
+| 750–850 | Excelente — Medicina, Direito nas melhores federais |
+| 850+ | Elite — topo do SISU |
+
+## O que Fazer Assim que o Resultado Sair
+
+**Se a nota foi boa:**
+1. Acesse o SISU (sisu.mec.gov.br) — inscrições geralmente abrem dias após o resultado
+2. Compare sua nota com os cortes históricos dos cursos de interesse
+3. Pesquise também ProUni (bolsas em universidades privadas) e FIES (financiamento)
+
+**Se a nota não foi a esperada:**
+1. Analise por área: onde errou mais? Essa é a lacuna a resolver
+2. Você pode usar a nota atual para tentar cursos menos concorridos
+3. Ou aguardar o próximo ENEM com foco nas áreas mais fracas
+
+## Quando Abre o SISU Após o Resultado
+
+O SISU geralmente abre de 3 a 7 dias após a divulgação do resultado do ENEM. No SISU, você tem 4 dias para se inscrever em até 2 opções de curso. Monitore as notas de corte diariamente durante esse período.
+
+## Perguntas Frequentes
+
+### Quando sai o resultado do ENEM 2025?
+O resultado do ENEM 2025 foi divulgado em janeiro de 2026 pelo INEP. A data exata é publicada no calendário oficial do INEP com antecedência.
+
+### Como consultar minha nota do ENEM pelo CPF?
+Acesse enem.inep.gov.br, vá em "Resultado Individual" e faça login com seu CPF e senha da Página do Participante. O boletim de desempenho fica disponível para download em PDF.
+
+### Posso usar a nota do ENEM de anos anteriores?
+Sim. Não existe prazo de validade para a nota do ENEM — você pode usar notas de qualquer edição anterior para o SISU, ProUni e FIES, desde que escolha a melhor nota de cada área.
+
+### O resultado do ENEM vem por e-mail?
+O INEP não envia o resultado por e-mail automaticamente. Você precisa acessar o site oficial para consultar. Alguns sites terceiros oferecem alertas, mas o documento oficial é apenas o boletim do INEP.
+    `,
+  },
+  {
+    slug: 'sisu-como-funciona',
+    title: 'SISU — Como Funciona, Inscrição e Como Calcular Suas Chances',
+    description: 'Como funciona o SISU, quando abre a inscrição, como calcular a nota de corte e estratégias para maximizar suas chances de aprovação nas federais.',
+    date: '2026-06-17',
+    readTime: 7,
+    content: `
+O SISU (Sistema de Seleção Unificada) é a porta de entrada para mais de 230 universidades públicas federais e estaduais no Brasil. Entender como ele funciona pode fazer diferença entre passar e não passar no curso que você quer.
+
+## O que é o SISU
+
+O SISU usa a nota do ENEM para selecionar candidatos para vagas em instituições públicas de ensino superior. Você não faz prova no SISU — apenas se inscreve com sua nota do ENEM e concorre às vagas disponíveis.
+
+**Quem pode se inscrever:**
+- Quem fez o ENEM em qualquer edição (sem prazo de validade)
+- Nota de redação diferente de zero
+- Não ter graduação em instituição pública (em alguns casos há exceções)
+
+## Como Funciona o SISU na Prática
+
+**Período de inscrição:** 4 dias (geralmente em janeiro, logo após o resultado do ENEM)
+
+**Opções:** Você pode escolher até **2 opções** de curso/instituição/turno
+
+**Modalidade de concorrência:** Ampla concorrência ou cotas (L1, L2, L5, etc. — conforme política de cada instituição)
+
+**Nota de corte:** Não é fixa — varia diariamente conforme os candidatos inscritos. A nota final que garante vaga é calculada **após o encerramento das inscrições**.
+
+## Estratégia: 1ª e 2ª Opção
+
+A escolha das opções é estratégica:
+
+**1ª opção (curso mais concorrido):** Coloque o curso que você realmente quer, mesmo que a nota seja desafiadora. Se passar, ótimo.
+
+**2ª opção (opção segura):** Escolha um curso onde você tem alta probabilidade de aprovação — mesmo que não seja o preferido. É sua rede de segurança.
+
+O SISU oferece uma lista de espera para quem não passou na 1ª chamada. Monitore o processo de matrícula — desistências de chamadas anteriores liberam vagas.
+
+## Como Calcular Suas Chances no SISU
+
+1. Acesse o site do SISU (sisu.mec.gov.br) durante o período de inscrição
+2. Selecione o curso e a instituição de interesse
+3. O sistema mostra a nota de corte em tempo real e a posição atual
+
+**Referência histórica:** sites como Quero Bolsa e Educação UOL publicam os cortes de edições anteriores — use como base para estimar.
+
+## Pesos das Notas no SISU
+
+Cada curso pode aplicar pesos diferentes por área do ENEM. Exemplos típicos:
+
+| Curso | Peso Maior |
+|-------|-----------|
+| Medicina / Biomedicina | Ciências da Natureza |
+| Direito / Ciências Sociais | Ciências Humanas |
+| Engenharia | Matemática |
+| Letras / Pedagogia | Linguagens |
+| Geral | Igual para todas as áreas |
+
+Verifique os pesos específicos no edital de cada curso no SISU.
+
+## ProUni e FIES — Alternativas ao SISU
+
+Se o SISU não der certo, existem outras opções com nota do ENEM:
+
+**ProUni:** Bolsas de 50% ou 100% em universidades privadas. Renda familiar per capita de até 1,5 salário mínimo para bolsa integral.
+
+**FIES:** Financiamento estudantil para pagar as mensalidades. Ampliado para mais candidatos nas últimas edições.
+
+## Perguntas Frequentes
+
+### Quando abre a inscrição do SISU 2026?
+O SISU 2026 abrirá em janeiro de 2026, logo após a divulgação do resultado do ENEM 2025. O período de inscrição dura 4 dias. Acompanhe o site sisu.mec.gov.br para as datas exatas.
+
+### Posso usar nota do ENEM de anos anteriores no SISU?
+Sim. Não há prazo de validade para a nota do ENEM no SISU. Você pode usar a nota de qualquer edição. Se fez o ENEM em anos diferentes, pode escolher as melhores notas de cada área de edições diferentes (desde que permitido pelo edital da edição vigente do SISU).
+
+### O que é a nota de corte no SISU e como ela muda?
+A nota de corte é a menor nota aprovada para uma vaga. Durante os 4 dias de inscrição, ela varia diariamente conforme candidatos entram e saem. A nota de corte final só é definida após o encerramento das inscrições.
+
+### Quantas opções posso colocar no SISU?
+Você pode colocar até 2 opções (curso + instituição + turno + modalidade de concorrência). Não existe limite de troca durante o período de inscrição — você pode mudar suas opções quantas vezes quiser antes do encerramento.
+    `,
+  },
+  {
+    slug: 'enem-treineiro',
+    title: 'ENEM Treineiro — O Que É, Quem Pode Fazer e Como se Preparar',
+    description: 'O ENEM Treineiro é a opção para quem ainda não terminou o ensino médio. Saiba quem pode participar, como se inscrever e se a nota conta para o SISU.',
+    date: '2026-06-17',
+    readTime: 5,
+    content: `
+O ENEM Treineiro permite que estudantes que ainda estão cursando o ensino médio façam o ENEM como treino — sem que a nota seja usada para ingressar em universidades públicas. É uma forma valiosa de antecipar a experiência da prova.
+
+## O que é o ENEM Treineiro
+
+O ENEM Treineiro é uma modalidade do ENEM destinada a candidatos que:
+- Estão cursando o ensino médio (não concluíram ainda)
+- Querem fazer a prova como experiência, sem comprometer a nota do ENEM regular
+
+**Importante:** A nota do ENEM Treineiro **não** é usada para:
+- SISU (vagas em federais)
+- ProUni
+- FIES
+
+É exclusivamente para experiência e autoavaliação.
+
+## Quem Pode Fazer o ENEM Treineiro
+
+Você pode participar como treineiro se:
+- Está cursando o **1º ou 2º ano do ensino médio** e tem pelo menos 13 anos de idade
+- Está no **3º ano** mas ainda não concluiu
+
+Quem está no 3º ano e vai concluir o ensino médio no ano da prova faz o ENEM regular, não o treineiro.
+
+## Por que Fazer o ENEM Treineiro
+
+**1. Experiência real de prova:** O ambiente, o caderno, o tempo — tudo igual ao ENEM regular. Candidatos que fizeram como treineiro relatam que ficam muito mais seguros na prova de verdade.
+
+**2. Diagnóstico de desempenho:** O INEP envia o boletim de desempenho. Você descobre exatamente onde está em cada área — anos antes de precisar da nota.
+
+**3. Identificar lacunas com tempo:** Se você está no 2º ano e descobre que sua nota de Matemática é 450, tem mais de 1 ano para trabalhar nessa defasagem.
+
+**4. Sem pressão:** A nota não afeta nada. Você pode testar estratégias, ver como reage ao tempo da prova e treinar o gerenciamento emocional.
+
+## Como se Inscrever no ENEM Treineiro
+
+O processo de inscrição é o mesmo do ENEM regular:
+
+1. Acesse **enem.inep.gov.br**
+2. No momento da inscrição, selecione a opção "Já estou cursando o Ensino Médio"
+3. Informe o ano que está cursando
+4. O sistema automaticamente classifica você como treineiro
+
+O período de inscrição coincide com o do ENEM regular.
+
+## A Nota do Treineiro Aparece Para Faculdades?
+
+Não. A nota do ENEM Treineiro é separada do ENEM regular e não entra nos sistemas de seleção (SISU, ProUni, FIES). Apenas você e suas instituições educacionais têm acesso ao boletim.
+
+## Estratégia: Como Usar o Treineiro Para Maximizar o ENEM Regular
+
+1. **Faça sério:** Trate como se fosse a prova de verdade — cronometrado, sem pausas
+2. **Analise o boletim:** Anote nota por área e compare com as médias nacionais
+3. **Monte um plano:** Use os resultados para priorizar o estudo nos anos seguintes
+4. **Repita:** Se tiver a oportunidade de fazer mais de uma vez como treineiro, faça
+
+## Perguntas Frequentes
+
+### A nota do ENEM Treineiro vale para a faculdade?
+Não. A nota do treineiro não é válida para SISU, ProUni ou FIES. Serve apenas como experiência e diagnóstico de desempenho.
+
+### Estudantes do 3º ano fazem ENEM Treineiro ou Regular?
+Estudantes no último ano do ensino médio fazem o ENEM Regular, não o Treineiro — mesmo que ainda não tenham concluído. Quem está no 1º ou 2º ano faz o Treineiro.
+
+### O ENEM Treineiro tem prova diferente do ENEM Regular?
+Não. A prova é exatamente a mesma — mesmo caderno, mesmas questões, mesmo tempo. A diferença está apenas no uso que pode ser feito da nota.
+
+### Devo fazer o ENEM Treineiro no 1º, 2º ou 3º ano?
+Idealmente, no 2º ano — quando você já tem conteúdo suficiente para uma performance diagnóstica útil e ainda tem 1 ano+ para corrigir defasagens antes do ENEM regular.
+    `,
+  },
+  {
+    slug: 'prouni-como-funciona',
+    title: 'ProUni — Como Funciona, Quem Tem Direito e Como se Inscrever',
+    description: 'Como funciona o ProUni, os critérios para bolsa integral e parcial, como se inscrever e as principais dúvidas sobre o Programa Universidade para Todos.',
+    date: '2026-06-17',
+    readTime: 6,
+    content: `
+O ProUni (Programa Universidade para Todos) oferece bolsas de estudo integrais (100%) e parciais (50%) em instituições privadas de ensino superior para estudantes de baixa renda que fizeram o ENEM.
+
+## O que é o ProUni
+
+O ProUni é um programa do governo federal que usa a nota do ENEM para selecionar candidatos a bolsas em universidades e faculdades privadas conveniadas. As bolsas são custeadas pelo governo em troca de isenção fiscal para as instituições.
+
+**Tipos de bolsa:**
+- **Bolsa integral (100%):** para renda familiar per capita de até **1,5 salário mínimo**
+- **Bolsa parcial (50%):** para renda familiar per capita de até **3 salários mínimos**
+
+## Quem Pode Participar do ProUni
+
+Para se candidatar ao ProUni, você precisa:
+
+1. **Ter feito o ENEM** em qualquer edição (com nota na redação diferente de zero)
+2. **Não ter diploma de graduação** (exceto para professores da rede pública)
+3. **Ter cursado ensino médio completo em escola pública**, ou ter estudado em escola particular com bolsa integral
+4. **Cumprir os critérios de renda** para o tipo de bolsa desejada
+
+Candidatos com deficiência ou professores da rede pública têm regras específicas — consulte o edital.
+
+## Como Funciona a Nota Mínima no ProUni
+
+O ProUni exige nota mínima de **450 pontos** em cada área do ENEM (exceto redação) e **nota diferente de zero na redação**. Essa é a nota para poder concorrer — a nota de corte real de cada curso é definida pela concorrência.
+
+## Quando Abre o ProUni
+
+O ProUni geralmente abre **junto com o SISU**, em janeiro, logo após o resultado do ENEM. O período de inscrição dura em média 4 a 7 dias.
+
+**Calendário típico:**
+1. Resultado do ENEM → Janeiro
+2. SISU + ProUni → Logo em seguida (mesma semana ou seguinte)
+3. 1ª chamada → 1–2 semanas após inscrições
+4. Lista de espera → Após a 1ª chamada
+
+## Como se Inscrever no ProUni
+
+1. Acesse **prouni.mec.gov.br**
+2. Faça login com seu CPF e senha do ENEM
+3. Busque cursos disponíveis com bolsa
+4. Selecione até **2 opções** de curso/instituição/turno/tipo de bolsa
+5. Confirme a inscrição
+
+Após a chamada, se selecionado, você deve comprovar a renda e os demais critérios na instituição.
+
+## ProUni vs SISU — Qual Escolher
+
+| Critério | ProUni | SISU |
+|---------|--------|------|
+| Tipo de instituição | Privada | Pública |
+| Mensalidade | Bolsa (0 a 50%) | Gratuita |
+| Critério de renda | Sim (obrigatório) | Não |
+| Opções por inscrição | 2 | 2 |
+| Nota mínima | 450 + redação ≠ 0 | Depende do curso |
+
+Muitos candidatos se inscrevem em ambos simultaneamente — não há impedimento. Se aprovado nos dois, escolhe um.
+
+## Perguntas Frequentes
+
+### Qual a renda para ter direito ao ProUni?
+Para bolsa integral (100%), a renda familiar bruta per capita deve ser de até 1,5 salário mínimo. Para bolsa parcial (50%), até 3 salários mínimos. O cálculo é renda total da família dividida pelo número de pessoas na residência.
+
+### Posso usar nota do ENEM de anos anteriores no ProUni?
+Sim. Não há prazo de validade para a nota do ENEM no ProUni. Você pode usar notas de qualquer edição anterior.
+
+### Quem estudou em escola particular pode usar o ProUni?
+Sim, desde que tenha cursado o ensino médio com bolsa integral em escola particular, ou que parte do ensino médio tenha sido feito em escola pública. Veja os critérios exatos no edital do ProUni.
+
+### O que acontece se eu abandonar o curso após pegar uma bolsa ProUni?
+Se abandonar sem justificativa, pode perder a bolsa e ser impedido de receber novamente. Existem regras sobre frequência mínima e rendimento acadêmico que devem ser mantidas para conservar a bolsa.
+    `,
+  },
+  {
+    slug: 'como-estudar-sociologia-enem',
+    title: 'Como Estudar Sociologia para o ENEM — Clássicos, Temas e Questões',
+    description: 'Como estudar Sociologia para o ENEM: os 3 clássicos que sempre caem (Marx, Durkheim, Weber), os temas contemporâneos e como responder questões de interpretação.',
+    date: '2026-06-17',
+    readTime: 7,
+    content: `
+Sociologia representa cerca de 8–10 questões na prova de Ciências Humanas do ENEM. Muitos candidatos subestimam a disciplina — e perdem pontos que poderiam ser garantidos com 4 a 6 semanas de estudo focado.
+
+## O que o ENEM Cobra em Sociologia
+
+O ENEM avalia competências, não decoreba. Para Sociologia, as habilidades avaliadas são:
+- Identificar conceitos sociológicos em situações concretas
+- Relacionar teorias clássicas com fenômenos contemporâneos
+- Analisar desigualdades sociais, trabalho e cultura
+
+## Os 3 Clássicos que Sempre Caem
+
+### Karl Marx (1818–1883)
+**Conceitos essenciais:**
+- **Mais-valia:** o valor gerado pelo trabalhador além do que recebe de salário
+- **Alienação:** o trabalhador desconectado do produto do seu trabalho e de si mesmo
+- **Classes sociais:** burguesia (dono dos meios de produção) vs. proletariado (trabalhador)
+- **Ideologia:** sistema de ideias que legitima a dominação de uma classe sobre outra
+
+**Como cai no ENEM:** Questões sobre trabalho, exploração, desigualdade e movimentos operários geralmente pedem aplicação de Marx.
+
+### Émile Durkheim (1858–1917)
+**Conceitos essenciais:**
+- **Fato social:** maneiras de agir que exercem coerção sobre o indivíduo (externas, coletivas)
+- **Solidariedade mecânica:** sociedades tradicionais, laços fortes, punição severa
+- **Solidariedade orgânica:** sociedades modernas, divisão do trabalho, interdependência
+- **Anomia:** estado de desregulação normativa quando as regras sociais falham
+
+**Como cai no ENEM:** Questões sobre coesão social, normas, integração e divisão do trabalho.
+
+### Max Weber (1864–1920)
+**Conceitos essenciais:**
+- **Ação social:** ação orientada pelo sentido dado pelo próprio agente (tradicional, afetiva, racional)
+- **Burocracia:** forma racional de organização com hierarquia, regras impessoais, especialização
+- **Ética protestante:** como valores religiosos influenciaram o desenvolvimento do capitalismo
+- **Dominação:** tradicional, carismática e racional-legal
+
+**Como cai no ENEM:** Questões sobre Estado, poder, religião e formas de organização social.
+
+## Temas Contemporâneos de Sociologia no ENEM
+
+Além dos clássicos, o ENEM cobra temas atuais:
+
+**Desigualdade e raça:**
+- Racismo estrutural — conceito, histórico e impactos
+- Ação afirmativa — cotas raciais: argumentos pró e contra
+- Interseccionalidade — como raça, gênero e classe se combinam
+
+**Trabalho no século XXI:**
+- Precarização do trabalho e "uberização"
+- Desemprego tecnológico — automação e impacto no mercado
+- Trabalho informal e gig economy
+
+**Gênero e sexualidade:**
+- Feminismo: ondas, pautas, conquistas
+- Desigualdade salarial de gênero
+- Movimento LGBTQIA+ e direitos civis
+
+**Cultura e globalização:**
+- Indústria cultural — Adorno e Horkheimer
+- Contracultura, subculturas e resistência
+- Globalização e diversidade cultural
+
+## Como Responder Questões de Sociologia
+
+**Passo 1:** Leia o texto base até o fim (charge, artigo, trecho de obra)
+**Passo 2:** Identifique o tema central — desigualdade? Trabalho? Norma social?
+**Passo 3:** Associe ao conceito/teórico — Marx, Durkheim, Weber ou tema contemporâneo
+**Passo 4:** Elimine as alternativas que contradizem o texto ou aplicam o conceito errado
+
+A maioria das questões de Sociologia tem a resposta inferível do texto base — sem precisar memorizar teorias de cor.
+
+## Cronograma de Estudo para Sociologia
+
+| Semana | Foco |
+|--------|------|
+| 1 | Marx: mais-valia, classes, alienação |
+| 2 | Durkheim: fato social, solidariedade, anomia |
+| 3 | Weber: ação social, burocracia, dominação |
+| 4 | Temas contemporâneos + questões do ENEM |
+
+4 semanas de estudo focado cobrem 90% do que o ENEM cobra em Sociologia.
+
+## Pratique com Questões Reais
+
+O ENEM Pro tem todas as questões de Sociologia do ENEM de 2009 a 2024 organizadas por tema e teórico.
+
+## Perguntas Frequentes
+
+### Quais sociólogos mais caem no ENEM?
+Marx, Durkheim e Weber são os três mais cobrados. Em conjunto, aparecem em mais de 60% das questões de Sociologia do ENEM. Além deles, Gramsci, Bourdieu e os frankfurtianos (Adorno, Horkheimer) aparecem com frequência.
+
+### É preciso ler os textos originais dos sociólogos para o ENEM?
+Não. O ENEM não exige leitura dos textos originais — exige identificar e aplicar os conceitos em situações concretas. Um bom resumo com exemplos práticos de cada teórico é suficiente.
+
+### Sociologia do ENEM é difícil?
+Depende da abordagem. Quem tenta memorizar conceitos isolados acha difícil. Quem entende os conceitos contextualmente e pratica com questões reais do ENEM acha muito mais acessível.
+
+### Quantas questões de Sociologia tem no ENEM?
+Aproximadamente 7 a 10 questões por edição, dentro das 45 de Ciências Humanas. A proporção varia ligeiramente entre edições.
+    `,
+  },
+  {
+    slug: 'enem-digital-como-funciona',
+    title: 'ENEM Digital — Como Funciona, Quem Pode Fazer e Diferenças do Impresso',
+    description: 'O ENEM Digital é a versão em computador do exame. Saiba quem pode participar, como funciona a prova, as diferenças do impresso e como se preparar.',
+    date: '2026-06-17',
+    readTime: 6,
+    content: `
+O ENEM Digital é a versão do exame aplicada em computador, disponível como opção para candidatos que preferem fazer a prova em formato digital. A nota tem o mesmo valor do ENEM impresso para todos os fins — SISU, ProUni, FIES e demais programas.
+
+## O que é o ENEM Digital
+
+O ENEM Digital é uma modalidade opcional do ENEM onde o candidato responde às questões em um computador em um local de prova designado pelo INEP, em vez de marcar um gabarito em papel.
+
+**A prova em si é igual:** mesmo conteúdo, mesma Matriz de Referência, mesma escala TRI. O que muda é o formato de entrega das respostas.
+
+## Quem Pode Fazer o ENEM Digital
+
+A participação no ENEM Digital é **voluntária e por ordem de inscrição**. No momento da inscrição, você seleciona se prefere o ENEM impresso ou o ENEM Digital.
+
+Restrições:
+- Candidatos que solicitam atendimento especializado (Braille, ledor, etc.) não fazem o ENEM Digital
+- A disponibilidade de vagas pode ser limitada — inscrições encerram quando as vagas do digital se esgotam
+
+## Diferenças Entre ENEM Digital e Impresso
+
+| Aspecto | ENEM Digital | ENEM Impresso |
+|---------|-------------|--------------|
+| Suporte | Computador | Papel e caneta |
+| Gabarito | Cliques no mouse | Marcação a lápis |
+| Redação | Digitada | Escrita à mão |
+| Navegação | Livre entre questões | Linear (pode marcar para revisar) |
+| Resultado | Mesmo prazo | Mesmo prazo |
+| Validade | Igual | Igual |
+
+## A Redação no ENEM Digital
+
+A redação no ENEM Digital é **digitada** — você escreve no computador, não à mão. Isso é uma diferença importante:
+
+- Erros podem ser corrigidos (backspace), mas o corretor avalia o texto final
+- A contagem de linhas é substituída por contagem de caracteres/palavras
+- A estrutura e os critérios de avaliação são **exatamente os mesmos** do ENEM impresso
+
+## ENEM Digital Vale para o SISU?
+
+Sim. A nota do ENEM Digital tem o mesmo valor do ENEM impresso para todos os programas:
+- SISU (vagas em federais)
+- ProUni (bolsas em privadas)
+- FIES (financiamento estudantil)
+- Certificação de conclusão do ensino médio
+
+## Perguntas Frequentes
+
+### O ENEM Digital é mais fácil ou mais difícil?
+A dificuldade é a mesma — as questões são idênticas ao ENEM impresso. O que muda é apenas o meio. Para quem tem mais familiaridade com computador, pode ser mais confortável.
+
+### Posso cancelar o ENEM Digital e voltar para o impresso?
+Depende das regras do edital de cada edição. Em geral, após a confirmação da inscrição no digital, a troca não é garantida. Verifique o edital específico do ENEM da edição desejada.
+
+### Há alguma vantagem em fazer o ENEM Digital?
+Para quem digita bem, a redação digitada pode ser mais rápida e legível. Também elimina riscos de marcação errada no gabarito. Por outro lado, quem prefere rabiscar rascunhos à mão pode se sentir mais confortável no impresso.
+
+### O ENEM Digital tem prova diferente do impresso?
+Não. O conteúdo é exatamente o mesmo — mesmas questões, mesma Matriz de Referência, mesmo dia de aplicação. A diferença é apenas o formato de resposta.
+    `,
+  },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)
