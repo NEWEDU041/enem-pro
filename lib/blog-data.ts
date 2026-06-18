@@ -12853,8 +12853,8 @@ Nota final = (CN×1,5 + CH×1 + LC×1 + MT×2 + Redação×1,5) / 7
     `,
   },
   {
-    slug: 'nota-de-corte-veterinaria-enem',
-    title: 'Nota de Corte Veterinária pelo ENEM — SISU 2025 por Universidade',
+    slug: 'nota-de-corte-veterinaria-universidades',
+    title: 'Nota de Corte para Veterinária nas Federais — SISU 2025 por Universidade',
     description: 'Nota de corte para Medicina Veterinária nas federais via SISU 2025. USP, UFMG, UFRGS, UFPR e outras com ampla concorrência e cotas. Mercado, salário e vagas.',
     date: '2025-04-12',
     readTime: 8,
@@ -14218,8 +14218,8 @@ Aproximadamente 7 a 10 questões por edição, dentro das 45 de Ciências Humana
     `,
   },
   {
-    slug: 'enem-digital-como-funciona',
-    title: 'ENEM Digital — Como Funciona, Quem Pode Fazer e Diferenças do Impresso',
+    slug: 'enem-digital-prova-computador',
+    title: 'ENEM Digital — Prova no Computador, Quem Pode Fazer e Diferenças do Impresso',
     description: 'O ENEM Digital é a versão em computador do exame. Saiba quem pode participar, como funciona a prova, as diferenças do impresso e como se preparar.',
     date: '2026-06-17',
     readTime: 6,
@@ -14284,7 +14284,727 @@ Não. O conteúdo é exatamente o mesmo — mesmas questões, mesma Matriz de Re
   },
 ]
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13]
+const EXTRA_POSTS_14: BlogPost[] = [
+  {
+    slug: 'matematica-financeira-enem',
+    title: 'Matemática Financeira no ENEM — Juros, Porcentagem e o Que Mais Cai',
+    description: 'Guia completo de Matemática Financeira para o ENEM: juros simples e compostos, porcentagem, desconto, prestações e as questões mais cobradas de 2015 a 2024.',
+    date: '2026-06-18',
+    readTime: 9,
+    content: `
+Matemática Financeira é um dos tópicos mais frequentes no ENEM — aparece em praticamente todas as edições com 3 a 5 questões. A boa notícia: os tipos de questão se repetem muito. Quem domina os modelos básicos resolve esses pontos com segurança.
+
+## O Que Cai de Matemática Financeira no ENEM
+
+| Tópico | Frequência |
+|--------|-----------|
+| Juros simples | Média (1-2x/edição) |
+| Juros compostos | Alta (2-3x/edição) |
+| Porcentagem (desconto, aumento) | Alta (2-3x/edição) |
+| Prestações / financiamento | Média (1-2x/edição) |
+| Inflação e variação percentual | Baixa (eventual) |
+
+## Porcentagem — Revisão Rápida
+
+Porcentagem é base de tudo em Matemática Financeira.
+
+**Aumento:** valor final = valor inicial × (1 + taxa)
+**Desconto:** valor final = valor inicial × (1 − taxa)
+
+Exemplo ENEM: "Um produto custava R$120. Sofreu aumento de 15%. Qual o novo preço?"
+→ 120 × 1,15 = **R$138**
+
+**Aumento e desconto sucessivos:**
+"Produto com 20% de aumento e depois 20% de desconto."
+→ 1,20 × 0,80 = 0,96 → redução de 4% (não volta ao mesmo valor!)
+
+Esta "pegadinha" dos aumentos/descontos sucessivos cai com frequência no ENEM.
+
+## Juros Simples
+
+Fórmula: **J = C × i × t**
+Montante: **M = C × (1 + i × t)**
+
+Onde:
+- C = capital inicial
+- i = taxa (em decimal)
+- t = tempo (mesma unidade da taxa)
+
+Exemplo: R$2.000 aplicados a 3% ao mês por 4 meses:
+J = 2000 × 0,03 × 4 = **R$240**
+M = 2000 + 240 = **R$2.240**
+
+O ENEM raramente cobra juros simples puros — geralmente aparece como comparação com juros compostos ou em contexto de multa/mora.
+
+## Juros Compostos
+
+Fórmula: **M = C × (1 + i)ᵗ**
+
+Exemplo clássico ENEM: "Capital de R$5.000 aplicado a 10% ao ano por 2 anos em regime de juros compostos."
+M = 5000 × (1,10)² = 5000 × 1,21 = **R$6.050**
+
+**Dica:** No ENEM, valores de (1+i)ᵗ são dados na tabela da prova. Não precisa calcular potências difíceis — basta localizar o valor na tabela e multiplicar.
+
+### Comparação Juros Simples × Compostos
+
+Para o ENEM, saiba que:
+- Juros compostos sempre rendem mais que simples (para t > 1)
+- Em 1 período, o resultado é idêntico
+- A diferença cresce com o tempo (os juros compostos "incidem sobre os juros")
+
+## Prestações e Financiamento
+
+O ENEM cobra principalmente dois tipos:
+
+**1. Sistema Francês (Price):** Prestações iguais.
+Fórmula da parcela: P = C × [i(1+i)ᵗ] / [(1+i)ᵗ − 1]
+
+Na prova, o valor de (1+i)ᵗ é fornecido. Você substitui e calcula.
+
+**2. Raciocínio simples de total pago:**
+"Financiou R$30.000 em 60 prestações de R$700. Quanto pagou de juros?"
+Total pago: 60 × 700 = R$42.000
+Juros: 42.000 − 30.000 = **R$12.000**
+
+## Variação Percentual
+
+Muito cobrado em contexto de salários, inflação, e PIB.
+
+Fórmula: variação = (valor final − valor inicial) / valor inicial × 100
+
+"O salário passou de R$2.400 para R$2.880. Qual o aumento percentual?"
+(2.880 − 2.400) / 2.400 × 100 = **20%**
+
+## Estratégia Para a Prova
+
+1. Leia com atenção se a taxa é ao mês ou ao ano — errar a unidade do tempo é o erro mais comum
+2. Em juros compostos, procure a tabela fornecida antes de calcular
+3. Questões de "qual a melhor oferta" geralmente pedem cálculo de valor presente ou total pago
+4. Porcentagem acumulada: (1+a)(1+b) − 1, não soma direta
+
+## Praticar com o ENEM Pro
+
+O ENEM Pro tem filtro por tópico — selecione "Matemática Financeira" para resolver questões reais de 2009 a 2024 com explicação de IA para cada erro.
+
+**[Praticar questões de Matemática Financeira →](/questoes?disciplina=matematica)**
+    `,
+  },
+  {
+    slug: 'eletricidade-enem-o-que-cai',
+    title: 'Eletricidade no ENEM — O Que Cai, Fórmulas e Como Estudar',
+    description: 'Guia de Eletricidade para o ENEM: eletrostática, corrente elétrica, resistência, potência e os tópicos mais cobrados de Física nas edições recentes.',
+    date: '2026-06-18',
+    readTime: 8,
+    content: `
+Eletricidade é um dos temas mais frequentes de Física no ENEM. Representa entre 20% e 30% das questões de Ciências da Natureza relacionadas à Física — o que significa que cai em praticamente toda edição.
+
+## O Que Cai de Eletricidade no ENEM
+
+| Tópico | Frequência |
+|--------|-----------|
+| Resistência elétrica e Lei de Ohm | Muito alta |
+| Potência elétrica e energia | Muito alta |
+| Circuitos série e paralelo | Alta |
+| Eletrostática (carga, força) | Média |
+| Campo e potencial elétrico | Média |
+| Geradores e receptores | Baixa |
+
+## Eletrostática — O Essencial
+
+### Carga Elétrica
+- Próton: positivo (+e)
+- Elétron: negativo (−e)
+- Nêutron: neutro
+- Corpos se eletrizam por atrito, contato ou indução
+
+### Lei de Coulomb
+F = k × q₁ × q₂ / d²
+
+Onde k ≈ 9 × 10⁹ N·m²/C²
+
+O ENEM raramente pede cálculo direto — mais cobrado: analisar o que acontece com a força se a distância dobra (força cai 4x), se a carga dobra (força dobra), etc.
+
+## Corrente Elétrica
+
+**i = ΔQ / Δt** (corrente = carga / tempo)
+
+O ENEM cobra principalmente o conceito de que corrente é fluxo ordenado de cargas, e o sentido convencional (de + para −) vs. real (elétrons de − para +).
+
+## Resistência — Lei de Ohm
+
+**V = R × i** (tensão = resistência × corrente)
+
+Resistência em função das características do fio:
+**R = ρ × L / A**
+(resistividade × comprimento / área da seção transversal)
+
+Prática ENEM: "Fio cortado ao meio — resistência cai pela metade. Dois fios iguais em paralelo — resistência cai pela metade."
+
+## Circuitos Elétricos
+
+### Série
+- Resistência equivalente: R_eq = R₁ + R₂ + ... + Rₙ
+- Corrente é igual em todos os resistores
+- Tensão se distribui proporcionalmente às resistências
+
+### Paralelo
+- 1/R_eq = 1/R₁ + 1/R₂ + ... + 1/Rₙ
+- Tensão é igual em todos os ramos
+- Corrente se distribui inversamente às resistências
+
+**Caso especial — dois resistores iguais R em paralelo:** R_eq = R/2
+
+## Potência e Energia Elétrica
+
+P = V × i = R × i² = V² / R
+
+Energia elétrica: E = P × t (em watts e segundos → Joules)
+Na conta de luz: E = P × t em kWh (1 kWh = 3.600.000 J)
+
+**Questão tipo ENEM:** "Chuveiro de 5.400 W ligado 15 min/dia durante 30 dias. Quanto gasta se o kWh custa R$0,80?"
+P = 5,4 kW | t = 0,25 h/dia × 30 = 7,5 h
+E = 5,4 × 7,5 = 40,5 kWh
+Custo = 40,5 × 0,80 = **R$32,40**
+
+## Estratégia de Estudo
+
+1. **Domine a tabela de unidades**: Volts, Amperes, Ohms, Watts — o ENEM sempre usa as relações entre elas
+2. **Circuitos mistos**: Identifique os grupos série e paralelo separadamente antes de calcular o equivalente
+3. **Contexto cotidiano**: ENEM adora questões sobre conta de luz, chuveiro elétrico, e lâmpadas LED vs incandescente
+
+## Praticar com o ENEM Pro
+
+O ENEM Pro filtra questões por tópico dentro de Física — selecione "Eletricidade" para resolver questões reais de 2009 a 2024.
+
+**[Praticar questões de Física →](/questoes?disciplina=ciencias-natureza)**
+    `,
+  },
+  {
+    slug: 'enem-ingles-ou-espanhol',
+    title: 'ENEM — Inglês ou Espanhol? Qual Escolher e Como Decidir',
+    description: 'Inglês ou espanhol no ENEM? Compare dificuldade, estratégia, pontuação e o que dizem os dados das últimas edições para você escolher a língua certa.',
+    date: '2026-06-18',
+    readTime: 6,
+    content: `
+No ENEM, você escolhe entre inglês e espanhol na hora de responder as questões de Língua Estrangeira. A escolha é feita na prova — não precisa declarar antes. Mas saber qual escolher pode valer alguns pontos extras.
+
+## Como Funciona a Escolha
+
+A prova de Linguagens traz 5 questões em inglês e 5 em espanhol. Você responde **apenas um dos grupos** — 5 questões da língua de sua escolha.
+
+As outras 45 questões de Linguagens (Português, Literatura, Artes, Educação Física) são iguais para todos.
+
+## Inglês × Espanhol — Comparação
+
+| Critério | Inglês | Espanhol |
+|---------|--------|----------|
+| Escolha mais comum | ~75% dos candidatos | ~25% dos candidatos |
+| Vocabulário cotidiano | Mais presente no dia a dia | Precisa de estudo dedicado |
+| Gramática | Mais diferente do português | Mais próxima do português |
+| Dificuldade média ENEM | Média | Ligeiramente mais acessível |
+| Nível exigido | Leitura básica a intermediária | Leitura básica a intermediária |
+
+## O ENEM Não Exige Fluência
+
+Importante: o ENEM cobra **leitura e interpretação**, não produção escrita. Você não precisa escrever em inglês nem espanhol — só interpretar textos curtos.
+
+As questões geralmente testam:
+- Vocabulário em contexto
+- Interpretação de texto
+- Compreensão de marcadores de tempo, causa e contraste
+- Entender o tema central de um texto
+
+## Quando Escolher Espanhol
+
+- Se você nunca estudou inglês formalmente
+- Se já estudou espanhol no Ensino Médio
+- Se quiser aproveitar a proximidade com o português (cognatos)
+- Para candidatos que não têm familiaridade com nenhuma língua, o espanhol costuma ser mais acessível
+
+## Quando Escolher Inglês
+
+- Se você estudou inglês no ensino médio ou em curso
+- Se já tem familiaridade com séries, músicas e conteúdo em inglês
+- Se quiser manter o idioma que estudou mais
+
+## A Estratégia Prática
+
+1. **Olhe as questões de ambas antes de decidir.** Você pode ler os dois blocos e escolher o mais fácil para você naquele dia.
+2. **Leia os textos, não traduza palavra por palavra.** Busque o sentido geral — o ENEM exige compreensão, não tradução perfeita.
+3. **Use o contexto.** Palavras desconhecidas muitas vezes podem ser inferidas pelo contexto da frase ou pelo texto.
+
+## Impacto na Nota
+
+Matematicamente, as 5 questões de língua estrangeira têm o mesmo peso que qualquer outro grupo de 5 questões. Não há bônus por escolher inglês ou espanhol — o que importa é acertar mais.
+
+**[Praticar questões de Linguagens →](/questoes?disciplina=linguagens)**
+    `,
+  },
+  {
+    slug: 'gabarito-enem-2016',
+    title: 'Gabarito ENEM 2016 — Gabarito Oficial por Cor e Questão',
+    description: 'Gabarito oficial do ENEM 2016 por cor de prova (Amarela, Azul, Rosa, Branca). Consulte as respostas e acesse o gabarito completo no site do INEP.',
+    date: '2026-06-18',
+    readTime: 4,
+    content: `
+O gabarito oficial do ENEM 2016 foi divulgado pelo INEP logo após a aplicação da prova. Esta edição teve como tema da redação "Caminhos para combater a intolerância religiosa no Brasil".
+
+## Gabarito Oficial ENEM 2016
+
+O gabarito completo do ENEM 2016, com todas as cores de prova, está disponível no portal oficial do INEP:
+
+**[Acessar gabarito oficial ENEM 2016 no INEP →](https://enem.inep.gov.br/participante/#!/)**
+
+No portal do INEP você encontra:
+- Gabarito de 1º e 2º dia para todas as cores de prova
+- Arquivos PDF para download
+- Gabaritos de edições anteriores e posteriores
+
+## Sobre o ENEM 2016
+
+| Dado | Informação |
+|------|-----------|
+| Data | 5 e 6 de novembro de 2016 |
+| Inscritos | ~8,6 milhões |
+| Tema da redação | Caminhos para combater a intolerância religiosa no Brasil |
+| Aplicação | Nacional (presencial) |
+
+## Estrutura da Prova
+
+**1º dia (Ciências Humanas + Linguagens):**
+- 45 questões de Linguagens (inclui 5 de língua estrangeira)
+- 45 questões de Ciências Humanas
+- Redação
+
+**2º dia (Ciências da Natureza + Matemática):**
+- 45 questões de Ciências da Natureza
+- 45 questões de Matemática
+
+## Como Usar o Gabarito Para Estudar
+
+1. Resolva a prova do ENEM 2016 antes de ver o gabarito
+2. Marque as questões que errou ou ficou em dúvida
+3. Para cada erro, estude o conteúdo específico da questão
+4. Repita com outras edições (2015, 2017, 2018...)
+
+Resolver provas antigas é uma das estratégias mais eficientes para o ENEM — o estilo de questão e os temas se repetem.
+
+## Calcular a Nota do ENEM 2016
+
+Se quiser simular sua nota na escala do TRI com base no gabarito, use a calculadora do ENEM Pro:
+
+**[Calcular minha nota no ENEM →](/calcular-nota)**
+
+---
+
+Para gabaritos de outras edições: [ENEM 2024](/blog/gabarito-enem-2024) · [ENEM 2023](/blog/gabarito-enem-2023) · [ENEM 2022](/blog/gabarito-enem-2022) · [ENEM 2021](/blog/gabarito-enem-2021) · [ENEM 2020](/blog/gabarito-enem-2020) · [ENEM 2019](/blog/gabarito-enem-2019) · [ENEM 2018](/blog/gabarito-enem-2018) · [ENEM 2017](/blog/gabarito-enem-2017)
+    `,
+  },
+  {
+    slug: 'nota-enem-medicina-particular',
+    title: 'Nota do ENEM para Medicina Particular — Quanto Precisa para Entrar',
+    description: 'Qual nota no ENEM é necessária para entrar em medicina em faculdades particulares? ProUni, FIES e vestibular próprio — veja as notas mínimas e como se preparar.',
+    date: '2026-06-18',
+    readTime: 7,
+    content: `
+Medicina em faculdades particulares via ENEM é possível pelo ProUni, FIES, e pelos próprios vestibulares que usam a nota do ENEM como critério. As exigências variam muito — entender cada rota é essencial antes de estabelecer sua meta de nota.
+
+## Rotas Para Medicina Particular via ENEM
+
+### 1. ProUni (bolsa parcial ou integral)
+
+O ProUni oferece bolsas em faculdades particulares, incluindo medicina. Para medicina, a nota mínima no ProUni costuma ser:
+
+- **Bolsa integral (renda até 1,5 SM per capita):** nota mínima de ~700-750 em todas as áreas
+- **Bolsa parcial (50%, renda até 3 SM):** nota mínima similar, mas menos competitiva
+
+A nota de corte real do ProUni para medicina é muito maior — geralmente acima de 750-800 nas disciplinas específicas. Veja as [notas de corte de medicina no ProUni →](/blog/nota-de-corte-medicina-enem).
+
+### 2. FIES (financiamento)
+
+O FIES para medicina exige:
+- Nota mínima de 450 em cada área do ENEM (exceto redação)
+- Não ter obtido nota zero na redação
+- Renda familiar bruta mensal de até 3 salários mínimos per capita
+
+O FIES cobre parte das mensalidades — você paga o restante e quita o financiamento após formado.
+
+### 3. Vestibular Próprio com Nota do ENEM
+
+Muitas faculdades particulares usam a nota do ENEM como parte do vestibular, com peso que varia de 30% a 100%. Algumas aceitam apenas a nota do ENEM como seleção.
+
+Neste caso, a nota necessária depende da faculdade e da concorrência naquele semestre.
+
+## Notas de Referência
+
+| Rota | Nota mínima ENEM |
+|------|-----------------|
+| FIES (elegibilidade) | 450 em cada área |
+| ProUni (elegibilidade) | 450 em cada área |
+| ProUni medicina (nota real de corte) | 750-800+ |
+| Vestibular próprio (varia) | 600-750 (depende da faculdade) |
+
+## Redação — Ponto Crítico
+
+Nota zero na redação elimina o candidato do ProUni e do FIES, independente das outras notas. Não deixe a redação para segundo plano.
+
+## Medicina Particular × Federal
+
+| Critério | Particular | Federal (SISU) |
+|---------|-----------|---------------|
+| Nota de corte real | ~700-760 (ProUni) | ~760-830 |
+| Custo | Alto (ProUni/FIES) | Gratuito |
+| Qualidade | Varia muito | Alta (federais) |
+| Competição | Alta | Muito alta |
+
+## Estratégia Para Atingir 750+ no ENEM
+
+Para medicina, seja federal ou particular via ProUni, você precisa de nota acima da média em todas as áreas. Foque especialmente em:
+
+1. Ciências da Natureza (Química, Física, Biologia) — peso alto para medicina
+2. Matemática — questões com contexto científico
+3. Redação — não pode ser negligenciada
+
+**[Simular minha nota e distância para medicina →](/calcular-nota)**
+
+**[Ver notas de corte para medicina federal →](/blog/nota-de-corte-medicina-federal-por-estado)**
+    `,
+  },
+  {
+    slug: 'texto-dissertativo-argumentativo-enem',
+    title: 'Texto Dissertativo-Argumentativo no ENEM — Estrutura e Como Escrever',
+    description: 'O que é o texto dissertativo-argumentativo do ENEM, como estruturar introdução, desenvolvimento e conclusão, e as regras de cada competência avaliada.',
+    date: '2026-06-18',
+    readTime: 8,
+    content: `
+O texto dissertativo-argumentativo é o único tipo de redação aceito no ENEM. Compreender sua estrutura e os critérios de avaliação é o primeiro passo para sair do zero e chegar à nota 1000.
+
+## O Que é Texto Dissertativo-Argumentativo
+
+É um texto que:
+1. **Defende um ponto de vista** (tese) sobre um tema controverso ou problema social
+2. **Argumenta com base em fatos, dados e raciocínio lógico** — não em opiniões pessoais
+3. **Propõe uma solução** (intervenção) detalhada e viável
+
+O ENEM não aceita relatos de experiência pessoal, narração de histórias, ou poesia. Qualquer fuga ao tipo textual pode resultar em nota baixa nas competências I e II.
+
+## Estrutura Básica
+
+### Introdução (3 a 5 linhas)
+
+A introdução apresenta o tema e a tese. Modelos mais usados:
+
+**1. Contexto → Problema → Tese:**
+"[Contexto amplo sobre o tema]. Nesse cenário, [problema específico]. Portanto, [sua tese/posição]."
+
+**2. Dados → Problema → Tese:**
+"Segundo [dado/estatística], [constatação]. Diante disso, [tese]."
+
+Evite: "Desde os primórdios dos tempos..." — abertura clichê que penaliza a competência II.
+
+### Desenvolvimento (2 parágrafos)
+
+Cada parágrafo desenvolve **um argumento**. Estrutura:
+- **Tópico frasal** (afirmação que desenvolve a tese)
+- **Desenvolvimento** (dados, exemplos, fatos históricos, referência a autores)
+- **Conclusão parcial** (retoma a tese aplicada ao argumento)
+
+Use repertório sociocultural: cite dados do IBGE, OMS, OCDE, filósofos (Rousseau, Hobbes, Foucault), obras literárias, eventos históricos. Isso pontua na Competência II.
+
+### Conclusão — A Proposta de Intervenção
+
+A conclusão no ENEM **deve ter proposta de intervenção social** clara. O INEP avalia 5 elementos:
+
+1. **Agente** — quem vai executar (governo federal, prefeituras, escola, empresas)
+2. **Ação** — o que vai ser feito (programa, campanha, lei, política pública)
+3. **Meio** — como vai ser feito (via verba, parceria, capacitação)
+4. **Finalidade** — por que / qual objetivo
+5. **Detalhamento** — algum aprofundamento específico
+
+Exemplo de conclusão bem estruturada:
+"Portanto, cabe ao Ministério da Educação [agente] promover campanhas de conscientização [ação] por meio de parcerias com influenciadores digitais [meio], a fim de ampliar o acesso a informações sobre saúde mental [finalidade], priorizando escolas em regiões de maior vulnerabilidade socioeconômica [detalhamento]."
+
+## As 5 Competências do ENEM
+
+| Competência | O Que Avalia | Nota máx |
+|------------|-------------|---------|
+| I | Norma culta da língua portuguesa | 200 |
+| II | Tema + tipo textual + repertório | 200 |
+| III | Organização das informações e argumentação | 200 |
+| IV | Coesão e coerência | 200 |
+| V | Proposta de intervenção | 200 |
+
+**Competência V zero = redação zerada?** Não. Mas uma proposta ausente ou muito vaga custa até 200 pontos.
+
+## O Que Zera a Redação
+
+- Fuga total ao tema
+- Texto em branco
+- Menos de 7 linhas
+- Cópia dos textos motivadores
+- Desrespeito aos direitos humanos
+
+## Dicas Práticas
+
+1. **Escreva entre 25 e 30 linhas.** Textos muito curtos limitam seu desenvolvimento; textos muito longos aumentam risco de erros.
+2. **Use conectivos argumentativos:** portanto, entretanto, além disso, por conseguinte, em contrapartida.
+3. **Evite primeira pessoa.** "Acredito que", "Em minha opinião" não combinam com dissertação formal.
+4. **Leia e corrija.** Reserve 5 minutos para revisar concordância, acentuação e pontuação.
+
+**[Praticar temas de redação do ENEM →](/temas-redacao)**
+**[Como tirar 1000 na redação →](/blog/redacao-enem-como-tirar-1000)**
+    `,
+  },
+  {
+    slug: 'enem-segunda-aplicacao-2026',
+    title: 'ENEM 2ª Aplicação 2026 — Data, Quem Pode Fazer e Como Solicitar',
+    description: 'O que é a segunda aplicação do ENEM 2026, quem tem direito, como solicitar, datas e o que fazer se você perdeu a primeira prova.',
+    date: '2026-06-18',
+    readTime: 5,
+    content: `
+A segunda aplicação do ENEM é uma oportunidade extra para candidatos que tiveram justificativa aceita para não comparecer na data regular. Entender quem tem direito e como solicitar é essencial para não perder o prazo.
+
+## O Que é a 2ª Aplicação do ENEM
+
+A segunda aplicação ocorre semanas após a data regular do ENEM, para candidatos que:
+
+- **Estavam privados de liberdade** (presídios, unidades socioeducativas) — estes têm aplicação separada garantida
+- **Solicitaram e tiveram a justificativa aprovada** pelo INEP por não comparecer na data regular
+
+A prova é a mesma em conteúdo, mas com gabarito diferente (outra cor de caderno).
+
+## Quem Pode Fazer a 2ª Aplicação
+
+### Direito Garantido (Independente de Justificativa)
+- Candidatos em privação de liberdade
+- Candidatos em cumprimento de medida socioeducativa
+- Candidatos em hospitais/clínicas com internação
+
+### Por Solicitação (Justificativa Pendente de Aprovação)
+- Doença com atestado médico (apresentado ao INEP dentro do prazo)
+- Óbito de familiar próximo com documentação
+- Outros casos de força maior, a critério do INEP
+
+## Como Solicitar a 2ª Aplicação
+
+1. Acesse o **Página do Participante** (enem.inep.gov.br)
+2. Faça login com CPF e senha
+3. Vá em "Justificativa de Ausência"
+4. Anexe a documentação comprobatória
+5. Envie dentro do prazo estipulado no Edital
+
+**Atenção:** O prazo para enviar a justificativa é curto — geralmente 1 a 2 semanas após a realização da prova.
+
+## Datas ENEM 2026
+
+As datas oficiais serão publicadas no Edital do ENEM 2026 pelo INEP. Historicamente:
+
+| Evento | Período Aproximado |
+|--------|--------------------|
+| Inscrições | Maio/Junho |
+| 1ª Aplicação | Outubro/Novembro |
+| 2ª Aplicação (PPL) | Novembro/Dezembro |
+
+**Sempre confirme no edital oficial:** [enem.inep.gov.br](https://enem.inep.gov.br)
+
+## Nota da 2ª Aplicação Vale Igual?
+
+Sim. A nota da segunda aplicação é calculada pela mesma metodologia TRI e tem o mesmo valor para SISU, ProUni, FIES e demais programas.
+
+## Fiz a 2ª Aplicação, e Agora?
+
+Após o resultado, sua nota fica registrada no boletim de desempenho normalmente. O INEP usa a nota mais recente para os programas de acesso ao ensino superior.
+
+**[Ver como funciona o SISU →](/blog/sisu-como-funciona)**
+**[Ver como funciona o ProUni →](/blog/prouni-como-funciona)**
+    `,
+  },
+  {
+    slug: 'banco-de-questoes-enem-gratis',
+    title: 'Banco de Questões do ENEM Grátis — Como Praticar Online Sem Pagar',
+    description: 'Os melhores bancos de questões do ENEM grátis online: onde encontrar questões de 2009 a 2024 por disciplina, com gabarito e explicações.',
+    date: '2026-06-18',
+    readTime: 5,
+    content: `
+Praticar questões reais do ENEM é uma das formas mais eficientes de se preparar. Existem diversas plataformas com bancos de questões — algumas pagas, outras com versão gratuita. Veja as melhores opções e como usá-las estrategicamente.
+
+## ENEM Pro — Questões com Explicação de IA
+
+O **ENEM Pro** oferece questões reais do ENEM de 2009 a 2024 com explicação gerada por IA para cada resposta errada. Filtre por disciplina, tópico e ano.
+
+**Plano gratuito:** 10 questões por dia, sem cartão de crédito.
+
+**[Praticar questões grátis no ENEM Pro →](/questoes)**
+
+## Portal do INEP
+
+O INEP disponibiliza todas as provas do ENEM desde 1998 em PDF, junto com os gabaritos oficiais. É a fonte original — mas sem filtro por tópico nem explicações.
+
+**Como usar:** Baixe a prova do ano desejado, resolva no papel ou em PDF com anotações, depois confira com o gabarito.
+
+## Estratégia de Uso do Banco de Questões
+
+### Para Diagnóstico Inicial
+Faça uma "prova diagnóstica" com 20-30 questões de cada disciplina. Identifique onde você erra mais — esses são os tópicos prioritários.
+
+### Para Estudo por Tópico
+Após estudar um assunto específico (ex: genética, funções do 1º grau), resolva 15-20 questões daquele tópico para consolidar o aprendizado.
+
+### Para Simulado Final
+Nas últimas 4-6 semanas antes da prova, faça simulados completos (90 questões + redação) no tempo real da prova (5,5 horas por dia).
+
+## Quantas Questões Resolver
+
+| Fase | Meta |
+|------|------|
+| Diagnóstico | 1 prova completa (180 questões) |
+| Estudo regular | 20-30 questões/dia |
+| Semana da prova | Revisão leve + resolução rápida |
+
+## Dica: Qualidade > Quantidade
+
+Resolver 500 questões e não analisar os erros é menos eficiente do que resolver 200 e estudar profundamente cada erro. Use o banco de questões como ferramenta de diagnóstico — não apenas como acúmulo de respostas.
+
+**[Começar a praticar questões do ENEM →](/questoes)**
+    `,
+  },
+  {
+    slug: 'enem-vs-vestibular-diferenca',
+    title: 'ENEM vs Vestibular — Diferenças, Qual Fazer Primeiro e Como Conciliar',
+    description: 'ENEM ou vestibular tradicional: quais são as diferenças, quando vale mais a pena focar em um ou outro, e como conciliar os dois sem perder rendimento.',
+    date: '2026-06-18',
+    readTime: 6,
+    content: `
+Muitos candidatos enfrentam o dilema: focar no ENEM, no vestibular da faculdade desejada, ou nos dois? A resposta depende da universidade e do curso. Entenda as diferenças e tome uma decisão estratégica.
+
+## ENEM × Vestibular — Principais Diferenças
+
+| Critério | ENEM | Vestibular Tradicional |
+|---------|------|----------------------|
+| Formato | 180 questões + redação em 2 dias | Varia por instituição (1-3 dias) |
+| Estilo das questões | Interpretativo, contextualizado | Varia: pode ser mais direto/conteudista |
+| Frequência | Uma vez por ano | Varia (1-2x/ano por instituição) |
+| Acesso | SISU, ProUni, FIES + federais | Específico de cada universidade |
+| Resultado | Janeiro (SISU em fevereiro) | Depende da instituição |
+| Redação | Texto dissertativo-argumentativo | Varia: alguns pedem redação, outros não |
+
+## Quando o ENEM é Suficiente
+
+Foque no ENEM se:
+- Quer entrar em **universidade federal** (UFMG, USP pelo SISU, UFRJ, UnB, etc.)
+- Quer **bolsa do ProUni** ou financiamento pelo FIES
+- Quer entrar em **faculdade particular** que aceita nota do ENEM
+- Está preparado para o estilo contextualizado das questões
+
+## Quando o Vestibular Tradicional é Essencial
+
+Foque (também) no vestibular se:
+- Quer entrar na **FUVEST** (USP pelo vestibular próprio) — nota do ENEM não substitui
+- Quer entrar na **UNICAMP** — tem vestibular próprio (COMVEST)
+- Quer entrar em faculdades militares (IME, ITA) — têm processo seletivo próprio
+- A universidade desejada exige conteúdos fora da Matriz do ENEM
+
+**Atenção:** Desde 2022, a USP reduziu o peso da FUVEST e aumentou o ENEM no SISU. Verifique sempre no edital atual.
+
+## Como Conciliar os Dois
+
+Se precisa de ambos, a estratégia é:
+
+1. **Base comum primeiro:** O conteúdo do ENEM e da maioria dos vestibulares se sobrepõe em ~70-80%. Comece pela base compartilhada.
+2. **Identifique os diferenciais:** O que o vestibular cobra e o ENEM não (literatura específica, conteúdo adicional de química/física).
+3. **Planejamento paralelo:** Separe 70% do tempo para o conteúdo comum e 30% para os diferenciais do vestibular específico.
+4. **Simulados separados:** Alterne entre simulados estilo ENEM e provas antigas do vestibular alvo.
+
+## Qual Tem Mais Vagas
+
+| Via | Vagas aproximadas |
+|-----|-----------------|
+| SISU (via ENEM) | ~250.000 vagas/semestre em federais |
+| ProUni (via ENEM) | ~300.000+ bolsas/ano |
+| FUVEST (vestibular próprio) | ~10.000 vagas/ano |
+| UNICAMP (vestibular próprio) | ~3.000 vagas/ano |
+
+O ENEM abre acesso a muito mais vagas no total — mas as universidades mais concorridas (ITA, IME, UNICAMP) exigem vestibular próprio.
+
+**[Ver cronograma de estudos para o ENEM →](/blog/cronograma-enem-6-meses)**
+**[Simular minha nota →](/calcular-nota)**
+    `,
+  },
+  {
+    slug: 'redacao-enem-introducao-como-fazer',
+    title: 'Introdução da Redação ENEM — Como Fazer e Modelos que Funcionam',
+    description: 'Como escrever a introdução perfeita da redação do ENEM: modelos prontos, o que evitar, como apresentar a tese e exemplos de abertura que pontuam nas 5 competências.',
+    date: '2026-06-18',
+    readTime: 7,
+    content: `
+A introdução da redação do ENEM é o primeiro impacto que o corretor tem do seu texto. Uma introdução clara e bem construída sinaliza competência textual desde o início — e pode influenciar positivamente a avaliação das outras competências.
+
+## O Que a Introdução Precisa Fazer
+
+Uma introdução eficiente no ENEM deve:
+1. Contextualizar o tema (não apenas repeti-lo)
+2. Apresentar sua tese (ponto de vista que será defendido)
+3. Indicar o caminho argumentativo (opcional, mas ajuda na coerência)
+
+Extensão ideal: **3 a 5 linhas**. Introduções muito longas consomem espaço do desenvolvimento.
+
+## Estruturas Que Funcionam
+
+### Modelo 1: Contexto Histórico ou Social → Tese
+
+"[Desde/No contexto de...], [constatação sobre o problema]. Nesse sentido, [tese — o que precisa ser feito]."
+
+Exemplo (tema: intolerância religiosa):
+"Desde a chegada dos colonizadores ao Brasil, a diversidade de crenças tem sido alvo de perseguição e apagamento cultural. Nesse contexto, a intolerância religiosa persiste como obstáculo à construção de uma sociedade plural, o que exige ações estruturais do Estado para garantir o respeito à liberdade de credo."
+
+### Modelo 2: Dado ou Estatística → Problema → Tese
+
+"Segundo [fonte], [dado concreto]. Esse cenário revela [diagnóstico do problema]. Por isso, [tese]."
+
+Exemplo:
+"Segundo o Relatório de Intolerância Religiosa do Governo Federal, casos de discriminação por crença cresceram 40% em cinco anos. Esse cenário revela a falha das políticas de proteção às minorias religiosas, o que exige ações educativas e legislativas urgentes."
+
+### Modelo 3: Citação ou Referência → Relação com o Tema → Tese
+
+"[Pensador/obra] afirmou que [citação ou paráfrase]. Esse princípio aplica-se ao debate sobre [tema], pois [relação]. Logo, [tese]."
+
+Exemplo:
+"O filósofo John Locke defendia a separação entre Estado e religião como condição para a liberdade individual. Esse princípio aplica-se ao Brasil contemporâneo, no qual o Estado laico ainda enfrenta desafios para proteger efetivamente a diversidade religiosa."
+
+## O Que Evitar
+
+| Evitar | Por quê |
+|--------|---------|
+| "Desde os primórdios da humanidade..." | Clichê que penaliza competência II |
+| "É notório que..." / "Todos sabem que..." | Vago, sem informação |
+| Repetir a proposta de redação | Plagiário — não é contextualização |
+| Primeira pessoa ("Eu acho...") | Incompatível com dissertação formal |
+| Introdução com mais de 6 linhas | Ocupa espaço do desenvolvimento |
+
+## A Tese: O Elemento Central
+
+A tese é sua **posição sobre o problema**. Não é uma pergunta nem um resumo do tema — é uma afirmação que você vai defender nos parágrafos seguintes.
+
+Tese fraca: "A intolerância religiosa é um problema no Brasil."
+Tese forte: "O combate à intolerância religiosa no Brasil depende de reformas na educação básica e de maior rigor na aplicação das leis já existentes."
+
+A tese forte já aponta os argumentos — educação e legislação — que serão desenvolvidos nos parágrafos do desenvolvimento.
+
+## Checklist da Introdução
+
+- [ ] Contextualizou o tema (não copiou a proposta)
+- [ ] Apresentou tese clara (afirmação, não pergunta)
+- [ ] Está entre 3 e 5 linhas
+- [ ] Não usou clichês
+- [ ] Não usou primeira pessoa
+
+**[Ver como estruturar a redação completa →](/blog/como-fazer-redacao-enem-passo-a-passo)**
+**[Temas prováveis para treinar →](/blog/redacao-enem-temas-provaveis-2026)**
+    `,
+  },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13, ...EXTRA_POSTS_14]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)
@@ -14305,10 +15025,10 @@ export function getCategory(slug: string): BlogCategory {
   if (slug.startsWith('redacao') || slug.includes('como-fazer-redacao') || slug.includes('redacao-enem')) return 'Redação'
   if (slug.includes('nota-de-corte') || slug.includes('sisu') || slug.includes('prouni') || slug.includes('medicina') || slug.includes('direito') || slug.includes('engenharia') || slug.includes('psicologia') || slug.includes('odontologia') || slug.includes('computacao') || slug.includes('agronomia') || slug.includes('contabilidade') || slug.includes('pedagogia') || slug.includes('fies') || slug.includes('fisioterapia') || slug.includes('economia') || slug.includes('jornalismo') || slug.includes('servico-social') || slug.includes('educacao-fisica') || slug.includes('veterinaria')) return 'Universidades'
   if (slug.includes('cronograma') || slug.includes('quanto-tempo') || slug.includes('enem-2026') || slug.includes('enem-resultado') || slug.includes('resultado-quando') || slug.includes('data-enem') || slug.includes('inscricao-enem')) return 'Planejamento'
-  if (slug.includes('tri-enem') || slug.includes('calcular-nota') || slug.includes('como-funciona') || slug.includes('ppcs') || slug.includes('treineiro') || slug.includes('segunda-chance') || slug.includes('enem-digital') || slug.includes('enem-2025')) return 'Como Funciona'
-  if (slug.includes('fisica') || slug.includes('quimica') || slug.includes('biologia') || slug.includes('historia') || slug.includes('geografia') || slug.includes('filosofia') || slug.includes('matematica') || slug.includes('ingles') || slug.includes('ciencias') || slug.includes('literatura') || slug.includes('geometria') || slug.includes('estatistica') || slug.includes('interpretacao') || slug.includes('portugues') || slug.includes('trigonometria') || slug.includes('funcoes') || slug.includes('sociologia') || slug.includes('progressoes') || slug.includes('logaritmo') || slug.includes('probabilidade') || slug.includes('matrizes')) return 'Por Matéria'
+  if (slug.includes('tri-enem') || slug.includes('calcular-nota') || slug.includes('como-funciona') || slug.includes('ppcs') || slug.includes('treineiro') || slug.includes('segunda-chance') || slug.includes('enem-digital') || slug.includes('enem-2025') || slug.includes('segunda-aplicacao') || slug.includes('ingles-ou-espanhol') || slug.includes('prova-computador')) return 'Como Funciona'
+  if (slug.includes('fisica') || slug.includes('quimica') || slug.includes('biologia') || slug.includes('historia') || slug.includes('geografia') || slug.includes('filosofia') || slug.includes('matematica') || slug.includes('ingles') || slug.includes('ciencias') || slug.includes('literatura') || slug.includes('geometria') || slug.includes('estatistica') || slug.includes('interpretacao') || slug.includes('portugues') || slug.includes('trigonometria') || slug.includes('funcoes') || slug.includes('sociologia') || slug.includes('progressoes') || slug.includes('logaritmo') || slug.includes('probabilidade') || slug.includes('matrizes') || slug.includes('eletricidade')) return 'Por Matéria'
   if (slug.includes('simulado') || slug.includes('questoes')) return 'Questões'
-  if (slug.includes('melhor-app') || slug.includes('alternativa') || slug.includes('online-gratis') || slug.includes('vs-')) return 'Comparativos'
+  if (slug.includes('melhor-app') || slug.includes('alternativa') || slug.includes('online-gratis') || slug.includes('vs-') || slug.includes('banco-de-questoes') || slug.includes('enem-vs')) return 'Comparativos'
   return 'Estratégias'
 }
 
