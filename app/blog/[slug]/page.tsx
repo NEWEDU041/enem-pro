@@ -134,9 +134,9 @@ function renderContent(content: string) {
 function getInternalLinks(slug: string): { href: string; label: string }[] {
   const links: { href: string; label: string }[] = []
   if (slug.includes('matematica') || slug.includes('math')) links.push({ href: '/materias/matematica', label: 'Questões de Matemática' }, { href: '/disciplinas/matematica', label: 'Prova de Matemática ENEM' })
-  if (slug.includes('fisica')) links.push({ href: '/materias/fisica', label: 'Questões de Física' })
-  if (slug.includes('quimica')) links.push({ href: '/materias/quimica', label: 'Questões de Química' })
-  if (slug.includes('biologia')) links.push({ href: '/materias/biologia', label: 'Questões de Biologia' })
+  if (slug.includes('fisica') || slug.includes('cinematica') || slug.includes('termodinamica') || slug.includes('eletricidade') || slug.includes('mecanica') || slug.includes('ondulatoria') || slug.includes('optica')) links.push({ href: '/materias/fisica', label: 'Questões de Física' }, { href: '/disciplinas/ciencias-natureza', label: 'Prova de Ciências da Natureza' })
+  if (slug.includes('quimica') || slug.includes('tabela-periodica') || slug.includes('reacoes-quimicas') || slug.includes('organica')) links.push({ href: '/materias/quimica', label: 'Questões de Química' })
+  if (slug.includes('biologia') || slug.includes('ecologia') || slug.includes('genetica')) links.push({ href: '/materias/biologia', label: 'Questões de Biologia' })
   if (slug.includes('historia')) links.push({ href: '/materias/historia', label: 'Questões de História' })
   if (slug.includes('geografia')) links.push({ href: '/materias/geografia', label: 'Questões de Geografia' })
   if (slug.includes('filosofia') || slug.includes('sociologia')) links.push({ href: '/materias/filosofia', label: 'Questões de Filosofia' }, { href: '/materias/sociologia', label: 'Questões de Sociologia' })

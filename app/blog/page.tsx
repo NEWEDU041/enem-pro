@@ -37,10 +37,12 @@ const POST_ICON: Record<BlogCategory, string> = {
   'Como Funciona': '🔍', 'Planejamento': '📅', 'Comparativos': '⚖️',
 }
 
+const FEATURED_SLUG = 'gabarito-enem-2024'
+
 export default function BlogPage() {
   const posts = getAllPosts()
-  const featuredPost = posts[0]
-  const restPosts = posts.slice(1)
+  const featuredPost = posts.find(p => p.slug === FEATURED_SLUG) ?? posts[0]
+  const restPosts = posts.filter(p => p.slug !== featuredPost.slug)
 
   const countByCategory = ALL_CATEGORIES.reduce<Record<string, number>>((acc, cat) => {
     acc[cat] = posts.filter(p => getCategory(p.slug) === cat).length
@@ -116,14 +118,15 @@ export default function BlogPage() {
             </div>
             <div className="flex flex-wrap gap-2" role="list" aria-label="Categorias do blog">
               {ALL_CATEGORIES.filter(c => (countByCategory[c] ?? 0) > 0).map(cat => (
-                <span
+                <Link
                   key={cat}
+                  href={`#cat-${cat.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`}
                   role="listitem"
-                  className={`inline-flex items-center gap-1.5 text-xs font-semibold px-3 py-1.5 rounded-full ${CATEGORY_COLORS[cat]}`}
+                  className={`inline-flex items-center gap-1.5 text-xs font-semibold px-3 py-1.5 rounded-full hover:opacity-80 transition-opacity ${CATEGORY_COLORS[cat]}`}
                 >
                   {POST_ICON[cat]} {cat}
                   <span className="opacity-60">({countByCategory[cat]})</span>
-                </span>
+                </Link>
               ))}
             </div>
           </div>
@@ -167,10 +170,12 @@ export default function BlogPage() {
 
         {/* Categorias com posts */}
         {ALL_CATEGORIES.filter(cat => (countByCategory[cat] ?? 0) > 0).map(cat => {
-          const catPosts = restPosts.filter(p => getCategory(p.slug) === cat).slice(0, 6)
+          const allCatPosts = restPosts.filter(p => getCategory(p.slug) === cat)
+          const catPosts = allCatPosts.slice(0, 9)
           if (catPosts.length === 0) return null
+          const hasMore = allCatPosts.length > 9
           return (
-            <section key={cat} className="px-6 py-10 border-b border-zinc-100">
+            <section key={cat} id={`cat-${cat.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`} className="px-6 py-10 border-b border-zinc-100">
               <div className="max-w-5xl mx-auto">
                 <div className="flex items-center gap-3 mb-6">
                   <span aria-hidden="true" className="text-2xl">{POST_ICON[cat]}</span>
@@ -202,6 +207,11 @@ export default function BlogPage() {
                     </Link>
                   ))}
                 </div>
+                {hasMore && (
+                  <div className="mt-6 text-sm text-zinc-500 text-center">
+                    + {allCatPosts.length - 9} artigos em <strong>{cat}</strong> — use o filtro de categorias acima para ver todos
+                  </div>
+                )}
               </div>
             </section>
           )

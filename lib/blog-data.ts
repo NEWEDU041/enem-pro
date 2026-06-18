@@ -15144,7 +15144,712 @@ Não. A tese deve ser consistente do início ao fim. Se sua conclusão contradiz
   },
 ]
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13, ...EXTRA_POSTS_14]
+const EXTRA_POSTS_15: BlogPost[] = [
+  {
+    slug: 'cinematica-enem-o-que-cai',
+    title: 'Cinemática no ENEM — O Que Cai, Fórmulas e Exercícios Resolvidos',
+    description: 'Guia completo de Cinemática para o ENEM: MRU, MRUV, queda livre, lançamento oblíquo, gráficos e as questões mais cobradas nas últimas edições.',
+    date: '2026-06-18',
+    readTime: 9,
+    content: `
+Cinemática é o tópico de Física com mais questões no ENEM. Aparece em todas as edições — geralmente entre 3 e 6 questões. Dominar este assunto é obrigatório para qualquer candidato que queira uma boa nota em Ciências da Natureza.
+
+## O Que Cai de Cinemática no ENEM
+
+| Tópico | Frequência |
+|--------|-----------|
+| MRU (movimento retilíneo uniforme) | Muito alta |
+| MRUV (aceleração constante) | Muito alta |
+| Gráficos de posição, velocidade e aceleração | Muito alta |
+| Queda livre | Alta |
+| Lançamento horizontal | Média |
+| Lançamento oblíquo | Baixa/Média |
+
+## MRU — Movimento Retilíneo Uniforme
+
+Velocidade constante — aceleração zero.
+
+**Fórmula:** s = s₀ + v × t
+
+Onde:
+- s = posição final
+- s₀ = posição inicial
+- v = velocidade (constante)
+- t = tempo
+
+**Gráfico s×t do MRU:** reta com inclinação igual à velocidade
+**Gráfico v×t do MRU:** reta horizontal (velocidade constante)
+
+Exemplo ENEM: "Carro parte de s₀ = 20 m com velocidade v = 15 m/s. Posição após 4 s?"
+s = 20 + 15 × 4 = **80 m**
+
+## MRUV — Movimento Retilíneo Uniformemente Variado
+
+Aceleração constante (diferente de zero).
+
+**Equações de Torricelli e Bhaskara:**
+- s = s₀ + v₀t + ½at²
+- v = v₀ + at
+- v² = v₀² + 2aΔs (Torricelli — sem tempo)
+
+**Gráfico s×t do MRUV:** parábola
+**Gráfico v×t do MRUV:** reta inclinada (inclinação = aceleração)
+
+Exemplo ENEM: "Carro parte do repouso com a = 4 m/s². Velocidade após 5 s?"
+v = 0 + 4 × 5 = **20 m/s**
+
+### Frenagem — a é negativa
+"Carro a 30 m/s freia com a = −5 m/s². Em que tempo para?"
+0 = 30 + (−5)t → t = **6 s**
+
+## Queda Livre
+
+Caso especial de MRUV com a = g ≈ 10 m/s² (para baixo).
+
+v = g × t
+h = ½ × g × t²
+v² = 2 × g × h
+
+**Dica ENEM:** Objeto lançado para cima — na subida, a = −g. No ponto mais alto, v = 0. Tempo de subida = tempo de descida (desprezando resistência do ar).
+
+## Lançamento Horizontal
+
+Objeto lançado horizontalmente de uma altura h:
+
+- Horizontal: x = v₀ × t (MRU)
+- Vertical: h = ½ × g × t² (queda livre)
+
+O tempo de queda determina o alcance horizontal.
+
+## Leitura de Gráficos — Alta Frequência no ENEM
+
+O ENEM adora cobrar interpretação de gráficos:
+
+| No gráfico v×t | Significa |
+|---------------|----------|
+| Área sob a curva | Deslocamento |
+| Inclinação | Aceleração |
+| Reta horizontal | MRU (a=0) |
+| Reta inclinada subindo | MRUV com aceleração positiva |
+| Reta inclinada descendo | MRUV com aceleração negativa (freio) |
+
+## Perguntas Frequentes
+
+### Cinemática cai no 1º ou 2º dia do ENEM?
+Cinemática cai no 2º dia, dentro das 45 questões de Ciências da Natureza (disciplina Física). Aparece em 2 a 6 questões por edição.
+
+### Preciso saber lançamento oblíquo para o ENEM?
+Lançamento oblíquo (projétil com ângulo) é cobrado ocasionalmente, geralmente de forma conceitual. Saiba os conceitos básicos: no ponto mais alto, a componente vertical é zero; o alcance máximo ocorre em 45°.
+
+### Gráficos de cinemática são difíceis no ENEM?
+São frequentes e importantes. Foque em: no gráfico s×t, inclinação = velocidade; no gráfico v×t, inclinação = aceleração e área = deslocamento. Com isso, você resolve a maioria das questões de gráfico.
+
+**[Praticar questões de Física →](/questoes?disciplina=ciencias-natureza)**
+    `,
+  },
+  {
+    slug: 'termodinamica-enem-o-que-cai',
+    title: 'Termodinâmica no ENEM — O Que Cai, Leis e Como Estudar',
+    description: 'Guia de Termodinâmica para o ENEM: temperatura, calor, 1ª e 2ª lei, ciclo de Carnot, máquinas térmicas e os tópicos mais cobrados nas últimas edições.',
+    date: '2026-06-18',
+    readTime: 8,
+    content: `
+Termodinâmica é um tópico recorrente no ENEM, especialmente em questões contextualizadas com motores, geladeiras e processos industriais. Não é preciso memorizar fórmulas complexas — entender os conceitos é suficiente para a maioria das questões.
+
+## O Que Cai de Termodinâmica no ENEM
+
+| Tópico | Frequência |
+|--------|-----------|
+| Calor e temperatura | Alta |
+| 1ª Lei da Termodinâmica | Alta |
+| 2ª Lei e irreversibilidade | Média/Alta |
+| Máquinas térmicas e rendimento | Média |
+| Dilatação térmica | Média |
+| Capacidade calorífica | Média |
+
+## Temperatura e Calor — Diferença Fundamental
+
+**Temperatura:** medida da agitação média das partículas. Escala Celsius (°C) ou Kelvin (K). Conversão: T(K) = T(°C) + 273.
+
+**Calor:** energia em trânsito entre corpos a temperaturas diferentes. O calor flui do mais quente para o mais frio — sempre.
+
+**Equilíbrio térmico:** quando dois corpos em contato atingem a mesma temperatura, param de trocar calor.
+
+## 1ª Lei da Termodinâmica
+
+**ΔU = Q − W**
+
+Onde:
+- ΔU = variação da energia interna
+- Q = calor recebido pelo sistema (+ se recebe, − se cede)
+- W = trabalho realizado pelo sistema
+
+**Processo isotérmico** (T constante): ΔU = 0, logo Q = W
+**Processo adiabático** (Q = 0): ΔU = −W
+**Processo isocórico** (volume constante): W = 0, logo ΔU = Q
+
+## 2ª Lei da Termodinâmica
+
+O ENEM cobra principalmente o conceito, não cálculo:
+
+- "Nenhuma máquina térmica tem rendimento de 100%" — sempre há perda de calor
+- "É impossível transferir calor espontaneamente do corpo frio para o quente sem trabalho externo" (geladeiras precisam de energia elétrica)
+- Entropia: processos naturais tendem ao aumento da desordem
+
+## Máquinas Térmicas e Rendimento
+
+**η = W / Q_absorvido = (Q_abs − Q_ced) / Q_abs**
+
+Exemplo ENEM: "Motor absorve 5.000 J e cede 3.000 J. Qual o rendimento?"
+W = 5.000 − 3.000 = 2.000 J
+η = 2.000 / 5.000 = **0,4 = 40%**
+
+O rendimento de Carnot é o máximo teórico: η_Carnot = 1 − T_fria/T_quente (em Kelvin)
+
+## Calorimetria
+
+Q = m × c × ΔT
+
+Onde c = calor específico (da tabela da prova)
+
+**Calor latente** (mudança de fase, sem variação de temperatura):
+Q = m × L
+
+## Dilatação Térmica
+
+**Linear:** ΔL = L₀ × α × ΔT
+**Volumétrica:** ΔV = V₀ × γ × ΔT (γ ≈ 3α para sólidos)
+
+O ENEM cobra principalmente em contexto de engenharia civil (fendas em trilhos, pontes com folgas) e termômetros.
+
+## Perguntas Frequentes
+
+### Termodinâmica cai muito no ENEM?
+Sim — aparece em 1 a 3 questões de Física por edição, frequentemente em contexto de motores, eficiência energética e aquecimento global. Junto com Eletricidade e Cinemática, é um dos três tópicos mais recorrentes de Física.
+
+### Preciso calcular o ciclo de Carnot no ENEM?
+O cálculo do ciclo de Carnot raramente é cobrado diretamente. O ENEM prefere questões conceituais: por que o rendimento nunca chega a 100%, qual processo é mais eficiente, o que é entropia. Entenda os conceitos e você já cobre a maioria das questões.
+
+### O que é processo adiabático?
+É um processo sem troca de calor com o exterior (Q = 0). Nele, toda a variação de energia interna vem do trabalho: ΔU = −W. Pistões de compressão rápida são um exemplo prático cobrado no ENEM.
+
+**[Praticar questões de Física →](/questoes?disciplina=ciencias-natureza)**
+    `,
+  },
+  {
+    slug: 'ecologia-enem-o-que-cai',
+    title: 'Ecologia no ENEM — O Que Cai, Conceitos e Como Estudar',
+    description: 'Guia de Ecologia para o ENEM: cadeias alimentares, biomas, ciclos biogeoquímicos, relações ecológicas e os tópicos mais cobrados em Biologia.',
+    date: '2026-06-18',
+    readTime: 9,
+    content: `
+Ecologia é um dos tópicos mais cobrados de Biologia no ENEM — aparece em praticamente todas as edições. O diferencial: o ENEM sempre contextualiza Ecologia com questões ambientais e sociais, o que exige compreensão de conceitos, não memorização.
+
+## O Que Cai de Ecologia no ENEM
+
+| Tópico | Frequência |
+|--------|-----------|
+| Cadeias e teias alimentares | Muito alta |
+| Biomas brasileiros | Alta |
+| Relações ecológicas | Alta |
+| Ciclos biogeoquímicos (carbono, nitrogênio) | Alta |
+| Fluxo de energia e pirâmides ecológicas | Média/Alta |
+| Sucessão ecológica | Média |
+| Impactos ambientais | Muito alta |
+
+## Níveis de Organização Ecológica
+
+- **Indivíduo** → **População** → **Comunidade** → **Ecossistema** → **Biosfera**
+
+O ENEM cobra especialmente a distinção entre comunidade (biótico) e ecossistema (biótico + abiótico).
+
+## Cadeias e Teias Alimentares
+
+**Produtor** (autótrofos, fotossíntese) → **Consumidor primário** (herbívoro) → **Consumidor secundário** (carnívoro que come herbívoro) → **Consumidor terciário** → **Decompositores**
+
+**Regra dos 10%:** A cada nível trófico, apenas ~10% da energia é transferida. Se produtores têm 100.000 kcal, consumidores primários têm ~10.000 kcal, secundários ~1.000 kcal.
+
+O ENEM adora questionar: "Por que é mais eficiente consumir plantas do que carne?" → Menos níveis tróficos = mais energia aproveitada.
+
+## Relações Ecológicas
+
+| Relação | Espécie A | Espécie B | Exemplo |
+|---------|-----------|-----------|---------|
+| Mutualismo | + | + | Abelha e flor |
+| Comensalismo | + | 0 | Rêmora e tubarão |
+| Parasitismo | + | − | Pulga e cão |
+| Predatismo | + | − | Leão e zebra |
+| Competição | − | − | Leões e hienas |
+| Amensalismo | 0 | − | Fungo e bactéria (penicilina) |
+
+## Biomas Brasileiros — Alta Cobrança
+
+| Bioma | Características-chave |
+|-------|----------------------|
+| Amazônia | Maior biodiversidade; chuvas abundantes; madeira de lei |
+| Cerrado | 2º maior; savana; nascentes dos principais rios |
+| Mata Atlântica | Muito fragmentada; alto endemismo; costa leste |
+| Caatinga | Semiárido; exclusivo do Brasil; vegetação xerófita |
+| Pampa | Sul do Brasil; campos; pecuária |
+| Pantanal | Maior planície alagável; pantaneiro; onças, araras |
+
+## Ciclos Biogeoquímicos
+
+### Ciclo do Carbono
+Fotossíntese → incorpora CO₂ na matéria orgânica
+Respiração → libera CO₂
+Queima de combustíveis fósseis → emissão extra de CO₂ → aquecimento global
+
+### Ciclo do Nitrogênio
+N₂ do ar → fixação (bactérias do solo) → nitratos absorvidos pelas plantas → proteínas → decomposição → N₂
+
+A **fixação biológica de nitrogênio** (por Rhizobium em leguminosas) é tema frequente no ENEM.
+
+## Impactos Ambientais — Questões Contextuais
+
+O ENEM frequentemente apresenta impactos em contexto de políticas públicas:
+- Desmatamento e perda de biodiversidade
+- Efeito estufa e mudanças climáticas
+- Eutrofização (excesso de nutrientes em corpos d'água)
+- Bioacumulação de pesticidas (DDT, agrotóxicos)
+
+## Perguntas Frequentes
+
+### Quantas questões de Ecologia caem no ENEM?
+Ecologia representa entre 5 e 8 das 45 questões de Ciências da Natureza (dentro das questões de Biologia). É um dos tópicos mais frequentes da disciplina.
+
+### Preciso saber o nome científico dos biomas?
+Não. O ENEM não cobra nomenclatura científica dos biomas — cobra características, localização, fauna e flora representativa e impactos ambientais.
+
+### Por que o ENEM cobra tanto Ecologia?
+Porque o ENEM prioriza ciência contextualizada com a realidade brasileira. Questões ambientais (desmatamento, biodiversidade, mudanças climáticas) são temas centrais da agenda nacional e global — e se encaixam perfeitamente no perfil de questão contextualizada do exame.
+
+**[Praticar questões de Ciências da Natureza →](/questoes?disciplina=ciencias-natureza)**
+    `,
+  },
+  {
+    slug: 'tabela-periodica-enem',
+    title: 'Tabela Periódica no ENEM — O Que Cai e Como Ler Sem Decorar',
+    description: 'Como usar a tabela periódica no ENEM: número atômico, configuração eletrônica, propriedades periódicas e o que o INEP realmente cobra nas questões de Química.',
+    date: '2026-06-18',
+    readTime: 7,
+    content: `
+A tabela periódica é disponibilizada na prova do ENEM — você não precisa decorá-la. O que o ENEM cobra é saber *como usá-la* para responder questões sobre propriedades dos elementos e tendências periódicas.
+
+## A Tabela Periódica é Fornecida na Prova
+
+O caderno do ENEM inclui uma tabela periódica simplificada. Você pode e deve consultá-la durante a prova. Não perca tempo tentando memorizar números atômicos — foque em entender as tendências.
+
+## O Que Cai de Tabela Periódica no ENEM
+
+| Tópico | Frequência |
+|--------|-----------|
+| Propriedades periódicas (raio atômico, eletronegatividade) | Alta |
+| Configuração eletrônica | Alta |
+| Metais vs. não metais vs. semimetais | Média |
+| Grupos (família) e períodos | Média |
+| Isótopos, isóbaros, isótonos | Média |
+
+## Como Ler a Tabela Periódica
+
+Para cada elemento, a tabela fornece:
+- **Número atômico (Z):** quantidade de prótons = elétrons no átomo neutro
+- **Símbolo**
+- **Massa atômica (A):** prótons + nêutrons (aproximada)
+- Nêutrons = A − Z
+
+## Distribuição Eletrônica
+
+Elétrons se distribuem por camadas (K, L, M, N...) e subníveis (s, p, d, f).
+
+**Regra simplificada do ENEM:**
+- K: máx 2e
+- L: máx 8e
+- M: máx 18e (mas em elementos menores, para em 8 antes de preencher)
+
+Configuração do Sódio (Z=11): 2, 8, 1
+→ 2 elétrons na camada K, 8 na L, 1 na M
+→ Período 3 (3 camadas), Família IA (1 elétron na última camada)
+
+## Propriedades Periódicas — O Que o ENEM Mais Cobra
+
+### Raio Atômico
+- **Cresce da direita para esquerda** no mesmo período
+- **Cresce de cima para baixo** no mesmo grupo
+Lógica: mais camadas = maior raio; mais prótons = atrai mais os elétrons = menor raio
+
+### Eletronegatividade
+- **Cresce da esquerda para direita** no mesmo período (exceto gases nobres)
+- **Cresce de baixo para cima** no mesmo grupo
+Flúor é o mais eletronegativo de todos.
+
+### Energia de Ionização
+- **Cresce da esquerda para direita** no mesmo período
+- **Cresce de baixo para cima** no mesmo grupo
+Lógica: elétron mais próximo do núcleo e com mais prótons = mais difícil de remover
+
+## Metais, Não Metais e Semimetais
+
+| Tipo | Localização | Características |
+|------|-------------|----------------|
+| Metais | Esquerda e centro | Condutores, brilho, maleáveis |
+| Não metais | Direita (exceto gases nobres) | Maus condutores, gasosos muitos |
+| Semimetais (metaloides) | Diagonal | Condutividade intermediária (Si, Ge) |
+| Gases nobres | Última coluna (18) | Inerte, configuração completa |
+
+## Isótopos, Isóbaros, Isótonos
+
+- **Isótopos:** mesmo Z, diferente A (mesmo elemento, nêutrons diferentes). Ex: ¹²C e ¹⁴C
+- **Isóbaros:** mesmo A, diferente Z. Ex: ⁴⁰K e ⁴⁰Ca
+- **Isótonos:** mesmo número de nêutrons, Z diferente
+
+## Perguntas Frequentes
+
+### A tabela periódica é fornecida no ENEM?
+Sim. O caderno de questões do ENEM inclui uma tabela periódica simplificada com número atômico, símbolo e massa atômica de todos os elementos. Você pode consultá-la durante a prova — não precisa memorizar.
+
+### Quais grupos da tabela periódica mais caem no ENEM?
+Grupo IA (metais alcalinos — Na, K), Grupo VIIA (halogênios — F, Cl) e Grupo 0/VIIIA (gases nobres) são os mais cobrados em questões de propriedades periódicas e ligações químicas.
+
+### O ENEM pede configuração eletrônica em subníveis (spdf)?
+Às vezes, mas geralmente em questões de caráter intermediário. O mais comum é pedir a distribuição por camadas (K, L, M...) para identificar família e período, ou para determinar o número de elétrons na última camada.
+
+**[Praticar questões de Química →](/questoes?disciplina=ciencias-natureza)**
+    `,
+  },
+  {
+    slug: 'reacoes-quimicas-enem',
+    title: 'Reações Químicas no ENEM — O Que Cai, Tipos e Como Balancear',
+    description: 'Guia de Reações Químicas para o ENEM: tipos de reação (síntese, análise, simples e dupla troca), balanceamento, lei de Lavoisier e Proust.',
+    date: '2026-06-18',
+    readTime: 8,
+    content: `
+Reações Químicas é um dos pilares de Química no ENEM. Aparece de forma direta (identificar tipos de reação, balancear) e indireta (em eletroquímica, termodinâmica, ácidos e bases). Dominar o básico é essencial para a nota.
+
+## O Que Cai de Reações Químicas no ENEM
+
+| Tópico | Frequência |
+|--------|-----------|
+| Tipos de reação | Alta |
+| Leis de Lavoisier e Proust | Alta |
+| Balanceamento | Média/Alta |
+| Estequiometria | Alta |
+| Velocidade de reação | Média |
+| Equilíbrio químico | Média |
+
+## Leis Fundamentais
+
+### Lei de Lavoisier (conservação da massa)
+"A massa dos reagentes é igual à massa dos produtos."
+**Nada se cria, nada se perde, tudo se transforma.**
+
+O ENEM cobra isso principalmente em balanceamento e em contexto de combustão.
+
+### Lei de Proust (proporções definidas)
+"Os elementos se combinam em proporções fixas por massa."
+Uma substância pura sempre tem a mesma composição, independente da amostra.
+
+## Tipos de Reação Química
+
+### Síntese (adição)
+A + B → AB
+Exemplo: H₂ + Cl₂ → 2HCl
+
+### Análise (decomposição)
+AB → A + B
+Exemplo: 2H₂O → 2H₂ + O₂ (eletrólise)
+
+### Simples troca (substituição)
+A + BC → AC + B
+Exemplo: Zn + 2HCl → ZnCl₂ + H₂
+
+A reação ocorre se o metal A for mais reativo que B (atividade química). O ENEM fornece a fila de reatividade na prova.
+
+### Dupla troca (metátese)
+AB + CD → AD + CB
+Exemplos: precipitação, formação de gás, neutralização
+
+**Neutralização ácido-base:**
+HCl + NaOH → NaCl + H₂O
+Ácido + Base → Sal + Água
+
+## Balanceamento de Equações
+
+**Princípio:** átomos de cada elemento devem ser iguais nos dois lados.
+
+Exemplo: __ CH₄ + __ O₂ → __ CO₂ + __ H₂O
+
+1. Comece pelo elemento mais complexo (C): 1 CH₄ → 1 CO₂. C está balanceado.
+2. H: 4H nos reagentes → 2H₂O. Coloque coeficiente 2.
+3. O: 2 CO₂ tem 2O + 2H₂O tem 2O = 4O no total → 2O₂.
+
+**Equação balanceada:** CH₄ + 2O₂ → CO₂ + 2H₂O
+
+## Estequiometria — Alta Frequência
+
+Relação quantitativa entre reagentes e produtos usando proporções molares.
+
+**Massa molar** (M) = soma das massas atômicas de cada elemento (da tabela periódica).
+
+Exemplo ENEM: "Qual a massa de CO₂ produzida pela combustão de 16 g de CH₄? (M_CH₄ = 16, M_CO₂ = 44)"
+CH₄ + 2O₂ → CO₂ + 2H₂O
+16 g de CH₄ = 1 mol → produz 1 mol de CO₂ = **44 g**
+
+## Velocidade de Reação
+
+Fatores que aumentam a velocidade:
+- Temperatura maior
+- Concentração maior dos reagentes
+- Catalisador
+- Maior superfície de contato (fragmentação do sólido)
+
+## Perguntas Frequentes
+
+### Preciso saber balancear equações complexas no ENEM?
+O ENEM cobra balanceamento de equações simples (combustão de hidrocarbonetos, neutralização). Equações muito complexas raramente aparecem — e quando aparecem, geralmente o próprio enunciado fornece a equação balanceada.
+
+### Estequiometria cai muito no ENEM?
+Sim — é um dos tópicos mais frequentes de Química. Quase toda edição tem 1 a 2 questões de estequiometria. O ENEM fornece a equação e as massas molares; você calcula proporções.
+
+### O que é catalisador e por que cai no ENEM?
+Catalisador é substância que aumenta a velocidade da reação sem ser consumida. Cai no ENEM em contexto de enzimas (catalisadores biológicos), conversor catalítico dos carros e processos industriais.
+
+**[Praticar questões de Química →](/questoes?disciplina=ciencias-natureza)**
+    `,
+  },
+  {
+    slug: 'quanto-vale-redacao-enem',
+    title: 'Quanto Vale a Redação no ENEM — Peso, Nota e Impacto no Total',
+    description: 'Qual o peso da redação no ENEM? Como a nota da redação afeta a média, o que é a nota de 1000, e quanto a redação impacta a aprovação no SISU e ProUni.',
+    date: '2026-06-18',
+    readTime: 5,
+    content: `
+A redação no ENEM tem um peso que muitos candidatos subestimam. Entender como ela é calculada e quanto influencia a média final pode mudar sua estratégia de preparação.
+
+## Estrutura das Notas do ENEM
+
+O ENEM tem 5 notas independentes:
+
+| Componente | Escala |
+|-----------|--------|
+| Linguagens e Códigos | 0 a 1000 |
+| Ciências Humanas | 0 a 1000 |
+| Ciências da Natureza | 0 a 1000 |
+| Matemática | 0 a 1000 |
+| Redação | 0 a 1000 |
+
+**A redação é uma área independente.** Ela não entra na média de Linguagens — é a 5ª nota separada.
+
+## Quanto Vale a Redação no SISU
+
+No SISU, as universidades federais calculam a média das 5 notas (com ou sem pesos diferentes por curso). Fórmula básica:
+
+**Média = (L + CH + CN + MT + Redação) / 5**
+
+Uma redação baixa puxa a média diretamente. Exemplo:
+- Notas: 650, 680, 640, 720, **200** (redação fraca)
+- Média = (650 + 680 + 640 + 720 + 200) / 5 = **578**
+
+Com redação 600:
+- Média = (650 + 680 + 640 + 720 + **600**) / 5 = **658**
+
+**Diferença de 400 pontos na redação = 80 pontos na média final.**
+
+## Quanto Vale a Redação no ProUni
+
+O ProUni usa a média das 4 provas objetivas + redação com pesos iguais. Nota zero na redação **zera automaticamente a inscrição no ProUni e no FIES**, independente das outras notas.
+
+## Como a Nota da Redação é Calculada
+
+A redação é avaliada em 5 competências, cada uma de 0 a 200 pontos:
+
+| Competência | Avalia |
+|------------|--------|
+| I | Domínio da norma culta |
+| II | Tema e tipo textual |
+| III | Argumentação e coerência |
+| IV | Coesão (conectivos e progressão) |
+| V | Proposta de intervenção |
+
+Soma máxima: 5 × 200 = **1000 pontos**.
+
+## O Que é Nota 1000 na Redação
+
+Nota 1000 = 200 em cada uma das 5 competências. É a nota máxima. Cada edição do ENEM tem redações nota 1000 — são relativamente raras mas alcançáveis com preparação.
+
+Para tirar 1000, você precisa de:
+- Texto sem erros gramaticais e ortográficos
+- Tema desenvolvido corretamente (sem fuga)
+- Argumentação com repertório sociocultural válido
+- Coesão perfeita (conectivos bem usados)
+- Proposta de intervenção completa com todos os 5 elementos
+
+## Estratégia: Quanto Tempo Dedicar à Redação
+
+Para uma nota competitiva no SISU (medicina, direito nas federais), meta mínima de 600-700 na redação. Para ProUni/FIES, evitar zero é obrigatório.
+
+Recomendação geral: dedique ao menos 20% do seu tempo de preparação à redação — isso representa 1 a 2 redações completas por semana nos meses finais.
+
+## Perguntas Frequentes
+
+### A redação do ENEM entra na média de Linguagens?
+Não. A redação é uma nota completamente independente — a 5ª nota. Linguagens tem sua própria nota (0–1000) baseada nas 45 questões objetivas. As duas notas são somadas junto com as outras 3 áreas para calcular a média total.
+
+### Nota zero na redação zera o ENEM todo?
+Não zera o ENEM — você ainda tem as 4 notas das provas objetivas. Mas zera automaticamente a inscrição no ProUni e no FIES. Para o SISU, uma nota 0 na redação destrói a média, tornando a aprovação em cursos concorridos praticamente impossível.
+
+### É possível passar no SISU com nota baixa na redação?
+Tecnicamente sim, se as outras notas compensarem. Mas para cursos concorridos (medicina, direito nas melhores federais), a diferença de 400 pontos na redação representa 80 pontos na média — o que geralmente é a distância entre ser aprovado ou não.
+
+**[Como tirar 1000 na redação →](/blog/redacao-enem-como-tirar-1000)**
+**[Temas de redação para praticar →](/temas-redacao)**
+    `,
+  },
+  {
+    slug: 'enem-2026-o-que-mudou',
+    title: 'ENEM 2026 — O Que Muda, Novidades e Como se Preparar',
+    description: 'O que muda no ENEM 2026 em relação às edições anteriores: novas regras, datas, conteúdo, redação e tudo que você precisa saber para se preparar.',
+    date: '2026-06-18',
+    readTime: 6,
+    content: `
+O ENEM 2026 segue o mesmo modelo consolidado das edições recentes — mas existem informações específicas sobre datas, inscrições e possíveis ajustes que todo candidato precisa conhecer.
+
+## O Que Não Muda no ENEM 2026
+
+Antes de ver as novidades, é importante saber o que permanece igual:
+
+- **180 questões de múltipla escolha** (45 por área)
+- **Redação dissertativo-argumentativa** (0 a 1000 pontos)
+- **Metodologia TRI** (Teoria de Resposta ao Item)
+- **2 dias de prova** (sábado e domingo)
+- **Mesma Matriz de Referência** — o conteúdo cobrado não muda de um ano para o outro
+- **Validade da nota:** sem prazo de expiração
+
+## Datas Previstas para o ENEM 2026
+
+As datas oficiais do ENEM 2026 serão publicadas no Edital do INEP. Com base no histórico:
+
+| Evento | Período Esperado |
+|--------|-----------------|
+| Publicação do edital | Abril/Maio 2026 |
+| Período de inscrições | Maio/Junho 2026 |
+| Prazo para isenção | Junto com inscrições |
+| Aplicação do ENEM | Outubro/Novembro 2026 |
+| Gabarito preliminar | Dias após a prova |
+| Resultado individual | Janeiro 2027 |
+| SISU 2027 | Fevereiro 2027 |
+
+**Fonte oficial e atualizada: [enem.inep.gov.br](https://enem.inep.gov.br)**
+
+## ENEM Digital 2026
+
+O ENEM Digital (versão em computador) deve continuar disponível com vagas limitadas. A inscrição é feita no mesmo período do ENEM regular, selecionando a modalidade durante a inscrição.
+
+## Redação ENEM 2026 — Temas Prováveis
+
+O INEP não divulga o tema com antecedência. Os temas seguem padrão de questões sociais relevantes para o Brasil. Para 2026, temas com alta probabilidade incluem assuntos como:
+- Saúde mental na era digital
+- Desigualdade no acesso à educação
+- Impactos das mudanças climáticas no Brasil
+- Inteligência artificial e mercado de trabalho
+
+**[Ver temas prováveis para o ENEM 2026 →](/blog/redacao-enem-temas-provaveis-2026)**
+
+## Como se Preparar para o ENEM 2026
+
+1. **Use a Matriz de Referência** como guia: ela lista exatamente os tópicos cobrados por disciplina
+2. **Resolva provas anteriores**: o estilo de questão se repete muito entre edições
+3. **Pratique redação**: 1 a 2 redações completas por semana nos últimos 3 meses
+4. **Simule as condições reais**: 5,5 horas por dia em ambiente silencioso
+
+**[Montar cronograma de estudos →](/blog/cronograma-enem-6-meses)**
+**[Praticar questões reais →](/questoes)**
+
+## Perguntas Frequentes
+
+### Qual a data do ENEM 2026?
+As datas serão publicadas no edital oficial do INEP. Historicamente, o ENEM é aplicado em outubro/novembro. Acompanhe o site oficial enem.inep.gov.br para a data exata.
+
+### O conteúdo do ENEM 2026 vai mudar?
+A Matriz de Referência do ENEM não sofreu mudanças significativas nas últimas edições. O conteúdo cobrado segue o mesmo padrão. O INEP pode ajustar a distribuição de questões por área, mas os tópicos gerais permanecem os mesmos.
+
+### Nota do ENEM 2025 vale para o SISU 2027?
+Sim. Não há prazo de validade para a nota do ENEM. Você pode usar notas de qualquer edição nos programas de acesso ao ensino superior.
+    `,
+  },
+  {
+    slug: 'como-calcular-media-enem',
+    title: 'Como Calcular a Média do ENEM — Fórmula e Calculadora',
+    description: 'Como calcular a média das notas do ENEM para o SISU: fórmula com e sem pesos, exemplos práticos e a calculadora do ENEM Pro para simular sua nota.',
+    date: '2026-06-18',
+    readTime: 5,
+    content: `
+A média do ENEM para o SISU não é simplesmente a soma das 5 notas dividida por 5. Cada curso pode atribuir pesos diferentes para cada área — e entender isso pode ser decisivo na hora de escolher qual curso tentar.
+
+## A Fórmula Básica (Sem Pesos)
+
+Quando o curso não atribui pesos diferenciados:
+
+**Média = (Linguagens + Ciências Humanas + Ciências da Natureza + Matemática + Redação) / 5**
+
+Exemplo:
+- Linguagens: 650
+- Ciências Humanas: 680
+- Ciências da Natureza: 640
+- Matemática: 720
+- Redação: 600
+
+**Média = (650 + 680 + 640 + 720 + 600) / 5 = 658**
+
+## Com Pesos Diferentes por Curso
+
+Muitos cursos no SISU atribuem peso maior para as disciplinas da área. A fórmula com pesos:
+
+**Média ponderada = (P₁×N₁ + P₂×N₂ + P₃×N₃ + P₄×N₄ + P₅×N₅) / (P₁+P₂+P₃+P₄+P₅)**
+
+Exemplo para Medicina (que pode ter peso 2 em CN):
+- Linguagens (P=1): 650
+- C. Humanas (P=1): 680
+- C. Natureza (P=2): 640
+- Matemática (P=1): 720
+- Redação (P=1): 600
+
+Média = (1×650 + 1×680 + 2×640 + 1×720 + 1×600) / (1+1+2+1+1)
+= (650 + 680 + 1.280 + 720 + 600) / 6
+= 3.930 / 6 = **655**
+
+Os pesos de cada curso estão disponíveis no sistema SISU durante as inscrições.
+
+## O Que Conta Como Nota Final
+
+Cada candidato tem uma nota por área. Se fez o ENEM em mais de um ano, pode usar a melhor nota de cada área em edições diferentes, desde que o edital do programa em questão permita.
+
+## Calculadora de Nota do ENEM Pro
+
+Use a calculadora do ENEM Pro para:
+- Simular sua nota estimada por área a partir do número de acertos
+- Comparar com as notas de corte dos cursos de interesse
+- Entender quantos pontos a mais você precisa em cada área
+
+**[Calcular minha nota agora →](/calcular-nota)**
+
+## Perguntas Frequentes
+
+### A média do ENEM inclui a redação?
+Sim. A redação é a 5ª nota e entra na média com o mesmo peso das outras áreas, a menos que o curso aplique peso diferente. Nunca ignore a redação — ela tem o mesmo impacto que Matemática ou Linguagens na média final.
+
+### Posso usar notas de anos diferentes no SISU?
+Sim, o SISU permite usar a melhor nota de cada área de edições diferentes do ENEM. Ou seja, se tirou 750 em Matemática no ENEM 2024 e 800 em Matemática no ENEM 2025, pode usar o 800 mesmo tendo feito o ENEM em anos distintos.
+
+### Como os pesos das áreas variam no SISU?
+Cada curso define seus pesos no edital do SISU. Cursos da área de saúde geralmente dão peso maior para Ciências da Natureza; Direito e Humanas, peso maior para Linguagens e Ciências Humanas; Engenharias, peso maior para Matemática e Ciências da Natureza.
+
+**[Ver notas de corte por curso →](/blog/nota-de-corte-medicina-enem)**
+    `,
+  },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13, ...EXTRA_POSTS_14, ...EXTRA_POSTS_15]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)
@@ -15166,7 +15871,7 @@ export function getCategory(slug: string): BlogCategory {
   if (slug.includes('nota-de-corte') || slug.includes('sisu') || slug.includes('prouni') || slug.includes('medicina') || slug.includes('direito') || slug.includes('engenharia') || slug.includes('psicologia') || slug.includes('odontologia') || slug.includes('computacao') || slug.includes('agronomia') || slug.includes('contabilidade') || slug.includes('pedagogia') || slug.includes('fies') || slug.includes('fisioterapia') || slug.includes('economia') || slug.includes('jornalismo') || slug.includes('servico-social') || slug.includes('educacao-fisica') || slug.includes('veterinaria')) return 'Universidades'
   if (slug.includes('cronograma') || slug.includes('quanto-tempo') || slug.includes('enem-2026') || slug.includes('enem-resultado') || slug.includes('resultado-quando') || slug.includes('data-enem') || slug.includes('inscricao-enem')) return 'Planejamento'
   if (slug.includes('tri-enem') || slug.includes('calcular-nota') || slug.includes('como-funciona') || slug.includes('ppcs') || slug.includes('treineiro') || slug.includes('segunda-chance') || slug.includes('enem-digital') || slug.includes('enem-2025') || slug.includes('segunda-aplicacao') || slug.includes('ingles-ou-espanhol') || slug.includes('prova-computador')) return 'Como Funciona'
-  if (slug.includes('fisica') || slug.includes('quimica') || slug.includes('biologia') || slug.includes('historia') || slug.includes('geografia') || slug.includes('filosofia') || slug.includes('matematica') || slug.includes('ingles') || slug.includes('ciencias') || slug.includes('literatura') || slug.includes('geometria') || slug.includes('estatistica') || slug.includes('interpretacao') || slug.includes('portugues') || slug.includes('trigonometria') || slug.includes('funcoes') || slug.includes('sociologia') || slug.includes('progressoes') || slug.includes('logaritmo') || slug.includes('probabilidade') || slug.includes('matrizes') || slug.includes('eletricidade')) return 'Por Matéria'
+  if (slug.includes('fisica') || slug.includes('quimica') || slug.includes('biologia') || slug.includes('historia') || slug.includes('geografia') || slug.includes('filosofia') || slug.includes('matematica') || slug.includes('ingles') || slug.includes('ciencias') || slug.includes('literatura') || slug.includes('geometria') || slug.includes('estatistica') || slug.includes('interpretacao') || slug.includes('portugues') || slug.includes('trigonometria') || slug.includes('funcoes') || slug.includes('sociologia') || slug.includes('progressoes') || slug.includes('logaritmo') || slug.includes('probabilidade') || slug.includes('matrizes') || slug.includes('eletricidade') || slug.includes('cinematica') || slug.includes('termodinamica') || slug.includes('ecologia') || slug.includes('tabela-periodica') || slug.includes('reacoes-quimicas') || slug.includes('mecanica') || slug.includes('ondulatoria') || slug.includes('otica') || slug.includes('genetica')) return 'Por Matéria'
   if (slug.includes('simulado') || slug.includes('questoes')) return 'Questões'
   if (slug.includes('melhor-app') || slug.includes('alternativa') || slug.includes('online-gratis') || slug.includes('vs-') || slug.includes('banco-de-questoes') || slug.includes('enem-vs')) return 'Comparativos'
   return 'Estratégias'
