@@ -14387,6 +14387,20 @@ Fórmula: variação = (valor final − valor inicial) / valor inicial × 100
 O ENEM Pro tem filtro por tópico — selecione "Matemática Financeira" para resolver questões reais de 2009 a 2024 com explicação de IA para cada erro.
 
 **[Praticar questões de Matemática Financeira →](/questoes?disciplina=matematica)**
+
+## Perguntas Frequentes
+
+### Juros simples ou compostos caem mais no ENEM?
+Juros compostos caem com maior frequência — aparecem em 2 a 3 questões por edição, geralmente com tabela de valores fornecida. Juros simples aparecem menos, mas costumam servir como base de comparação.
+
+### Como calcular porcentagem no ENEM sem calculadora?
+O ENEM não permite calculadora. Para porcentagens comuns, use frações equivalentes: 10% = ÷10; 5% = ÷20; 25% = ÷4; 50% = ÷2. Para aumentos/descontos, multiplique pelo fator: aumento de 20% → ×1,20; desconto de 15% → ×0,85.
+
+### O que é taxa equivalente no ENEM?
+Taxa equivalente é uma taxa para período diferente que produz o mesmo resultado em juros compostos. É cobrada em questões que pedem converter taxa mensal em anual (ou vice-versa). Fórmula: (1 + i_anual) = (1 + i_mensal)¹².
+
+### Matemática Financeira cai no 1º ou 2º dia do ENEM?
+Matemática Financeira cai no 2º dia do ENEM, dentro das 45 questões de Matemática. Geralmente aparecem 2 a 4 questões envolvendo porcentagem, juros ou financiamentos.
     `,
   },
   {
@@ -14477,6 +14491,20 @@ Custo = 40,5 × 0,80 = **R$32,40**
 O ENEM Pro filtra questões por tópico dentro de Física — selecione "Eletricidade" para resolver questões reais de 2009 a 2024.
 
 **[Praticar questões de Física →](/questoes?disciplina=ciencias-natureza)**
+
+## Perguntas Frequentes
+
+### Quantas questões de Física caem no ENEM?
+Física representa cerca de 15 questões das 45 de Ciências da Natureza, divididas com Química e Biologia. Eletricidade aparece em 3 a 5 dessas questões por edição.
+
+### Eletrostática cai muito no ENEM?
+Eletrostática (carga, força de Coulomb, campo elétrico) cai com frequência média — geralmente 1 a 2 questões por edição, normalmente em contexto conceitual, não de cálculo puro.
+
+### Como calcular resistência equivalente no paralelo?
+Para dois resistores R₁ e R₂ em paralelo: R_eq = (R₁ × R₂) / (R₁ + R₂). Para dois resistores iguais R em paralelo: R_eq = R/2. Para mais de dois, use a fórmula 1/R_eq = 1/R₁ + 1/R₂ + 1/R₃...
+
+### Lei de Ohm cai no ENEM?
+Sim, com alta frequência. A relação V = R × i aparece em praticamente todas as edições, geralmente em questões sobre circuitos domésticos, chuveiros e lâmpadas.
     `,
   },
   {
@@ -14538,6 +14566,20 @@ As questões geralmente testam:
 Matematicamente, as 5 questões de língua estrangeira têm o mesmo peso que qualquer outro grupo de 5 questões. Não há bônus por escolher inglês ou espanhol — o que importa é acertar mais.
 
 **[Praticar questões de Linguagens →](/questoes?disciplina=linguagens)**
+
+## Perguntas Frequentes
+
+### Inglês ou espanhol é mais fácil no ENEM?
+Para a maioria dos candidatos brasileiros, o espanhol costuma ser mais acessível pela proximidade com o português — especialmente cognatos. Porém, se você estudou inglês, provavelmente vai melhor em inglês. A melhor estratégia é olhar os dois blocos de questões na prova e escolher o mais fácil para você naquele dia.
+
+### Precisa escolher inglês ou espanhol antes da prova?
+Não. A escolha é feita na própria prova, no momento de responder. Você tem acesso a ambos os blocos de questões e decide qual responder. Só é possível responder um dos grupos.
+
+### Posso mudar de inglês para espanhol na hora da prova?
+Sim, até o momento em que você marcar as respostas no cartão resposta. Você pode ler as questões de ambas as línguas antes de decidir qual grupo vai responder.
+
+### A nota de inglês e espanhol influencia diferente no ENEM?
+Não. As 5 questões de língua estrangeira têm o mesmo peso seja em inglês ou espanhol. A área de Linguagens tem peso igual às outras 4 áreas na nota final.
     `,
   },
   {
@@ -14598,6 +14640,20 @@ Se quiser simular sua nota na escala do TRI com base no gabarito, use a calculad
 ---
 
 Para gabaritos de outras edições: [ENEM 2024](/blog/gabarito-enem-2024) · [ENEM 2023](/blog/gabarito-enem-2023) · [ENEM 2022](/blog/gabarito-enem-2022) · [ENEM 2021](/blog/gabarito-enem-2021) · [ENEM 2020](/blog/gabarito-enem-2020) · [ENEM 2019](/blog/gabarito-enem-2019) · [ENEM 2018](/blog/gabarito-enem-2018) · [ENEM 2017](/blog/gabarito-enem-2017)
+
+## Perguntas Frequentes
+
+### Qual o tema da redação do ENEM 2016?
+O tema da redação do ENEM 2016 foi "Caminhos para combater a intolerância religiosa no Brasil".
+
+### Onde encontro o gabarito oficial do ENEM 2016?
+O gabarito oficial do ENEM 2016 está disponível no site do INEP (enem.inep.gov.br). É o único local com o gabarito 100% oficial para todas as cores de prova.
+
+### Quantas questões tem o ENEM 2016?
+O ENEM 2016 tinha 180 questões de múltipla escolha (45 de Linguagens, 45 de Ciências Humanas, 45 de Ciências da Natureza e 45 de Matemática), além da redação.
+
+### O gabarito do ENEM 2016 é diferente por cor de prova?
+Sim. Cada cor de prova (Amarela, Azul, Rosa, Branca) tem uma sequência diferente de questões, mas o conteúdo avaliado é o mesmo. O gabarito do INEP detalha a resposta correta para cada questão em cada cor.
     `,
   },
   {
@@ -14668,6 +14724,20 @@ Para medicina, seja federal ou particular via ProUni, você precisa de nota acim
 **[Simular minha nota e distância para medicina →](/calcular-nota)**
 
 **[Ver notas de corte para medicina federal →](/blog/nota-de-corte-medicina-federal-por-estado)**
+
+## Perguntas Frequentes
+
+### Qual a nota mínima no ENEM para entrar em medicina particular?
+Para o FIES, a nota mínima de elegibilidade é 450 em cada área. Para o ProUni (bolsa integral), a nota de corte real para medicina costuma ser 750 a 800+. Para vestibular próprio de particulares, varia por instituição — geralmente 600 a 750.
+
+### Medicina pelo ProUni vale tanto quanto medicina paga?
+O diploma de medicina tem o mesmo valor legal independentemente da instituição. O que varia é a qualidade do ensino e a infraestrutura. Faculdades particulares variam muito — pesquise nota no MEC, ENADE e infraestrutura antes de escolher.
+
+### Posso fazer medicina em particular sem ProUni e sem FIES?
+Sim. Você pode pagar as mensalidades integralmente, usar bolsas internas da faculdade, ou usar financiamento privado (como o do próprio banco da faculdade). A nota do ENEM pode ainda ser usada como critério de seleção, mesmo sem ProUni ou FIES.
+
+### Nota zero na redação elimina do ProUni para medicina?
+Sim. Nota zero na redação do ENEM elimina automaticamente do ProUni e do FIES, independentemente da nota nas demais áreas. É o critério eliminatório mais comum nesses programas.
     `,
   },
   {
@@ -14753,6 +14823,20 @@ Exemplo de conclusão bem estruturada:
 
 **[Praticar temas de redação do ENEM →](/temas-redacao)**
 **[Como tirar 1000 na redação →](/blog/redacao-enem-como-tirar-1000)**
+
+## Perguntas Frequentes
+
+### O que é texto dissertativo-argumentativo?
+É um texto que defende um ponto de vista (tese) sobre um tema e argumenta com fatos e raciocínio lógico. É o único tipo aceito na redação do ENEM. Não são aceitos textos narrativos, poemas, ou relatos pessoais.
+
+### Quantas competências são avaliadas na redação do ENEM?
+São 5 competências, cada uma valendo até 200 pontos, totalizando 1000 pontos. A Competência I avalia norma culta; II avalia tema e tipo textual; III avalia argumentação; IV avalia coesão; V avalia a proposta de intervenção.
+
+### O que é a proposta de intervenção na redação do ENEM?
+É o trecho da conclusão onde você propõe uma solução detalhada para o problema discutido. Deve ter 5 elementos: agente, ação, meio, finalidade e detalhamento. Uma proposta vaga pode custar até 200 pontos na Competência V.
+
+### Quantas linhas deve ter a redação do ENEM?
+O ENEM não define um mínimo oficial além de 7 linhas (abaixo disso, a redação pode ser desclassificada). O recomendado pelos especialistas é entre 25 e 30 linhas — o suficiente para introdução (3-5 linhas), dois parágrafos de desenvolvimento (8-10 linhas cada) e conclusão (4-5 linhas).
     `,
   },
   {
@@ -14817,6 +14901,20 @@ Após o resultado, sua nota fica registrada no boletim de desempenho normalmente
 
 **[Ver como funciona o SISU →](/blog/sisu-como-funciona)**
 **[Ver como funciona o ProUni →](/blog/prouni-como-funciona)**
+
+## Perguntas Frequentes
+
+### Quem pode solicitar a segunda aplicação do ENEM?
+Candidatos que não compareceram na data regular por motivo justificável (doença, morte de familiar) podem solicitar. Candidatos em privação de liberdade têm aplicação separada garantida automaticamente.
+
+### A nota da 2ª aplicação vale igual à da 1ª?
+Sim. A nota da segunda aplicação é calculada pela mesma metodologia TRI e tem exatamente o mesmo valor para SISU, ProUni, FIES e demais programas. Não existe hierarquia entre as aplicações.
+
+### Qual o prazo para enviar a justificativa de ausência no ENEM?
+O prazo costuma ser de 1 a 2 semanas após a data da prova, conforme estipulado no Edital. O envio é feito pelo sistema da Página do Participante (enem.inep.gov.br). Acompanhe o edital para a data exata.
+
+### Se eu fiz a 1ª aplicação e também a 2ª, qual nota vale?
+Candidatos não fazem as duas aplicações na mesma edição — a 2ª aplicação é para quem não fez a 1ª. Exceto no caso de candidatos PPL, que têm aplicação em datas diferentes por logística.
     `,
   },
   {
@@ -14866,6 +14964,20 @@ Nas últimas 4-6 semanas antes da prova, faça simulados completos (90 questões
 Resolver 500 questões e não analisar os erros é menos eficiente do que resolver 200 e estudar profundamente cada erro. Use o banco de questões como ferramenta de diagnóstico — não apenas como acúmulo de respostas.
 
 **[Começar a praticar questões do ENEM →](/questoes)**
+
+## Perguntas Frequentes
+
+### Qual o melhor site para praticar questões do ENEM grátis?
+O ENEM Pro oferece 10 questões grátis por dia com explicação de IA por erro, filtradas por disciplina e ano — sem precisar de cartão. O INEP também disponibiliza as provas completas em PDF no enem.inep.gov.br.
+
+### De que ano são as questões do ENEM disponíveis online?
+O INEP mantém as provas do ENEM desde 1998. Plataformas como o ENEM Pro oferecem questões de 2009 a 2024 com gabarito e explicações detalhadas.
+
+### Quantas questões do ENEM devo resolver por dia?
+Para estudo regular, 20 a 30 questões por dia é o recomendado — o suficiente para manter ritmo sem saturar. Mais importante que a quantidade é analisar cada erro e estudar o conteúdo relacionado.
+
+### Praticar questões online é tão bom quanto resolver no papel?
+Para o ENEM regular (impresso), muitos candidatos preferem simular no papel para habituar o olho ao formato. Para o ENEM Digital, praticar online é mais fiel à experiência real da prova.
     `,
   },
   {
@@ -14928,6 +15040,20 @@ O ENEM abre acesso a muito mais vagas no total — mas as universidades mais con
 
 **[Ver cronograma de estudos para o ENEM →](/blog/cronograma-enem-6-meses)**
 **[Simular minha nota →](/calcular-nota)**
+
+## Perguntas Frequentes
+
+### ENEM ou vestibular — qual fazer primeiro?
+Depende do objetivo. Se quer universidade federal, foque no ENEM. Se quer FUVEST (USP) ou UNICAMP, precisa do vestibular próprio — mas o conteúdo se sobrepõe em ~70-80%, então preparo conjunto é possível.
+
+### Nota do ENEM substitui vestibular da USP?
+A USP tem dois caminhos: pelo SISU (nota do ENEM) e pela FUVEST (vestibular próprio). Para medicina e cursos mais concorridos na USP, a FUVEST ainda domina. Verifique o edital atual da USP para a proporção de vagas por cada via.
+
+### ITA aceita nota do ENEM?
+Não. O ITA (Instituto Tecnológico de Aeronáutica) tem processo seletivo próprio e não usa a nota do ENEM para ingresso. O mesmo vale para o IME e as academias militares.
+
+### É possível passar em medicina só com o ENEM?
+Sim, pela SISU (medicina em federais) e pelo ProUni/FIES (particulares). Mas a competição é muito alta — notas acima de 750-800 em todas as áreas são exigidas na prática. Ver: [nota para medicina pelo ENEM →](/blog/nota-enem-medicina-particular).
     `,
   },
   {
@@ -15000,6 +15126,20 @@ A tese forte já aponta os argumentos — educação e legislação — que ser�
 
 **[Ver como estruturar a redação completa →](/blog/como-fazer-redacao-enem-passo-a-passo)**
 **[Temas prováveis para treinar →](/blog/redacao-enem-temas-provaveis-2026)**
+
+## Perguntas Frequentes
+
+### Quantas linhas deve ter a introdução da redação do ENEM?
+O ideal é entre 3 e 5 linhas. Uma introdução muito curta (1-2 linhas) não contextualiza adequadamente; uma muito longa (mais de 6 linhas) consome espaço do desenvolvimento e pode indicar dificuldade em ser objetivo.
+
+### Como começar a introdução da redação sem clichê?
+Evite aberturas genéricas como "Desde os primórdios...". Prefira: dados concretos ("Segundo o IBGE..."), contexto histórico específico, ou citação de pensador relevante. A contextualização deve ter informação — não apenas rodeios.
+
+### A introdução precisa ter a tese explícita?
+Sim. A tese é um dos elementos fundamentais avaliados pela Competência III. Ela deve ser uma afirmação clara do seu ponto de vista sobre o problema — não uma pergunta, não uma obviedade, mas uma posição que você vai defender com argumentos nos parágrafos seguintes.
+
+### Posso mudar de tese ao longo da redação?
+Não. A tese deve ser consistente do início ao fim. Se sua conclusão contradiz sua introdução, você perde pontos em coerência (Competência IV). Defenda a mesma posição do início ao fim, aprofundando os argumentos.
     `,
   },
 ]

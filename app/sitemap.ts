@@ -51,12 +51,26 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }))
   )
 
-  const blogPages: MetadataRoute.Sitemap = getAllPosts().map(post => ({
-    url: `${base}/blog/${post.slug}`,
-    lastModified: new Date(post.date),
-    changeFrequency: 'yearly' as const,
-    priority: post.slug.includes('gabarito') || post.slug.includes('calcular-nota') || post.slug.includes('nota-de-corte') ? 0.8 : 0.65,
-  }))
+  const blogPages: MetadataRoute.Sitemap = getAllPosts().map(post => {
+    const isHighPriority =
+      post.slug.includes('gabarito') ||
+      post.slug.includes('nota-de-corte') ||
+      post.slug.includes('resultado-enem') ||
+      post.slug.includes('quando-sai') ||
+      post.slug.includes('medicina') ||
+      post.slug.includes('sisu') ||
+      post.slug.includes('prouni') ||
+      post.slug.includes('redacao-enem') ||
+      post.slug.includes('matematica-financeira') ||
+      post.slug.includes('cronograma-enem') ||
+      post.slug.includes('como-estudar')
+    return {
+      url: `${base}/blog/${post.slug}`,
+      lastModified: new Date(post.date),
+      changeFrequency: 'yearly' as const,
+      priority: isHighPriority ? 0.8 : 0.65,
+    }
+  })
 
   const gabaritoPages: MetadataRoute.Sitemap = [2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009].map(year => ({
     url: `${base}/gabarito/${year}`,

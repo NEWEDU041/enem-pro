@@ -29,7 +29,7 @@ const teamSchema = {
     url: SITE_URL,
     foundingDate: '2024',
     description:
-      'Plataforma com mais de 150 guias de estudo, questões reais do INEP (2009–2024) e correção de redação por IA.',
+      'Plataforma com mais de 176 guias de estudo, questões reais do INEP (2009–2024) e correção de redação por IA.',
     employee: [
       {
         '@type': 'Person',
@@ -60,7 +60,7 @@ export default function SobrePage() {
         <section className="mb-12">
           <h2 className="text-xl font-bold text-zinc-900 mb-3">Nossa Missão</h2>
           <p className="text-zinc-700 leading-relaxed mb-3">
-            O ENEM Pro existe para democratizar a preparação de qualidade. Reunimos mais de 150
+            O ENEM Pro existe para democratizar a preparação de qualidade. Reunimos mais de 176
             guias de estudo escritos por professores, questões reais do INEP de 2009 a 2024 e
             correção de redação por inteligência artificial — tudo em um só lugar.
           </p>
@@ -137,7 +137,7 @@ export default function SobrePage() {
           <h2 className="text-xl font-bold text-zinc-900 mb-6 text-center">ENEM Pro em Números</h2>
           <div className="grid grid-cols-2 gap-4 sm:grid-cols-4">
             {[
-              { value: '150+', label: 'Guias de Estudo' },
+              { value: '176+', label: 'Guias de Estudo' },
               { value: '2009–2024', label: 'Questões INEP' },
               { value: '9', label: 'Categorias de Conteúdo' },
               { value: '100%', label: 'Dados Oficiais' },
