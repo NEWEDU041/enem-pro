@@ -47,6 +47,7 @@ export const metadata: Metadata = {
   },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1, 'max-video-preview': -1 } },
   alternates: { canonical: siteUrl },
+  verification: { google: 'ILUISrN9vOLJmh_XVEaBC1WXTiOCVh_4laEFxk7v6Eg' },
 }
 
 export const viewport: Viewport = {
