@@ -15849,7 +15849,816 @@ Cada curso define seus pesos no edital do SISU. Cursos da área de saúde geralm
   },
 ]
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13, ...EXTRA_POSTS_14, ...EXTRA_POSTS_15]
+const EXTRA_POSTS_16: BlogPost[] = [
+  {
+    slug: 'questoes-de-matematica-enem',
+    title: 'Questões de Matemática do ENEM — Banco com Gabarito e Resolução',
+    description: 'Pratique com questões reais de Matemática do ENEM. Funções, geometria, probabilidade, estatística e muito mais, com gabarito comentado.',
+    date: '2026-06-19',
+    readTime: 6,
+    content: `
+Matemática é a disciplina que mais assusta os candidatos do ENEM — e também uma das que mais divide notas. Treinar com questões reais é o caminho mais eficiente para superar o bloqueio e melhorar a pontuação.
+
+## O Que Cai em Matemática no ENEM
+
+| Tópico | Frequência | Peso |
+|--------|-----------|------|
+| Funções (1º e 2º grau) | Muito alta | Alto |
+| Geometria plana e espacial | Alta | Alto |
+| Probabilidade e estatística | Alta | Médio |
+| Progressões (PA e PG) | Média | Médio |
+| Matemática financeira | Alta | Alto |
+| Trigonometria | Média | Médio |
+| Logaritmos | Média | Médio |
+| Matrizes e determinantes | Baixa | Baixo |
+
+## Por Que Matemática no ENEM é Diferente
+
+O ENEM não cobra decoreba. As questões apresentam **situações-problema contextualizadas**: você precisa identificar o modelo matemático adequado, não apenas aplicar uma fórmula de cabeça.
+
+Exemplo típico: uma questão de juros compostos pode vir embutida em um texto sobre financiamento de imóvel — o candidato precisa ler o enunciado, extrair os dados e montar a equação.
+
+**A leitura e interpretação do enunciado vale tanto quanto o cálculo.**
+
+## Estratégia para Resolver Questões de Matemática
+
+1. **Leia o enunciado duas vezes** — erros acontecem por pressa na leitura
+2. **Identifique o que está sendo pedido** — a pergunta real pode estar escondida
+3. **Anote os dados relevantes** — separe o que sabe do que precisa descobrir
+4. **Descarte alternativas absurdas** — se a resposta precisa ser positiva, elimine negativas
+5. **Confira a ordem de grandeza** — uma resposta de centenas de quilômetros para distância urbana é suspeita
+
+## Como Praticar Questões de Matemática
+
+O caminho mais eficiente é praticar em blocos de dificuldade crescente:
+
+- **Semanas 1-2:** Funções do 1º grau, porcentagem, razão e proporção
+- **Semanas 3-4:** Funções do 2º grau, geometria plana (área, perímetro)
+- **Semanas 5-6:** Probabilidade, estatística básica, PA e PG
+- **Semanas 7-8:** Matemática financeira, logaritmos, geometria espacial
+- **Semanas 9-10:** Trigonometria, revisão com simulados cronometrados
+
+## Gabarito e Resolução
+
+Resolver uma questão é metade do caminho. Ler a resolução — mesmo quando acerta — revela abordagens mais rápidas e consolida o raciocínio.
+
+**[Praticar questões de Matemática com gabarito →](/questoes?disciplina=matematica)**
+
+## Perguntas Frequentes
+
+### Quantas questões de Matemática tem no ENEM?
+São 45 questões na prova de Matemática e suas Tecnologias, aplicadas no segundo dia do ENEM junto com Ciências da Natureza (outras 45 questões). O candidato tem 5 horas para resolver as 90 questões e escrever a redação no segundo dia.
+
+### Posso usar calculadora no ENEM?
+Não. Calculadoras não são permitidas no ENEM. Por isso, as questões são elaboradas para serem resolvidas com cálculos simples — o INEP evita contas com muitos decimais ou raízes complexas. O foco é no raciocínio lógico, não na habilidade de calcular.
+
+### Qual é a média de Matemática para passar no SISU?
+Depende do curso e da universidade. Para cursos de Engenharia nas federais mais concorridas, a nota de corte em Matemática costuma ficar acima de 700 pontos. Para cursos de humanas, o impacto de Matemática é menor dependendo do peso aplicado pelo curso.
+
+**[Calcular minha nota estimada →](/calcular-nota)**
+    `,
+  },
+  {
+    slug: 'questoes-de-fisica-enem',
+    title: 'Questões de Física do ENEM — Banco com Gabarito e Resolução',
+    description: 'Pratique com questões reais de Física do ENEM. Mecânica, termodinâmica, eletricidade, ótica e ondas, com gabarito comentado.',
+    date: '2026-06-19',
+    readTime: 6,
+    content: `
+Física é parte das 45 questões de Ciências da Natureza no ENEM — dividida com Química e Biologia. Embora apareçam cerca de 15 questões de Física por prova, o impacto na nota é significativo. Pratique com questões reais para superar a dificuldade.
+
+## O Que Cai em Física no ENEM
+
+| Tópico | Frequência |
+|--------|-----------|
+| Mecânica (cinemática, dinâmica, energia) | Muito alta |
+| Eletricidade (lei de Ohm, circuitos) | Alta |
+| Termodinâmica | Alta |
+| Ondas e som | Média |
+| Ótica (reflexão, refração) | Média |
+| Física moderna (radioatividade, fotoelétrico) | Média |
+| Magnetismo | Baixa/Média |
+
+## Física no ENEM: O Que Muda em Relação ao Colégio
+
+O ENEM raramente pede a aplicação direta de fórmula. As questões de Física:
+
+- São **contextualizadas** com situações do cotidiano (trânsito, eletrodomésticos, saúde)
+- Pedem **interpretação qualitativa** além do cálculo numérico
+- Frequentemente envolvem **gráficos e tabelas** para extrair dados
+- Relacionam **mais de um conceito** na mesma questão
+
+Exemplo: uma questão pode apresentar um gráfico de velocidade × tempo e pedir a força resultante — o candidato precisa calcular aceleração pelo gráfico e depois aplicar a Segunda Lei de Newton.
+
+## Mecânica: O Coração de Física no ENEM
+
+Mecânica responde por ~40-50% das questões de Física. Priorize:
+
+### Cinemática
+- Movimento uniforme: v = d/t
+- Movimento uniformemente variado: v = v₀ + at, d = v₀t + ½at²
+- Leitura de gráficos v×t e d×t
+
+### Dinâmica
+- Segunda Lei de Newton: F = ma
+- Peso: P = mg (g ≈ 10 m/s²)
+- Atrito: Fat = μ × N
+
+### Energia
+- Energia cinética: Ec = mv²/2
+- Trabalho: W = F × d × cos θ
+- Conservação de energia mecânica
+
+## Estratégia de Estudo por Semanas
+
+- **Semanas 1-2:** Cinemática + gráficos de movimento
+- **Semanas 3-4:** Dinâmica + leis de Newton
+- **Semanas 5-6:** Energia, trabalho e potência
+- **Semanas 7-8:** Eletricidade + lei de Ohm
+- **Semanas 9-10:** Termodinâmica + ondas + revisão
+
+## Como Praticar
+
+Resolva questões por tema antes de fazer simulados completos. Ao errar, identifique se o erro foi:
+- **Conceitual** (não entendeu o fenômeno) → revisar teoria
+- **Matemático** (erro de cálculo) → checar operações
+- **Interpretação** (leu errado o enunciado) → treinar leitura lenta
+
+**[Praticar questões de Física →](/questoes?disciplina=ciencias-natureza)**
+
+## Perguntas Frequentes
+
+### Quantas questões de Física caem no ENEM?
+Em média, 15 questões de Física aparecem nas 45 questões de Ciências da Natureza, mas esse número pode variar — já houve provas com 13 e com 17. Química e Biologia dividem as demais questões.
+
+### Preciso saber todas as fórmulas de Física?
+Não. O ENEM disponibiliza uma folha com as principais fórmulas de Física e Química no caderno de questões. Portanto, o foco deve ser em saber **quando e como aplicar** cada fórmula, não em memorizá-las.
+
+### Como melhorar em Física sem professor particular?
+Vídeo-aulas + questões comentadas funcionam muito bem para Física. Assista a explicação, tente resolver 5-10 questões do tema, releia os erros com atenção. Sites e apps como o ENEM Pro (questões comentadas por IA) permitem aprender no próprio ritmo sem precisar de professor.
+
+**[Estudar Física para o ENEM →](/blog/como-estudar-fisica-enem)**
+    `,
+  },
+  {
+    slug: 'gabarito-enem-2015',
+    title: 'Gabarito ENEM 2015 — Todas as Disciplinas e Análise da Prova',
+    description: 'Gabarito completo do ENEM 2015 com análise das disciplinas, temas de redação e questões mais cobradas. Edição com ~8 milhões de inscritos.',
+    date: '2026-06-19',
+    readTime: 7,
+    content: `
+O ENEM 2015 foi aplicado em outubro de 2015, com cerca de 8 milhões de inscritos. A edição ficou marcada pela diversidade temática na redação e por questões de Matemática com dificuldade acima da média histórica.
+
+## Gabarito Oficial ENEM 2015
+
+O gabarito oficial do ENEM 2015 foi divulgado pelo INEP no dia seguinte à aplicação. Cada caderno de cor tinha uma ordenação diferente de questões, mas o conteúdo era idêntico.
+
+Para acessar o gabarito oficial completo com a ordenação por caderno:
+**[Gabarito oficial INEP (enem.inep.gov.br)](https://enem.inep.gov.br)**
+
+## Análise por Área — ENEM 2015
+
+### Matemática e suas Tecnologias
+
+A prova de Matemática 2015 foi considerada **difícil pela maioria dos candidatos**. Os destaques foram:
+
+- **Funções exponenciais** com contexto de crescimento populacional
+- **Geometria espacial** — cone e esfera (volumes e áreas)
+- **Probabilidade condicional** — assunto pouco trabalhado no Ensino Médio
+- **Matemática financeira** — juros compostos aplicados a financiamento
+
+Média nacional estimada: abaixo da média histórica, com muitos candidatos não passando de 550 pontos.
+
+### Ciências da Natureza e suas Tecnologias
+
+Física, Química e Biologia apresentaram equilíbrio de dificuldade. Destaques:
+
+**Física:**
+- Termodinâmica — máquinas térmicas e eficiência
+- Eletromagnetismo — força magnética em condutores
+
+**Química:**
+- Estequiometria com pureza de reagente
+- Química orgânica — isomeria e nomenclatura
+
+**Biologia:**
+- Genética — probabilidade de herança
+- Ecologia — cadeias alimentares e fluxo de energia
+- Evolução — seleção natural
+
+### Ciências Humanas e suas Tecnologias
+
+Forte presença de questões com interpretação de fontes históricas primárias (documentos, gravuras, mapas). Temas marcantes:
+
+- História do Brasil: República Velha e Era Vargas
+- Geopolítica: conflitos no Oriente Médio e África
+- Filosofia: iluminismo e contratualismo
+- Sociologia: movimentos sociais contemporâneos
+
+### Linguagens, Códigos e suas Tecnologias
+
+- Interpretação de textos multimodais (charges, infográficos, poemas)
+- Literatura: modernismo brasileiro
+- Inglês: textos de divulgação científica
+- Publicidade e propaganda: análise crítica
+
+## Redação ENEM 2015
+
+**Tema:** A persistência da violência contra a mulher na sociedade brasileira
+
+O tema gerou debates por abordar violência de gênero, exigindo dos candidatos repertório sobre a Lei Maria da Penha, estatísticas de feminicídio e propostas concretas de intervenção. Candidatos que apresentaram proposta sem considerar o aspecto estrutural/cultural da violência perderam pontos na Competência V.
+
+**Média nacional de redação 2015:** aproximadamente 510 pontos (escala de 0 a 1000).
+
+## Notas de Corte — ENEM 2015
+
+As notas de corte para medicina nas federais com base no ENEM 2015 (via SISU) ficaram entre **750 e 850 pontos** por área (média ponderada dependendo da faculdade).
+
+**[Ver notas de corte atuais →](/blog/nota-de-corte-medicina-enem)**
+
+## Onde Encontrar as Questões do ENEM 2015
+
+As provas anteriores do ENEM estão disponíveis no site do INEP para download gratuito. No ENEM Pro, você pode praticar questões reais de anos anteriores com gabarito e explicação gerada por IA.
+
+**[Praticar questões do ENEM →](/questoes)**
+
+## Perguntas Frequentes
+
+### Onde encontro o gabarito oficial do ENEM 2015?
+O gabarito oficial está disponível no site do INEP (enem.inep.gov.br) na seção de provas e gabaritos anteriores. Lá você encontra o gabarito de cada cor de caderno (amarelo, azul, branco, rosa).
+
+### O ENEM 2015 foi mais difícil que o de outros anos?
+Sim, especialmente em Matemática. A prova de 2015 apresentou questões que exigiam raciocínio combinado (mais de um conceito por questão) com maior frequência do que a média histórica, resultando em notas mais baixas nessa área.
+
+### Qual foi o tema da redação do ENEM 2015?
+O tema foi "A persistência da violência contra a mulher na sociedade brasileira". Era esperado que o candidato abordasse causas culturais/históricas e propusesse intervenções concretas com agente, ação, modo, finalidade e detalhamento.
+    `,
+  },
+  {
+    slug: 'gabarito-matematica-enem-2020',
+    title: 'Gabarito de Matemática ENEM 2020 — Resolução e Análise',
+    description: 'Gabarito completo de Matemática do ENEM 2020 com análise das questões, temas cobrados e resolução comentada.',
+    date: '2026-06-19',
+    readTime: 6,
+    content: `
+O ENEM 2020 foi uma edição histórica — aplicado em janeiro de 2021 após adiamento pela pandemia de COVID-19. A prova de Matemática manteve o foco em contextualização e resolução de problemas práticos.
+
+## Sobre o ENEM 2020
+
+| Dado | Informação |
+|------|------------|
+| Data da aplicação | Janeiro de 2021 (adiado por COVID-19) |
+| Formato | Presencial com protocolos sanitários |
+| Inscritos | ~5,7 milhões (redução histórica pela pandemia) |
+| Cadernos disponíveis | Amarelo, Azul, Rosa, Cinza |
+
+## Gabarito Oficial de Matemática 2020
+
+O gabarito oficial do ENEM 2020 (Matemática e suas Tecnologias) está disponível no portal do INEP. O caderno amarelo, por ser o mais comum, é a referência mais utilizada.
+
+Para o gabarito por cor de caderno: **[enem.inep.gov.br](https://enem.inep.gov.br)**
+
+## Análise das Questões — Matemática ENEM 2020
+
+### Temas Mais Cobrados
+
+| Tópico | Questões Estimadas |
+|--------|-------------------|
+| Funções (linear e quadrática) | 8-10 |
+| Geometria plana e espacial | 7-8 |
+| Probabilidade e estatística | 6-7 |
+| Matemática financeira | 5-6 |
+| Progressões | 3-4 |
+| Logaritmos | 2-3 |
+| Trigonometria | 2-3 |
+
+### Destaques da Prova 2020
+
+A prova de Matemática do ENEM 2020 apresentou características particulares:
+
+- **Forte contextualização com dados reais** — questões sobre crescimento de casos de COVID-19, gráficos epidemiológicos e análise de taxas
+- **Geometria espacial com aplicação** — volumes de embalagens, capacidade de reservatórios
+- **Estatística descritiva** — média, mediana, moda em situações de saúde pública
+- **Juros e financiamentos** — cálculo de prestações com juros compostos
+
+### Questões Comentadas (Estilo)
+
+**Tipo mais frequente — Função do 1º grau:**
+Dado um plano de dados com tarifa fixa e cobrança por minuto, o candidato precisa montar a função e calcular o ponto de equilíbrio entre dois planos.
+
+**Tipo frequente — Probabilidade:**
+Questões com urnas, cartas, dados ou situações do cotidiano pedindo probabilidade simples ou condicional.
+
+**Tipo frequente — Geometria:**
+Cálculo de área de figura composta, volume de prisma ou pirâmide com dados fornecidos em diagrama.
+
+## Dicas para Usar o Gabarito 2020 no Estudo
+
+1. **Resolva antes de ver o gabarito** — nunca copie direto
+2. **Analise os erros tema por tema** — identifique onde concentrar esforço
+3. **Compare com provas de outros anos** — o ENEM tem padrões recorrentes
+4. **Cronometre** — na prova real você tem ~3 minutos por questão
+
+**[Praticar questões de Matemática →](/questoes?disciplina=matematica)**
+
+## Perguntas Frequentes
+
+### Por que o ENEM 2020 foi aplicado em 2021?
+O ENEM 2020 foi adiado duas vezes por causa da pandemia de COVID-19. Originalmente marcado para novembro de 2020, foi realizado em janeiro de 2021, com protocolos sanitários rigorosos nos locais de prova.
+
+### O ENEM 2020 foi mais fácil por causa da pandemia?
+A análise de especialistas e os índices TRI não indicaram facilitação geral. A prova manteve o padrão de dificuldade, embora tenha incorporado contextos relacionados à pandemia em algumas questões, especialmente em estatística e Biologia.
+
+### Posso usar o gabarito do ENEM 2020 para estudar para 2026?
+Sim. O ENEM mantém coerência de temas e formato ao longo dos anos. Praticar com questões de 2020 é válido — os temas cobrados seguem a mesma BNCC e os padrões de contextualização são similares.
+
+**[Ver gabarito completo ENEM 2024 →](/blog/gabarito-enem-2024)**
+    `,
+  },
+  {
+    slug: 'gabarito-ciencias-natureza-enem-2020',
+    title: 'Gabarito de Ciências da Natureza ENEM 2020 — Física, Química e Biologia',
+    description: 'Gabarito de Ciências da Natureza do ENEM 2020 com análise de Física, Química e Biologia. Edição adiada pela pandemia de COVID-19.',
+    date: '2026-06-19',
+    readTime: 6,
+    content: `
+A prova de Ciências da Natureza do ENEM 2020 foi marcada pelo contexto pandêmico — várias questões abordaram diretamente conceitos de epidemiologia, imunologia e cálculos com dados de saúde pública.
+
+## Sobre a Prova de Ciências da Natureza 2020
+
+- **Total de questões:** 45 (Física, Química e Biologia)
+- **Aplicação:** Janeiro de 2021 (prova do 1º dia junto com Ciências Humanas)
+- **Destaque:** Forte presença de COVID-19 como contexto temático
+
+## Gabarito Oficial
+
+O gabarito oficial de Ciências da Natureza do ENEM 2020 está disponível no portal do INEP. Acesse o caderno de sua cor para encontrar a ordem correta das questões.
+
+**[Portal INEP — Gabaritos Anteriores](https://enem.inep.gov.br)**
+
+## Análise por Disciplina
+
+### Física (≈15 questões)
+
+O ENEM 2020 cobrou fortemente em Física:
+
+- **Termodinâmica** — processos isotérmico, isobárico e adiabático; máquinas térmicas
+- **Eletricidade** — resistência elétrica, efeito Joule, consumo de energia (kWh)
+- **Ótica** — reflexão especular, refração, lentes convergentes
+- **Mecânica** — segunda lei de Newton em situações cotidianas
+- **Ondulatória** — frequência, comprimento de onda, velocidade de propagação
+
+**Contexto COVID-19 em Física:** questões sobre ultrassom diagnóstico, ventiladores mecânicos e funcionamento de equipamentos hospitalares.
+
+### Química (≈15 questões)
+
+- **Estequiometria** — cálculos de massa, rendimento e pureza
+- **Termoquímica** — entalpia, calorimetria, aquecimento global
+- **Química orgânica** — funções orgânicas, isomeria, nomenclatura
+- **Eletroquímica** — pilhas, eletrólise (questão clássica)
+- **Soluções** — concentração, diluição, mistura de soluções
+
+**Contexto COVID-19 em Química:** álcool gel, hipoclorito de sódio (água sanitária), mecanismo de ação de desinfetantes.
+
+### Biologia (≈15 questões)
+
+Biologia foi o destaque temático da prova de 2020:
+
+- **Virologia e imunologia** — estrutura de vírus, resposta imune, vacinas
+- **Genética** — herança mendeliana, mapeamento genético, DNA
+- **Ecologia** — cadeias alimentares, impacto humano, biomas
+- **Evolução** — seleção natural, adaptação, deriva genética
+- **Fisiologia humana** — sistemas respiratório e cardiovascular
+
+**O tema COVID-19 dominou Biologia:** estrutura do coronavírus, mecanismo de infecção das células pulmonares, resposta imunológica e desenvolvimento de vacinas.
+
+## Como Estudar com o Gabarito 2020
+
+A prova de 2020 é excelente para treinar porque:
+1. **Apresenta contextos interdisciplinares** — uma questão pode misturar Física e Química
+2. **Mostra como o ENEM contextualiza temas de saúde** — padrão que se repete
+3. **Biologia do ENEM 2020 é referência** para entender virologia aplicada
+
+**[Praticar questões de Ciências da Natureza →](/questoes?disciplina=ciencias-natureza)**
+
+## Perguntas Frequentes
+
+### O COVID-19 dominou a prova de Biologia do ENEM 2020?
+Sim. O ENEM 2020 foi um dos primeiros grandes vestibulares a incorporar a pandemia como contexto temático. Questões de virologia, imunologia e saúde pública foram mais presentes do que em edições anteriores, refletindo a realidade do período.
+
+### Física no ENEM 2020 foi mais difícil que em outros anos?
+A percepção dos candidatos foi de dificuldade similar à média. As questões de termodinâmica e eletricidade são recorrentes. O diferencial foi a contextualização com equipamentos hospitalares (ventiladores, monitores cardíacos).
+
+### Vale praticar com o gabarito de 2020 para o ENEM 2026?
+Sim. O ENEM mantém consistência de temas ao longo dos anos. Praticar com questões de 2020 ajuda a treinar a interpretação de gráficos e tabelas, que é fundamental para Ciências da Natureza.
+    `,
+  },
+  {
+    slug: 'gabarito-ciencias-humanas-enem-2020',
+    title: 'Gabarito de Ciências Humanas ENEM 2020 — História, Geografia, Filosofia e Sociologia',
+    description: 'Gabarito de Ciências Humanas do ENEM 2020 com análise de História, Geografia, Filosofia e Sociologia. Edição com forte contexto de crise sanitária.',
+    date: '2026-06-19',
+    readTime: 6,
+    content: `
+Ciências Humanas do ENEM 2020 reuniu História, Geografia, Filosofia e Sociologia em 45 questões, com forte presença de temas contemporâneos influenciados pelo cenário da pandemia e das eleições ao redor do mundo.
+
+## Gabarito Oficial — Ciências Humanas 2020
+
+Disponível no portal do INEP (enem.inep.gov.br), separado por cor de caderno. A prova foi aplicada no 1º dia (junto com Ciências da Natureza), em janeiro de 2021.
+
+## Análise por Disciplina
+
+### História (≈12 questões)
+
+Temas mais presentes no ENEM 2020:
+
+- **Brasil Colônia** — exploração, escravidão, resistência quilombola
+- **Era Vargas** — Estado Novo, trabalhismo, industrialização
+- **Ditadura Militar** (1964-1985) — AI-5, censura, resistência
+- **Redemocratização** — Constituição de 1988, movimentos sociais
+- **História Mundial** — Guerra Fria, descolonização da África e Ásia
+- **Holocausto e totalitarismos** — fascismo, nazismo, stalinismo
+
+### Geografia (≈12 questões)
+
+- **Geopolítica contemporânea** — conflitos, fronteiras, migrações
+- **Urbanização brasileira** — metropolização, favelas, mobilidade
+- **Questão ambiental** — desmatamento, mudanças climáticas, COP
+- **Globalização** — fluxos de capital, multinacionais, desigualdade
+- **Biomas brasileiros** — Amazônia, Cerrado, Mata Atlântica
+
+**Contexto 2020 em Geografia:** crise de refugiados, impactos econômicos da pandemia nas cadeias produtivas globais.
+
+### Filosofia (≈10 questões)
+
+- **Iluminismo e contratualismo** — Locke, Rousseau, Montesquieu
+- **Filosofia política contemporânea** — democracia, direitos humanos
+- **Ética e bioética** — dilemas morais na medicina e pesquisa científica
+- **Epistemologia** — conhecimento científico vs. senso comum
+
+**Destaque 2020:** questões sobre ética em pesquisa com vacinas foram contextualmente relevantes.
+
+### Sociologia (≈11 questões)
+
+- **Desigualdade social** — classe, raça, gênero no Brasil
+- **Movimentos sociais** — feminismo, antirracismo, LGBTQIA+
+- **Trabalho e tecnologia** — gig economy, uberização, desemprego tecnológico
+- **Mídia e sociedade** — fake news, bolhas digitais, redes sociais
+- **Durkheim, Weber e Marx** — clássicos da sociologia
+
+## Estratégia de Estudo com o Gabarito 2020
+
+Ciências Humanas exige:
+1. **Leitura de fontes primárias** — textos, mapas, gravuras, quadrinhos
+2. **Contextualização histórica** — sempre pergunte "por que isso aconteceu agora?"
+3. **Conexão entre disciplinas** — uma questão pode cruzar História com Sociologia
+4. **Repertório de pensadores** — saber quem disse o quê e em qual contexto
+
+**[Praticar questões de Ciências Humanas →](/questoes?disciplina=ciencias-humanas)**
+
+## Perguntas Frequentes
+
+### Ciências Humanas cai no 1º ou 2º dia do ENEM?
+No 1º dia do ENEM, junto com Ciências da Natureza. O 1º dia tem 90 questões no total (45 de Ciências Humanas + 45 de Ciências da Natureza) e dura 5h30min — sem redação.
+
+### Filosofia e Sociologia são fáceis no ENEM?
+Relativamente. A maioria das questões de Filosofia e Sociologia no ENEM não exige memorizar citações exatas — você precisa entender os conceitos e aplicá-los ao contexto do enunciado. A leitura atenta do texto é mais importante que decorar datas ou nomes.
+
+### Como foi Ciências Humanas no ENEM 2020 em relação ao contexto da pandemia?
+Ciências Humanas 2020 abordou temas como desigualdade econômica agravada pela pandemia, questões de acesso à saúde e bioética. Geograficamente, foram cobrados temas de geopolítica e impacto das crises globais nas populações vulneráveis.
+    `,
+  },
+  {
+    slug: 'gabarito-linguagens-enem-2020',
+    title: 'Gabarito de Linguagens ENEM 2020 — Português, Literatura, Inglês e Artes',
+    description: 'Gabarito de Linguagens e Códigos do ENEM 2020 com análise de Língua Portuguesa, Literatura, Inglês e temas de comunicação e artes.',
+    date: '2026-06-19',
+    readTime: 6,
+    content: `
+Linguagens, Códigos e suas Tecnologias é a prova do 2º dia do ENEM — aplicada junto com Matemática e a Redação. Com 45 questões, abrange Língua Portuguesa, Literatura Brasileira, Artes, Educação Física, Inglês (ou Espanhol) e linguagem audiovisual.
+
+## Gabarito Oficial — Linguagens 2020
+
+Disponível no portal INEP (enem.inep.gov.br). O gabarito é separado por cor de caderno e por opção de língua estrangeira (inglês ou espanhol).
+
+## Análise por Componente
+
+### Língua Portuguesa (≈18-20 questões)
+
+A maior fatia de Linguagens é sempre Língua Portuguesa. No ENEM 2020:
+
+- **Interpretação de texto** — gêneros variados: crônica, conto, texto jornalístico, anúncio
+- **Variação linguística** — regionalismos, registro formal/informal, preconceito linguístico
+- **Semântica e coesão** — conectivos, referência textual, ambiguidade
+- **Gêneros textuais** — diferenças entre carta, requerimento, editorial, relato
+
+**Destaque 2020:** Questões sobre comunicação em tempos de pandemia — fake news, infodemia, linguagem científica vs. linguagem popular.
+
+### Literatura Brasileira (≈8-10 questões)
+
+- **Modernismo** — semana de arte moderna 1922, Oswald de Andrade, Drummond
+- **Realismo e Naturalismo** — Machado de Assis, Aluísio Azevedo
+- **Romantismo** — José de Alencar, Castro Alves
+- **Literatura contemporânea** — Rubem Fonseca, Clarice Lispector
+- **Identificação de estilos de época** por características textuais
+
+### Inglês / Espanhol (≈5 questões)
+
+- Textos de divulgação científica em inglês com vocabulário contextual
+- Anúncios, e-mails, artigos de opinião
+- Não exige gramática avançada — foco em compreensão global do texto
+
+**Dica:** O ENEM de Inglês é resolvível com vocabulário básico e boa estratégia de leitura. Procure entender o tema do texto e depois responda cada questão.
+
+### Artes e Educação Física (≈5-7 questões)
+
+- Análise de obras visuais e musicais (iconografia, estilo, contexto histórico)
+- Linguagem cinematográfica e fotográfica
+- Conceitos de Educação Física: esporte, saúde, lazer e movimento social
+
+## Como a Prova de Linguagens É Avaliada
+
+Linguagens testa principalmente a **competência leitora** — a capacidade de extrair sentido de textos de diferentes gêneros, identificar intenção comunicativa e reconhecer recursos linguísticos e estilísticos.
+
+**Estratégia eficiente:**
+1. Leia o enunciado da questão antes do texto
+2. Localize no texto a informação pedida
+3. Elimine alternativas com afirmações que o texto não sustenta
+
+**[Praticar questões de Linguagens →](/questoes?disciplina=linguagens)**
+
+## Perguntas Frequentes
+
+### Preciso estudar gramática para Linguagens no ENEM?
+Não é necessário decorar regras gramaticais. O ENEM 2020 (e a maioria das edições) não pede identificação de termos sintáticos ou análise morfológica direta. O foco é na leitura e interpretação — entender o efeito de sentido produzido pelos recursos linguísticos.
+
+### Inglês ou Espanhol — qual escolher no ENEM?
+Escolha o idioma que você tem mais contato. Para a maioria dos candidatos, o inglês é mais familiar pelo acesso a músicas, filmes e internet. Mas se você estudou espanhol no colégio, pode ser mais seguro. As questões têm nível similar de dificuldade.
+
+### Literaura cai muito no ENEM 2020?
+Sim, Literatura tem presença constante. Mas o ENEM raramente pede "em que ano foi publicado X". Geralmente apresenta um trecho e pede identificação do movimento literário, análise do narrador ou do recurso estilístico utilizado.
+
+**[Ver gabarito completo ENEM 2024 →](/blog/gabarito-enem-2024)**
+    `,
+  },
+  {
+    slug: 'ansiedade-enem-como-controlar',
+    title: 'Ansiedade no ENEM — Como Controlar e Render Melhor na Prova',
+    description: 'Técnicas práticas para controlar a ansiedade antes e durante o ENEM. O que fazer na semana da prova, no dia anterior e no próprio dia de aplicação.',
+    date: '2026-06-19',
+    readTime: 7,
+    content: `
+A ansiedade é um dos maiores inimigos do desempenho no ENEM. Candidatos que estudaram meses podem travar na hora da prova por nervosismo excessivo. Mas a boa notícia é que a ansiedade pode ser manejada com técnicas práticas.
+
+## Por Que a Ansiedade Prejudica no ENEM
+
+A ansiedade ativa a resposta de luta ou fuga do cérebro — útil em situações de perigo físico, prejudicial quando você precisa de raciocínio lógico. Os efeitos:
+
+- **Dificuldade de concentração** — pensamentos intrusivos ("e se eu reprovar?")
+- **Bloqueio de memória** — conteúdo estudado some na hora H
+- **Decisões precipitadas** — marcar alternativas sem ler o enunciado completo
+- **Sintomas físicos** — falta de ar, tremor de mãos, enjoo
+
+O objetivo não é eliminar a ansiedade (isso é impossível e nem desejável), mas mantê-la em nível controlável.
+
+## Semana Antes da Prova
+
+### O Que Fazer
+- **Revise, não aprenda** — a semana antes não é momento de conteúdo novo
+- **Durma 7-8 horas por noite** — o sono consolida memória e regula emoções
+- **Reduza estimulantes** (café, energético) especialmente à noite
+- **Faça atividade física leve** — caminhada, alongamento: libera endorfina e reduz cortisol
+
+### O Que Evitar
+- Maratonas de estudo de 10+ horas — o retorno diminui e o estresse aumenta
+- Comparar-se com outros candidatos nas redes sociais
+- Ler relatos de "provas impossíveis" ou comentários negativos sobre o ENEM
+- Alterar completamente a rotina de sono ("vou dormir cedo hoje") — mude gradualmente
+
+## Dia Anterior à Prova
+
+1. **Prepare tudo na noite anterior:** documento, caneta preta esferográfica, lanche, roupa. Eliminar decisões do dia D reduz estresse.
+2. **Não faça simulado completo.** Se quiser estudar, revise resumos de conteúdo — não resolva questões novas.
+3. **Desligue as redes sociais** a partir do meio da tarde. Notificações e memes de "ENEM amanhã" aumentam ansiedade.
+4. **Durma no horário normal.** Tentar dormir muito mais cedo pode gerar insônia.
+
+## Técnicas Para o Dia da Prova
+
+### Antes de Entrar na Sala
+- **Chegue 40-60 minutos antes** — correr no último minuto dispara ansiedade
+- **Evite grupos falando de conteúdo** na fila — "Você estudou aquele assunto X?" gera pânico desnecessário
+- **Coma algo leve** no café da manhã — banana, pão, iogurte. Nunca entre em jejum
+
+### Na Sala, Antes de Começar
+- **Respiração 4-7-8:** inspire 4 segundos, segure 7, expire 8. Repita 3 vezes. Ativa o sistema nervoso parassimpático.
+- **Leia o caderno de questões** por inteiro antes de começar — se achar questão difícil no meio, não entre em pânico
+
+### Durante a Prova
+- **Travou em uma questão?** Circule no caderno, pule, resolva as outras e volte. Gastar 10 minutos em 1 questão difícil compromete 2-3 questões fáceis.
+- **Respire antes de cada questão** — 1 respiração profunda entre questões recarrega o foco
+- **Monitore o tempo** a cada 30 minutos (não a cada questão — isso aumenta ansiedade)
+- **Ignore os outros** — pessoa entregando a prova cedo pode significar desistência, não facilidade
+
+## Técnica de Ancoragem de Confiança
+
+Antes da prova, escreva em um papel:
+- 3 temas que você domina bem
+- Sua melhor nota em simulado
+- Um momento em que superou algo difícil nos estudos
+
+Leia isso no banheiro antes de entrar para a sala. Ativa memórias de competência.
+
+## Quando a Ansiedade é Severa
+
+Se a ansiedade chega a ponto de vômitos, crises de choro ou insônia crônica semanas antes, considere:
+- Conversa com psicólogo ou terapeuta
+- Consulta médica (em casos de ansiedade clínica, existem recursos médicos seguros)
+- Grupos de apoio de candidatos ao ENEM (comunidades online moderdas)
+
+**[Ver técnicas de estudo para o ENEM →](/blog/tecnicas-de-estudo-enem)**
+
+## Perguntas Frequentes
+
+### É normal sentir ansiedade antes do ENEM?
+Sim, é absolutamente normal. A ansiedade pré-prova é universal — até candidatos muito bem preparados a sentem. O que diferencia o resultado é saber gerenciar o nível de ansiedade para que ele não interfira no desempenho.
+
+### Posso tomar remédio para ansiedade no dia do ENEM?
+Apenas com orientação médica. Medicamentos ansiolíticos podem causar sonolência e prejudicar a concentração. Se você usa medicação controlada, consulte seu médico sobre o dia da prova com antecedência.
+
+### O que fazer se travar completamente em uma questão durante a prova?
+Pule a questão. Circule o número no caderno e na folha de respostas (ou anote em papel separado). Vá para a próxima questão. Muitas vezes, ao resolver outras questões, o bloqueio passa e você volta com mais clareza. No pior caso, escolha uma alternativa ao azar — não deixe em branco.
+    `,
+  },
+  {
+    slug: 'redacao-enem-conclusao-como-fazer',
+    title: 'Conclusão da Redação ENEM — Como Fazer a Proposta de Intervenção',
+    description: 'Como fazer a conclusão perfeita na redação do ENEM com proposta de intervenção completa. Os 5 elementos obrigatórios e exemplos práticos.',
+    date: '2026-06-19',
+    readTime: 8,
+    content: `
+A conclusão da redação do ENEM é avaliada pela Competência V — a proposta de intervenção social. Vale até **200 pontos** e é o parágrafo que mais candidatos erram por fazer de forma vaga ou incompleta.
+
+## O Que É a Competência V
+
+A Competência V avalia se o candidato propõe uma **intervenção concreta e detalhada** para o problema discutido na redação. Não basta dizer "devemos agir" ou "o governo precisa resolver" — a proposta precisa ser específica, viável e respeitar os direitos humanos.
+
+## Os 5 Elementos Obrigatórios da Proposta de Intervenção
+
+O INEP é explícito: uma proposta de intervenção completa tem 5 elementos. Cada um ausente ou vago custa pontos.
+
+| Elemento | Pergunta que responde | Exemplo |
+|----------|----------------------|---------|
+| **Agente** | Quem vai agir? | O Ministério da Educação |
+| **Ação** | O que vai fazer? | deve implementar programas de educação digital |
+| **Meio/Modo** | Como vai fazer? | por meio de parcerias com plataformas de tecnologia |
+| **Finalidade** | Para quê? | a fim de reduzir a desinformação entre jovens |
+| **Detalhamento** | Qual o efeito esperado / o que envolve? | garantindo acesso gratuito a cursos de letramento midiático nas escolas públicas |
+
+## Como Montar a Proposta (Fórmula Prática)
+
+**[Agente] deve/deveria/precisa [ação], por meio de/mediante [modo/instrumento], a fim de/para [finalidade], [detalhamento do impacto ou alcance].**
+
+### Exemplo Completo
+
+**Tema:** Impacto da desinformação nas redes sociais
+
+> O Ministério da Educação, em parceria com plataformas de tecnologia como Google e Meta, deve implementar programas de letramento midiático nas escolas públicas do Brasil, por meio de módulos obrigatórios no currículo do Ensino Médio, a fim de desenvolver o senso crítico dos jovens diante de informações falsas, garantindo que toda uma geração saiba verificar fontes antes de compartilhar conteúdo.
+
+Nesta proposta:
+- **Agente:** Ministério da Educação (em parceria com plataformas)
+- **Ação:** implementar programas de letramento midiático
+- **Meio:** módulos obrigatórios no currículo do Ensino Médio
+- **Finalidade:** desenvolver senso crítico diante de fake news
+- **Detalhamento:** toda uma geração saberá verificar fontes
+
+## Erros Comuns que Custam Pontos
+
+### Proposta Genérica (perde 40-80 pontos)
+❌ "É preciso que a sociedade se conscientize sobre o problema."
+❌ "O governo deve tomar medidas para resolver essa questão."
+❌ "É fundamental a educação e a informação da população."
+
+### Proposta sem Detalhamento (perde 20-40 pontos)
+❌ "O Ministério da Saúde deve criar campanhas de prevenção para combater o problema."
+— Falta: como será feito? qual o alcance? qual a finalidade específica?
+
+### Proposta Inviável ou que Viola Direitos Humanos (pode zerar)
+❌ "O Estado deve prender todos que disseminam fake news."
+— Viola liberdade de expressão; proposta inviável juridicamente
+
+## Quantas Propostas Fazer
+
+**Uma proposta bem desenvolvida** vale mais que duas propostas rasas. A nota máxima na Competência V pode ser atingida com uma única proposta completa. Mas fazer duas propostas com todos os elementos é uma estratégia válida para candidatos mais experientes.
+
+## O Parágrafo de Conclusão Além da Proposta
+
+A conclusão não é só a proposta. Uma boa estrutura:
+1. **Retomada da tese** (1 frase — reformule, não copie)
+2. **A(s) proposta(s) de intervenção** (2-4 frases com os 5 elementos)
+3. **Fechamento** (1 frase opcional — efeito esperado a longo prazo)
+
+**Total:** 4-6 linhas. Não precisa ser longo — precisa ser preciso.
+
+**[Ver como fazer a introdução →](/blog/redacao-enem-introducao-como-fazer)**
+**[Ver como tirar 1000 →](/blog/redacao-enem-como-tirar-1000)**
+
+## Perguntas Frequentes
+
+### Posso ter mais de uma proposta de intervenção?
+Sim. Não há limite. Mas lembre-se: cada proposta precisa ter todos os 5 elementos para contar como completa. Uma proposta incompleta a mais não soma pontos — pode até confundir o correto.
+
+### O que acontece se minha proposta violar os direitos humanos?
+A redação pode ser zerada. Propostas que defendem tortura, pena de morte, discriminação racial, religiosa, de gênero ou orientação sexual violam os Direitos Humanos e resultam em nota 0 (zero) na redação inteira, independente da qualidade dos demais parágrafos.
+
+### A proposta precisa ser do governo? Posso colocar ONGs ou escolas?
+Sim. O agente pode ser qualquer entidade: governo federal, estadual ou municipal, escola, família, ONG, empresa, mídia, universidade, comunidade. O importante é que o agente seja específico (não "a sociedade") e tenha capacidade real de executar a ação proposta.
+
+### Quantas linhas deve ter o parágrafo de conclusão?
+Não há regra fixa, mas o recomendado é entre 5 e 8 linhas. Uma conclusão muito curta (2-3 linhas) não tem espaço para desenvolver todos os elementos. Uma conclusão muito longa (mais de 10 linhas) pode indicar que o desenvolvimento foi insuficiente.
+    `,
+  },
+  {
+    slug: 'enem-caderno-de-questoes-cores',
+    title: 'Caderno de Questões do ENEM — Cores, Versões e O Que Muda Entre Elas',
+    description: 'Entenda o sistema de cadernos coloridos do ENEM: amarelo, azul, rosa e cinza. O que muda entre cada cor, por que existem versões diferentes e como usar o gabarito certo.',
+    date: '2026-06-19',
+    readTime: 5,
+    content: `
+No dia do ENEM, cada candidato recebe um caderno de questões com uma cor diferente. Isso gera dúvidas: "meu caderno é azul, mas o vizinho é rosa — as provas são diferentes?". Entenda como funciona o sistema.
+
+## Por Que Existem Cadernos de Cores Diferentes
+
+O ENEM usa cadernos coloridos para **dificultar cola**. As cores (amarelo, azul, rosa, cinza) indicam versões com a mesma questões, mas em **ordem diferente** dentro de cada bloco.
+
+Ou seja:
+- As questões são as **mesmas** em todos os cadernos
+- A **sequência** das alternativas e das questões varia
+- O **conteúdo** cobrado é idêntico para todos os candidatos
+
+## As Cores do Caderno ENEM
+
+| Cor | Versão |
+|-----|--------|
+| Amarelo | Versão 1 |
+| Azul | Versão 2 |
+| Rosa | Versão 3 |
+| Cinza | Versão 4 |
+
+Cada sala recebe cadernos intercalados — nenhum vizinho tem a mesma sequência de questões. Isso torna a cola ineficaz.
+
+## O Que Realmente Muda Entre os Cadernos
+
+| O que muda | O que NÃO muda |
+|------------|----------------|
+| Ordem das questões | Conteúdo das questões |
+| Ordem das alternativas (A, B, C, D, E) | Gabarito em si (a resposta correta) |
+| Numeração de cada questão | Temas cobrados |
+
+**Exemplo:** A questão sobre probabilidade pode ser a número 12 no caderno amarelo e a número 37 no caderno azul. O enunciado e as alternativas são os mesmos, mas embaralhados.
+
+## Como Usar o Gabarito Corretamente
+
+**Erro comum:** usar o gabarito do caderno amarelo quando você fez o caderno azul. A alternativa A do caderno azul não é necessariamente a mesma do caderno amarelo.
+
+**Como fazer certo:**
+1. Identifique a cor do seu caderno (está escrito na capa)
+2. Acesse o gabarito específico para a cor do seu caderno no site do INEP
+3. Ou use a alternativa: anote o número da questão que fez **no seu caderno** e procure a mesma questão pelo enunciado nas soluções comentadas
+
+## Caderno Especial para PPL (Privados de Liberdade)
+
+Candidatos em privação de liberdade fazem uma prova separada (2ª Aplicação). O caderno tem a cor **cinza escuro** ou outra denominação especial, com questões diferentes para garantir o sigilo.
+
+## Tabela de Fórmulas no Caderno
+
+Todos os cadernos incluem, nas primeiras páginas, uma **folha de fórmulas** com:
+- Fórmulas de Física (cinemática, dinâmica, energia, termodinâmica, etc.)
+- Fórmulas de Química (gases, estequiometria)
+- Tabela periódica simplificada
+
+**Você pode consultar essa folha durante a prova inteira** — não precisa memorizar as fórmulas, apenas saber quando e como usá-las.
+
+## Caderno de Rascunho da Redação
+
+O caderno de questões tem uma parte destacável para rascunho da redação. Você escreve o rascunho ali e depois passa a limpo para a folha oficial de redação. O rascunho não é corrigido — apenas a folha oficial conta.
+
+**[Praticar com questões reais do ENEM →](/questoes)**
+
+## Perguntas Frequentes
+
+### Posso levar o caderno de questões para casa?
+Sim. Após o encerramento da prova, o candidato pode levar o caderno de questões — mas não a folha de respostas, que é recolhida pelo fiscal. Muitos candidatos usam o caderno para comparar respostas com o gabarito divulgado na internet ainda no dia da prova.
+
+### As questões do caderno cinza são mais difíceis?
+Não. A cor do caderno não indica nível de dificuldade. Todas as versões têm as mesmas questões com o mesmo nível de dificuldade — apenas a ordem é diferente. A correção é feita com o TRI (Teoria de Resposta ao Item), que trata cada questão individualmente.
+
+### O que é o "gabarito preliminar" e o "gabarito oficial" do ENEM?
+O gabarito preliminar é divulgado pelo INEP no dia seguinte à prova — é a resposta correta de cada questão antes de qualquer recurso. Candidatos têm alguns dias para contestar questões. Após análise dos recursos, o INEP divulga o gabarito definitivo (oficial), que é o que vale para o cálculo das notas.
+    `,
+  },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13, ...EXTRA_POSTS_14, ...EXTRA_POSTS_15, ...EXTRA_POSTS_16]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)
