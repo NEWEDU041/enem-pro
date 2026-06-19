@@ -170,10 +170,8 @@ export default function BlogPage() {
 
         {/* Categorias com posts */}
         {ALL_CATEGORIES.filter(cat => (countByCategory[cat] ?? 0) > 0).map(cat => {
-          const allCatPosts = restPosts.filter(p => getCategory(p.slug) === cat)
-          const catPosts = allCatPosts.slice(0, 9)
+          const catPosts = restPosts.filter(p => getCategory(p.slug) === cat)
           if (catPosts.length === 0) return null
-          const hasMore = allCatPosts.length > 9
           return (
             <section key={cat} id={`cat-${cat.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`} className="px-6 py-10 border-b border-zinc-100">
               <div className="max-w-5xl mx-auto">
@@ -207,11 +205,6 @@ export default function BlogPage() {
                     </Link>
                   ))}
                 </div>
-                {hasMore && (
-                  <div className="mt-6 text-sm text-zinc-500 text-center">
-                    + {allCatPosts.length - 9} artigos em <strong>{cat}</strong> — use o filtro de categorias acima para ver todos
-                  </div>
-                )}
               </div>
             </section>
           )

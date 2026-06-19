@@ -147,8 +147,11 @@ function getInternalLinks(slug: string): { href: string; label: string }[] {
   if (slug.includes('redacao')) links.push({ href: '/temas-redacao', label: 'Temas de redação ENEM' })
   if (slug.includes('gabarito')) links.push({ href: '/gabarito', label: 'Gabarito ENEM' }, { href: '/calcular-nota', label: 'Calcular nota ENEM' })
   if (slug.includes('nota') || slug.includes('calcular') || slug.includes('tri')) links.push({ href: '/calcular-nota', label: 'Calculadora de nota ENEM' })
-  if (slug.includes('simulado')) links.push({ href: '/simulado', label: 'Simulado ENEM grátis' })
-  if (slug.includes('cronograma') || slug.includes('estudar')) links.push({ href: '/cronograma', label: 'Montar cronograma de estudos' })
+  if (slug.includes('simulado') || slug.includes('questoes-de') || slug.includes('banco-de-questoes')) links.push({ href: '/questoes', label: 'Banco de questões ENEM' }, { href: '/simulado', label: 'Simulado ENEM grátis' })
+  if (slug.includes('cronograma') || slug.includes('estudar') || slug.includes('ansiedade') || slug.includes('tecnica')) links.push({ href: '/cronograma', label: 'Montar cronograma de estudos' })
+  if (slug.includes('ansiedade') || slug.includes('dica') || slug.includes('estrategia')) links.push({ href: '/questao-do-dia', label: 'Questão do dia ENEM' })
+  if (slug.includes('caderno') || slug.includes('cores') || slug.includes('como-funciona') || slug.includes('segunda-aplicacao')) links.push({ href: '/blog/tri-enem-como-funciona', label: 'Como funciona o TRI do ENEM' })
+  if (slug.includes('sisu') || slug.includes('prouni') || slug.includes('fies') || slug.includes('nota-de-corte')) links.push({ href: '/calcular-nota', label: 'Calcular nota para o SISU' })
   return links.slice(0, 3)
 }
 
