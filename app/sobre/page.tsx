@@ -137,7 +137,7 @@ export default function SobrePage() {
           <h2 className="text-xl font-bold text-zinc-900 mb-6 text-center">ENEM Pro em Números</h2>
           <div className="grid grid-cols-2 gap-4 sm:grid-cols-4">
             {[
-              { value: '176+', label: 'Guias de Estudo' },
+              { value: '194+', label: 'Guias de Estudo' },
               { value: '2009–2024', label: 'Questões INEP' },
               { value: '9', label: 'Categorias de Conteúdo' },
               { value: '100%', label: 'Dados Oficiais' },
