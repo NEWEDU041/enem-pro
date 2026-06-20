@@ -232,11 +232,13 @@ def score_post(post: dict) -> dict:
         auto_fixes.append(("add_author", "Add author signal footer"))
 
     # 2. Source citations (4 pts)
-    cite_re = re.compile(r"\((?:INEP|MEC|IBGE|gov\.br|inep\.gov)", re.IGNORECASE)
-    url_cite_re = re.compile(r"\(https?://(?:inep|mec|ibge|gov)\.", re.IGNORECASE)
-    named_cites = len(cite_re.findall(content))
+    # Detect markdown links to official sources: [text](https://gov.br/...)
+    url_cite_re = re.compile(r"\]\(https?://[^\)]*gov\.br[^\)]*\)", re.IGNORECASE)
+    # Also detect named references: [INEP...] or [MEC...] in link text
+    named_cite_re = re.compile(r"\[(?:[^\]]*(?:INEP|MEC|IBGE|SISU|BNCC)[^\]]*)\]\(https?://", re.IGNORECASE)
     url_cites = len(url_cite_re.findall(content))
-    cite_pts = 4 if url_cites >= 3 else 2 if named_cites >= 3 else 1 if named_cites >= 1 else 0
+    named_cites = len(named_cite_re.findall(content))
+    cite_pts = 4 if url_cites >= 3 else 2 if url_cites >= 1 or named_cites >= 2 else 1 if named_cites >= 1 else 0
     if cite_pts < 2:
         issues.append("Insufficient source citations")
         needs_llm.append(("add_citations", "Add INEP/MEC citations with URLs + year anchors"))
