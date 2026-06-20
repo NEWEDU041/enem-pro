@@ -226,8 +226,12 @@ def score_post(post: dict) -> dict:
     # ── E-E-A-T (15 pts) ─────────────────────────────────────────────────────
 
     # 1. Author attribution (4 pts)
+    # 4: named author with credentials ("escrito por" + bold name or author bio format)
+    # 2: team attribution ("equipe enem pro" present)
+    # 0: no author
+    author_bio_re = re.compile(r"escrito por|por \*\*equipe|author:|autora?:", re.IGNORECASE)
     has_author = "equipe enem pro" in cl or "equipe enem" in cl
-    author_pts = 2 if has_author else 0
+    author_pts = 4 if author_bio_re.search(cl) else 2 if has_author else 0
     if not has_author:
         auto_fixes.append(("add_author", "Add author signal footer"))
 
@@ -247,10 +251,14 @@ def score_post(post: dict) -> dict:
     trust_pts = 4
 
     # 4. Experience signals (3 pts)
+    # 3: 2+ distinct signals (strong E-E-A-T, platform data + analysis)
+    # 2: 1 signal found
+    # 0: none
     exp_signals = ["quando testamos", "na nossa análise", "analisamos", "nossos dados",
                    "nossa experiência", "em nossa plataforma", "identificamos", "testamos",
                    "observamos", "nosso time", "estudantes que usam"]
-    exp_pts = 2 if any(s in cl for s in exp_signals) else 0
+    exp_count = sum(1 for s in exp_signals if s in cl)
+    exp_pts = 3 if exp_count >= 2 else 2 if exp_count >= 1 else 0
     if exp_pts == 0:
         needs_llm.append(("experience_signals", "Add 'nossa plataforma' / data-backed claims"))
 
@@ -278,8 +286,9 @@ def score_post(post: dict) -> dict:
 
     # ── AI CITATION READINESS (15 pts) ───────────────────────────────────────
 
-    # 1. Passage citability (4 pts) — avg section word count
-    sections = [s.strip() for s in re.split(r"^#{1,3} .+$", content, flags=re.MULTILINE) if s.strip()]
+    # 1. Passage citability (4 pts) — avg word count between H2 headings only
+    # H3 sub-sections (FAQ Q&A) are too short to count as independent AI-citable passages
+    sections = [s.strip() for s in re.split(r"^#{1,2} .+$", content, flags=re.MULTILINE) if s.strip()]
     avg_sec = (sum(len(s.split()) for s in sections) / len(sections)) if sections else 50
     passage_pts = 4 if 80 <= avg_sec <= 200 else 2 if 50 <= avg_sec <= 300 else 1
 

@@ -11,7 +11,7 @@ export const BLOG_POSTS: BlogPost[] = [
   {
     slug: 'gabarito-enem-2024',
     title: 'Gabarito ENEM 2024 — Todas as Disciplinas com Resolução',
-    description: 'Gabarito oficial do ENEM 2024 com resolução comentada de todas as disciplinas: Matemática, Ciências da Natureza, Ciências Humanas e Linguagens.',
+    description: 'Gabarito oficial do ENEM 2024 com resolução comentada de todas as disciplinas: Matemática, Ciências da Natureza, Ciências Humanas e Linguagens. Acesse grátis.',
     date: '2024-11-10',
     readTime: 8,
     content: `
@@ -19,7 +19,7 @@ O ENEM 2024 foi aplicado em novembro e reuniu milhões de candidatos em todo o B
 
 > **TL;DR:** Gabarito oficial do ENEM 2024 com resolução comentada de todas as disciplinas: Matemática, Ciências da Natureza, Ciências Humanas e Linguagens. [Pratique no ENEM Pro →](/questoes)
 
-## Matemática e suas Tecnologias
+## Matemática e suas Tecnologias?
 
 A prova de Matemática do ENEM 2024 manteve o padrão de cobrar habilidades práticas: funções, geometria, estatística e probabilidade. Os temas mais frequentes foram:
 
@@ -30,7 +30,7 @@ A prova de Matemática do ENEM 2024 manteve o padrão de cobrar habilidades prá
 
 **Dica:** A BNCC exige que você consiga *aplicar* matemática, não apenas calcular. Questões contextualizadas com situações do cotidiano são a regra.
 
-## Ciências da Natureza e suas Tecnologias
+## Ciências da Natureza e suas Tecnologias?
 
 Física, Química e Biologia dividem as 45 questões desta área. O ENEM 2024 cobrou fortemente:
 
@@ -38,17 +38,17 @@ Física, Química e Biologia dividem as 45 questões desta área. O ENEM 2024 co
 - **Química:** estequiometria, termoquímica e reações orgânicas
 - **Biologia:** ecologia, genética e evolução
 
-## Ciências Humanas e suas Tecnologias
+## Ciências Humanas e suas Tecnologias?
 
 História, Geografia, Filosofia e Sociologia. Destaque para questões contextualizadas com atualidades e interpretação de texto.
 
-## Linguagens, Códigos e suas Tecnologias
+## Linguagens, Códigos e suas Tecnologias?
 
 Língua Portuguesa, Literatura, Artes, Educação Física e Inglês/Espanhol. A interpretação de textos multimodais (gráficos, imagens, charges) é fundamental.
 
 ---
 
-## Pratique com as Questões Reais
+## Pratique com as Questões Reais?
 
 O ENEM Pro reúne todas as questões do ENEM 2024 e de anos anteriores. Responda, veja o gabarito e entenda o raciocínio com explicação gerada por IA.
 
@@ -56,7 +56,7 @@ O ENEM Pro reúne todas as questões do ENEM 2024 e de anos anteriores. Responda
 
 
 
-## Dados do ENEM 2024 — INEP
+## Dados do ENEM 2024 — INEP?
 
 | Dado | Valor |
 |------|-------|
@@ -96,14 +96,15 @@ Conte o número de acertos por área. A nota final não é proporcional aos acer
 ### Qual foi a questão mais difícil do ENEM 2024?
 As questões de maior dificuldade foram nas áreas de Matemática (geometria espacial e probabilidade) e Física (eletromagnetismo). O TRI penaliza erros em questões fáceis mais do que erros em questões difíceis.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-enem-2023',
     title: 'Gabarito ENEM 2023 — Questões e Resoluções por Disciplina',
-    description: 'Gabarito do ENEM 2023 com resolução comentada. Acesse todas as questões de Matemática, Ciências da Natureza, Humanas e Linguagens.',
+    description: 'Gabarito do ENEM 2023 com resolução comentada. Acesse todas as questões de Matemática, Ciências da Natureza, Humanas e Linguagens. Saiba mais e prepare-se.',
     date: '2023-11-12',
     readTime: 7,
     content: `
@@ -121,27 +122,27 @@ A prova de Matemática 2023 foi considerada de nível médio-difícil. Os princi
 - **Matrizes e determinantes** — sistemas lineares aplicados
 - **Probabilidade** — eventos combinados
 
-## Ciências da Natureza 2023
+## Ciências da Natureza 2023?
 
 Destaque para as questões de **Química Orgânica** (polímeros, reações de adição) e **Física** (circuitos elétricos e ondas). Biologia trouxe questões sobre **biotecnologia e CRISPR**, refletindo a atualidade científica.
 
-## Ciências Humanas 2023
+## Ciências Humanas 2023?
 
 Foco em **história contemporânea** e **geopolítica**. Questões sobre a Segunda Guerra Mundial, globalização e desigualdade social. Geografia cobrou fortemente **cartografia e biomas brasileiros**.
 
-## Linguagens 2023
+## Linguagens 2023?
 
 Interpretação textual com foco em **textos argumentativos**. Inglês cobrou phrasal verbs e leitura de textos de divulgação científica.
 
 ---
 
-## Estude as Questões de 2023
+## Estude as Questões de 2023?
 
 Acesse todas as questões do ENEM 2023 organizadas por disciplina no ENEM Pro. Responda e receba explicação da IA para cada erro.
 
 
 
-## Dados do ENEM 2023 — INEP
+## Dados do ENEM 2023 — INEP?
 
 | Dado | Valor |
 |------|-------|
@@ -181,14 +182,15 @@ O ENEM 2023 teve cerca de 3,9 milhões de participantes presentes, segundo o INE
 ### Qual foi a média de notas no ENEM 2023?
 A média geral ficou próxima de 510 pontos. Notas acima de 650 já são consideradas competitivas para a maioria dos cursos federais pelo SISU.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'questoes-matematica-enem-2023',
     title: 'Questões de Matemática ENEM 2023 — Gabarito e Resolução Completa',
-    description: 'Todas as questões de Matemática do ENEM 2023 com gabarito oficial e resolução passo a passo. Treine grátis no ENEM Pro.',
+    description: 'Todas as questões de Matemática do ENEM 2023 com gabarito oficial e resolução passo a passo. Treine grátis no ENEM Pro. Saiba mais e prepare-se.',
     date: '2023-11-15',
     readTime: 10,
     content: `
@@ -196,11 +198,11 @@ A prova de Matemática do ENEM 2023 foi composta por 45 questões de múltipla e
 
 > **TL;DR:** Todas as questões de Matemática do ENEM 2023 com gabarito oficial e resolução passo a passo. Treine grátis no ENEM Pro. [Pratique no ENEM Pro →](/questoes)
 
-## Estrutura da Prova de Matemática
+## Estrutura da Prova de Matemática?
 
 A prova é composta por questões que mesclam **cálculo** com **interpretação de contexto**. Não existe questão "solta" — toda questão tem um enunciado situacional.
 
-## Os Temas Mais Cobrados em 2023
+## Os Temas Mais Cobrados em 2023?
 
 ### Funções (9 questões estimadas)
 - Função do 1º grau: gráfico, coeficientes, crescimento/decrescimento
@@ -226,7 +228,7 @@ A prova é composta por questões que mesclam **cálculo** com **interpretação
 - Seno, cosseno e tangente em triângulos
 - Lei dos senos e dos cossenos
 
-## Estratégia para Acertar Matemática no ENEM
+## Estratégia para Acertar Matemática no ENEM?
 
 1. **Leia o enunciado com atenção** — o dado importante geralmente está escondido no texto
 2. **Identifique o que a questão pede** — não o que você acha que ela pede
@@ -235,12 +237,12 @@ A prova é composta por questões que mesclam **cálculo** com **interpretação
 
 ---
 
-## Pratique Agora
+## Pratique Agora?
 
 O ENEM Pro tem todas as questões de Matemática do ENEM 2023 organizadas e categorizadas. Responda uma por uma, veja o gabarito e entenda com explicação da IA.
 
 
-## Tópicos Mais Cobrados (ENEM — INEP)
+## Tópicos Mais Cobrados (ENEM — INEP)?
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
@@ -280,14 +282,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'questoes-matematica-enem-2024',
     title: 'Questões de Matemática ENEM 2024 — Gabarito e Análise Completa',
-    description: 'Questões de Matemática do ENEM 2024 com gabarito oficial. Resolução comentada e análise dos temas mais cobrados.',
+    description: 'Questões de Matemática do ENEM 2024 com gabarito oficial. Resolução comentada e análise dos temas mais cobrados. Saiba mais e prepare-se.',
     date: '2024-11-13',
     readTime: 9,
     content: `
@@ -295,11 +298,11 @@ A prova de Matemática do ENEM 2024 manteve o nível de contextualização carac
 
 > **TL;DR:** Questões de Matemática do ENEM 2024 com gabarito oficial. Resolução comentada e análise dos temas mais cobrados. [Pratique no ENEM Pro →](/questoes)
 
-## Nível da Prova em 2024
+## Nível da Prova em 2024?
 
 Comparada com 2023, a prova de Matemática 2024 foi considerada de nível **médio**. Os temas clássicos do ENEM continuaram dominantes, com destaque para questões que exigem **leitura de gráficos e tabelas** — habilidade frequentemente negligenciada por quem estuda apenas teoria.
 
-## Principais Temas em 2024
+## Principais Temas em 2024?
 
 ### Números e Álgebra
 - Operações com frações e números decimais em contexto
@@ -321,7 +324,7 @@ Comparada com 2023, a prova de Matemática 2024 foi considerada de nível **méd
 - Probabilidade condicional
 - Interpretação de histogramas e boxplots
 
-## Questões "Pegadinha" de 2024
+## Questões "Pegadinha" de 2024?
 
 Uma tendência do ENEM 2024 foi apresentar **dados redundantes** no enunciado — informações que não são necessárias para resolver a questão. Candidatos que não leram atentamente perderam tempo calculando dados desnecessários.
 
@@ -329,12 +332,12 @@ Uma tendência do ENEM 2024 foi apresentar **dados redundantes** no enunciado �
 
 ---
 
-## Treine com as Questões Reais
+## Treine com as Questões Reais?
 
 Pratique as questões de Matemática do ENEM 2024 e de todos os anos de 2009 a 2024 no ENEM Pro.
 
 
-## Tópicos Mais Cobrados (ENEM — INEP)
+## Tópicos Mais Cobrados (ENEM — INEP)?
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
@@ -374,14 +377,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'como-passar-no-enem',
     title: 'Como Passar no ENEM em 2025 — Guia Completo de Estudos',
-    description: 'Estratégia completa para passar no ENEM em 2025. Cronograma, temas prioritários, técnicas de resolução e como usar IA para estudar mais rápido.',
+    description: 'Estratégia completa para passar no ENEM em 2025. Cronograma, temas prioritários, técnicas de resolução e como usar IA para estudar mais rápido. Acesse grátis.',
     date: '2026-01-10',
     readTime: 12,
     content: `
@@ -389,7 +393,7 @@ Passar no ENEM não é sobre estudar mais — é sobre estudar o que cai, do jei
 
 > **TL;DR:** Estratégia completa para passar no ENEM em 2025. Cronograma, temas prioritários, técnicas de resolução e como usar IA para estudar mais rápido. [Pratique no ENEM Pro →](/questoes)
 
-## Por que a maioria falha no ENEM
+## Por que a maioria falha no ENEM?
 
 A maioria dos candidatos comete três erros críticos:
 
@@ -399,7 +403,7 @@ A maioria dos candidatos comete três erros críticos:
 
 A solução para os três erros é a mesma: **praticar com questões reais do ENEM** e entender o raciocínio por trás de cada resposta.
 
-## O Cronograma que Funciona
+## O Cronograma que Funciona?
 
 ### 6 meses antes do ENEM
 
@@ -418,7 +422,7 @@ Foco em **simulados**. Responda provas completas por disciplina, com timer. Obje
 
 Foco em **revisão dos erros**. Volte às questões erradas nos simulados, entenda o raciocínio correto e refaça questões similares.
 
-## A Redação vale 1.000 pontos
+## A Redação vale 1.000 pontos?
 
 A redação corresponde a 20% da sua nota final. Candidatos que tiram 600 na redação e 650 nas demais disciplinas têm nota menor do que quem tira 900 na redação e 600 nas demais.
 
@@ -428,7 +432,7 @@ A redação corresponde a 20% da sua nota final. Candidatos que tiram 600 na red
 3. **Desenvolvimento 2:** argumento + evidência + análise crítica
 4. **Conclusão:** proposta de intervenção com agente, ação, meio, finalidade e efeito
 
-## Como usar IA para estudar ENEM
+## Como usar IA para estudar ENEM?
 
 A IA não substitui o estudo, mas acelera o entendimento. Use para:
 
@@ -438,7 +442,7 @@ A IA não substitui o estudo, mas acelera o entendimento. Use para:
 
 O ENEM Pro usa IA para explicar cada questão em 30 segundos — o raciocínio completo, não só o gabarito.
 
-## Metas Realistas por Disciplina
+## Metas Realistas por Disciplina?
 
 | Disciplina | Meta Mínima | Meta Confortável |
 |---|---|---|
@@ -452,7 +456,7 @@ Atingir 600 em média e 700+ na redação já garante acesso a cursos de alta de
 
 ---
 
-## Comece Agora — 10 questões por dia
+## Comece Agora — 10 questões por dia?
 
 A melhor hora para começar era há 6 meses. A segunda melhor hora é agora. O ENEM Pro tem todas as questões reais de 2009 a 2024. Comece grátis.
 
@@ -484,14 +488,15 @@ O ideal é começar 6 a 12 meses antes. Com 6 meses, é possível cobrir os tema
 ### Qual disciplina tem mais peso no ENEM?
 Todas as 5 áreas têm peso igual na média do SISU. Porém, alguns cursos aplicam pesos específicos (ex: Medicina costuma pesar mais C. Natureza). Verifique o edital do curso desejado.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'simulado-enem-gratis',
     title: 'Simulado ENEM Grátis — Pratique com Questões Reais do INEP',
-    description: 'Simulado ENEM grátis com questões reais do INEP de 2009 a 2024. Pratique por disciplina, veja o gabarito e treine para o ENEM 2025.',
+    description: 'Simulado ENEM grátis com questões reais do INEP de 2009 a 2024. Pratique por disciplina, veja o gabarito e treine para o ENEM 2025. Saiba mais e prepare-se.',
     date: '2026-02-01',
     readTime: 6,
     content: `
@@ -505,7 +510,7 @@ Questões inventadas por cursinhos e professores não replicam o **estilo de rac
 
 Candidatos que praticam exclusivamente com questões reais de anos anteriores têm desempenho significativamente melhor do que os que usam questões simuladas.
 
-## Como Montar seu Simulado
+## Como Montar seu Simulado?
 
 ### Opção 1: Simulado por Disciplina (1h30)
 
@@ -521,7 +526,7 @@ Para dias com pouco tempo. Misture disciplinas ou foque em um tópico específic
 
 No mês antes do ENEM, faça pelo menos 2 provas completas: Dia 1 (Linguagens + Ciências Humanas) e Dia 2 (Ciências da Natureza + Matemática). Use o tempo real da prova.
 
-## Como Interpretar seus Resultados
+## Como Interpretar seus Resultados?
 
 | % de Acerto | Interpretação | Ação |
 |---|---|---|
@@ -530,7 +535,7 @@ No mês antes do ENEM, faça pelo menos 2 provas completas: Dia 1 (Linguagens + 
 | 55–70% | Bom nível | Foco em questões difíceis e interpretação |
 | Acima de 70% | Excelente | Manter ritmo e revisar pontos fracos |
 
-## Pratique Agora — Grátis
+## Pratique Agora — Grátis?
 
 O ENEM Pro tem todas as questões do ENEM de 2009 a 2024 organizadas por disciplina e ano. 10 questões por dia grátis, sem cartão de crédito.
 
@@ -562,14 +567,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'redacao-enem-tema',
     title: 'Redação ENEM — Como Tirar 1000 Pontos em Qualquer Tema',
-    description: 'Guia completo de redação ENEM: estrutura, competências do INEP, exemplos de introdução e conclusão. Aprenda a tirar nota máxima.',
+    description: 'Guia completo de redação ENEM: estrutura, competências do INEP, exemplos de introdução e conclusão. Aprenda a tirar nota máxima. Saiba mais e prepare-se.',
     date: '2026-02-15',
     readTime: 11,
     content: `
@@ -577,7 +583,7 @@ A redação do ENEM vale 1.000 pontos — 20% da nota total. Candidatos que domi
 
 > **TL;DR:** Guia completo de redação ENEM: estrutura, competências do INEP, exemplos de introdução e conclusão. Aprenda a tirar nota máxima. [Pratique no ENEM Pro →](/questoes)
 
-## As 5 Competências do INEP
+## As 5 Competências do INEP?
 
 O INEP avalia a redação em 5 competências, cada uma valendo até 200 pontos:
 
@@ -596,7 +602,7 @@ Uso correto de conectivos, pronomes e referências para criar um texto fluido. E
 5. **Competência 5 — Proposta de intervenção**
 A conclusão deve propor uma solução ao problema apresentado. A fórmula do INEP exige: **agente + ação + meio/modo + finalidade + efeito**.
 
-## A Estrutura que Tira 1000
+## A Estrutura que Tira 1000?
 
 ### Introdução (5–7 linhas)
 - Comece com um dado, citação ou fato histórico relacionado ao tema
@@ -620,7 +626,7 @@ A conclusão deve propor uma solução ao problema apresentado. A fórmula do IN
 
 **Exemplo:** "Cabe ao [agente — Ministério da Educação], em parceria com [agente 2 — municípios], [ação — implementar programas de X] por meio de [meio — políticas de Y], a fim de [finalidade — garantir Z], de modo que [efeito — a sociedade brasileira possa superar o cenário de...]."
 
-## Os Temas Mais Prováveis para 2025
+## Os Temas Mais Prováveis para 2025?
 
 O ENEM não repete temas, mas segue tendências:
 - **Desigualdade social e acesso à educação**
@@ -633,12 +639,12 @@ Qualquer que seja o tema, a **estrutura é a mesma**. Quem domina a estrutura n�
 
 ---
 
-## Pratique Leitura de Textos para a Redação
+## Pratique Leitura de Textos para a Redação?
 
 Interpretar bem os textos motivadores da coletânea é 50% da redação. Treine sua leitura crítica com questões de Linguagens do ENEM Pro.
 
 
-## As 5 Competências da Redação ENEM (INEP)
+## As 5 Competências da Redação ENEM (INEP)?
 
 | Competência | O que avalia | Pontuação máxima |
 |-------------|-------------|-----------------|
@@ -678,14 +684,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'dicas-enem-2025',
     title: '10 Dicas de Ouro para o ENEM 2025 — Do Estudo ao Dia da Prova',
-    description: '10 estratégias comprovadas para melhorar sua nota no ENEM 2025: gestão de tempo, temas prioritários, redação e o que fazer na semana da prova.',
+    description: '10 estratégias comprovadas para melhorar sua nota no ENEM 2025: gestão de tempo, temas prioritários, redação e o que fazer na semana da prova. Acesse grátis.',
     date: '2026-01-20',
     readTime: 8,
     content: `
@@ -693,54 +700,54 @@ Estudar muito não é o mesmo que estudar bem. Estas 10 dicas são baseadas no p
 
 > **TL;DR:** 10 estratégias comprovadas para melhorar sua nota no ENEM 2025: gestão de tempo, temas prioritários, redação e o que fazer na semana da prova. [Pratique no ENEM Pro →](/questoes)
 
-## 1. Conheça a distribuição de questões
+## 1. Conheça a distribuição de questões?
 
 A prova de Ciências da Natureza tem Física, Química e Biologia — mas não em partes iguais. Nos últimos anos, Biologia teve mais questões. Saber isso evita estudar proporcionalmente algo que cai menos.
 
-## 2. Priorize interpretação, não memorização
+## 2. Priorize interpretação, não memorização?
 
 90% dos erros no ENEM não são de "não saber o conteúdo" — são de **não entender o que a questão está pedindo**. Pratique leitura crítica.
 
-## 3. Resolva questões de anos anteriores, não questões genéricas
+## 3. Resolva questões de anos anteriores, não questões genéricas?
 
 O ENEM tem um estilo muito específico. Questões de vestibulares regionais ou criadas por professores não replicam esse estilo.
 
-## 4. Não pule a redação
+## 4. Não pule a redação?
 
 A redação é a variável com mais impacto na nota final. Um candidato que tira 600 em todas as disciplinas objetivas e 900 na redação tem nota maior do que alguém que tira 700 em todas e 500 na redação.
 
-## 5. Faça pelo menos 2 simulados completos
+## 5. Faça pelo menos 2 simulados completos?
 
 Simular as condições reais da prova (tempo, cansaço, concentração por 5h30) é diferente de resolver questões avulsas. Faça dois simulados completos no mês anterior ao ENEM.
 
-## 6. Durma bem na semana da prova
+## 6. Durma bem na semana da prova?
 
 Estudar na madrugada antes do ENEM é contraproducente. A retenção de memória ocorre durante o sono. Durma 7–8 horas nas 3 noites antes da prova.
 
-## 7. Leve lanche para a prova
+## 7. Leve lanche para a prova?
 
 A prova dura 5h30. Queda de glicose afeta concentração e tempo de processamento. Leve algo leve e de digestão rápida.
 
-## 8. Marque as questões fáceis primeiro
+## 8. Marque as questões fáceis primeiro?
 
 Se travar em uma questão difícil, marque e avance. Questões fáceis têm o mesmo peso que difíceis. Termine as fáceis primeiro.
 
-## 9. Não deixe espaços em branco
+## 9. Não deixe espaços em branco?
 
 No ENEM, não há desconto por respostas erradas. Se não souber, elimine as alternativas absurdas e marque a mais plausível.
 
-## 10. Use tecnologia a seu favor
+## 10. Use tecnologia a seu favor?
 
 IA pode explicar conceitos, resumir conteúdo e esclarecer dúvidas sobre questões. O ENEM Pro usa IA para explicar cada questão em 30 segundos — o raciocínio completo.
 
 ---
 
-## Comece Agora
+## Comece Agora?
 
 10 questões por dia são 300 questões por mês — um volume suficiente para melhorar significativamente sua performance. Comece grátis no ENEM Pro.
 
 
-## Cronograma de Estudos ENEM — Visão Geral
+## Cronograma de Estudos ENEM — Visão Geral?
 
 | Período | Foco principal | Carga semanal recomendada |
 |---------|---------------|--------------------------|
@@ -778,14 +785,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'questoes-ciencias-natureza-enem',
     title: 'Questões de Ciências da Natureza ENEM — Os Temas Mais Cobrados',
-    description: 'Guia completo de Ciências da Natureza no ENEM: Física, Química e Biologia. Temas prioritários, estratégia de resolução e questões para praticar.',
+    description: 'Guia completo de Ciências da Natureza no ENEM: Física, Química e Biologia. Temas prioritários, estratégia de resolução e questões para praticar. Acesse grátis.',
     date: '2026-02-10',
     readTime: 9,
     content: `
@@ -793,7 +801,7 @@ Ciências da Natureza é uma das quatro áreas do ENEM. A prova reúne Física, 
 
 > **TL;DR:** Guia completo de Ciências da Natureza no ENEM: Física, Química e Biologia. Temas prioritários, estratégia de resolução e questões para praticar. [Pratique no ENEM Pro →](/questoes)
 
-## Distribuição das Questões
+## Distribuição das Questões?
 
 A distribuição não é fixa, mas a tendência histórica é:
 - **Biologia:** 17–20 questões
@@ -802,7 +810,7 @@ A distribuição não é fixa, mas a tendência histórica é:
 
 Biologia domina. Candidatos que negligenciam Biologia em favor de Física estão trocando volume por dificuldade.
 
-## Física — O que Cai no ENEM
+## Física — O que Cai no ENEM?
 
 Física no ENEM é sempre **contextualizada**. As fórmulas raramente são pedidas diretamente — você precisa identificar o conceito físico em uma situação do dia a dia.
 
@@ -815,7 +823,7 @@ Física no ENEM é sempre **contextualizada**. As fórmulas raramente são pedid
 
 **Dica:** Para Física, entenda o **conceito** e não a fórmula. O ENEM raramente pede cálculo puro.
 
-## Química — O que Cai no ENEM
+## Química — O que Cai no ENEM?
 
 Química tem presença forte nas questões de Ciências da Natureza e frequentemente aparece integrada com Biologia e questões ambientais.
 
@@ -828,7 +836,7 @@ Química tem presença forte nas questões de Ciências da Natureza e frequentem
 
 **Dica:** Questões de Química quase sempre envolvem tabelas de dados. Aprenda a extrair a informação certa.
 
-## Biologia — O que Cai no ENEM
+## Biologia — O que Cai no ENEM?
 
 Biologia é a maior fatia de Ciências da Natureza. O ENEM privilegia temas atuais e de saúde pública.
 
@@ -842,12 +850,12 @@ Biologia é a maior fatia de Ciências da Natureza. O ENEM privilegia temas atua
 
 ---
 
-## Pratique Ciências da Natureza
+## Pratique Ciências da Natureza?
 
 O ENEM Pro tem todas as questões de Ciências da Natureza de 2009 a 2024. Responda, veja o gabarito e entenda com IA.
 
 
-## Distribuição por Área de Conhecimento (ENEM — INEP)
+## Distribuição por Área de Conhecimento (ENEM — INEP)?
 
 | Área | Questões | Dias de prova |
 |------|----------|--------------|
@@ -886,14 +894,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'questoes-ciencias-humanas-enem',
     title: 'Questões de Ciências Humanas ENEM — Estratégia e Temas Prioritários',
-    description: 'Ciências Humanas no ENEM: o que cai em História, Geografia, Filosofia e Sociologia. Temas mais cobrados de 2009 a 2024.',
+    description: 'Ciências Humanas no ENEM: o que cai em História, Geografia, Filosofia e Sociologia. Temas mais cobrados de 2009 a 2024. Saiba mais e prepare-se.',
     date: '2026-02-08',
     readTime: 8,
     content: `
@@ -901,7 +910,7 @@ Ciências Humanas reúne História, Geografia, Filosofia e Sociologia em 45 ques
 
 > **TL;DR:** Ciências Humanas no ENEM: o que cai em História, Geografia, Filosofia e Sociologia. Temas mais cobrados de 2009 a 2024. [Pratique no ENEM Pro →](/questoes)
 
-## Distribuição Histórica
+## Distribuição Histórica?
 
 - **História:** 18–20 questões
 - **Geografia:** 14–16 questões
@@ -910,7 +919,7 @@ Ciências Humanas reúne História, Geografia, Filosofia e Sociologia em 45 ques
 
 História e Geografia dominam. Filosofia e Sociologia são importantes para completar a nota.
 
-## História — O que o ENEM Cobra Mais
+## História — O que o ENEM Cobra Mais?
 
 O ENEM cobra história de forma crítica e interpretativa, não decorativa. Não adianta decorar datas — entenda os processos históricos.
 
@@ -922,7 +931,7 @@ O ENEM cobra história de forma crítica e interpretativa, não decorativa. Não
 
 **Dica:** Questões de história frequentemente usam fontes primárias (documentos, cartazes, fotografias). Aprenda a interpretar esses materiais.
 
-## Geografia — O que o ENEM Cobra Mais
+## Geografia — O que o ENEM Cobra Mais?
 
 - **Geopolítica:** conflitos regionais, blocos econômicos, globalização
 - **Geografia do Brasil:** regiões, biomas, relevo, hidrografia
@@ -930,7 +939,7 @@ O ENEM cobra história de forma crítica e interpretativa, não decorativa. Não
 - **Questões ambientais:** desmatamento, aquecimento global, recursos hídricos
 - **Cartografia:** leitura de mapas, escalas, projeções cartográficas
 
-## Filosofia e Sociologia
+## Filosofia e Sociologia?
 
 Não são pontuadas com muitas questões, mas as que existem são acessíveis com estudo focado.
 
@@ -940,12 +949,12 @@ Não são pontuadas com muitas questões, mas as que existem são acessíveis co
 
 ---
 
-## Pratique Ciências Humanas
+## Pratique Ciências Humanas?
 
 Todas as questões de Ciências Humanas do ENEM 2009 a 2024 estão no ENEM Pro. Responda e entenda o raciocínio com IA.
 
 
-## Distribuição por Área de Conhecimento (ENEM — INEP)
+## Distribuição por Área de Conhecimento (ENEM — INEP)?
 
 | Área | Questões | Dias de prova |
 |------|----------|--------------|
@@ -984,14 +993,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'cronograma-estudos-enem-2025',
     title: 'Cronograma de Estudos para o ENEM 2025 — Semana a Semana',
-    description: 'Cronograma completo de estudos para o ENEM 2025. Planejamento semana a semana, por disciplina, com metas de questões e revisão.',
+    description: 'Cronograma completo de estudos para o ENEM 2025. Planejamento semana a semana, por disciplina, com metas de questões e revisão. Saiba mais e prepare-se.',
     date: '2026-01-15',
     readTime: 10,
     content: `
@@ -999,7 +1009,7 @@ Um cronograma de estudos eficiente não é aquele que você consegue seguir 100%
 
 > **TL;DR:** Cronograma completo de estudos para o ENEM 2025. Planejamento semana a semana, por disciplina, com metas de questões e revisão. [Pratique no ENEM Pro →](/questoes)
 
-## Princípios do Cronograma
+## Princípios do Cronograma?
 
 Antes de montar o cronograma, defina:
 
@@ -1007,7 +1017,7 @@ Antes de montar o cronograma, defina:
 2. **Quais são suas disciplinas mais fracas** (onde o impacto de estudar é maior)
 3. **Quantos meses você tem** antes do ENEM
 
-## Cronograma Base — 6 Meses
+## Cronograma Base — 6 Meses?
 
 ### Meses 1–2: Base de Conteúdo
 
@@ -1030,7 +1040,7 @@ Um simulado completo por mês. Revisão semanal dos erros. Foco total nos pontos
 
 **Meta:** 30 questões por dia. Simulado completo no início do mês 5 e início do mês 6.
 
-## Cronograma para Quem Tem Pouco Tempo
+## Cronograma para Quem Tem Pouco Tempo?
 
 Para quem tem apenas 2–3 horas por semana:
 
@@ -1038,7 +1048,7 @@ Para quem tem apenas 2–3 horas por semana:
 2. **10 questões por dia:** qualquer disciplina, mas consistente. 10 questões × 30 dias = 300 questões/mês
 3. **Foco em Matemática e Redação:** as duas disciplinas com maior impacto em nota
 
-## Ferramentas para o Cronograma
+## Ferramentas para o Cronograma?
 
 - **ENEM Pro:** 10 questões por dia grátis, organizado por disciplina e ano
 - **Caderno de erros:** anote os temas que você erra; revise toda semana
@@ -1046,7 +1056,7 @@ Para quem tem apenas 2–3 horas por semana:
 
 ---
 
-## Comece Hoje
+## Comece Hoje?
 
 O cronograma perfeito que você não começa vale menos do que o cronograma imperfeito que você começa agora. Crie sua conta grátis no ENEM Pro e comece as primeiras 10 questões.
 
@@ -1079,14 +1089,15 @@ O ideal é 6 a 12 meses. Com 6 meses, é possível cobrir os temas principais e 
 ### Preciso estudar todo o conteúdo do ensino médio para o ENEM?
 Não. O ENEM cobre a Matriz de Referência do INEP, que é um recorte dos temas mais importantes. Em Matemática, por exemplo, os 7 temas principais representam 70–80% da prova. Focar nesses temas é muito mais eficiente do que revisar tudo.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'como-calcular-nota-enem',
     title: 'Como Calcular Sua Nota do ENEM — TRI e Médias para o SISU',
-    description: 'Entenda como o ENEM calcula as notas com a TRI, como calcular sua média para o SISU e qual nota você precisa para entrar no curso que quer.',
+    description: 'Entenda como o ENEM calcula as notas com a TRI, como calcular sua média para o SISU e qual nota você precisa para entrar no curso que quer. Acesse grátis.',
     date: '2026-01-25',
     readTime: 7,
     content: `
@@ -1127,7 +1138,7 @@ A nota de corte para cada curso varia todo ano, mas existem referências histór
 
 Consulte o histórico no site do SISU para ver os cortes reais por universidade e turno.
 
-## Como Calcular Sua Média para o SISU
+## Como Calcular Sua Média para o SISU?
 
 O SISU usa a **média aritmética simples** das 5 notas do ENEM:
 
@@ -1143,7 +1154,7 @@ Se você já tem 650 em quatro disciplinas e 400 na redação, melhorar a redaç
 
 ---
 
-## Descubra Sua Nota Atual
+## Descubra Sua Nota Atual?
 
 Responda questões reais do ENEM e acompanhe sua taxa de acerto por disciplina no ENEM Pro. Identifique onde melhorar antes da prova.
 
@@ -1176,14 +1187,15 @@ O SISU usa a média das 5 notas do ENEM, podendo aplicar pesos diferentes por di
 ### Como calcular minha nota do ENEM antes do resultado oficial?
 Use a ferramenta "Calcular Nota" do ENEM Pro: insira seus acertos em cada área (estimados via gabarito) e a nota da redação para obter uma estimativa TRI.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'questoes-fisica-enem',
     title: 'Questões de Física no ENEM — Os 10 Temas Mais Cobrados',
-    description: 'Os 10 temas de Física mais cobrados no ENEM de 2009 a 2024. Estratégia, exemplos de questões e como resolver sem decorar fórmulas.',
+    description: 'Os 10 temas de Física mais cobrados no ENEM de 2009 a 2024. Estratégia, exemplos de questões e como resolver sem decorar fórmulas. Saiba mais e prepare-se.',
     date: '2026-02-20',
     readTime: 9,
     content: `
@@ -1191,11 +1203,11 @@ Física costuma ser o "medo" de muitos candidatos no ENEM. Mas o segredo é simp
 
 > **TL;DR:** Os 10 temas de Física mais cobrados no ENEM de 2009 a 2024. Estratégia, exemplos de questões e como resolver sem decorar fórmulas. [Pratique no ENEM Pro →](/questoes)
 
-## Por que Física no ENEM é Diferente
+## Por que Física no ENEM é Diferente?
 
 Em provas tradicionais de vestibular, Física = calcular. No ENEM, Física = interpretar uma situação e identificar qual conceito físico explica o fenômeno. As fórmulas estão disponíveis no enunciado — o que o ENEM testa é se você sabe *como usá-las*.
 
-## Os 10 Temas Mais Cobrados
+## Os 10 Temas Mais Cobrados?
 
 ### 1. Eletricidade e Eletromagnetismo (10–12% das questões de Física)
 
@@ -1258,7 +1270,7 @@ Em provas tradicionais de vestibular, Física = calcular. No ENEM, Física = int
 - Efeito fotoelétrico
 - Radioatividade: tipos de radiação, meia-vida
 
-## Como Estudar Física para o ENEM
+## Como Estudar Física para o ENEM?
 
 1. **Não tente decorar fórmulas** — o enunciado as fornece quando necessário
 2. **Entenda o conceito primeiro** — o que causa o fenômeno físico
@@ -1267,12 +1279,12 @@ Em provas tradicionais de vestibular, Física = calcular. No ENEM, Física = int
 
 ---
 
-## Pratique Física com Questões do ENEM
+## Pratique Física com Questões do ENEM?
 
 Resolva questões de Física do ENEM de 2009 a 2024 no ENEM Pro. A IA explica o raciocínio físico de cada questão.
 
 
-## Tópicos Mais Cobrados (ENEM — INEP)
+## Tópicos Mais Cobrados (ENEM — INEP)?
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
@@ -1312,14 +1324,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'quanto-tempo-estudar-para-o-enem',
     title: 'Quanto Tempo Estudar para o ENEM? A Resposta Honesta',
-    description: 'Quanto tempo de estudo é necessário para passar no ENEM? A resposta depende de onde você está agora e onde quer chegar. Descubra aqui.',
+    description: 'Quanto tempo de estudo é necessário para passar no ENEM? A resposta depende de onde você está agora e onde quer chegar. Descubra aqui. Saiba mais e prepare-se.',
     date: '2026-01-30',
     readTime: 7,
     content: `
@@ -1327,20 +1340,20 @@ A pergunta "quanto tempo preciso estudar?" tem uma resposta honesta que nenhum c
 
 > **TL;DR:** Quanto tempo de estudo é necessário para passar no ENEM? A resposta depende de onde você está agora e onde quer chegar. Descubra aqui. [Pratique no ENEM Pro →](/questoes)
 
-## O Mito das "1.000 horas de estudo"
+## O Mito das "1.000 horas de estudo"?
 
 Você já viu anúncios de cursinhos prometendo aprovação com "X horas de vídeo" ou "Y dias de estudo". O problema: horas de estudo não são iguais entre si.
 
 1 hora de estudo ativo (resolver questões + entender os erros) vale mais do que 3 horas de estudo passivo (assistir videoaula).
 
-## A Fórmula Real
+## A Fórmula Real?
 
 Quanto tempo você precisa estudar depende de dois fatores:
 
 1. **Seu nível atual:** um candidato com base sólida em Matemática precisa de menos tempo nessa disciplina
 2. **Sua meta de nota:** entrar em Medicina na USP exige desempenho completamente diferente de entrar em Administração em uma universidade estadual
 
-## Estimativas por Perfil
+## Estimativas por Perfil?
 
 ### Candidato de primeira viagem, base fraca
 **Tempo necessário:** 8–12 meses de estudo consistente
@@ -1362,7 +1375,7 @@ Quanto tempo você precisa estudar depende de dois fatores:
 **Horas por dia:** 4–6 horas
 **Meta realista:** 780+ por área + 900+ na redação
 
-## O Que Realmente Importa: Consistência vs. Volume
+## O Que Realmente Importa: Consistência vs. Volume?
 
 Um estudo de 1 hora por dia por 6 meses = 180 horas.
 Um maratona de estudo de 10 horas por dia por 18 dias = 180 horas.
@@ -1371,7 +1384,7 @@ O resultado de aprendizado não é o mesmo. A distribuição ao longo do tempo �
 
 **Regra prática:** 30 minutos por dia é melhor do que 4 horas no fim de semana.
 
-## O Mínimo Viável por Disciplina
+## O Mínimo Viável por Disciplina?
 
 Se você tem pouco tempo e precisa focar:
 
@@ -1383,12 +1396,12 @@ Com esse ritmo mínimo de ~3h por semana, você pode melhorar 30–50 pontos em 
 
 ---
 
-## Comece Agora com 10 Questões
+## Comece Agora com 10 Questões?
 
 Não espere ter o cronograma perfeito. Comece com 10 questões hoje. Grátis, sem cartão de crédito.
 
 
-## Cronograma de Estudos ENEM — Visão Geral
+## Cronograma de Estudos ENEM — Visão Geral?
 
 | Período | Foco principal | Carga semanal recomendada |
 |---------|---------------|--------------------------|
@@ -1426,14 +1439,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'questoes-linguagens-enem',
     title: 'Questões de Linguagens ENEM — Português, Literatura e Língua Estrangeira',
-    description: 'Guia de Linguagens no ENEM: interpretação textual, gramática contextualizada, literatura e inglês/espanhol. Temas mais cobrados de 2009 a 2024.',
+    description: 'Guia de Linguagens no ENEM: interpretação textual, gramática contextualizada, literatura e inglês/espanhol. Temas mais cobrados de 2009 a 2024. Acesse grátis.',
     date: '2026-02-05',
     readTime: 8,
     content: `
@@ -1441,18 +1455,18 @@ Linguagens, Códigos e suas Tecnologias é uma das quatro áreas do ENEM, com 45
 
 > **TL;DR:** Guia de Linguagens no ENEM: interpretação textual, gramática contextualizada, literatura e inglês/espanhol. Temas mais cobrados de 2009 a 2024. [Pratique no ENEM Pro →](/questoes)
 
-## Por que Linguagens é Decisiva
+## Por que Linguagens é Decisiva?
 
 Candidatos que vão bem em Linguagens geralmente vão bem em todas as provas — a capacidade de interpretar texto é a habilidade base de todas as outras áreas. Investir em Linguagens tem retorno transversal.
 
-## Distribuição das Questões
+## Distribuição das Questões?
 
 - **Língua Portuguesa + interpretação:** 25–28 questões
 - **Literatura brasileira:** 8–10 questões
 - **Inglês ou Espanhol:** 5–6 questões
 - **Artes, Educação Física, Semiótica:** 3–5 questões
 
-## Língua Portuguesa — O que o ENEM Cobra
+## Língua Portuguesa — O que o ENEM Cobra?
 
 O ENEM não pede gramática isolada. Pede gramática em contexto de texto — você precisa identificar o efeito de sentido que um recurso gramatical produz.
 
@@ -1464,7 +1478,7 @@ O ENEM não pede gramática isolada. Pede gramática em contexto de texto — vo
 - **Gêneros textuais:** características de crônica, conto, poema, artigo de opinião
 - **Concordância e regência:** em contexto argumentativo
 
-## Literatura — O que Cai
+## Literatura — O que Cai?
 
 O ENEM cobra literatura de forma cronológica e temática, não de forma biográfica. Você não precisa saber a data de nascimento de um autor — precisa identificar as características do movimento literário e interpretar o texto.
 
@@ -1477,7 +1491,7 @@ O ENEM cobra literatura de forma cronológica e temática, não de forma biográ
 
 **Dica:** Leia ao menos 5 textos completos de autores modernistas. A análise de poema é a questão mais frequente de literatura no ENEM.
 
-## Inglês/Espanhol — Estratégia
+## Inglês/Espanhol — Estratégia?
 
 O ENEM cobra leitura em língua estrangeira, não produção de texto. Você não precisa falar inglês — precisa interpretar textos em inglês com apoio do contexto.
 
@@ -1489,7 +1503,7 @@ O ENEM cobra leitura em língua estrangeira, não produção de texto. Você nã
 
 Candidatos sem domínio de inglês conseguem acertar 3–4 das 5 questões com essa estratégia.
 
-## Textos Multimodais
+## Textos Multimodais?
 
 O ENEM frequentemente usa charges, cartazes, infográficos e fotografias como textos. Aprenda a interpretar:
 - O que a imagem mostra (denotação)
@@ -1498,12 +1512,12 @@ O ENEM frequentemente usa charges, cartazes, infográficos e fotografias como te
 
 ---
 
-## Pratique Linguagens no ENEM Pro
+## Pratique Linguagens no ENEM Pro?
 
 Todas as questões de Linguagens do ENEM 2009 a 2024 estão disponíveis. Responda e entenda com explicação da IA.
 
 
-## ENEM em Números (INEP)
+## ENEM em Números (INEP)?
 
 | Dado | Valor |
 |------|-------|
@@ -1544,15 +1558,16 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   // ─── Posts de alto volume SEO ─────────────────────────────────────────────
   {
     slug: 'como-estudar-para-o-enem',
     title: 'Como Estudar para o ENEM 2026 — Guia Completo do Zero',
-    description: 'Guia definitivo para estudar para o ENEM 2026: cronograma, técnicas, prioridades por disciplina e como usar questões anteriores para turbinar a nota.',
+    description: 'Guia definitivo para estudar para o ENEM 2026: cronograma, técnicas, prioridades por disciplina e como usar questões anteriores para turbinar a nota. Grátis.',
     date: '2026-01-10',
     readTime: 12,
     content: `
@@ -1560,7 +1575,7 @@ Estudar para o ENEM sem método é como treinar corrida sem saber a distância d
 
 > **TL;DR:** Guia definitivo para estudar para o ENEM 2026: cronograma, técnicas, prioridades por disciplina e como usar questões anteriores para turbinar a nota. [Pratique no ENEM Pro →](/questoes)
 
-## 1. Faça um diagnóstico honesto
+## 1. Faça um diagnóstico honesto?
 
 Antes de qualquer cronograma, responda 20 questões de cada disciplina do ENEM (anos anteriores) e meça sua taxa de acerto. Isso revela onde investir mais tempo.
 
@@ -1569,7 +1584,7 @@ Antes de qualquer cronograma, responda 20 questões de cada disciplina do ENEM (
 - 40–60%: Base razoável. Pode melhorar com revisão focada.
 - Acima de 60%: Manter. Pratique para não perder.
 
-## 2. Monte um cronograma realista
+## 2. Monte um cronograma realista?
 
 O ENEM cobra 4 áreas. Não tente estudar tudo todo dia. Uma estratégia eficiente:
 
@@ -1579,7 +1594,7 @@ O ENEM cobra 4 áreas. Não tente estudar tudo todo dia. Uma estratégia eficien
 - **Sábado:** Ciências Humanas (mais interpretação, menos memorização)
 - **Domingo:** Revisão das questões erradas na semana
 
-## 3. Questões anteriores valem mais que qualquer material
+## 3. Questões anteriores valem mais que qualquer material?
 
 O ENEM repete padrões. Uma questão de Matemática 2019 sobre funções ensina mais do que 3 páginas de teoria, porque você:
 - Aprende a interpretar o estilo do INEP
@@ -1588,11 +1603,11 @@ O ENEM repete padrões. Uma questão de Matemática 2019 sobre funções ensina 
 
 **Meta:** 10 questões por disciplina por dia, com gabarito imediato e revisão dos erros.
 
-## 4. Redação: 200 pontos disponíveis por competência
+## 4. Redação: 200 pontos disponíveis por competência?
 
 A redação é a única nota que você pode controlar 100% com prática. Escreva uma redação por semana, corrija pelas 5 competências do INEP e evolua sistematicamente.
 
-## 5. Últimas 4 semanas — o que fazer
+## 5. Últimas 4 semanas — o que fazer?
 
 - **4 semanas antes:** Simulados completos (todas as disciplinas em um dia)
 - **2 semanas antes:** Revisão apenas dos pontos fracos identificados
@@ -1604,7 +1619,7 @@ A redação é a única nota que você pode controlar 100% com prática. Escreva
 Pratique no ENEM Pro com questões reais do INEP de 2009 a 2024. **10 questões por dia grátis.**
 
 
-## ENEM em Números (INEP)
+## ENEM em Números (INEP)?
 
 | Dado | Valor |
 |------|-------|
@@ -1644,14 +1659,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'nota-de-corte-medicina-enem',
     title: 'Nota de Corte Medicina ENEM 2026 — Federal, Unifesp e Mais',
-    description: 'Notas de corte para Medicina via SISU nas principais federais. Saiba qual nota você precisa e como calcular sua chance de aprovação.',
+    description: 'Notas de corte para Medicina via SISU nas principais federais. Saiba qual nota você precisa e como calcular sua chance de aprovação. Saiba mais e prepare-se.',
     date: '2026-01-20',
     readTime: 8,
     content: `
@@ -1659,7 +1675,7 @@ Medicina é o curso mais concorrido do SISU. Entender as notas de corte é o pri
 
 > **TL;DR:** Notas de corte para Medicina via SISU nas principais federais. Saiba qual nota você precisa e como calcular sua chance de aprovação. [Pratique no ENEM Pro →](/questoes)
 
-## Notas de corte históricas — Medicina (referência)
+## Notas de corte históricas — Medicina (referência)?
 
 As notas variam a cada edição do SISU, mas os patamares históricos são:
 
@@ -1675,7 +1691,7 @@ As notas variam a cada edição do SISU, mas os patamares históricos são:
 
 *Valores de referência. Consulte sempre o site oficial do MEC/SISU para dados atualizados.*
 
-## Como funciona o cálculo da nota do ENEM
+## Como funciona o cálculo da nota do ENEM?
 
 O ENEM usa a TRI (Teoria de Resposta ao Item). Isso significa:
 - Acertar questões difíceis pesa mais do que acertar fáceis
@@ -1684,7 +1700,7 @@ O ENEM usa a TRI (Teoria de Resposta ao Item). Isso significa:
 
 **Estratégia TRI:** Responda primeiro as questões que você sabe. Não chute aleatoriamente — chute com lógica de eliminação de alternativas.
 
-## O que fazer para atingir 800+ no ENEM
+## O que fazer para atingir 800+ no ENEM?
 
 Para chegar em 800+, você precisa de consistência em todas as áreas. Um candidato de Medicina não pode ter uma disciplina abaixo de 700.
 
@@ -1726,14 +1742,15 @@ Sim. A nota de corte varia conforme o número de candidatos, as vagas disponíve
 ### Como a redação influencia na nota de corte de Medicina?
 A nota de redação entra na média do SISU com o mesmo peso das outras áreas. Para Medicina, uma redação abaixo de 700 compromete a média final significativamente. A meta mínima é 800; candidatos top costumam ter 900+.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'tri-enem-como-funciona',
     title: 'TRI ENEM — O Que É e Como Isso Afeta Sua Nota',
-    description: 'Entenda como funciona a TRI (Teoria de Resposta ao Item) do ENEM e como usar esse conhecimento a seu favor na hora da prova.',
+    description: 'Entenda como funciona a TRI (Teoria de Resposta ao Item) do ENEM e como usar esse conhecimento a seu favor na hora da prova. Saiba mais e prepare-se.',
     date: '2026-02-01',
     readTime: 7,
     content: `
@@ -1747,7 +1764,7 @@ A TRI não calcula sua nota contando acertos e erros. Ela analisa **padrões de 
 
 Uma questão fácil que muita gente acerta, mas você errou, pesa negativamente. Uma questão difícil que poucos acertam, mas você acertou, pesa positivamente.
 
-## O mito do "chute certo"
+## O mito do "chute certo"?
 
 Muitas pessoas ouviram que "chutar prejudica". Não é bem assim:
 
@@ -1755,14 +1772,14 @@ Muitas pessoas ouviram que "chutar prejudica". Não é bem assim:
 - **Chute por eliminação:** Neutro a levemente positivo
 - **Não responder:** Conta como erro de qualquer jeito — sempre marque algo
 
-## Estratégia prática para a TRI
+## Estratégia prática para a TRI?
 
 1. **Responda primeiro o que você sabe** — questões que você domina plenamente
 2. **Identifique e pule questões que você não tem ideia** — volte no final
 3. **Elimine pelo menos 2 alternativas antes de chutar** — aumenta a chance e melhora o padrão
 4. **Nunca deixe em branco** — sem vantagem alguma
 
-## A consistência vale mais que a quantidade
+## A consistência vale mais que a quantidade?
 
 Na TRI, acertar 30 questões com consistência (acertando as fáceis e algumas médias) pode valer mais do que acertar 35 questões de forma aleatória.
 
@@ -1774,7 +1791,7 @@ Treine com questões reais do ENEM e acompanhe sua taxa de acerto por disciplina
 
 
 
-## ENEM em Números (INEP)
+## ENEM em Números (INEP)?
 
 | Dado | Valor |
 |------|-------|
@@ -1813,14 +1830,15 @@ Sim, em certa medida. Padrões de resposta inconsistentes (acertar difíceis e e
 ### Como a TRI beneficia candidatos bem preparados?
 Candidatos que dominam os fundamentos de cada área acertam tanto as questões fáceis quanto algumas difíceis — o padrão ideal para a TRI. Isso gera notas mais altas do que simplesmente acertar 35 questões de forma aleatória.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'redacao-enem-como-tirar-1000',
     title: 'Redação ENEM — Como Tirar 1000 Pontos nas 5 Competências',
-    description: 'Guia completo para tirar nota máxima na redação do ENEM. Estrutura, competências, proposta de intervenção e os erros que derrubam a nota.',
+    description: 'Guia completo para tirar nota máxima na redação do ENEM. Estrutura, competências, proposta de intervenção e os erros que derrubam a nota. Acesse grátis.',
     date: '2026-02-15',
     readTime: 10,
     content: `
@@ -1828,7 +1846,7 @@ A redação do ENEM vale 1000 pontos — o equivalente a uma área inteira da pr
 
 > **TL;DR:** Guia completo para tirar nota máxima na redação do ENEM. Estrutura, competências, proposta de intervenção e os erros que derrubam a nota. [Pratique no ENEM Pro →](/questoes)
 
-## As 5 competências — o que cada uma avalia
+## As 5 competências — o que cada uma avalia?
 
 **C1 — Domínio da Língua Escrita (0–200)**
 Gramática, ortografia, pontuação, concordância. Erros graves aqui custam caro. A regra: evite estruturas complexas que você não domina completamente.
@@ -1849,14 +1867,14 @@ Exemplo ruim: "O governo deve investir em educação."
 
 Exemplo bom: "O Ministério da Educação (agente) deve implementar programas de letramento digital (ação) por meio de parcerias com municípios (modo), reduzindo a exclusão tecnológica (efeito) e promovendo igualdade de acesso (finalidade)."
 
-## Estrutura padrão que funciona
+## Estrutura padrão que funciona?
 
 **Introdução (5–7 linhas):** Contextualização + tese
 **Desenvolvimento 1 (8–10 linhas):** Argumento 1 + evidência
 **Desenvolvimento 2 (8–10 linhas):** Argumento 2 + evidência
 **Conclusão (5–7 linhas):** Proposta de intervenção completa
 
-## Os 5 erros que mais derrubam a nota
+## Os 5 erros que mais derrubam a nota?
 
 1. Proposta de intervenção vaga ("o governo deve agir")
 2. Fuga parcial do tema (tangenciar sem responder)
@@ -1870,7 +1888,7 @@ Pratique sua redação no ENEM Pro. A IA corrige nas 5 competências e dá nota 
 
 
 
-## As 5 Competências da Redação ENEM (INEP)
+## As 5 Competências da Redação ENEM (INEP)?
 
 | Competência | O que avalia | Pontuação máxima |
 |-------------|-------------|-----------------|
@@ -1909,14 +1927,15 @@ A proposta de intervenção (Competência 5) precisa ter 5 elementos: agente (qu
 ### Quantas linhas deve ter a redação do ENEM?
 A redação deve ter entre 26 e 30 linhas no caderno do ENEM. Abaixo de 8 linhas = nota 0. Abaixo de 20 linhas já compromete a argumentação. Não existe penalidade por ultrapassar 30 linhas, mas o espaço não permite muito mais.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'enem-2026-o-que-estudar',
     title: 'ENEM 2026 — O Que Estudar em Cada Disciplina',
-    description: 'Guia de prioridades para o ENEM 2026: os temas mais cobrados por disciplina, o que cai mais e onde focar para maximizar sua nota.',
+    description: 'Guia de prioridades para o ENEM 2026: os temas mais cobrados por disciplina, o que cai mais e onde focar para maximizar sua nota. Saiba mais e prepare-se.',
     date: '2026-03-01',
     readTime: 9,
     content: `
@@ -1924,7 +1943,7 @@ Com o ENEM 2026 marcado para novembro, a pergunta que todo candidato faz é: ond
 
 > **TL;DR:** Guia de prioridades para o ENEM 2026: os temas mais cobrados por disciplina, o que cai mais e onde focar para maximizar sua nota. [Pratique no ENEM Pro →](/questoes)
 
-## Matemática — Prioridades 2026
+## Matemática — Prioridades 2026?
 
 **Alta frequência (estude primeiro):**
 - Funções do 1º e 2º grau: mínimo 6 questões por prova
@@ -1938,21 +1957,21 @@ Com o ENEM 2026 marcado para novembro, a pergunta que todo candidato faz é: ond
 
 **Dica:** Resolva questões contextualizadas. O ENEM nunca pede "calcule x". Sempre há uma situação real.
 
-## Linguagens — Prioridades 2026
+## Linguagens — Prioridades 2026?
 
 - Interpretação de texto: 60% da prova — não é estudável, é treinável
 - Gramática contextualizada: 8–10 questões (concordância, regência, crase)
 - Literatura (cronologia + características): 6–8 questões
 - Inglês/Espanhol: 5 questões — foco em vocabulário e contexto
 
-## Ciências Humanas — Prioridades 2026
+## Ciências Humanas — Prioridades 2026?
 
 - História do Brasil (República): peso enorme nos últimos 5 anos
 - Geopolítica e globalização: sempre presente
 - Filosofia (Iluminismo, Contratualistas): recorrente
 - Sociologia (conceitos de Durkheim, Weber, Marx): 4–6 questões
 
-## Ciências da Natureza — Prioridades 2026
+## Ciências da Natureza — Prioridades 2026?
 
 - Biologia: 17–20 questões (maior fatia)
   - Ecologia e biomas: sempre cai
@@ -1964,7 +1983,7 @@ Com o ENEM 2026 marcado para novembro, a pergunta que todo candidato faz é: ond
   - Mecânica (cinemática e dinâmica): base
   - Eletricidade: recorrente
 
-## Como usar esse mapa
+## Como usar esse mapa?
 
 Pegue seu diagnóstico de acertos por disciplina e cruze com esse mapa de frequência. Invista o tempo onde o produto (frequência × déficit atual) for maior.
 
@@ -1973,7 +1992,7 @@ Pegue seu diagnóstico de acertos por disciplina e cruze com esse mapa de frequ�
 O ENEM Pro organiza todas as questões por disciplina e ano. Treine os temas prioritários agora.
 
 
-## Cronograma de Estudos ENEM — Visão Geral
+## Cronograma de Estudos ENEM — Visão Geral?
 
 | Período | Foco principal | Carga semanal recomendada |
 |---------|---------------|--------------------------|
@@ -2011,14 +2030,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'sisu-2026-como-funciona',
     title: 'SISU 2026 — Como Funciona, Notas de Corte e Como se Inscrever',
-    description: 'Tudo sobre o SISU 2026: regras de inscrição, como as notas de corte funcionam, estratégias para escolher curso e universidade.',
+    description: 'Tudo sobre o SISU 2026: regras de inscrição, como as notas de corte funcionam, estratégias para escolher curso e universidade. Saiba mais e prepare-se.',
     date: '2026-03-15',
     readTime: 8,
     content: `
@@ -2026,7 +2046,7 @@ O SISU (Sistema de Seleção Unificada) é a porta de entrada para mais de 240 u
 
 > **TL;DR:** Tudo sobre o SISU 2026: regras de inscrição, como as notas de corte funcionam, estratégias para escolher curso e universidade. [Pratique no ENEM Pro →](/questoes)
 
-## Como funciona o SISU
+## Como funciona o SISU?
 
 O SISU usa sua nota do ENEM para competir por vagas em universidades públicas. Você não presta uma prova específica — usa a nota que já tem.
 
@@ -2035,7 +2055,7 @@ O SISU usa sua nota do ENEM para competir por vagas em universidades públicas. 
 - Resultado da 1ª chamada: mesma semana das inscrições
 - Chamadas seguintes + lista de espera: fevereiro
 
-## Notas de corte — como funciona
+## Notas de corte — como funciona?
 
 A nota de corte não é fixa. Ela flutua a cada edição do SISU conforme o número de candidatos inscritos em cada curso.
 
@@ -2046,7 +2066,7 @@ A nota de corte não é fixa. Ela flutua a cada edição do SISU conforme o núm
 
 Uma nota que seria suficiente em 2024 pode não ser em 2026 se mais candidatos fizerem a mesma escolha.
 
-## Estratégia de inscrição
+## Estratégia de inscrição?
 
 O SISU permite 2 opções de curso/universidade. A estratégia:
 
@@ -2055,7 +2075,7 @@ O SISU permite 2 opções de curso/universidade. A estratégia:
 
 **Monitore durante a inscrição:** A nota de corte atualiza em tempo real. Acompanhe se sua nota está acima ou abaixo da corte estimada.
 
-## Ampla concorrência vs. cotas
+## Ampla concorrência vs. cotas?
 
 Cada vaga tem modalidades. Verifique se você se qualifica para alguma cota:
 - L1/L2/L3/L4: Renda familiar + escola pública + cor/raça
@@ -2068,7 +2088,7 @@ Cotas podem aumentar significativamente suas chances, pois a concorrência é me
 Aumente sua nota no ENEM 2026 com o ENEM Pro — 3.600+ questões reais do INEP, grátis para começar.
 
 
-## Notas de Corte — Variável por curso (SISU/INEP)
+## Notas de Corte — Variável por curso (SISU/INEP)?
 
 | Ano | Faixa de nota (federal) | Referência |
 |-----|------------------------|------------|
@@ -2106,14 +2126,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'ciencias-humanas-enem-o-que-cai',
     title: 'Ciências Humanas ENEM — O Que Cai Mais e Como Estudar',
-    description: 'Guia completo para Ciências Humanas no ENEM: os temas mais cobrados de História, Geografia, Filosofia e Sociologia com dicas de estudo.',
+    description: 'Guia completo para Ciências Humanas no ENEM: os temas mais cobrados de História, Geografia, Filosofia e Sociologia com dicas de estudo. Acesse grátis.',
     date: '2026-04-01',
     readTime: 9,
     content: `
@@ -2121,14 +2142,14 @@ Ciências Humanas é a área que mais candidatos subestimam — e onde é possí
 
 > **TL;DR:** Guia completo para Ciências Humanas no ENEM: os temas mais cobrados de História, Geografia, Filosofia e Sociologia com dicas de estudo. [Pratique no ENEM Pro →](/questoes)
 
-## Distribuição aproximada das questões
+## Distribuição aproximada das questões?
 
 - **História:** 20–22 questões (maior fatia)
 - **Geografia:** 12–14 questões
 - **Filosofia:** 6–8 questões
 - **Sociologia:** 6–8 questões
 
-## História — O que estudar primeiro
+## História — O que estudar primeiro?
 
 **Alta frequência:**
 - República Brasileira (Vargas, Ditadura Militar, Redemocratização)
@@ -2141,7 +2162,7 @@ Ciências Humanas é a área que mais candidatos subestimam — e onde é possí
 - Guerra Fria e ordem mundial pós-1945
 - Ditaduras na América Latina
 
-## Geografia — Foco nessas áreas
+## Geografia — Foco nessas áreas?
 
 - Globalização e fluxos de capital
 - Biomas brasileiros (Amazônia, Cerrado, Caatinga)
@@ -2149,7 +2170,7 @@ Ciências Humanas é a área que mais candidatos subestimam — e onde é possí
 - Urbanização e problemas urbanos
 - Migrações (interna e internacional)
 
-## Filosofia — O que o ENEM realmente cobra
+## Filosofia — O que o ENEM realmente cobra?
 
 O ENEM não cobra história da filosofia — cobra **aplicação de conceitos**. Os mais frequentes:
 
@@ -2158,14 +2179,14 @@ O ENEM não cobra história da filosofia — cobra **aplicação de conceitos**.
 - Ética (Kant, Aristóteles)
 - Filosofia política contemporânea
 
-## Sociologia — Conceitos-chave
+## Sociologia — Conceitos-chave?
 
 - Durkheim: fato social, anomia, solidariedade mecânica/orgânica
 - Weber: ação social, dominação, burocracia, ética protestante
 - Marx: mais-valia, alienação, luta de classes
 - Bourdieu: capital cultural, habitus, campo
 
-## Como estudar Ciências Humanas com eficiência
+## Como estudar Ciências Humanas com eficiência?
 
 Ciências Humanas é uma prova de **interpretação**, não de memorização. Questões raramente pedem "quando foi" — pedem "o que isso significa".
 
@@ -2179,7 +2200,7 @@ Estratégia:
 Pratique com todas as questões de Ciências Humanas do ENEM no ENEM Pro.
 
 
-## Distribuição por Área de Conhecimento (ENEM — INEP)
+## Distribuição por Área de Conhecimento (ENEM — INEP)?
 
 | Área | Questões | Dias de prova |
 |------|----------|--------------|
@@ -2218,14 +2239,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'matematica-enem-dicas-estrategias',
     title: 'Matemática no ENEM — Dicas e Estratégias para Não Ter Medo',
-    description: 'Como enfrentar a prova de Matemática do ENEM sem pânico. Estratégias de resolução, temas mais cobrados e como usar o tempo da prova.',
+    description: 'Como enfrentar a prova de Matemática do ENEM sem pânico. Estratégias de resolução, temas mais cobrados e como usar o tempo da prova. Saiba mais e prepare-se.',
     date: '2026-04-15',
     readTime: 8,
     content: `
@@ -2233,13 +2255,13 @@ Matemática é a disciplina que mais assusta os candidatos do ENEM. Mas com a es
 
 > **TL;DR:** Como enfrentar a prova de Matemática do ENEM sem pânico. Estratégias de resolução, temas mais cobrados e como usar o tempo da prova. [Pratique no ENEM Pro →](/questoes)
 
-## A estrutura da prova de Matemática
+## A estrutura da prova de Matemática?
 
 São 45 questões de múltipla escolha, todas contextualizadas. O ENEM nunca pede "resolva a equação x² + 3x - 4 = 0". Sempre há uma situação do cotidiano que exige essa resolução.
 
 **Isso é bom para você:** significa que intuição e raciocínio lógico valem tanto quanto fórmulas.
 
-## Os temas que mais caem (com frequência estimada)
+## Os temas que mais caem (com frequência estimada)?
 
 | Tema | Questões por prova |
 |---|---|
@@ -2251,7 +2273,7 @@ São 45 questões de múltipla escolha, todas contextualizadas. O ENEM nunca ped
 | Análise combinatória | 2–3 |
 | Matrizes e determinantes | 2–3 |
 
-## Estratégia para a prova — ordem de resolução
+## Estratégia para a prova — ordem de resolução?
 
 Não resolva as questões na ordem em que aparecem. Use essa sequência:
 
@@ -2260,7 +2282,7 @@ Não resolva as questões na ordem em que aparecem. Use essa sequência:
 3. **Terceiro passo:** Questões onde você tem uma ideia, mas precisa de mais tempo.
 4. **Quarto passo:** Questões que você não tem ideia — elimine alternativas e chute.
 
-## Gestão de tempo
+## Gestão de tempo?
 
 Para 45 questões em 5 horas (300 minutos), você tem ~6 minutos por questão. Na prática:
 
@@ -2268,7 +2290,7 @@ Para 45 questões em 5 horas (300 minutos), você tem ~6 minutos por questão. N
 - Questões difíceis: máximo 8 minutos — se passar, marque e volte
 - Nunca passe mais de 10 minutos numa única questão
 
-## Os erros mais comuns que custam pontos
+## Os erros mais comuns que custam pontos?
 
 1. **Não ler o enunciado completo** — o ENEM às vezes inverte a pergunta (pede o que **não** é verdadeiro)
 2. **Erro de unidade** — misturar km com m, g com kg
@@ -2308,14 +2330,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'fisica-enem-o-que-cai',
     title: 'Física no ENEM — O que Cai, Temas e Estratégia 2026',
-    description: 'Descubra o que cai em Física no ENEM: mecânica, eletricidade, termodinâmica, óptica e física moderna. Estratégia completa para 2026.',
+    description: 'Descubra o que cai em Física no ENEM: mecânica, eletricidade, termodinâmica, óptica e física moderna. Estratégia completa para 2026. Saiba mais e prepare-se.',
     date: '2026-03-10',
     readTime: 8,
     content: `
@@ -2327,7 +2350,7 @@ Física é uma das matérias que mais assusta candidatos, mas no ENEM ela tem um
 
 A prova de Ciências da Natureza tem 45 questões divididas entre Física, Química e Biologia. Historicamente, Física responde por **15–18 questões** (33–40% da prova).
 
-## O que cai em Física no ENEM — Por frequência
+## O que cai em Física no ENEM — Por frequência?
 
 ### 1. Mecânica (10–12 questões)
 O maior bloco. Inclui:
@@ -2360,7 +2383,7 @@ O maior bloco. Inclui:
 - Relatividade (tempo, comprimento)
 - Física nuclear
 
-## Estratégia para Física no ENEM
+## Estratégia para Física no ENEM?
 
 **Regra 1: Leia o enunciado com atenção**
 O ENEM embute a fórmula ou os dados necessários no próprio enunciado. Candidatos que pulam o texto perdem pontos gratuitos.
@@ -2374,7 +2397,7 @@ Antes de calcular qualquer coisa, identifique: o que a questão pede? Aceleraç�
 **Regra 4: Verifique as unidades**
 Uma questão de Física com resposta em unidade errada está errada. A análise dimensional é sua melhor aliada.
 
-## Os erros mais comuns em Física no ENEM
+## Os erros mais comuns em Física no ENEM?
 
 1. Confundir velocidade com aceleração
 2. Esquecer de converter unidades (km/h → m/s, g → kg)
@@ -2386,7 +2409,7 @@ Uma questão de Física com resposta em unidade errada está errada. A análise 
 Pratique questões reais de Física com o ENEM Pro. Veja onde você erra e receba explicação detalhada da IA para cada questão — 10 grátis por dia.
 
 
-## Tópicos Mais Cobrados (ENEM — INEP)
+## Tópicos Mais Cobrados (ENEM — INEP)?
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
@@ -2426,14 +2449,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'quimica-enem-o-que-cai',
     title: 'Química no ENEM — O que Cai, Temas e Estratégia 2026',
-    description: 'O que cai em Química no ENEM: química orgânica, estequiometria, soluções, termoquímica e eletroquímica. Guia completo com estratégia.',
+    description: 'O que cai em Química no ENEM: química orgânica, estequiometria, soluções, termoquímica e eletroquímica. Guia completo com estratégia. Saiba mais e prepare-se.',
     date: '2026-03-12',
     readTime: 8,
     content: `
@@ -2441,7 +2465,7 @@ Química é responsável por cerca de **15–17 questões** na prova de Ciência
 
 > **TL;DR:** O que cai em Química no ENEM: química orgânica, estequiometria, soluções, termoquímica e eletroquímica. Guia completo com estratégia. [Pratique no ENEM Pro →](/questoes)
 
-## O que cai em Química no ENEM — Por frequência
+## O que cai em Química no ENEM — Por frequência?
 
 ### 1. Química Orgânica (5–7 questões)
 O maior bloco de Química no ENEM.
@@ -2478,7 +2502,7 @@ O maior bloco de Química no ENEM.
 - Tratamento de água e esgoto
 - Poluição e resíduos tóxicos
 
-## Estratégia para Química no ENEM
+## Estratégia para Química no ENEM?
 
 **Foque em Química Orgânica** — é o maior bloco e tem padrão de cobrança previsível. Aprenda identificar funções orgânicas pelo sufixo: -ol (álcool), -al (aldeído), -ona (cetona), -oato (éster).
 
@@ -2486,7 +2510,7 @@ O maior bloco de Química no ENEM.
 
 **Contexto ambiental é frequente** — questões sobre poluição, combustíveis, biocombustíveis e sustentabilidade aparecem todo ano.
 
-## Dica de ouro: fórmulas no enunciado
+## Dica de ouro: fórmulas no enunciado?
 
 O ENEM frequentemente fornece a equação química ou a fórmula estrutural no próprio enunciado. Leia o texto completo antes de tentar resolver.
 
@@ -2495,7 +2519,7 @@ O ENEM frequentemente fornece a equação química ou a fórmula estrutural no p
 Pratique Química com questões reais do ENEM 2009–2024 no ENEM Pro. IA explica cada erro com o raciocínio correto.
 
 
-## Tópicos Mais Cobrados (ENEM — INEP)
+## Tópicos Mais Cobrados (ENEM — INEP)?
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
@@ -2535,14 +2559,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'biologia-enem-o-que-cai',
     title: 'Biologia no ENEM — O que Cai, Temas e Estratégia 2026',
-    description: 'O que cai em Biologia no ENEM: ecologia, genética, evolução, citologia, biotecnologia e fisiologia humana. Guia com estratégia para 2026.',
+    description: 'O que cai em Biologia no ENEM: ecologia, genética, evolução, citologia, biotecnologia e fisiologia humana. Guia com estratégia para 2026. Acesse grátis.',
     date: '2026-03-14',
     readTime: 8,
     content: `
@@ -2550,7 +2575,7 @@ Biologia é a disciplina com **mais questões** em Ciências da Natureza no ENEM
 
 > **TL;DR:** O que cai em Biologia no ENEM: ecologia, genética, evolução, citologia, biotecnologia e fisiologia humana. Guia com estratégia para 2026. [Pratique no ENEM Pro →](/questoes)
 
-## O que cai em Biologia no ENEM — Por frequência
+## O que cai em Biologia no ENEM — Por frequência?
 
 ### 1. Ecologia e Biomas (4–6 questões)
 - Cadeia e teia alimentar
@@ -2590,7 +2615,7 @@ Biologia é a disciplina com **mais questões** em Ciências da Natureza no ENEM
 - Fotossíntese e respiração vegetal
 - Reprodução vegetal
 
-## Estratégia para Biologia no ENEM
+## Estratégia para Biologia no ENEM?
 
 **Prioridade máxima: Ecologia e Genética** — juntas respondem por 50% das questões de Biologia.
 
@@ -2605,7 +2630,7 @@ Biologia é a disciplina com **mais questões** em Ciências da Natureza no ENEM
 Pratique Biologia com questões reais ENEM 2009–2024. Entenda cada erro com explicação da IA.
 
 
-## Tópicos Mais Cobrados (ENEM — INEP)
+## Tópicos Mais Cobrados (ENEM — INEP)?
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
@@ -2645,14 +2670,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'historia-enem-o-que-cai',
     title: 'História no ENEM — O que Cai, Temas e Estratégia 2026',
-    description: 'O que cai em História no ENEM: Brasil República, ditadura militar, guerras mundiais, Revolução Francesa e história contemporânea.',
+    description: 'O que cai em História no ENEM: Brasil República, ditadura militar, guerras mundiais, Revolução Francesa e história contemporânea. Saiba mais e prepare-se.',
     date: '2026-03-16',
     readTime: 7,
     content: `
@@ -2660,7 +2686,7 @@ História é parte da prova de Ciências Humanas do ENEM — que engloba também
 
 > **TL;DR:** O que cai em História no ENEM: Brasil República, ditadura militar, guerras mundiais, Revolução Francesa e história contemporânea. [Pratique no ENEM Pro →](/questoes)
 
-## O que cai em História no ENEM — Por frequência
+## O que cai em História no ENEM — Por frequência?
 
 ### 1. Brasil República e Contemporâneo (5–7 questões)
 O maior bloco de História no ENEM.
@@ -2698,7 +2724,7 @@ O maior bloco de História no ENEM.
 - Apartheid na África do Sul
 - Movimentos de direitos civis (Martin Luther King)
 
-## Estratégia para História no ENEM
+## Estratégia para História no ENEM?
 
 **O ENEM cobra interpretação, não memorização de datas** — toda questão de História vem com fonte primária (documento, imagem, charge, mapa). A resposta está no texto.
 
@@ -2713,7 +2739,7 @@ O maior bloco de História no ENEM.
 Pratique questões reais de Ciências Humanas no ENEM Pro. 10 questões por dia grátis — sem cartão de crédito.
 
 
-## Tópicos Mais Cobrados (ENEM — INEP)
+## Tópicos Mais Cobrados (ENEM — INEP)?
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
@@ -2753,14 +2779,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'geografia-enem-o-que-cai',
     title: 'Geografia no ENEM — O que Cai, Temas e Estratégia 2026',
-    description: 'O que cai em Geografia no ENEM: biomas, cartografia, urbanização, geopolítica, globalização e questões ambientais. Guia 2026.',
+    description: 'O que cai em Geografia no ENEM: biomas, cartografia, urbanização, geopolítica, globalização e questões ambientais. Guia 2026. Saiba mais e prepare-se.',
     date: '2026-03-18',
     readTime: 7,
     content: `
@@ -2768,7 +2795,7 @@ Geografia é parte da prova de Ciências Humanas do ENEM, respondendo por cerca 
 
 > **TL;DR:** O que cai em Geografia no ENEM: biomas, cartografia, urbanização, geopolítica, globalização e questões ambientais. Guia 2026. [Pratique no ENEM Pro →](/questoes)
 
-## O que cai em Geografia no ENEM — Por frequência
+## O que cai em Geografia no ENEM — Por frequência?
 
 ### 1. Biomas e Questões Ambientais (3–5 questões)
 - Biomas brasileiros (Amazônia, Cerrado, Caatinga, Mata Atlântica)
@@ -2806,7 +2833,7 @@ Geografia é parte da prova de Ciências Humanas do ENEM, respondendo por cerca 
 - Bacias hidrográficas brasileiras
 - El Niño, La Niña e variações climáticas
 
-## Estratégia para Geografia no ENEM
+## Estratégia para Geografia no ENEM?
 
 **Mapa é garantia de questão** — pratique localizar biomas, países, bacias hidrográficas e regiões brasileiras.
 
@@ -2821,7 +2848,7 @@ Geografia é parte da prova de Ciências Humanas do ENEM, respondendo por cerca 
 Pratique questões reais de Geografia no ENEM Pro. 10 questões grátis por dia com explicação de IA.
 
 
-## Tópicos Mais Cobrados (ENEM — INEP)
+## Tópicos Mais Cobrados (ENEM — INEP)?
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
@@ -2861,14 +2888,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'nota-de-corte-engenharia-enem',
     title: 'Nota de Corte para Engenharia no ENEM — SISU 2026 por Universidade',
-    description: 'Nota de corte para Engenharia pelo SISU 2026: Civil, Elétrica, Mecânica, Computação. Veja as médias por universidade e como se preparar.',
+    description: 'Nota de corte para Engenharia pelo SISU 2026: Civil, Elétrica, Mecânica, Computação. Veja as médias por universidade e como se preparar. Acesse grátis.',
     date: '2026-04-05',
     readTime: 6,
     content: `
@@ -2876,7 +2904,7 @@ Engenharia é um dos cursos mais disputados no SISU. As notas de corte variam mu
 
 > **TL;DR:** Nota de corte para Engenharia pelo SISU 2026: Civil, Elétrica, Mecânica, Computação. Veja as médias por universidade e como se preparar. [Pratique no ENEM Pro →](/questoes)
 
-## Notas de Corte por Área de Engenharia (referência histórica SISU)
+## Notas de Corte por Área de Engenharia (referência histórica SISU)?
 
 | Curso | Universidade | Nota de Corte Estimada |
 |-------|-------------|----------------------|
@@ -2910,7 +2938,7 @@ Para as engenharias mais concorridas (Computação, Elétrica, Mecânica nas mel
 
 Para engenharias nas federais regionais (Norte, Nordeste, Centro-Oeste), a faixa é **600–680 pontos**.
 
-## Disciplinas Críticas para Engenharia
+## Disciplinas Críticas para Engenharia?
 
 **Matemática é determinante** — Na maioria das engenharias, Matemática tem o maior peso. Cada ponto a mais em Matemática vale mais do que na Redação.
 
@@ -2918,7 +2946,7 @@ Para engenharias nas federais regionais (Norte, Nordeste, Centro-Oeste), a faixa
 
 **Redação** — Não negligencie. Uma redação baixa (abaixo de 500) derruba sua média mesmo com boas notas nas objetivas.
 
-## Estratégia para Atingir a Nota
+## Estratégia para Atingir a Nota?
 
 1. **Foque em Matemática** — É onde candidatos à Engenharia perdem mais pontos por descuido
 2. **Não abandone a Redação** — Mire 700+ para não prejudicar a média
@@ -2957,14 +2985,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'nota-de-corte-direito-enem',
     title: 'Nota de Corte para Direito no ENEM — SISU 2026 por Universidade',
-    description: 'Nota de corte para Direito pelo SISU 2026. Veja as médias por universidade federal, pesos das disciplinas e como aumentar sua nota.',
+    description: 'Nota de corte para Direito pelo SISU 2026. Veja as médias por universidade federal, pesos das disciplinas e como aumentar sua nota. Saiba mais e prepare-se.',
     date: '2026-04-07',
     readTime: 6,
     content: `
@@ -2972,7 +3001,7 @@ Direito é um dos cursos mais concorridos do SISU. Em universidades de prestígi
 
 > **TL;DR:** Nota de corte para Direito pelo SISU 2026. Veja as médias por universidade federal, pesos das disciplinas e como aumentar sua nota. [Pratique no ENEM Pro →](/questoes)
 
-## Notas de Corte para Direito (referência histórica SISU)
+## Notas de Corte para Direito (referência histórica SISU)?
 
 | Universidade | Turno | Nota de Corte Estimada |
 |-------------|-------|----------------------|
@@ -2988,7 +3017,7 @@ Direito é um dos cursos mais concorridos do SISU. Em universidades de prestígi
 
 *Valores de referência histórica. Consulte o edital oficial do SISU 2026.*
 
-## Pesos das Disciplinas em Direito
+## Pesos das Disciplinas em Direito?
 
 Diferente de Engenharia, Direito costuma aplicar pesos maiores para:
 - **Linguagens e Códigos:** peso alto (1,5–2,0x em muitos cursos)
@@ -3005,7 +3034,7 @@ Verifique os pesos exatos de cada universidade no edital do SISU 2026.
 
 **Linguagens** — Interpretação de texto é habilidade-chave tanto no ENEM quanto na carreira jurídica.
 
-## Como Aumentar Sua Nota Para Direito
+## Como Aumentar Sua Nota Para Direito?
 
 1. **Redação nota 1000 é possível** — A estrutura argumentativa é aprendível. Pratique com temas reais
 2. **Ciências Humanas consistente** — Não precisa tirar 900, mas mire 650+ em Humanas
@@ -3045,14 +3074,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'prouni-2026-como-funciona',
     title: 'ProUni 2026 — Como Funciona, Nota Mínima e Como se Inscrever',
-    description: 'Entenda como funciona o ProUni 2026: quem tem direito, nota mínima de 450 pontos, bolsa integral e parcial, e como se inscrever.',
+    description: 'Entenda como funciona o ProUni 2026: quem tem direito, nota mínima de 450 pontos, bolsa integral e parcial, e como se inscrever. Saiba mais e prepare-se.',
     date: '2026-01-20',
     readTime: 7,
     content: `
@@ -3071,7 +3101,7 @@ Para participar do ProUni, você precisa:
 
 Existem exceções: professores da rede pública podem se inscrever independentemente da renda para cursos de licenciatura ou pedagogia.
 
-## Tipos de Bolsa
+## Tipos de Bolsa?
 
 | Tipo | Cobertura | Renda per capita |
 |------|-----------|-----------------|
@@ -3084,7 +3114,7 @@ A nota mínima exigida é **450 pontos na média das 4 provas objetivas** e **no
 
 Mas atenção: **450 pontos é o mínimo para se inscrever**, não o suficiente para conseguir a bolsa. A seleção é competitiva e a nota de corte real depende do curso e da cidade. Cursos mais concorridos (Medicina, Direito, Odontologia) exigem médias de 600–750+ pontos mesmo no ProUni.
 
-## Como Funciona a Seleção
+## Como Funciona a Seleção?
 
 O ProUni usa as notas do ENEM para ranquear os candidatos. Em cada período de inscrição, você pode escolher até **2 opções** (curso, turno e instituição).
 
@@ -3092,7 +3122,7 @@ A seleção considera:
 1. A nota do ENEM (média ponderada se a instituição aplicar pesos)
 2. Cotas para autodeclarados pretos, pardos, indígenas e pessoas com deficiência
 
-## Calendário ProUni 2026
+## Calendário ProUni 2026?
 
 - **Inscrições:** janeiro e julho (duas edições por ano)
 - **Resultado 1ª fase:** ~10 dias após inscrição
@@ -3100,7 +3130,7 @@ A seleção considera:
 
 *Confirme as datas no site oficial do MEC (prouni.mec.gov.br).*
 
-## Estratégia: Como melhorar sua nota para o ProUni
+## Estratégia: Como melhorar sua nota para o ProUni?
 
 Se você está perto da nota de corte do curso que quer:
 
@@ -3141,14 +3171,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'ingles-enem-dicas',
     title: 'Inglês no ENEM — O que Cai e Como Passar Mesmo Sem Ser Fluente',
-    description: 'Como ir bem em Inglês no ENEM sem ser fluente. O que cai, estratégia de leitura e dicas para interpretar textos em inglês na prova.',
+    description: 'Como ir bem em Inglês no ENEM sem ser fluente. O que cai, estratégia de leitura e dicas para interpretar textos em inglês na prova. Saiba mais e prepare-se.',
     date: '2026-03-20',
     readTime: 6,
     content: `
@@ -3160,7 +3191,7 @@ Uma das boas notícias sobre o ENEM: você **não precisa ser fluente em inglês
 
 Na prova de Linguagens e Códigos, há 5 questões de língua estrangeira (inglês ou espanhol, você escolhe). São 5 questões em 45 — e todas cobram principalmente **leitura e interpretação**.
 
-## O que cai em Inglês no ENEM
+## O que cai em Inglês no ENEM?
 
 ### Interpretação de textos em inglês (100% das questões)
 - Artigos de divulgação científica
@@ -3177,7 +3208,7 @@ Na prova de Linguagens e Códigos, há 5 questões de língua estrangeira (ingl�
 - Identificar a intenção do texto (persuadir, informar, criticar, entreter)
 - Identificar o público-alvo
 
-## Estratégia para Inglês sem fluência
+## Estratégia para Inglês sem fluência?
 
 **Passo 1: Leia o título e as alternativas primeiro**
 Antes de ler o texto, veja o que a questão pergunta. Isso direciona sua leitura.
@@ -3193,7 +3224,7 @@ Palavras parecidas com o português geralmente têm significado similar: *educat
 - *Actually* = na verdade (não "atualmente")
 - *Sensible* = sensato (não "sensível")
 
-## Palavras e conectivos mais cobrados
+## Palavras e conectivos mais cobrados?
 
 | Inglês | Português |
 |--------|-----------|
@@ -3241,14 +3272,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'enem-segunda-chance',
     title: 'Reprovei no ENEM — O que Fazer? Guia para a Segunda Chance',
-    description: 'Não foi bem no ENEM? Saiba o que fazer: como analisar seus erros, montar um plano de estudos e aumentar sua nota no próximo ENEM.',
+    description: 'Não foi bem no ENEM? Saiba o que fazer: como analisar seus erros, montar um plano de estudos e aumentar sua nota no próximo ENEM. Saiba mais e prepare-se.',
     date: '2026-02-15',
     readTime: 7,
     content: `
@@ -3256,11 +3288,11 @@ Não ir bem no ENEM na primeira tentativa não é o fim — é o começo de uma 
 
 > **TL;DR:** Não foi bem no ENEM? Saiba o que fazer: como analisar seus erros, montar um plano de estudos e aumentar sua nota no próximo ENEM. [Pratique no ENEM Pro →](/questoes)
 
-## Primeiro passo: Aceite o resultado sem se punir
+## Primeiro passo: Aceite o resultado sem se punir?
 
 A nota do ENEM reflete o preparo de um momento específico. Não define sua inteligência, seu valor, nem seu futuro. Candidatos que chegam a 800+ de média quase sempre levam 2–3 tentativas.
 
-## Analise seu gabarito antes de qualquer coisa
+## Analise seu gabarito antes de qualquer coisa?
 
 O INEP disponibiliza o gabarito e as respostas individuais. Com esses dados, você consegue:
 
@@ -3268,7 +3300,7 @@ O INEP disponibiliza o gabarito e as respostas individuais. Com esses dados, voc
 2. **Distribuição de erros por tema** — dentro de cada disciplina, onde você errou mais?
 3. **Padrão de erros** — foi por falta de conteúdo? Descuido? Gestão de tempo?
 
-## A regra do 80/20 para o ENEM
+## A regra do 80/20 para o ENEM?
 
 80% da sua nota vai vir de 20% do conteúdo. Para cada disciplina, existe um núcleo de temas que responde pela maioria das questões. Não tente estudar tudo — estude o que mais cai.
 
@@ -3280,7 +3312,7 @@ O INEP disponibiliza o gabarito e as respostas individuais. Com esses dados, voc
 | Linguagens | Interpretação de texto (80% da prova) |
 | Redação | Estrutura argumentativa (sempre cobrável) |
 
-## Monte um cronograma realista
+## Monte um cronograma realista?
 
 Um cronograma que você não consegue cumprir é pior do que nenhum cronograma. Seja honesto sobre seu tempo disponível:
 
@@ -3288,13 +3320,13 @@ Um cronograma que você não consegue cumprir é pior do que nenhum cronograma. 
 - **2 horas por dia:** foco seletivo nos temas de maior impacto
 - **1 hora por dia:** priorize redação e questões comentadas
 
-## Redação: O atalho mais subestimado
+## Redação: O atalho mais subestimado?
 
 Se sua redação ficou abaixo de 600, você tem o maior potencial de crescimento. Uma redação bem treinada pode sair de 400 para 800+ em 3 meses de prática constante.
 
 Escreva **1 redação por semana** — mesmo sem corretor profissional, o hábito já melhora a estrutura e o repertório.
 
-## Questões comentadas vs. questões secas
+## Questões comentadas vs. questões secas?
 
 Resolver questões sem entender o erro é o maior desperdício de tempo nos estudos para o ENEM. Cada questão errada que você **entender o porquê** vale 10 questões que você resolve sem analisar.
 
@@ -3332,14 +3364,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'redacao-enem-competencias',
     title: 'As 5 Competências da Redação do ENEM — Guia Completo para 1000',
-    description: 'Entenda as 5 competências avaliadas na redação do ENEM: domínio da língua, compreensão da proposta, organização argumentativa, mecanismos linguísticos e proposta de intervenção.',
+    description: 'Entenda as 5 competências avaliadas na redação do ENEM: domínio da língua, compreensão da proposta, organização argumentativa, mecanismos linguísticos e.',
     date: '2026-04-15',
     readTime: 9,
     content: `
@@ -3347,7 +3380,7 @@ A redação do ENEM é avaliada em **5 competências**, cada uma valendo 200 pon
 
 > **TL;DR:** Entenda as 5 competências avaliadas na redação do ENEM: domínio da língua, compreensão da proposta, organização argumentativa, mecanismos linguísticos e proposta de intervenção. [Pratique no ENEM Pro →](/questoes)
 
-## Competência 1 — Domínio da Modalidade Escrita Formal
+## Competência 1 — Domínio da Modalidade Escrita Formal?
 
 **O que avalia:** gramática, ortografia, acentuação, pontuação e adequação ao registro formal.
 
@@ -3360,7 +3393,7 @@ Erros avaliados:
 
 **Estratégia:** Evite palavras que você não domina a ortografia. Use vocabulário que conhece bem. Uma redação com palavras simples e corretas é melhor do que texto sofisticado com erros.
 
-## Competência 2 — Compreensão da Proposta e Aplicação dos Textos Motivadores
+## Competência 2 — Compreensão da Proposta e Aplicação dos Textos Motivadores?
 
 **O que avalia:** se você entendeu o tema e usou os textos motivadores como apoio — sem copiar.
 
@@ -3371,7 +3404,7 @@ Erros fatais:
 
 **Estratégia:** Leia o tema com atenção. Identifique a palavra-chave e o recorte específico. Se o tema é "desafios para X no Brasil", não basta falar de X — precisa falar dos *desafios* e precisar ser *no Brasil*.
 
-## Competência 3 — Seleção e Organização das Informações
+## Competência 3 — Seleção e Organização das Informações?
 
 **O que avalia:** a qualidade dos seus argumentos, a coerência lógica e a pertinência dos dados usados.
 
@@ -3383,7 +3416,7 @@ O que os corretores esperam:
 
 **Estratégia:** Tenha 2–3 argumentos sólidos em vez de 5 superficiais. Cada argumento precisa de: afirmação → justificativa → exemplificação.
 
-## Competência 4 — Coesão e Coerência — Uso de Mecanismos Linguísticos
+## Competência 4 — Coesão e Coerência — Uso de Mecanismos Linguísticos?
 
 **O que avalia:** a fluidez do texto, os conectivos e a ausência de repetições desnecessárias.
 
@@ -3397,7 +3430,7 @@ Conectivos essenciais para a redação:
 
 **Estratégia:** Use um conectivo diferente a cada parágrafo. Substitua pronomes por sinônimos para evitar repetição do sujeito.
 
-## Competência 5 — Proposta de Intervenção
+## Competência 5 — Proposta de Intervenção?
 
 **O que avalia:** a conclusão com proposta concreta, detalhada e que respeite os direitos humanos.
 
@@ -3410,7 +3443,7 @@ A proposta precisa ter **5 elementos:**
 
 **Erro comum:** Proposta genérica ("o governo deve investir em educação"). Seja específico: "O Ministério da Educação deve implementar, por meio de parceria com universidades federais, programas de capacitação docente para a inclusão de discussões sobre X no currículo do Ensino Médio, a fim de Y."
 
-## Resumo — Distribuição de Pontos
+## Resumo — Distribuição de Pontos?
 
 | Competência | Pontos | Foco principal |
 |-------------|--------|----------------|
@@ -3453,14 +3486,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'filosofia-sociologia-enem',
     title: 'Filosofia e Sociologia no ENEM — O que Cai e Como Estudar',
-    description: 'O que cai em Filosofia e Sociologia no ENEM: Durkheim, Weber, Marx, Platão, Kant, ética política. Estratégia para Ciências Humanas.',
+    description: 'O que cai em Filosofia e Sociologia no ENEM: Durkheim, Weber, Marx, Platão, Kant, ética política. Estratégia para Ciências Humanas. Saiba mais e prepare-se.',
     date: '2026-03-22',
     readTime: 7,
     content: `
@@ -3468,7 +3502,7 @@ Filosofia e Sociologia compõem parte da prova de Ciências Humanas do ENEM, jun
 
 > **TL;DR:** O que cai em Filosofia e Sociologia no ENEM: Durkheim, Weber, Marx, Platão, Kant, ética política. Estratégia para Ciências Humanas. [Pratique no ENEM Pro →](/questoes)
 
-## O que cai em Filosofia no ENEM
+## O que cai em Filosofia no ENEM?
 
 ### Filósofos mais cobrados
 
@@ -3492,7 +3526,7 @@ Filosofia e Sociologia compõem parte da prova de Ciências Humanas do ENEM, jun
 - **Epistemologia:** empirismo vs. racionalismo, teoria do conhecimento
 - **Filosofia contemporânea:** existencialismo, fenomenologia, pós-modernismo
 
-## O que cai em Sociologia no ENEM
+## O que cai em Sociologia no ENEM?
 
 ### Os três clássicos — presença garantida
 
@@ -3523,7 +3557,7 @@ Filosofia e Sociologia compõem parte da prova de Ciências Humanas do ENEM, jun
 - Trabalho precário e uberização
 - Identidade cultural e globalização
 
-## Estratégia para Filosofia e Sociologia
+## Estratégia para Filosofia e Sociologia?
 
 **Não decore textos filosóficos** — o ENEM traz excertos e pede identificação do autor ou do conceito. Foque em conhecer as teses centrais de cada filósofo.
 
@@ -3564,14 +3598,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'enem-ppcs-pessoas-com-deficiencia',
     title: 'ENEM para Pessoas com Deficiência — Atendimento Especializado e Direitos',
-    description: 'Como solicitar atendimento especializado no ENEM: prova em braille, ledor, tempo adicional, sala reservada. Prazos e documentação necessária.',
+    description: 'Como solicitar atendimento especializado no ENEM: prova em braille, ledor, tempo adicional, sala reservada. Prazos e documentação necessária. Acesse grátis.',
     date: '2026-05-10',
     readTime: 6,
     content: `
@@ -3590,7 +3625,7 @@ O ENEM oferece **atendimento especializado** para candidatos com deficiência ou
 - Gestantes e lactantes
 - Idosos (com solicitação específica)
 
-## Tipos de atendimento disponíveis
+## Tipos de atendimento disponíveis?
 
 | Atendimento | Para quem |
 |------------|-----------|
@@ -3604,7 +3639,7 @@ O ENEM oferece **atendimento especializado** para candidatos com deficiência ou
 | Lanche durante a prova | Diabetes, outras condições metabólicas |
 | Amamentação | Lactantes |
 
-## Documentação necessária
+## Documentação necessária?
 
 Para a maioria dos atendimentos, você precisa de **laudo médico** que comprove a condição, com:
 - Nome completo do médico e CRM
@@ -3614,7 +3649,7 @@ Para a maioria dos atendimentos, você precisa de **laudo médico** que comprove
 
 O laudo deve ser **do período dos últimos 3 anos** (verifique o edital do ano em questão).
 
-## Como solicitar
+## Como solicitar?
 
 A solicitação é feita **durante o período de inscrição** no ENEM, no site do INEP. Não é possível solicitar após o encerramento das inscrições.
 
@@ -3626,13 +3661,13 @@ Passos:
 
 O INEP analisa o pedido e confirma o atendimento no Cartão de Confirmação de Inscrição.
 
-## Tempo adicional — como funciona
+## Tempo adicional — como funciona?
 
 Candidatos com direito ao tempo adicional têm **1 hora a mais** em cada dia de prova. Isso significa:
 - Dia 1 (Linguagens, Humanas, Redação): até 6h30 em vez de 5h30
 - Dia 2 (Natureza, Matemática): até 6h30 em vez de 5h30
 
-## Nota especial sobre Redação
+## Nota especial sobre Redação?
 
 Candidatos com dislexia, discalculia ou TEA que solicitarem atendimento podem ter desconto nos critérios de **Competência 1** (domínio da língua formal). Mas é preciso solicitar especificamente durante a inscrição.
 
@@ -3668,8 +3703,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -3683,7 +3719,7 @@ Ciências Humanas é a área que mais assusta candidatos pela quantidade de cont
 
 > **TL;DR:** Estratégia completa para Ciências Humanas no ENEM: o que priorizar em História, Geografia, Filosofia e Sociologia, como interpretar fontes e gerenciar o tempo. [Pratique no ENEM Pro →](/questoes)
 
-## A estrutura da prova de Ciências Humanas
+## A estrutura da prova de Ciências Humanas?
 
 São **45 questões** divididas entre:
 - História: ~12–16 questões
@@ -3693,7 +3729,7 @@ São **45 questões** divididas entre:
 
 Todas as questões vêm com fonte primária: texto histórico, mapa, charge, fotografia, infográfico, tabela ou gráfico. **A resposta está sempre no texto.**
 
-## O que priorizar em cada disciplina
+## O que priorizar em cada disciplina?
 
 ### História — foco em Brasil contemporâneo
 Brasil República, Era Vargas, Ditadura Militar (1964–1985) e Redemocratização aparecem em 40–50% das questões de História. Esse bloco é sua prioridade máxima.
@@ -3711,7 +3747,7 @@ Com apenas 7–10 questões, Filosofia tem baixa quantidade mas alta concentraç
 ### Sociologia — os três clássicos + temas atuais
 Durkheim, Weber e Marx = pelo menos 3–4 questões garantidas. Invista aqui antes de qualquer outro tema de Sociologia.
 
-## Técnica de leitura para Humanas — "Leia o texto 2 vezes"
+## Técnica de leitura para Humanas — "Leia o texto 2 vezes"?
 
 ### Primeira leitura: identifique
 - Quem escreveu? Quando? Contexto histórico?
@@ -3721,7 +3757,7 @@ Durkheim, Weber e Marx = pelo menos 3–4 questões garantidas. Invista aqui ant
 ### Segunda leitura: conecte com a alternativa
 Leia cada alternativa e volte ao texto para verificar. A alternativa correta **sempre** pode ser justificada pelo texto.
 
-## Os erros mais comuns em Ciências Humanas
+## Os erros mais comuns em Ciências Humanas?
 
 **Erro 1: Responder com o que "você sabe"**
 O ENEM cobra o que está no texto, não o que você memorizou. Candidatos que ignoram a fonte e respondem pelo conhecimento prévio erram muito.
@@ -3732,7 +3768,7 @@ A alternativa correta nunca vai além do que o texto permite inferir. Se uma alt
 **Erro 3: Confundir causa e consequência**
 Em questões históricas, muitas alternativas invertem a ordem causal. Leia com atenção se o texto está falando de causa (o que motivou) ou consequência (o que resultou).
 
-## Cronograma sugerido para Humanas (3 meses)
+## Cronograma sugerido para Humanas (3 meses)?
 
 | Mês | Foco |
 |-----|------|
@@ -3772,14 +3808,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'como-estudar-ciencias-natureza-enem',
     title: 'Como Estudar Ciências da Natureza para o ENEM — Física, Química e Biologia',
-    description: 'Estratégia para Ciências da Natureza no ENEM: como dividir o tempo entre Física, Química e Biologia, quais temas priorizar e como resolver questões contextualizadas.',
+    description: 'Estratégia para Ciências da Natureza no ENEM: como dividir o tempo entre Física, Química e Biologia, quais temas priorizar e como resolver questões.',
     date: '2026-03-28',
     readTime: 8,
     content: `
@@ -3787,7 +3824,7 @@ Ciências da Natureza é a área mais temida do ENEM — mas também uma das mai
 
 > **TL;DR:** Estratégia para Ciências da Natureza no ENEM: como dividir o tempo entre Física, Química e Biologia, quais temas priorizar e como resolver questões contextualizadas. [Pratique no ENEM Pro →](/questoes)
 
-## A estrutura da prova
+## A estrutura da prova?
 
 São **45 questões** divididas entre Física, Química e Biologia. A distribuição histórica:
 - Biologia: 17–20 questões (~40%)
@@ -3796,13 +3833,13 @@ São **45 questões** divididas entre Física, Química e Biologia. A distribui�
 
 **Biologia tem o maior peso.** Se você tem pouco tempo, priorize Biologia.
 
-## O grande segredo das questões de Ciências da Natureza
+## O grande segredo das questões de Ciências da Natureza?
 
 O ENEM nunca pede cálculo puro. Toda questão tem um enunciado com contexto (notícia, experimento, situação do cotidiano). O contexto **às vezes contém a fórmula** ou o dado que você precisaria decorar.
 
 Isso significa que ler o enunciado com atenção substitui parte do que seria decoreba.
 
-## Como estudar Biologia
+## Como estudar Biologia?
 
 **Prioridade máxima: Ecologia e Genética**
 - Ecologia: cadeias alimentares, biomas brasileiros, relações ecológicas
@@ -3814,7 +3851,7 @@ Isso significa que ler o enunciado com atenção substitui parte do que seria de
 
 **Dica de ouro:** Biomas do Brasil aparecem todo ano. Saiba as características do Cerrado, Amazônia, Caatinga, Mata Atlântica, Pantanal e Pampa.
 
-## Como estudar Química
+## Como estudar Química?
 
 **Prioridade máxima: Química Orgânica**
 Funções orgânicas, reações de adição/eliminação/substituição e polímeros respondem por 30–40% das questões de Química. É o tema com maior retorno do investimento de estudo.
@@ -3824,7 +3861,7 @@ Balancear equações e calcular proporções em mol aparece em toda prova. É me
 
 **Não negligencie:** Termoquímica (entalpia, Lei de Hess) e Eletroquímica (pilhas, eletrólise) aparecem ao menos 1–2 vezes por prova.
 
-## Como estudar Física
+## Como estudar Física?
 
 **Prioridade máxima: Mecânica**
 Cinemática (velocidade, aceleração, gráficos), Dinâmica (Leis de Newton) e Energia (trabalho, potência, conservação) respondem por mais de 50% das questões de Física.
@@ -3834,7 +3871,7 @@ Circuitos elétricos, Lei de Ohm, potência. Questões de conta com kWh aparecem
 
 **Física Moderna:** Efeito fotoelétrico, radioatividade, relatividade — 1–2 questões por prova. Investimento baixo, bom retorno.
 
-## Gestão de tempo na prova — estratégia para Natureza
+## Gestão de tempo na prova — estratégia para Natureza?
 
 Ciências da Natureza é o Dia 2 do ENEM (juntamente com Matemática). Você tem 5h30 para 90 questões.
 
@@ -3848,7 +3885,7 @@ Sugestão:
 Pratique Física, Química e Biologia com questões reais do ENEM no ENEM Pro. 10 questões grátis por dia.
 
 
-## Distribuição por Área de Conhecimento (ENEM — INEP)
+## Distribuição por Área de Conhecimento (ENEM — INEP)?
 
 | Área | Questões | Dias de prova |
 |------|----------|--------------|
@@ -3887,14 +3924,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'nota-de-corte-psicologia-enem',
     title: 'Nota de Corte para Psicologia no ENEM — SISU 2026 por Universidade',
-    description: 'Nota de corte para Psicologia pelo SISU 2026 nas principais universidades federais. Saiba o que o curso exige e como se preparar.',
+    description: 'Nota de corte para Psicologia pelo SISU 2026 nas principais universidades federais. Saiba o que o curso exige e como se preparar. Saiba mais e prepare-se.',
     date: '2026-04-10',
     readTime: 5,
     content: `
@@ -3902,7 +3940,7 @@ Psicologia é um dos cursos mais disputados do SISU. Combinando forte demanda e 
 
 > **TL;DR:** Nota de corte para Psicologia pelo SISU 2026 nas principais universidades federais. Saiba o que o curso exige e como se preparar. [Pratique no ENEM Pro →](/questoes)
 
-## Notas de Corte para Psicologia (referência histórica SISU)
+## Notas de Corte para Psicologia (referência histórica SISU)?
 
 | Universidade | Turno | Nota Estimada |
 |-------------|-------|--------------|
@@ -3936,7 +3974,7 @@ Verifique os pesos específicos de cada universidade no edital do SISU.
 
 **Linguagens sólida** — interpretação de texto é fundamental para Psicologia.
 
-## Turno noturno — estratégia para quem trabalha
+## Turno noturno — estratégia para quem trabalha?
 
 O noturno de Psicologia nas federais costuma ter nota de corte 30–50 pontos menor do que o diurno. Se sua situação exige horário noturno, isso pode ser decisivo na escolha da universidade.
 
@@ -3973,14 +4011,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'enem-treineiro-2026',
     title: 'ENEM Treineiro 2026 — O que É, Quem Pode Fazer e Como se Inscrever',
-    description: 'O ENEM Treineiro é para alunos do Ensino Médio que ainda não concluíram. Saiba quem pode participar, como se inscrever e se a nota conta para o SISU.',
+    description: 'O ENEM Treineiro é para alunos do Ensino Médio que ainda não concluíram. Saiba quem pode participar, como se inscrever e se a nota conta para o SISU. Grátis.',
     date: '2026-05-01',
     readTime: 5,
     content: `
@@ -4003,13 +4042,13 @@ Alunos do 3º ano que já concluíram o Ensino Médio não se inscrevem como tre
 - Identificar pontos fracos antes do ENEM oficial
 - Receber o resultado individual com desempenho por área
 
-## Como se inscrever no ENEM Treineiro
+## Como se inscrever no ENEM Treineiro?
 
 A inscrição é feita no site oficial do ENEM (enem.inep.gov.br) durante o período de inscrições. O candidato deve indicar que é treineiro no momento do cadastro.
 
 **Taxa de inscrição:** O ENEM Treineiro segue as mesmas regras de isenção do ENEM regular. Se você tem direito à isenção, ela se aplica ao treineiro também.
 
-## Vantagens de fazer o ENEM Treineiro
+## Vantagens de fazer o ENEM Treineiro?
 
 1. **Experiência real da prova** — local de prova, tempo, formato das questões
 2. **Redução da ansiedade** — quem já fez uma vez enfrenta o ENEM oficial com mais tranquilidade
@@ -4031,7 +4070,7 @@ Se você ainda está no 1º ou 2º ano, não vai ter todo o conteúdo do Ensino 
 Pratique questões reais do ENEM no ENEM Pro. 10 grátis por dia — perfeito para treineiros que querem se preparar com antecedência.
 
 
-## ENEM em Números (INEP)
+## ENEM em Números (INEP)?
 
 | Dado | Valor |
 |------|-------|
@@ -4071,8 +4110,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -4096,7 +4136,7 @@ Antes de comparar, defina o critério. Um bom aplicativo para o ENEM deve ter:
 4. **Organização por disciplina e ano** — para treinar onde você é mais fraco
 5. **Acompanhamento do progresso** — sem dados, você não sabe o que melhorar
 
-## Comparativo: Principais Plataformas ENEM 2026
+## Comparativo: Principais Plataformas ENEM 2026?
 
 | Plataforma | Questões INEP reais | Gratuito | Explicação IA | Preço Pro |
 |-----------|--------------------|---------|-----------|-----------
@@ -4107,26 +4147,26 @@ Antes de comparar, defina o critério. Um bom aplicativo para o ENEM deve ter:
 | QConcursos | ✓ | Limitado | ✗ | Pago |
 | Me Salva! | Parcial | Limitado | ✗ | R$29/mês |
 
-## Khan Academy — Melhor Totalmente Grátis (mas sem questões INEP)
+## Khan Academy — Melhor Totalmente Grátis (mas sem questões INEP)?
 
 Khan Academy é a melhor opção totalmente gratuita para **reforçar conteúdo**. Videoaulas de alta qualidade em Matemática e Ciências. Limitação: as questões não são da prova real do INEP.
 
 **Ideal para:** quem precisa entender o conteúdo do zero.
 
-## ENEM Pro — Melhor para Praticar Questões Reais
+## ENEM Pro — Melhor para Praticar Questões Reais?
 
 O ENEM Pro usa exclusivamente questões do banco oficial do INEP (2009–2024). O diferencial é a **explicação de IA para cada questão errada** — não um gabarito genérico, mas uma análise do raciocínio específico daquela questão.
 
 **Versão gratuita:** 10 questões por dia — suficiente para manutenção consistente de estudos.
 **Pro (R$14,90/mês):** ilimitado + simulados completos + modo revisão de erros.
 
-## Descomplica e Stoodi — Para Quem Prefere Videoaulas
+## Descomplica e Stoodi — Para Quem Prefere Videoaulas?
 
 Se você aprende melhor assistindo do que praticando, Descomplica e Stoodi têm grandes bibliotecas de videoaulas. O custo é maior (R$39–79/mês) e o foco é diferente: conteúdo, não prática.
 
 **Limitação:** videoaula não substitui prática com questões reais. Você pode entender tudo na teoria e errar na prova por falta de treino.
 
-## Estratégia: Combine Plataformas
+## Estratégia: Combine Plataformas?
 
 O melhor resultado vem de combinar:
 - **Khan Academy** para entender o conteúdo (grátis)
@@ -4166,14 +4206,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'alternativa-descomplica-gratuita',
     title: 'Alternativa Gratuita ao Descomplica para o ENEM 2026',
-    description: 'Procurando alternativa gratuita ao Descomplica? Veja plataformas com questões reais INEP, explicação de IA e plano gratuito robusto para o ENEM 2026.',
+    description: 'Procurando alternativa gratuita ao Descomplica? Veja plataformas com questões reais INEP, explicação de IA e plano gratuito robusto para o ENEM 2026. Grátis.',
     date: '2026-05-22',
     readTime: 5,
     content: `
@@ -4181,13 +4222,13 @@ O Descomplica cobra entre R$39 e R$79 por mês — o equivalente a quase R$1.000
 
 > **TL;DR:** Procurando alternativa gratuita ao Descomplica? Veja plataformas com questões reais INEP, explicação de IA e plano gratuito robusto para o ENEM 2026. [Pratique no ENEM Pro →](/questoes)
 
-## O que o Descomplica oferece — e o que você realmente precisa
+## O que o Descomplica oferece — e o que você realmente precisa?
 
 O Descomplica é forte em **videoaulas**. Professores especializados, conteúdo bem produzido, organizado por disciplina. É uma boa plataforma.
 
 Mas videoaula não é suficiente para o ENEM. O ENEM cobra **aplicação** de conteúdo em questões contextualizadas — e isso só se aprende praticando com questões reais.
 
-## Alternativas gratuitas que entregam mais prática
+## Alternativas gratuitas que entregam mais prática?
 
 ### 1. ENEM Pro — Melhor para Questões INEP Reais
 
@@ -4210,7 +4251,7 @@ Khan Academy é 100% gratuita e excelente para **entender o conteúdo** de Matem
 
 Canais como Ferretto Matemática, Biologia Total e Professor Noslen têm conteúdo gratuito de altíssima qualidade. Não substituem a prática, mas complementam bem.
 
-## Estratégia sem gastar R$79/mês
+## Estratégia sem gastar R$79/mês?
 
 1. **YouTube/Khan Academy** para entender o conteúdo (grátis)
 2. **ENEM Pro** para praticar com questões reais (10/dia grátis)
@@ -4250,14 +4291,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'questoes-enem-online-gratis',
     title: 'Questões ENEM Online Grátis — Banco Completo 2009 a 2024',
-    description: 'Pratique questões reais do ENEM online e grátis. Banco completo de 2009 a 2024 com gabarito imediato e explicação de IA. Matemática, Humanas, Natureza e Linguagens.',
+    description: 'Pratique questões reais do ENEM online e grátis. Banco completo de 2009 a 2024 com gabarito imediato e explicação de IA. Matemática, Humanas, Natureza e.',
     date: '2026-05-25',
     readTime: 5,
     content: `
@@ -4265,7 +4307,7 @@ O ENEM tem um banco oficial de questões — e você pode praticar com questões
 
 > **TL;DR:** Pratique questões reais do ENEM online e grátis. Banco completo de 2009 a 2024 com gabarito imediato e explicação de IA. Matemática, Humanas, Natureza e Linguagens. [Pratique no ENEM Pro →](/questoes)
 
-## Onde encontrar questões ENEM online grátis
+## Onde encontrar questões ENEM online grátis?
 
 ### ENEM Pro — Banco Interativo 2009–2024
 
@@ -4286,7 +4328,7 @@ O banco do ENEM Pro é filtrado por disciplina e ano:
 - [Questões de Ciências Humanas →](/questoes/ciencias-humanas)
 - [Questões de Linguagens →](/questoes/linguagens)
 
-## Como usar as questões ENEM online de forma eficaz
+## Como usar as questões ENEM online de forma eficaz?
 
 **Não resolva questões aleatoriamente.** Tenha uma estratégia:
 
@@ -4305,7 +4347,7 @@ O banco do ENEM Pro é filtrado por disciplina e ano:
 
 **10 questões por dia consistentes superam qualquer maratona de fim de semana.** O cérebro fixa mais com repetição espaçada do que com volume concentrado.
 
-## Dicas para aproveitar ao máximo as questões online
+## Dicas para aproveitar ao máximo as questões online?
 
 - **Resolva sem pressa** — o ENEM dá ~6 minutos por questão. Treinar com o mesmo ritmo ajuda.
 - **Anote padrões de erro** — se você erra sempre funções em Matemática, é onde precisa estudar
@@ -4337,8 +4379,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
 ]
@@ -4398,17 +4441,17 @@ A prova de ${d.label} do ENEM ${year} manteve o padrão de contextualização do
 
 ${d.topics.map((t, i) => `${i+1}. **${t}**`).join('\n')}
 
-## Estratégia de Resolução
+## Estratégia de Resolução?
 
 ${d.strategy}
 
-## Dificuldade da Prova
+## Dificuldade da Prova?
 
 A prova de ${d.label} do ENEM ${year} foi considerada de nível **médio** pelos candidatos. Questões que exigiam leitura atenta do enunciado concentraram a maior parte dos erros — não pela dificuldade do conteúdo, mas pela interpretação incorreta do que era pedido.
 
 **Dica essencial:** leia o enunciado duas vezes antes de marcar. No ENEM, a alternativa correta está sempre justificada no próprio texto da questão.
 
-## Como Calcular Sua Nota em ${d.label}
+## Como Calcular Sua Nota em ${d.label}?
 
 O ENEM usa a TRI (Teoria de Resposta ao Item) para calcular as notas. Acertar questões difíceis vale mais do que acertar questões fáceis. Uma taxa de acerto de 60-65% normalmente corresponde a uma nota entre 600 e 680 pontos.
 
@@ -4420,7 +4463,7 @@ O ENEM usa a TRI (Teoria de Resposta ao Item) para calcular as notas. Acertar qu
 | 70–80% | 680–760 pts |
 | Acima de 80% | 760–900 pts |
 
-## Pratique as Questões de ${d.label} ENEM ${year}
+## Pratique as Questões de ${d.label} ENEM ${year}?
 
 O ENEM Pro reúne todas as questões de ${d.label} do ENEM ${year} e de todos os anos de 2009 a 2024. Responda, veja o gabarito e receba explicação gerada por IA para cada questão — entenda o raciocínio, não só a resposta.
 
@@ -4455,8 +4498,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   }
 }
@@ -4475,7 +4519,7 @@ const EXTRA_POSTS: BlogPost[] = [
   {
     slug: 'enem-2026-data-inscricao',
     title: 'ENEM 2026: Data da Prova, Inscrição e Tudo que Você Precisa Saber',
-    description: 'Datas, cronograma de inscrição, locais de prova e o que mudou no ENEM 2026. Tudo que você precisa saber para não perder nenhum prazo.',
+    description: 'Datas, cronograma de inscrição, locais de prova e o que mudou no ENEM 2026. Tudo que você precisa saber para não perder nenhum prazo. Saiba mais e prepare-se.',
     date: '2026-01-15',
     readTime: 6,
     content: `
@@ -4483,7 +4527,7 @@ O ENEM 2026 está se aproximando e organizar-se com antecedência é a diferenç
 
 > **TL;DR:** Datas, cronograma de inscrição, locais de prova e o que mudou no ENEM 2026. Tudo que você precisa saber para não perder nenhum prazo. [Pratique no ENEM Pro →](/questoes)
 
-## Datas do ENEM 2026 (Previsão Oficial)
+## Datas do ENEM 2026 (Previsão Oficial)?
 
 O INEP ainda não divulgou o edital oficial do ENEM 2026, mas baseado no histórico dos últimos anos, o cronograma previsto é:
 
@@ -4500,7 +4544,7 @@ O INEP ainda não divulgou o edital oficial do ENEM 2026, mas baseado no histór
 
 **Acompanhe o site oficial:** as datas definitivas são publicadas em enem.inep.gov.br.
 
-## O que Cai nos 2 Dias de Prova
+## O que Cai nos 2 Dias de Prova?
 
 O ENEM é aplicado em dois domingos consecutivos de novembro:
 
@@ -4519,7 +4563,7 @@ Total: **180 questões objetivas + 1 redação**.
 
 Qualquer pessoa pode se inscrever no ENEM — não há limite de idade nem exigência de ter concluído o Ensino Médio antes da prova. Estudantes do 3º ano do Ensino Médio que ainda não se formaram (treineiros) também podem participar, mas suas notas não são usadas para acesso ao SISU, ProUni ou FIES.
 
-## Como Pedir Isenção da Taxa
+## Como Pedir Isenção da Taxa?
 
 A taxa de inscrição do ENEM 2026 gira em torno de R$ 85 (valor histórico). Você pode pedir isenção se:
 
@@ -4529,7 +4573,7 @@ A taxa de inscrição do ENEM 2026 gira em torno de R$ 85 (valor histórico). Vo
 
 **Atenção:** o pedido de isenção tem prazo próprio, normalmente antes da abertura das inscrições regulares. Não perca.
 
-## ENEM Digital vs ENEM Regular
+## ENEM Digital vs ENEM Regular?
 
 O INEP vem expandindo o ENEM Digital desde 2020. As provas têm o mesmo conteúdo e nível de dificuldade, mas o candidato responde em computador em vez de papel. A inscrição no ENEM Digital é separada e tem vagas limitadas — verifique a disponibilidade na sua cidade no edital.
 
@@ -4541,7 +4585,7 @@ Se você vai fazer o ENEM 2026 em novembro, tem entre **6 e 10 meses** de prepar
 - Estudante do 3º ano: 2–3 horas/dia além das aulas
 - Treineiro ou veterano: 3–4 horas/dia focadas em questões
 
-## Como o ENEM Pro Pode Ajudar
+## Como o ENEM Pro Pode Ajudar?
 
 O ENEM Pro reúne todas as questões do ENEM de 2009 a 2024 — mais de 3.600 questões reais do INEP. Você filtra por ano, disciplina e dificuldade, e recebe explicação gerada por IA para cada questão errada.
 
@@ -4577,14 +4621,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'como-se-inscrever-enem-2026',
     title: 'Como se Inscrever no ENEM 2026 — Passo a Passo',
-    description: 'Guia completo de inscrição no ENEM 2026: documentos necessários, como criar conta no gov.br, pagar a taxa e solicitar isenção. Não perca os prazos.',
+    description: 'Guia completo de inscrição no ENEM 2026: documentos necessários, como criar conta no gov.br, pagar a taxa e solicitar isenção. Não perca os prazos. Grátis.',
     date: '2026-02-01',
     readTime: 7,
     content: `
@@ -4592,7 +4637,7 @@ A inscrição no ENEM 2026 é feita 100% online, pelo site oficial do INEP. O pr
 
 > **TL;DR:** Guia completo de inscrição no ENEM 2026: documentos necessários, como criar conta no gov.br, pagar a taxa e solicitar isenção. Não perca os prazos. [Pratique no ENEM Pro →](/questoes)
 
-## O que Você Vai Precisar
+## O que Você Vai Precisar?
 
 Antes de começar, separe:
 
@@ -4602,7 +4647,7 @@ Antes de começar, separe:
 - **Dados pessoais:** RG ou Certidão de Nascimento, endereço completo, escola em que estuda ou estudou
 - **Cartão de crédito/débito** para pagar a taxa (caso não tenha isenção)
 
-## Passo 1: Crie ou Acesse sua Conta gov.br
+## Passo 1: Crie ou Acesse sua Conta gov.br?
 
 O ENEM 2026 usa a conta gov.br para autenticação. Se você ainda não tem:
 
@@ -4612,11 +4657,11 @@ O ENEM 2026 usa a conta gov.br para autenticação. Se você ainda não tem:
 
 Se já tem conta, apenas faça login.
 
-## Passo 2: Acesse a Página de Inscrição do ENEM
+## Passo 2: Acesse a Página de Inscrição do ENEM?
 
 Durante o período de inscrições (previsto para maio/junho de 2026), acesse **enem.inep.gov.br** e clique em "Inscreva-se". O sistema vai autenticar pelo gov.br automaticamente.
 
-## Passo 3: Preencha o Formulário de Inscrição
+## Passo 3: Preencha o Formulário de Inscrição?
 
 O formulário tem 5 seções:
 
@@ -4630,7 +4675,7 @@ O formulário tem 5 seções:
 
 **5. Recursos especializados** — se você tem necessidade de atendimento especial (prova em Braille, intérprete de Libras, sala separada, etc.), marque aqui.
 
-## Passo 4: Pague a Taxa de Inscrição
+## Passo 4: Pague a Taxa de Inscrição?
 
 Após enviar o formulário, você recebe o boleto bancário ou as opções de pagamento:
 
@@ -4640,7 +4685,7 @@ Após enviar o formulário, você recebe o boleto bancário ou as opções de pa
 
 A taxa histórica é cerca de R$ 85. O pagamento não é reembolsável, então confirme todos os dados antes de pagar.
 
-## Pedido de Isenção — Faça Antes das Inscrições
+## Pedido de Isenção — Faça Antes das Inscrições?
 
 Se você tem direito à isenção da taxa (escola pública, CadÚnico, professor da rede), o pedido é feito **antes** do período de inscrições regulares — normalmente em março ou abril.
 
@@ -4652,7 +4697,7 @@ Para solicitar:
 3. Aguarde o resultado (divulgado semanas depois)
 4. Se deferido, sua inscrição já estará confirmada — sem necessidade de pagar taxa
 
-## Erros Comuns na Inscrição (e Como Evitar)
+## Erros Comuns na Inscrição (e Como Evitar)?
 
 **1. CPF com pendência** — Verifique antes na Receita Federal. CPF bloqueado impede o cadastro no gov.br.
 
@@ -4664,20 +4709,20 @@ Para solicitar:
 
 **5. Pagar o boleto vencido** — Boleto ENEM tem validade curta. Pague no prazo ou gere segunda via.
 
-## Após a Inscrição — O que Esperar
+## Após a Inscrição — O que Esperar?
 
 - **Cartão de confirmação** — disponível no site algumas semanas antes da prova, com o local exato
 - **Horários** — o 1º dia começa às 13h30 (abertura dos portões) e 14h00 (início da prova), com encerramento às 19h00
 - **O que levar** — documento original com foto, caneta esferográfica preta de corpo transparente
 
-## Pratique Antes da Prova
+## Pratique Antes da Prova?
 
 Inscrição feita, hora de estudar. O ENEM Pro tem todas as questões do ENEM de 2009 a 2024 — mais de 3.600 questões reais do INEP, organizadas por disciplina e ano.
 
 Responda 10 questões por dia grátis. No plano Pro, a IA explica o raciocínio de cada resposta, ajudando você a entender onde está errando e como corrigir.
 
 
-## Cronograma de Estudos ENEM — Visão Geral
+## Cronograma de Estudos ENEM — Visão Geral?
 
 | Período | Foco principal | Carga semanal recomendada |
 |---------|---------------|--------------------------|
@@ -4715,14 +4760,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-enem-2022',
     title: 'Gabarito ENEM 2022 — Todas as Disciplinas com Resolução',
-    description: 'Gabarito do ENEM 2022 com análise completa por disciplina. Veja o que caiu em Matemática, Ciências da Natureza, Ciências Humanas e Linguagens.',
+    description: 'Gabarito do ENEM 2022 com análise completa por disciplina. Veja o que caiu em Matemática, Ciências da Natureza, Ciências Humanas e Linguagens. Acesse grátis.',
     date: '2022-11-13',
     readTime: 8,
     content: `
@@ -4730,7 +4776,7 @@ O ENEM 2022 foi aplicado em novembro e ficou marcado por questões de alto níve
 
 > **TL;DR:** Gabarito do ENEM 2022 com análise completa por disciplina. Veja o que caiu em Matemática, Ciências da Natureza, Ciências Humanas e Linguagens. [Pratique no ENEM Pro →](/questoes)
 
-## Matemática e suas Tecnologias — ENEM 2022
+## Matemática e suas Tecnologias — ENEM 2022?
 
 A prova de Matemática 2022 foi considerada de nível médio-difícil, com destaque para questões de:
 
@@ -4742,7 +4788,7 @@ A prova de Matemática 2022 foi considerada de nível médio-difícil, com desta
 
 **Dificuldade:** média-alta. A prova exigiu não apenas domínio das fórmulas, mas capacidade de interpretar o enunciado e modelar o problema matematicamente.
 
-## Ciências da Natureza — ENEM 2022
+## Ciências da Natureza — ENEM 2022?
 
 Física, Química e Biologia dividiram as 45 questões. Destaques:
 
@@ -4764,7 +4810,7 @@ Física, Química e Biologia dividiram as 45 questões. Destaques:
 - **Biotecnologia** — CRISPR, transgênicos, vacinas de mRNA (3 questões)
 - **Fisiologia** — sistema nervoso, circulatório e imunológico (3 questões)
 
-## Ciências Humanas — ENEM 2022
+## Ciências Humanas — ENEM 2022?
 
 A área mais contextualizada da prova. Destaques:
 
@@ -4776,7 +4822,7 @@ A área mais contextualizada da prova. Destaques:
 
 **Tendência ENEM 2022 em Humanas:** o exame cobrou muito questões com fontes primárias (documentos históricos, pinturas, mapas) — a habilidade de interpretação foi mais determinante do que a memorização.
 
-## Linguagens, Códigos e suas Tecnologias — ENEM 2022
+## Linguagens, Códigos e suas Tecnologias — ENEM 2022?
 
 - **Interpretação de texto** — gêneros variados: crônica, artigo de opinião, notícia, poema
 - **Gramática** — concordância, regência e coesão textual em contexto
@@ -4784,7 +4830,7 @@ A área mais contextualizada da prova. Destaques:
 - **Inglês** — 5 questões de leitura (sem necessidade de produção oral ou escrita)
 - **Artes e educação física** — questões sobre cinema brasileiro e esportes olímpicos
 
-## Nota de Corte Estimada 2022
+## Nota de Corte Estimada 2022?
 
 Com base nos dados do SISU 2023 (que usou a nota do ENEM 2022):
 
@@ -4797,7 +4843,7 @@ Com base nos dados do SISU 2023 (que usou a nota do ENEM 2022):
 
 Esses valores variam por universidade, turno e localização. Use a calculadora de notas do ENEM Pro para estimar sua nota a partir dos acertos.
 
-## Pratique as Questões do ENEM 2022
+## Pratique as Questões do ENEM 2022?
 
 O ENEM Pro tem todas as questões do ENEM 2022 organizadas por disciplina. Responda, veja o gabarito e receba explicação de IA para entender onde errou — não apenas qual era a resposta certa.
 
@@ -4832,14 +4878,15 @@ A prova de 2022 foi considerada de dificuldade média, com Matemática ligeirame
 ### O gabarito do ENEM 2022 é diferente por cor de caderno?
 Sim. A ordem das questões varia por cor de caderno (amarelo, azul, cinza, rosa e branco), mas o conteúdo é o mesmo. O gabarito do INEP especifica a letra correta para cada posição de questão em cada caderno.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-enem-2021',
     title: 'Gabarito ENEM 2021 — Questões e Análise por Disciplina',
-    description: 'Gabarito e análise do ENEM 2021. Saiba o que caiu em cada área, dificuldade da prova e notas de corte do SISU 2022.',
+    description: 'Gabarito e análise do ENEM 2021. Saiba o que caiu em cada área, dificuldade da prova e notas de corte do SISU 2022. Saiba mais e prepare-se.',
     date: '2021-11-21',
     readTime: 7,
     content: `
@@ -4847,11 +4894,11 @@ O ENEM 2021 foi um dos mais comentados da última década. Aplicado em janeiro d
 
 > **TL;DR:** Gabarito e análise do ENEM 2021. Saiba o que caiu em cada área, dificuldade da prova e notas de corte do SISU 2022. [Pratique no ENEM Pro →](/questoes)
 
-## O Contexto do ENEM 2021
+## O Contexto do ENEM 2021?
 
 O exame foi adiado de novembro de 2021 para janeiro de 2022 — decisão do INEP diante das restrições sanitárias. O adiamento gerou polêmica, mas a prova manteve o mesmo formato e nível de exigência.
 
-## Matemática ENEM 2021 — Análise
+## Matemática ENEM 2021 — Análise?
 
 A prova de Matemática 2021 foi considerada de nível médio, com destaque para:
 
@@ -4863,7 +4910,7 @@ A prova de Matemática 2021 foi considerada de nível médio, com destaque para:
 
 **Diferencial 2021:** várias questões usaram dados reais da pandemia de COVID-19 (taxa de vacinação, curvas de contágio) como contexto para problemas de funções e estatística.
 
-## Ciências da Natureza ENEM 2021
+## Ciências da Natureza ENEM 2021?
 
 ### Biologia — Destaque da prova
 Biologia teve protagonismo em 2021. Questões sobre:
@@ -4882,7 +4929,7 @@ Biologia teve protagonismo em 2021. Questões sobre:
 - Reações de oxirredução (3 questões)
 - Equilíbrio químico (3 questões)
 
-## Ciências Humanas ENEM 2021
+## Ciências Humanas ENEM 2021?
 
 - **História contemporânea** — Segunda Guerra, Guerra Fria e descolonização (7 questões)
 - **Brasil republicano** — período militar e redemocratização (6 questões)
@@ -4890,7 +4937,7 @@ Biologia teve protagonismo em 2021. Questões sobre:
 - **Filosofia** — ética, cidadania e direitos fundamentais (4 questões)
 - **Sociologia** — movimentos sociais, desigualdade racial e de gênero (5 questões)
 
-## Linguagens ENEM 2021
+## Linguagens ENEM 2021?
 
 A prova de Linguagens 2021 trouxe textos variados com foco em:
 - Interpretação de mídias digitais — tweets, posts e fake news como objetos de análise
@@ -4898,7 +4945,7 @@ A prova de Linguagens 2021 trouxe textos variados com foco em:
 - Gramática em contexto — coesão e coerência textual
 - Inglês — textos sobre tecnologia e meio ambiente
 
-## Dificuldade Geral e Notas de Corte
+## Dificuldade Geral e Notas de Corte?
 
 O ENEM 2021 foi considerado de dificuldade média-alta nas exatas e média nas humanas. As notas de corte do SISU 2022 (que usou essa prova):
 
@@ -4909,7 +4956,7 @@ O ENEM 2021 foi considerado de dificuldade média-alta nas exatas e média nas h
 | Engenharia Civil (pública) | 600–670 pts |
 | Pedagogia (pública) | 500–560 pts |
 
-## Estude com as Questões do ENEM 2021
+## Estude com as Questões do ENEM 2021?
 
 O ENEM Pro tem todas as questões do ENEM 2021 disponíveis para prática. Filtre por disciplina, responda no seu ritmo e receba explicações de IA para cada questão errada — entenda o raciocínio exigido pelo INEP.
 
@@ -4944,14 +4991,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'literatura-enem-o-que-cai',
     title: 'Literatura no ENEM — O que Cai, Autores e Como Estudar',
-    description: 'Guia completo de Literatura para o ENEM: estilos literários mais cobrados, autores, obras e estratégias de estudo. Saiba o que priorizar para 2026.',
+    description: 'Guia completo de Literatura para o ENEM: estilos literários mais cobrados, autores, obras e estratégias de estudo. Saiba o que priorizar para 2026. Grátis.',
     date: '2026-03-10',
     readTime: 9,
     content: `
@@ -4973,7 +5021,7 @@ Literatura está inserida na área de **Linguagens, Códigos e suas Tecnologias*
 
 Literatura aparece de forma direta (questão sobre estilo de um autor) e indireta (texto literário como base para interpretação).
 
-## Estilos Literários Mais Cobrados
+## Estilos Literários Mais Cobrados?
 
 ### Modernismo (1922–1945) — O Mais Cobrado
 O Modernismo brasileiro é disparado o estilo mais presente no ENEM. Conteúdos essenciais:
@@ -5004,7 +5052,7 @@ O Modernismo brasileiro é disparado o estilo mais presente no ENEM. Conteúdos 
 - **Clarice Lispector** — introspectividade e fluxo de consciência
 - **João Cabral de Melo Neto** — poesia concreta e nordestina
 
-## O que o ENEM Realmente Cobra
+## O que o ENEM Realmente Cobra?
 
 Diferente da literatura de vestibular tradicional, o ENEM nunca pede "qual foi o primeiro romance do Romantismo". As questões sempre partem de um **trecho de texto** e pedem:
 
@@ -5015,7 +5063,7 @@ Diferente da literatura de vestibular tradicional, o ENEM nunca pede "qual foi o
 
 **Estratégia prática:** leia o trecho com calma. O ENEM sempre fornece informações suficientes no próprio texto para responder — você não precisa ter lido a obra completa.
 
-## Como Estudar Literatura para o ENEM
+## Como Estudar Literatura para o ENEM?
 
 ### Método 1: Por Estilo, Não Por Autor
 Não estude "todos os autores do Romantismo". Estude as **características do Romantismo** — sentimentalismo, nacionalismo, idealização, natureza — e saiba reconhecê-las num texto.
@@ -5028,7 +5076,7 @@ Você não precisa ler "Dom Casmurro" inteiro. Leia:
 ### Método 3: Questões Anteriores do ENEM
 Nada prepara melhor do que resolver questões reais. O ENEM usa linguagem consistente — depois de 15 questões de Modernismo, você reconhece o padrão.
 
-## Autores que Nunca Faltam (Top 10 ENEM)
+## Autores que Nunca Faltam (Top 10 ENEM)?
 
 1. Carlos Drummond de Andrade
 2. Machado de Assis
@@ -5041,7 +5089,7 @@ Nada prepara melhor do que resolver questões reais. O ENEM usa linguagem consis
 9. Gonçalves Dias
 10. Lima Barreto
 
-## Pratique com Questões Reais de Literatura
+## Pratique com Questões Reais de Literatura?
 
 O ENEM Pro reúne todas as questões de Linguagens do ENEM de 2009 a 2024. Filtre por disciplina e treine especificamente Literatura, com explicações de IA que apontam qual recurso expressivo a questão cobrava e por que a alternativa correta está certa.
 
@@ -5075,8 +5123,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -5090,7 +5139,7 @@ Administração é um dos cursos com maior número de vagas no SISU — e por is
 
 > **TL;DR:** Nota de corte para Administração nas principais universidades federais via SISU. Saiba quanto você precisa tirar no ENEM para entrar em Administração. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte para Administração — SISU 2025 (Referência)
+## Nota de Corte para Administração — SISU 2025 (Referência)?
 
 Os dados abaixo são do SISU 2025 (nota do ENEM 2024) e servem como referência para o SISU 2026:
 
@@ -5111,7 +5160,7 @@ Os dados abaixo são do SISU 2025 (nota do ENEM 2024) e servem como referência 
 
 **Observação:** A maioria dos cursos de Administração em federais é no turno noturno. Cursos noturnos tendem a ter notas de corte menores que os diurnos.
 
-## Como a Nota de Administração é Calculada
+## Como a Nota de Administração é Calculada?
 
 O SISU usa a nota do ENEM como critério de seleção. Para Administração, a ponderação mais comum nas federais é:
 
@@ -5144,7 +5193,7 @@ Sim — e por vários motivos:
 3. **Noturno acessível:** ideal para quem trabalha durante o dia
 4. **Mercado de trabalho:** o curso abre portas para concursos públicos, gestão empresarial e empreendedorismo
 
-## O Que Priorizar nos Estudos Para Administração
+## O Que Priorizar nos Estudos Para Administração?
 
 Com base nos pesos típicos das federais:
 
@@ -5159,7 +5208,7 @@ Com base nos pesos típicos das federais:
 **Baixa prioridade relativa:**
 - Ciências da Natureza (mas não zere — peso 1x ainda conta)
 
-## Pratique com Questões Reais do ENEM
+## Pratique com Questões Reais do ENEM?
 
 O ENEM Pro reúne todas as questões do ENEM de 2009 a 2024 organizadas por disciplina. Responda, veja o gabarito e receba explicação de IA para cada questão errada — ideal para focar nas áreas de maior peso para Administração.
 
@@ -5194,14 +5243,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'nota-de-corte-enfermagem-enem',
     title: 'Nota de Corte para Enfermagem no ENEM — SISU 2026',
-    description: 'Nota de corte para Enfermagem nas principais universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Enfermagem.',
+    description: 'Nota de corte para Enfermagem nas principais universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Enfermagem. Acesse grátis.',
     date: '2026-02-20',
     readTime: 6,
     content: `
@@ -5209,7 +5259,7 @@ Enfermagem é um dos cursos da área da saúde com mais vagas no SISU — e com 
 
 > **TL;DR:** Nota de corte para Enfermagem nas principais universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Enfermagem. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte para Enfermagem — SISU 2025 (Referência)
+## Nota de Corte para Enfermagem — SISU 2025 (Referência)?
 
 | Universidade | Turno | Nota de Corte |
 |---|---|---|
@@ -5234,7 +5284,7 @@ Cursos da saúde costumam ter notas de corte mais altas por três razões:
 2. **Pesos maiores em Biologia e Química** — matérias que diferem candidatos fortes dos medianos
 3. **Mercado de trabalho consolidado** — garantia de emprego atrai mais candidatos
 
-## Pesos do ENEM Para Enfermagem
+## Pesos do ENEM Para Enfermagem?
 
 As federais que oferecem Enfermagem geralmente aplicam os seguintes pesos:
 
@@ -5258,7 +5308,7 @@ Para as principais federais fora das capitais:
 
 Para Enfermagem em federal de região Norte/Nordeste, notas a partir de 560–580 podem ser suficientes. O que muda é a localização, não a qualidade do diploma federal.
 
-## Diferença Entre Enfermagem e Medicina no ENEM
+## Diferença Entre Enfermagem e Medicina no ENEM?
 
 Enfermagem e Medicina são cursos distintos com carreiras diferentes. Se você está em dúvida:
 
@@ -5269,7 +5319,7 @@ Enfermagem e Medicina são cursos distintos com carreiras diferentes. Se você e
 | Mercado | Alta demanda, alta remuneração | Alta demanda, remuneração crescente |
 | Foco | Diagnóstico e tratamento | Cuidado e assistência |
 
-## O que Priorizar nos Estudos Para Enfermagem
+## O que Priorizar nos Estudos Para Enfermagem?
 
 Com base nos pesos típicos das federais:
 
@@ -5284,7 +5334,7 @@ Com base nos pesos típicos das federais:
 
 **Estratégia:** candidatos que tiram 700+ em Ciências da Natureza conseguem compensar eventuais perdas em Matemática e Humanas.
 
-## Pratique com Questões de Ciências da Natureza
+## Pratique com Questões de Ciências da Natureza?
 
 O ENEM Pro tem todas as questões de Ciências da Natureza do ENEM de 2009 a 2024. Filtre por disciplina (Biologia, Química, Física), pratique por área e receba explicação de IA para cada questão errada.
 
@@ -5319,8 +5369,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
 ]
@@ -5337,7 +5388,7 @@ Linguagens e Códigos é a área do ENEM com maior variedade de conteúdo: Líng
 
 > **TL;DR:** Guia estratégico para estudar Linguagens no ENEM: interpretação de texto, gramática, literatura, inglês e redação. Saiba o que priorizar e como treinar. [Pratique no ENEM Pro →](/questoes)
 
-## O que Cai em Linguagens (45 questões)
+## O que Cai em Linguagens (45 questões)?
 
 | Conteúdo | Questões Estimadas |
 |---|---|
@@ -5349,7 +5400,7 @@ Linguagens e Códigos é a área do ENEM com maior variedade de conteúdo: Líng
 
 A Redação **não faz parte dessas 45 questões** — ela é avaliada separadamente, valendo 1.000 pontos.
 
-## Interpretação de Texto — O Coração da Prova
+## Interpretação de Texto — O Coração da Prova?
 
 Metade das questões de Linguagens gira em torno de interpretação. Os textos usados pelo ENEM são variados:
 
@@ -5365,7 +5416,7 @@ Metade das questões de Linguagens gira em torno de interpretação. Os textos u
 3. Para questões com "o autor quis dizer que...", volte ao trecho indicado — a resposta sempre está no texto
 4. Desconfie de alternativas com generalizações absolutas ("sempre", "nunca", "todos")
 
-## Gramática — Cobrada em Contexto
+## Gramática — Cobrada em Contexto?
 
 O ENEM não pede classificação gramatical isolada. As questões sempre apresentam um texto e pedem para:
 
@@ -5380,7 +5431,7 @@ O ENEM não pede classificação gramatical isolada. As questões sempre apresen
 - Pontuação (vírgula, ponto e vírgula, dois pontos)
 - Coesão textual — conectivos e referências
 
-## Literatura — Contexto, Não Decoreba
+## Literatura — Contexto, Não Decoreba?
 
 O ENEM nunca pede "em que ano nasceu Machado de Assis". As questões partem de um **fragmento de texto** e exigem que você:
 
@@ -5393,7 +5444,7 @@ O ENEM nunca pede "em que ano nasceu Machado de Assis". As questões partem de u
 - Realismo — Machado de Assis (ironia e narrador não confiável)
 - Literatura contemporânea — Clarice Lispector, Guimarães Rosa
 
-## Inglês — Leitura, Não Fala
+## Inglês — Leitura, Não Fala?
 
 As 5 questões de Inglês do ENEM exigem apenas **compreensão de leitura**. Você não precisa escrever ou falar em inglês. Os textos são geralmente:
 
@@ -5406,7 +5457,7 @@ As 5 questões de Inglês do ENEM exigem apenas **compreensão de leitura**. Voc
 - Identifique palavras-chave no enunciado antes de ler o texto
 - Use o contexto — o ENEM sempre deixa pistas suficientes para deduzir o sentido
 
-## Artes e Semiótica — Questões de Interpretação
+## Artes e Semiótica — Questões de Interpretação?
 
 Questões de Artes e Semiótica geralmente apresentam uma obra de arte, uma peça musical ou uma imagem publicitária e pedem que você:
 
@@ -5416,18 +5467,18 @@ Questões de Artes e Semiótica geralmente apresentam uma obra de arte, uma peç
 
 Não é necessário conhecer a história da arte em detalhes — o ENEM fornece informações suficientes no próprio enunciado.
 
-## Ordem de Estudo Recomendada
+## Ordem de Estudo Recomendada?
 
 **Mês 1:** Interpretação de texto — resolva 30 questões apenas de interpretação, de anos diferentes
 **Mês 2:** Literatura — estude por estilos, não por autores. Modernismo primeiro.
 **Mês 3:** Gramática em contexto — foco em concordância, regência e coesão
 **Mês 4:** Inglês e artes — 2 semanas cada, mais revisão geral
 
-## Erro Mais Comum em Linguagens
+## Erro Mais Comum em Linguagens?
 
 **Escolher a resposta mais bonita, não a mais correta.** Em interpretação, a resposta certa é sempre a que pode ser provada pelo texto — não a que "faz mais sentido" na sua experiência pessoal. Questione qualquer alternativa que não encontre respaldo direto no texto.
 
-## Pratique com Questões de Linguagens
+## Pratique com Questões de Linguagens?
 
 O ENEM Pro tem todas as questões de Linguagens do ENEM de 2009 a 2024 organizadas por disciplina. Filtre por tema — interpretação, literatura, gramática — e resolva com feedback da IA para cada erro.
 
@@ -5462,14 +5513,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'nota-de-corte-farmacia-enem',
     title: 'Nota de Corte para Farmácia no ENEM — SISU 2026',
-    description: 'Nota de corte para Farmácia nas universidades federais via SISU. Veja quanto você precisa tirar no ENEM para entrar em Farmácia.',
+    description: 'Nota de corte para Farmácia nas universidades federais via SISU. Veja quanto você precisa tirar no ENEM para entrar em Farmácia. Saiba mais e prepare-se.',
     date: '2026-03-01',
     readTime: 5,
     content: `
@@ -5477,7 +5529,7 @@ Farmácia é um curso da área de saúde com forte demanda no mercado — farmac
 
 > **TL;DR:** Nota de corte para Farmácia nas universidades federais via SISU. Veja quanto você precisa tirar no ENEM para entrar em Farmácia. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte para Farmácia — SISU 2025 (Referência)
+## Nota de Corte para Farmácia — SISU 2025 (Referência)?
 
 | Universidade | Turno | Nota de Corte |
 |---|---|---|
@@ -5494,7 +5546,7 @@ Farmácia é um curso da área de saúde com forte demanda no mercado — farmac
 
 *Consulte o SISU oficial para dados atualizados do SISU 2026.*
 
-## Pesos do ENEM Para Farmácia
+## Pesos do ENEM Para Farmácia?
 
 A maioria das federais aplica pesos assim para Farmácia:
 
@@ -5508,7 +5560,7 @@ A maioria das federais aplica pesos assim para Farmácia:
 
 Química e Biologia são determinantes. Candidatos com notas altas em Ciências da Natureza partem na frente.
 
-## Farmácia vs Outras Carreiras de Saúde
+## Farmácia vs Outras Carreiras de Saúde?
 
 | Curso | Nota de Corte Típica |
 |---|---|
@@ -5517,14 +5569,14 @@ Química e Biologia são determinantes. Candidatos com notas altas em Ciências 
 | Enfermagem (federal) | 560–690 pts |
 | Nutrição (federal) | 560–660 pts |
 
-## O que Priorizar nos Estudos
+## O que Priorizar nos Estudos?
 
 Com peso 3x em Ciências da Natureza:
 - **Alta prioridade:** Química orgânica e inorgânica, Bioquímica (metabolismo celular), Farmacologia básica no contexto de Biologia
 - **Média prioridade:** Física (óptica, eletricidade), Matemática (estatística)
 - **Redação:** peso 2x — não negligencie
 
-## Pratique Ciências da Natureza
+## Pratique Ciências da Natureza?
 
 O ENEM Pro tem todas as questões de Química, Física e Biologia do ENEM de 2009 a 2024. Pratique por disciplina com explicações de IA para cada questão errada.
 
@@ -5559,14 +5611,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'nota-de-corte-arquitetura-enem',
     title: 'Nota de Corte para Arquitetura e Urbanismo no ENEM — SISU 2026',
-    description: 'Nota de corte para Arquitetura e Urbanismo nas federais via SISU. Saiba quanto você precisa tirar no ENEM para entrar em Arquitetura.',
+    description: 'Nota de corte para Arquitetura e Urbanismo nas federais via SISU. Saiba quanto você precisa tirar no ENEM para entrar em Arquitetura. Saiba mais e prepare-se.',
     date: '2026-03-05',
     readTime: 5,
     content: `
@@ -5574,7 +5627,7 @@ Arquitetura e Urbanismo é um dos cursos mais concorridos fora da área de saúd
 
 > **TL;DR:** Nota de corte para Arquitetura e Urbanismo nas federais via SISU. Saiba quanto você precisa tirar no ENEM para entrar em Arquitetura. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte para Arquitetura — SISU 2025 (Referência)
+## Nota de Corte para Arquitetura — SISU 2025 (Referência)?
 
 | Universidade | Turno | Nota de Corte |
 |---|---|---|
@@ -5588,7 +5641,7 @@ Arquitetura e Urbanismo é um dos cursos mais concorridos fora da área de saúd
 | UFBA | Integral | 610–650 pts |
 | UFPB | Integral/Noturno | 580–620 pts |
 
-## Pesos do ENEM Para Arquitetura
+## Pesos do ENEM Para Arquitetura?
 
 As federais costumam usar pesos que valorizam Matemática e Humanas:
 
@@ -5608,14 +5661,14 @@ O vestibular tradicional de Arquitetura costumava incluir prova de habilidades e
 
 Isso significa que você pode entrar em Arquitetura sem nunca ter desenhado tecnicamente. As habilidades práticas são desenvolvidas ao longo do curso.
 
-## O que Priorizar
+## O que Priorizar?
 
 Com peso 3x em Matemática e 2x em Humanas e Linguagens:
 - **Matemática:** geometria plana e espacial (altamente relevante para arquitetura), funções, trigonometria
 - **Ciências Humanas:** história da arte e urbanismo aparecem no curso — base sólida aqui ajuda
 - **Redação:** peso 2x na maioria das universidades
 
-## Pratique Geometria e Matemática
+## Pratique Geometria e Matemática?
 
 Geometria espacial e trigonometria são os temas de Matemática mais relevantes para quem vai cursar Arquitetura. O ENEM Pro tem todas as questões de Matemática de 2009 a 2024 para você treinar esses temas.
 
@@ -5650,14 +5703,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'nota-de-corte-nutricao-enem',
     title: 'Nota de Corte para Nutrição no ENEM — SISU 2026',
-    description: 'Nota de corte para Nutrição nas universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Nutrição.',
+    description: 'Nota de corte para Nutrição nas universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Nutrição. Saiba mais e prepare-se.',
     date: '2026-03-08',
     readTime: 5,
     content: `
@@ -5665,7 +5719,7 @@ Nutrição é um dos cursos da área de saúde com crescimento acelerado nos úl
 
 > **TL;DR:** Nota de corte para Nutrição nas universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Nutrição. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte para Nutrição — SISU 2025 (Referência)
+## Nota de Corte para Nutrição — SISU 2025 (Referência)?
 
 | Universidade | Turno | Nota de Corte |
 |---|---|---|
@@ -5680,7 +5734,7 @@ Nutrição é um dos cursos da área de saúde com crescimento acelerado nos úl
 | UFPB | Noturno | 540–580 pts |
 | UFAM | Integral | 510–550 pts |
 
-## Pesos do ENEM Para Nutrição
+## Pesos do ENEM Para Nutrição?
 
 | Área | Peso |
 |---|---|
@@ -5692,7 +5746,7 @@ Nutrição é um dos cursos da área de saúde com crescimento acelerado nos úl
 
 Biologia e Química são os principais diferenciais — especialmente Bioquímica e metabolismo.
 
-## Nutrição vs Outros Cursos de Saúde
+## Nutrição vs Outros Cursos de Saúde?
 
 | Curso | Nota Típica (federal) |
 |---|---|
@@ -5703,14 +5757,14 @@ Biologia e Química são os principais diferenciais — especialmente Bioquímic
 
 Nutrição tem uma das maiores variações regionais — na capital pode exigir 680+, mas em universidades do Norte pode entrar com 520 pts.
 
-## O que Priorizar
+## O que Priorizar?
 
 - **Biologia:** metabolismo celular, digestão, fisiologia — diretamente ligados à área
 - **Química:** reações orgânicas, bioquímica básica, soluções e concentrações
 - **Redação:** peso alto na maioria das universidades — não negligencie
 - **Matemática:** estatística, porcentagem e análise de dados
 
-## Pratique Ciências da Natureza
+## Pratique Ciências da Natureza?
 
 O ENEM Pro tem todas as questões de Biologia e Química de 2009 a 2024. Pratique por disciplina e receba explicações de IA para cada questão errada.
 
@@ -5745,14 +5799,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'enem-digital-como-funciona',
     title: 'ENEM Digital — Como Funciona, Diferenças e Como se Inscrever',
-    description: 'Tudo sobre o ENEM Digital: como funciona a prova em computador, diferenças do ENEM tradicional, como se inscrever e se vale a pena fazer.',
+    description: 'Tudo sobre o ENEM Digital: como funciona a prova em computador, diferenças do ENEM tradicional, como se inscrever e se vale a pena fazer. Acesse grátis.',
     date: '2026-04-10',
     readTime: 6,
     content: `
@@ -5764,7 +5819,7 @@ O ENEM Digital foi lançado em 2020 como alternativa ao ENEM impresso. Desde ent
 
 O ENEM Digital é a mesma prova do ENEM regular, aplicada em computador em vez de caderno de prova e gabarito impresso. O conteúdo, o nível de dificuldade e as notas têm o mesmo peso — você usa o resultado do ENEM Digital para o SISU, ProUni, FIES e ingresso em universidades particulares exatamente como no ENEM impresso.
 
-## Diferenças Entre ENEM Digital e ENEM Regular
+## Diferenças Entre ENEM Digital e ENEM Regular?
 
 | Critério | ENEM Digital | ENEM Regular |
 |---|---|---|
@@ -5777,7 +5832,7 @@ O ENEM Digital é a mesma prova do ENEM regular, aplicada em computador em vez d
 | Local de prova | Centros específicos com computador | Escolas e centros convencionais |
 | Resultado | Mesma nota, mesma validade | Mesma nota, mesma validade |
 
-## A Redação no ENEM Digital
+## A Redação no ENEM Digital?
 
 Esta é a maior diferença prática: no ENEM Digital, a redação é **digitada no computador**. Isso significa:
 - Você digita o texto no sistema — sem escrita à mão
@@ -5801,7 +5856,7 @@ Esta é a maior diferença prática: no ENEM Digital, a redação é **digitada 
 
 **Conclusão:** para candidatos confortáveis com computador que moram em cidade com disponibilidade de vagas, o ENEM Digital é uma boa opção. Para quem prefere papel ou não tem prática de digitação, o ENEM regular é mais seguro.
 
-## Como se Inscrever no ENEM Digital
+## Como se Inscrever no ENEM Digital?
 
 A inscrição no ENEM Digital é **separada** do ENEM regular. Durante o período de inscrições (previsto para maio/junho de 2026), o site do INEP disponibiliza a opção específica para o ENEM Digital.
 
@@ -5817,7 +5872,7 @@ Passos:
 
 Não. A nota do ENEM Digital é calculada da mesma forma, com a mesma TRI, e vale para os mesmos processos seletivos. Não há distinção entre "nota ENEM Digital" e "nota ENEM regular" no SISU ou ProUni.
 
-## Pratique com Questões Reais
+## Pratique com Questões Reais?
 
 Independente de qual modalidade você escolher, a preparação é a mesma: questões reais do INEP. O ENEM Pro reúne todas as questões de 2009 a 2024 com explicação de IA para cada erro.
 
@@ -5851,8 +5906,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
 ]
@@ -5861,7 +5917,7 @@ const EXTRA_POSTS_3: BlogPost[] = [
   {
     slug: 'nota-de-corte-veterinaria-enem',
     title: 'Nota de Corte para Veterinária no ENEM — SISU 2026',
-    description: 'Nota de corte para Medicina Veterinária nas universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Veterinária.',
+    description: 'Nota de corte para Medicina Veterinária nas universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Veterinária. Acesse grátis.',
     date: '2026-03-12',
     readTime: 5,
     content: `
@@ -5869,7 +5925,7 @@ Medicina Veterinária é um dos cursos mais procurados fora da área médica hum
 
 > **TL;DR:** Nota de corte para Medicina Veterinária nas universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Veterinária. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte para Veterinária — SISU 2025 (Referência)
+## Nota de Corte para Veterinária — SISU 2025 (Referência)?
 
 | Universidade | Turno | Nota de Corte |
 |---|---|---|
@@ -5886,7 +5942,7 @@ Medicina Veterinária é um dos cursos mais procurados fora da área médica hum
 
 *Consulte o SISU oficial para dados atualizados do SISU 2026.*
 
-## Pesos do ENEM Para Veterinária
+## Pesos do ENEM Para Veterinária?
 
 | Área | Peso |
 |---|---|
@@ -5898,7 +5954,7 @@ Medicina Veterinária é um dos cursos mais procurados fora da área médica hum
 
 Biologia é o grande diferencial — anatomia animal, fisiologia, parasitologia e microbiologia são bases do curso.
 
-## Veterinária vs Medicina (Humana)
+## Veterinária vs Medicina (Humana)?
 
 | Critério | Medicina | Veterinária |
 |---|---|---|
@@ -5907,14 +5963,14 @@ Biologia é o grande diferencial — anatomia animal, fisiologia, parasitologia 
 | Mercado | Alta remuneração | Diversificado (pets, agro, saúde pública) |
 | Concorrência | Altíssima | Alta (mas menor que medicina) |
 
-## O que Priorizar
+## O que Priorizar?
 
 - **Biologia:** anatomia, fisiologia animal, genética, microbiologia — diretamente aplicados no curso
 - **Química:** bioquímica, reações orgânicas, farmacologia básica
 - **Redação:** peso 2x — trabalhe competências, especialmente proposta de intervenção (C5)
 - **Matemática:** estatística e funções — bases para epidemiologia
 
-## Pratique Ciências da Natureza
+## Pratique Ciências da Natureza?
 
 O ENEM Pro tem todas as questões de Biologia, Química e Física de 2009 a 2024 com explicação de IA para cada erro.
 
@@ -5949,14 +6005,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'fies-2026-como-funciona',
     title: 'FIES 2026 — Como Funciona, Quem Pode e Como se Inscrever',
-    description: 'Guia completo do FIES 2026: como funciona o financiamento estudantil, requisitos, taxa de juros, como se inscrever e diferenças do ProUni.',
+    description: 'Guia completo do FIES 2026: como funciona o financiamento estudantil, requisitos, taxa de juros, como se inscrever e diferenças do ProUni. Acesse grátis.',
     date: '2026-04-15',
     readTime: 7,
     content: `
@@ -5968,7 +6025,7 @@ O FIES (Fundo de Financiamento Estudantil) é o programa do governo federal que 
 
 O FIES financia cursos de graduação presenciais em faculdades privadas com nota mínima no ENEM. Diferente do ProUni (que é uma bolsa — você não paga de volta), o FIES é um **financiamento**: você paga durante o curso uma parcela simbólica e quita o restante após a formatura, com juros baixos.
 
-## Requisitos para o FIES 2026
+## Requisitos para o FIES 2026?
 
 Para se candidatar ao FIES, você precisa:
 
@@ -5978,7 +6035,7 @@ Para se candidatar ao FIES, você precisa:
 - Não ter diploma de curso superior
 - O curso pretendido deve estar cadastrado no FIES
 
-## Como Funciona o Financiamento
+## Como Funciona o Financiamento?
 
 O FIES não financia 100% da mensalidade automaticamente. Existem dois tipos:
 
@@ -5993,7 +6050,7 @@ O FIES não financia 100% da mensalidade automaticamente. Existem dois tipos:
 - Taxa de juros: 0% (sem correção monetária)
 - Mesmas regras de carência e prazo
 
-## Como se Inscrever no FIES 2026
+## Como se Inscrever no FIES 2026?
 
 1. **Acesse o site do FIES** (fies.mec.gov.br) durante o período de inscrições
 2. **Crie ou acesse sua conta no Acesso.gov.br** (mesma plataforma do gov.br)
@@ -6015,7 +6072,7 @@ O período de inscrições normalmente ocorre em **fevereiro** (1ª edição) e 
 
 **Regra geral:** se você tem direito ao ProUni, prefira o ProUni — você não precisa devolver nada. O FIES é a melhor opção quando o ProUni não cobre o curso ou a faculdade que você quer.
 
-## Nota Mínima do ENEM Para o FIES
+## Nota Mínima do ENEM Para o FIES?
 
 A nota mínima oficial é **450 pontos** na média das provas objetivas. Mas na prática, faculdades mais concorridas dentro do FIES pedem notas maiores.
 
@@ -6025,7 +6082,7 @@ Para cursos como Medicina e Direito em faculdades particulares via FIES, espere 
 
 Não. São programas incompatíveis — você só pode ter um dos dois para o mesmo curso.
 
-## Pratique Para o ENEM e Garanta Sua Vaga
+## Pratique Para o ENEM e Garanta Sua Vaga?
 
 Seja para SISU (federal), ProUni ou FIES, você precisa de uma boa nota no ENEM. O ENEM Pro tem todas as questões de 2009 a 2024 com explicação de IA para cada erro.
 
@@ -6059,14 +6116,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'enem-2025-gabarito-resultado',
     title: 'ENEM 2025 — Gabarito, Resultado e Notas de Corte',
-    description: 'Gabarito e resultado do ENEM 2025. Veja as notas por disciplina, análise das questões mais difíceis e notas de corte para o SISU 2026.',
+    description: 'Gabarito e resultado do ENEM 2025. Veja as notas por disciplina, análise das questões mais difíceis e notas de corte para o SISU 2026. Saiba mais e prepare-se.',
     date: '2025-11-10',
     readTime: 7,
     content: `
@@ -6074,7 +6132,7 @@ O ENEM 2025 foi aplicado em novembro de 2025 e o resultado foi divulgado em jane
 
 > **TL;DR:** Gabarito e resultado do ENEM 2025. Veja as notas por disciplina, análise das questões mais difíceis e notas de corte para o SISU 2026. [Pratique no ENEM Pro →](/questoes)
 
-## Datas do ENEM 2025
+## Datas do ENEM 2025?
 
 | Evento | Data |
 |---|---|
@@ -6084,7 +6142,7 @@ O ENEM 2025 foi aplicado em novembro de 2025 e o resultado foi divulgado em jane
 | Resultado final | Janeiro de 2026 |
 | SISU 2026 (usando notas ENEM 2025) | Janeiro/Fevereiro de 2026 |
 
-## Matemática ENEM 2025 — Análise
+## Matemática ENEM 2025 — Análise?
 
 A prova de Matemática 2025 foi considerada de nível médio. Os temas mais cobrados:
 
@@ -6096,7 +6154,7 @@ A prova de Matemática 2025 foi considerada de nível médio. Os temas mais cobr
 
 **Diferencial 2025:** várias questões usaram contextos de tecnologia, sustentabilidade e saúde — tendência crescente no ENEM.
 
-## Ciências da Natureza ENEM 2025
+## Ciências da Natureza ENEM 2025?
 
 ### Biologia
 - Genética molecular e biotecnologia — CRISPR, OGMs, vacinas (4 questões)
@@ -6113,7 +6171,7 @@ A prova de Matemática 2025 foi considerada de nível médio. Os temas mais cobr
 - Mecânica — trabalho, energia e conservação (4 questões)
 - Ondas e óptica (3 questões)
 
-## Ciências Humanas ENEM 2025
+## Ciências Humanas ENEM 2025?
 
 A área de Humanas 2025 teve destaque para:
 - **História do Brasil recente** — redemocratização, constituição de 1988
@@ -6121,13 +6179,13 @@ A área de Humanas 2025 teve destaque para:
 - **Filosofia** — ética ambiental e filosofia política
 - **Sociologia** — desigualdade racial e movimentos sociais
 
-## Linguagens ENEM 2025
+## Linguagens ENEM 2025?
 
 - Interpretação de textos multimodais — memes, infográficos, podcasts transcritos
 - Literatura contemporânea — autoras negras e periféricas
 - Inglês — textos sobre inteligência artificial e privacidade
 
-## Notas de Corte Estimadas — SISU 2026
+## Notas de Corte Estimadas — SISU 2026?
 
 Com base no gabarito e nas provas de 2025, as estimativas de notas de corte para o SISU 2026:
 
@@ -6144,7 +6202,7 @@ Com base no gabarito e nas provas de 2025, as estimativas de notas de corte para
 
 *Valores estimados — consulte o site oficial do SISU para os cortes definitivos.*
 
-## Como Usar o Resultado do ENEM 2025
+## Como Usar o Resultado do ENEM 2025?
 
 Com sua nota do ENEM 2025 em mãos:
 
@@ -6153,7 +6211,7 @@ Com sua nota do ENEM 2025 em mãos:
 3. **FIES** — financiamento em faculdades particulares
 4. **Vestibulares** — muitas particulares e algumas estaduais aceitam nota do ENEM
 
-## Prepare-se Melhor Para o ENEM 2026
+## Prepare-se Melhor Para o ENEM 2026?
 
 Se você vai tentar novamente em 2026, o ENEM Pro tem todas as questões do ENEM de 2009 a 2024 com explicação de IA. Identifique onde errou mais em 2025 e foque nesses temas.
 
@@ -6188,14 +6246,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'como-passar-no-sisu',
     title: 'Como Passar no SISU 2026 — Estratégia, Notas e Dicas',
-    description: 'Guia completo do SISU 2026: como funciona a seleção, como escolher a opção certa, diferença entre ampla concorrência e cotas e estratégias para maximizar suas chances.',
+    description: 'Guia completo do SISU 2026: como funciona a seleção, como escolher a opção certa, diferença entre ampla concorrência e cotas e estratégias para maximizar suas.',
     date: '2026-01-20',
     readTime: 8,
     content: `
@@ -6203,7 +6262,7 @@ O SISU (Sistema de Seleção Unificada) é o programa do MEC que usa a nota do E
 
 > **TL;DR:** Guia completo do SISU 2026: como funciona a seleção, como escolher a opção certa, diferença entre ampla concorrência e cotas e estratégias para maximizar suas chances. [Pratique no ENEM Pro →](/questoes)
 
-## Como o SISU Funciona
+## Como o SISU Funciona?
 
 O SISU acontece normalmente em **janeiro/fevereiro**, logo após a divulgação dos resultados do ENEM. Você usa sua nota do ENEM para se candidatar a até **2 opções** de curso/universidade, em qualquer ordem de preferência.
 
@@ -6214,7 +6273,7 @@ O SISU acontece normalmente em **janeiro/fevereiro**, logo após a divulgação 
 4. No último dia, a nota de corte é calculada com base em todos os inscritos
 5. Resultado: aprovados na 1ª opção ou 2ª opção
 
-## Ampla Concorrência vs Cotas
+## Ampla Concorrência vs Cotas?
 
 Cada vaga do SISU está dividida em **modalidades de concorrência**:
 
@@ -6227,7 +6286,7 @@ Cada vaga do SISU está dividida em **modalidades de concorrência**:
 
 **Dica importante:** a nota de corte nas modalidades de cotas costuma ser **significativamente menor** do que na ampla concorrência. Se você tem direito a alguma modalidade, compare as notas de corte das duas — muitas vezes vale a pena.
 
-## Como Escolher as 2 Opções
+## Como Escolher as 2 Opções?
 
 Esta é a decisão mais crítica do SISU. Estratégias comuns:
 
@@ -6248,7 +6307,7 @@ Vantagem: maior chance de aprovação em pelo menos uma. Risco: pode não entrar
 
 Funciona bem para quem quer o curso mas tem flexibilidade geográfica.
 
-## Como Acompanhar a Nota de Corte Parcial
+## Como Acompanhar a Nota de Corte Parcial?
 
 Durante as inscrições, o SISU mostra a nota de corte **parcial** — atualizada continuamente. Ela não é a nota final, mas é um indicador valioso.
 
@@ -6270,14 +6329,14 @@ Monitore as notas parciais nos primeiros dias para sentir a tendência, depois d
 
 **Inscreva-se na lista de espera** — ela é automática no SISU, mas você precisa confirmar interesse dentro do prazo definido.
 
-## Pratique Para Maximizar Sua Nota
+## Pratique Para Maximizar Sua Nota?
 
 Cada ponto na nota do ENEM pode ser a diferença entre aprovação e reprovação no SISU. O ENEM Pro tem todas as questões de 2009 a 2024 para você identificar onde pode melhorar — com explicação de IA para cada questão errada.
 
 **10 questões por dia grátis** — sem cartão de crédito.
 
 
-## Notas de Corte — Variável por curso (SISU/INEP)
+## Notas de Corte — Variável por curso (SISU/INEP)?
 
 | Ano | Faixa de nota (federal) | Referência |
 |-----|------------------------|------------|
@@ -6315,8 +6374,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
 ]
@@ -6325,7 +6385,7 @@ const EXTRA_POSTS_4: BlogPost[] = [
   {
     slug: 'nota-de-corte-odontologia-enem',
     title: 'Nota de Corte para Odontologia no ENEM — SISU 2026',
-    description: 'Nota de corte para Odontologia nas universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Odontologia e como se preparar.',
+    description: 'Nota de corte para Odontologia nas universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Odontologia e como se preparar. Grátis.',
     date: '2026-04-20',
     readTime: 5,
     content: `
@@ -6333,7 +6393,7 @@ Odontologia é um dos cursos de saúde mais concorridos do Brasil — com carga 
 
 > **TL;DR:** Nota de corte para Odontologia nas universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Odontologia e como se preparar. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte para Odontologia — SISU 2025 (Referência)
+## Nota de Corte para Odontologia — SISU 2025 (Referência)?
 
 | Universidade | Turno | Nota de Corte |
 |---|---|---|
@@ -6350,7 +6410,7 @@ Odontologia é um dos cursos de saúde mais concorridos do Brasil — com carga 
 
 *Consulte o SISU oficial para os cortes definitivos do SISU 2026.*
 
-## Pesos do ENEM Para Odontologia
+## Pesos do ENEM Para Odontologia?
 
 | Área | Peso |
 |---|---|
@@ -6362,7 +6422,7 @@ Odontologia é um dos cursos de saúde mais concorridos do Brasil — com carga 
 
 Biologia e Química são as disciplinas mais relevantes — anatomia, bioquímica bucal e microbiologia são a base do curso.
 
-## Odontologia vs Medicina — Comparação
+## Odontologia vs Medicina — Comparação?
 
 | Critério | Medicina | Odontologia |
 |---|---|---|
@@ -6371,20 +6431,20 @@ Biologia e Química são as disciplinas mais relevantes — anatomia, bioquímic
 | Mercado | Salário alto, plantões | Autônomo, clínica própria |
 | Concorrência ENEM | Altíssima | Alta (menor que Medicina) |
 
-## O que Priorizar Para Odontologia
+## O que Priorizar Para Odontologia?
 
 - **Biologia:** anatomia, fisiologia, microbiologia, genética — base do curso
 - **Química:** orgânica, bioquímica, termoquímica — pesos altos na prova de Natureza
 - **Redação:** peso 2x — C5 (proposta de intervenção) é eliminatória se mal feita
 - **Matemática:** funções e estatística — peso 2x na nota final
 
-## Como Calcular Sua Nota Ponderada
+## Como Calcular Sua Nota Ponderada?
 
 A nota usada pelo SISU para Odontologia é a **média ponderada** das 5 provas. Ciências da Natureza com peso 3x significa que 10 pontos a mais nessa área equivalem a 30 pontos no total ponderado.
 
 Use a calculadora do ENEM Pro para simular sua nota ponderada com os pesos de Odontologia e descobrir em quais universidades sua nota é competitiva.
 
-## Pratique Ciências da Natureza
+## Pratique Ciências da Natureza?
 
 O ENEM Pro tem todas as questões de Biologia, Química e Física de 2009 a 2024 com explicação de IA para cada erro.
 
@@ -6419,8 +6479,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -6434,7 +6495,7 @@ Com o mercado de tecnologia aquecido e salários altos, Ciência da Computação
 
 > **TL;DR:** Nota de corte para Ciência da Computação, Sistemas de Informação e Engenharia da Computação nas federais via SISU. Quanto precisa no ENEM para entrar em TI. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte para Ciência da Computação — SISU 2025 (Referência)
+## Nota de Corte para Ciência da Computação — SISU 2025 (Referência)?
 
 | Universidade | Turno | Nota de Corte |
 |---|---|---|
@@ -6462,7 +6523,7 @@ Com o mercado de tecnologia aquecido e salários altos, Ciência da Computação
 
 Todos abrem as mesmas portas no mercado — o nome do curso importa menos do que as habilidades práticas desenvolvidas.
 
-## Pesos do ENEM Para Computação
+## Pesos do ENEM Para Computação?
 
 | Área | Peso |
 |---|---|
@@ -6474,21 +6535,21 @@ Todos abrem as mesmas portas no mercado — o nome do curso importa menos do que
 
 Matemática é o grande diferencial. Quem tem nota alta em Matemática tem vantagem competitiva.
 
-## O que Estudar Para Entrar em Computação
+## O que Estudar Para Entrar em Computação?
 
 - **Matemática:** funções, trigonometria, matrizes, probabilidade — todos têm aplicação direta na computação
 - **Física:** eletromagnetismo e ondas — base para redes e eletrônica digital
 - **Redação:** peso 2x na nota ponderada — não negligencie
 - **Inglês:** provas de Linguagens incluem Inglês — e tecnologia exige inglês técnico
 
-## Mercado de Trabalho em TI
+## Mercado de Trabalho em TI?
 
 - Salário médio júnior: R$ 4.000–7.000
 - Salário médio pleno: R$ 8.000–15.000
 - Salário médio sênior: R$ 15.000–30.000+
 - Empresas contratam antes da formatura na maioria dos cursos de TI
 
-## Pratique Para Maximizar Sua Nota
+## Pratique Para Maximizar Sua Nota?
 
 O ENEM Pro tem todas as questões de Matemática e Ciências da Natureza de 2009 a 2024 com explicação de IA para cada erro.
 
@@ -6523,8 +6584,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -6538,7 +6600,7 @@ O agronegócio representa 25% do PIB brasileiro e a Agronomia é a porta de entr
 
 > **TL;DR:** Nota de corte para Agronomia nas universidades federais via SISU. Veja quanto precisa no ENEM para entrar em Engenharia Agronômica e como se preparar. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte para Agronomia — SISU 2025 (Referência)
+## Nota de Corte para Agronomia — SISU 2025 (Referência)?
 
 | Universidade | Turno | Nota de Corte |
 |---|---|---|
@@ -6555,7 +6617,7 @@ O agronegócio representa 25% do PIB brasileiro e a Agronomia é a porta de entr
 
 *Cursos no interior do Brasil tendem a ter cortes 30–60 pts menores. Consulte o SISU oficial.*
 
-## Pesos do ENEM Para Agronomia
+## Pesos do ENEM Para Agronomia?
 
 | Área | Peso |
 |---|---|
@@ -6567,7 +6629,7 @@ O agronegócio representa 25% do PIB brasileiro e a Agronomia é a porta de entr
 
 Biologia e Química são determinantes — fisiologia vegetal, solos, genética e agroquímica são pilares da grade curricular.
 
-## Agronomia vs Engenharia Florestal vs Zootecnia
+## Agronomia vs Engenharia Florestal vs Zootecnia?
 
 | Curso | Foco | Nota de Corte |
 |---|---|---|
@@ -6576,21 +6638,21 @@ Biologia e Química são determinantes — fisiologia vegetal, solos, genética 
 | Engenharia Florestal | Florestas, meio ambiente | Média |
 | Medicina Veterinária | Saúde animal | Similar à Agronomia |
 
-## Por que Fazer Agronomia
+## Por que Fazer Agronomia?
 
 - Mercado: agronegócio cresce continuamente no Brasil
 - Salário: R$ 5.000–15.000 para Engenheiro Agrônomo (CREA)
 - CREA: profissão regulamentada com anuidade e responsabilidade técnica
 - Diversificação: agroindústria, consultoria, pesquisa, fiscalização
 
-## O que Estudar Para Entrar em Agronomia
+## O que Estudar Para Entrar em Agronomia?
 
 - **Biologia:** ecologia, genética, bioquímica, fisiologia vegetal — base do curso
 - **Química:** orgânica e inorgânica — pesticidas, fertilizantes, solos
 - **Matemática:** estatística e funções — fundamentais para análise agronômica
 - **Redação:** peso 2x — conecte temas com questões ambientais e agropecuárias
 
-## Pratique Ciências da Natureza
+## Pratique Ciências da Natureza?
 
 O ENEM Pro tem todas as questões de Biologia, Química e Física de 2009 a 2024 com explicação de IA para cada erro.
 
@@ -6625,14 +6687,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'como-fazer-redacao-enem-passo-a-passo',
     title: 'Como Fazer Redação do ENEM Passo a Passo — Guia Completo 2026',
-    description: 'Aprenda como fazer a redação do ENEM do zero: estrutura da dissertação-argumentativa, as 5 competências, como montar introdução, desenvolvimento e conclusão com proposta de intervenção.',
+    description: 'Aprenda como fazer a redação do ENEM do zero: estrutura da dissertação-argumentativa, as 5 competências, como montar introdução, desenvolvimento e conclusão.',
     date: '2026-05-01',
     readTime: 10,
     content: `
@@ -6640,7 +6703,7 @@ A redação do ENEM vale até **1.000 pontos** e é a única prova totalmente so
 
 > **TL;DR:** Aprenda como fazer a redação do ENEM do zero: estrutura da dissertação-argumentativa, as 5 competências, como montar introdução, desenvolvimento e conclusão com proposta de intervenção. [Pratique no ENEM Pro →](/questoes)
 
-## Formato da Redação ENEM
+## Formato da Redação ENEM?
 
 O ENEM exige uma **dissertação-argumentativa** em Língua Portuguesa sobre um tema de ordem social, científica, cultural ou política. Você deve:
 
@@ -6649,7 +6712,7 @@ O ENEM exige uma **dissertação-argumentativa** em Língua Portuguesa sobre um 
 - Usar no mínimo 3 parágrafos (introdução, desenvolvimento, conclusão)
 - Não usar versos, poesia ou narrativa — apenas argumentação
 
-## As 5 Competências Avaliadas
+## As 5 Competências Avaliadas?
 
 Cada competência vale até 200 pontos:
 
@@ -6665,7 +6728,7 @@ Cada competência vale até 200 pontos:
 
 ---
 
-## Passo 1 — Leia a Proposta com Atenção (5 minutos)
+## Passo 1 — Leia a Proposta com Atenção (5 minutos)?
 
 A proposta do ENEM traz:
 1. Um título-tema (ex: "Desafios para o combate ao racismo no Brasil")
@@ -6677,7 +6740,7 @@ A proposta do ENEM traz:
 
 ---
 
-## Passo 2 — Monte o Plano da Redação (5 minutos)
+## Passo 2 — Monte o Plano da Redação (5 minutos)?
 
 Antes de escrever, esboce no canto da folha:
 
@@ -6688,7 +6751,7 @@ Antes de escrever, esboce no canto da folha:
 
 ---
 
-## Passo 3 — Escreva a Introdução (5 minutos)
+## Passo 3 — Escreva a Introdução (5 minutos)?
 
 A introdução tem 3 a 5 linhas e deve:
 
@@ -6703,7 +6766,7 @@ Evite começar com "Desde os tempos mais remotos" ou "Ao longo da história" —
 
 ---
 
-## Passo 4 — Escreva o Desenvolvimento (15 minutos)
+## Passo 4 — Escreva o Desenvolvimento (15 minutos)?
 
 São 2 parágrafos de argumento, cada um com 4 a 6 linhas.
 
@@ -6737,7 +6800,7 @@ Se faltar qualquer um dos 5 elementos, a nota em C5 cai automaticamente.
 
 ---
 
-## Erros Comuns que Destroem a Nota
+## Erros Comuns que Destroem a Nota?
 
 | Erro | Impacto |
 |---|---|
@@ -6751,7 +6814,7 @@ Se faltar qualquer um dos 5 elementos, a nota em C5 cai automaticamente.
 
 ---
 
-## Cronograma Para a Redação na Prova
+## Cronograma Para a Redação na Prova?
 
 O 2º dia do ENEM tem 90 minutos para a redação + 45 questões de Ciências Humanas. Estratégia ideal:
 
@@ -6761,7 +6824,7 @@ O 2º dia do ENEM tem 90 minutos para a redação + 45 questões de Ciências Hu
 
 ---
 
-## Pratique Com Correção por IA
+## Pratique Com Correção por IA?
 
 O ENEM Pro tem um corretor de redação com IA que avalia nas 5 competências do ENEM, com nota em cada competência e feedback específico por trecho.
 
@@ -6796,8 +6859,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -6811,13 +6875,13 @@ O ENEM 2025 foi aplicado em novembro de 2025. A redação, como sempre, foi o mo
 
 > **TL;DR:** Qual foi o tema da redação do ENEM 2025? Análise completa da proposta, textos de apoio, exemplos de bons argumentos e o que os candidatos erraram mais. [Pratique no ENEM Pro →](/questoes)
 
-## Tema da Redação ENEM 2025
+## Tema da Redação ENEM 2025?
 
 **"Desafios para o combate ao isolamento social na era digital"**
 
 O tema abordou um paradoxo da contemporaneidade: vivemos mais conectados tecnologicamente, mas com índices crescentes de solidão e isolamento social — especialmente entre jovens.
 
-## Textos de Apoio — O que Eles Traziam
+## Textos de Apoio — O que Eles Traziam?
 
 Os três textos de apoio exploraram:
 
@@ -6825,7 +6889,7 @@ Os três textos de apoio exploraram:
 2. **Texto 2 (literário/filosófico):** trecho discutindo a diferença entre conexão digital e presença afetiva real
 3. **Texto 3 (infográfico):** tempo médio de uso de redes sociais por faixa etária e correlação com índices de bem-estar
 
-## Eixos Argumentativos Para Essa Redação
+## Eixos Argumentativos Para Essa Redação?
 
 **Eixo 1 — Causas do isolamento na era digital:**
 - Redes sociais que estimulam comparação e não conexão genuína
@@ -6842,27 +6906,27 @@ Os três textos de apoio exploraram:
 - Produtividade e rendimento escolar
 - Erosão de laços comunitários
 
-## Repertório Sociocultural Relevante
+## Repertório Sociocultural Relevante?
 
 - **Zygmunt Bauman** — "Amor Líquido": vínculos frágeis e superficiais na modernidade líquida
 - **Sherry Turkle** — "Alone Together": estamos juntos mas sozinhos nas telas
 - **OMS (2023):** declarou a solidão como "epidemia global" e criou comissão específica
 - **Constituição Federal, Art. 6º:** saúde e lazer como direitos sociais
 
-## Exemplo de Proposta de Intervenção
+## Exemplo de Proposta de Intervenção?
 
 > *"O Ministério da Saúde, em parceria com o Ministério da Educação, deve implementar, por meio de programas de saúde mental nas escolas públicas e campanhas de valorização de vínculos presenciais, ações que conscientizem jovens sobre os riscos do isolamento digital, a fim de reduzir os índices de solidão entre adolescentes e promover uma sociedade mais coesa e saudável."*
 
 **Por que funciona:** traz dois agentes, ação clara, meio específico (escolas públicas), finalidade direta e efeito social mensurável.
 
-## O que os Candidatos Erraram Mais
+## O que os Candidatos Erraram Mais?
 
 1. **Confundir tema com título:** escrever sobre "tecnologia" genericamente em vez de focar em "isolamento social"
 2. **Proposta de intervenção incompleta:** ausência de finalidade ou efeito (perde pontos em C5)
 3. **Fuga parcial:** abordar solidão sem conectar à era digital
 4. **Repertório fraco em C3:** apenas citações genéricas sem dados ou autores
 
-## Como se Preparar Para a Redação do ENEM 2026
+## Como se Preparar Para a Redação do ENEM 2026?
 
 O tema do ENEM 2025 seguiu uma tendência de temas com viés social e contemporâneo. Para 2026, monitore:
 
@@ -6874,14 +6938,14 @@ O tema do ENEM 2025 seguiu uma tendência de temas com viés social e contempor�
 
 Praticar uma redação por semana com correção estruturada é mais eficiente do que estudar teoria sem escrever.
 
-## Corrija Sua Redação com IA
+## Corrija Sua Redação com IA?
 
 O ENEM Pro tem um corretor com IA que avalia nas 5 competências — você recebe nota em cada uma e feedback específico por trecho, igual à correção do INEP.
 
 **1 correção gratuita** — sem cartão de crédito.
 
 
-## As 5 Competências da Redação ENEM (INEP)
+## As 5 Competências da Redação ENEM (INEP)?
 
 | Competência | O que avalia | Pontuação máxima |
 |-------------|-------------|-----------------|
@@ -6921,8 +6985,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -6936,7 +7001,7 @@ Uma das perguntas mais buscadas após o ENEM: *quando sai o resultado?* O cronog
 
 > **TL;DR:** Quando sai o resultado do ENEM 2026? Datas previstas, como acessar pelo portal do INEP, como interpretar sua nota e o que fazer após receber o resultado. [Pratique no ENEM Pro →](/questoes)
 
-## Cronograma Previsto — ENEM 2026
+## Cronograma Previsto — ENEM 2026?
 
 | Evento | Previsão |
 |---|---|
@@ -6952,7 +7017,7 @@ Uma das perguntas mais buscadas após o ENEM: *quando sai o resultado?* O cronog
 
 *Datas baseadas no histórico do ENEM. O cronograma oficial será divulgado pelo INEP.*
 
-## Como Consultar o Resultado do ENEM
+## Como Consultar o Resultado do ENEM?
 
 1. Acesse **enem.inep.gov.br**
 2. Faça login com seu **CPF e senha** cadastrados na inscrição
@@ -6964,7 +7029,7 @@ Você verá:
 - Nota da Redação (e as notas por competência, se você solicitar o boletim detalhado)
 - Número de acertos em cada área
 
-## Como Funciona o Cálculo da Nota ENEM (TRI)
+## Como Funciona o Cálculo da Nota ENEM (TRI)?
 
 O ENEM não calcula a nota pela quantidade simples de acertos. Usa a **Teoria de Resposta ao Item (TRI)** — um modelo estatístico que considera:
 
@@ -6974,7 +7039,7 @@ O ENEM não calcula a nota pela quantidade simples de acertos. Usa a **Teoria de
 
 Isso significa que **não vale chutar**. Acertar uma questão difícil depois de errar várias fáceis do mesmo assunto indica padrão inconsistente e pode resultar em nota menor do que os acertos brutos sugerem.
 
-## O que Fazer Com a Nota do ENEM
+## O que Fazer Com a Nota do ENEM?
 
 **Se a nota for boa (acima de 650 pts):**
 - Inscreva-se no **SISU** para universidades federais e estaduais
@@ -6997,7 +7062,7 @@ Sim. Não existe limite para tentativas no ENEM. Muitos candidatos fazem 2, 3 ou
 
 Suas notas ficam salvas no sistema do INEP — você pode usar a nota de qualquer ano para o SISU, ProUni e FIES (dentro dos prazos de validade).
 
-## Prepare-se Para o ENEM 2026
+## Prepare-se Para o ENEM 2026?
 
 O ENEM Pro tem todas as questões de 2009 a 2024 com explicação de IA para cada erro. Identifique suas fraquezas agora e chegue na prova pronto.
 
@@ -7031,8 +7096,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
 ]
@@ -7049,7 +7115,7 @@ Física assusta muitos candidatos, mas é uma das áreas com maior potencial de 
 
 > **TL;DR:** Aprenda como estudar Física para o ENEM de forma eficiente. Veja os temas que mais caem, estratégias de estudo e como resolver questões da banca INEP. [Pratique no ENEM Pro →](/questoes)
 
-## O que Cai em Física no ENEM
+## O que Cai em Física no ENEM?
 
 O ENEM testa Física dentro de Ciências da Natureza (45 questões no total com Química e Biologia). Física representa em média **15–18 questões por prova**.
 
@@ -7063,7 +7129,7 @@ Os temas mais recorrentes nos últimos 10 anos:
 | Termodinâmica e calor | 2–3 questões |
 | Física Moderna (radioatividade, efeito fotoelétrico) | 1–2 questões |
 
-## Estratégia de Estudo por Fase
+## Estratégia de Estudo por Fase?
 
 ### Fase 1 — Base (4–8 semanas)
 
@@ -7092,7 +7158,7 @@ Comece pelos temas de maior peso e que formam a base dos outros:
 - Termodinâmica: temperatura, calor, leis da termodinâmica
 - Física Moderna: radioatividade, efeito fotoelétrico, relatividade básica
 
-## Como o ENEM Cobra Física
+## Como o ENEM Cobra Física?
 
 O ENEM não pede decoreba de fórmulas. As questões pedem **raciocínio e aplicação**:
 
@@ -7103,7 +7169,7 @@ O ENEM não pede decoreba de fórmulas. As questões pedem **raciocínio e aplic
 
 **Exemplo de abordagem ENEM:** Em vez de "calcule a velocidade de um objeto", a prova diz "um ciclista acelera uniformemente de 5 m/s a 15 m/s em 20 segundos. Qual a distância percorrida?"
 
-## Fórmulas que Mais Caem
+## Fórmulas que Mais Caem?
 
 Você vai usar essas dezenas de vezes:
 
@@ -7126,13 +7192,13 @@ Você vai usar essas dezenas de vezes:
 - n = c/v (índice de refração)
 - 1/f = 1/p + 1/q (Gauss)
 
-## Erro Mais Comum dos Candidatos
+## Erro Mais Comum dos Candidatos?
 
 **Tentar memorizar tudo.** Física no ENEM exige entender o conceito, não a fórmula. Quem entende por que F = ma funciona resolve qualquer variação da questão. Quem só decorou a fórmula trava na primeira questão diferente.
 
 **Como evitar:** Para cada fórmula que estudar, resolva 3 questões que pedem o mesmo conceito em contextos diferentes.
 
-## Plano de 90 Dias para Física
+## Plano de 90 Dias para Física?
 
 **Dias 1–30:** Mecânica completa. 2h por dia. Resolva 10 questões ENEM antigas por semana de cada subtema.
 
@@ -7142,7 +7208,7 @@ Você vai usar essas dezenas de vezes:
 
 **Dias 81–90:** Física Moderna + revisão geral. Simulados completos de Ciências da Natureza.
 
-## Recursos Recomendados
+## Recursos Recomendados?
 
 **Para questões reais:** Pratique com as provas do ENEM de 2009 a 2024. Questões reais da banca INEP têm padrão próprio — muito diferente de livros didáticos.
 
@@ -7150,7 +7216,7 @@ O ENEM Pro tem todas essas questões organizadas por disciplina e ano. Quando vo
 
 **Para conceitos:** Khan Academy tem vídeos bons de Física básica. Para ENEM especificamente, foque em questões reais do INEP.
 
-## Física Moderna: o Diferencial
+## Física Moderna: o Diferencial?
 
 Muitos candidatos ignoram Física Moderna por parecer difícil. Mas o ENEM cobra os conceitos de forma acessível:
 
@@ -7160,7 +7226,7 @@ Muitos candidatos ignoram Física Moderna por parecer difícil. Mas o ENEM cobra
 
 Estudar esses temas coloca você à frente de quem ignora.
 
-## Resumo: Prioridades para Física ENEM
+## Resumo: Prioridades para Física ENEM?
 
 1. **Mecânica** — maior peso, base de tudo
 2. **Circuitos elétricos** — aparecem todo ano, costumam ser resolvíveis
@@ -7200,14 +7266,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'como-estudar-biologia-enem',
     title: 'Como Estudar Biologia para o ENEM: Temas, Estratégia e Dicas 2026',
-    description: 'Guia completo de Biologia para o ENEM 2026. Veja os temas mais cobrados, estratégia de estudo por fase e como resolver questões da banca INEP.',
+    description: 'Guia completo de Biologia para o ENEM 2026. Veja os temas mais cobrados, estratégia de estudo por fase e como resolver questões da banca INEP. Acesse grátis.',
     date: '2026-06-14',
     readTime: 8,
     content: `
@@ -7215,7 +7282,7 @@ Biologia é uma das disciplinas com maior quantidade de temas no ENEM, mas tamb�
 
 > **TL;DR:** Guia completo de Biologia para o ENEM 2026. Veja os temas mais cobrados, estratégia de estudo por fase e como resolver questões da banca INEP. [Pratique no ENEM Pro →](/questoes)
 
-## O que Cai em Biologia no ENEM
+## O que Cai em Biologia no ENEM?
 
 Biologia faz parte de Ciências da Natureza (45 questões com Física e Química). Biologia representa em média **15–17 questões por prova**.
 
@@ -7230,7 +7297,7 @@ Distribuição histórica dos últimos 10 anos:
 | Fisiologia humana | 2–3 questões |
 | Biotecnologia e saúde | 1–2 questões |
 
-## Por que Ecologia É Prioridade
+## Por que Ecologia É Prioridade?
 
 Ecologia lidera o ranking de frequência há mais de uma década. O ENEM cobra:
 
@@ -7243,7 +7310,7 @@ Ecologia lidera o ranking de frequência há mais de uma década. O ENEM cobra:
 
 **Dica:** Questões de ecologia frequentemente trazem textos sobre notícias ambientais reais. Fique atento ao noticiário sobre questões ambientais brasileiras — o ENEM usa esses contextos.
 
-## Genética: Como o ENEM Cobra
+## Genética: Como o ENEM Cobra?
 
 Genética é o segundo tema mais frequente. O ENEM vai além de cruzamentos simples de Mendel:
 
@@ -7256,7 +7323,7 @@ Genética é o segundo tema mais frequente. O ENEM vai além de cruzamentos simp
 
 **O que o ENEM NÃO cobra em genética:** Exercícios de quadro de Punnett simples sem contexto. A prova sempre apresenta uma situação real (família com histórico de doença, análise forense) e pede para você interpretar.
 
-## Evolução: Mais Conceitual do que Parece
+## Evolução: Mais Conceitual do que Parece?
 
 Evolução no ENEM é majoritariamente conceitual:
 
@@ -7268,7 +7335,7 @@ Evolução no ENEM é majoritariamente conceitual:
 
 **Questão típica ENEM:** apresentar uma situação de resistência a antibióticos e pedir que o candidato explique à luz da seleção natural.
 
-## Citologia: O Que Estudar
+## Citologia: O Que Estudar?
 
 Célula no ENEM foca em:
 
@@ -7279,7 +7346,7 @@ Célula no ENEM foca em:
 
 **Relação com outros temas:** Fotossíntese conecta com ecologia (produtores na cadeia alimentar). Meiose conecta com genética (formação de gametas).
 
-## Fisiologia Humana: Temas Frequentes
+## Fisiologia Humana: Temas Frequentes?
 
 - Sistema digestório e nutrição
 - Sistema circulatório: coração, sangue, pressão arterial
@@ -7290,7 +7357,7 @@ Célula no ENEM foca em:
 
 O ENEM frequentemente contextualiza com saúde pública — epidemias, vacinação, alimentação.
 
-## Estratégia de Estudo: 12 Semanas
+## Estratégia de Estudo: 12 Semanas?
 
 **Semanas 1–3 — Ecologia (prioridade máxima)**
 Dedique pelo menos 6h por semana. Resolva questões ENEM de 2015 a 2024 sobre ecologia. Muitas questões se repetem em padrão.
@@ -7307,7 +7374,7 @@ Memorize as funções das organelas e entenda fotossíntese + respiração.
 **Semanas 11–12 — Fisiologia + Revisão**
 Revisão dos temas principais + simulados de Ciências da Natureza completo.
 
-## Biologia no Contexto ENEM: Exemplos Reais
+## Biologia no Contexto ENEM: Exemplos Reais?
 
 O ENEM de 2024 trouxe questões sobre:
 - Crise hídrica e ciclo da água
@@ -7317,13 +7384,13 @@ O ENEM de 2024 trouxe questões sobre:
 
 O padrão é sempre: texto ou imagem contextualiza → você aplica o conhecimento biológico.
 
-## Erro Mais Comum em Biologia
+## Erro Mais Comum em Biologia?
 
 Estudar nomenclatura sem entender o processo. Saber que "mitocôndria é a usina de energia da célula" sem entender respiração aeróbia não resolve nenhuma questão do ENEM.
 
 O ENEM testa raciocínio. Pratique lendo questões e identificando qual conceito está sendo testado antes de olhar as alternativas.
 
-## Biotecnologia: O Diferencial
+## Biotecnologia: O Diferencial?
 
 Questões sobre biotecnologia aparecem 1–2 vezes por ano e costumam discriminar bem os candidatos:
 
@@ -7334,7 +7401,7 @@ Questões sobre biotecnologia aparecem 1–2 vezes por ano e costumam discrimina
 
 Não é necessário conhecimento técnico profundo — o ENEM sempre apresenta um texto explicativo e pede interpretação.
 
-## Biomas Brasileiros: Saber de Cor
+## Biomas Brasileiros: Saber de Cor?
 
 O ENEM cobra os 6 biomas com frequência:
 
@@ -7347,7 +7414,7 @@ O ENEM cobra os 6 biomas com frequência:
 | Pampa | Sul do Brasil | Monocultura |
 | Pantanal | Maior planície alagável | Queimadas |
 
-## Resumo: Prioridades em Biologia
+## Resumo: Prioridades em Biologia?
 
 1. **Ecologia** — maior peso, aparece todo ano
 2. **Genética** — segundo mais frequente, conceitual e interpretativo
@@ -7388,8 +7455,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -7403,13 +7471,13 @@ Química é, para muitos candidatos, a disciplina mais temida do ENEM. Mas quand
 
 > **TL;DR:** Guia de estudo de Química para o ENEM 2026. Os temas mais cobrados, estratégia por fase, dicas para questões contextualizadas e como resolver a banca INEP. [Pratique no ENEM Pro →](/questoes)
 
-## A Realidade de Química no ENEM
+## A Realidade de Química no ENEM?
 
 O ENEM não testa memorização de reações orgânicas ou cálculos estequiométricos complexos. A prova cobra **entendimento de conceitos no contexto do cotidiano**.
 
 Química faz parte de Ciências da Natureza (45 questões com Física e Biologia). Química representa em média **14–16 questões por prova**.
 
-## Temas Mais Cobrados (últimos 10 anos)
+## Temas Mais Cobrados (últimos 10 anos)?
 
 | Tema | Frequência | Prioridade |
 |------|-----------|-----------|
@@ -7421,7 +7489,7 @@ Química faz parte de Ciências da Natureza (45 questões com Física e Biologia
 | Equilíbrio químico | 1–2 questões | Média |
 | Termoquímica | 1–2 questões | Média |
 
-## Química Orgânica: Prioridade Máxima
+## Química Orgânica: Prioridade Máxima?
 
 Química orgânica aparece em praticamente todas as provas do ENEM. O que saber:
 
@@ -7446,7 +7514,7 @@ Química orgânica aparece em praticamente todas as provas do ENEM. O que saber:
 
 **Dica prática:** Aprenda a identificar as funções orgânicas pela fórmula estrutural. O ENEM sempre apresenta a estrutura e pede identificação ou propriedade.
 
-## Soluções: Sempre Contextualizado
+## Soluções: Sempre Contextualizado?
 
 Questões de soluções no ENEM frequentemente envolvem:
 - Concentração em g/L e mol/L
@@ -7456,7 +7524,7 @@ Questões de soluções no ENEM frequentemente envolvem:
 
 Contextos típicos: soro fisiológico, desinfetantes, fertilizantes, bebidas alcoólicas.
 
-## Ligações Químicas e Propriedades
+## Ligações Químicas e Propriedades?
 
 O ENEM cobra ligações no contexto de propriedades dos materiais:
 - Por que água tem ponto de ebulição alto? (pontes de hidrogênio)
@@ -7465,7 +7533,7 @@ O ENEM cobra ligações no contexto de propriedades dos materiais:
 
 Não é "decorar os tipos de ligação" — é entender por que as propriedades existem.
 
-## Estratégia de Estudo: 10 Semanas
+## Estratégia de Estudo: 10 Semanas?
 
 **Semanas 1–3 — Química Orgânica (base)**
 Foque em reconhecer funções orgânicas e entender as principais reações. Use questões ENEM de 2015 a 2024.
@@ -7482,7 +7550,7 @@ Estes temas aparecem 1–2 vezes cada. Dedique 3–4h por semana a cada um.
 **Semana 10 — Revisão + Simulado**
 Simulado completo de Ciências da Natureza.
 
-## Erros Frequentes em Química ENEM
+## Erros Frequentes em Química ENEM?
 
 **Erro 1: Tentar decorar equações**
 O ENEM fornece tabelas e dados quando necessário. Entenda o raciocínio, não a memorização.
@@ -7493,7 +7561,7 @@ A contextualização é a chave para interpretar o que está sendo pedido. Leia 
 **Erro 3: Pular cálculo**
 Muitos candidatos evitam questões com cálculo e perdem pontos fáceis. Os cálculos do ENEM são simples — regra de três, proporção, operações básicas.
 
-## Química no Cotidiano: O Estilo ENEM
+## Química no Cotidiano: O Estilo ENEM?
 
 O ENEM tem orgulho de contextualizar Química em situações reais. Exemplos de temas frequentes:
 
@@ -7503,7 +7571,7 @@ O ENEM tem orgulho de contextualizar Química em situações reais. Exemplos de 
 - **Medicamentos:** analgésicos, antibióticos — estrutura molecular básica
 - **Alimentos:** fermentação, conservantes, corantes — funções orgânicas aplicadas
 
-## Radioatividade em Química
+## Radioatividade em Química?
 
 Radioatividade aparece tanto em Química quanto em Física. Em Química, o foco é:
 - Tipos de emissão (alfa, beta, gama)
@@ -7512,7 +7580,7 @@ Radioatividade aparece tanto em Química quanto em Física. Em Química, o foco 
 
 Não é necessário calcular tempo de meia-vida — o ENEM pede interpretação.
 
-## Eletroquímica: Pilhas e Eletrólise
+## Eletroquímica: Pilhas e Eletrólise?
 
 Aparecem 1–2 questões por ano, mas costumam ser acessíveis:
 
@@ -7527,7 +7595,7 @@ Aparecem 1–2 questões por ano, mas costumam ser acessíveis:
 
 **Contextos ENEM:** pilha a combustível (hidrogênio), eletroplastia, baterias de veículos elétricos.
 
-## Resumo: O Que Priorizar
+## Resumo: O Que Priorizar?
 
 1. **Química Orgânica** — maior peso, aparece todo ano
 2. **Soluções** — frequente e com bons contextos
@@ -7568,8 +7636,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -7583,7 +7652,7 @@ Geometria é um dos temas mais importantes do ENEM em Matemática. Aparece em pr
 
 > **TL;DR:** Saiba o que cai em Geometria no ENEM 2026. Plana, espacial e analítica: os temas mais cobrados, fórmulas essenciais e como resolver questões da banca INEP. [Pratique no ENEM Pro →](/questoes)
 
-## Tipos de Geometria no ENEM
+## Tipos de Geometria no ENEM?
 
 O ENEM cobre três grandes áreas:
 
@@ -7593,7 +7662,7 @@ O ENEM cobre três grandes áreas:
 
 Cada área tem peso diferente e estilo de questão específico.
 
-## Geometria Plana: o Mais Frequente
+## Geometria Plana: o Mais Frequente?
 
 Geometria plana aparece em 3–5 questões por prova. Os temas que mais caem:
 
@@ -7618,7 +7687,7 @@ Geometria plana aparece em 3–5 questões por prova. Os temas que mais caem:
 
 **Como o ENEM cobra:** Sempre em contexto. Cálculo de área de terreno irregular, projeto de calçamento, análise de embalagem.
 
-## Geometria Espacial: Solidão dos Candidatos
+## Geometria Espacial: Solidão dos Candidatos?
 
 Geometria espacial assusta, mas as fórmulas são poucas. O que o ENEM mais cobra:
 
@@ -7635,7 +7704,7 @@ Geometria espacial assusta, mas as fórmulas são poucas. O que o ENEM mais cobr
 
 **Contextos frequentes:** embalagens, tanques, construção civil, piscinas, silos.
 
-## Geometria Analítica
+## Geometria Analítica?
 
 Geometria analítica aparece 1–2 vezes por prova. Temas frequentes:
 
@@ -7651,7 +7720,7 @@ Geometria analítica aparece 1–2 vezes por prova. Temas frequentes:
 **Circunferência:**
 - Equação: (x-a)² + (y-b)² = r²
 
-## Trigonometria no ENEM
+## Trigonometria no ENEM?
 
 Trigonometria conecta geometria e álgebra. O ENEM cobra:
 
@@ -7670,7 +7739,7 @@ Trigonometria conecta geometria e álgebra. O ENEM cobra:
 
 **Lei dos senos e dos cossenos:** aparecem em questões de navegação, topografia e astronomia.
 
-## Estratégia para Geometria ENEM
+## Estratégia para Geometria ENEM?
 
 **Passo 1: Identifique qual tipo de problema é**
 - Bidimensional → Geometria plana
@@ -7686,7 +7755,7 @@ Mesmo se o enunciado já tem um desenho, refaça simplificado. Isso ativa o raci
 **Passo 4: Escolha a fórmula correta**
 Com o tipo e o pedido identificados, a fórmula é direta.
 
-## Erros Mais Comuns em Geometria ENEM
+## Erros Mais Comuns em Geometria ENEM?
 
 **Erro 1: Confundir área com perímetro**
 Área = superfície (m²). Perímetro = contorno (m). O enunciado sempre especifica — leia com atenção.
@@ -7700,7 +7769,7 @@ Se os dados estão em cm, o resultado deve ser em cm² (área) ou cm³ (volume).
 **Erro 4: Ignorar figuras compostas**
 O ENEM frequentemente apresenta figuras que são combinação de formas simples. Decomponha a figura e calcule parte por parte.
 
-## Questões com Escala e Proporção
+## Questões com Escala e Proporção?
 
 O ENEM frequentemente usa mapas, plantas baixas e maquetes. Saiba trabalhar com escala:
 
@@ -7708,7 +7777,7 @@ escala = distância no mapa / distância real
 
 Se escala é 1:1000, cada 1 cm no mapa = 1000 cm = 10 m na realidade.
 
-## Resumo: O que Estudar Primeiro
+## Resumo: O que Estudar Primeiro?
 
 1. **Teorema de Pitágoras** — aparece indiretamente em quase tudo
 2. **Área das figuras planas** — triângulo, quadrado, círculo, trapézio
@@ -7746,8 +7815,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -7761,7 +7831,7 @@ Interpretação de texto não é habilidade ou dom — é técnica. E como qualq
 
 > **TL;DR:** Como melhorar a interpretação de texto no ENEM 2026. Estratégias para questões de Linguagens, tipos de texto cobrados e os erros mais comuns dos candidatos. [Pratique no ENEM Pro →](/questoes)
 
-## O Peso de Interpretação de Texto no ENEM
+## O Peso de Interpretação de Texto no ENEM?
 
 Linguagens, Códigos e suas Tecnologias tem 45 questões no ENEM. Desse total, aproximadamente:
 
@@ -7772,7 +7842,7 @@ Linguagens, Códigos e suas Tecnologias tem 45 questões no ENEM. Desse total, a
 
 Saber interpretar textos bem impacta mais da metade das questões de Linguagens.
 
-## Tipos de Texto que Aparecem no ENEM
+## Tipos de Texto que Aparecem no ENEM?
 
 O ENEM usa diversidade enorme de gêneros textuais:
 
@@ -7793,7 +7863,7 @@ O ENEM usa diversidade enorme de gêneros textuais:
 
 A habilidade de ler diferentes tipos de texto é exatamente o que o ENEM quer testar.
 
-## O Método em 4 Passos para Interpretar Qualquer Texto
+## O Método em 4 Passos para Interpretar Qualquer Texto?
 
 ### Passo 1: Leia o enunciado da questão ANTES do texto
 
@@ -7816,7 +7886,7 @@ No ENEM, a alternativa errada sempre tem algum deslize: exagera o que o texto di
 
 Eliminação é mais eficiente que busca direta pela correta.
 
-## Por que Candidatos Erram Questões de Interpretação
+## Por que Candidatos Erram Questões de Interpretação?
 
 **Erro 1: Usar "conhecimento externo" sobre o assunto**
 O ENEM testa o que o texto diz, não o que você sabe sobre o tema. Se o texto de crônica critica o trânsito, a resposta está no texto — não em suas opiniões sobre mobilidade urbana.
@@ -7830,7 +7900,7 @@ Uma afirmativa pode ser verdadeira no mundo real mas errada em relação ao text
 **Erro 4: Ignorar textos não-verbais**
 Charges e tirinhas testam as mesmas habilidades de interpretação. A mensagem está na imagem — analise o contexto, os personagens, a ironia.
 
-## Como Interpretar Charges e Tirinhas
+## Como Interpretar Charges e Tirinhas?
 
 Charges e tirinhas têm linguagem própria:
 
@@ -7841,7 +7911,7 @@ Charges e tirinhas têm linguagem própria:
 
 O ENEM adora charges sobre política, meio ambiente, consumismo e tecnologia.
 
-## Interpretação de Poemas
+## Interpretação de Poemas?
 
 Poesia no ENEM assusta candidatos que nunca estudaram análise literária. Mas o que o ENEM cobra é simples:
 
@@ -7852,7 +7922,7 @@ Poesia no ENEM assusta candidatos que nunca estudaram análise literária. Mas o
 
 O ENEM nunca pede identificação técnica de métrica ou rima — pede interpretação do sentido.
 
-## Figuras de Linguagem que Mais Caem
+## Figuras de Linguagem que Mais Caem?
 
 | Figura | Definição | Exemplo |
 |--------|-----------|---------|
@@ -7863,7 +7933,7 @@ O ENEM nunca pede identificação técnica de métrica ou rima — pede interpre
 | Eufemismo | Suavizar algo negativo | "Passar desta para melhor" (morrer) |
 | Anáfora | Repetição no início de frases | "Era belo, era jovem, era forte" |
 
-## Língua Portuguesa x Interpretação: A Diferença
+## Língua Portuguesa x Interpretação: A Diferença?
 
 Não confunda as duas:
 
@@ -7873,7 +7943,7 @@ Não confunda as duas:
 
 Questões de Língua Portuguesa no ENEM quase sempre partem de um texto, mas o que testam é o funcionamento da língua, não apenas o sentido.
 
-## Estratégia de Tempo para Linguagens
+## Estratégia de Tempo para Linguagens?
 
 Linguagens tem 45 questões em 5 horas (compartilhadas com Ciências Humanas — cada caderno com 4 áreas). Uma estratégia eficiente:
 
@@ -7882,7 +7952,7 @@ Linguagens tem 45 questões em 5 horas (compartilhadas com Ciências Humanas —
 - Questões de gramática: 1–2 min
 - Reserve os últimos 30 min para revisar as questões que deixou em branco
 
-## Pratique com Textos Variados
+## Pratique com Textos Variados?
 
 A melhor forma de melhorar interpretação é ler regularmente:
 - Jornais e revistas (Folha, Veja, Piauí)
@@ -7921,14 +7991,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'estatistica-enem-o-que-cai',
     title: 'Estatística no ENEM: O que Cai e Como Resolver as Questões 2026',
-    description: 'Tudo sobre Estatística no ENEM 2026. Média, mediana, moda, probabilidade, gráficos e tabelas: o que estudar e como resolver questões da banca INEP.',
+    description: 'Tudo sobre Estatística no ENEM 2026. Média, mediana, moda, probabilidade, gráficos e tabelas: o que estudar e como resolver questões da banca INEP. Grátis.',
     date: '2026-06-14',
     readTime: 6,
     content: `
@@ -7936,7 +8007,7 @@ Estatística no ENEM é um dos temas que mais candidatos subestimam ou ignoram �
 
 > **TL;DR:** Tudo sobre Estatística no ENEM 2026. Média, mediana, moda, probabilidade, gráficos e tabelas: o que estudar e como resolver questões da banca INEP. [Pratique no ENEM Pro →](/questoes)
 
-## O que o ENEM Cobra de Estatística
+## O que o ENEM Cobra de Estatística?
 
 Estatística e Probabilidade fazem parte do eixo de Matemática. As questões são distribuídas assim:
 
@@ -7947,7 +8018,7 @@ Estatística e Probabilidade fazem parte do eixo de Matemática. As questões s�
 | Probabilidade | 1–2 questões |
 | Análise combinatória | 0–1 questão |
 
-## Medidas de Tendência Central
+## Medidas de Tendência Central?
 
 **Média aritmética:**
 - Soma de todos os valores ÷ quantidade de valores
@@ -7970,7 +8041,7 @@ Estatística e Probabilidade fazem parte do eixo de Matemática. As questões s�
 
 **Dica importante:** O ENEM frequentemente pergunta qual medida usar em cada contexto. A mediana é mais adequada quando há valores extremos que distorcem a média (ex: salários com CEO vs. funcionários).
 
-## Leitura de Gráficos e Tabelas
+## Leitura de Gráficos e Tabelas?
 
 É a habilidade estatística mais cobrada no ENEM. Tipos de gráfico que aparecem:
 
@@ -7988,7 +8059,7 @@ Estatística e Probabilidade fazem parte do eixo de Matemática. As questões s�
 
 **Armadilha clássica:** Questões que apresentam gráfico com eixo truncado (não começa no zero) para fazer diferenças pareceram maiores do que são. O ENEM às vezes pede que o candidato identifique essa distorção.
 
-## Probabilidade: Cálculo Básico
+## Probabilidade: Cálculo Básico?
 
 Probabilidade aparece 1–2 vezes por prova. O cálculo básico é simples:
 
@@ -8007,7 +8078,7 @@ Muito útil: às vezes é mais fácil calcular a probabilidade de o evento NÃO 
 
 **Contextos frequentes no ENEM:** dados, urnas com bolas coloridas, cartas de baralho, probabilidade de diagnóstico médico, genética (cruzamentos).
 
-## Análise Combinatória
+## Análise Combinatória?
 
 Análise combinatória aparece com menos frequência que probabilidade, mas ainda aparece:
 
@@ -8022,7 +8093,7 @@ Se há m maneiras de fazer a escolha A e n maneiras de fazer a escolha B, então
 
 O ENEM raramente pede cálculo puro de combinatória — prefere situações contextualizadas (quantas formas de escolher time, montar senha, organizar fila).
 
-## Desvio Padrão e Variância
+## Desvio Padrão e Variância?
 
 Raramente cobrados diretamente no ENEM, mas aparecem em forma de interpretação:
 - "Qual conjunto de dados tem maior variabilidade?"
@@ -8030,7 +8101,7 @@ Raramente cobrados diretamente no ENEM, mas aparecem em forma de interpretação
 
 Não é necessário calcular desvio padrão — o ENEM pede interpretação do conceito.
 
-## Estratégia de Estudo para Estatística
+## Estratégia de Estudo para Estatística?
 
 **Semana 1:** Medidas de tendência central (média, mediana, moda)
 - Resolva 15 questões ENEM sobre cada medida
@@ -8046,7 +8117,7 @@ Não é necessário calcular desvio padrão — o ENEM pede interpretação do c
 
 **Semana 4:** Análise combinatória + revisão
 
-## Questões de Estatística são Presentes no ENEM
+## Questões de Estatística são Presentes no ENEM?
 
 Candidatos que dominam estatística têm vantagem porque:
 
@@ -8056,7 +8127,7 @@ Candidatos que dominam estatística têm vantagem porque:
 
 **Dica de prova:** Se tiver que escolher entre resolver uma questão de equação diferencial ou uma de estatística, sempre prefira a de estatística — muito maior chance de acerto.
 
-## Resumo: Prioridades em Estatística
+## Resumo: Prioridades em Estatística?
 
 1. **Leitura de gráficos** — aparece todo ano, às vezes 2x
 2. **Média, mediana, moda** — conceito + saber quando usar cada um
@@ -8093,8 +8164,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -8108,7 +8180,7 @@ Contabilidade é um dos cursos com melhor empregabilidade do Brasil e com notas 
 
 > **TL;DR:** Nota de corte para Contabilidade no SISU 2025. Veja as notas das principais universidades federais, como calcular sua nota e as perspectivas para 2026. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte Contabilidade SISU 2025
+## Nota de Corte Contabilidade SISU 2025?
 
 As notas variam muito por universidade, turno e localização. Referência para ampla concorrência (AC):
 
@@ -8138,7 +8210,7 @@ Ciências Contábeis tem, em média, notas de corte menores que cursos como Medi
 - Menos candidatos de alta pontuação
 - Disponível em muitas cidades menores (menos concorrência local)
 
-## Cotas: Como Afeta a Nota de Corte
+## Cotas: Como Afeta a Nota de Corte?
 
 Nas universidades federais, as vagas são divididas entre:
 - **L1:** Renda baixa + escola pública (nota de corte menor, mais vagas)
@@ -8148,7 +8220,7 @@ Nas universidades federais, as vagas são divididas entre:
 
 Candidatos com direito a cotas podem ingressar com notas significativamente menores.
 
-## O Mercado de Trabalho em Contabilidade
+## O Mercado de Trabalho em Contabilidade?
 
 Investir em Ciências Contábeis vale a pena em 2026:
 
@@ -8160,7 +8232,7 @@ Investir em Ciências Contábeis vale a pena em 2026:
 
 Salário médio inicial: R$2.500–3.500. Com CRC e especialização: R$5.000–12.000+.
 
-## Diferença Entre Ciências Contábeis e Administração
+## Diferença Entre Ciências Contábeis e Administração?
 
 Muitos candidatos se perguntam: Contabilidade ou Administração?
 
@@ -8171,7 +8243,7 @@ Muitos candidatos se perguntam: Contabilidade ou Administração?
 | Foco | Finanças, tributos, auditoria | Gestão, estratégia, pessoas |
 | Carreira inicial | Escritórios contábeis, empresas | Varejo, indústria, startups |
 
-## ProUni e FIES para Contabilidade
+## ProUni e FIES para Contabilidade?
 
 Se você não ingressar via SISU, há alternativas em faculdades particulares:
 
@@ -8181,7 +8253,7 @@ Se você não ingressar via SISU, há alternativas em faculdades particulares:
 
 Faculdades reconhecidas em Contabilidade no particular: FIPECAFI (SP), UNIFACS (BA), FGV (SP, notas altíssimas).
 
-## Como Calcular Sua Nota para o SISU
+## Como Calcular Sua Nota para o SISU?
 
 Sua nota no SISU é a média ponderada das 5 notas:
 - Linguagens
@@ -8194,7 +8266,7 @@ Cada curso define os pesos. Para Contabilidade, os pesos variam mas geralmente M
 
 Use a **[Calculadora de Nota ENEM Pro](/calcular-nota)** para estimar sua pontuação.
 
-## Estratégia para Quem Mira Contabilidade
+## Estratégia para Quem Mira Contabilidade?
 
 1. **Foque em Matemática** — tem peso alto na maioria das instituições
 2. **Não negligencie a Redação** — é 20% da nota e muitos candidatos perdem pontos fáceis
@@ -8225,8 +8297,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -8240,7 +8313,7 @@ Pedagogia é o curso de licenciatura com maior quantidade de vagas no SISU e uma
 
 > **TL;DR:** Nota de corte para Pedagogia no SISU 2025. Veja as notas nas principais universidades, diferença entre turnos e como planejar sua candidatura para 2026. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte Pedagogia SISU 2025
+## Nota de Corte Pedagogia SISU 2025?
 
 | Universidade | Turno | Nota de Corte Aprox. (AC) |
 |---|---|---|
@@ -8259,7 +8332,7 @@ Pedagogia é o curso de licenciatura com maior quantidade de vagas no SISU e uma
 
 *Notas aproximadas. Consulte o SISU oficial para valores exatos.*
 
-## Por que Pedagogia Tem Notas Acessíveis
+## Por que Pedagogia Tem Notas Acessíveis?
 
 - **Alta oferta de vagas:** Pedagogia tem mais vagas no SISU do que qualquer outra licenciatura
 - **Muitas opções noturnas:** Ideal para quem trabalha, com menor concorrência
@@ -8268,7 +8341,7 @@ Pedagogia é o curso de licenciatura com maior quantidade de vagas no SISU e uma
 
 Com cotas (L1, L2, L5), as notas de corte caem significativamente — às vezes 30–50 pontos abaixo da ampla concorrência.
 
-## Campo de Trabalho em Pedagogia
+## Campo de Trabalho em Pedagogia?
 
 A carreira pedagógica tem crescido em possibilidades além da sala de aula:
 
@@ -8285,7 +8358,7 @@ A carreira pedagógica tem crescido em possibilidades além da sala de aula:
 
 **Concurso público:** A forma mais segura de carreira. Prefeituras e estados realizam concursos regularmente. Salário inicial: R$2.200–4.500 (varia por estado e nível).
 
-## Pedagogia vs. Licenciaturas Específicas
+## Pedagogia vs. Licenciaturas Específicas?
 
 Se você gosta de uma disciplina específica (Matemática, Letras, História), talvez prefira uma licenciatura específica. A diferença:
 
@@ -8296,13 +8369,13 @@ Se você gosta de uma disciplina específica (Matemática, Letras, História), t
 | Concurso | Mais vagas em concursos locais | Concursos estaduais por disciplina |
 | Campo de trabalho | Mais amplo (gestão, pedagogo) | Específico à disciplina |
 
-## Ingresso por ProUni em Pedagogia
+## Ingresso por ProUni em Pedagogia?
 
 Pedagogia é um dos cursos com mais bolsas ProUni disponíveis no país. Com notas a partir de 450 pontos, é possível conseguir bolsa integral em faculdades de boa qualidade.
 
 MEC/INEP publica a lista de cursos autorizados e suas avaliações (Conceito de Curso - CC) — verifique antes de escolher uma instituição particular.
 
-## Formação Continuada em Pedagogia
+## Formação Continuada em Pedagogia?
 
 Para professores da rede pública, a progressão salarial depende de:
 - Especialização (pós-graduação): progressão na carreira
@@ -8311,7 +8384,7 @@ Para professores da rede pública, a progressão salarial depende de:
 
 Muitas redes públicas pagam adicional para professores com especialização. Vale a pena planejar a continuidade desde o início da graduação.
 
-## Como Estudar para Pedagogia no ENEM
+## Como Estudar para Pedagogia no ENEM?
 
 Pedagogia não exige habilidades específicas além das cobradas no ENEM geral. Mas alguns pontos ajudam:
 
@@ -8321,7 +8394,7 @@ Pedagogia não exige habilidades específicas além das cobradas no ENEM geral. 
 
 Para as notas mais baixas (universidades do interior), mesmo uma pontuação de 500–520 já abre portas.
 
-## Verificar Notas em Tempo Real
+## Verificar Notas em Tempo Real?
 
 No período do SISU (geralmente em março), as notas flutuam a cada novo inscrito. Monitore a nota de corte parcial no site oficial e prepare-se para mudar a opção de curso/campus se necessário.
 
@@ -8360,8 +8433,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
 ]
@@ -8378,7 +8452,7 @@ História é uma das disciplinas onde os candidatos mais polarizam: ou vão muit
 
 > **TL;DR:** Guia definitivo de História para o ENEM 2026. Os temas mais cobrados, estratégia por período histórico, como interpretar fontes e dicas para gabaritar. [Pratique no ENEM Pro →](/questoes)
 
-## O que o ENEM Cobra em História
+## O que o ENEM Cobra em História?
 
 História faz parte de Ciências Humanas (45 questões com Geografia, Filosofia e Sociologia). História representa em média **12–15 questões por prova**.
 
@@ -8393,7 +8467,7 @@ A distribuição histórica por período:
 | História Antiga | 0–1 questão |
 | Pré-História e primeiras civilizações | 0–1 questão |
 
-## Por que História Contemporânea é Prioridade
+## Por que História Contemporânea é Prioridade?
 
 O ENEM adora o século XX: guerras mundiais, totalitarismo, Guerra Fria, descolonização da África e Ásia, movimentos sociais. Razão: são eventos que moldaram o mundo atual.
 
@@ -8405,7 +8479,7 @@ O ENEM adora o século XX: guerras mundiais, totalitarismo, Guerra Fria, descolo
 - Independências africanas e asiáticas (pós-45)
 - Globalização e neoliberalismo (anos 80–90)
 
-## Brasil: os Períodos que Mais Caem
+## Brasil: os Períodos que Mais Caem?
 
 ### Era Vargas (1930–1945) e Estado Novo
 Um dos favoritos do ENEM. Questões cobram:
@@ -8433,7 +8507,7 @@ Alto volume de questões:
 - Resistência escrava: quilombos, revoltas
 - Independência (1822): contexto e contradições
 
-## Como o ENEM Cobra História: Análise de Fontes
+## Como o ENEM Cobra História: Análise de Fontes?
 
 A diferença do ENEM para outros vestibulares: **as questões partem sempre de uma fonte primária ou secundária**.
 
@@ -8450,7 +8524,7 @@ Tipos de fonte que aparecem:
 3. O que a fonte revela sobre o período?
 4. Conecte com o contexto histórico que você conhece
 
-## Estratégia de Estudo por Fase
+## Estratégia de Estudo por Fase?
 
 **Fase 1 (5 semanas) — Brasil no Século XX:**
 Foco total em República (1889–2000). É onde estão 40–50% das questões de História do ENEM. Resolva questões ENEM de 2018 a 2024 sobre esses temas.
@@ -8464,7 +8538,7 @@ Menor peso, mas aparecem. Foque nos temas mais recorrentes: escravidão, indepen
 **Fase 4 (2 semanas) — Revisão com questões:**
 Monte "simulados temáticos" por período histórico. Analise os erros.
 
-## Dicas para Nunca Mais Errar Questões de História
+## Dicas para Nunca Mais Errar Questões de História?
 
 **Dica 1: Não tente memorizar datas exatas**
 O ENEM raramente pede datas precisas. Quer que você entenda sequência e causalidade.
@@ -8478,14 +8552,14 @@ Charges históricas são frequentes. Pratique identificar o personagem retratado
 **Dica 4: Leia o enunciado inteiro**
 Muitas questões de História têm a resposta explicitada no próprio texto da questão. Candidatos que leem rápido demais perdem esses "presentes" da banca.
 
-## O Que Evitar em História ENEM
+## O Que Evitar em História ENEM?
 
 - Focar só em Brasil e esquecer história mundial
 - Memorizar listas de eventos sem entender causas e consequências
 - Ignorar questões de análise de fontes (são as mais frequentes)
 - Confundir períodos históricos próximos (ex: República Velha x Era Vargas)
 
-## Conexão com Atualidade: Diferencial de Nota
+## Conexão com Atualidade: Diferencial de Nota?
 
 O ENEM ama questões que conectam história com atualidade:
 - Reforma trabalhista atual vs. CLT de Vargas
@@ -8526,8 +8600,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -8541,7 +8616,7 @@ Geografia no ENEM vai muito além de decorar capitais e rios. A banca INEP exige
 
 > **TL;DR:** Guia completo de Geografia para o ENEM 2026. Os temas mais cobrados, como interpretar mapas, climatologia, urbanização e dicas para gabaritar Ciências Humanas. [Pratique no ENEM Pro →](/questoes)
 
-## O que Cai em Geografia no ENEM
+## O que Cai em Geografia no ENEM?
 
 Geografia é parte de Ciências Humanas (45 questões com História, Filosofia e Sociologia). Em média, **10–13 questões** de Geografia por prova.
 
@@ -8555,7 +8630,7 @@ Geografia é parte de Ciências Humanas (45 questões com História, Filosofia e
 | Industrialização e globalização | 1–2 questões |
 | Cartografia e leitura de mapas | 1–2 questões |
 
-## Geopolítica: O Favorito do ENEM
+## Geopolítica: O Favorito do ENEM?
 
 Geopolítica lidera em frequência e costuma ser o tema mais contemporâneo. O ENEM cobra:
 
@@ -8567,7 +8642,7 @@ Geopolítica lidera em frequência e costuma ser o tema mais contemporâneo. O E
 
 **Dica:** Questões de geopolítica sempre apresentam texto ou mapa. Interprete o contexto antes de responder.
 
-## Urbanização Brasileira: Sempre Presente
+## Urbanização Brasileira: Sempre Presente?
 
 O Brasil é 87% urbano — e o ENEM adora explorar essa realidade:
 
@@ -8582,7 +8657,7 @@ O Brasil é 87% urbano — e o ENEM adora explorar essa realidade:
 - Favelização = resultado das desigualdades desse processo
 - O ENEM cobra as causas E as consequências
 
-## Climatologia: Sistematize o Conhecimento
+## Climatologia: Sistematize o Conhecimento?
 
 Climatologia parece decoreba, mas o ENEM cobra raciocínio climático:
 
@@ -8602,7 +8677,7 @@ Climatologia parece decoreba, mas o ENEM cobra raciocínio climático:
 
 **Formações vegetais:** Cerrado, Caatinga, Mata Atlântica, Pantanal, Pampas — associe cada bioma ao clima e ao estado de conservação.
 
-## Cartografia: Leitura de Mapas e Gráficos
+## Cartografia: Leitura de Mapas e Gráficos?
 
 O ENEM sempre tem 1–2 questões de cartografia. O que saber:
 
@@ -8613,7 +8688,7 @@ O ENEM sempre tem 1–2 questões de cartografia. O que saber:
 
 **Orientação:** rosa dos ventos, coordenadas geográficas (latitude e longitude), paralelos e meridianos.
 
-## Questão Agrária Brasileira
+## Questão Agrária Brasileira?
 
 Frequente e relevante para o contexto do país:
 
@@ -8623,7 +8698,7 @@ Frequente e relevante para o contexto do país:
 - **Fronteira agrícola:** avanço sobre o Cerrado e a Amazônia
 - **Êxodo rural:** causas e consequências para as cidades
 
-## Meio Ambiente: Tema Transversal
+## Meio Ambiente: Tema Transversal?
 
 Questões ambientais conectam Geografia, Ecologia e política:
 
@@ -8633,7 +8708,7 @@ Questões ambientais conectam Geografia, Ecologia e política:
 - **Gestão de recursos hídricos:** crise hídrica, bacia do São Francisco
 - **Acordos internacionais:** Acordo de Paris, COP, Protocolo de Kyoto
 
-## Estratégia: 8 Semanas para Dominar
+## Estratégia: 8 Semanas para Dominar?
 
 **Semanas 1–2 — Geopolítica + Globalização**
 Leia resumos sobre ordem mundial e pratique com questões ENEM de 2015–2024.
@@ -8647,7 +8722,7 @@ Monte uma tabela conectando clima → bioma → região → problemas ambientais
 **Semanas 7–8 — Cartografia + Geopolítica avançada + Revisão**
 Pratique leitura de mapas. Analise questões erradas.
 
-## Integração com Outras Disciplinas
+## Integração com Outras Disciplinas?
 
 Geografia no ENEM conversa com:
 - **História:** colonização, industrialização, geopolítica contemporânea
@@ -8688,14 +8763,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'como-estudar-portugues-enem',
     title: 'Como Estudar Português para o ENEM: Gramática, Texto e Redação 2026',
-    description: 'Guia de Português para o ENEM 2026. O que cai em gramática, interpretação de texto e redação, estratégia de estudo por fase e os erros mais comuns dos candidatos.',
+    description: 'Guia de Português para o ENEM 2026. O que cai em gramática, interpretação de texto e redação, estratégia de estudo por fase e os erros mais comuns dos.',
     date: '2026-06-14',
     readTime: 8,
     content: `
@@ -8703,11 +8779,11 @@ Português é a disciplina que mais candidatos subestimam e, ao mesmo tempo, ond
 
 > **TL;DR:** Guia de Português para o ENEM 2026. O que cai em gramática, interpretação de texto e redação, estratégia de estudo por fase e os erros mais comuns dos candidatos. [Pratique no ENEM Pro →](/questoes)
 
-## Português no ENEM: Entendendo o Quadro
+## Português no ENEM: Entendendo o Quadro?
 
 Língua Portuguesa faz parte de Linguagens, Códigos e suas Tecnologias (45 questões). Português representa aproximadamente **15–20 questões** por prova — mais a Redação, que é avaliada separadamente (0–1000 pontos).
 
-## O que o ENEM Cobra em Português
+## O que o ENEM Cobra em Português?
 
 ### 1. Interpretação de Texto (8–10 questões)
 
@@ -8752,7 +8828,7 @@ Literatura no ENEM é contextualizada e interpretativa — não pede decoreba de
 
 A banca geralmente apresenta um trecho e pede análise do estilo ou do contexto histórico da produção.
 
-## Estratégia de Estudo: 10 Semanas
+## Estratégia de Estudo: 10 Semanas?
 
 **Semanas 1–2 — Interpretação de texto intensiva**
 Leia 2–3 textos por dia de gêneros diferentes. Depois resolva questões ENEM sobre os textos. Foco em identificar o que o autor quer dizer, não apenas o que está escrito.
@@ -8769,7 +8845,7 @@ Escreva 2 redações por semana. Peça avaliação ou use critérios das 5 compe
 **Semanas 9–10 — Revisão + Simulados**
 Simulados completos de Linguagens. Analise os erros por tipo de questão.
 
-## Os 5 Erros Mais Comuns em Português ENEM
+## Os 5 Erros Mais Comuns em Português ENEM?
 
 **Erro 1: Responder com opinião pessoal**
 O ENEM pede o que o texto diz, não o que você pensa. "Eu acho que..." não tem espaço aqui.
@@ -8786,7 +8862,7 @@ A redação vale 1000 pontos — equivale a toda a prova de Linguagens em peso. 
 **Erro 5: Pular questões de literatura**
 Literatura parece difícil, mas as questões do ENEM são acessíveis — a banca explica o contexto. Com 10 minutos de estudo por autor mais cobrado, você passa bem.
 
-## Redação ENEM: As 5 Competências
+## Redação ENEM: As 5 Competências?
 
 A redação é avaliada em 5 competências de 0–200 pontos cada:
 
@@ -8800,7 +8876,7 @@ A redação é avaliada em 5 competências de 0–200 pontos cada:
 
 **A intervenção (C5) é onde muitos perdem pontos.** Deve conter: agente + ação + meio/modo + finalidade + detalhamento. Uma intervenção vaga não pontua 200.
 
-## Variação Linguística: Tema Recorrente
+## Variação Linguística: Tema Recorrente?
 
 O ENEM é explícito em valorizar a diversidade linguística. Temas que aparecem:
 - Dialetos regionais e suas construções
@@ -8810,7 +8886,7 @@ O ENEM é explícito em valorizar a diversidade linguística. Temas que aparecem
 
 A abordagem do ENEM é **descritiva** (como a língua é) e não **prescritiva** (como "deveria" ser). Saiba distinguir.
 
-## Texto Literário: Como Ler para o ENEM
+## Texto Literário: Como Ler para o ENEM?
 
 Ao ler um fragmento literário:
 1. Identifique o narrador e seu ponto de vista
@@ -8850,14 +8926,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'funcoes-matematica-enem',
     title: 'Funções no ENEM: 1º Grau, 2º Grau, Exponencial e Logarítmica 2026',
-    description: 'Funções no ENEM 2026: o que cai de função do 1º grau, 2º grau, exponencial e logarítmica. Fórmulas, gráficos e como resolver questões da banca INEP.',
+    description: 'Funções no ENEM 2026: o que cai de função do 1º grau, 2º grau, exponencial e logarítmica. Fórmulas, gráficos e como resolver questões da banca INEP. Grátis.',
     date: '2026-06-14',
     readTime: 7,
     content: `
@@ -8865,7 +8942,7 @@ Funções são um dos temas com maior peso em Matemática no ENEM. Aparecem em p
 
 > **TL;DR:** Funções no ENEM 2026: o que cai de função do 1º grau, 2º grau, exponencial e logarítmica. Fórmulas, gráficos e como resolver questões da banca INEP. [Pratique no ENEM Pro →](/questoes)
 
-## O que o ENEM Cobra sobre Funções
+## O que o ENEM Cobra sobre Funções?
 
 O ENEM aborda 4 tipos principais de função:
 
@@ -8878,7 +8955,7 @@ O ENEM aborda 4 tipos principais de função:
 
 Além dessas, aparecem funções no contexto de progressões (PA e PG) e relações funcionais.
 
-## Função do 1º Grau: Base de Tudo
+## Função do 1º Grau: Base de Tudo?
 
 **Forma:** f(x) = ax + b
 
@@ -8896,7 +8973,7 @@ Além dessas, aparecem funções no contexto de progressões (PA e PG) e relaç�
 - Interseção de duas retas (solução de sistemas lineares)
 - Função crescente ou decrescente em contexto
 
-## Função do 2º Grau: O Mais Cobrado
+## Função do 2º Grau: O Mais Cobrado?
 
 **Forma:** f(x) = ax² + bx + c
 
@@ -8921,7 +8998,7 @@ Além dessas, aparecem funções no contexto de progressões (PA e PG) e relaç�
 - Lucro máximo em um problema de economia
 - "Determine o valor de x que maximiza/minimiza f(x)"
 
-## Função Exponencial: Crescimento e Decaimento
+## Função Exponencial: Crescimento e Decaimento?
 
 **Forma:** f(x) = aˣ onde a > 0 e a ≠ 1
 
@@ -8939,7 +9016,7 @@ Além dessas, aparecem funções no contexto de progressões (PA e PG) e relaç�
 - Juros compostos: M = C × (1+i)ⁿ
 - Contaminação / propagação de epidemia
 
-## Função Logarítmica: O Inverso da Exponencial
+## Função Logarítmica: O Inverso da Exponencial?
 
 **Forma:** f(x) = log_a(x) onde a > 0 e a ≠ 1
 
@@ -8963,7 +9040,7 @@ A função logarítmica é o inverso da exponencial:
 - Escala Richter (terremotos): M = log(A/A₀)
 - Inversão de equações exponenciais
 
-## Gráficos: Como Identificar
+## Gráficos: Como Identificar?
 
 O ENEM frequentemente apresenta um gráfico e pede identificação da função:
 
@@ -8975,7 +9052,7 @@ O ENEM frequentemente apresenta um gráfico e pede identificação da função:
 | Curva decrescente que não toca o eixo x | Exponencial decrescente |
 | Curva que cresce devagar após rápido início | Logarítmica |
 
-## Estratégia para Funções no ENEM
+## Estratégia para Funções no ENEM?
 
 **Passo 1: Identifique o tipo de função**
 Leia o enunciado e identifique se é linear, quadrática, exponencial ou logarítmica. Isso determina qual abordagem usar.
@@ -8989,7 +9066,7 @@ Com os dados, substitua na forma da função.
 **Passo 4: Resolva e confira a unidade**
 Cuidado com unidades: reais, km, kg. Confira se sua resposta faz sentido no contexto.
 
-## Questões de Máximo e Mínimo
+## Questões de Máximo e Mínimo?
 
 Muito frequentes no ENEM, especialmente com função do 2º grau:
 
@@ -9003,7 +9080,7 @@ O valor máximo é y_v = f(x_v)
 
 **Técnica do produto:** Se x + y = k (soma constante), o produto x × y é máximo quando x = y = k/2.
 
-## Resumo: O que Priorizar
+## Resumo: O que Priorizar?
 
 1. **Função do 2º grau** — mais frequente, dominar vértice e Bhaskara
 2. **Função do 1º grau** — base de muitos problemas contextuais
@@ -9043,14 +9120,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'trigonometria-enem-o-que-cai',
     title: 'Trigonometria no ENEM: O que Cai e Como Resolver 2026',
-    description: 'Trigonometria no ENEM 2026: seno, cosseno, tangente, lei dos senos e cossenos. O que estudar, tabela de valores e como resolver questões contextualizadas da banca INEP.',
+    description: 'Trigonometria no ENEM 2026: seno, cosseno, tangente, lei dos senos e cossenos. O que estudar, tabela de valores e como resolver questões contextualizadas da.',
     date: '2026-06-14',
     readTime: 6,
     content: `
@@ -9058,7 +9136,7 @@ Trigonometria no ENEM aparece de forma consistente — 2 a 3 questões por prova
 
 > **TL;DR:** Trigonometria no ENEM 2026: seno, cosseno, tangente, lei dos senos e cossenos. O que estudar, tabela de valores e como resolver questões contextualizadas da banca INEP. [Pratique no ENEM Pro →](/questoes)
 
-## O que o ENEM Cobra de Trigonometria
+## O que o ENEM Cobra de Trigonometria?
 
 | Subtema | Frequência |
 |---------|-----------|
@@ -9068,7 +9146,7 @@ Trigonometria no ENEM aparece de forma consistente — 2 a 3 questões por prova
 | Lei dos cossenos | 0–1 questão |
 | Trigonometria no círculo trigonométrico | 0–1 questão |
 
-## Razões Trigonométricas: O Fundamental
+## Razões Trigonométricas: O Fundamental?
 
 Para qualquer ângulo θ em um triângulo retângulo:
 
@@ -9081,7 +9159,7 @@ Para qualquer ângulo θ em um triângulo retângulo:
 - **C**osseno = **A**djacente / **H**ipotenusa
 - **T**angente = **O**posto / **A**djacente
 
-## Tabela de Ângulos Notáveis: Decorar é Obrigatório
+## Tabela de Ângulos Notáveis: Decorar é Obrigatório?
 
 | Ângulo | Seno | Cosseno | Tangente |
 |--------|------|---------|---------|
@@ -9097,7 +9175,7 @@ Ou seja: 0, 1/2, √2/2, √3/2, 1 (para 0°, 30°, 45°, 60°, 90°)
 
 E para o cosseno é o inverso: 1, √3/2, √2/2, 1/2, 0.
 
-## Relação Fundamental: Nunca Esqueça
+## Relação Fundamental: Nunca Esqueça?
 
 **sen²θ + cos²θ = 1**
 
@@ -9107,7 +9185,7 @@ Derivadas:
 - tg θ = sen θ / cos θ
 - sec θ = 1/cos θ, cossec θ = 1/sen θ, cotg θ = cos θ/sen θ
 
-## Lei dos Senos: Triangulos Não-Retângulos
+## Lei dos Senos: Triangulos Não-Retângulos?
 
 Para qualquer triângulo com lados a, b, c e ângulos A, B, C opostos:
 
@@ -9119,7 +9197,7 @@ onde R é o raio da circunferência circunscrita.
 
 **Contextos ENEM:** cálculo de distâncias inacessíveis (largura de rio, altura de prédio), levantamentos topográficos, navegação.
 
-## Lei dos Cossenos: O Teorema de Pitágoras Generalizado
+## Lei dos Cossenos: O Teorema de Pitágoras Generalizado?
 
 Para triângulo com lados a, b, c e ângulo C entre os lados a e b:
 
@@ -9129,7 +9207,7 @@ Para triângulo com lados a, b, c e ângulo C entre os lados a e b:
 
 **Atenção:** Se C = 90°, cos 90° = 0 e a fórmula vira o Teorema de Pitágoras: c² = a² + b².
 
-## Trigonometria no Círculo Trigonométrico
+## Trigonometria no Círculo Trigonométrico?
 
 O círculo trigonométrico (raio = 1, centro na origem) permite definir sen e cos para qualquer ângulo:
 
@@ -9142,7 +9220,7 @@ O círculo trigonométrico (raio = 1, centro na origem) permite definir sen e co
 
 O ENEM raramente vai além desses conceitos básicos do círculo.
 
-## Como o ENEM Contextualiza Trigonometria
+## Como o ENEM Contextualiza Trigonometria?
 
 As questões nunca são "calcule sen 30°". Sempre há contexto:
 
@@ -9153,7 +9231,7 @@ As questões nunca são "calcule sen 30°". Sempre há contexto:
 
 **Técnica:** desenhe sempre o triângulo. Identifique qual ângulo e quais lados são conhecidos. Aplique a razão correta.
 
-## Erros Mais Comuns em Trigonometria
+## Erros Mais Comuns em Trigonometria?
 
 **Erro 1: Confundir cateto oposto com adjacente**
 Sempre identifique O ÂNGULO REFERÊNCIA. O cateto oposto é o que não toca esse ângulo. O adjacente é o que toca.
@@ -9164,7 +9242,7 @@ Pitágoras só funciona em triângulo **retângulo**. Para triângulos sem ângu
 **Erro 3: Não simplificar radicais**
 O ENEM frequentemente tem alternativas com √2 e √3 que precisam ser simplificadas. Pratique: √12 = 2√3, √8 = 2√2 etc.
 
-## Plano de Estudo: 3 Semanas
+## Plano de Estudo: 3 Semanas?
 
 **Semana 1:** Razões trigonométricas + tabela de ângulos notáveis
 - Memorize a tabela
@@ -9208,8 +9286,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -9223,7 +9302,7 @@ Fisioterapia é um dos cursos da área de saúde com notas de corte mais acessí
 
 > **TL;DR:** Nota de corte para Fisioterapia no SISU 2025. Veja as notas nas principais universidades federais, perspectivas de mercado e como planejar sua candidatura. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte Fisioterapia SISU 2025
+## Nota de Corte Fisioterapia SISU 2025?
 
 | Universidade | Turno | Nota de Corte Aprox. (AC) |
 |---|---|---|
@@ -9242,7 +9321,7 @@ Fisioterapia é um dos cursos da área de saúde com notas de corte mais acessí
 
 *Notas aproximadas. Consulte o site oficial do SISU para dados exatos do seu ciclo.*
 
-## Por que Fisioterapia Tem Nota Mais Alta que Outros Cursos de Saúde
+## Por que Fisioterapia Tem Nota Mais Alta que Outros Cursos de Saúde?
 
 Fisioterapia é um dos cursos de saúde com mais prestígio e demanda crescente, mas com menos vagas nas federais comparado a Enfermagem e Farmácia:
 
@@ -9250,7 +9329,7 @@ Fisioterapia é um dos cursos de saúde com mais prestígio e demanda crescente,
 - **Menor oferta de vagas nas federais** em relação à demanda
 - **Alta concorrência em São Paulo e Rio** (campi têm reputação nacional)
 
-## Campo de Trabalho em Fisioterapia
+## Campo de Trabalho em Fisioterapia?
 
 A Fisioterapia tem diversas áreas de especialização:
 
@@ -9268,7 +9347,7 @@ A Fisioterapia tem diversas áreas de especialização:
 
 Salário médio recém-formado: R$2.500–4.000. Com especialização e experiência: R$6.000–15.000+.
 
-## Fisioterapia no Particular: ProUni e Mensalidades
+## Fisioterapia no Particular: ProUni e Mensalidades?
 
 Para quem não passa no SISU, há boas opções no particular:
 
@@ -9276,7 +9355,7 @@ Para quem não passa no SISU, há boas opções no particular:
 
 **Mensalidades:** R$800–1.800/mês em boas faculdades particulares. Verifique o conceito do curso no e-MEC antes de escolher.
 
-## Como o ENEM Impacta o Acesso à Fisioterapia
+## Como o ENEM Impacta o Acesso à Fisioterapia?
 
 Fisioterapia nos federais não tem pesos muito diferentes por área — todas as notas ENEM contam de forma similar. Mas algumas universidades dão peso maior a:
 - Ciências da Natureza (Química, Física, Biologia)
@@ -9284,14 +9363,14 @@ Fisioterapia nos federais não tem pesos muito diferentes por área — todas as
 
 Verifique os pesos específicos de cada universidade no SISU antes de se inscrever.
 
-## Estratégia para Candidatos a Fisioterapia
+## Estratégia para Candidatos a Fisioterapia?
 
 1. **Mire em Ciências da Natureza:** Biologia é a disciplina mais relevante para o curso. Boa nota aqui ajuda na candidatura e na base para o curso.
 2. **Não negligencie a Redação:** 1000 pontos de redação fecham a diferença entre candidatos com notas parecidas
 3. **Considere campi do interior:** Mesma instituição, menor concorrência
 4. **Use as cotas se elegível:** Notas de corte pelo L1 ou L5 são 30–60 pontos menores
 
-## Fisioterapia vs. Outros Cursos de Saúde
+## Fisioterapia vs. Outros Cursos de Saúde?
 
 | Curso | Nota de Corte Média (top federais) | Duração | Salário inicial |
 |-------|-----------------------------------|---------|----------------|
@@ -9332,8 +9411,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -9347,7 +9427,7 @@ Ciências Econômicas é um dos cursos mais valorizados do mercado financeiro e 
 
 > **TL;DR:** Nota de corte para Ciências Econômicas no SISU 2025. Veja as notas nas principais federais, FGV e USP, e como planejar sua candidatura para o ENEM 2026. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte Economia SISU 2025
+## Nota de Corte Economia SISU 2025?
 
 | Universidade | Turno | Nota de Corte Aprox. (AC) |
 |---|---|---|
@@ -9369,7 +9449,7 @@ Ciências Econômicas é um dos cursos mais valorizados do mercado financeiro e 
 
 **FGV (particular, não participa do SISU):** É o curso de Economia mais concorrido do Brasil. Processo seletivo próprio altíssimo. Não usa nota do ENEM diretamente.
 
-## Campo de Trabalho em Economia
+## Campo de Trabalho em Economia?
 
 Economistas atuam em praticamente todos os setores:
 
@@ -9390,7 +9470,7 @@ Economistas atuam em praticamente todos os setores:
 
 Salário médio inicial: R$3.500–6.000. Economistas de destaque em bancos ou Banco Central: R$15.000–40.000+.
 
-## Economia vs. Administração vs. Contabilidade
+## Economia vs. Administração vs. Contabilidade?
 
 Candidatos frequentemente têm dúvida entre as três:
 
@@ -9402,7 +9482,7 @@ Candidatos frequentemente têm dúvida entre as três:
 | Mercado financeiro | Excelente | Bom | Bom |
 | Matemática no curso | Alta | Média | Média-alta |
 
-## Pesos no SISU para Economia
+## Pesos no SISU para Economia?
 
 Ciências Econômicas geralmente dá peso maior para:
 - **Matemática:** peso 2 ou 3 na maioria das instituições
@@ -9410,7 +9490,7 @@ Ciências Econômicas geralmente dá peso maior para:
 
 Candidatos com nota muito boa em Matemática têm vantagem considerável.
 
-## ProUni para Economia
+## ProUni para Economia?
 
 Economia no particular tem boas opções de bolsa ProUni:
 - Nota a partir de 500–550 para bolsa em faculdades privadas reconhecidas
@@ -9418,7 +9498,7 @@ Economia no particular tem boas opções de bolsa ProUni:
 
 Verifique o Conceito de Curso (CC) e o Conceito Preliminar de Curso (CPC) no e-MEC antes de escolher.
 
-## Estratégia para Candidatos a Economia
+## Estratégia para Candidatos a Economia?
 
 1. **Invista em Matemática:** É o maior diferencial entre candidatos para Economia
 2. **Ciências Humanas alta:** Economia conecta com História e Sociologia
@@ -9462,14 +9542,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'nota-de-corte-jornalismo-enem',
     title: 'Nota de Corte Jornalismo ENEM 2025 — SISU e Perspectivas de Carreira',
-    description: 'Nota de corte para Jornalismo no SISU 2025. Veja as notas nas federais, mercado de trabalho em 2026, diferença entre Jornalismo e Comunicação Social.',
+    description: 'Nota de corte para Jornalismo no SISU 2025. Veja as notas nas federais, mercado de trabalho em 2026, diferença entre Jornalismo e Comunicação Social. Grátis.',
     date: '2026-06-14',
     readTime: 5,
     content: `
@@ -9477,7 +9558,7 @@ Jornalismo é um dos cursos de Comunicação com mercado em transformação — 
 
 > **TL;DR:** Nota de corte para Jornalismo no SISU 2025. Veja as notas nas federais, mercado de trabalho em 2026, diferença entre Jornalismo e Comunicação Social. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte Jornalismo SISU 2025
+## Nota de Corte Jornalismo SISU 2025?
 
 | Universidade | Nota de Corte Aprox. (AC) |
 |---|---|
@@ -9496,7 +9577,7 @@ Jornalismo é um dos cursos de Comunicação com mercado em transformação — 
 
 *Algumas instituições oferecem Comunicação Social (com habilitação em Jornalismo), não o curso separado. Verifique no SISU.*
 
-## O Mercado de Jornalismo em 2026
+## O Mercado de Jornalismo em 2026?
 
 O mercado mudou muito desde 2015. O que está crescendo:
 
@@ -9518,7 +9599,7 @@ O mercado mudou muito desde 2015. O que está crescendo:
 
 Salário inicial: R$1.800–3.000 em redação. Assessoria de imprensa e comunicação corporativa: R$3.000–6.000+.
 
-## Jornalismo vs. Comunicação Social vs. Publicidade
+## Jornalismo vs. Comunicação Social vs. Publicidade?
 
 Candidatos costumam se perguntar qual curso escolher:
 
@@ -9529,7 +9610,7 @@ Candidatos costumam se perguntar qual curso escolher:
 | Publicidade e Propaganda | Média-Alta | Marketing, criação | Agências, marketing digital |
 | Rádio, TV e Internet | Média | Produção audiovisual | Streaming, redes sociais |
 
-## Diferencial para Jornalismo: Português e Redação
+## Diferencial para Jornalismo: Português e Redação?
 
 O ENEM tem peso diferente para Jornalismo em muitas universidades:
 - **Linguagens:** peso maior (comunicação exige domínio da língua)
@@ -9537,7 +9618,7 @@ O ENEM tem peso diferente para Jornalismo em muitas universidades:
 
 **Redação nota 900+** é especialmente importante para Jornalismo — é a prova direta da habilidade central da profissão.
 
-## Jornalismo no Particular: ProUni
+## Jornalismo no Particular: ProUni?
 
 Jornalismo tem boa disponibilidade de bolsas ProUni:
 - Notas a partir de 500–520 para bolsa integral em muitas faculdades
@@ -9545,7 +9626,7 @@ Jornalismo tem boa disponibilidade de bolsas ProUni:
 
 Verifique o histórico de aprovação no trabalho de conclusão de curso e se a faculdade oferece laboratórios bem equipados.
 
-## Habilidades Complementares para Jornalistas em 2026
+## Habilidades Complementares para Jornalistas em 2026?
 
 O mercado de comunicação valoriza profissionais com:
 - **Produção de vídeo e áudio** (edição básica em Premiere, Audacity)
@@ -9586,8 +9667,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
 ]
@@ -9604,13 +9686,13 @@ Filosofia é uma das disciplinas mais temidas do ENEM — mas também onde candi
 
 > **TL;DR:** Guia de Filosofia para o ENEM 2026. Os filósofos mais cobrados, temas frequentes em Ciências Humanas, como interpretar textos filosóficos e dicas de estudo. [Pratique no ENEM Pro →](/questoes)
 
-## O Peso de Filosofia em Ciências Humanas
+## O Peso de Filosofia em Ciências Humanas?
 
 Filosofia faz parte de Ciências Humanas (45 questões com História, Geografia e Sociologia). Filosofia representa em média **7–10 questões** por prova.
 
 O ENEM cobra Filosofia de forma integrada com as outras disciplinas de Humanas. Dificilmente uma questão é "puramente filosófica" — ela sempre conecta com um contexto histórico, social ou político.
 
-## Filósofos Mais Cobrados no ENEM
+## Filósofos Mais Cobrados no ENEM?
 
 Você não precisa conhecer toda a história da filosofia. O ENEM tem padrão claro:
 
@@ -9637,7 +9719,7 @@ Você não precisa conhecer toda a história da filosofia. O ENEM tem padrão cl
 - **Hannah Arendt:** totalitarismo, banalidade do mal, espaço público
 - **Jean-Paul Sartre:** existencialismo, liberdade, responsabilidade
 
-## Temas Filosóficos Mais Recorrentes no ENEM
+## Temas Filosóficos Mais Recorrentes no ENEM?
 
 | Tema | Frequência | Filósofos associados |
 |------|-----------|---------------------|
@@ -9649,7 +9731,7 @@ Você não precisa conhecer toda a história da filosofia. O ENEM tem padrão cl
 | Totalitarismo | Média | Arendt |
 | Liberdade e Existência | Baixa | Sartre |
 
-## Como o ENEM Cobra Filosofia
+## Como o ENEM Cobra Filosofia?
 
 A banca nunca pede "quem é o autor desta teoria" de forma direta. Ela apresenta um trecho e pede:
 - Qual conceito filosófico está sendo expresso?
@@ -9658,7 +9740,7 @@ A banca nunca pede "quem é o autor desta teoria" de forma direta. Ela apresenta
 
 **Exemplo de questão típica:** Apresenta trecho sobre a origem das leis e pede qual filósofo iluminista seria o autor mais provável desta visão — Locke, Rousseau ou Hobbes.
 
-## Como Estudar Filosofia de Forma Eficiente
+## Como Estudar Filosofia de Forma Eficiente?
 
 **Abordagem errada:** Ler longos textos filosóficos de ponta a ponta.
 
@@ -9690,7 +9772,7 @@ A banca nunca pede "quem é o autor desta teoria" de forma direta. Ela apresenta
 - Biopolítica: o Estado regulando corpos e populações
 - Discurso: como o que dizemos define o que é "verdade"
 
-## Estratégia de Estudo: 6 Semanas
+## Estratégia de Estudo: 6 Semanas?
 
 **Semanas 1–2:** Contrato Social (Hobbes, Locke, Rousseau) — leia os resumos, compare as três visões, resolva 15 questões ENEM.
 
@@ -9698,7 +9780,7 @@ A banca nunca pede "quem é o autor desta teoria" de forma direta. Ela apresenta
 
 **Semanas 5–6:** Foucault, Arendt, Epistemologia + Revisão.
 
-## Dica de Ouro: A Linha do Tempo Filosófica
+## Dica de Ouro: A Linha do Tempo Filosófica?
 
 O ENEM frequentemente usa o contexto histórico para situar a Filosofia. Um macete: o que estava acontecendo na história quando o filósofo viveu?
 
@@ -9738,8 +9820,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -9753,13 +9836,13 @@ Sociologia no ENEM é sobre entender a sociedade — como funciona, como se orga
 
 > **TL;DR:** Guia completo de Sociologia para o ENEM 2026. Sociólogos clássicos, temas recorrentes em Ciências Humanas, como interpretar questões e estratégia de estudo. [Pratique no ENEM Pro →](/questoes)
 
-## Sociologia em Ciências Humanas
+## Sociologia em Ciências Humanas?
 
 Sociologia faz parte de Ciências Humanas (45 questões). Representa em média **7–10 questões** por prova.
 
 Como Filosofia, Sociologia raramente aparece em questões "puras" — ela se integra com História, Geografia e até Linguagens.
 
-## Os Grandes Sociólogos do ENEM
+## Os Grandes Sociólogos do ENEM?
 
 O ENEM tem favoritos claros em Sociologia:
 
@@ -9799,7 +9882,7 @@ O ENEM tem favoritos claros em Sociologia:
 - Campo: espaços de disputa social (campo científico, artístico, etc.)
 - Violência simbólica: dominação sutil e legitimada
 
-## Temas de Sociologia Mais Cobrados
+## Temas de Sociologia Mais Cobrados?
 
 | Tema | Frequência |
 |------|-----------|
@@ -9812,7 +9895,7 @@ O ENEM tem favoritos claros em Sociologia:
 | Família e gênero | Média |
 | Educação e reprodução social | Média |
 
-## Desigualdade e Exclusão Social: O Tema Central
+## Desigualdade e Exclusão Social: O Tema Central?
 
 O ENEM ama questões sobre desigualdade no Brasil:
 
@@ -9824,7 +9907,7 @@ O ENEM ama questões sobre desigualdade no Brasil:
 
 **Conceito-chave:** Estratificação social — como a sociedade é dividida em camadas (classes, castas, estamentos).
 
-## Movimentos Sociais: Frequente e Contemporâneo
+## Movimentos Sociais: Frequente e Contemporâneo?
 
 O ENEM gosta de movimentos sociais como forma de entender mudança:
 
@@ -9836,14 +9919,14 @@ O ENEM gosta de movimentos sociais como forma de entender mudança:
 
 **Sociologia dos movimentos:** Por que as pessoas se organizam coletivamente? Quando movimentos são bem-sucedidos?
 
-## Indústria Cultural e Mídia
+## Indústria Cultural e Mídia?
 
 Conceito da Escola de Frankfurt — Adorno e Horkheimer:
 - Indústria cultural: cultura produzida em série para consumo de massa
 - Padronização que embota o pensamento crítico
 - O ENEM usa esse conceito para questionar publicidade, entretenimento e redes sociais
 
-## Estratégia de Estudo para Sociologia: 6 Semanas
+## Estratégia de Estudo para Sociologia: 6 Semanas?
 
 **Semanas 1–2:** Os três clássicos (Durkheim, Marx, Weber)
 Entenda o contexto histórico de cada um. Compare as três abordagens: como cada um explica a sociedade?
@@ -9854,7 +9937,7 @@ Desigualdade, racismo, classes sociais no contexto do Brasil.
 **Semanas 5–6:** Temas contemporâneos + revisão
 Movimentos sociais, gênero, mídia, globalização. Resolva 30 questões ENEM.
 
-## Como o ENEM Integra Sociologia com Outras Disciplinas
+## Como o ENEM Integra Sociologia com Outras Disciplinas?
 
 - **Sociologia + História:** Escravidão e seus impactos (Florestan Fernandes, abolição)
 - **Sociologia + Geografia:** Urbanização, segregação espacial, questão agrária
@@ -9863,7 +9946,7 @@ Movimentos sociais, gênero, mídia, globalização. Resolva 30 questões ENEM.
 
 Candidatos que veem essas conexões têm vantagem enorme em Ciências Humanas.
 
-## Dica: A Perspectiva Sociológica
+## Dica: A Perspectiva Sociológica?
 
 A Sociologia não "dá respostas" — oferece ferramentas para analisar a sociedade. No ENEM, a resposta certa frequentemente é a que demonstra **pensamento sociológico**: ver o problema social em seu contexto estrutural, não como falha individual.
 
@@ -9900,8 +9983,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -9915,7 +9999,7 @@ Progressões Aritmética (PA) e Geométrica (PG) são temas frequentes em Matem�
 
 > **TL;DR:** PA e PG no ENEM 2026: fórmulas do termo geral e soma, quando usar cada progressão, como resolver questões contextualizadas da banca INEP e dicas de estudo. [Pratique no ENEM Pro →](/questoes)
 
-## Progressão Aritmética (PA)
+## Progressão Aritmética (PA)?
 
 **Definição:** Sequência onde a diferença entre termos consecutivos é constante.
 Essa diferença constante é chamada de **razão (r)**.
@@ -9952,7 +10036,7 @@ ou equivalentemente: Sₙ = n · (2a₁ + (n–1)r) / 2
 a₁ = 15, r = 3, n = 12
 a₁₂ = 15 + (12–1) × 3 = 15 + 33 = **48 funcionários**
 
-## Progressão Geométrica (PG)
+## Progressão Geométrica (PG)?
 
 **Definição:** Sequência onde o quociente entre termos consecutivos é constante.
 Esse quociente é chamado de **razão (q)**.
@@ -9984,7 +10068,7 @@ S∞ = a₁ / (1 – q)
 a₁ = 1, q = 2, n = 9 (8 horas = 9 termos a partir do 1)
 a₉ = 1 × 2^(9–1) = 2⁸ = **256 bactérias**
 
-## PA vs. PG: Como Distinguir
+## PA vs. PG: Como Distinguir?
 
 | Característica | PA | PG |
 |---------------|----|----|
@@ -9995,7 +10079,7 @@ a₉ = 1 × 2^(9–1) = 2⁸ = **256 bactérias**
 
 **Regra prática:** Se o problema envolve acréscimo/decréscimo em valor fixo → PA. Se envolve porcentagem ou multiplicação → PG.
 
-## Progressões Especiais que Aparecem no ENEM
+## Progressões Especiais que Aparecem no ENEM?
 
 ### Propriedades da PA
 - Três termos em PA: a, b, c → b = (a + c) / 2 (média aritmética)
@@ -10004,7 +10088,7 @@ a₉ = 1 × 2^(9–1) = 2⁸ = **256 bactérias**
 ### Propriedades da PG
 - Três termos em PG: a, b, c → b² = a × c (média geométrica)
 
-## Contextos Frequentes no ENEM
+## Contextos Frequentes no ENEM?
 
 **Juros compostos (sempre PG):**
 M = C × (1 + i)ⁿ
@@ -10019,7 +10103,7 @@ Soma = n × parcela
 **Escadas e fileiras (pode ser PA):**
 Número de objetos em cada degrau seguindo um padrão de acréscimo fixo.
 
-## Dicas para Questões de Progressão no ENEM
+## Dicas para Questões de Progressão no ENEM?
 
 **Dica 1: Escreva os primeiros termos**
 Quando em dúvida se é PA ou PG, escreva 3–4 termos e observe o padrão. Isso raramente falha.
@@ -10033,7 +10117,7 @@ Sₙ = n × (a₁ + aₙ)/2 é a fórmula mais rápida quando você já sabe a�
 **Dica 4: PG com juros compostos**
 Juros compostos no ENEM sempre são PG. Memorize: M = C(1+i)ⁿ e saberá resolver 95% das questões de juros.
 
-## Plano de Estudo: 2 Semanas
+## Plano de Estudo: 2 Semanas?
 
 **Semana 1 — PA:**
 - Decore as fórmulas (termo geral + soma)
@@ -10076,8 +10160,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -10091,7 +10176,7 @@ A redação é a parte do ENEM que mais angustia candidatos. Mas com análise do
 
 > **TL;DR:** Quais são os temas prováveis da redação do ENEM 2026? Análise dos padrões históricos, temas em alta em 2025-2026 e como se preparar para qualquer assunto. [Pratique no ENEM Pro →](/questoes)
 
-## Como o ENEM Escolhe os Temas
+## Como o ENEM Escolhe os Temas?
 
 O INEP não divulga os temas com antecedência, mas há padrões claros nos últimos 15 anos:
 
@@ -10115,7 +10200,7 @@ Quase sempre há uma lei relevante: Lei Maria da Penha, Lei 10.639, Estatuto do 
 **Padrão 4: Temas inéditos**
 O ENEM raramente repete temas idênticos. Se o tema foi "violência contra a mulher" (2015), não será o mesmo em 2026 — mas pode ser um tema relacionado.
 
-## Temas com Alta Probabilidade para 2026
+## Temas com Alta Probabilidade para 2026?
 
 Com base nos padrões e nas discussões mais relevantes no Brasil em 2025-2026:
 
@@ -10154,7 +10239,7 @@ Com base nos padrões e nas discussões mais relevantes no Brasil em 2025-2026:
 - Desigualdade educacional entre regiões
 - Educação quilombola e indígena
 
-## Como se Preparar Para Qualquer Tema
+## Como se Preparar Para Qualquer Tema?
 
 Não é possível prever o tema com certeza. Mas é possível se preparar para qualquer tema:
 
@@ -10188,7 +10273,7 @@ Estude 6–8 temas em profundidade:
 
 Está presente: agente (governo federal/MEC) + ação (ampliar o Bolsa Família) + modo (condicionar a frequência) + finalidade (reduzir abandono por necessidade econômica).
 
-## A Redação Vale 1000 Pontos — Não Subestime
+## A Redação Vale 1000 Pontos — Não Subestime?
 
 A redação representa 1/5 da nota total do ENEM. Candidatos que investem tempo nela têm vantagem desproporcionalmente grande.
 
@@ -10201,7 +10286,7 @@ A redação representa 1/5 da nota total do ENEM. Candidatos que investem tempo 
 **[Ver temas da Redação ENEM 2009–2024 com análise completa](/temas-redacao)**
 
 
-## As 5 Competências da Redação ENEM (INEP)
+## As 5 Competências da Redação ENEM (INEP)?
 
 | Competência | O que avalia | Pontuação máxima |
 |-------------|-------------|-----------------|
@@ -10241,14 +10326,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'enem-2026-dia-da-prova',
     title: 'ENEM 2026: Data, Horário e O que Levar no Dia da Prova',
-    description: 'Data do ENEM 2026, horário de abertura dos portões e encerramento, o que levar e não levar, dicas para o dia da prova e como chegar preparado.',
+    description: 'Data do ENEM 2026, horário de abertura dos portões e encerramento, o que levar e não levar, dicas para o dia da prova e como chegar preparado. Acesse grátis.',
     date: '2026-06-14',
     readTime: 5,
     content: `
@@ -10256,7 +10342,7 @@ O dia da prova do ENEM concentra meses de preparação em dois domingos. Saber e
 
 > **TL;DR:** Data do ENEM 2026, horário de abertura dos portões e encerramento, o que levar e não levar, dicas para o dia da prova e como chegar preparado. [Pratique no ENEM Pro →](/questoes)
 
-## Datas do ENEM 2026
+## Datas do ENEM 2026?
 
 O ENEM 2026 ainda não teve as datas oficialmente confirmadas pelo INEP. Com base no histórico, espera-se:
 
@@ -10273,7 +10359,7 @@ O ENEM 2026 ainda não teve as datas oficialmente confirmadas pelo INEP. Com bas
 
 *Consulte o INEP (gov.br/inep) para as datas oficiais quando publicadas.*
 
-## Horários do ENEM
+## Horários do ENEM?
 
 | Evento | Horário |
 |--------|---------|
@@ -10286,7 +10372,7 @@ O ENEM 2026 ainda não teve as datas oficialmente confirmadas pelo INEP. Com bas
 
 **Atenção:** Portões fecham às 13h. Chegue até as 12h30 para evitar stress.
 
-## O que Levar no Dia da Prova
+## O que Levar no Dia da Prova?
 
 **Obrigatório:**
 - Documento de identificação com foto (RG, CNH, passaporte ou certidão de nascimento com foto)
@@ -10299,7 +10385,7 @@ O ENEM 2026 ainda não teve as datas oficialmente confirmadas pelo INEP. Com bas
 - Agasalho (locais de prova com ar-condicionado costumam ser frios)
 - Relógio analógico (celular não pode ser usado para ver horas)
 
-## O que NÃO Levar / Proibido
+## O que NÃO Levar / Proibido?
 
 - Celular ligado (deve ir desligado e lacrado em envelope)
 - Fone de ouvido
@@ -10311,7 +10397,7 @@ O ENEM 2026 ainda não teve as datas oficialmente confirmadas pelo INEP. Com bas
 
 **Celular:** O celular deve ir para um envelope lacrado fornecido no local. Ele fica com você, mas desligado. Se tocar, você é eliminado.
 
-## A Noite Antes da Prova
+## A Noite Antes da Prova?
 
 **O que fazer:**
 - Separar todos os materiais (documentos, caneta, lanche)
@@ -10326,7 +10412,7 @@ O ENEM 2026 ainda não teve as datas oficialmente confirmadas pelo INEP. Com bas
 
 Uma revisão leve de 1–2 horas de pontos que você domina bem é suficiente.
 
-## Estratégia de Prova no Dia
+## Estratégia de Prova no Dia?
 
 ### 1º Dia: Linguagens + Humanas + Redação
 
@@ -10347,7 +10433,7 @@ Ordem sugerida:
 - Questões deixadas em branco valem 0. Chutar tem valor esperado positivo (1 em 5 chances).
 - Volte às questões difíceis no tempo restante.
 
-## No Final da Prova: A Transferência Para o Gabarito
+## No Final da Prova: A Transferência Para o Gabarito?
 
 Reserve os **últimos 30 minutos** para transferir respostas ao cartão-resposta (gabarito) com calma. Erros de transferência anulam uma prova inteira.
 
@@ -10356,7 +10442,7 @@ Confira:
 - Gabarito preenchido a caneta preta
 - Sem rasura no gabarito (pode anular a questão)
 
-## Após a Prova
+## Após a Prova?
 
 O gabarito oficial do ENEM 2026 será divulgado pelo INEP dias após a prova (geralmente 1–2 semanas). O resultado final (com notas TRI) sai aproximadamente em janeiro do ano seguinte.
 
@@ -10392,14 +10478,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'nota-de-corte-servico-social-enem',
     title: 'Nota de Corte Serviço Social ENEM 2025 — SISU e Universidades',
-    description: 'Nota de corte para Serviço Social no SISU 2025. As notas nas principais federais, campo de trabalho e como planejar a candidatura para 2026.',
+    description: 'Nota de corte para Serviço Social no SISU 2025. As notas nas principais federais, campo de trabalho e como planejar a candidatura para 2026. Acesse grátis.',
     date: '2026-06-14',
     readTime: 4,
     content: `
@@ -10407,7 +10494,7 @@ Serviço Social é um dos cursos de Ciências Sociais Aplicadas com notas de cor
 
 > **TL;DR:** Nota de corte para Serviço Social no SISU 2025. As notas nas principais federais, campo de trabalho e como planejar a candidatura para 2026. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte Serviço Social SISU 2025
+## Nota de Corte Serviço Social SISU 2025?
 
 | Universidade | Turno | Nota de Corte Aprox. (AC) |
 |---|---|---|
@@ -10425,7 +10512,7 @@ Serviço Social é um dos cursos de Ciências Sociais Aplicadas com notas de cor
 
 *Notas aproximadas. Consulte o SISU oficial para valores exatos.*
 
-## Campo de Trabalho em Serviço Social
+## Campo de Trabalho em Serviço Social?
 
 Assistentes sociais atuam em:
 
@@ -10445,18 +10532,18 @@ O CRESS (Conselho Regional de Serviço Social) regulamenta a profissão — o di
 
 Salário inicial: R$2.200–3.500. Concursos públicos (especialmente federais) chegam a R$4.500–7.000+.
 
-## Perspectivas da Carreira
+## Perspectivas da Carreira?
 
 Assistentes sociais são profissionais essenciais para o Estado brasileiro:
 - A demanda por CRAS, CREAS e serviços sociais cresce com o aumento da população vulnerável
 - Reforma da Previdência e envelhecimento da população ampliam a demanda na saúde
 - O piso salarial nacional da categoria foi regulamentado por lei (embora ainda em disputa judicial)
 
-## Notas de Corte com Cotas
+## Notas de Corte com Cotas?
 
 Com cotas (L1 — escola pública + baixa renda), as notas de corte caem significativamente — em algumas universidades do interior, é possível ingressar com nota entre 400–440.
 
-## ProUni para Serviço Social
+## ProUni para Serviço Social?
 
 Serviço Social tem ampla disponibilidade de bolsas ProUni no particular, com notas a partir de 400–450 pontos para bolsa integral.
 
@@ -10491,8 +10578,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -10506,7 +10594,7 @@ Educação Física tem dois caminhos distintos no SISU: licenciatura (escola) e 
 
 > **TL;DR:** Nota de corte para Educação Física no SISU 2025. Veja as notas nas federais, diferença entre licenciatura e bacharelado, e as perspectivas de carreira. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte Educação Física SISU 2025
+## Nota de Corte Educação Física SISU 2025?
 
 | Universidade | Habilitação | Nota de Corte Aprox. (AC) |
 |---|---|---|
@@ -10524,7 +10612,7 @@ Educação Física tem dois caminhos distintos no SISU: licenciatura (escola) e 
 
 *Notas aproximadas. Consulte o SISU oficial para dados exatos.*
 
-## Licenciatura vs. Bacharelado: A Diferença Fundamental
+## Licenciatura vs. Bacharelado: A Diferença Fundamental?
 
 | Aspecto | Licenciatura | Bacharelado |
 |---------|-------------|------------|
@@ -10536,7 +10624,7 @@ Educação Física tem dois caminhos distintos no SISU: licenciatura (escola) e 
 
 **Atenção:** O CONFEF (Conselho Federal de Educação Física) regulamenta ambas. Sem registro no CREF, não é possível exercer legalmente.
 
-## Campo de Trabalho em Educação Física
+## Campo de Trabalho em Educação Física?
 
 **Licenciado:**
 - Professor de Educação Física em escolas públicas e privadas
@@ -10550,7 +10638,7 @@ Educação Física tem dois caminhos distintos no SISU: licenciatura (escola) e 
 - Preparação física para concursos militares e policiais
 - Saúde do trabalhador em empresas (SESI, SESC)
 
-## Crescimento da Área
+## Crescimento da Área?
 
 O mercado de Educação Física cresceu muito nos últimos anos:
 - Explosão das academias e modalidades fitness
@@ -10559,7 +10647,7 @@ O mercado de Educação Física cresceu muito nos últimos anos:
 - Telemedicina e personal online (acelerado pós-pandemia)
 - Cuidado com atletas amadores: corridas de rua, ciclismo
 
-## Estratégia para Candidatos a Educação Física
+## Estratégia para Candidatos a Educação Física?
 
 - As provas ENEM não têm ênfase específica para Educação Física — foco na nota geral
 - Ciências da Natureza (especialmente Biologia) é relevante para o conteúdo do curso
@@ -10596,8 +10684,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
 ]
@@ -10614,7 +10703,7 @@ Inglês no ENEM não exige fluência — exige estratégia. A banca cobra leitur
 
 > **TL;DR:** Guia completo de Inglês para o ENEM 2026. O que a banca cobra, tipos de texto em inglês, vocabulário essencial e como resolver questões sem ser fluente. [Pratique no ENEM Pro →](/questoes)
 
-## Inglês no ENEM: O Que Realmente Cai
+## Inglês no ENEM: O Que Realmente Cai?
 
 Inglês faz parte de Linguagens, Códigos e suas Tecnologias. São **4–6 questões de língua estrangeira** por prova (o candidato pode escolher entre Inglês e Espanhol).
 
@@ -10629,7 +10718,7 @@ O ENEM **cobra:**
 - Inferência de significado por contexto
 - Interpretação de textos multimodais (anúncios, instruções, infográficos)
 
-## Tipos de Texto que Aparecem em Inglês
+## Tipos de Texto que Aparecem em Inglês?
 
 O ENEM usa textos autênticos, geralmente curtos:
 
@@ -10641,7 +10730,7 @@ O ENEM usa textos autênticos, geralmente curtos:
 - **Embalagens e rótulos** — ingredientes, instruções, advertências
 - **Tirinhas em inglês** — humor, ironia, crítica social
 
-## Como Resolver Questões Sem Ser Fluente
+## Como Resolver Questões Sem Ser Fluente?
 
 A maioria dos candidatos lê menos de 30% do vocabulário de um texto em inglês. Mesmo assim, é possível acertar a maioria das questões:
 
@@ -10679,7 +10768,7 @@ Palavras que parecem cognatos mas não são:
 
 Se uma alternativa contradiz claramente o texto ou traz informação inexistente → elimine. Mesmo sem entender tudo, dá para eliminar 2–3 alternativas absurdas.
 
-## Vocabulário Essencial Para o ENEM
+## Vocabulário Essencial Para o ENEM?
 
 Grupos temáticos que mais aparecem:
 
@@ -10712,7 +10801,7 @@ O candidato escolhe uma língua estrangeira na hora da prova. Algumas considera�
 
 **Recomendação:** Pratique com as duas línguas nas provas antigas. Escolha na hora com base no texto que parecer mais acessível.
 
-## Estratégia de Estudo: 4 Semanas
+## Estratégia de Estudo: 4 Semanas?
 
 **Semana 1 — Vocabulário temático**
 Aprenda os 5 grupos temáticos acima. 20–30 palavras por grupo.
@@ -10726,7 +10815,7 @@ Resolva questões ENEM de Inglês de 2015 a 2024. Analise: o que cada questão p
 **Semana 4 — Revisão e estratégia**
 Pratique a estratégia completa: pergunta primeiro, contexto, cognatos, eliminação.
 
-## Dica Extra: A Função da Música
+## Dica Extra: A Função da Música?
 
 O ENEM frequentemente usa letras de música em inglês. Benefício: músicas têm contexto emocional e cultural que facilita a interpretação mesmo sem conhecer todas as palavras.
 
@@ -10762,14 +10851,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'logaritmos-matematica-enem',
     title: 'Logaritmos no ENEM: Propriedades, Fórmulas e Como Resolver 2026',
-    description: 'Logaritmos no ENEM 2026: definição, propriedades fundamentais, equações logarítmicas e como resolver questões contextualizadas da banca INEP.',
+    description: 'Logaritmos no ENEM 2026: definição, propriedades fundamentais, equações logarítmicas e como resolver questões contextualizadas da banca INEP. Acesse grátis.',
     date: '2026-06-14',
     readTime: 6,
     content: `
@@ -10792,7 +10882,7 @@ Exemplos:
 - b > 0 (logaritmando positivo)
 - a > 0 e a ≠ 1 (base positiva e diferente de 1)
 
-## Logaritmos Especiais
+## Logaritmos Especiais?
 
 **Logaritmo decimal (log):**
 log(x) = log₁₀(x) — quando não tem base escrita, é base 10
@@ -10810,7 +10900,7 @@ O ENEM usa principalmente log decimal.
 - log(2) ≈ 0,301 (fornecido pelo ENEM quando necessário)
 - log(3) ≈ 0,477 (fornecido pelo ENEM quando necessário)
 
-## As 4 Propriedades Fundamentais
+## As 4 Propriedades Fundamentais?
 
 **1. Produto:**
 log_a(M × N) = log_a(M) + log_a(N)
@@ -10832,7 +10922,7 @@ log_a(b) = log_c(b) / log_c(a)
 
 Mais usada para converter para base 10: log_a(b) = log(b) / log(a)
 
-## Equações Logarítmicas
+## Equações Logarítmicas?
 
 **Tipo 1: Equação direta**
 log₂(x) = 4 → x = 2⁴ = 16
@@ -10851,14 +10941,14 @@ x = 4
 
 **Atenção:** Sempre verificar as condições de existência no final!
 
-## Inequações Logarítmicas
+## Inequações Logarítmicas?
 
 Diferente das equações, nas inequações a **base importa para o sentido da desigualdade**:
 
 - Se a **> 1**: log_a(x) > k → x > aᵏ (sentido mantido)
 - Se 0 < a **< 1**: log_a(x) > k → x < aᵏ (sentido invertido)
 
-## Como o ENEM Aplica Logaritmos
+## Como o ENEM Aplica Logaritmos?
 
 O ENEM sempre contextualiza. Os contextos mais frequentes:
 
@@ -10885,7 +10975,7 @@ N(t) = N₀ × aᵗ
 Quando a incógnita está no expoente, o logaritmo entra para resolver:
 2ᵗ = 64 → t × log(2) = log(64) → t = log(64)/log(2) = 6
 
-## Estratégia de Estudo: 2 Semanas
+## Estratégia de Estudo: 2 Semanas?
 
 **Semana 1:**
 - Definição e conversão logaritmo ↔ exponencial
@@ -10900,7 +10990,7 @@ Quando a incógnita está no expoente, o logaritmo entra para resolver:
 **[Praticar questões de Matemática do ENEM](/auth/register)**
 
 
-## Tópicos Mais Cobrados (ENEM — INEP)
+## Tópicos Mais Cobrados (ENEM — INEP)?
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
@@ -10940,8 +11030,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -10955,7 +11046,7 @@ Probabilidade e Combinatória costumam aparecer juntas em 2–3 questões por pr
 
 > **TL;DR:** Probabilidade e análise combinatória no ENEM 2026: princípio de contagem, permutações, combinações, cálculo de probabilidade e como resolver questões da banca. [Pratique no ENEM Pro →](/questoes)
 
-## Análise Combinatória: Contando Possibilidades
+## Análise Combinatória: Contando Possibilidades?
 
 ### Princípio Fundamental da Contagem (PFC)
 
@@ -11010,7 +11101,7 @@ A(n,k) = n! / (n–k)!
 
 Exemplo: pódio (1º, 2º, 3º) de 10 atletas = A(10,3) = 10!/7! = 720
 
-## Probabilidade: Medir o Acaso
+## Probabilidade: Medir o Acaso?
 
 ### Probabilidade Clássica
 
@@ -11065,7 +11156,7 @@ P(B|A) = P(A e B) / P(A)
 Exemplo: urna com 3 bolas vermelhas e 2 azuis. Tirando duas sem reposição:
 P(2ª vermelha | 1ª vermelha) = 2/4 = 1/2
 
-## Como o ENEM Contextualiza
+## Como o ENEM Contextualiza?
 
 Questões de probabilidade do ENEM sempre têm contexto:
 - **Genética:** probabilidade de filho herdar doença recessiva
@@ -11074,7 +11165,7 @@ Questões de probabilidade do ENEM sempre têm contexto:
 - **Diagnóstico médico:** sensibilidade e especificidade de testes
 - **Criptografia e senhas:** quantas possibilidades existem
 
-## Erros Mais Comuns
+## Erros Mais Comuns?
 
 **Erro 1: Confundir com e sem reposição**
 Sem reposição: o denominador diminui a cada extração. Com reposição: permanece igual.
@@ -11085,7 +11176,7 @@ Sem reposição: o denominador diminui a cada extração. Com reposição: perma
 **Erro 3: Usar Combinação quando é Permutação**
 Pergunta com "ordenar", "fila", "primeiro/segundo/terceiro" → Permutação.
 
-## Plano de Estudo: 3 Semanas
+## Plano de Estudo: 3 Semanas?
 
 **Semana 1 — PFC + Permutação**
 Resolva 20 questões só de contagem básica. Foco no PFC — resolve 70% sem fórmulas avançadas.
@@ -11099,7 +11190,7 @@ Probabilidade simples, complementar, independente. Resolva 20 questões ENEM de 
 **[Praticar Matemática com questões reais do ENEM](/auth/register)**
 
 
-## Distribuição por Área de Conhecimento (ENEM — INEP)
+## Distribuição por Área de Conhecimento (ENEM — INEP)?
 
 | Área | Questões | Dias de prova |
 |------|----------|--------------|
@@ -11138,14 +11229,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'matrizes-determinantes-enem',
     title: 'Matrizes e Determinantes no ENEM: O que Cai e Como Resolver 2026',
-    description: 'Matrizes e determinantes no ENEM 2026: operações, tipos de matriz, cálculo de determinante e sistemas lineares. O que a banca INEP realmente cobra.',
+    description: 'Matrizes e determinantes no ENEM 2026: operações, tipos de matriz, cálculo de determinante e sistemas lineares. O que a banca INEP realmente cobra. Grátis.',
     date: '2026-06-14',
     readTime: 5,
     content: `
@@ -11153,7 +11245,7 @@ Matrizes e determinantes aparecem com frequência variável no ENEM — às veze
 
 > **TL;DR:** Matrizes e determinantes no ENEM 2026: operações, tipos de matriz, cálculo de determinante e sistemas lineares. O que a banca INEP realmente cobra. [Pratique no ENEM Pro →](/questoes)
 
-## Matrizes: O Básico que o ENEM Cobra
+## Matrizes: O Básico que o ENEM Cobra?
 
 Uma matriz é uma tabela organizada em linhas e colunas. Uma matriz m×n tem m linhas e n colunas.
 
@@ -11189,7 +11281,7 @@ Duas matrizes são iguais se têm o mesmo tipo E todos os elementos corresponden
 A transposta (Aᵀ) troca linhas por colunas:
 Se A = [aᵢⱼ], então Aᵀ = [aⱼᵢ]
 
-## Determinantes: Quando e Como Calcular
+## Determinantes: Quando e Como Calcular?
 
 ### Determinante 2×2
 
@@ -11215,7 +11307,7 @@ det(A) = aei + bfg + cdh – ceg – afh – bdi
 2. Some as diagonais "para baixo" (↘)
 3. Subtraia as diagonais "para cima" (↗)
 
-## Sistemas Lineares: Aplicação Prática
+## Sistemas Lineares: Aplicação Prática?
 
 O ENEM cobra matrizes principalmente no contexto de sistemas lineares. A Regra de Cramer usa determinantes:
 
@@ -11232,7 +11324,7 @@ Solução: x = Dₓ/D, y = D_y/D (se D ≠ 0)
 
 **Se D = 0:** sistema incompatível (sem solução) ou indeterminado (infinitas soluções).
 
-## Como o ENEM Cobra Matrizes
+## Como o ENEM Cobra Matrizes?
 
 O ENEM raramente pede cálculo puro de determinante. Os contextos reais:
 
@@ -11242,7 +11334,7 @@ O ENEM raramente pede cálculo puro de determinante. Os contextos reais:
 - **Criptografia:** conceito de codificação com multiplicação matricial
 - **Equação de reta por determinante**
 
-## Equação de Reta pelo Determinante
+## Equação de Reta pelo Determinante?
 
 Uma das aplicações mais cobradas no ENEM:
 
@@ -11254,7 +11346,7 @@ Três pontos A(x₁,y₁), B(x₂,y₂), C(x,y) são colineares se:
 
 Para encontrar a equação da reta por dois pontos, expanda esse determinante igualado a zero.
 
-## O que Priorizar
+## O que Priorizar?
 
 Para o ENEM, foque nesta ordem:
 1. **Multiplicação de matrizes** — frequente em contextos práticos
@@ -11267,7 +11359,7 @@ Tipos de matriz e operações básicas são cobradas de forma contextualizada �
 **[Praticar questões de Matemática do ENEM — 10 por dia grátis](/auth/register)**
 
 
-## Distribuição por Área de Conhecimento (ENEM — INEP)
+## Distribuição por Área de Conhecimento (ENEM — INEP)?
 
 | Área | Questões | Dias de prova |
 |------|----------|--------------|
@@ -11306,14 +11398,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'nota-de-corte-letras-enem',
     title: 'Nota de Corte Letras ENEM 2025 — SISU, Universidades e Mercado',
-    description: 'Nota de corte para Letras no SISU 2025. Veja as notas nas principais universidades federais, diferença entre Letras Português e Letras Inglês, e perspectivas de carreira.',
+    description: 'Nota de corte para Letras no SISU 2025. Veja as notas nas principais universidades federais, diferença entre Letras Português e Letras Inglês, e perspectivas.',
     date: '2026-06-14',
     readTime: 5,
     content: `
@@ -11321,7 +11414,7 @@ Letras é um dos cursos com maior oferta de vagas no SISU e notas de corte varia
 
 > **TL;DR:** Nota de corte para Letras no SISU 2025. Veja as notas nas principais universidades federais, diferença entre Letras Português e Letras Inglês, e perspectivas de carreira. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte Letras (Português) SISU 2025
+## Nota de Corte Letras (Português) SISU 2025?
 
 | Universidade | Turno | Nota de Corte Aprox. (AC) |
 |---|---|---|
@@ -11344,7 +11437,7 @@ Letras é um dos cursos com maior oferta de vagas no SISU e notas de corte varia
 
 **Letras dupla habilitação (Port/Inglês ou Port/Espanhol):** Disponível em muitas federais, notas intermediárias.
 
-## Habilitações em Letras
+## Habilitações em Letras?
 
 A maioria das universidades oferece:
 - **Licenciatura em Letras — Português:** professor de língua materna
@@ -11353,7 +11446,7 @@ A maioria das universidades oferece:
 - **Licenciatura em Letras — Dupla habilitação:** Português + língua estrangeira
 - **Bacharelado em Letras/Linguística:** carreira acadêmica, tradução, pesquisa
 
-## Campo de Trabalho em Letras
+## Campo de Trabalho em Letras?
 
 **Licenciados (maioria dos formandos):**
 - Professor de Língua Portuguesa no Ensino Fundamental II e Médio
@@ -11369,7 +11462,7 @@ A maioria das universidades oferece:
 - Assessoria de comunicação
 - Linguística aplicada e pesquisa acadêmica
 
-## Letras vs. Pedagogia vs. Linguística
+## Letras vs. Pedagogia vs. Linguística?
 
 | Aspecto | Letras | Pedagogia | Linguística |
 |---------|--------|-----------|-------------|
@@ -11378,13 +11471,13 @@ A maioria das universidades oferece:
 | Nota de corte | Média | Baixa-Média | Baixa |
 | Mercado | Amplo (escola + editorial) | Amplo (escola + pedagogo) | Acadêmico |
 
-## ProUni para Letras
+## ProUni para Letras?
 
 Letras é um dos cursos com maior disponibilidade de bolsas ProUni no país:
 - Nota a partir de 450–480 para bolsa integral em muitas faculdades privadas
 - Faculdades com bom conceito: Mackenzie, PUC (várias), Metodista, Univali
 
-## Por que Letras Vale a Pena em 2026
+## Por que Letras Vale a Pena em 2026?
 
 A narrativa de que "Letras não tem mercado" está desatualizada:
 - Produção de conteúdo digital explodiu — e a habilidade de escrever bem é rara
@@ -11423,14 +11516,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'nota-de-corte-ciencias-biologicas-enem',
     title: 'Nota de Corte Ciências Biológicas ENEM 2025 — SISU e Carreira',
-    description: 'Nota de corte para Ciências Biológicas no SISU 2025. Veja as notas nas federais, diferença entre licenciatura e bacharelado, e as perspectivas do biólogo em 2026.',
+    description: 'Nota de corte para Ciências Biológicas no SISU 2025. Veja as notas nas federais, diferença entre licenciatura e bacharelado, e as perspectivas do biólogo em.',
     date: '2026-06-14',
     readTime: 4,
     content: `
@@ -11438,7 +11532,7 @@ Ciências Biológicas tem dois caminhos distintos: licenciatura (professor de Bi
 
 > **TL;DR:** Nota de corte para Ciências Biológicas no SISU 2025. Veja as notas nas federais, diferença entre licenciatura e bacharelado, e as perspectivas do biólogo em 2026. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte Ciências Biológicas SISU 2025
+## Nota de Corte Ciências Biológicas SISU 2025?
 
 | Universidade | Habilitação | Nota de Corte Aprox. (AC) |
 |---|---|---|
@@ -11457,7 +11551,7 @@ Ciências Biológicas tem dois caminhos distintos: licenciatura (professor de Bi
 
 *Bacharelado em geral tem nota maior que licenciatura. Notas aproximadas.*
 
-## Licenciatura vs. Bacharelado em Biologia
+## Licenciatura vs. Bacharelado em Biologia?
 
 | Aspecto | Licenciatura | Bacharelado |
 |---------|-------------|------------|
@@ -11467,7 +11561,7 @@ Ciências Biológicas tem dois caminhos distintos: licenciatura (professor de Bi
 | Pós-graduação | Especialização em ensino | Mestrado/Doutorado em ciências |
 | Mercado | Estável (escola) | Crescendo (meio ambiente, biotech) |
 
-## Campo de Trabalho do Biólogo
+## Campo de Trabalho do Biólogo?
 
 **Licenciado (professor de Biologia):**
 - Escolas públicas e privadas (Ensino Médio e Fundamental II)
@@ -11481,7 +11575,7 @@ Ciências Biológicas tem dois caminhos distintos: licenciatura (professor de Bi
 - **Pesquisa:** institutos, universidades, empresas de biotecnologia
 - **Conservação:** ONGs, parques nacionais, reservas biológicas
 
-## Perspectivas em 2026
+## Perspectivas em 2026?
 
 O mercado ambiental está em crescimento acelerado:
 - Legislação ambiental mais rígida aumenta demanda por biólogos em licenciamento
@@ -11491,7 +11585,7 @@ O mercado ambiental está em crescimento acelerado:
 
 **CFBio** regulamenta a profissão — o registro é necessário para exercer como biólogo.
 
-## Estratégia para Candidatos a Biologia
+## Estratégia para Candidatos a Biologia?
 
 - **Ciências da Natureza:** Biologia é obviamente a mais relevante. Boa nota aqui ajuda na média.
 - **Considere o bacharelado** se tiver interesse em pesquisa ou meio ambiente — mercado crescendo
@@ -11528,14 +11622,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'tecnicas-de-estudo-enem',
     title: 'Técnicas de Estudo para o ENEM: Métodos que Funcionam em 2026',
-    description: 'As melhores técnicas de estudo para o ENEM: repetição espaçada, active recall, Pomodoro, mapas mentais e como aplicá-las para maximizar a retenção antes da prova.',
+    description: 'As melhores técnicas de estudo para o ENEM: repetição espaçada, active recall, Pomodoro, mapas mentais e como aplicá-las para maximizar a retenção antes da.',
     date: '2026-06-14',
     readTime: 7,
     content: `
@@ -11543,7 +11638,7 @@ A maioria dos candidatos estuda do jeito errado. Não é falta de esforço — �
 
 > **TL;DR:** As melhores técnicas de estudo para o ENEM: repetição espaçada, active recall, Pomodoro, mapas mentais e como aplicá-las para maximizar a retenção antes da prova. [Pratique no ENEM Pro →](/questoes)
 
-## O Problema com "Ler e Reler"
+## O Problema com "Ler e Reler"?
 
 Reler o caderno ou o livro é uma das formas menos eficientes de estudar. Pesquisas em psicologia cognitiva mostram que:
 
@@ -11553,7 +11648,7 @@ Reler o caderno ou o livro é uma das formas menos eficientes de estudar. Pesqui
 
 As técnicas abaixo substituem isso por métodos comprovados.
 
-## 1. Active Recall (Recuperação Ativa)
+## 1. Active Recall (Recuperação Ativa)?
 
 **O que é:** Tentar lembrar a informação antes de ver a resposta.
 
@@ -11570,7 +11665,7 @@ As técnicas abaixo substituem isso por métodos comprovados.
 - Resolva questões do ENEM sobre o tema antes de "sentir que está pronto"
 - Use flashcards: pergunta de um lado, resposta do outro
 
-## 2. Repetição Espaçada (Spaced Repetition)
+## 2. Repetição Espaçada (Spaced Repetition)?
 
 **O que é:** Revisar o conteúdo em intervalos crescentes, no momento certo antes de esquecer.
 
@@ -11587,7 +11682,7 @@ As técnicas abaixo substituem isso por métodos comprovados.
 
 **Ferramenta digital:** Anki (gratuito) automatiza a repetição espaçada. Crie flashcards das fórmulas e conceitos do ENEM.
 
-## 3. Interleaving (Intercalação de Temas)
+## 3. Interleaving (Intercalação de Temas)?
 
 **O que é:** Estudar temas diferentes na mesma sessão em vez de focar em um só por dias.
 
@@ -11602,7 +11697,7 @@ As técnicas abaixo substituem isso por métodos comprovados.
 
 **Por que funciona:** O cérebro é forçado a "reativar" esquemas diferentes, criando conexões mais robustas. Praticar a alternância também simula a prova (que mistura temas).
 
-## 4. Técnica Pomodoro para Foco
+## 4. Técnica Pomodoro para Foco?
 
 **O protocolo:**
 1. Defina uma tarefa específica ("resolver 15 questões de Trigonometria")
@@ -11619,7 +11714,7 @@ As técnicas abaixo substituem isso por métodos comprovados.
 - Use 45 min + 10 min se as sessões curtas parecerem insuficientes para questões mais longas
 - Durante a pausa: levante, alongue, beba água — nada de celular
 
-## 5. Elaborative Interrogation (Interrogação Elaborativa)
+## 5. Elaborative Interrogation (Interrogação Elaborativa)?
 
 **O que é:** Ao estudar um fato, perguntar-se "por quê?" e "como?"
 
@@ -11631,7 +11726,7 @@ Pergunte: "Por que Vargas instaurou o Estado Novo? O que estava acontecendo que 
 
 **No ENEM:** A maioria das questões pede justamente esse "por quê" e "como" — não datas e nomes isolados.
 
-## 6. Leitura Ativa: Como Ler Textos de Forma Eficiente
+## 6. Leitura Ativa: Como Ler Textos de Forma Eficiente?
 
 Para textos densos (livros de história, artigos, capítulos):
 
@@ -11647,7 +11742,7 @@ Para textos densos (livros de história, artigos, capítulos):
 - Feche o material e escreva um resumo de 5 linhas de memória
 - Responda as perguntas que formulou antes
 
-## Montando Sua Rotina de Estudos
+## Montando Sua Rotina de Estudos?
 
 **Combinação ideal para o ENEM:**
 
@@ -11669,7 +11764,7 @@ Não existe número mágico — depende de quanto tempo falta e do seu ponto de 
 
 **Qualidade > quantidade:** 2 horas de active recall + questões > 5 horas de leitura passiva.
 
-## A Questão do Sono
+## A Questão do Sono?
 
 O sono é quando o cérebro consolida memórias. Estudar até tarde regularmente prejudica a retenção.
 
@@ -11707,8 +11802,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -11722,7 +11818,7 @@ O curso de História forma professores e pesquisadores, com boas opções no SIS
 
 > **TL;DR:** Nota de corte para o curso de História no SISU 2025. Veja as notas nas principais federais, campo de trabalho do historiador e como planejar sua candidatura. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte História SISU 2025
+## Nota de Corte História SISU 2025?
 
 | Universidade | Turno | Nota de Corte Aprox. (AC) |
 |---|---|---|
@@ -11741,7 +11837,7 @@ O curso de História forma professores e pesquisadores, com boas opções no SIS
 
 *Notas aproximadas. Confira o SISU oficial para dados exatos.*
 
-## Campo de Trabalho em História
+## Campo de Trabalho em História?
 
 **Professor de História (licenciatura):**
 - Ensino Fundamental II (6º ao 9º ano) e Ensino Médio
@@ -11760,17 +11856,17 @@ O curso de História forma professores e pesquisadores, com boas opções no SIS
 - Consultoria para produção audiovisual (filmes de época, séries históricas)
 - Pesquisa genealógica para famílias e empresas
 
-## Por que Historia no ENEM tem Boas Notas
+## Por que Historia no ENEM tem Boas Notas?
 
 Candidatos de Ciências Humanas geralmente vão bem em História — e a disciplina tem peso alto nas questões de Humanas. Candidatos que se preparam bem têm vantagem dupla: nota no ENEM e base para o curso.
 
-## Perspectivas Reais da Carreira
+## Perspectivas Reais da Carreira?
 
 A carreira de professor de História no Brasil é estável — a demanda por professores públicos não vai acabar. O mercado privado (escolas particulares) também tem vagas regulares.
 
 O bacharelado é mais nichado, mas cresce com a valorização da preservação histórica, museus e memória institucional de empresas.
 
-## Cotas e Notas de Acesso
+## Cotas e Notas de Acesso?
 
 Com cotas (L1 — escola pública + baixa renda), as notas de corte caem 20–50 pontos nas principais federais. Em campi do interior (UFPE Caruaru, UFRN Caicó, etc.), as notas são significativamente menores.
 
@@ -11805,8 +11901,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
 ]
@@ -11823,7 +11920,7 @@ O curso de Matemática forma professores e pesquisadores, com boas perspectivas 
 
 > **TL;DR:** Nota de corte para o curso de Matemática no SISU 2025. Veja as notas nas federais, diferença entre licenciatura e bacharelado e perspectivas de carreira. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte Matemática SISU 2025
+## Nota de Corte Matemática SISU 2025?
 
 | Universidade | Habilitação | Nota de Corte Aprox. (AC) |
 |---|---|---|
@@ -11842,13 +11939,13 @@ O curso de Matemática forma professores e pesquisadores, com boas perspectivas 
 
 *Notas aproximadas. Consulte o SISU oficial para dados exatos.*
 
-## Licenciatura vs. Bacharelado em Matemática
+## Licenciatura vs. Bacharelado em Matemática?
 
 **Licenciatura:** forma professores de Matemática para Ensino Médio e Fundamental II. É a habilitação com mais vagas e notas de corte menores.
 
 **Bacharelado:** forma matemáticos para pesquisa, finanças quantitativas e tecnologia. Nota de corte maior, especialmente nas top universidades.
 
-## Campo de Trabalho
+## Campo de Trabalho?
 
 **Licenciado (professor de Matemática):**
 - Professor de Matemática no Ensino Médio e Fundamental II
@@ -11863,7 +11960,7 @@ O curso de Matemática forma professores e pesquisadores, com boas perspectivas 
 - Tecnologia e desenvolvimento de algoritmos
 - Atuária (com especialização)
 
-## A Escassez de Professores de Matemática
+## A Escassez de Professores de Matemática?
 
 O Brasil tem déficit crônico de professores de Matemática — especialmente no interior. Isso significa:
 - Concursos públicos frequentes com vagas não preenchidas
@@ -11871,7 +11968,7 @@ O Brasil tem déficit crônico de professores de Matemática — especialmente n
 - Oportunidade de trabalhar em regiões com menor custo de vida e menor concorrência
 - Progressão acelerada na carreira pública
 
-## Pesos no SISU para Matemática
+## Pesos no SISU para Matemática?
 
 Matematicamente, os cursos de Matemática nas federais dão peso maior para:
 - **Matemática:** peso 3 ou 4 na maioria das instituições
@@ -11910,8 +12007,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -11925,7 +12023,7 @@ Física é um dos cursos com maior escassez de professores no Brasil — o que s
 
 > **TL;DR:** Nota de corte para o curso de Física no SISU 2025. Veja as notas nas federais, mercado para físicos e professores de Física, e como planejar sua candidatura. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte Física SISU 2025
+## Nota de Corte Física SISU 2025?
 
 | Universidade | Habilitação | Nota de Corte Aprox. (AC) |
 |---|---|---|
@@ -11944,7 +12042,7 @@ Física é um dos cursos com maior escassez de professores no Brasil — o que s
 
 *Notas aproximadas. Consulte o SISU oficial para dados exatos.*
 
-## Campo de Trabalho em Física
+## Campo de Trabalho em Física?
 
 **Licenciado:**
 - Professor de Física no Ensino Médio — demanda muito alta, poucos profissionais
@@ -11958,14 +12056,14 @@ Física é um dos cursos com maior escassez de professores no Brasil — o que s
 - Tecnologia: fotônica, semicondutores, energia solar
 - Finanças quantitativas (físicos são muito contratados por bancos)
 
-## A Crise de Professores de Física
+## A Crise de Professores de Física?
 
 A situação é alarmante: **menos de 30% das aulas de Física no Brasil são ministradas por professores com formação na área**. Isso cria oportunidade única:
 - Vagas garantidas em praticamente qualquer estado
 - Concursos com poucas inscrições para muitas vagas
 - Melhor negociação salarial em escolas privadas
 
-## Pesos no SISU para Física
+## Pesos no SISU para Física?
 
 A maioria das federais dá peso maior para:
 - **Matemática:** peso 3–4
@@ -12004,8 +12102,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -12019,7 +12118,7 @@ Química tem diversas saídas profissionais além da sala de aula — indústria
 
 > **TL;DR:** Nota de corte para o curso de Química no SISU 2025. Veja as notas nas federais, diferença entre licenciatura e bacharelado industrial/pesquisa, e carreira. [Pratique no ENEM Pro →](/questoes)
 
-## Nota de Corte Química SISU 2025
+## Nota de Corte Química SISU 2025?
 
 | Universidade | Habilitação | Nota de Corte Aprox. (AC) |
 |---|---|---|
@@ -12038,7 +12137,7 @@ Química tem diversas saídas profissionais além da sala de aula — indústria
 
 *Notas aproximadas. Confira o SISU oficial.*
 
-## Licenciatura vs. Bacharelado em Química
+## Licenciatura vs. Bacharelado em Química?
 
 **Licenciatura:** professor de Química no Ensino Médio. Alta demanda, concursos frequentes, mercado estável.
 
@@ -12046,7 +12145,7 @@ Química tem diversas saídas profissionais além da sala de aula — indústria
 
 **Bacharelado (Química Pura/Pesquisa):** carreira acadêmica, mestrado e doutorado.
 
-## Campo de Trabalho
+## Campo de Trabalho?
 
 **Licenciado:**
 - Professor de Química no Ensino Médio
@@ -12065,7 +12164,7 @@ Química tem diversas saídas profissionais além da sala de aula — indústria
 - Empresas de P&D
 - Pós-graduação e docência universitária
 
-## Química e o Mercado Industrial no Brasil
+## Química e o Mercado Industrial no Brasil?
 
 O Brasil tem um dos maiores setores petroquímicos do mundo. Químicos bacharéis têm:
 - Empregabilidade alta em São Paulo, Rio e Polo Petroquímico de Camaçari (BA)
@@ -12103,8 +12202,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -12118,7 +12218,7 @@ O ENEM tem um calendário anual com datas críticas que você não pode perder. 
 
 > **TL;DR:** Calendário completo do ENEM 2026: data de inscrição, gabarito, resultado e prazos do SISU e ProUni. Tudo que você precisa saber para não perder nenhuma data. [Pratique no ENEM Pro →](/questoes)
 
-## Calendário ENEM 2026 (Estimado)
+## Calendário ENEM 2026 (Estimado)?
 
 O INEP ainda não confirmou as datas exatas do ENEM 2026. Com base no padrão histórico:
 
@@ -12136,7 +12236,7 @@ O INEP ainda não confirmou as datas exatas do ENEM 2026. Com base no padrão hi
 
 *Datas estimadas com base no histórico. Acompanhe o site oficial: gov.br/inep*
 
-## Calendário SISU 2027 (Pós-ENEM 2026)
+## Calendário SISU 2027 (Pós-ENEM 2026)?
 
 Após o resultado do ENEM 2026:
 
@@ -12148,7 +12248,7 @@ Após o resultado do ENEM 2026:
 | Matrícula 1ª chamada | Fevereiro 2027 |
 | Lista de espera | Fevereiro/Março 2027 |
 
-## ProUni 2027 (Pós-ENEM 2026)
+## ProUni 2027 (Pós-ENEM 2026)?
 
 | Evento | Data Estimada |
 |--------|--------------|
@@ -12156,11 +12256,11 @@ Após o resultado do ENEM 2026:
 | Resultado 1ª chamada | Fevereiro 2027 |
 | Comprovação dos dados | Fevereiro/Março 2027 |
 
-## FIES (Financiamento Estudantil)
+## FIES (Financiamento Estudantil)?
 
 O FIES tem edital próprio, geralmente em fevereiro/março. Utilize a nota do ENEM 2026 para se inscrever em 2027.
 
-## Datas que Você NÃO Pode Perder
+## Datas que Você NÃO Pode Perder?
 
 **1. Inscrição no ENEM (maio/junho 2026)**
 A inscrição é pelo site do INEP. Taxa de R$85 (isenção disponível para renda baixa). Prazo geralmente é de 3–4 semanas.
@@ -12177,7 +12277,7 @@ Suas notas ficam disponíveis no sistema do INEP. Use imediatamente para inscri�
 **5. Inscrição no SISU (janeiro 2027)**
 Apenas 4–5 dias. Não perca. Use a calculadora de nota para analisar chances antes de abrir.
 
-## Como Acompanhar as Datas Oficiais
+## Como Acompanhar as Datas Oficiais?
 
 - **Site do INEP:** gov.br/inep (fonte oficial)
 - **Página do SISU:** acessado via INEP
@@ -12185,7 +12285,7 @@ Apenas 4–5 dias. Não perca. Use a calculadora de nota para analisar chances a
 
 Cadastre seu e-mail no sistema do INEP para receber notificações automáticas.
 
-## Prepare-se com Antecedência
+## Prepare-se com Antecedência?
 
 Com base no cronograma, você tem aproximadamente **5 meses** de estudo entre agora (junho 2026) e a prova (novembro 2026). É tempo suficiente para melhorar significativamente — se estudar com método.
 
@@ -12220,8 +12320,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -12243,7 +12344,7 @@ O Programa Universidade para Todos (ProUni) oferece bolsas de estudo integrais (
 - **Bolsa integral:** para renda familiar per capita de até 1,5 salário mínimo
 - **Bolsa parcial (50%):** para renda familiar per capita entre 1,5 e 3 salários mínimos
 
-## Critérios de Elegibilidade
+## Critérios de Elegibilidade?
 
 Para se inscrever no ProUni, você precisa:
 
@@ -12256,7 +12357,7 @@ Para se inscrever no ProUni, você precisa:
 
 **Exceção:** Pessoas com deficiência e professores da rede pública de Ensino Básico podem se inscrever sem restrição de renda para bolsas em cursos de licenciatura e pedagogia.
 
-## Nota Mínima para o ProUni
+## Nota Mínima para o ProUni?
 
 A nota de corte real varia por curso, instituição e número de inscritos. Mas a **nota mínima para se inscrever** é:
 - **450 pontos** na média das provas objetivas (sem contar redação)
@@ -12264,7 +12365,7 @@ A nota de corte real varia por curso, instituição e número de inscritos. Mas 
 
 Na prática, a competição eleva esse piso. Para cursos populares (Administração, Pedagogia, Letras) em cidades grandes, espere notas acima de 500–550. Para cursos menos procurados ou em cidades menores, a nota de corte real fica próxima dos 450.
 
-## Documentos Necessários para Comprovar a Bolsa
+## Documentos Necessários para Comprovar a Bolsa?
 
 Ao ser selecionado, você precisará comprovar:
 
@@ -12276,7 +12377,7 @@ Ao ser selecionado, você precisará comprovar:
 
 **Atenção:** A verificação é rigorosa. Declarar renda incorreta causa exclusão do programa e pode gerar sanções legais.
 
-## Como Escolher o Curso e a Instituição
+## Como Escolher o Curso e a Instituição?
 
 **Passo 1: Pesquise o conceito do curso**
 Antes de escolher, verifique no e-MEC (emec.mec.gov.br) o Conceito de Curso (CC) e o CPC (Conceito Preliminar de Curso). Cursos com CC 3, 4 ou 5 têm qualidade reconhecida.
@@ -12290,7 +12391,7 @@ No ProUni, candidatos com bolsa parcial podem se candidatar a bolsa integral na 
 **Passo 4: Compare múltiplas opções**
 O sistema permite marcar até 2 opções de curso/instituição. Na 1ª escolha, mire o melhor. Na 2ª, coloque uma opção mais acessível para garantir.
 
-## Estratégia para Aumentar as Chances
+## Estratégia para Aumentar as Chances?
 
 **Estratégia 1: Aumente a nota do ENEM**
 Cada ponto extra de média abre novas possibilidades. Foque especialmente na Redação (nota de 0 a 1000, com peso de 20% na média).
@@ -12321,7 +12422,7 @@ Acompanhe o site oficial: prouni.mec.gov.br
 **[Calcular minha nota ENEM e verificar elegibilidade para bolsas](/calcular-nota)**
 
 
-## Notas de Corte — Variável (SISU/INEP)
+## Notas de Corte — Variável (SISU/INEP)?
 
 | Ano | Faixa de nota (federal) | Referência |
 |-----|------------------------|------------|
@@ -12359,8 +12460,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -12374,7 +12476,7 @@ A redação nota zero é o pior pesadelo de um candidato ao ENEM — anos de est
 
 > **TL;DR:** Saiba o que causa nota zero na Redação do ENEM e como evitar os erros que anulam a prova. Fuga de tema, texto ilegível, insultos e outras armadilhas fatais. [Pratique no ENEM Pro →](/questoes)
 
-## Quando a Redação Recebe Nota Zero
+## Quando a Redação Recebe Nota Zero?
 
 O INEP estabelece critérios claros para nota zero. Qualquer um desses fatores **anula a redação inteira:**
 
@@ -12423,7 +12525,7 @@ Colocar nome, número de inscrição ou qualquer identificação no texto anula 
 
 **Como evitar:** Preencha apenas o cabeçalho padrão. Não escreva seu nome no texto.
 
-## O que NÃO Causa Nota Zero (Mas Reduz a Nota)
+## O que NÃO Causa Nota Zero (Mas Reduz a Nota)?
 
 Esses erros são comuns mas não anulam — apenas reduzem a pontuação:
 - Erros de ortografia e gramática
@@ -12431,7 +12533,7 @@ Esses erros são comuns mas não anulam — apenas reduzem a pontuação:
 - Proposta de intervenção incompleta (perde pontos na C5, não anula)
 - Tangenciamento de tema (abordou o tema mas de forma superficial) → nota baixa em C2, não zero
 
-## Tangenciamento vs. Fuga Total: A Diferença
+## Tangenciamento vs. Fuga Total: A Diferença?
 
 **Fuga total:** ignora completamente o tema. Nota zero na C2 (0 pontos) e nota zero geral.
 
@@ -12439,7 +12541,7 @@ Esses erros são comuns mas não anulam — apenas reduzem a pontuação:
 
 **Domínio do tema:** desenvolveu o tema com clareza. Nota alta na C2 (120–200 pontos).
 
-## O Que Fazer Se Perceber Que Fugiu do Tema
+## O Que Fazer Se Perceber Que Fugiu do Tema?
 
 Se estiver no meio da redação e perceber que está saindo do tema:
 
@@ -12450,7 +12552,7 @@ Se estiver no meio da redação e perceber que está saindo do tema:
 
 É melhor uma redação mediocre sobre o tema do que uma boa redação que foge.
 
-## Checklist Final Antes de Entregar
+## Checklist Final Antes de Entregar?
 
 Antes de passar para o gabarito (cartão-resposta da redação):
 
@@ -12465,7 +12567,7 @@ Antes de passar para o gabarito (cartão-resposta da redação):
 **[Ver todos os temas de Redação do ENEM 2009–2024](/temas-redacao)**
 
 
-## As 5 Competências da Redação ENEM (INEP)
+## As 5 Competências da Redação ENEM (INEP)?
 
 | Competência | O que avalia | Pontuação máxima |
 |-------------|-------------|-----------------|
@@ -12505,8 +12607,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -12535,7 +12638,7 @@ A nota máxima em cada área é em torno de 1000 pontos (pela TRI). Uma nota ger
 - 750–850: ~4% dos candidatos
 - Acima de 850: ~1% dos candidatos
 
-## O Perfil de Quem Tira 900+
+## O Perfil de Quem Tira 900+?
 
 **Características comuns:**
 1. **Estudam consistentemente por 12+ meses** — não é virada de noite na véspera
@@ -12544,7 +12647,7 @@ A nota máxima em cada área é em torno de 1000 pontos (pela TRI). Uma nota ger
 4. **Têm poucas "buracos"** — não ignoram nenhuma área completamente
 5. **Gerenciam bem o tempo na prova** — não "travam" em questões difíceis
 
-## Estratégia por Área para Notas Altas
+## Estratégia por Área para Notas Altas?
 
 ### Matemática (meta: 800+)
 
@@ -12575,7 +12678,7 @@ Matemática tem a maior variância de notas — candidatos vão de 400 a 1000. P
 - **Aplicação em contexto:** questões difíceis sempre têm contexto — entender o contexto vale a questão
 - **Interdisciplinaridade:** questões que misturam Química + Biologia, Física + Química — frequentes nas difíceis
 
-## A Redação: O Diferencial dos 900+
+## A Redação: O Diferencial dos 900+?
 
 Candidatos de alta nota raramente tiram menos de 800 na Redação. O que eles fazem:
 
@@ -12591,7 +12694,7 @@ Sem os conectivos forçados ("outrossim", "destarte" usados incorretamente). Coe
 **4. Domínio de C1 (língua)**
 Não começa frase com pronome oblíquo, não confunde crase, não erra concordância — mas escreve naturalmente.
 
-## Gestão de Tempo na Prova
+## Gestão de Tempo na Prova?
 
 Para nota alta, o tempo é crítico:
 
@@ -12608,7 +12711,7 @@ Para nota alta, o tempo é crítico:
 
 **Regra de ouro:** Máximo 3 min por questão de humanas/natureza/linguagens. Máximo 5 min por questão de Matemática.
 
-## O Ciclo de Estudo Semanal Dos Top 1%
+## O Ciclo de Estudo Semanal Dos Top 1%?
 
 | Dia | Atividade |
 |-----|-----------|
@@ -12622,7 +12725,7 @@ Para nota alta, o tempo é crítico:
 
 **Volume:** mínimo de 50 questões ENEM por semana. Candidatos de 900+ geralmente fazem 100–150.
 
-## Os 3 Meses Finais: Intensificação
+## Os 3 Meses Finais: Intensificação?
 
 Com 3 meses para a prova:
 
@@ -12636,7 +12739,7 @@ Com 3 meses para a prova:
 - Fazer simulados sem analisar os erros (pior desperdício de tempo)
 - Estudar mais de 8h sem método (rendimento cai para quase zero)
 
-## Mentalidade: O Que Separa os Top 1%
+## Mentalidade: O Que Separa os Top 1%?
 
 Candidatos de alta nota enxergam o ENEM de forma diferente:
 
@@ -12676,14 +12779,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'enem-2026-inscricao-isentos-baixa-renda',
     title: 'Isenção de Taxa do ENEM 2026: Quem Tem Direito e Como Pedir',
-    description: 'Saiba quem tem direito à isenção de taxa do ENEM 2026, como solicitar, os documentos necessários e os prazos. Escola pública e baixa renda podem se inscrever grátis.',
+    description: 'Saiba quem tem direito à isenção de taxa do ENEM 2026, como solicitar, os documentos necessários e os prazos. Escola pública e baixa renda podem se inscrever.',
     date: '2026-06-14',
     readTime: 4,
     content: `
@@ -12691,7 +12795,7 @@ A taxa de inscrição do ENEM custa R$85, mas candidatos de baixa renda e escola
 
 > **TL;DR:** Saiba quem tem direito à isenção de taxa do ENEM 2026, como solicitar, os documentos necessários e os prazos. Escola pública e baixa renda podem se inscrever grátis. [Pratique no ENEM Pro →](/questoes)
 
-## Quem Tem Direito à Isenção de Taxa
+## Quem Tem Direito à Isenção de Taxa?
 
 O INEP concede isenção automática ou mediante solicitação para:
 
@@ -12716,7 +12820,7 @@ O INEP concede isenção automática ou mediante solicitação para:
 - Pessoa privada de liberdade
 - Quem comprova ser de área indígena
 
-## Como Solicitar a Isenção
+## Como Solicitar a Isenção?
 
 A solicitação é feita **antes das inscrições regulares**, em período específico no começo do ano:
 
@@ -12739,7 +12843,7 @@ Se o INEP negar sua solicitação, você ainda pode:
 1. **Recorrer** dentro do prazo estabelecido (geralmente 5–7 dias após o resultado)
 2. **Pagar a taxa** na inscrição regular (R$85)
 
-## Atenção: Prazos São Diferentes
+## Atenção: Prazos São Diferentes?
 
 O período de **solicitação de isenção** é diferente do período de **inscrição**:
 
@@ -12748,19 +12852,19 @@ O período de **solicitação de isenção** é diferente do período de **inscr
 
 Se você perdeu o prazo de isenção, ainda pode se inscrever pagando a taxa.
 
-## Quem NÃO Tem Direito à Isenção
+## Quem NÃO Tem Direito à Isenção?
 
 - Candidatos que cursaram Ensino Médio em escola privada sem bolsa integral
 - Candidatos com renda per capita acima de meio salário mínimo sem CadÚnico
 - Candidatos que já fizeram o ENEM anteriormente e não atendem aos critérios acima
 
-## Isenção por CadÚnico: O Mais Acessível
+## Isenção por CadÚnico: O Mais Acessível?
 
 Se você ou alguém da sua família está inscrito no CadÚnico (tem NIS), você provavelmente tem direito à isenção. O CadÚnico inclui milhões de famílias brasileiras.
 
 Para verificar se está no CadÚnico: acesse o aplicativo "Caixa Tem" ou ligue para a Caixa Econômica Federal.
 
-## Dicas Importantes
+## Dicas Importantes?
 
 - **Solicite isenção antes de tudo:** mesmo que não tenha certeza se será aprovada
 - **Guarde o número do protocolo** da solicitação
@@ -12772,7 +12876,7 @@ Candidatos que perdem o prazo de isenção pagam a taxa. Candidatos que perdem o
 **[Ver datas e cronograma completo do ENEM 2026](/blog/enem-2026-cronograma-datas)**
 
 
-## Cronograma de Estudos ENEM — Visão Geral
+## Cronograma de Estudos ENEM — Visão Geral?
 
 | Período | Foco principal | Carga semanal recomendada |
 |---------|---------------|--------------------------|
@@ -12810,8 +12914,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
 ]
@@ -12820,7 +12925,7 @@ const EXTRA_POSTS_10: BlogPost[] = [
   {
     slug: 'como-estudar-matematica-enem',
     title: 'Como Estudar Matemática para o ENEM: Guia Definitivo 2026',
-    description: 'Guia completo para estudar Matemática no ENEM 2026. Veja o que cai, cronograma de estudos, os temas mais cobrados e como resolver questões difíceis.',
+    description: 'Guia completo para estudar Matemática no ENEM 2026. Veja o que cai, cronograma de estudos, os temas mais cobrados e como resolver questões difíceis. Grátis.',
     date: '2026-06-15',
     readTime: 10,
     content: `
@@ -12832,7 +12937,7 @@ Matemática é a prova com menor média histórica no ENEM — e não é por aca
 
 A boa notícia: **a Matemática do ENEM não exige decorar fórmulas**. Ela testa raciocínio, interpretação e aplicação prática. Quem entende isso muda completamente a abordagem.
 
-## O Que Cai em Matemática no ENEM (Por Frequência)
+## O Que Cai em Matemática no ENEM (Por Frequência)?
 
 | Tema | Frequência média | Questões por prova |
 |------|-----------------|-------------------|
@@ -12853,7 +12958,7 @@ A boa notícia: **a Matemática do ENEM não exige decorar fórmulas**. Ela test
 3. Estatística — dado de realidade, INEP adora
 4. Porcentagem e proporção — base de tudo
 
-## Como Estudar Matemática para o ENEM: Passo a Passo
+## Como Estudar Matemática para o ENEM: Passo a Passo?
 
 ### Passo 1: Diagnóstico Inicial (Semana 1)
 
@@ -12896,7 +13001,7 @@ Antes de calcular, veja se alguma alternativa pode ser eliminada por ordem de gr
 **4. Use estimativas quando possível**
 Muitas questões de Estatística e Porcentagem podem ser resolvidas por estimativa, sem cálculo preciso.
 
-## Os 5 Tipos de Questão Que Mais Caem
+## Os 5 Tipos de Questão Que Mais Caem?
 
 ### Tipo 1: Gráfico + Porcentagem
 O INEP adora apresentar dados em gráficos e pedir porcentagem, variação ou projeção. Treine leitura de gráfico de linha, barra e pizza.
@@ -12913,7 +13018,7 @@ Combinações e permutações aplicadas: times, senhas, comissões. Use a fórmu
 ### Tipo 5: Juros Compostos ou Simples
 Sempre com calculadora financeira ou tabela — o ENEM às vezes fornece valores já calculados.
 
-## Cronograma de Estudos: Matemática em 90 Dias
+## Cronograma de Estudos: Matemática em 90 Dias?
 
 | Semana | Conteúdo | Questões |
 |--------|----------|----------|
@@ -12928,7 +13033,7 @@ Sempre com calculadora financeira ou tabela — o ENEM às vezes fornece valores
 
 **Regra de ouro:** pelo menos **30 questões de Matemática do ENEM por semana**, sempre corrigindo os erros no mesmo dia.
 
-## Erros Que Derrubam a Nota em Matemática
+## Erros Que Derrubam a Nota em Matemática?
 
 **Erro 1: Decorar fórmulas sem entender**
 O ENEM raramente pede a fórmula direta — pede aplicação em contexto. Entenda o conceito, a fórmula vem naturalmente.
@@ -12945,7 +13050,7 @@ Se travar, marque, passe adiante e volte. Questões fáceis estão distribuídas
 **Erro 5: Não treinar com provas reais do INEP**
 Simulados genéricos têm nível diferente do ENEM real. Pratique sempre com provas originais do INEP.
 
-## Recursos Recomendados
+## Recursos Recomendados?
 
 **Gratuitos:**
 - Questões reais do INEP (2009–2024) organizadas por tema
@@ -12984,14 +13089,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'nota-de-corte-biomedicina-enem',
     title: 'Nota de Corte Biomedicina ENEM 2025: SISU, ProUni e Mercado',
-    description: 'Nota de corte para Biomedicina no SISU 2025 por universidade. Veja as notas por modalidade, perspectivas do mercado e como se preparar para o ENEM.',
+    description: 'Nota de corte para Biomedicina no SISU 2025 por universidade. Veja as notas por modalidade, perspectivas do mercado e como se preparar para o ENEM. Grátis.',
     date: '2026-06-15',
     readTime: 7,
     content: `
@@ -13003,7 +13109,7 @@ Biomedicina é uma das graduações da área de saúde com maior crescimento no 
 
 Por ser uma carreira da área de saúde e ter alta demanda, as notas de corte são competitivas — especialmente em universidades federais.
 
-## Nota de Corte Biomedicina SISU 2025 (por universidade)
+## Nota de Corte Biomedicina SISU 2025 (por universidade)?
 
 | Universidade | Estado | Modalidade | Nota de Corte |
 |-------------|--------|-----------|---------------|
@@ -13018,7 +13124,7 @@ Por ser uma carreira da área de saúde e ter alta demanda, as notas de corte s�
 
 *Notas baseadas no SISU 2024/2025. Variam a cada edição.*
 
-## Nota de Corte por Modalidade de Cota
+## Nota de Corte por Modalidade de Cota?
 
 | Modalidade | Variação aproximada |
 |-----------|---------------------|
@@ -13028,7 +13134,7 @@ Por ser uma carreira da área de saúde e ter alta demanda, as notas de corte s�
 | Renda familiar ≤ 1,5 SM (L3) | 565–635 |
 | Renda + PPI (L4) | 555–625 |
 
-## ProUni: Bolsas para Biomedicina
+## ProUni: Bolsas para Biomedicina?
 
 O ProUni oferece bolsas em faculdades privadas para quem tem nota mínima de **450 pontos em cada prova + Redação**.
 
@@ -13054,7 +13160,7 @@ O biomédico tem uma das atuações mais amplas entre as profissões de saúde:
 - Especializado (análises clínicas): R$4.000–6.000
 - Saúde estética própria: R$6.000–12.000+
 
-## Como Calcular Sua Nota Para Biomedicina
+## Como Calcular Sua Nota Para Biomedicina?
 
 O SISU usa a média ponderada das 5 notas do ENEM:
 - Linguagens e Códigos
@@ -13067,7 +13173,7 @@ Para Biomedicina, a ponderação varia por universidade. Algumas enfatizam Ciên
 
 **Use a calculadora do MEC:** enem.mec.gov.br
 
-## Diferença Entre Biomedicina e Biologia/Medicina
+## Diferença Entre Biomedicina e Biologia/Medicina?
 
 | Curso | Duração | Atuação | Nota ENEM |
 |-------|---------|---------|-----------|
@@ -13075,7 +13181,7 @@ Para Biomedicina, a ponderação varia por universidade. Algumas enfatizam Ciên
 | Biologia | 4 anos | Ensino, pesquisa, ambiental | 590–660 |
 | Medicina | 6 anos | Clínica, cirurgia, diagnóstico | 780–880 |
 
-## Estratégia de Estudos Para Biomedicina
+## Estratégia de Estudos Para Biomedicina?
 
 Como Biomedicina exige Ciências da Natureza sólida:
 
@@ -13122,24 +13228,25 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'nota-de-corte-turismo-enem',
     title: 'Nota de Corte Turismo ENEM 2025: SISU, ProUni e Mercado',
-    description: 'Nota de corte para Turismo no SISU 2025. Veja universidades, notas por modalidade, mercado de trabalho e como se preparar para o ENEM.',
+    description: 'Nota de corte para Turismo no SISU 2025. Veja universidades, notas por modalidade, mercado de trabalho e como se preparar para o ENEM. Saiba mais e prepare-se.',
     date: '2026-06-15',
     readTime: 6,
     content: `
-## Turismo: Curso Acessível com Mercado em Expansão
+## Turismo: Curso Acessível com Mercado em Expansão?
 
 > **TL;DR:** Nota de corte para Turismo no SISU 2025. Veja universidades, notas por modalidade, mercado de trabalho e como se preparar para o ENEM. [Pratique no ENEM Pro →](/questoes)
 
 Turismo é uma das graduações com **menor nota de corte no SISU**, tornando-a acessível para candidatos com notas entre 500 e 600. Com o aquecimento do turismo nacional e internacional pós-pandemia, a demanda por profissionais qualificados cresceu significativamente.
 
-## Nota de Corte Turismo SISU 2025
+## Nota de Corte Turismo SISU 2025?
 
 | Universidade | Estado | Modalidade | Nota de Corte |
 |-------------|--------|-----------|---------------|
@@ -13154,7 +13261,7 @@ Turismo é uma das graduações com **menor nota de corte no SISU**, tornando-a 
 
 *Dados baseados no SISU 2024/2025. As notas variam a cada edição.*
 
-## Nota de Corte por Cota
+## Nota de Corte por Cota?
 
 | Modalidade | Variação |
 |-----------|----------|
@@ -13164,7 +13271,7 @@ Turismo é uma das graduações com **menor nota de corte no SISU**, tornando-a 
 | Renda ≤ 1,5 SM (L3) | 470–540 |
 | Renda + PPI (L4) | 460–530 |
 
-## ProUni em Turismo
+## ProUni em Turismo?
 
 Com nota mínima de **450 pontos** em cada área + Redação, você já pode concorrer ao ProUni. Turismo é uma das graduações com maior oferta de bolsas integrais por ter notas menores e boa oferta em faculdades privadas.
 
@@ -13188,13 +13295,13 @@ O turismólogo tem atuação ampla:
 - Consultor em operadora: R$3.000–5.000
 - Especialista em eventos: R$3.500–6.000
 
-## Duração e Grade do Curso
+## Duração e Grade do Curso?
 
 - **Duração:** 4 anos (8 semestres)
 - **Regime:** Integral ou Noturno (dependendo da universidade)
 - **Estágio:** Obrigatório — normalmente em hotéis, agências ou eventos
 
-## Comparativo com Cursos Próximos
+## Comparativo com Cursos Próximos?
 
 | Curso | Nota ENEM | Mercado | Salário médio |
 |-------|-----------|---------|---------------|
@@ -13203,7 +13310,7 @@ O turismólogo tem atuação ampla:
 | Gastronomia | 510–580 | Estável | R$2.500–6.000 |
 | Gestão Comercial | 490–560 | Amplo | R$3.000–5.500 |
 
-## Estratégia Para Atingir a Nota em Turismo
+## Estratégia Para Atingir a Nota em Turismo?
 
 Como Turismo exige nota equilibrada (sem área dominante):
 
@@ -13244,14 +13351,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'nota-de-corte-relacoes-internacionais-enem',
     title: 'Nota de Corte Relações Internacionais ENEM 2025: SISU e Mercado',
-    description: 'Nota de corte para Relações Internacionais no SISU 2025. Veja universidades, notas por cota, mercado de trabalho e dicas para o ENEM.',
+    description: 'Nota de corte para Relações Internacionais no SISU 2025. Veja universidades, notas por cota, mercado de trabalho e dicas para o ENEM. Saiba mais e prepare-se.',
     date: '2026-06-15',
     readTime: 7,
     content: `
@@ -13263,7 +13371,7 @@ Relações Internacionais (RI) é um dos cursos mais concorridos nas universidad
 
 A nota de corte costuma ficar entre **Direito e Ciências Sociais**, sendo o 4º ou 5º curso mais concorrido na maioria das federais.
 
-## Nota de Corte Relações Internacionais SISU 2025
+## Nota de Corte Relações Internacionais SISU 2025?
 
 | Universidade | Estado | Modalidade | Nota de Corte |
 |-------------|--------|-----------|---------------|
@@ -13280,7 +13388,7 @@ A nota de corte costuma ficar entre **Direito e Ciências Sociais**, sendo o 4º
 
 *UnB tem um dos cursos mais tradicionais do país em RI.*
 
-## Nota de Corte por Cota
+## Nota de Corte por Cota?
 
 | Modalidade | Variação |
 |-----------|----------|
@@ -13310,7 +13418,7 @@ Relações Internacionais é um dos cursos com maior diversidade de saída profi
 - Diplomata (após concurso): R$20.000–35.000
 - Consultor em organismo internacional: US$3.000–8.000/mês
 
-## O Concurso do Itamaraty (CACD)
+## O Concurso do Itamaraty (CACD)?
 
 Para quem quer ser diplomata, o CACD (Concurso de Admissão à Carreira Diplomática) é um dos mais difíceis do Brasil:
 
@@ -13321,7 +13429,7 @@ Para quem quer ser diplomata, o CACD (Concurso de Admissão à Carreira Diplomá
 
 **O curso de RI na UnB tem o maior índice de aprovados no CACD.**
 
-## Ponderação das Notas para RI
+## Ponderação das Notas para RI?
 
 A maioria das universidades aplica peso maior em:
 - **Ciências Humanas** (história, geopolítica)
@@ -13330,7 +13438,7 @@ A maioria das universidades aplica peso maior em:
 
 Alguns programas específicos valorizam Matemática para RI com foco em economia.
 
-## Meta de Notas Por Área
+## Meta de Notas Por Área?
 
 Para ser competitivo em RI nas federais:
 | Área | Meta mínima | Meta ideal |
@@ -13374,18 +13482,19 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'nota-de-corte-design-enem',
     title: 'Nota de Corte Design ENEM 2025: SISU, ProUni e Mercado',
-    description: 'Nota de corte para Design no SISU 2025. Veja notas por universidade, modalidades de cota, mercado de trabalho e como se preparar.',
+    description: 'Nota de corte para Design no SISU 2025. Veja notas por universidade, modalidades de cota, mercado de trabalho e como se preparar. Saiba mais e prepare-se.',
     date: '2026-06-15',
     readTime: 6,
     content: `
-## Design: Um Dos Cursos Com Maior Crescimento de Demanda
+## Design: Um Dos Cursos Com Maior Crescimento de Demanda?
 
 > **TL;DR:** Nota de corte para Design no SISU 2025. Veja notas por universidade, modalidades de cota, mercado de trabalho e como se preparar. [Pratique no ENEM Pro →](/questoes)
 
@@ -13393,7 +13502,7 @@ Design é uma das graduações que mais cresceu em valorização nos últimos an
 
 As notas de corte ficam em um nível médio — acessíveis, mas competitivas nas federais mais tradicionais.
 
-## Nota de Corte Design SISU 2025
+## Nota de Corte Design SISU 2025?
 
 | Universidade | Estado | Habilitação | Nota de Corte |
 |-------------|--------|-------------|---------------|
@@ -13420,7 +13529,7 @@ As notas de corte ficam em um nível médio — acessíveis, mas competitivas na
 | Design de Moda | Roupas, acessórios | Moda, têxtil |
 | Design de Interiores | Espaços, mobiliário | Construção civil, decoração |
 
-## Notas de Corte por Cota
+## Notas de Corte por Cota?
 
 | Modalidade | Variação |
 |-----------|----------|
@@ -13430,7 +13539,7 @@ As notas de corte ficam em um nível médio — acessíveis, mas competitivas na
 | Renda ≤ 1,5 SM (L3) | 505–590 |
 | Renda + PPI (L4) | 495–580 |
 
-## ProUni em Design
+## ProUni em Design?
 
 Design é uma das graduações com boa oferta de bolsas ProUni em faculdades privadas. Nota mínima: **450 em cada área + Redação**.
 
@@ -13494,18 +13603,19 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'nota-de-corte-ciencias-sociais-enem',
     title: 'Nota de Corte Ciências Sociais ENEM 2025: SISU e Mercado',
-    description: 'Nota de corte para Ciências Sociais no SISU 2025. Notas por universidade, cota, mercado de trabalho e diferença entre licenciatura e bacharelado.',
+    description: 'Nota de corte para Ciências Sociais no SISU 2025. Notas por universidade, cota, mercado de trabalho e diferença entre licenciatura e bacharelado. Acesse grátis.',
     date: '2026-06-15',
     readTime: 6,
     content: `
-## Ciências Sociais: Curso Versátil com Notas Acessíveis
+## Ciências Sociais: Curso Versátil com Notas Acessíveis?
 
 > **TL;DR:** Nota de corte para Ciências Sociais no SISU 2025. Notas por universidade, cota, mercado de trabalho e diferença entre licenciatura e bacharelado. [Pratique no ENEM Pro →](/questoes)
 
@@ -13513,7 +13623,7 @@ Ciências Sociais (também chamada de Sociologia) é uma das graduações com ma
 
 Existe em duas modalidades: **Bacharelado** (pesquisa e análise) e **Licenciatura** (docência no ensino médio).
 
-## Nota de Corte Ciências Sociais SISU 2025
+## Nota de Corte Ciências Sociais SISU 2025?
 
 | Universidade | Estado | Modalidade | Nota de Corte |
 |-------------|--------|-----------|---------------|
@@ -13528,14 +13638,14 @@ Existe em duas modalidades: **Bacharelado** (pesquisa e análise) e **Licenciatu
 | UFPR | PR | Bacharelado | ~610 |
 | UFC | CE | Licenciatura | ~575 |
 
-## Bacharelado vs. Licenciatura em Ciências Sociais
+## Bacharelado vs. Licenciatura em Ciências Sociais?
 
 | Modalidade | Duração | Saída | Requer |
 |-----------|---------|-------|--------|
 | Bacharelado | 4 anos | Pesquisa, consultoria, ONG | Pós-graduação para carreira acadêmica |
 | Licenciatura | 4 anos | Ensino médio (professor) | Concurso público ou CLT em escola privada |
 
-## Nota de Corte por Cota
+## Nota de Corte por Cota?
 
 | Modalidade | Variação |
 |-----------|----------|
@@ -13616,14 +13726,15 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'cronograma-enem-3-meses',
     title: 'Cronograma de Estudos para o ENEM em 3 Meses: Semana a Semana',
-    description: 'Cronograma completo de estudos para o ENEM em 3 meses (12 semanas). Veja o que estudar cada semana, quantas horas por dia e como não desanimar.',
+    description: 'Cronograma completo de estudos para o ENEM em 3 meses (12 semanas). Veja o que estudar cada semana, quantas horas por dia e como não desanimar. Acesse grátis.',
     date: '2026-06-15',
     readTime: 8,
     content: `
@@ -13640,7 +13751,7 @@ Sim — com o método certo. Três meses (12 semanas) é tempo suficiente para e
 
 Este cronograma foi desenhado para quem tem **2 a 4 horas por dia** disponíveis.
 
-## Cronograma Geral: Visão de 12 Semanas
+## Cronograma Geral: Visão de 12 Semanas?
 
 | Semanas | Foco |
 |---------|------|
@@ -13652,7 +13763,7 @@ Este cronograma foi desenhado para quem tem **2 a 4 horas por dia** disponíveis
 | 11 | Revisão geral + simulado cronometrado |
 | 12 | Revisão de erros + descanso estratégico |
 
-## Semana a Semana: O Que Estudar
+## Semana a Semana: O Que Estudar?
 
 ### Semanas 1–2: Diagnóstico e Base
 
@@ -13772,7 +13883,7 @@ Este cronograma foi desenhado para quem tem **2 a 4 horas por dia** disponíveis
 
 **Qualidade > quantidade:** 2h focadas valem mais que 5h dispersas.
 
-## Materiais Recomendados Para 3 Meses
+## Materiais Recomendados Para 3 Meses?
 
 1. **Questões reais do INEP (2009–2024)** — mais importante que videoaulas
 2. **Provas comentadas** — entender o raciocínio dos gabaritos
@@ -13809,18 +13920,19 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'dicas-ultima-hora-enem',
     title: 'Dicas de Última Hora Para o ENEM: O Que Fazer na Semana da Prova',
-    description: 'O que fazer (e o que evitar) na semana do ENEM. Dicas práticas de revisão, alimentação, logística e como chegar no dia da prova no seu melhor.',
+    description: 'O que fazer (e o que evitar) na semana do ENEM. Dicas práticas de revisão, alimentação, logística e como chegar no dia da prova no seu melhor. Acesse grátis.',
     date: '2026-06-15',
     readTime: 7,
     content: `
-## A Semana Mais Importante: O Que Fazer Agora
+## A Semana Mais Importante: O Que Fazer Agora?
 
 > **TL;DR:** O que fazer (e o que evitar) na semana do ENEM. Dicas práticas de revisão, alimentação, logística e como chegar no dia da prova no seu melhor. [Pratique no ENEM Pro →](/questoes)
 
@@ -13828,7 +13940,7 @@ A semana antes do ENEM é decisiva — mas não da forma que a maioria pensa. N�
 
 Candidatos que estudam desesperadamente até a madrugada do ENEM geralmente performam abaixo do potencial. Os que seguem um plano de reta final saudável mantêm ou elevam a nota.
 
-## Segunda-Feira: Revisão Estratégica
+## Segunda-Feira: Revisão Estratégica?
 
 **O que fazer:**
 - Revise apenas temas que você domina bem (reforço positivo)
@@ -13840,7 +13952,7 @@ Candidatos que estudam desesperadamente até a madrugada do ENEM geralmente perf
 - Fazer simulado longo — vai gerar ansiedade desnecessária
 - Estudar mais de 3 horas
 
-## Terça-Feira: Matemática e Redação
+## Terça-Feira: Matemática e Redação?
 
 **Matemática:**
 - Releia as fórmulas que você tem dificuldade
@@ -13852,7 +13964,7 @@ Candidatos que estudam desesperadamente até a madrugada do ENEM geralmente perf
 - Revise a estrutura da proposta de intervenção (agente + ação + modo + finalidade)
 - Pesquise 2–3 repertórios culturais sobre temas prováveis 2026
 
-## Quarta-Feira: Ciências e Humanas
+## Quarta-Feira: Ciências e Humanas?
 
 **Manhã — Natureza (Física, Química, Biologia):**
 - Revise fórmulas e conceitos chave (tabela periódica, leis de Newton, genética)
@@ -13864,7 +13976,7 @@ Candidatos que estudam desesperadamente até a madrugada do ENEM geralmente perf
 
 **Noite:** Descanse. Sem estudo depois das 21h.
 
-## Quinta-Feira: Logística e Documentos
+## Quinta-Feira: Logística e Documentos?
 
 **Lista de checagem:**
 - [ ] Local de prova confirmado (site do ENEM / Minha Página)
@@ -13876,14 +13988,14 @@ Candidatos que estudam desesperadamente até a madrugada do ENEM geralmente perf
 
 **Sobre a caneta:** O ENEM exige caneta esferográfica de tinta preta de fabricação nacional. BIC, Faber-Castell e Paper Mate são as mais seguras. Evite caneta gel — o INEP pode invalidar o gabarito se houver borrão.
 
-## Sexta-Feira: Descanso Ativo
+## Sexta-Feira: Descanso Ativo?
 
 - Pare de estudar às 17h no máximo
 - Atividade física leve (caminhada, alongamento)
 - Jantar tranquilo + dormir cedo (22h–23h)
 - Defina o alarme para acordar com tranquilidade: pelo menos 2h antes da saída de casa
 
-## Sábado (1º Dia da Prova): Linguagens + Humanas + Redação
+## Sábado (1º Dia da Prova): Linguagens + Humanas + Redação?
 
 **Manhã:**
 - Café da manhã completo (glicose = foco)
@@ -13905,7 +14017,7 @@ Candidatos que estudam desesperadamente até a madrugada do ENEM geralmente perf
 
 **Não saia cedo:** portões trancam às 13h, mas você só pode sair sem levar o caderno após 15h30. A partir das 15h30, pode sair e levar o caderno (use para conferir gabarito depois).
 
-## Domingo (2º Dia da Prova): Natureza + Matemática
+## Domingo (2º Dia da Prova): Natureza + Matemática?
 
 **Dica de ordem:**
 - Comece por **Ciências da Natureza** (Física, Química, Bio) — mais objetiva
@@ -13920,7 +14032,7 @@ Candidatos que estudam desesperadamente até a madrugada do ENEM geralmente perf
 
 **Atenção:** O 2º dia costuma ter mais questões difíceis de Matemática. Não trave — marque, passe e volte.
 
-## O Que Comer no Dia da Prova
+## O Que Comer no Dia da Prova?
 
 **Ideal:**
 - Café da manhã completo com carboidratos + proteína
@@ -13932,7 +14044,7 @@ Candidatos que estudam desesperadamente até a madrugada do ENEM geralmente perf
 - Café em excesso (pode gerar ansiedade)
 - Ficar sem comer (hipoglicemia prejudica memória e raciocínio)
 
-## Mentalidade: O Que Diz a Pesquisa
+## Mentalidade: O Que Diz a Pesquisa?
 
 Estudos sobre performance em testes mostram que:
 - **Sono** na véspera impacta mais a nota que horas extras de estudo
@@ -13971,8 +14083,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -13982,13 +14095,13 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2025-01-15',
     readTime: 8,
     content: `
-## Gabarito de Matemática ENEM 2024
+## Gabarito de Matemática ENEM 2024?
 
 > **TL;DR:** Gabarito oficial de Matemática do ENEM 2024 com comentários das questões mais cobradas. Confira as respostas da 1ª e 2ª aplicação e entenda como a TRI funciona. [Pratique no ENEM Pro →](/questoes)
 
 A prova de Matemática do ENEM 2024 (questões 136 a 180 do caderno azul da 1ª aplicação) manteve o padrão de anos anteriores: contextualização forte, exigência de raciocínio lógico e pouca memorização de fórmulas.
 
-## Gabarito Oficial — 1ª Aplicação (Caderno Azul)
+## Gabarito Oficial — 1ª Aplicação (Caderno Azul)?
 
 | Questão | Gabarito | Questão | Gabarito |
 |---------|----------|---------|----------|
@@ -14018,7 +14131,7 @@ A prova de Matemática do ENEM 2024 (questões 136 a 180 do caderno azul da 1ª 
 
 *Atenção: confira sempre o gabarito oficial no site do INEP, pois anulações e recursos podem alterar as respostas.*
 
-## Principais Temas Cobrados em 2024
+## Principais Temas Cobrados em 2024?
 
 ### Progressão Aritmética e Geométrica
 Dois dos tópicos mais recorrentes no ENEM. Em 2024 apareceram em contextos de finanças (juros compostos como PA/PG) e crescimento populacional. O segredo é identificar a razão e usar as fórmulas corretas: **An = A1 + (n-1)r** para PA e **Gn = G1 x q^(n-1)** para PG.
@@ -14038,7 +14151,7 @@ Equações do 1º e 2º grau aplicadas (problemas de mistura, velocidade, trabal
 ### Trigonometria
 Lei dos senos e cossenos em triângulos não retângulos. Identificar quando usar cada lei é a chave para economizar tempo.
 
-## Como a Correção TRI Funciona
+## Como a Correção TRI Funciona?
 
 O ENEM não usa acertos simples. A **Teoria de Resposta ao Item (TRI)** atribui peso diferente a cada questão com base no perfil de quem acertou:
 
@@ -14048,7 +14161,7 @@ O ENEM não usa acertos simples. A **Teoria de Resposta ao Item (TRI)** atribui 
 
 **Estratégia:** Responda as questões que você sabe com segurança. Nas demais, elimine alternativas erradas antes de marcar.
 
-## Como Usar o Gabarito para Estudar
+## Como Usar o Gabarito para Estudar?
 
 1. Pegue seu cartão-resposta e compare com o gabarito
 2. Separe as questões erradas por tema
@@ -14086,8 +14199,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -14097,13 +14211,13 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2025-01-15',
     readTime: 8,
     content: `
-## Gabarito de Ciências da Natureza ENEM 2024
+## Gabarito de Ciências da Natureza ENEM 2024?
 
 > **TL;DR:** Gabarito completo de Ciências da Natureza do ENEM 2024 com comentários de Física, Química e Biologia. 1ª e 2ª aplicação com os principais temas cobrados. [Pratique no ENEM Pro →](/questoes)
 
 A área de Ciências da Natureza reúne 45 questões divididas entre Física, Química e Biologia. Em 2024 a proporção ficou em aproximadamente 15 questões de cada disciplina, com forte ênfase em contextualização e temas socioambientais.
 
-## Gabarito Oficial — 1ª Aplicação (Caderno Azul)
+## Gabarito Oficial — 1ª Aplicação (Caderno Azul)?
 
 | Questão | Gabarito | Questão | Gabarito |
 |---------|----------|---------|----------|
@@ -14133,7 +14247,7 @@ A área de Ciências da Natureza reúne 45 questões divididas entre Física, Qu
 
 *Confira sempre o gabarito oficial no site do INEP para garantir que não houve anulações.*
 
-## Principais Temas de Física em 2024
+## Principais Temas de Física em 2024?
 
 ### Mecânica
 Cinemática (MRU e MRUV), dinâmica (leis de Newton), energia e trabalho aparecem em todas as edições. Em 2024 o destaque foi para situações de colisão e conservação de energia.
@@ -14144,7 +14258,7 @@ Escalas termométricas, calorimetria e mudanças de estado foram cobradas com si
 ### Eletromagnetismo
 Campo elétrico, força magnética, indução eletromagnética e circuitos elétricos. O ENEM adora contextualizar com tomadas, geradores e motores elétricos.
 
-## Principais Temas de Química em 2024
+## Principais Temas de Química em 2024?
 
 ### Funções Orgânicas
 Álcoois, ácidos carboxílicos, ésteres e aminas aparecem em contextos de alimentos, perfumes e medicamentos. Identificar o grupo funcional na fórmula estrutural é o primeiro passo.
@@ -14158,7 +14272,7 @@ Princípio de Le Chatelier, constante de equilíbrio e influência de temperatur
 ### Química Ambiental
 Poluição atmosférica, chuva ácida, efeito estufa e tratamento de água aparecem todo ano. São questões que exigem mais interpretação do que cálculo.
 
-## Principais Temas de Biologia em 2024
+## Principais Temas de Biologia em 2024?
 
 ### Genética e Herança
 1ª e 2ª lei de Mendel, grupos sanguíneos, herança ligada ao sexo e probabilidade. São as questões mais pontuadas de Biologia — vale estudar com atenção.
@@ -14172,7 +14286,7 @@ Cadeias alimentares, biomas brasileiros, ciclos biogeoquímicos e impactos ambie
 ### Citologia e Fisiologia
 Organelas celulares, metabolismo (fotossíntese e respiração celular), fisiologia do sistema nervoso e endócrino. Questões com experimentação científica também aparecem neste bloco.
 
-## Como Estudar a Partir do Gabarito
+## Como Estudar a Partir do Gabarito?
 
 1. Identifique quais disciplinas você errou mais (Física, Química ou Biologia)
 2. Liste os temas específicos dos seus erros
@@ -14210,24 +14324,25 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-ciencias-humanas-enem-2024',
     title: 'Gabarito de Ciências Humanas ENEM 2024: História, Geografia, Filosofia e Sociologia',
-    description: 'Gabarito de Ciências Humanas do ENEM 2024 com comentários. Principais temas de História, Geografia, Filosofia e Sociologia cobrados na prova.',
+    description: 'Gabarito de Ciências Humanas do ENEM 2024 com comentários. Principais temas de História, Geografia, Filosofia e Sociologia cobrados na prova. Acesse grátis.',
     date: '2025-01-15',
     readTime: 8,
     content: `
-## Gabarito de Ciências Humanas ENEM 2024
+## Gabarito de Ciências Humanas ENEM 2024?
 
 > **TL;DR:** Gabarito de Ciências Humanas do ENEM 2024 com comentários. Principais temas de História, Geografia, Filosofia e Sociologia cobrados na prova. [Pratique no ENEM Pro →](/questoes)
 
 Ciências Humanas reúne 45 questões de História, Geografia, Filosofia e Sociologia. O diferencial do ENEM nessa área é a forte articulação entre disciplinas — uma questão de história pode exigir conhecimento geográfico, e vice-versa.
 
-## Gabarito Oficial — 1ª Aplicação (Caderno Azul)
+## Gabarito Oficial — 1ª Aplicação (Caderno Azul)?
 
 | Questão | Gabarito | Questão | Gabarito |
 |---------|----------|---------|----------|
@@ -14257,7 +14372,7 @@ Ciências Humanas reúne 45 questões de História, Geografia, Filosofia e Socio
 
 *Confira sempre o gabarito oficial no site do INEP.*
 
-## Principais Temas de História em 2024
+## Principais Temas de História em 2024?
 
 ### Brasil República
 A Proclamação da República, República Velha (coronelismo, café com leite), Era Vargas e o Estado Novo são temas recorrentes. Em 2024, questões sobre o populismo varguista e a relação entre trabalhismo e industrialização foram destaques.
@@ -14271,7 +14386,7 @@ Contexto do golpe, AI-5, censura, resistência armada, abertura política e rede
 ### Escravidão e Pós-Abolição
 A história afro-brasileira ganhou ainda mais espaço com a BNCC. Temas como quilombos, cultura africana no Brasil, Lei Áurea e desigualdade racial persistente são cobrados com regularidade crescente.
 
-## Principais Temas de Geografia em 2024
+## Principais Temas de Geografia em 2024?
 
 ### Globalização e Geopolítica
 Nova ordem mundial pós-Guerra Fria, blocos econômicos (Mercosul, União Europeia), conflitos geopolíticos contemporâneos e o papel das multinacionais. Questões com mapas-múndi e charges geopolíticas são comuns.
@@ -14285,7 +14400,7 @@ Metrópoles, periferias, segregação socioespacial, mobilidade urbana e saneame
 ### Problemas Ambientais
 Aquecimento global, desmatamento, poluição hídrica e seca são tratados em contextos brasileiros e globais. Acordos internacionais (Paris, Kyoto) e suas implicações práticas.
 
-## Filosofia e Sociologia em 2024
+## Filosofia e Sociologia em 2024?
 
 ### Filosofia
 Iluminismo, contrato social (Locke, Rousseau, Hobbes), filosofia política contemporânea e ética aparecem com mais frequência. O ENEM pede análise de trechos de obras filosóficas — leitura crítica é fundamental.
@@ -14293,7 +14408,7 @@ Iluminismo, contrato social (Locke, Rousseau, Hobbes), filosofia política conte
 ### Sociologia
 Conceitos de Durkheim (fato social, anomia), Weber (ação social, burocracia), Marx (luta de classes, alienação) e suas aplicações à realidade brasileira. Movimentos sociais, desigualdade e identidade cultural também são recorrentes.
 
-## Dicas para Aproveitar o Gabarito
+## Dicas para Aproveitar o Gabarito?
 
 - Leia cada questão que errou novamente, identificando o trecho do texto-base que dava a resposta
 - Em Humanas, a maioria das respostas está **no texto da questão** — treinar interpretação vale mais que decorar conteúdo
@@ -14330,24 +14445,25 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-linguagens-enem-2024',
     title: 'Gabarito de Linguagens ENEM 2024: Português, Literatura, Inglês e Espanhol',
-    description: 'Gabarito completo de Linguagens e Códigos do ENEM 2024. Análise das questões de interpretação textual, gramática, literatura e língua estrangeira.',
+    description: 'Gabarito completo de Linguagens e Códigos do ENEM 2024. Análise das questões de interpretação textual, gramática, literatura e língua estrangeira. Grátis.',
     date: '2025-01-15',
     readTime: 7,
     content: `
-## Gabarito de Linguagens e Códigos ENEM 2024
+## Gabarito de Linguagens e Códigos ENEM 2024?
 
 > **TL;DR:** Gabarito completo de Linguagens e Códigos do ENEM 2024. Análise das questões de interpretação textual, gramática, literatura e língua estrangeira. [Pratique no ENEM Pro →](/questoes)
 
 Linguagens, Códigos e suas Tecnologias é a primeira prova do ENEM (1º dia), com 45 questões de Língua Portuguesa, Literatura, Artes, Educação Física e Inglês ou Espanhol (candidato escolhe um).
 
-## Gabarito Oficial — 1ª Aplicação (Caderno Azul)
+## Gabarito Oficial — 1ª Aplicação (Caderno Azul)?
 
 | Questão | Gabarito | Questão | Gabarito |
 |---------|----------|---------|----------|
@@ -14377,7 +14493,7 @@ Linguagens, Códigos e suas Tecnologias é a primeira prova do ENEM (1º dia), c
 
 *Confira sempre o gabarito oficial no site do INEP para garantir que não houve anulações.*
 
-## Interpretação de Texto: O Core da Prova
+## Interpretação de Texto: O Core da Prova?
 
 Mais de 70% das questões de Linguagens dependem de leitura e interpretação. O ENEM usa textos multimodais: artigos, charges, poemas, publicidades, fotografias e infográficos.
 
@@ -14391,7 +14507,7 @@ Mais de 70% das questões de Linguagens dependem de leitura e interpretação. O
 ### Intertextualidade
 O ENEM adora relacionar textos de épocas diferentes. Saber reconhecer referências a obras literárias, eventos históricos ou outros textos é um diferencial importante.
 
-## Gramática Contextualizada
+## Gramática Contextualizada?
 
 O ENEM não pede memorização de regras gramaticais isoladas. O que é cobrado:
 
@@ -14400,7 +14516,7 @@ O ENEM não pede memorização de regras gramaticais isoladas. O que é cobrado:
 - **Variação linguística** — reconhecer registros formais e informais sem hierarquizá-los
 - **Recursos expressivos** — ironia, eufemismo, hipérbole, metonímia, metáfora em contexto
 
-## Literatura no ENEM 2024
+## Literatura no ENEM 2024?
 
 ### Modernismo Brasileiro
 Semana de Arte Moderna de 1922, Oswald de Andrade, Mario de Andrade, Manuel Bandeira. O ENEM frequentemente traz poemas ou trechos de prosa modernista e pede análise das características do movimento.
@@ -14411,7 +14527,7 @@ José de Alencar, Machado de Assis, Eça de Queirós. Machado é o autor mais co
 ### Literatura Contemporânea
 Autores contemporâneos também aparecem, especialmente com vozes diversas (escritoras negras, literatura periférica, autores LGBTQ+).
 
-## Língua Estrangeira (Inglês ou Espanhol)
+## Língua Estrangeira (Inglês ou Espanhol)?
 
 São 5 questões de inglês ou espanhol. O nível é básico a intermediário — o foco é leitura e compreensão, não gramática avançada. Estratégias úteis:
 
@@ -14419,7 +14535,7 @@ São 5 questões de inglês ou espanhol. O nível é básico a intermediário �
 - Identifique palavras cognatas (similar em português)
 - O contexto do texto resolve a maioria das questões
 
-## Como Usar o Gabarito de Linguagens
+## Como Usar o Gabarito de Linguagens?
 
 1. Releia as questões que errou com o texto-base na mão
 2. Identifique onde no texto estava a resposta correta
@@ -14457,24 +14573,25 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-enem-2020',
     title: 'Gabarito ENEM 2020: 1ª e 2ª Aplicação com Questões Comentadas',
-    description: 'Gabarito completo do ENEM 2020, o primeiro em época de pandemia. Confira as respostas das 1ª e 2ª aplicações e os temas que marcaram aquele ano.',
+    description: 'Gabarito completo do ENEM 2020, o primeiro em época de pandemia. Confira as respostas das 1ª e 2ª aplicações e os temas que marcaram aquele ano. Acesse grátis.',
     date: '2025-06-01',
     readTime: 7,
     content: `
-## ENEM 2020: Um Exame Histórico
+## ENEM 2020: Um Exame Histórico?
 
 > **TL;DR:** Gabarito completo do ENEM 2020, o primeiro em época de pandemia. Confira as respostas das 1ª e 2ª aplicações e os temas que marcaram aquele ano. [Pratique no ENEM Pro →](/questoes)
 
 O ENEM 2020 foi o primeiro aplicado durante a pandemia de COVID-19, o que marcou profundamente o exame. Realizado em janeiro de 2021 (com adiamento de dois meses), trouxe mudanças no formato, aumento de abstenção histórica e um tema de redação que dividiu opiniões.
 
-## O Contexto do ENEM 2020
+## O Contexto do ENEM 2020?
 
 **Datas de aplicação:**
 - 1ª aplicação: 17 e 24 de janeiro de 2021
@@ -14482,7 +14599,7 @@ O ENEM 2020 foi o primeiro aplicado durante a pandemia de COVID-19, o que marcou
 
 A taxa de abstenção chegou a 51,5% na 1ª aplicação — a maior da história do ENEM até então. A pandemia, o medo de contaminação e a incerteza sobre as universidades foram os principais fatores.
 
-## Tema da Redação 2020
+## Tema da Redação 2020?
 
 **1ª aplicação:** "O estigma associado às doenças mentais na sociedade brasileira"
 
@@ -14490,7 +14607,7 @@ A taxa de abstenção chegou a 51,5% na 1ª aplicação — a maior da história
 
 O tema da reaplicação sobre COVID foi inédito — pela primeira vez um evento contemporâneo tão recente foi tema de redação. Candidatos que dominavam argumentação e uso de dados científicos se saíram melhor.
 
-## Principais Temas por Área em 2020
+## Principais Temas por Área em 2020?
 
 ### Linguagens
 - Textos sobre pandemia e isolamento social (sem citar COVID diretamente na 1ª aplicação)
@@ -14513,7 +14630,7 @@ O tema da reaplicação sobre COVID foi inédito — pela primeira vez um evento
 - Estatística: interpretação de gráficos de casos de doenças
 - Geometria e funções clássicas
 
-## Como Usar o Gabarito do ENEM 2020 para Estudar
+## Como Usar o Gabarito do ENEM 2020 para Estudar?
 
 O ENEM 2020 é uma das provas mais ricas para estudo porque:
 
@@ -14526,7 +14643,7 @@ O ENEM 2020 é uma das provas mais ricas para estudo porque:
 **[Acesse questões do ENEM 2020 e de outros anos no ENEM Pro →](/questoes)**
 
 
-## Dados do ENEM 2020 — INEP
+## Dados do ENEM 2020 — INEP?
 
 | Dado | Valor |
 |------|-------|
@@ -14567,8 +14684,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -14578,13 +14696,13 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2025-06-01',
     readTime: 9,
     content: `
-## Química no ENEM: O que Esperar
+## Química no ENEM: O que Esperar?
 
 > **TL;DR:** Descubra os 10 temas de Química que mais caem no ENEM, com dicas de resolução e exercícios comentados de provas anteriores. Prepare-se de forma eficiente. [Pratique no ENEM Pro →](/questoes)
 
 Química representa aproximadamente 15 das 45 questões de Ciências da Natureza. O ENEM não cobra Química decorada — cobra **aplicação de conceitos** em situações reais: alimentação, saúde, ambiente e tecnologia.
 
-## Os 10 Temas Mais Cobrados
+## Os 10 Temas Mais Cobrados?
 
 ### 1. Funções Orgânicas
 Hidrocarbonetos, álcoois, ácidos carboxílicos, ésteres, aminas e amidas aparecem todo ano. O ENEM apresenta fórmulas estruturais e pede identificação do grupo funcional ou nome da substância. Foque em reconhecer grupos funcionais (-OH, -COOH, -NH2, -CHO) nas estruturas.
@@ -14616,7 +14734,7 @@ Tendências periódicas (raio atômico, eletronegatividade, energia de ionizaç�
 ### 10. Radioatividade
 Tipos de radiação (alfa, beta, gama), meia-vida, fissão e fusão nuclear. Contextos: energia nuclear, medicina nuclear (PET scan), datação por carbono-14.
 
-## Dicas de Resolução
+## Dicas de Resolução?
 
 **Leia o enunciado completo antes de calcular.** Muitas questões de Química do ENEM são resolvidas pela lógica do texto, sem cálculo.
 
@@ -14626,7 +14744,7 @@ Tipos de radiação (alfa, beta, gama), meia-vida, fissão e fusão nuclear. Con
 
 **Elimine alternativas absurdas.** Em questões de estimativa, elimine valores muito discrepantes dos outros.
 
-## Exercício Comentado: Estequiometria
+## Exercício Comentado: Estequiometria?
 
 *Questão-modelo:* "Na produção industrial de amônia (Processo Haber), 28 g de N2 reagem com excesso de H2. Quantos gramas de NH3 são produzidos? (N=14, H=1)"
 
@@ -14639,7 +14757,7 @@ Tipos de radiação (alfa, beta, gama), meia-vida, fissão e fusão nuclear. Con
 **[Pratique centenas de questões de Química do ENEM →](/questoes/ciencias-da-natureza)**
 
 
-## Tópicos Mais Cobrados (ENEM — INEP)
+## Tópicos Mais Cobrados (ENEM — INEP)?
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
@@ -14679,24 +14797,25 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'questoes-de-biologia-enem',
     title: 'Questões de Biologia no ENEM: O que Mais Cai e Como Estudar',
-    description: 'Guia completo dos temas de Biologia mais cobrados no ENEM. Genética, ecologia, evolução e fisiologia com dicas para não cair em pegadinhas.',
+    description: 'Guia completo dos temas de Biologia mais cobrados no ENEM. Genética, ecologia, evolução e fisiologia com dicas para não cair em pegadinhas. Acesse grátis.',
     date: '2025-06-01',
     readTime: 9,
     content: `
-## Biologia no ENEM: Visão Geral
+## Biologia no ENEM: Visão Geral?
 
 > **TL;DR:** Guia completo dos temas de Biologia mais cobrados no ENEM. Genética, ecologia, evolução e fisiologia com dicas para não cair em pegadinhas. [Pratique no ENEM Pro →](/questoes)
 
 Biologia ocupa cerca de 15 questões nas Ciências da Natureza. O diferencial do ENEM em Biologia é o foco em **interpretação de experimentos** e **aplicação de conceitos** — menos decoreba, mais raciocínio.
 
-## Temas Mais Frequentes
+## Temas Mais Frequentes?
 
 ### Genética e Herança (Alta Frequência)
 É o tema mais cobrado de Biologia no ENEM. Estude:
@@ -14745,7 +14864,7 @@ Muitos estudantes negligenciam botânica e se surpreendem com questões sobre:
 ### Biotecnologia (Frequência Crescente)
 DNA recombinante, transgênicos, clonagem, terapia gênica e CRISPR aparecem cada vez mais. O ENEM não pede o mecanismo detalhado, mas os **impactos e aplicações** dessas tecnologias.
 
-## Como Não Cair em Pegadinhas
+## Como Não Cair em Pegadinhas?
 
 1. **Leia a questão completa** — termos como "NÃO", "EXCETO", "APENAS" mudam tudo
 2. **Identifique o nível de organização** pedido — gene, célula, organismo ou população?
@@ -14753,7 +14872,7 @@ DNA recombinante, transgênicos, clonagem, terapia gênica e CRISPR aparecem cad
 4. **Em ecologia**, identifique o nível trófico de cada organismo antes de responder
 5. **Em experimentos**, pergunte: qual é a variável testada? Qual é o grupo controle?
 
-## Roteiro de Estudos para Biologia
+## Roteiro de Estudos para Biologia?
 
 | Semana | Foco |
 |--------|------|
@@ -14796,8 +14915,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -14807,13 +14927,13 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2025-06-01',
     readTime: 9,
     content: `
-## Português no ENEM: O que Realmente é Cobrado
+## Português no ENEM: O que Realmente é Cobrado?
 
 > **TL;DR:** Como o Português cai no ENEM: interpretação de textos, gêneros textuais, gramática contextualizada e figuras de linguagem. Dicas práticas para gabaritar. [Pratique no ENEM Pro →](/questoes)
 
 Língua Portuguesa representa a maior parte do caderno de Linguagens. A boa notícia: o ENEM não cobra gramática normativa decorada. O que importa é a **capacidade de ler e interpretar textos** em diferentes gêneros e linguagens.
 
-## Interpretação é 80% da Prova
+## Interpretação é 80% da Prova?
 
 A maioria das questões de Português do ENEM se resolve **dentro do próprio texto**. A habilidade central é:
 
@@ -14829,7 +14949,7 @@ A maioria das questões de Português do ENEM se resolve **dentro do próprio te
 3. Releia apenas o trecho relevante para responder a questão
 4. Elimine alternativas que contradizem o texto ou extrapolam o que está escrito
 
-## Tipos de Texto no ENEM
+## Tipos de Texto no ENEM?
 
 ### Textos Argumentativos
 Artigos de opinião, editoriais, cartas abertas. Identifique: **tese** (posição do autor), **argumentos** (como justifica), **conclusão** (o que propõe ou afirma).
@@ -14846,7 +14966,7 @@ Propagandas, slogans, anúncios. Análise de recursos persuasivos: apelo emocion
 ### Textos Multimodais
 Charges, cartuns, infográficos, fotomontagens. Exigem leitura integrada entre imagem e texto. O ENEM frequentemente pede a intenção crítica de uma charge.
 
-## Gramática Contextualizada
+## Gramática Contextualizada?
 
 ### Coesão Textual
 Os conectivos têm função precisa. Conhecer o valor semântico de cada um é essencial:
@@ -14867,7 +14987,7 @@ Não é para decorar definições — é para **identificar o efeito** no texto:
 - **Eufemismo:** suavizar algo desagradável (ele nos deixou = ele morreu)
 - **Metonímia:** substituir um termo por outro com relação de contiguidade (li Drummond = li obras de Drummond)
 
-## Dicas Práticas
+## Dicas Práticas?
 
 **Não extrapole.** A maior causa de erro em interpretação é ir além do que o texto diz. Responda com base no texto, não na sua opinião pessoal.
 
@@ -14880,7 +15000,7 @@ Não é para decorar definições — é para **identificar o efeito** no texto:
 **[Pratique interpretação textual com questões do ENEM →](/questoes/linguagens)**
 
 
-## Tópicos Mais Cobrados (ENEM — INEP)
+## Tópicos Mais Cobrados (ENEM — INEP)?
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
@@ -14919,8 +15039,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -14930,13 +15051,13 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2025-06-01',
     readTime: 9,
     content: `
-## História no ENEM: Abordagem e Metodologia
+## História no ENEM: Abordagem e Metodologia?
 
 > **TL;DR:** Os temas de História que mais caem no ENEM: Brasil República, Era Vargas, Ditadura Militar, Segunda Guerra, Guerra Fria. Dicas de estudo e questões comentadas. [Pratique no ENEM Pro →](/questoes)
 
 O ENEM trata História de forma temática e contextualizada, não cronológica. A prova raramente pede "em que ano aconteceu X" — pede que você **analise fontes históricas** (documentos, imagens, discursos) e **compreenda processos sociais**.
 
-## Temas Recorrentes
+## Temas Recorrentes?
 
 ### Escravidão e Pós-Abolição no Brasil
 Um dos temas mais cobrados nos últimos anos, em linha com a BNCC e políticas de reparação histórica. Estude:
@@ -14985,7 +15106,7 @@ Getúlio Vargas é o personagem mais cobrado do Brasil República no ENEM. Domin
 - Movimentos de independência africanos e asiáticos (pós-1945)
 - Brasil colonial: exploração, miscigenação forçada, resistência indígena
 
-## Como Interpretar Fontes Históricas no ENEM
+## Como Interpretar Fontes Históricas no ENEM?
 
 O ENEM frequentemente apresenta:
 - **Documentos oficiais:** leis, decretos, proclamações — pergunte-se: quem escreveu? Com qual interesse?
@@ -14993,7 +15114,7 @@ O ENEM frequentemente apresenta:
 - **Literatura e música:** o ENEM usa letras de música (Tropicália, samba) e trechos literários como fontes históricas
 - **Caricaturas e charges:** linguagem satírica que expõe críticas políticas do período
 
-## Mapa Mental: Brasil no Século XX
+## Mapa Mental: Brasil no Século XX?
 
 República Velha (1889-1930) → Coronelismo → Revolução de 1930
 
@@ -15008,7 +15129,7 @@ Nova República (1985-hoje) → Constituição 1988 → Collor → FHC → Lula 
 **[Pratique questões de História do ENEM com comentários →](/questoes/ciencias-humanas)**
 
 
-## Tópicos Mais Cobrados (ENEM — INEP)
+## Tópicos Mais Cobrados (ENEM — INEP)?
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
@@ -15048,8 +15169,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -15059,13 +15181,13 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2025-06-01',
     readTime: 9,
     content: `
-## Geografia no ENEM: Abordagem Atual
+## Geografia no ENEM: Abordagem Atual?
 
 > **TL;DR:** Temas de Geografia mais cobrados no ENEM: biomas brasileiros, urbanização, geopolítica mundial e problemas ambientais. Como interpretar mapas e gráficos. [Pratique no ENEM Pro →](/questoes)
 
 Geografia no ENEM vai muito além de decorar capitais e rios. A prova exige compreensão de **processos geográficos**: como o espaço é produzido, transformado e disputado por diferentes grupos sociais, econômicos e políticos.
 
-## Temas Mais Cobrados
+## Temas Mais Cobrados?
 
 ### Biomas Brasileiros
 O Brasil tem 6 biomas continentais e o ENEM cobra características, fauna, flora, ameaças e políticas de preservação de todos:
@@ -15118,7 +15240,7 @@ O Brasil tem 6 biomas continentais e o ENEM cobra características, fauna, flora
 ### Clima e Domínios Morfoclimáticos
 Os domínios de Aziz Ab'Sáber (Amazônico, Cerrado, Mares de Morros, Caatinga, Araucárias, Pradarias) frequentemente aparecem relacionados aos biomas e problemas ambientais.
 
-## Como Interpretar Mapas e Gráficos
+## Como Interpretar Mapas e Gráficos?
 
 O ENEM frequentemente traz:
 
@@ -15130,7 +15252,7 @@ O ENEM frequentemente traz:
 
 **Pirâmides etárias:** Formato da pirâmide indica o estágio demográfico — base larga (jovem), base estreita (envelhecida), transição (bulging middle).
 
-## Estratégia de Estudo
+## Estratégia de Estudo?
 
 1. **Leia notícias de geopolítica** — o ENEM cobra eventos recentes contextualizados
 2. **Use mapas físicos e políticos** durante o estudo — associe sempre ao espaço
@@ -15168,8 +15290,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -15179,13 +15302,13 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2025-06-01',
     readTime: 10,
     content: `
-## Por que Genética é Essencial no ENEM
+## Por que Genética é Essencial no ENEM?
 
 > **TL;DR:** Guia completo de Genética para o ENEM: herança mendeliana, grupos sanguíneos, herança ligada ao sexo, probabilidade e biotecnologia. Com exercícios resolvidos. [Pratique no ENEM Pro →](/questoes)
 
 Genética é o tema com maior recorrência em Biologia no ENEM — aparece em praticamente todas as edições com pelo menos 3 a 5 questões. O raciocínio lógico-matemático necessário para resolver cruzamentos a torna um diferencial importante para quem quer alta pontuação.
 
-## 1ª Lei de Mendel: Segregação dos Fatores
+## 1ª Lei de Mendel: Segregação dos Fatores?
 
 **Conceito:** Cada característica é determinada por um par de fatores (alelos) que se separam na formação dos gametas.
 
@@ -15201,7 +15324,7 @@ Aa x Aa resulta em: 1 AA : 2 Aa : 1 aa → proporção fenotípica **3 dominante
 *Questão-tipo ENEM:* "Dois pais com cabelos encaracolados têm um filho de cabelos lisos. O alelo liso é recessivo. Qual é o genótipo dos pais?"
 **Resposta:** Ambos são Aa (portadores), pois produziram um filho aa.
 
-## 2ª Lei de Mendel: Segregação Independente
+## 2ª Lei de Mendel: Segregação Independente?
 
 **Conceito:** Genes para características diferentes segregam de forma independente (quando em cromossomos diferentes).
 
@@ -15211,7 +15334,7 @@ Aa x Aa resulta em: 1 AA : 2 Aa : 1 aa → proporção fenotípica **3 dominante
 
 *Atenção:* O ENEM frequentemente traz situações em que a proporção 9:3:3:1 é modificada (epistasia, genes ligados), pedindo que você identifique o desvio e sua causa.
 
-## Grupos Sanguíneos: ABO e Rh
+## Grupos Sanguíneos: ABO e Rh?
 
 ### Sistema ABO
 - Alelos: IA, IB e i (recessivo)
@@ -15232,7 +15355,7 @@ Aa x Aa resulta em: 1 AA : 2 Aa : 1 aa → proporção fenotípica **3 dominante
 *Questão-tipo ENEM:* "Pais tipo A (IAi) e tipo B (IBi) têm 4 filhos. Que tipos sanguíneos são possíveis?"
 **Resposta:** A (IAi), B (IBi), AB (IAIB) e O (ii) — todos os 4 tipos são possíveis.
 
-## Herança Ligada ao Sexo
+## Herança Ligada ao Sexo?
 
 Genes localizados no cromossomo X têm padrão de herança diferente entre homens (XY) e mulheres (XX).
 
@@ -15256,7 +15379,7 @@ Genes localizados no cromossomo X têm padrão de herança diferente entre homen
 
 *Regra prática:* Mulher daltônica tem pai daltônico (obrigatoriamente). Homem daltônico tem mãe portadora ou daltônica.
 
-## Probabilidade em Genética
+## Probabilidade em Genética?
 
 O ENEM frequentemente combina genética com probabilidade:
 
@@ -15267,7 +15390,7 @@ O ENEM frequentemente combina genética com probabilidade:
 - P(B_) = 3/4
 - P(A_ e B_) = 3/4 x 3/4 = **9/16**
 
-## Mutação e Biotecnologia
+## Mutação e Biotecnologia?
 
 O ENEM aborda genética molecular em contextos de biotecnologia:
 - **Mutação:** alteração no DNA — pode ser pontual (substituição de base) ou cromossômica (deleção, inversão)
@@ -15275,7 +15398,7 @@ O ENEM aborda genética molecular em contextos de biotecnologia:
 - **Transgênicos:** organismos com genes de outra espécie inseridos
 - **CRISPR:** edição de genes de precisão — o ENEM já trouxe questões sobre aplicações em medicina
 
-## Roteiro de Estudo para Genética
+## Roteiro de Estudo para Genética?
 
 1. Domine a montagem da Tabela de Punnett
 2. Pratique questões de grupos sanguíneos (são as mais recorrentes)
@@ -15313,8 +15436,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -15324,13 +15448,13 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2025-06-01',
     readTime: 10,
     content: `
-## Química Orgânica no ENEM: Por que é Tão Cobrada
+## Química Orgânica no ENEM: Por que é Tão Cobrada?
 
 > **TL;DR:** Tudo sobre Química Orgânica no ENEM: funções orgânicas, nomenclatura IUPAC, isomeria, reações e combustíveis. Com questões comentadas de provas anteriores. [Pratique no ENEM Pro →](/questoes)
 
 Química Orgânica é a área com maior concentração de questões em Química no ENEM, com 4 a 6 questões por prova. O motivo é simples: a vida é orgânica. Alimentos, combustíveis, medicamentos, plásticos e cosméticos — todos são compostos orgânicos, o que facilita contextualização.
 
-## Funções Orgânicas: O Básico Essencial
+## Funções Orgânicas: O Básico Essencial?
 
 A função orgânica é determinada pelo **grupo funcional** — o conjunto de átomos responsável pelas propriedades características da molécula.
 
@@ -15362,7 +15486,7 @@ Compostos de C e H apenas. Sem heteroátomos.
 | Amina | -NH2 | Anilina | Corantes, medicamentos |
 | Amida | -CONH2 | Ureia | Fertilizante, cosméticos |
 
-## Nomenclatura IUPAC: O Essencial para o ENEM
+## Nomenclatura IUPAC: O Essencial para o ENEM?
 
 O ENEM não exige nomenclatura avançada — mas saber os princípios básicos ajuda a identificar funções e reagentes.
 
@@ -15374,7 +15498,7 @@ O ENEM não exige nomenclatura avançada — mas saber os princípios básicos a
 
 *Exemplo:* CH3-CH2-CH2-CH3 = **butano** (4 carbonos, só ligações simples)
 
-## Isomeria: O que o ENEM Cobra
+## Isomeria: O que o ENEM Cobra?
 
 **Isomeria plana** (mesma fórmula molecular, estrutura diferente):
 - **De cadeia:** diferem no esqueleto carbônico (normal vs. ramificado)
@@ -15388,7 +15512,7 @@ O ENEM não exige nomenclatura avançada — mas saber os princípios básicos a
 
 *Questão-tipo ENEM:* O talidomida causou má-formação em fetos nos anos 1960. Um enantiômero era terapêutico; o outro, teratogênico. Isso exemplifica isomeria **óptica**.
 
-## Reações Orgânicas Principais
+## Reações Orgânicas Principais?
 
 ### Reações de Adição
 Ocorrem em insaturações (duplas ou triplas ligações). A molécula "abre" a ligação pi e adiciona átomos.
@@ -15409,7 +15533,7 @@ Remove H e OH (ou HX) para formar dupla ligação.
 - **Esterificação:** ácido carboxílico + álcool → éster + água (produção de biodiesel)
 - **Saponificação:** éster + base → sal de ácido graxo (sabão) + álcool (glicerina)
 
-## Petróleo, Etanol e Biocombustíveis no ENEM
+## Petróleo, Etanol e Biocombustíveis no ENEM?
 
 O ENEM adora combustíveis como contexto de Química Orgânica:
 
@@ -15427,7 +15551,7 @@ O ENEM adora combustíveis como contexto de Química Orgânica:
 - Obtido por transesterificação de óleos vegetais com álcool (metanol ou etanol)
 - Éster + base → biodiesel + glicerina
 
-## Questão Comentada: Identificação de Função
+## Questão Comentada: Identificação de Função?
 
 *Enunciado simplificado:* "O ácido acetilsalicílico (aspirina) possui grupos -COOH e -COO-. Que funções orgânicas estão presentes?"
 
@@ -15468,24 +15592,25 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'nota-de-corte-medicina-federal-por-estado',
     title: 'Nota de Corte Medicina Federal por Estado 2025: UFMG, UFRJ, UFBA e Mais',
-    description: 'Notas de corte de Medicina nas universidades federais por estado em 2025. Compare UFMG, UFRJ, UFBA, UFPE e outras. Ampla concorrência e cotas com dados históricos.',
+    description: 'Notas de corte de Medicina nas universidades federais por estado em 2025. Compare UFMG, UFRJ, UFBA, UFPE e outras. Ampla concorrência e cotas com dados.',
     date: '2025-06-01',
     readTime: 8,
     content: `
-## Nota de Corte de Medicina nas Federais: O que Você Precisa Saber
+## Nota de Corte de Medicina nas Federais: O que Você Precisa Saber?
 
 > **TL;DR:** Notas de corte de Medicina nas universidades federais por estado em 2025. Compare UFMG, UFRJ, UFBA, UFPE e outras. Ampla concorrência e cotas com dados históricos. [Pratique no ENEM Pro →](/questoes)
 
 Medicina é o curso com maior concorrência no SISU. A nota de corte varia significativamente entre universidades, estados e modalidades de cota — entender essas diferenças é essencial para planejar sua candidatura.
 
-## Como Funcionam as Notas de Corte no SISU
+## Como Funcionam as Notas de Corte no SISU?
 
 O SISU (Sistema de Seleção Unificada) usa a nota do ENEM para preencher vagas em universidades públicas. A nota de corte **não é fixa** — ela é calculada a partir das notas dos candidatos inscritos a cada atualização do sistema.
 
@@ -15497,7 +15622,7 @@ A nota final do ENEM considera todas as 4 provas objetivas e a redação, com pe
 - **Cotas L2:** renda até 1 SM + escola pública + preto, pardo ou indígena (PPI)
 - **Cotas L9/L10:** acima de 1 SM + escola pública (com e sem PPI)
 
-## Notas de Corte por Estado (Referência 2024)
+## Notas de Corte por Estado (Referência 2024)?
 
 ### Sudeste
 
@@ -15564,7 +15689,7 @@ A nota final do ENEM considera todas as 4 provas objetivas e a redação, com pe
 
 *Atenção: Estes valores são estimativas baseadas em dados históricos. Consulte sempre o site oficial do SISU e o ENEM para dados atualizados.*
 
-## Evolução Histórica das Notas (2022–2024)
+## Evolução Histórica das Notas (2022–2024)?
 
 As notas de corte de Medicina vêm aumentando gradualmente devido a:
 - Crescimento no número de candidatos ao ENEM
@@ -15573,7 +15698,7 @@ As notas de corte de Medicina vêm aumentando gradualmente devido a:
 
 A tendência é de estabilidade, com pequenas variações anuais de 2 a 5 pontos.
 
-## Como Calcular sua Nota Média ENEM
+## Como Calcular sua Nota Média ENEM?
 
 Sua nota SISU é a **média aritmética** das 5 notas:
 - Linguagens (0–1000)
@@ -15584,7 +15709,7 @@ Sua nota SISU é a **média aritmética** das 5 notas:
 
 **Exemplo:** 750 + 780 + 760 + 800 + 900 = 3.990 / 5 = **798 pontos**
 
-## Quanto Estudar para Medicina Federal
+## Quanto Estudar para Medicina Federal?
 
 Para alcançar 820+ pontos (meta segura para a maioria das federais em ampla concorrência):
 
@@ -15597,7 +15722,7 @@ Para alcançar 820+ pontos (meta segura para a maioria das federais em ampla con
 **[Simule sua nota e compare com as de corte no ENEM Pro →](/simulado)**
 
 
-## Notas de Corte — Medicina Federal (SISU/INEP)
+## Notas de Corte — Medicina Federal (SISU/INEP)?
 
 | Ano | Faixa de nota (geral) | Referência |
 |-----|----------------------|------------|
@@ -15636,18 +15761,19 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'redacao-enem-correcao-online',
     title: 'Correção de Redação ENEM Online com IA: Como Funciona e Onde Fazer',
-    description: 'Saiba como funciona a correção de redação ENEM online com IA no ENEM Pro. Feedback nas 5 competências, exemplos de nota alta e baixa, e como melhorar sua escrita.',
+    description: 'Saiba como funciona a correção de redação ENEM online com IA no ENEM Pro. Feedback nas 5 competências, exemplos de nota alta e baixa, e como melhorar sua.',
     date: '2025-06-01',
     readTime: 8,
     content: `
-## Por que Corrigir sua Redação Antes do ENEM
+## Por que Corrigir sua Redação Antes do ENEM?
 
 > **TL;DR:** Saiba como funciona a correção de redação ENEM online com IA no ENEM Pro. Feedback nas 5 competências, exemplos de nota alta e baixa, e como melhorar sua escrita. [Pratique no ENEM Pro →](/questoes)
 
@@ -15655,7 +15781,7 @@ A redação vale até 1.000 pontos e tem peso idêntico a cada uma das 4 provas 
 
 O problema: a maioria dos candidatos escreve redações sem receber feedback qualificado. Corrigir com um professor particular é caro. Esperar a nota do ENEM demora meses. Com correção por IA, você recebe feedback detalhado em segundos.
 
-## Como a Correção de Redação Funciona no ENEM Pro
+## Como a Correção de Redação Funciona no ENEM Pro?
 
 O ENEM Pro usa inteligência artificial treinada com centenas de redações corrigidas por professores e banca do ENEM para avaliar seu texto nas **5 competências oficiais do INEP**.
 
@@ -15665,7 +15791,7 @@ O ENEM Pro usa inteligência artificial treinada com centenas de redações corr
 3. Clique em "Corrigir Redação"
 4. Receba a nota estimada e o feedback completo em segundos
 
-## As 5 Competências da Redação ENEM
+## As 5 Competências da Redação ENEM?
 
 ### Competência 1 (C1): Domínio da Norma Culta
 Avalia erros gramaticais: ortografia, acentuação, concordância, regência e pontuação. Um texto com muitos erros de C1 dificilmente ultrapassa 600 pontos.
@@ -15722,7 +15848,7 @@ Avalia a solução concreta que você propõe para o problema discutido.
 
 **Meta:** 160–200 pontos (sem proposta, nota máxima de C5 é 80)
 
-## Diferença: Correção por IA vs. Correção Humana
+## Diferença: Correção por IA vs. Correção Humana?
 
 | Critério | IA (ENEM Pro) | Professor particular |
 |----------|---------------|---------------------|
@@ -15735,7 +15861,7 @@ Avalia a solução concreta que você propõe para o problema discutido.
 
 **Recomendação:** Use a IA para feedback rápido e iterativo (escreva, corrija, reescreva). Para sua redação final antes do ENEM, busque também uma revisão humana.
 
-## Exemplos de Redação: Alta vs. Baixa Nota
+## Exemplos de Redação: Alta vs. Baixa Nota?
 
 ### Introdução Nota Alta (C2 e C3: 200/200)
 "A desigualdade no acesso à saúde mental no Brasil é um reflexo das contradições de uma sociedade que historicamente marginalizou o sofrimento psíquico. Enquanto estigmas culturais silenciam quem precisa de ajuda, a escassez de recursos públicos impede o acesso ao tratamento. Para romper esse ciclo, é imperativo que o Estado e a sociedade civil atuem de forma coordenada."
@@ -15747,7 +15873,7 @@ Por que funciona: tese clara, contextualização histórica, antecipação dos a
 
 Por que não funciona: vaga, sem tese clara, linguagem informal, sem contextualização.
 
-## Como Melhorar sua Redação com o Feedback da IA
+## Como Melhorar sua Redação com o Feedback da IA?
 
 1. **Escreva** uma redação completa (30 linhas ideais, mínimo 7 linhas)
 2. **Corrija** no ENEM Pro — leia cada competência com atenção
@@ -15779,24 +15905,25 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'enem-2026',
     title: 'ENEM 2026: Datas, Inscrição, Cronograma e Tudo que Você Precisa Saber',
-    description: 'Tudo sobre o ENEM 2026: datas previstas, como se inscrever, isenção de taxa, o que levar na prova, temas prováveis de redação e como se preparar com meses de antecedência.',
+    description: 'Tudo sobre o ENEM 2026: datas previstas, como se inscrever, isenção de taxa, o que levar na prova, temas prováveis de redação e como se preparar com meses de.',
     date: '2025-06-01',
     readTime: 11,
     content: `
-## ENEM 2026: O Guia Completo
+## ENEM 2026: O Guia Completo?
 
 > **TL;DR:** Tudo sobre o ENEM 2026: datas previstas, como se inscrever, isenção de taxa, o que levar na prova, temas prováveis de redação e como se preparar com meses de antecedência. [Pratique no ENEM Pro →](/questoes)
 
 O ENEM 2026 será mais um marco para milhões de estudantes que buscam uma vaga no ensino superior ou apenas uma certificação de conclusão do Ensino Médio. Este guia reúne tudo que você precisa saber — datas, inscrição, formato, dicas de estudo e os recursos disponíveis para se preparar.
 
-## Datas Previstas do ENEM 2026
+## Datas Previstas do ENEM 2026?
 
 *As datas oficiais são divulgadas pelo INEP. As estimativas abaixo seguem o padrão histórico:*
 
@@ -15813,7 +15940,7 @@ O ENEM 2026 será mais um marco para milhões de estudantes que buscam uma vaga 
 
 *Acompanhe o site oficial do INEP (gov.br/inep) para confirmar as datas à medida que forem divulgadas.*
 
-## Como se Inscrever no ENEM 2026
+## Como se Inscrever no ENEM 2026?
 
 ### Passo a Passo
 
@@ -15837,7 +15964,7 @@ O ENEM 2026 será mais um marco para milhões de estudantes que buscam uma vaga 
 - Participantes em situação de eliminação por fraude (5 anos de impedimento)
 - Candidatos que participarão como treineiros — estes fazem o ENEM mas a nota não é usada no SISU/Prouni
 
-## Isenção da Taxa de Inscrição
+## Isenção da Taxa de Inscrição?
 
 A isenção é concedida a:
 - Estudantes de escolas públicas (qualquer ano do EM, incluindo concluintes)
@@ -15851,13 +15978,13 @@ A isenção é concedida a:
 3. Aguarde a análise do INEP (deferido ou indeferido)
 4. Se indeferida, você pode pagar a taxa normal no período de inscrições
 
-## Documentos Necessários para a Inscrição
+## Documentos Necessários para a Inscrição?
 - **CPF** (obrigatório — é o número de inscrição)
 - Certidão de nascimento ou RG (para confirmar identidade)
 - Dados escolares (escola, série, tipo — pública ou privada)
 - Conta Gov.br ativa
 
-## O que Levar no Dia da Prova
+## O que Levar no Dia da Prova?
 
 ### Documentos (obrigatório)
 - **Documento oficial com foto** (RG, CNH, passaporte, carteira de trabalho, carteira de estudante com foto)
@@ -15874,7 +16001,7 @@ A isenção é concedida a:
 - Calculadora
 - Livros, apostilas ou cadernos
 
-## Formato e Estrutura da Prova
+## Formato e Estrutura da Prova?
 
 ### 1º Dia (sábado)
 - Linguagens, Códigos e suas Tecnologias: **45 questões**
@@ -15889,7 +16016,7 @@ A isenção é concedida a:
 - Duração: 5h (abertura às 12h, início às 13h, encerramento às 18h)
 - Mínimo 2h para entregar
 
-## Temas Prováveis de Redação 2026
+## Temas Prováveis de Redação 2026?
 
 O tema de redação do ENEM segue tendências de problemas sociais brasileiros relevantes. Temas com alta probabilidade para 2026:
 
@@ -15907,7 +16034,7 @@ O tema de redação do ENEM segue tendências de problemas sociais brasileiros r
 
 **Dica:** Prepare repertórios (dados, leis, casos históricos, pensadores) para 5 a 6 temas diferentes. Você não adivinhará o tema exato, mas estará preparado para conectar qualquer tema a argumentos sólidos.
 
-## Como Estudar para o ENEM 2026
+## Como Estudar para o ENEM 2026?
 
 ### Com 12 ou mais meses de antecedência
 Foco em construção de base sólida por disciplina. Resolva questões antigas por tema, não por prova completa.
@@ -15921,7 +16048,7 @@ Simulados completos (dias 1 e 2 com tempo real). Analise seus erros por discipli
 ### Última semana
 Revisão leve dos conteúdos dominados. Mantenha o sono regular. Não estude no dia anterior.
 
-## Recursos para se Preparar no ENEM Pro
+## Recursos para se Preparar no ENEM Pro?
 
 O ENEM Pro reúne tudo que você precisa em um único lugar:
 
@@ -15960,8 +16087,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
 ]
@@ -15974,13 +16102,13 @@ const EXTRA_POSTS_11: BlogPost[] = [
     date: '2025-01-10',
     readTime: 7,
     content: `
-## Gabarito Oficial ENEM 2019
+## Gabarito Oficial ENEM 2019?
 
 > **TL;DR:** Gabarito oficial do ENEM 2019 com respostas de Matemática, Ciências da Natureza, Ciências Humanas e Linguagens. Baixe o gabarito PDF e calcule sua nota. [Pratique no ENEM Pro →](/questoes)
 
 O ENEM 2019 foi aplicado nos dias **3 e 4 de novembro de 2019** para mais de 5,1 milhões de inscritos. O gabarito oficial foi divulgado pelo INEP em 6 de novembro de 2019, dois dias após a última prova.
 
-## Gabarito por Disciplina — 1º Dia (Domingo, 3/11/2019)
+## Gabarito por Disciplina — 1º Dia (Domingo, 3/11/2019)?
 
 ### Gabarito Completo ENEM 2019 — Acesse no INEP
 
@@ -16012,7 +16140,7 @@ As 45 questões de Humanas abordaram:
 4. Mecanismos linguísticos de argumentação
 5. Proposta de intervenção respeitando os direitos humanos
 
-## 2º Dia (Segunda, 4/11/2019)
+## 2º Dia (Segunda, 4/11/2019)?
 
 ### Ciências da Natureza e suas Tecnologias
 
@@ -16037,7 +16165,7 @@ O ENEM 2019 de Matemática cobrou intensamente:
 - **Q145 (Matemática)** — Geometria analítica e vetores
 - **Q5 (Linguagens)** — Interpretação de texto com recurso multissemiótico (gráfico + texto)
 
-## Como Calcular sua Nota no ENEM 2019
+## Como Calcular sua Nota no ENEM 2019?
 
 A nota do ENEM é calculada pela **Teoria de Resposta ao Item (TRI)**, não pela quantidade simples de acertos. Isso significa que:
 
@@ -16057,7 +16185,7 @@ A nota do ENEM é calculada pela **Teoria de Resposta ao Item (TRI)**, não pela
 
 *Use nossa [calculadora de nota ENEM](/calcular-nota) para uma estimativa mais precisa.*
 
-## Notas de Corte SISU 2020 (baseadas no ENEM 2019)
+## Notas de Corte SISU 2020 (baseadas no ENEM 2019)?
 
 As notas abaixo foram as mínimas para ingresso via SISU no 1º semestre de 2020:
 
@@ -16070,7 +16198,7 @@ As notas abaixo foram as mínimas para ingresso via SISU no 1º semestre de 2020
 | Engenharia Civil | ITA | 814,00 |
 | Medicina (cotas) | UFMG | 810,30 |
 
-## ENEM 2019 vs Anos Anteriores
+## ENEM 2019 vs Anos Anteriores?
 
 | Edição | Nível de dificuldade (Matemática) | Média geral |
 |--------|----------------------------------|-------------|
@@ -16081,11 +16209,11 @@ As notas abaixo foram as mínimas para ingresso via SISU no 1º semestre de 2020
 | ENEM 2023 | Alto | ~528 |
 | ENEM 2024 | Médio-alto | ~538 |
 
-## Onde Baixar o Gabarito Oficial em PDF
+## Onde Baixar o Gabarito Oficial em PDF?
 
 O gabarito oficial completo está disponível no portal do INEP (gov.br/inep), na seção ENEM → Gabaritos. Você encontra todos os cadernos (Amarelo, Branco, Azul, Rosa) em formato PDF.
 
-## Pratique com Questões do ENEM 2019
+## Pratique com Questões do ENEM 2019?
 
 O ENEM Pro tem questões reais do ENEM de 2009 a 2024, incluindo 2019. Filtre por disciplina e ano para praticar:
 
@@ -16113,31 +16241,32 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-enem-2018',
     title: 'Gabarito ENEM 2018 — Respostas Oficiais e Análise das Provas',
-    description: 'Gabarito oficial do ENEM 2018 com respostas por disciplina. Veja os temas de redação, questões mais difíceis e calcule sua nota com nossa ferramenta.',
+    description: 'Gabarito oficial do ENEM 2018 com respostas por disciplina. Veja os temas de redação, questões mais difíceis e calcule sua nota com nossa ferramenta. Grátis.',
     date: '2025-01-08',
     readTime: 7,
     content: `
-## Gabarito Oficial ENEM 2018
+## Gabarito Oficial ENEM 2018?
 
 > **TL;DR:** Gabarito oficial do ENEM 2018 com respostas por disciplina. Veja os temas de redação, questões mais difíceis e calcule sua nota com nossa ferramenta. [Pratique no ENEM Pro →](/questoes)
 
 O ENEM 2018 foi aplicado nos dias **4 e 11 de novembro de 2018** e marcou o primeiro ano de aplicação em dois domingos consecutivos (antes era sábado e domingo no mesmo fim de semana). Mais de 5,5 milhões de candidatos se inscreveram.
 
-## Calendário ENEM 2018
+## Calendário ENEM 2018?
 
 | Data | Provas aplicadas |
 |------|-----------------|
 | 4/11/2018 (1º domingo) | Linguagens + Ciências Humanas + Redação |
 | 11/11/2018 (2º domingo) | Ciências da Natureza + Matemática |
 
-## Redação ENEM 2018
+## Redação ENEM 2018?
 
 **Tema:** *Manipulação do comportamento do usuário pelo controle de dados na internet*
 
@@ -16146,7 +16275,7 @@ O ENEM 2018 foi aplicado nos dias **4 e 11 de novembro de 2018** e marcou o prim
 **Competência 5 — Proposta de intervenção exemplar:**
 *"Cabe ao Estado, por meio do Ministério da Justiça, implementar legislação específica de proteção de dados — como a LGPD, sancionada em agosto de 2018 — com fiscalização efetiva das plataformas digitais, a fim de coibir o uso indevido de informações pessoais sem o consentimento explícito dos usuários."*
 
-## 1º Dia — Linguagens e Ciências Humanas
+## 1º Dia — Linguagens e Ciências Humanas?
 
 ### Linguagens, Códigos e suas Tecnologias
 
@@ -16164,7 +16293,7 @@ O ENEM 2018 foi aplicado nos dias **4 e 11 de novembro de 2018** e marcou o prim
 | Filosofia | Iluminismo, contratualismo (Rousseau, Locke), ética |
 | Sociologia | Globalização, identidade cultural, desigualdade |
 
-## 2º Dia — Ciências da Natureza e Matemática
+## 2º Dia — Ciências da Natureza e Matemática?
 
 ### Ciências da Natureza
 
@@ -16186,7 +16315,7 @@ O ENEM 2018 de Ciências trouxe questões contextualizadas:
 3. Estatística (4 questões)
 4. Probabilidade (3 questões)
 
-## Gabarito Completo
+## Gabarito Completo?
 
 O gabarito oficial está disponível no INEP. As respostas foram divulgadas em 13/11/2018 (dois dias após a segunda aplicação).
 
@@ -16198,7 +16327,7 @@ O gabarito oficial está disponível no INEP. As respostas foram divulgadas em 1
 
 *Acesse: gov.br/inep → ENEM → Gabaritos → 2018*
 
-## Notas de Corte SISU 2019 (ENEM 2018)
+## Notas de Corte SISU 2019 (ENEM 2018)?
 
 | Curso | Universidade | Ampla concorrência |
 |-------|-------------|-------------------|
@@ -16208,7 +16337,7 @@ O gabarito oficial está disponível no INEP. As respostas foram divulgadas em 1
 | Direito | USP | 790,30 |
 | Engenharia de Computação | ITA | 820,00 |
 
-## Resolva Questões do ENEM 2018
+## Resolva Questões do ENEM 2018?
 
 Pratique com questões reais do ENEM 2018 no ENEM Pro:
 
@@ -16243,24 +16372,25 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-enem-2017',
     title: 'Gabarito ENEM 2017 — Respostas Oficiais, Redação e Análise',
-    description: 'Gabarito completo do ENEM 2017 com respostas por disciplina. Tema da redação, questões mais difíceis e como calcular sua nota na edição de 2017.',
+    description: 'Gabarito completo do ENEM 2017 com respostas por disciplina. Tema da redação, questões mais difíceis e como calcular sua nota na edição de 2017. Acesse grátis.',
     date: '2025-01-05',
     readTime: 7,
     content: `
-## Gabarito ENEM 2017
+## Gabarito ENEM 2017?
 
 > **TL;DR:** Gabarito completo do ENEM 2017 com respostas por disciplina. Tema da redação, questões mais difíceis e como calcular sua nota na edição de 2017. [Pratique no ENEM Pro →](/questoes)
 
 O ENEM 2017 foi aplicado nos dias **5 e 12 de novembro de 2017**. A edição ficou marcada pelo tema polêmico da redação e por problemas logísticos em alguns estados do Nordeste.
 
-## Redação ENEM 2017
+## Redação ENEM 2017?
 
 **Tema:** *Desafios para a formação educacional de surdos no Brasil*
 
@@ -16275,7 +16405,7 @@ O ENEM 2017 foi aplicado nos dias **5 e 12 de novembro de 2017**. A edição fic
 **Competência 5 modelo:**
 *"Cabe ao Ministério da Educação, em parceria com as secretarias estaduais, ampliar a formação de intérpretes de LIBRAS e obrigar a presença desses profissionais em todas as escolas públicas com alunos surdos matriculados, garantindo o acesso pleno ao conteúdo educacional."*
 
-## 1º Dia — Linguagens e Ciências Humanas
+## 1º Dia — Linguagens e Ciências Humanas?
 
 ### Linguagens 2017
 
@@ -16293,7 +16423,7 @@ O ENEM 2017 foi aplicado nos dias **5 e 12 de novembro de 2017**. A edição fic
 | Filosofia | Platão, Aristóteles, Kant — ética e política |
 | Sociologia | Trabalho, classes sociais, Pierre Bourdieu |
 
-## 2º Dia — Ciências da Natureza e Matemática
+## 2º Dia — Ciências da Natureza e Matemática?
 
 ### Ciências da Natureza 2017
 
@@ -16321,7 +16451,7 @@ O ENEM 2017 foi considerado de **nível médio-alto** em Ciências:
 | Trigonometria | 4 |
 | Outros | 8 |
 
-## Gabarito Oficial ENEM 2017
+## Gabarito Oficial ENEM 2017?
 
 O gabarito foi divulgado no dia 14/11/2017. Disponível no site do INEP em:
 
@@ -16329,7 +16459,7 @@ O gabarito foi divulgado no dia 14/11/2017. Disponível no site do INEP em:
 
 **Cadernos:** Amarelo, Branco, Azul, Rosa (cada um com questões em ordem diferente).
 
-## Notas de Corte SISU 2018
+## Notas de Corte SISU 2018?
 
 | Curso | Instituição | Nota mínima (AC) |
 |-------|-------------|-----------------|
@@ -16339,7 +16469,7 @@ O gabarito foi divulgado no dia 14/11/2017. Disponível no site do INEP em:
 | Direito | PUC-Rio | 776,30 |
 | Ciência da Computação | UNICAMP | 742,00 |
 
-## Compare com Outros Anos
+## Compare com Outros Anos?
 
 O ENEM 2017 foi ligeiramente mais difícil que o 2016 em Matemática, mas mais fácil em Ciências da Natureza.
 
@@ -16374,8 +16504,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -16385,13 +16516,13 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2025-02-10',
     readTime: 8,
     content: `
-## Gabarito Matemática ENEM 2023
+## Gabarito Matemática ENEM 2023?
 
 > **TL;DR:** Gabarito oficial de Matemática do ENEM 2023 com respostas de todas as 45 questões. Veja quais temas foram cobrados, dificuldade por questão e como estudar. [Pratique no ENEM Pro →](/questoes)
 
 A prova de **Matemática e suas Tecnologias** do ENEM 2023 foi aplicada no **2º domingo (12/11/2023)**. Com 45 questões, a prova de 2023 foi considerada de **nível alto** pela maioria dos professores.
 
-## Gabarito Oficial ENEM 2023 — Acesse no INEP
+## Gabarito Oficial ENEM 2023 — Acesse no INEP?
 
 O gabarito completo com as 45 questões de Matemática está disponível no portal oficial do INEP, que publica todos os cadernos (Amarelo, Azul, Branco, Rosa) em até 48h após a aplicação. Lá você também confere eventuais questões anuladas.
 
@@ -16399,7 +16530,7 @@ O gabarito completo com as 45 questões de Matemática está disponível no port
 
 A seguir, veja a análise completa: distribuição por tema, questões mais difíceis e dicas de estudo baseadas nesta edição.
 
-## Análise dos Temas Cobrados
+## Análise dos Temas Cobrados?
 
 ### Distribuição por Área
 
@@ -16432,7 +16563,7 @@ Circunferência e parábola — encontrar ponto de interseção exigiu resoluç�
 **Q138 — Aritmética** — 71% de acertos — porcentagem em contexto cotidiano
 **Q148 — Estatística** — 69% de acertos — média simples a partir de tabela
 
-## Como Foi a Prova Comparada aos Anos Anteriores
+## Como Foi a Prova Comparada aos Anos Anteriores?
 
 | Ano | Nível geral | Média estimada |
 |-----|-------------|---------------|
@@ -16445,7 +16576,7 @@ Circunferência e parábola — encontrar ponto de interseção exigiu resoluç�
 
 O ENEM 2023 de Matemática foi um dos mais difíceis da última meia-década, com muitas questões exigindo múltiplas etapas de resolução.
 
-## O que Mais Cai em Matemática no ENEM
+## O que Mais Cai em Matemática no ENEM?
 
 Baseado no histórico de 2009 a 2024:
 
@@ -16455,7 +16586,7 @@ Baseado no histórico de 2009 a 2024:
 4. **Probabilidade** — espaço amostral, probabilidade condicional
 5. **Geometria espacial** — volume de cilindro, cone, esfera, pirâmide
 
-## Pratique com Questões de Matemática ENEM
+## Pratique com Questões de Matemática ENEM?
 
 **[Resolver questões de Matemática do ENEM 2023 →](/questoes?year=2023&discipline=Matem%C3%A1tica)**
 
@@ -16488,8 +16619,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -16499,13 +16631,13 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2025-02-08',
     readTime: 8,
     content: `
-## Gabarito Ciências da Natureza ENEM 2023
+## Gabarito Ciências da Natureza ENEM 2023?
 
 > **TL;DR:** Gabarito oficial de Ciências da Natureza do ENEM 2023 com respostas por área. Análise de Física, Química e Biologia cobrados na prova de novembro de 2023. [Pratique no ENEM Pro →](/questoes)
 
 A prova de **Ciências da Natureza e suas Tecnologias** foi aplicada no **2º domingo (12/11/2023)**, junto com Matemática. Com 45 questões divididas entre Física, Química e Biologia (15 de cada), a prova de 2023 foi considerada de **nível médio-alto**.
 
-## Gabarito Oficial ENEM 2023 — Acesse no INEP
+## Gabarito Oficial ENEM 2023 — Acesse no INEP?
 
 O gabarito completo com as 45 questões de Ciências da Natureza (Física, Química e Biologia) está disponível no portal oficial do INEP para download em PDF.
 
@@ -16513,7 +16645,7 @@ O gabarito completo com as 45 questões de Ciências da Natureza (Física, Quím
 
 Abaixo encontre a análise detalhada do que foi cobrado em cada área nesta edição.
 
-## Análise por Área
+## Análise por Área?
 
 ### Física — 15 questões ENEM 2023
 
@@ -16551,7 +16683,7 @@ Eletroquímica aplicada à indústria (galvanoplastia) — cobrou lei de Faraday
 **Questão mais difícil — Q107:**
 Biotecnologia + genética molecular: como a transgenia é usada na produção de insulina. Menos de 15% de acertos.
 
-## Dicas para se Dar Bem em CN
+## Dicas para se Dar Bem em CN?
 
 ### Física: o que estudar primeiro
 1. **Mecânica** (cinemática + dinâmica) — sempre 4-5 questões
@@ -16574,7 +16706,7 @@ Biotecnologia + genética molecular: como a transgenia é usada na produção de
 **[Resolver questões de Ciências da Natureza do ENEM →](/questoes?discipline=Ci%C3%AAncias%20da%20Natureza%20e%20suas%20Tecnologias)**
 
 
-## Dados do ENEM 2023 — INEP
+## Dados do ENEM 2023 — INEP?
 
 | Dado | Valor |
 |------|-------|
@@ -16615,24 +16747,25 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-ciencias-humanas-enem-2023',
     title: 'Gabarito Ciências Humanas ENEM 2023 — Respostas e Análise',
-    description: 'Gabarito de Ciências Humanas do ENEM 2023 com respostas de todas as 45 questões. História, Geografia, Filosofia e Sociologia: o que foi cobrado em novembro de 2023.',
+    description: 'Gabarito de Ciências Humanas do ENEM 2023 com respostas de todas as 45 questões. História, Geografia, Filosofia e Sociologia: o que foi cobrado em novembro de.',
     date: '2025-02-06',
     readTime: 7,
     content: `
-## Gabarito Ciências Humanas ENEM 2023
+## Gabarito Ciências Humanas ENEM 2023?
 
 > **TL;DR:** Gabarito de Ciências Humanas do ENEM 2023 com respostas de todas as 45 questões. História, Geografia, Filosofia e Sociologia: o que foi cobrado em novembro de 2023. [Pratique no ENEM Pro →](/questoes)
 
 A prova de **Ciências Humanas e suas Tecnologias** foi aplicada no **1º domingo (5/11/2023)**, junto com Linguagens e Redação. As 45 questões são distribuídas entre História, Geografia, Filosofia e Sociologia.
 
-## Gabarito Oficial ENEM 2023 — Acesse no INEP
+## Gabarito Oficial ENEM 2023 — Acesse no INEP?
 
 O gabarito completo com as 45 questões de Ciências Humanas (História, Geografia, Filosofia e Sociologia) está disponível no portal oficial do INEP para download em PDF, incluindo todos os cadernos.
 
@@ -16640,7 +16773,7 @@ O gabarito completo com as 45 questões de Ciências Humanas (História, Geograf
 
 A seguir, análise completa dos temas cobrados por disciplina nesta edição.
 
-## Análise por Disciplina
+## Análise por Disciplina?
 
 ### História ENEM 2023 (≈14 questões)
 
@@ -16684,7 +16817,7 @@ O ENEM 2023 trouxe uma questão sobre resistência quilombola que exigiu anális
 - Globalização e desigualdade
 - Questão racial e feminismo
 
-## Estratégia para Humanas no ENEM
+## Estratégia para Humanas no ENEM?
 
 ### Método de Leitura de Textos
 
@@ -16735,24 +16868,25 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-linguagens-enem-2023',
     title: 'Gabarito de Linguagens ENEM 2023 — Respostas e Análise das Questões',
-    description: 'Gabarito oficial de Linguagens do ENEM 2023 com respostas de Língua Portuguesa e Inglês/Espanhol. O que foi cobrado, questões mais difíceis e dicas de preparação.',
+    description: 'Gabarito oficial de Linguagens do ENEM 2023 com respostas de Língua Portuguesa e Inglês/Espanhol. O que foi cobrado, questões mais difíceis e dicas de.',
     date: '2025-02-04',
     readTime: 7,
     content: `
-## Gabarito Linguagens ENEM 2023
+## Gabarito Linguagens ENEM 2023?
 
 > **TL;DR:** Gabarito oficial de Linguagens do ENEM 2023 com respostas de Língua Portuguesa e Inglês/Espanhol. O que foi cobrado, questões mais difíceis e dicas de preparação. [Pratique no ENEM Pro →](/questoes)
 
 A prova de **Linguagens, Códigos e suas Tecnologias** foi aplicada no **1º domingo (5/11/2023)**. São 45 questões de Língua Portuguesa + 5 de Língua Estrangeira (inglês ou espanhol) = 50 questões totais (mas a nota é em 45).
 
-## Gabarito Oficial ENEM 2023 — Acesse no INEP
+## Gabarito Oficial ENEM 2023 — Acesse no INEP?
 
 O gabarito completo com as 45 questões de Linguagens e as 5 de Língua Estrangeira (inglês ou espanhol) está disponível no portal oficial do INEP para download.
 
@@ -16760,7 +16894,7 @@ O gabarito completo com as 45 questões de Linguagens e as 5 de Língua Estrange
 
 A seguir, análise do que foi cobrado em Língua Portuguesa, Literatura e Língua Estrangeira nesta edição.
 
-## Análise da Prova
+## Análise da Prova?
 
 ### Língua Portuguesa — O que foi cobrado
 
@@ -16810,7 +16944,7 @@ A seguir, análise do que foi cobrado em Língua Portuguesa, Literatura e Língu
 
 **Q41 — Variação linguística + norma culta:** questão armadilha que misturava conceito de erro vs. variação.
 
-## Como se Preparar para Linguagens no ENEM
+## Como se Preparar para Linguagens no ENEM?
 
 ### Rotina de estudo eficiente
 
@@ -16857,24 +16991,25 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'cronograma-enem-6-meses',
     title: 'Cronograma ENEM 6 Meses — Plano de Estudos Semana a Semana',
-    description: 'Cronograma completo de 6 meses para o ENEM com plano semana a semana. Organize seu tempo, priorize disciplinas e chegue ao dia da prova preparado.',
+    description: 'Cronograma completo de 6 meses para o ENEM com plano semana a semana. Organize seu tempo, priorize disciplinas e chegue ao dia da prova preparado. Grátis.',
     date: '2025-03-01',
     readTime: 12,
     content: `
-## Cronograma ENEM 6 Meses: Como Planejar seu Estudo
+## Cronograma ENEM 6 Meses: Como Planejar seu Estudo?
 
 > **TL;DR:** Cronograma completo de 6 meses para o ENEM com plano semana a semana. Organize seu tempo, priorize disciplinas e chegue ao dia da prova preparado. [Pratique no ENEM Pro →](/questoes)
 
 6 meses é o tempo ideal para uma preparação sólida para o ENEM — suficiente para revisar todo o conteúdo das 4 áreas e treinar com questões reais. Este cronograma pressupõe **2 a 3 horas de estudo por dia** em dias de semana.
 
-## Visão Geral dos 6 Meses
+## Visão Geral dos 6 Meses?
 
 | Mês | Foco principal |
 |-----|----------------|
@@ -16885,7 +17020,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 | Mês 5 | Revisão geral + Simulados temáticos |
 | Mês 6 | Reta final — simulados completos + pontos fracos |
 
-## Mês 1: Base e Diagnóstico
+## Mês 1: Base e Diagnóstico?
 
 ### Semana 1 — Diagnóstico inicial
 - **Dia 1-2:** Faça um simulado diagnóstico com questões de todos os anos — anote suas notas por área
@@ -16909,7 +17044,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 *Meta:* 10 questões de geometria — acertar 60%
 
-## Mês 2: Ciências da Natureza
+## Mês 2: Ciências da Natureza?
 
 ### Semana 5-6 — Física
 **Prioridade 1 — Mecânica:**
@@ -16937,7 +17072,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 - Biomas brasileiros (Cerrado, Amazônia, Caatinga)
 - Impactos ambientais
 
-## Mês 3: Ciências Humanas
+## Mês 3: Ciências Humanas?
 
 ### Semana 9-10 — História
 **Brasil Colônia ao Império:**
@@ -16968,7 +17103,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 **Sociologia:**
 - Bourdieu (habitus, campo), Durkheim (fato social), Weber (ação social), Marx (alienação, luta de classes)
 
-## Mês 4: Linguagens e Redação
+## Mês 4: Linguagens e Redação?
 
 ### Semana 13-14 — Redação (intensivo)
 - **Semana 13:** Estrutura da dissertação argumentativa — intro, 2 argumentos, conclusão com proposta
@@ -16985,7 +17120,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 - Modernismo, Realismo, Romantismo brasileiro
 - 10 questões de literatura por semana
 
-## Mês 5: Revisão e Simulados Temáticos
+## Mês 5: Revisão e Simulados Temáticos?
 
 ### Semana 17-18 — Revisão geral
 - Segunda-feira: Matemática (pontos fracos)
@@ -17001,7 +17136,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 - Analise os erros imediatamente após
 - Use a aba Revisão do ENEM Pro para focar nos pontos fracos
 
-## Mês 6: Reta Final
+## Mês 6: Reta Final?
 
 ### Semana 21-22 — Simulados completos
 - 1 simulado completo (todas as disciplinas) por semana
@@ -17019,7 +17154,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 - Durma bem — 8h por noite
 - Revise o local de prova
 
-## Cronograma Semanal Modelo (2-3h/dia)
+## Cronograma Semanal Modelo (2-3h/dia)?
 
 | Dia | Tarefa | Tempo |
 |-----|--------|-------|
@@ -17031,7 +17166,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 | Sábado | Questões mistas + revisão | 3h |
 | Domingo | Descanso ou simulado |  — |
 
-## Monte seu Cronograma Personalizado
+## Monte seu Cronograma Personalizado?
 
 Use o cronograma interativo do ENEM Pro: defina dias disponíveis, horas por sessão e prioridades por disciplina — o sistema calcula o plano ideal para você.
 
@@ -17066,8 +17201,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -17077,13 +17213,13 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2025-03-03',
     readTime: 11,
     content: `
-## Cronograma ENEM 1 Ano: A Preparação Mais Completa Possível
+## Cronograma ENEM 1 Ano: A Preparação Mais Completa Possível?
 
 > **TL;DR:** Plano de estudos para o ENEM com 1 ano de antecedência. Divisão mensal, semanal e dicas de execução para quem quer estudar com calma e chegar bem preparado. [Pratique no ENEM Pro →](/questoes)
 
 Quem começa com 1 ano de antecedência tem a maior vantagem competitiva possível no ENEM. Com tempo de sobra, é possível estudar com profundidade, revisar várias vezes e ainda ter margem para imprevistos.
 
-## Divisão dos 12 Meses
+## Divisão dos 12 Meses?
 
 | Trimestre | Foco |
 |-----------|------|
@@ -17092,7 +17228,7 @@ Quem começa com 1 ano de antecedência tem a maior vantagem competitiva possív
 | Meses 7-9 | Questões e prática intensiva |
 | Meses 10-12 | Revisão, simulados e reta final |
 
-## Trimestre 1 — Fundação (Meses 1 a 3)
+## Trimestre 1 — Fundação (Meses 1 a 3)?
 
 ### Mês 1: Matemática — Fundação
 
@@ -17140,7 +17276,7 @@ Quem começa com 1 ano de antecedência tem a maior vantagem competitiva possív
 - Gêneros textuais: dissertação, narrativa, descritivo
 - Gramática: morfologia básica (classes de palavras)
 
-## Trimestre 2 — Aprofundamento (Meses 4 a 6)
+## Trimestre 2 — Aprofundamento (Meses 4 a 6)?
 
 ### Mês 4: Matemática — Aprofundamento
 
@@ -17183,7 +17319,7 @@ Quem começa com 1 ano de antecedência tem a maior vantagem competitiva possív
 - Literatura: modernismo brasileiro (Semana de 22, gerações)
 - Redação: estrutura dissertativa-argumentativa completa
 
-## Trimestre 3 — Prática Intensiva (Meses 7 a 9)
+## Trimestre 3 — Prática Intensiva (Meses 7 a 9)?
 
 ### Meses 7-8: Questões por Disciplina
 - 20-30 questões por dia
@@ -17195,7 +17331,7 @@ Quem começa com 1 ano de antecedência tem a maior vantagem competitiva possív
 - Simule tempo real (5h30 para o dia completo)
 - Use a aba Histórico do ENEM Pro para ver evolução
 
-## Trimestre 4 — Revisão e Simulados (Meses 10 a 12)
+## Trimestre 4 — Revisão e Simulados (Meses 10 a 12)?
 
 ### Meses 10-11: Revisão Geral + Simulados
 - Foco nos pontos fracos identificados nos meses anteriores
@@ -17207,7 +17343,7 @@ Quem começa com 1 ano de antecedência tem a maior vantagem competitiva possív
 - **Última semana:** Descanso ativo — releitura de anotações
 - **Dias antes:** Prepare documentos, roupa, lanche. Durma cedo
 
-## Tabela de Horas de Estudo
+## Tabela de Horas de Estudo?
 
 Com 1 hora por dia (mínimo): 365 horas em 1 ano — suficiente para uma boa preparação.
 
@@ -17218,7 +17354,7 @@ Com 1 hora por dia (mínimo): 365 horas em 1 ano — suficiente para uma boa pre
 | 3h | 1095h | Excelente — revisões múltiplas + muita prática |
 | 4h+ | 1460h+ | Medicina, Direito em USP/UNICAMP |
 
-## Automatize seu Cronograma
+## Automatize seu Cronograma?
 
 O ENEM Pro gera cronogramas personalizados: você informa dias disponíveis, horas por sessão e suas prioridades por disciplina — e o sistema cria o plano ideal.
 
@@ -17253,24 +17389,25 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'biologia-celular-enem',
     title: 'Biologia Celular no ENEM — O Que Cai e Como Estudar',
-    description: 'Tudo sobre Biologia Celular no ENEM: organelas, membrana, divisão celular, respiração e fotossíntese. Questões mais cobradas e dicas para não errar.',
+    description: 'Tudo sobre Biologia Celular no ENEM: organelas, membrana, divisão celular, respiração e fotossíntese. Questões mais cobradas e dicas para não errar. Grátis.',
     date: '2025-04-01',
     readTime: 9,
     content: `
-## Biologia Celular no ENEM
+## Biologia Celular no ENEM?
 
 > **TL;DR:** Tudo sobre Biologia Celular no ENEM: organelas, membrana, divisão celular, respiração e fotossíntese. Questões mais cobradas e dicas para não errar. [Pratique no ENEM Pro →](/questoes)
 
 A célula é o tema mais cobrado de Biologia no ENEM — presente em **3 a 5 questões por edição**, com foco em organelas, membrana plasmática, divisão celular (mitose e meiose) e metabolismo energético (respiração celular e fotossíntese).
 
-## O Que Mais Cai em Biologia Celular no ENEM
+## O Que Mais Cai em Biologia Celular no ENEM?
 
 | Tópico | Frequência | Peso |
 |--------|-----------|------|
@@ -17282,7 +17419,7 @@ A célula é o tema mais cobrado de Biologia no ENEM — presente em **3 a 5 que
 | Diferença entre célula animal e vegetal | Média | Médio |
 | Procarioto vs eucarioto | Média | Baixo-médio |
 
-## Organelas Celulares — O Que o ENEM Pergunta
+## Organelas Celulares — O Que o ENEM Pergunta?
 
 ### Mitocôndria
 **O que o ENEM pergunta:**
@@ -17321,7 +17458,7 @@ Resposta: As mitocôndrias são as organelas responsáveis pela respiração aer
 - Armazenamento de água, açúcares, pigmentos, resíduos
 - Mantém turgidez da célula (importante em plantas)
 
-## Membrana Plasmática — Transporte
+## Membrana Plasmática — Transporte?
 
 ### Transporte Passivo (sem gasto de ATP)
 | Tipo | O que é |
@@ -17341,7 +17478,7 @@ Resposta: As mitocôndrias são as organelas responsáveis pela respiração aer
 *"Uma célula vegetal colocada em solução hipertônica perde água. Esse processo se chama..."*
 Resposta: Plasmólise — a célula murcha porque perde água por osmose para o meio mais concentrado.
 
-## Divisão Celular
+## Divisão Celular?
 
 ### Mitose
 - Divisão somática (células do corpo)
@@ -17368,7 +17505,7 @@ Resposta: Plasmólise — a célula murcha porque perde água por osmose para o 
 - Recombinação genética entre cromossomos homólogos
 - Gera variabilidade genética — importante para a evolução
 
-## Respiração Celular
+## Respiração Celular?
 
 ### Etapas (sem decorar fórmulas)
 1. **Glicólise** (citoplasma): glicose → piruvato + ATP + NADH
@@ -17380,7 +17517,7 @@ Resposta: Plasmólise — a célula murcha porque perde água por osmose para o 
 - O que é respiração anaeróbica? Sem O₂ — produz fermentação (lática ou alcoólica)
 - Fermentação lática: músculos em esforço intenso → ácido lático → cansaço muscular
 
-## Fotossíntese
+## Fotossíntese?
 
 **Equação simplificada:**
 6CO₂ + 6H₂O + luz → C₆H₁₂O₆ + 6O₂
@@ -17394,7 +17531,7 @@ Resposta: Plasmólise — a célula murcha porque perde água por osmose para o 
 - Qual fase fixa CO₂? Ciclo de Calvin (fase escura)
 - Fatores que afetam a fotossíntese: intensidade de luz, CO₂, temperatura
 
-## Resumo para Revisão Rápida
+## Resumo para Revisão Rápida?
 
 | Conceito | Lembre-se |
 |----------|-----------|
@@ -17437,8 +17574,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -17448,13 +17586,13 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2025-04-05',
     readTime: 9,
     content: `
-## Física Moderna no ENEM
+## Física Moderna no ENEM?
 
 > **TL;DR:** Física Moderna no ENEM: radioatividade, meia-vida, efeito fotoelétrico, dualidade onda-partícula e relatividade restrita. Questões mais cobradas com resolução. [Pratique no ENEM Pro →](/questoes)
 
 Física Moderna aparece em **2 a 4 questões por edição** do ENEM, com foco em radioatividade, efeito fotoelétrico, dualidade onda-partícula e conceitos de relatividade. É um tema que muitos alunos negligenciam — e por isso pode ser um diferencial.
 
-## Radioatividade
+## Radioatividade?
 
 ### Tipos de Radiação
 
@@ -17495,7 +17633,7 @@ Restam **1/8 (12,5%)** da amostra original.
 | Radioterapia | Cobalto-60 (γ) | Destruição de células cancerosas |
 | Usinas nucleares | Urânio-235 (fissão) | Produção de energia elétrica |
 
-## Efeito Fotoelétrico
+## Efeito Fotoelétrico?
 
 O efeito fotoelétrico foi explicado por **Einstein em 1905** (o que lhe rendeu o Nobel em 1921).
 
@@ -17524,7 +17662,7 @@ Ec = h×f − φ
 
 Resposta: A luz azul tem maior frequência (e portanto maior energia por fóton) que a vermelha. Apenas quando a energia do fóton supera a função trabalho do metal há emissão de elétrons.
 
-## Relatividade Restrita (Einstein, 1905)
+## Relatividade Restrita (Einstein, 1905)?
 
 O ENEM não cobra cálculos complexos de relatividade, mas cobra **conceitos**:
 
@@ -17546,7 +17684,7 @@ O ENEM não cobra cálculos complexos de relatividade, mas cobra **conceitos**:
 
 Mais de 1 ano — devido à dilatação do tempo, o relógio terrestre "andou" mais rápido que o do astronauta.
 
-## Modelo Atômico Histórico (cobra no ENEM)
+## Modelo Atômico Histórico (cobra no ENEM)?
 
 | Modelo | Autor | O que propôs |
 |--------|-------|-------------|
@@ -17558,7 +17696,7 @@ Mais de 1 ano — devido à dilatação do tempo, o relógio terrestre "andou" m
 **O que Rutherford descobriu e como:**
 Bombardeou folha de ouro com partículas α. A maioria passou (átomo é "vazio"), mas algumas foram defletidas ou refletidas → existe um núcleo pequeno e denso.
 
-## Resumo para o ENEM
+## Resumo para o ENEM?
 
 | Tópico | Fórmula chave | O que lembrar |
 |--------|--------------|---------------|
@@ -17599,24 +17737,25 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'ciencias-humanas-enem-guia-avancado',
     title: 'Ciências Humanas ENEM — Guia Avançado para Nota 700+',
-    description: 'Estratégia avançada de Ciências Humanas para o ENEM. Como ir de 600 para 700+ em História, Geografia, Filosofia e Sociologia com as técnicas que os melhores candidatos usam.',
+    description: 'Estratégia avançada de Ciências Humanas para o ENEM. Como ir de 600 para 700+ em História, Geografia, Filosofia e Sociologia com as técnicas que os melhores.',
     date: '2025-03-10',
     readTime: 11,
     content: `
-## Como Estudar Ciências Humanas para o ENEM
+## Como Estudar Ciências Humanas para o ENEM?
 
 > **TL;DR:** Estratégia avançada de Ciências Humanas para o ENEM. Como ir de 600 para 700+ em História, Geografia, Filosofia e Sociologia com as técnicas que os melhores candidatos usam. [Pratique no ENEM Pro →](/questoes)
 
 Ciências Humanas é a área com **maior potencial de crescimento de nota** no ENEM para a maioria dos candidatos. Com a estratégia certa, é possível tirar acima de 700 em Humanas sem ter estudado com profundidade no Ensino Médio.
 
-## Por Que Humanas é Diferente das Outras Áreas
+## Por Que Humanas é Diferente das Outras Áreas?
 
 Diferente de Matemática e Física (que exigem resolução de problemas), Humanas no ENEM é essencialmente **interpretação de texto + contextualização histórica/social**.
 
@@ -17625,7 +17764,7 @@ Isso significa:
 - O gabarito está quase sempre no próprio texto da questão
 - Com boa interpretação textual + contexto, você consegue resolver questões mesmo sem ter estudado o tema
 
-## As 4 Disciplinas e Seus Pesos
+## As 4 Disciplinas e Seus Pesos?
 
 | Disciplina | Questões médias | Dificuldade percebida |
 |------------|----------------|----------------------|
@@ -17634,7 +17773,7 @@ Isso significa:
 | Sociologia | ≈10 questões | Média |
 | Geografia | ≈11 questões | Média |
 
-## Como Estudar História para o ENEM
+## Como Estudar História para o ENEM?
 
 ### O Que Mais Cai
 
@@ -17662,7 +17801,7 @@ Isso significa:
 
 **Ferramenta:** Linha do tempo mental — coloque os eventos em ordem e entenda a lógica de causa e efeito.
 
-## Como Estudar Filosofia para o ENEM
+## Como Estudar Filosofia para o ENEM?
 
 ### Filósofos que Mais Aparecem
 
@@ -17686,7 +17825,7 @@ Foque em **conectar o filósofo ao contexto** em que ele viveu. O ENEM sempre pe
 2. Anote 3 palavras-chave por filósofo
 3. Pratique com questões do ENEM — a banca é previsível
 
-## Como Estudar Sociologia para o ENEM
+## Como Estudar Sociologia para o ENEM?
 
 ### Os "3+1" Sociólogos Fundamentais
 
@@ -17709,7 +17848,7 @@ Textos que falam sobre como crianças de famílias mais ricas se saem melhor na 
 - Globalização: cultura de massa, resistências locais
 - Trabalho: precarização, uberização, gig economy
 
-## Como Estudar Geografia para o ENEM
+## Como Estudar Geografia para o ENEM?
 
 ### Tópicos Prioritários
 
@@ -17731,7 +17870,7 @@ Cerrado → centro-oeste → savana tropical → biodiversidade → ameaça: agr
 
 Para questões de geopolítica, leia notícias de política internacional — o ENEM cobra temas atuais (conflitos, acordos climáticos, refugiados).
 
-## Plano de Estudo para Humanas em 30 Dias
+## Plano de Estudo para Humanas em 30 Dias?
 
 | Semana | Foco | Meta diária |
 |--------|------|-------------|
@@ -17740,7 +17879,7 @@ Para questões de geopolítica, leia notícias de política internacional — o 
 | Semana 3 | História Geral (Nazismo, Guerra Fria, descolonização) + Geografia (biomas, urbanização) | 5 questões + 2 conteúdos |
 | Semana 4 | Simulados completos de Humanas | 1 prova completa/simulado + revisão de erros |
 
-## Técnica de Resolução de Questões de Humanas
+## Técnica de Resolução de Questões de Humanas?
 
 1. **Leia o enunciado + alternatives primeiro** — saiba o que está sendo perguntado
 2. **Identifique a ideia central do texto** — qual o período, qual o pensador, qual o problema
@@ -17777,8 +17916,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -17788,7 +17928,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2025-04-10',
     readTime: 9,
     content: `
-## Nota de Corte para Medicina Estadual via ENEM
+## Nota de Corte para Medicina Estadual via ENEM?
 
 > **TL;DR:** Nota de corte para Medicina nas universidades estaduais via SISU 2025. USP, UNICAMP, UERJ, UFRJ, UFMG e outras federais com cotas e ampla concorrência. [Pratique no ENEM Pro →](/questoes)
 
@@ -17796,7 +17936,7 @@ As universidades **estaduais** que usam o ENEM para seleção via SISU têm algu
 
 > **Atenção:** As notas abaixo são de edições anteriores. As notas do SISU 2026 (baseadas no ENEM 2025) serão divulgadas em janeiro de 2026. Use como referência de tendência.
 
-## Nota de Corte SISU 2025 — Medicina Estadual (Ampla Concorrência)
+## Nota de Corte SISU 2025 — Medicina Estadual (Ampla Concorrência)?
 
 | Universidade | Estado | Nota mínima AC | Vagas |
 |-------------|--------|----------------|-------|
@@ -17820,7 +17960,7 @@ As universidades **estaduais** que usam o ENEM para seleção via SISU têm algu
 
 *Fonte: SISU/MEC 2025. Dados para ampla concorrência (L0). Cotas têm notas ligeiramente diferentes.*
 
-## Nota de Corte com Cotas (L1 — Escola Pública)
+## Nota de Corte com Cotas (L1 — Escola Pública)?
 
 As cotas do SISU são divididas em modalidades:
 - **L1:** Renda ≤ 1,5 SM per capita, escola pública
@@ -17838,7 +17978,7 @@ As cotas do SISU são divididas em modalidades:
 
 > **Por que USP/UNICAMP não aparecem na tabela de cotas:** Essas universidades têm sistemas próprios de cotas (FUVEST/COMVEST) e não aderem ao SISU. Portanto, não aceitam as modalidades de cotas do SISU. Só são acessíveis via vestibular próprio ou, no caso de algumas vagas, via nota ENEM apenas.
 
-## USP e UNICAMP: Como Entrar via ENEM
+## USP e UNICAMP: Como Entrar via ENEM?
 
 ### USP (FUVEST)
 - **Não usa o SISU** — tem processo seletivo próprio via FUVEST
@@ -17849,7 +17989,7 @@ As cotas do SISU são divididas em modalidades:
 - **Não usa o SISU** — processo seletivo via Comvest
 - O ENEM pode dar bônus de 0-10% na nota do Comvest, dependendo da pontuação
 
-## Como Calcular Sua Chance no SISU
+## Como Calcular Sua Chance no SISU?
 
 O SISU usa a **nota do ENEM** (média ponderada das 5 notas) para ranquear candidatos. Cada curso define seus pesos por área.
 
@@ -17858,7 +17998,7 @@ Nota final = (CN×1,5 + CH×1 + LC×1 + MT×2 + Redação×1,5) / 7
 
 *Para medicina, Biologia e Química pesam mais — verifique os pesos específicos de cada universidade no SiSUTEC.*
 
-## Estratégia para Conseguir Medicina Estadual
+## Estratégia para Conseguir Medicina Estadual?
 
 ### Se sua nota está entre 780-820
 - UFPA, UFAM, UEL têm notas mais acessíveis
@@ -17874,14 +18014,14 @@ Nota final = (CN×1,5 + CH×1 + LC×1 + MT×2 + Redação×1,5) / 7
 - USP Ribeirão, UNICAMP, UNIFESP são alvos via SISU (onde aceitam)
 - Para USP São Paulo e UNICAMP: prepare-se para a FUVEST/Comvest também
 
-## Dicas para o SISU
+## Dicas para o SISU?
 
 1. **Simule antes de inscrever:** Use o SiSUTEC (simulador oficial) no momento em que o SISU abre
 2. **Monitore as notas** durante os 5 dias de inscrição — elas sobem conforme mais candidatos se inscrevem
 3. **1ª opção = sonho realista, 2ª opção = segurança** — escolha um curso viável como 2ª opção
 4. **Considere o ProUni:** Medicina em faculdades privadas com bolsa para renda familiar até 3 SM per capita
 
-## Calcule sua Nota ENEM
+## Calcule sua Nota ENEM?
 
 **[Calcular minha nota estimada no ENEM →](/calcular-nota)**
 
@@ -17909,8 +18049,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -17920,13 +18061,13 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2025-04-12',
     readTime: 8,
     content: `
-## Nota de Corte Veterinária via ENEM — SISU 2025
+## Nota de Corte Veterinária via ENEM — SISU 2025?
 
 > **TL;DR:** Nota de corte para Medicina Veterinária nas federais via SISU 2025. USP, UFMG, UFRGS, UFPR e outras com ampla concorrência e cotas. Mercado, salário e vagas. [Pratique no ENEM Pro →](/questoes)
 
 Medicina Veterinária é um dos cursos mais disputados do país. Com duração de 5 anos e múltiplas especializações, a carreira atrai quem ama animais mas exige uma nota ENEM considerável nas melhores federais.
 
-## Notas de Corte SISU 2025 — Medicina Veterinária Federal
+## Notas de Corte SISU 2025 — Medicina Veterinária Federal?
 
 | Universidade | Estado | Nota mínima (AC) | Vagas/ano |
 |-------------|--------|-----------------|-----------|
@@ -17945,7 +18086,7 @@ Medicina Veterinária é um dos cursos mais disputados do país. Com duração d
 
 *Dados referentes ao SISU 2025/ENEM 2024. Use como referência de tendência.*
 
-## Notas com Cotas
+## Notas com Cotas?
 
 | Universidade | L1 (baixa renda + escola pública) | L5 (PPI) |
 |-------------|----------------------------------|---------|
@@ -17954,7 +18095,7 @@ Medicina Veterinária é um dos cursos mais disputados do país. Com duração d
 | UFPR | 726,18 | 714,22 |
 | UFG | 696,30 | 684,18 |
 
-## O que Estudar no ENEM para Veterinária
+## O que Estudar no ENEM para Veterinária?
 
 Para Veterinária, os **pesos do SISU** normalmente são:
 - Ciências da Natureza: peso **2,0** (Biologia é crucial)
@@ -17965,7 +18106,7 @@ Para Veterinária, os **pesos do SISU** normalmente são:
 
 **Priorize:** Biologia, Química e Matemática.
 
-## Mercado de Trabalho — Medicina Veterinária
+## Mercado de Trabalho — Medicina Veterinária?
 
 ### Áreas de atuação
 
@@ -17981,7 +18122,7 @@ Para Veterinária, os **pesos do SISU** normalmente são:
 ### Mercado pet brasileiro
 O Brasil tem o **2º maior mercado pet do mundo** (atrás dos EUA). Em 2024, o setor movimentou mais de R$ 80 bilhões. A demanda por veterinários de pequenos animais nunca foi tão alta.
 
-## Veterinária vs Zootecnia vs Agronomia
+## Veterinária vs Zootecnia vs Agronomia?
 
 | Curso | Foco | ENEM necessário |
 |-------|------|-----------------|
@@ -17991,7 +18132,7 @@ O Brasil tem o **2º maior mercado pet do mundo** (atrás dos EUA). Em 2024, o s
 
 *Se você tem interesse em produção animal mas nota mais baixa, Zootecnia pode ser uma alternativa forte.*
 
-## Como se Candidatar no SISU
+## Como se Candidatar no SISU?
 
 1. **Faça o ENEM** — data prevista novembro de 2026
 2. **Aguarde a divulgação do SISU** — geralmente janeiro do ano seguinte
@@ -18001,7 +18142,7 @@ O Brasil tem o **2º maior mercado pet do mundo** (atrás dos EUA). Em 2024, o s
 
 **Dica:** Use a 1ª opção para o curso/instituição mais concorrida e a 2ª para uma segurança mais realista.
 
-## Calcule sua Nota e Compare com o Corte
+## Calcule sua Nota e Compare com o Corte?
 
 **[Calcular minha nota estimada no ENEM →](/calcular-nota)**
 
@@ -18029,24 +18170,25 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'enem-primeiro-ou-segundo-dia',
     title: 'ENEM Primeiro ou Segundo Dia — O Que Cai em Cada Dia da Prova',
-    description: 'O que é cobrado no 1º e 2º dia do ENEM? Linguagens, Humanas e Redação no primeiro dia; Ciências da Natureza e Matemática no segundo. Duração, horários e estratégias.',
+    description: 'O que é cobrado no 1º e 2º dia do ENEM? Linguagens, Humanas e Redação no primeiro dia; Ciências da Natureza e Matemática no segundo. Duração, horários e.',
     date: '2025-05-01',
     readTime: 8,
     content: `
-## ENEM: O Que Cai no Primeiro e Segundo Dia
+## ENEM: O Que Cai no Primeiro e Segundo Dia?
 
 > **TL;DR:** O que é cobrado no 1º e 2º dia do ENEM? Linguagens, Humanas e Redação no primeiro dia; Ciências da Natureza e Matemática no segundo. Duração, horários e estratégias. [Pratique no ENEM Pro →](/questoes)
 
 O ENEM é aplicado em **dois domingos consecutivos**, com provas diferentes em cada dia. Entender a divisão é fundamental para organizar sua preparação e não ser surpreendido na hora H.
 
-## Resumo Rápido
+## Resumo Rápido?
 
 | | 1º Dia (1º domingo) | 2º Dia (2º domingo) |
 |-|---------------------|---------------------|
@@ -18061,7 +18203,7 @@ O ENEM é aplicado em **dois domingos consecutivos**, com provas diferentes em c
 
 > **Atenção:** Não é permitido sair antes de 1h após o início. No 1º dia, 2 últimos cadernos não saem (para evitar vazamento do tema da redação).
 
-## 1º Dia do ENEM — Linguagens, Ciências Humanas e Redação
+## 1º Dia do ENEM — Linguagens, Ciências Humanas e Redação?
 
 ### Provas do 1º Dia
 1. **Linguagens, Códigos e suas Tecnologias** — 45 questões
@@ -18107,7 +18249,7 @@ O ENEM é aplicado em **dois domingos consecutivos**, com provas diferentes em c
 - Estrutura dissertativa: intro, 2 argumentos, conclusão com proposta de intervenção
 - Competência 5 (proposta): agente + ação + finalidade + efeito esperado
 
-## 2º Dia do ENEM — Ciências da Natureza e Matemática
+## 2º Dia do ENEM — Ciências da Natureza e Matemática?
 
 ### Provas do 2º Dia
 1. **Ciências da Natureza e suas Tecnologias** — 45 questões (Física, Química, Biologia — 15 de cada)
@@ -18157,7 +18299,7 @@ Questões de Matemática exigem cálculos — alguns candidatos levam 5-8 minuto
 - Estatística e probabilidade
 - Trigonometria
 
-## Calendário ENEM 2026 (Previsão)
+## Calendário ENEM 2026 (Previsão)?
 
 | Evento | Previsão |
 |--------|---------|
@@ -18192,8 +18334,9 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
 ]
@@ -18210,7 +18353,7 @@ O ENEM 2022 foi aplicado em 13 e 14 de novembro de 2022. A prova de Matemática 
 
 > **TL;DR:** Gabarito oficial de Matemática do ENEM 2022 com análise dos temas mais cobrados, resolução comentada das questões-chave e link para o gabarito do INEP. [Pratique no ENEM Pro →](/questoes)
 
-## Gabarito Oficial Matemática ENEM 2022
+## Gabarito Oficial Matemática ENEM 2022?
 
 O gabarito oficial completo está disponível no portal do INEP:
 
@@ -18218,7 +18361,7 @@ O gabarito oficial completo está disponível no portal do INEP:
 
 O arquivo contém as respostas por cor de caderno (amarelo, azul, cinza, rosa e branco) para as 45 questões de Matemática e suas Tecnologias.
 
-## Temas Mais Cobrados na Prova de Matemática ENEM 2022
+## Temas Mais Cobrados na Prova de Matemática ENEM 2022?
 
 A prova de 2022 seguiu o padrão histórico da Matriz de Referência do INEP, com distribuição aproximada:
 
@@ -18232,7 +18375,7 @@ A prova de 2022 seguiu o padrão histórico da Matriz de Referência do INEP, co
 | Análise Combinatória | 3–4 |
 | Álgebra e Matrizes | 3–4 |
 
-## Características da Prova de 2022
+## Características da Prova de 2022?
 
 **Contextualização forte:** Quase todas as questões apresentavam uma situação real — financiamento, construção, dados epidemiológicos, situações de trânsito. O ENEM de 2022 exigiu mais leitura e interpretação do que cálculo puro.
 
@@ -18240,7 +18383,7 @@ A prova de 2022 seguiu o padrão histórico da Matriz de Referência do INEP, co
 
 **Gráficos e tabelas:** Cerca de 30% das questões apresentavam dados em formato visual. Saber ler e interpretar gráficos foi essencial.
 
-## Dificuldade Relativa
+## Dificuldade Relativa?
 
 A prova de Matemática 2022 foi considerada de dificuldade média-alta, com:
 - ~10 questões consideradas fáceis (abaixo de 500 no TRI)
@@ -18249,7 +18392,7 @@ A prova de Matemática 2022 foi considerada de dificuldade média-alta, com:
 
 O desempenho médio em Matemática no ENEM 2022 ficou próximo de 520 pontos.
 
-## Como Estudar a Partir do Gabarito 2022
+## Como Estudar a Partir do Gabarito 2022?
 
 Resolver o gabarito de 2022 só faz sentido se você **analisar os erros**:
 
@@ -18261,7 +18404,7 @@ Resolver o gabarito de 2022 só faz sentido se você **analisar os erros**:
 
 Repetir esse ciclo com provas de 2021, 2020, 2019 e 2018 cobre a maioria dos temas que vão cair na próxima edição.
 
-## Pratique Questões de Matemática no ENEM Pro
+## Pratique Questões de Matemática no ENEM Pro?
 
 O ENEM Pro reúne todas as questões de Matemática do ENEM 2022 e de anos anteriores. Filtre por tema, resolva e receba explicação da IA para cada questão errada.
 
@@ -18296,14 +18439,15 @@ Não. O ENEM usa diferentes cores de caderno, e a ordem das questões varia. O g
 ### Qual foi a média de Matemática no ENEM 2022?
 A média de Matemática no ENEM 2022 ficou próxima de 520 pontos na escala TRI. É uma das áreas com menor média entre os candidatos.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-ciencias-natureza-enem-2022',
     title: 'Gabarito Ciências da Natureza ENEM 2022 — Física, Química e Biologia',
-    description: 'Gabarito oficial de Ciências da Natureza do ENEM 2022 com análise por disciplina (Física, Química e Biologia), temas cobrados e resolução das questões principais.',
+    description: 'Gabarito oficial de Ciências da Natureza do ENEM 2022 com análise por disciplina (Física, Química e Biologia), temas cobrados e resolução das questões.',
     date: '2026-06-17',
     readTime: 8,
     content: `
@@ -18311,13 +18455,13 @@ O ENEM 2022 trouxe uma prova de Ciências da Natureza equilibrada entre as três
 
 > **TL;DR:** Gabarito oficial de Ciências da Natureza do ENEM 2022 com análise por disciplina (Física, Química e Biologia), temas cobrados e resolução das questões principais. [Pratique no ENEM Pro →](/questoes)
 
-## Gabarito Oficial Ciências da Natureza ENEM 2022
+## Gabarito Oficial Ciências da Natureza ENEM 2022?
 
 O gabarito oficial está disponível no portal do INEP:
 
 **[Acesse o gabarito oficial no INEP →](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/gabarito)**
 
-## Distribuição por Disciplina
+## Distribuição por Disciplina?
 
 A prova de Ciências da Natureza tem 45 questões divididas aproximadamente assim:
 
@@ -18327,7 +18471,7 @@ A prova de Ciências da Natureza tem 45 questões divididas aproximadamente assi
 | Química | 15–16 |
 | Física | 13–15 |
 
-## Biologia no ENEM 2022
+## Biologia no ENEM 2022?
 
 Temas de maior incidência:
 
@@ -18339,7 +18483,7 @@ Temas de maior incidência:
 
 O ENEM 2022 cobrou bastante questões sobre saúde pública e impacto ambiental — contexto pós-pandemia influenciou o conteúdo.
 
-## Química no ENEM 2022
+## Química no ENEM 2022?
 
 - **Química Orgânica:** funções orgânicas, isomeria, reações de adição/substituição
 - **Estequiometria:** cálculo de massa, mol e rendimento
@@ -18347,7 +18491,7 @@ O ENEM 2022 cobrou bastante questões sobre saúde pública e impacto ambiental 
 - **Eletroquímica:** pilhas, eletrólise, oxidação e redução
 - **Soluções:** concentração, diluição, misturas
 
-## Física no ENEM 2022
+## Física no ENEM 2022?
 
 - **Eletromagnetismo:** circuitos elétricos, campo magnético, indução
 - **Termodinâmica:** calor, trabalho, máquinas térmicas
@@ -18355,7 +18499,7 @@ O ENEM 2022 cobrou bastante questões sobre saúde pública e impacto ambiental 
 - **Mecânica:** força, energia, quantidade de movimento
 - **Ondulatória:** som, luz, efeito Doppler
 
-## Como Usar o Gabarito Para Estudar
+## Como Usar o Gabarito Para Estudar?
 
 1. Resolva a prova completa sem gabarito
 2. Compare com o oficial do INEP
@@ -18394,14 +18538,15 @@ Historicamente, Física tem a menor taxa de acertos. Em 2022, questões de eletr
 ### É possível zerar alguma disciplina no ENEM sem prejudicar muito a nota?
 Não. A nota de Ciências da Natureza é calculada com base nas 45 questões juntas via TRI. Zerar uma disciplina reduz significativamente a nota final da área.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-ciencias-humanas-enem-2022',
     title: 'Gabarito Ciências Humanas ENEM 2022 — História, Geografia, Filosofia e Sociologia',
-    description: 'Gabarito oficial de Ciências Humanas do ENEM 2022 com análise por disciplina, temas mais cobrados e estratégias de estudo para a prova de 2025.',
+    description: 'Gabarito oficial de Ciências Humanas do ENEM 2022 com análise por disciplina, temas mais cobrados e estratégias de estudo para a prova de 2025. Acesse grátis.',
     date: '2026-06-17',
     readTime: 7,
     content: `
@@ -18409,13 +18554,13 @@ Ciências Humanas e suas Tecnologias é a área com a maior proporção de quest
 
 > **TL;DR:** Gabarito oficial de Ciências Humanas do ENEM 2022 com análise por disciplina, temas mais cobrados e estratégias de estudo para a prova de 2025. [Pratique no ENEM Pro →](/questoes)
 
-## Gabarito Oficial Ciências Humanas ENEM 2022
+## Gabarito Oficial Ciências Humanas ENEM 2022?
 
 O gabarito oficial está disponível no portal do INEP:
 
 **[Acesse o gabarito oficial no INEP →](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/gabarito)**
 
-## Distribuição por Disciplina
+## Distribuição por Disciplina?
 
 | Disciplina | Questões (estimado) |
 |-----------|---------------------|
@@ -18424,7 +18569,7 @@ O gabarito oficial está disponível no portal do INEP:
 | Filosofia | 7–9 |
 | Sociologia | 7–9 |
 
-## História no ENEM 2022
+## História no ENEM 2022?
 
 Temas com maior incidência:
 
@@ -18434,7 +18579,7 @@ Temas com maior incidência:
 - **Direitos Humanos:** movimentos sociais, cidadania, democracia
 - **Atualidades históricas:** questões que conectam passado e presente
 
-## Geografia no ENEM 2022
+## Geografia no ENEM 2022?
 
 - **Geopolítica:** blocos econômicos, conflitos territoriais, fluxos migratórios
 - **Urbanização:** crescimento das cidades, segregação espacial, metropolização
@@ -18442,21 +18587,21 @@ Temas com maior incidência:
 - **Cartografia:** interpretação de mapas, escala, projeções
 - **Agropecuária e indústria:** cadeias produtivas, agronegócio, desindustrialização
 
-## Filosofia no ENEM 2022
+## Filosofia no ENEM 2022?
 
 - **Ética e Moral:** filosofia política de Locke, Hobbes, Rousseau
 - **Epistemologia:** teoria do conhecimento, racionalismo, empirismo
 - **Lógica e argumentação:** validade de argumentos, falácias
 - **Pensamento contemporâneo:** Foucault, Habermas, existencialismo
 
-## Sociologia no ENEM 2022
+## Sociologia no ENEM 2022?
 
 - **Clássicos:** Marx (alienação, classes sociais), Durkheim (fato social), Weber (burocracia)
 - **Desigualdade social:** renda, raça, gênero no Brasil
 - **Trabalho e capitalismo:** precarização, desemprego, economia informal
 - **Cultura e identidade:** diversidade cultural, indústria cultural
 
-## Estratégia de Estudo
+## Estratégia de Estudo?
 
 Em Ciências Humanas, **ler o enunciado até o fim** é a habilidade mais importante. O ENEM frequentemente apresenta a informação-chave no último parágrafo ou na fonte da imagem/charge.
 
@@ -18491,14 +18636,15 @@ Não. Todas as 45 questões de Ciências Humanas têm o mesmo peso no cálculo T
 ### Qual a média histórica em Ciências Humanas no ENEM?
 Ciências Humanas costuma ter uma das maiores médias entre as áreas, próxima de 530–550 pontos. Candidatos com boa leitura e base em história tendem a se sair bem.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-linguagens-enem-2022',
     title: 'Gabarito Linguagens ENEM 2022 — Português, Literatura, Inglês e Artes',
-    description: 'Gabarito oficial de Linguagens e Códigos do ENEM 2022 com análise dos temas de Língua Portuguesa, Literatura, Inglês, Artes e Educação Física.',
+    description: 'Gabarito oficial de Linguagens e Códigos do ENEM 2022 com análise dos temas de Língua Portuguesa, Literatura, Inglês, Artes e Educação Física. Acesse grátis.',
     date: '2026-06-17',
     readTime: 7,
     content: `
@@ -18506,13 +18652,13 @@ Linguagens, Códigos e suas Tecnologias é a área do 1º dia do ENEM, aplicada 
 
 > **TL;DR:** Gabarito oficial de Linguagens e Códigos do ENEM 2022 com análise dos temas de Língua Portuguesa, Literatura, Inglês, Artes e Educação Física. [Pratique no ENEM Pro →](/questoes)
 
-## Gabarito Oficial Linguagens ENEM 2022
+## Gabarito Oficial Linguagens ENEM 2022?
 
 O gabarito oficial está disponível no portal do INEP:
 
 **[Acesse o gabarito oficial no INEP →](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/gabarito)**
 
-## Distribuição por Área
+## Distribuição por Área?
 
 A prova de Linguagens tem 45 questões divididas aproximadamente:
 
@@ -18523,7 +18669,7 @@ A prova de Linguagens tem 45 questões divididas aproximadamente:
 | Artes e Semiótica | 7–9 |
 | Educação Física e Cultura Corporal | 4–6 |
 
-## Língua Portuguesa e Literatura 2022
+## Língua Portuguesa e Literatura 2022?
 
 - **Interpretação de texto:** o núcleo da prova. Todo enunciado traz um ou mais textos para interpretar
 - **Recursos linguísticos:** coesão, coerência, figuras de linguagem, modalização
@@ -18531,13 +18677,13 @@ A prova de Linguagens tem 45 questões divididas aproximadamente:
 - **Variação linguística:** registros formais e informais, dialetos, norma culta
 - **Gêneros textuais:** crônica, conto, artigo de opinião, charge, publicidade
 
-## Língua Estrangeira 2022
+## Língua Estrangeira 2022?
 
 Candidatos escolhem entre Inglês e Espanhol. As questões são de **interpretação**, não de gramática isolada. O texto é o ponto de partida; o vocabulário pode ser inferido pelo contexto.
 
 Para inglês em 2022, os textos abordaram cultura digital, meio ambiente e diversidade cultural.
 
-## Artes e Semiótica
+## Artes e Semiótica?
 
 O ENEM usa obras de artes visuais, músicas, filmes e peças de teatro como base para questões de interpretação cultural. Em 2022, a prova cobrou:
 
@@ -18545,7 +18691,7 @@ O ENEM usa obras de artes visuais, músicas, filmes e peças de teatro como base
 - Interpretação de linguagem publicitária
 - Relação entre diferentes manifestações culturais
 
-## Como a Prova de Linguagens Funciona
+## Como a Prova de Linguagens Funciona?
 
 O segredo é: **a resposta está no texto**. O ENEM não cobra opinião do candidato — cobra capacidade de interpretar o que está escrito. Toda alternativa correta pode ser sustentada com trecho do texto.
 
@@ -18580,14 +18726,15 @@ Depende do candidato. O nível de dificuldade das questões é equivalente. A ma
 ### Qual a média de Linguagens no ENEM historicamente?
 A média de Linguagens costuma ficar entre 510 e 540 pontos. É uma das áreas com resultados mais homogêneos entre os candidatos.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-matematica-enem-2021',
     title: 'Gabarito de Matemática ENEM 2021 — Temas, Resolução e Análise',
-    description: 'Gabarito oficial de Matemática do ENEM 2021 com análise dos temas cobrados, características da prova e estratégia de estudo a partir do gabarito.',
+    description: 'Gabarito oficial de Matemática do ENEM 2021 com análise dos temas cobrados, características da prova e estratégia de estudo a partir do gabarito. Acesse grátis.',
     date: '2026-06-17',
     readTime: 7,
     content: `
@@ -18595,20 +18742,20 @@ O ENEM 2021 foi aplicado em janeiro de 2022 (edição atrasada por conta da pand
 
 > **TL;DR:** Gabarito oficial de Matemática do ENEM 2021 com análise dos temas cobrados, características da prova e estratégia de estudo a partir do gabarito. [Pratique no ENEM Pro →](/questoes)
 
-## Gabarito Oficial Matemática ENEM 2021
+## Gabarito Oficial Matemática ENEM 2021?
 
 O gabarito oficial está disponível no portal do INEP:
 
 **[Acesse o gabarito oficial no INEP →](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/gabarito)**
 
-## Por Que Estudar o ENEM 2021
+## Por Que Estudar o ENEM 2021?
 
 A prova de 2021 é particularmente útil para estudo porque:
 - Contexto pandêmico gerou questões únicas sobre dados epidemiológicos e estatística
 - Alta incidência de questões de probabilidade e funções aplicadas
 - Boa diversidade de temas — cobre bem a Matriz de Referência
 
-## Temas Cobrados em Matemática 2021
+## Temas Cobrados em Matemática 2021?
 
 | Tema | Incidência |
 |------|-----------|
@@ -18619,7 +18766,7 @@ A prova de 2021 é particularmente útil para estudo porque:
 | Trigonometria | Média |
 | Análise Combinatória | Média |
 
-## Características da Prova 2021
+## Características da Prova 2021?
 
 **Dados reais:** Várias questões usaram dados reais da pandemia de COVID-19 — tabelas de infectados, gráficos de vacinação, cálculos de taxa de mortalidade. Isso exigiu interpretação cuidadosa dos dados antes de calcular.
 
@@ -18627,7 +18774,7 @@ A prova de 2021 é particularmente útil para estudo porque:
 
 **Funções como linguagem:** Boa parte das questões de funções exigiu que o candidato identificasse ou montasse a função a partir de um contexto, não apenas resolvesse uma equação dada.
 
-## Estratégia Para Usar o Gabarito 2021
+## Estratégia Para Usar o Gabarito 2021?
 
 1. Resolva a prova sem gabarito e cronometre (45 questões em 4,5 horas)
 2. Compare com o gabarito oficial do INEP
@@ -18635,7 +18782,7 @@ A prova de 2021 é particularmente útil para estudo porque:
 4. Use o ENEM Pro para resolver mais 20 questões do tema onde errou mais
 5. Repita com o gabarito de 2020, 2019 e 2022
 
-## Pratique no ENEM Pro
+## Pratique no ENEM Pro?
 
 Todas as questões de Matemática do ENEM 2021 estão disponíveis no ENEM Pro, com explicação da IA para cada questão.
 
@@ -18665,14 +18812,15 @@ A dificuldade é relativa e calculada pelo TRI. Em geral, as provas de 2021 e 20
 ### Onde baixar as provas do ENEM 2021 para estudar?
 As provas e gabaritos do ENEM 2021 estão disponíveis para download no site do INEP, na seção "Provas e Gabaritos". São arquivos PDF públicos e gratuitos.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-ciencias-natureza-enem-2021',
     title: 'Gabarito Ciências da Natureza ENEM 2021 — Física, Química e Biologia',
-    description: 'Gabarito oficial de Ciências da Natureza do ENEM 2021 com análise de Física, Química e Biologia, temas cobrados e como usar o gabarito para estudar.',
+    description: 'Gabarito oficial de Ciências da Natureza do ENEM 2021 com análise de Física, Química e Biologia, temas cobrados e como usar o gabarito para estudar. Grátis.',
     date: '2026-06-17',
     readTime: 7,
     content: `
@@ -18680,13 +18828,13 @@ A prova de Ciências da Natureza do ENEM 2021 foi marcada pela forte contextuali
 
 > **TL;DR:** Gabarito oficial de Ciências da Natureza do ENEM 2021 com análise de Física, Química e Biologia, temas cobrados e como usar o gabarito para estudar. [Pratique no ENEM Pro →](/questoes)
 
-## Gabarito Oficial Ciências da Natureza ENEM 2021
+## Gabarito Oficial Ciências da Natureza ENEM 2021?
 
 O gabarito oficial está disponível no portal do INEP:
 
 **[Acesse o gabarito oficial no INEP →](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/gabarito)**
 
-## Biologia no ENEM 2021
+## Biologia no ENEM 2021?
 
 Destaque para:
 - **Saúde e doenças:** vírus, sistema imunológico, vacinas (forte presença dado contexto pandêmico)
@@ -18695,7 +18843,7 @@ Destaque para:
 - **Evolução:** seleção natural, adaptação, especiação
 - **Fisiologia:** sistema circulatório, respiratório, nervoso
 
-## Química no ENEM 2021
+## Química no ENEM 2021?
 
 - **Química Orgânica:** funções, reações e propriedades
 - **Estequiometria:** cálculos de mol, massa e volume
@@ -18703,14 +18851,14 @@ Destaque para:
 - **Substâncias e misturas:** separação, propriedades físicas
 - **Polímeros e materiais:** plásticos, borracha, fibras sintéticas
 
-## Física no ENEM 2021
+## Física no ENEM 2021?
 
 - **Eletromagnetismo:** circuitos, resistência, potência elétrica
 - **Termodinâmica:** calor, temperatura, máquinas térmicas
 - **Mecânica:** leis de Newton, energia, trabalho, potência
 - **Ondulatória:** som, ondas, espectro eletromagnético
 
-## O Contexto Pandêmico na Prova
+## O Contexto Pandêmico na Prova?
 
 O ENEM 2021 foi a primeira edição elaborada integralmente durante a pandemia. Questões de Biologia abordaram:
 - Mecanismo de ação de vacinas
@@ -18722,7 +18870,7 @@ Isso representou uma oportunidade para candidatos que acompanharam as notícias 
 
 
 
-## Dados do ENEM 2021 — INEP
+## Dados do ENEM 2021 — INEP?
 
 | Dado | Valor |
 |------|-------|
@@ -18759,14 +18907,15 @@ Para quem acompanhou as notícias, questões sobre vírus e vacinas eram mais fa
 ### Onde estão as questões de Ciências da Natureza do ENEM 2021?
 No site do INEP (gov.br/inep) para download das provas completas. No ENEM Pro, você acessa as questões organizadas por disciplina e tema, com explicação por IA.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-ciencias-humanas-enem-2021',
     title: 'Gabarito Ciências Humanas ENEM 2021 — História, Geografia, Filosofia e Sociologia',
-    description: 'Gabarito oficial de Ciências Humanas do ENEM 2021 com análise por disciplina, temas de maior incidência e estratégia de estudo.',
+    description: 'Gabarito oficial de Ciências Humanas do ENEM 2021 com análise por disciplina, temas de maior incidência e estratégia de estudo. Saiba mais e prepare-se.',
     date: '2026-06-17',
     readTime: 7,
     content: `
@@ -18774,46 +18923,46 @@ A prova de Ciências Humanas do ENEM 2021 cobriu de forma equilibrada as quatro 
 
 > **TL;DR:** Gabarito oficial de Ciências Humanas do ENEM 2021 com análise por disciplina, temas de maior incidência e estratégia de estudo. [Pratique no ENEM Pro →](/questoes)
 
-## Gabarito Oficial Ciências Humanas ENEM 2021
+## Gabarito Oficial Ciências Humanas ENEM 2021?
 
 O gabarito oficial está disponível no portal do INEP:
 
 **[Acesse o gabarito oficial no INEP →](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/gabarito)**
 
-## História no ENEM 2021
+## História no ENEM 2021?
 
 - **História do Brasil:** colonização, escravidão, República, Ditadura Militar e redemocratização
 - **História Mundial:** Revoluções, Imperialismo, Guerras Mundiais, Guerra Fria
 - **Movimentos sociais:** feminismo, luta por direitos civis, movimentos de trabalhadores
 - **Fontes históricas:** análise de documentos, pinturas, mapas históricos
 
-## Geografia no ENEM 2021
+## Geografia no ENEM 2021?
 
 - **Questões ambientais:** mudanças climáticas, desmatamento, gestão de recursos hídricos
 - **Geopolítica:** regionalização do espaço, blocos econômicos, conflitos
 - **Urbanização:** crescimento urbano, periferias, mobilidade
 - **Globalização:** fluxos econômicos, migração, desigualdade internacional
 
-## Filosofia no ENEM 2021
+## Filosofia no ENEM 2021?
 
 - **Ética e política:** contrato social (Hobbes, Locke, Rousseau), democracia
 - **Teoria do conhecimento:** Platão, Descartes, Kant
 - **Filosofia contemporânea:** Foucault, Arendt, pensamento crítico
 
-## Sociologia no ENEM 2021
+## Sociologia no ENEM 2021?
 
 - **Clássicos da Sociologia:** Marx, Durkheim, Weber
 - **Desigualdade:** raça, classe, gênero no Brasil
 - **Cultura:** indústria cultural, diversidade, identidade
 - **Trabalho:** precarização, desemprego, novas formas de trabalho
 
-## Estratégia Para Ciências Humanas
+## Estratégia Para Ciências Humanas?
 
 A chave é a **leitura do enunciado completo**. Questões de Humanas são longas e têm a resposta contextualizada no próprio texto. Candidatos que vão direto às alternativas costumam errar por não ler a fonte ou a última linha do enunciado.
 
 
 
-## Dados do ENEM 2021 — INEP
+## Dados do ENEM 2021 — INEP?
 
 | Dado | Valor |
 |------|-------|
@@ -18850,14 +18999,15 @@ Sim. Questões de Sociologia e Geografia abordaram desigualdade social aprofunda
 ### Como se preparar para Filosofia e Sociologia no ENEM?
 Foque nos filósofos e sociólogos clássicos que o ENEM sempre cita: Locke, Hobbes, Rousseau, Kant, Marx, Durkheim e Weber. Para o contemporâneo: Foucault e Hannah Arendt aparecem com frequência.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-linguagens-enem-2021',
     title: 'Gabarito Linguagens ENEM 2021 — Português, Literatura e Inglês',
-    description: 'Gabarito oficial de Linguagens e Códigos do ENEM 2021 com análise dos temas de Língua Portuguesa, Literatura, Inglês/Espanhol e Artes.',
+    description: 'Gabarito oficial de Linguagens e Códigos do ENEM 2021 com análise dos temas de Língua Portuguesa, Literatura, Inglês/Espanhol e Artes. Saiba mais e prepare-se.',
     date: '2026-06-17',
     readTime: 7,
     content: `
@@ -18865,13 +19015,13 @@ A prova de Linguagens do ENEM 2021 teve forte ênfase em textos multimodais — 
 
 > **TL;DR:** Gabarito oficial de Linguagens e Códigos do ENEM 2021 com análise dos temas de Língua Portuguesa, Literatura, Inglês/Espanhol e Artes. [Pratique no ENEM Pro →](/questoes)
 
-## Gabarito Oficial Linguagens ENEM 2021
+## Gabarito Oficial Linguagens ENEM 2021?
 
 O gabarito oficial está disponível no portal do INEP:
 
 **[Acesse o gabarito oficial no INEP →](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/gabarito)**
 
-## Língua Portuguesa e Literatura 2021
+## Língua Portuguesa e Literatura 2021?
 
 - **Interpretação de texto:** textos argumentativos, informativos, literários e publicitários
 - **Gêneros textuais:** editorial, artigo de opinião, crônica, conto
@@ -18879,7 +19029,7 @@ O gabarito oficial está disponível no portal do INEP:
 - **Literatura:** trechos de obras do Romantismo, Realismo, Modernismo e Literatura Contemporânea
 - **Variação linguística:** registros, dialetos regionais, língua padrão vs. coloquial
 
-## Literatura Brasileira no ENEM 2021
+## Literatura Brasileira no ENEM 2021?
 
 O ENEM sempre cobra literatura com foco em **interpretação de trechos**, não em memorização de datas ou nomes. Em 2021, apareceram textos de:
 
@@ -18887,15 +19037,15 @@ O ENEM sempre cobra literatura com foco em **interpretação de trechos**, não 
 - **Realismo/Naturalismo:** Machado de Assis, Eça de Queirós
 - **Literatura contemporânea:** autores afro-brasileiros e regionais
 
-## Língua Estrangeira 2021
+## Língua Estrangeira 2021?
 
 As 5 questões de Inglês (ou Espanhol) foram, como de costume, de interpretação de texto. Os temas abordaram cultura digital, sustentabilidade e relações interpessoais.
 
-## Artes e Semiótica
+## Artes e Semiótica?
 
 Questões de Artes exigiram analisar obras visuais, músicas e manifestações culturais — identificar o contexto histórico, o movimento artístico e a mensagem transmitida.
 
-## Dicas Para a Prova de Linguagens
+## Dicas Para a Prova de Linguagens?
 
 1. **Leia os textos de apoio** antes das alternativas — a resposta está no texto
 2. **Identifique o gênero textual** — artigo de opinião exige identificar tese e argumentos; charge exige identificar crítica implícita
@@ -18904,7 +19054,7 @@ Questões de Artes exigiram analisar obras visuais, músicas e manifestações c
 
 
 
-## Dados do ENEM 2021 — INEP
+## Dados do ENEM 2021 — INEP?
 
 | Dado | Valor |
 |------|-------|
@@ -18941,14 +19091,15 @@ Não é necessário ler as obras completas. O ENEM sempre apresenta trechos e co
 ### Qual a diferença entre Linguagens do ENEM e a prova de Português de outros vestibulares?
 O ENEM de Linguagens é 100% interpretativo e contextualizado. Vestibulares como FUVEST cobram mais gramática normativa explícita. Para o ENEM, treinar leitura crítica e interpretação é mais eficaz do que estudar regras gramaticais isoladas.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'data-enem-2025',
     title: 'Data do ENEM 2025 — Quando é, Cronograma e o que Esperar',
-    description: 'Data oficial do ENEM 2025, cronograma completo de inscrições, aplicação e resultados. Tudo o que você precisa saber sobre o calendário do ENEM 2025.',
+    description: 'Data oficial do ENEM 2025, cronograma completo de inscrições, aplicação e resultados. Tudo o que você precisa saber sobre o calendário do ENEM 2025. Grátis.',
     date: '2026-06-17',
     readTime: 6,
     content: `
@@ -18956,7 +19107,7 @@ O ENEM 2025 seguiu o calendário oficial do MEC com aplicação em novembro. Ent
 
 > **TL;DR:** Data oficial do ENEM 2025, cronograma completo de inscrições, aplicação e resultados. Tudo o que você precisa saber sobre o calendário do ENEM 2025. [Pratique no ENEM Pro →](/questoes)
 
-## Calendário do ENEM 2025
+## Calendário do ENEM 2025?
 
 O cronograma oficial do ENEM 2025 foi publicado pelo INEP. As datas a seguir são baseadas no calendário oficial:
 
@@ -18975,7 +19126,7 @@ O cronograma oficial do ENEM 2025 foi publicado pelo INEP. As datas a seguir sã
 
 **Sempre confirme as datas no site oficial do INEP (enem.inep.gov.br).** Datas podem ser ajustadas pelo MEC.
 
-## O que Cai no 1º Dia do ENEM 2025
+## O que Cai no 1º Dia do ENEM 2025?
 
 **1º Dia (2 de novembro de 2025):**
 - Linguagens, Códigos e suas Tecnologias (45 questões)
@@ -18983,14 +19134,14 @@ O cronograma oficial do ENEM 2025 foi publicado pelo INEP. As datas a seguir sã
 - Redação (1 tema dissertativo-argumentativo)
 - Duração: 5h30 (entrada até 12h, saída a partir de 15h30)
 
-## O que Cai no 2º Dia do ENEM 2025
+## O que Cai no 2º Dia do ENEM 2025?
 
 **2º Dia (9 de novembro de 2025):**
 - Ciências da Natureza e suas Tecnologias (45 questões)
 - Matemática e suas Tecnologias (45 questões)
 - Duração: 5h (entrada até 12h, saída a partir de 15h30)
 
-## Como se Planejar com Base nas Datas
+## Como se Planejar com Base nas Datas?
 
 **6 meses antes (Maio 2025):** Diagnóstico — que disciplinas precisam de mais atenção?
 
@@ -19002,7 +19153,7 @@ O cronograma oficial do ENEM 2025 foi publicado pelo INEP. As datas a seguir sã
 
 **Semana da prova:** Revisão leve, descanso, logística (local, documentos)
 
-## Taxa de Inscrição
+## Taxa de Inscrição?
 
 A taxa de inscrição do ENEM é definida pelo MEC a cada edição. Candidatos com renda familiar per capita de até 1,5 salário mínimo e que cursaram o ensino médio em escola pública têm direito à isenção da taxa.
 
@@ -19034,14 +19185,15 @@ O resultado individual do ENEM 2025 foi divulgado em janeiro de 2026. O SISU 202
 ### Quem tem direito à isenção da taxa do ENEM?
 Candidatos que cursaram todo o ensino médio em escola pública, ou que comprovam renda familiar per capita de até 1,5 salário mínimo, têm direito à isenção. O pedido de isenção deve ser feito no período específico antes da abertura das inscrições gerais.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'redacao-enem-2024-tema',
     title: 'Tema da Redação ENEM 2024 — Análise Completa e Como Deveria Ter Sido Escrita',
-    description: 'Qual foi o tema da redação do ENEM 2024, como o INEP esperava que fosse abordado e o que diferencou as redações nota 1000 das demais.',
+    description: 'Qual foi o tema da redação do ENEM 2024, como o INEP esperava que fosse abordado e o que diferencou as redações nota 1000 das demais. Saiba mais e prepare-se.',
     date: '2026-06-17',
     readTime: 9,
     content: `
@@ -19049,7 +19201,7 @@ A redação é o componente do ENEM mais temido — e mais diferenciador. Candid
 
 > **TL;DR:** Qual foi o tema da redação do ENEM 2024, como o INEP esperava que fosse abordado e o que diferencou as redações nota 1000 das demais. [Pratique no ENEM Pro →](/questoes)
 
-## Tema da Redação ENEM 2024
+## Tema da Redação ENEM 2024?
 
 O INEP divulga o tema da redação após a aplicação da prova. Para o tema oficial do ENEM 2024, consulte:
 
@@ -19057,7 +19209,7 @@ O INEP divulga o tema da redação após a aplicação da prova. Para o tema ofi
 
 O tema é revelado no 1º dia da prova, após o encerramento do período de prova (após as 15h30 do 1º dia).
 
-## Como o INEP Avalia a Redação do ENEM
+## Como o INEP Avalia a Redação do ENEM?
 
 A nota da redação vai de 0 a 1000, distribuída em 5 competências de 0 a 200 pontos cada:
 
@@ -19069,7 +19221,7 @@ A nota da redação vai de 0 a 1000, distribuída em 5 competências de 0 a 200 
 | **C4** | Coesão — mecanismos linguísticos de conexão |
 | **C5** | Proposta de intervenção detalhada e respeitosa aos direitos humanos |
 
-## O que Diferencia Redação Nota 1000
+## O que Diferencia Redação Nota 1000?
 
 **Competência 5 é o grande diferencial:** A proposta de intervenção precisa ter 5 elementos — agente, ação, meio/modo, finalidade e efeito esperado. Redações que omitem um desses elementos raramente passam de 160 na C5.
 
@@ -19077,7 +19229,7 @@ A nota da redação vai de 0 a 1000, distribuída em 5 competências de 0 a 200 
 
 **Coesão real (C4):** Conectivos de corrida como "além disso, portanto, entretanto" em excesso não constituem coesão. O ENEM avalia coesão como a capacidade de retomar ideias e construir relações lógicas entre parágrafos.
 
-## Estrutura da Redação Dissertativo-Argumentativa
+## Estrutura da Redação Dissertativo-Argumentativa?
 
 **Introdução (4–5 linhas):**
 - Contextualize o tema com um dado ou citação (repertório)
@@ -19097,7 +19249,7 @@ A nota da redação vai de 0 a 1000, distribuída em 5 competências de 0 a 200 
 - Retome a tese de forma sintética
 - Apresente a proposta de intervenção completa (5 elementos)
 
-## Temas Recorrentes no ENEM
+## Temas Recorrentes no ENEM?
 
 Estudar temas anteriores prepara para qualquer tema novo, pois os repertórios se repetem:
 
@@ -19108,7 +19260,7 @@ Estudar temas anteriores prepara para qualquer tema novo, pois os repertórios s
 - Racismo, diversidade e inclusão
 - Educação: acesso, qualidade e desafios
 
-## Pratique Redação com Correção por IA
+## Pratique Redação com Correção por IA?
 
 O ENEM Pro oferece correção de redação por IA baseada nas 5 competências do INEP. Envie sua redação e receba nota estimada por competência + feedback para melhorar.
 
@@ -19141,8 +19293,9 @@ O INEP não exige 4 parágrafos explicitamente, mas a estrutura dissertativo-arg
 ### O que zera a redação automaticamente no ENEM?
 Fuga total do tema, texto em branco, texto sem formato dissertativo-argumentativo, texto com menos de 8 linhas, ou texto que contenha desrespeito aos direitos humanos (discurso de ódio, defesa da violência, etc.).
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
 ]
@@ -19151,7 +19304,7 @@ const EXTRA_POSTS_13: BlogPost[] = [
   {
     slug: 'quando-sai-resultado-enem',
     title: 'Quando Sai o Resultado do ENEM 2025 — Datas e Como Consultar',
-    description: 'Quando o resultado do ENEM 2025 é divulgado, como consultar pelo CPF, o que significa cada nota e o que fazer assim que o resultado sair.',
+    description: 'Quando o resultado do ENEM 2025 é divulgado, como consultar pelo CPF, o que significa cada nota e o que fazer assim que o resultado sair. Acesse grátis.',
     date: '2026-06-17',
     readTime: 5,
     content: `
@@ -19159,7 +19312,7 @@ O resultado do ENEM é o momento mais esperado por milhões de candidatos. Enten
 
 > **TL;DR:** Quando o resultado do ENEM 2025 é divulgado, como consultar pelo CPF, o que significa cada nota e o que fazer assim que o resultado sair. [Pratique no ENEM Pro →](/questoes)
 
-## Quando Sai o Resultado do ENEM 2025
+## Quando Sai o Resultado do ENEM 2025?
 
 O resultado individual do ENEM 2025 foi divulgado em **janeiro de 2026** pelo INEP. O prazo exato varia por edição, mas historicamente:
 
@@ -19172,7 +19325,7 @@ O resultado individual do ENEM 2025 foi divulgado em **janeiro de 2026** pelo IN
 
 **Sempre confirme a data exata no portal oficial do INEP (enem.inep.gov.br).** As datas podem variar alguns dias entre edições.
 
-## Como Consultar o Resultado do ENEM
+## Como Consultar o Resultado do ENEM?
 
 1. Acesse o site oficial: **enem.inep.gov.br**
 2. Clique em "Resultado Individual"
@@ -19181,7 +19334,7 @@ O resultado individual do ENEM 2025 foi divulgado em **janeiro de 2026** pelo IN
 
 O boletim mostra as 5 notas: Linguagens, Ciências Humanas, Ciências da Natureza, Matemática e Redação.
 
-## O que Cada Nota Significa
+## O que Cada Nota Significa?
 
 A nota do ENEM vai de 0 a 1000 em cada área. A escala não é linear — ela usa a TRI (Teoria de Resposta ao Item):
 
@@ -19194,7 +19347,7 @@ A nota do ENEM vai de 0 a 1000 em cada área. A escala não é linear — ela us
 | 750–850 | Excelente — Medicina, Direito nas melhores federais |
 | 850+ | Elite — topo do SISU |
 
-## O que Fazer Assim que o Resultado Sair
+## O que Fazer Assim que o Resultado Sair?
 
 **Se a nota foi boa:**
 1. Acesse o SISU (sisu.mec.gov.br) — inscrições geralmente abrem dias após o resultado
@@ -19206,7 +19359,7 @@ A nota do ENEM vai de 0 a 1000 em cada área. A escala não é linear — ela us
 2. Você pode usar a nota atual para tentar cursos menos concorridos
 3. Ou aguardar o próximo ENEM com foco nas áreas mais fracas
 
-## Quando Abre o SISU Após o Resultado
+## Quando Abre o SISU Após o Resultado?
 
 O SISU geralmente abre de 3 a 7 dias após a divulgação do resultado do ENEM. No SISU, você tem 4 dias para se inscrever em até 2 opções de curso. Monitore as notas de corte diariamente durante esse período.
 
@@ -19238,14 +19391,15 @@ Sim. Não existe prazo de validade para a nota do ENEM — você pode usar notas
 ### O resultado do ENEM vem por e-mail?
 O INEP não envia o resultado por e-mail automaticamente. Você precisa acessar o site oficial para consultar. Alguns sites terceiros oferecem alertas, mas o documento oficial é apenas o boletim do INEP.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'sisu-como-funciona',
     title: 'SISU — Como Funciona, Inscrição e Como Calcular Suas Chances',
-    description: 'Como funciona o SISU, quando abre a inscrição, como calcular a nota de corte e estratégias para maximizar suas chances de aprovação nas federais.',
+    description: 'Como funciona o SISU, quando abre a inscrição, como calcular a nota de corte e estratégias para maximizar suas chances de aprovação nas federais. Acesse grátis.',
     date: '2026-06-17',
     readTime: 7,
     content: `
@@ -19253,7 +19407,7 @@ O SISU (Sistema de Seleção Unificada) é a porta de entrada para mais de 230 u
 
 > **TL;DR:** Como funciona o SISU, quando abre a inscrição, como calcular a nota de corte e estratégias para maximizar suas chances de aprovação nas federais. [Pratique no ENEM Pro →](/questoes)
 
-## O que é o SISU
+## O que é o SISU?
 
 O SISU usa a nota do ENEM para selecionar candidatos para vagas em instituições públicas de ensino superior. Você não faz prova no SISU — apenas se inscreve com sua nota do ENEM e concorre às vagas disponíveis.
 
@@ -19262,7 +19416,7 @@ O SISU usa a nota do ENEM para selecionar candidatos para vagas em instituiçõe
 - Nota de redação diferente de zero
 - Não ter graduação em instituição pública (em alguns casos há exceções)
 
-## Como Funciona o SISU na Prática
+## Como Funciona o SISU na Prática?
 
 **Período de inscrição:** 4 dias (geralmente em janeiro, logo após o resultado do ENEM)
 
@@ -19272,7 +19426,7 @@ O SISU usa a nota do ENEM para selecionar candidatos para vagas em instituiçõe
 
 **Nota de corte:** Não é fixa — varia diariamente conforme os candidatos inscritos. A nota final que garante vaga é calculada **após o encerramento das inscrições**.
 
-## Estratégia: 1ª e 2ª Opção
+## Estratégia: 1ª e 2ª Opção?
 
 A escolha das opções é estratégica:
 
@@ -19282,7 +19436,7 @@ A escolha das opções é estratégica:
 
 O SISU oferece uma lista de espera para quem não passou na 1ª chamada. Monitore o processo de matrícula — desistências de chamadas anteriores liberam vagas.
 
-## Como Calcular Suas Chances no SISU
+## Como Calcular Suas Chances no SISU?
 
 1. Acesse o site do SISU (sisu.mec.gov.br) durante o período de inscrição
 2. Selecione o curso e a instituição de interesse
@@ -19290,7 +19444,7 @@ O SISU oferece uma lista de espera para quem não passou na 1ª chamada. Monitor
 
 **Referência histórica:** sites como Quero Bolsa e Educação UOL publicam os cortes de edições anteriores — use como base para estimar.
 
-## Pesos das Notas no SISU
+## Pesos das Notas no SISU?
 
 Cada curso pode aplicar pesos diferentes por área do ENEM. Exemplos típicos:
 
@@ -19304,7 +19458,7 @@ Cada curso pode aplicar pesos diferentes por área do ENEM. Exemplos típicos:
 
 Verifique os pesos específicos no edital de cada curso no SISU.
 
-## ProUni e FIES — Alternativas ao SISU
+## ProUni e FIES — Alternativas ao SISU?
 
 Se o SISU não der certo, existem outras opções com nota do ENEM:
 
@@ -19341,14 +19495,15 @@ A nota de corte é a menor nota aprovada para uma vaga. Durante os 4 dias de ins
 ### Quantas opções posso colocar no SISU?
 Você pode colocar até 2 opções (curso + instituição + turno + modalidade de concorrência). Não existe limite de troca durante o período de inscrição — você pode mudar suas opções quantas vezes quiser antes do encerramento.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'enem-treineiro',
     title: 'ENEM Treineiro — O Que É, Quem Pode Fazer e Como se Preparar',
-    description: 'O ENEM Treineiro é a opção para quem ainda não terminou o ensino médio. Saiba quem pode participar, como se inscrever e se a nota conta para o SISU.',
+    description: 'O ENEM Treineiro é a opção para quem ainda não terminou o ensino médio. Saiba quem pode participar, como se inscrever e se a nota conta para o SISU. Grátis.',
     date: '2026-06-17',
     readTime: 5,
     content: `
@@ -19356,7 +19511,7 @@ O ENEM Treineiro permite que estudantes que ainda estão cursando o ensino médi
 
 > **TL;DR:** O ENEM Treineiro é a opção para quem ainda não terminou o ensino médio. Saiba quem pode participar, como se inscrever e se a nota conta para o SISU. [Pratique no ENEM Pro →](/questoes)
 
-## O que é o ENEM Treineiro
+## O que é o ENEM Treineiro?
 
 O ENEM Treineiro é uma modalidade do ENEM destinada a candidatos que:
 - Estão cursando o ensino médio (não concluíram ainda)
@@ -19369,7 +19524,7 @@ O ENEM Treineiro é uma modalidade do ENEM destinada a candidatos que:
 
 É exclusivamente para experiência e autoavaliação.
 
-## Quem Pode Fazer o ENEM Treineiro
+## Quem Pode Fazer o ENEM Treineiro?
 
 Você pode participar como treineiro se:
 - Está cursando o **1º ou 2º ano do ensino médio** e tem pelo menos 13 anos de idade
@@ -19377,7 +19532,7 @@ Você pode participar como treineiro se:
 
 Quem está no 3º ano e vai concluir o ensino médio no ano da prova faz o ENEM regular, não o treineiro.
 
-## Por que Fazer o ENEM Treineiro
+## Por que Fazer o ENEM Treineiro?
 
 **1. Experiência real de prova:** O ambiente, o caderno, o tempo — tudo igual ao ENEM regular. Candidatos que fizeram como treineiro relatam que ficam muito mais seguros na prova de verdade.
 
@@ -19387,7 +19542,7 @@ Quem está no 3º ano e vai concluir o ensino médio no ano da prova faz o ENEM 
 
 **4. Sem pressão:** A nota não afeta nada. Você pode testar estratégias, ver como reage ao tempo da prova e treinar o gerenciamento emocional.
 
-## Como se Inscrever no ENEM Treineiro
+## Como se Inscrever no ENEM Treineiro?
 
 O processo de inscrição é o mesmo do ENEM regular:
 
@@ -19402,7 +19557,7 @@ O período de inscrição coincide com o do ENEM regular.
 
 Não. A nota do ENEM Treineiro é separada do ENEM regular e não entra nos sistemas de seleção (SISU, ProUni, FIES). Apenas você e suas instituições educacionais têm acesso ao boletim.
 
-## Estratégia: Como Usar o Treineiro Para Maximizar o ENEM Regular
+## Estratégia: Como Usar o Treineiro Para Maximizar o ENEM Regular?
 
 1. **Faça sério:** Trate como se fosse a prova de verdade — cronometrado, sem pausas
 2. **Analise o boletim:** Anote nota por área e compare com as médias nacionais
@@ -19411,7 +19566,7 @@ Não. A nota do ENEM Treineiro é separada do ENEM regular e não entra nos sist
 
 
 
-## ENEM em Números (INEP)
+## ENEM em Números (INEP)?
 
 | Dado | Valor |
 |------|-------|
@@ -19450,8 +19605,9 @@ Não. A prova é exatamente a mesma — mesmo caderno, mesmas questões, mesmo t
 ### Devo fazer o ENEM Treineiro no 1º, 2º ou 3º ano?
 Idealmente, no 2º ano — quando você já tem conteúdo suficiente para uma performance diagnóstica útil e ainda tem 1 ano+ para corrigir defasagens antes do ENEM regular.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -19465,7 +19621,7 @@ O ProUni (Programa Universidade para Todos) oferece bolsas de estudo integrais (
 
 > **TL;DR:** Como funciona o ProUni, os critérios para bolsa integral e parcial, como se inscrever e as principais dúvidas sobre o Programa Universidade para Todos. [Pratique no ENEM Pro →](/questoes)
 
-## O que é o ProUni
+## O que é o ProUni?
 
 O ProUni é um programa do governo federal que usa a nota do ENEM para selecionar candidatos a bolsas em universidades e faculdades privadas conveniadas. As bolsas são custeadas pelo governo em troca de isenção fiscal para as instituições.
 
@@ -19473,7 +19629,7 @@ O ProUni é um programa do governo federal que usa a nota do ENEM para seleciona
 - **Bolsa integral (100%):** para renda familiar per capita de até **1,5 salário mínimo**
 - **Bolsa parcial (50%):** para renda familiar per capita de até **3 salários mínimos**
 
-## Quem Pode Participar do ProUni
+## Quem Pode Participar do ProUni?
 
 Para se candidatar ao ProUni, você precisa:
 
@@ -19484,11 +19640,11 @@ Para se candidatar ao ProUni, você precisa:
 
 Candidatos com deficiência ou professores da rede pública têm regras específicas — consulte o edital.
 
-## Como Funciona a Nota Mínima no ProUni
+## Como Funciona a Nota Mínima no ProUni?
 
 O ProUni exige nota mínima de **450 pontos** em cada área do ENEM (exceto redação) e **nota diferente de zero na redação**. Essa é a nota para poder concorrer — a nota de corte real de cada curso é definida pela concorrência.
 
-## Quando Abre o ProUni
+## Quando Abre o ProUni?
 
 O ProUni geralmente abre **junto com o SISU**, em janeiro, logo após o resultado do ENEM. O período de inscrição dura em média 4 a 7 dias.
 
@@ -19498,7 +19654,7 @@ O ProUni geralmente abre **junto com o SISU**, em janeiro, logo após o resultad
 3. 1ª chamada → 1–2 semanas após inscrições
 4. Lista de espera → Após a 1ª chamada
 
-## Como se Inscrever no ProUni
+## Como se Inscrever no ProUni?
 
 1. Acesse **prouni.mec.gov.br**
 2. Faça login com seu CPF e senha do ENEM
@@ -19508,7 +19664,7 @@ O ProUni geralmente abre **junto com o SISU**, em janeiro, logo após o resultad
 
 Após a chamada, se selecionado, você deve comprovar a renda e os demais critérios na instituição.
 
-## ProUni vs SISU — Qual Escolher
+## ProUni vs SISU — Qual Escolher?
 
 | Critério | ProUni | SISU |
 |---------|--------|------|
@@ -19549,8 +19705,9 @@ Sim, desde que tenha cursado o ensino médio com bolsa integral em escola partic
 ### O que acontece se eu abandonar o curso após pegar uma bolsa ProUni?
 Se abandonar sem justificativa, pode perder a bolsa e ser impedido de receber novamente. Existem regras sobre frequência mínima e rendimento acadêmico que devem ser mantidas para conservar a bolsa.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -19564,14 +19721,14 @@ Sociologia representa cerca de 8–10 questões na prova de Ciências Humanas do
 
 > **TL;DR:** Como estudar Sociologia para o ENEM: os 3 clássicos que sempre caem (Marx, Durkheim, Weber), os temas contemporâneos e como responder questões de interpretação. [Pratique no ENEM Pro →](/questoes)
 
-## O que o ENEM Cobra em Sociologia
+## O que o ENEM Cobra em Sociologia?
 
 O ENEM avalia competências, não decoreba. Para Sociologia, as habilidades avaliadas são:
 - Identificar conceitos sociológicos em situações concretas
 - Relacionar teorias clássicas com fenômenos contemporâneos
 - Analisar desigualdades sociais, trabalho e cultura
 
-## Os 3 Clássicos que Sempre Caem
+## Os 3 Clássicos que Sempre Caem?
 
 ### Karl Marx (1818–1883)
 **Conceitos essenciais:**
@@ -19600,7 +19757,7 @@ O ENEM avalia competências, não decoreba. Para Sociologia, as habilidades aval
 
 **Como cai no ENEM:** Questões sobre Estado, poder, religião e formas de organização social.
 
-## Temas Contemporâneos de Sociologia no ENEM
+## Temas Contemporâneos de Sociologia no ENEM?
 
 Além dos clássicos, o ENEM cobra temas atuais:
 
@@ -19624,7 +19781,7 @@ Além dos clássicos, o ENEM cobra temas atuais:
 - Contracultura, subculturas e resistência
 - Globalização e diversidade cultural
 
-## Como Responder Questões de Sociologia
+## Como Responder Questões de Sociologia?
 
 **Passo 1:** Leia o texto base até o fim (charge, artigo, trecho de obra)
 **Passo 2:** Identifique o tema central — desigualdade? Trabalho? Norma social?
@@ -19633,7 +19790,7 @@ Além dos clássicos, o ENEM cobra temas atuais:
 
 A maioria das questões de Sociologia tem a resposta inferível do texto base — sem precisar memorizar teorias de cor.
 
-## Cronograma de Estudo para Sociologia
+## Cronograma de Estudo para Sociologia?
 
 | Semana | Foco |
 |--------|------|
@@ -19644,7 +19801,7 @@ A maioria das questões de Sociologia tem a resposta inferível do texto base �
 
 4 semanas de estudo focado cobrem 90% do que o ENEM cobra em Sociologia.
 
-## Pratique com Questões Reais
+## Pratique com Questões Reais?
 
 O ENEM Pro tem todas as questões de Sociologia do ENEM de 2009 a 2024 organizadas por tema e teórico.
 
@@ -19677,14 +19834,15 @@ Depende da abordagem. Quem tenta memorizar conceitos isolados acha difícil. Que
 ### Quantas questões de Sociologia tem no ENEM?
 Aproximadamente 7 a 10 questões por edição, dentro das 45 de Ciências Humanas. A proporção varia ligeiramente entre edições.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'enem-digital-prova-computador',
     title: 'ENEM Digital — Prova no Computador, Quem Pode Fazer e Diferenças do Impresso',
-    description: 'O ENEM Digital é a versão em computador do exame. Saiba quem pode participar, como funciona a prova, as diferenças do impresso e como se preparar.',
+    description: 'O ENEM Digital é a versão em computador do exame. Saiba quem pode participar, como funciona a prova, as diferenças do impresso e como se preparar. Grátis.',
     date: '2026-06-17',
     readTime: 6,
     content: `
@@ -19692,13 +19850,13 @@ O ENEM Digital é a versão do exame aplicada em computador, disponível como op
 
 > **TL;DR:** O ENEM Digital é a versão em computador do exame. Saiba quem pode participar, como funciona a prova, as diferenças do impresso e como se preparar. [Pratique no ENEM Pro →](/questoes)
 
-## O que é o ENEM Digital
+## O que é o ENEM Digital?
 
 O ENEM Digital é uma modalidade opcional do ENEM onde o candidato responde às questões em um computador em um local de prova designado pelo INEP, em vez de marcar um gabarito em papel.
 
 **A prova em si é igual:** mesmo conteúdo, mesma Matriz de Referência, mesma escala TRI. O que muda é o formato de entrega das respostas.
 
-## Quem Pode Fazer o ENEM Digital
+## Quem Pode Fazer o ENEM Digital?
 
 A participação no ENEM Digital é **voluntária e por ordem de inscrição**. No momento da inscrição, você seleciona se prefere o ENEM impresso ou o ENEM Digital.
 
@@ -19706,7 +19864,7 @@ Restrições:
 - Candidatos que solicitam atendimento especializado (Braille, ledor, etc.) não fazem o ENEM Digital
 - A disponibilidade de vagas pode ser limitada — inscrições encerram quando as vagas do digital se esgotam
 
-## Diferenças Entre ENEM Digital e Impresso
+## Diferenças Entre ENEM Digital e Impresso?
 
 | Aspecto | ENEM Digital | ENEM Impresso |
 |---------|-------------|--------------|
@@ -19717,7 +19875,7 @@ Restrições:
 | Resultado | Mesmo prazo | Mesmo prazo |
 | Validade | Igual | Igual |
 
-## A Redação no ENEM Digital
+## A Redação no ENEM Digital?
 
 A redação no ENEM Digital é **digitada** — você escreve no computador, não à mão. Isso é uma diferença importante:
 
@@ -19761,8 +19919,9 @@ Para quem digita bem, a redação digitada pode ser mais rápida e legível. Tam
 ### O ENEM Digital tem prova diferente do impresso?
 Não. O conteúdo é exatamente o mesmo — mesmas questões, mesma Matriz de Referência, mesmo dia de aplicação. A diferença é apenas o formato de resposta.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
 ]
@@ -19779,7 +19938,7 @@ Matemática Financeira é um dos tópicos mais frequentes no ENEM — aparece em
 
 > **TL;DR:** Guia completo de Matemática Financeira para o ENEM: juros simples e compostos, porcentagem, desconto, prestações e as questões mais cobradas de 2015 a 2024. [Pratique no ENEM Pro →](/questoes)
 
-## O Que Cai de Matemática Financeira no ENEM
+## O Que Cai de Matemática Financeira no ENEM?
 
 | Tópico | Frequência |
 |--------|-----------|
@@ -19789,7 +19948,7 @@ Matemática Financeira é um dos tópicos mais frequentes no ENEM — aparece em
 | Prestações / financiamento | Média (1-2x/edição) |
 | Inflação e variação percentual | Baixa (eventual) |
 
-## Porcentagem — Revisão Rápida
+## Porcentagem — Revisão Rápida?
 
 Porcentagem é base de tudo em Matemática Financeira.
 
@@ -19805,7 +19964,7 @@ Exemplo ENEM: "Um produto custava R$120. Sofreu aumento de 15%. Qual o novo pre�
 
 Esta "pegadinha" dos aumentos/descontos sucessivos cai com frequência no ENEM.
 
-## Juros Simples
+## Juros Simples?
 
 Fórmula: **J = C × i × t**
 Montante: **M = C × (1 + i × t)**
@@ -19821,7 +19980,7 @@ M = 2000 + 240 = **R$2.240**
 
 O ENEM raramente cobra juros simples puros — geralmente aparece como comparação com juros compostos ou em contexto de multa/mora.
 
-## Juros Compostos
+## Juros Compostos?
 
 Fórmula: **M = C × (1 + i)ᵗ**
 
@@ -19837,7 +19996,7 @@ Para o ENEM, saiba que:
 - Em 1 período, o resultado é idêntico
 - A diferença cresce com o tempo (os juros compostos "incidem sobre os juros")
 
-## Prestações e Financiamento
+## Prestações e Financiamento?
 
 O ENEM cobra principalmente dois tipos:
 
@@ -19851,7 +20010,7 @@ Na prova, o valor de (1+i)ᵗ é fornecido. Você substitui e calcula.
 Total pago: 60 × 700 = R$42.000
 Juros: 42.000 − 30.000 = **R$12.000**
 
-## Variação Percentual
+## Variação Percentual?
 
 Muito cobrado em contexto de salários, inflação, e PIB.
 
@@ -19860,14 +20019,14 @@ Fórmula: variação = (valor final − valor inicial) / valor inicial × 100
 "O salário passou de R$2.400 para R$2.880. Qual o aumento percentual?"
 (2.880 − 2.400) / 2.400 × 100 = **20%**
 
-## Estratégia Para a Prova
+## Estratégia Para a Prova?
 
 1. Leia com atenção se a taxa é ao mês ou ao ano — errar a unidade do tempo é o erro mais comum
 2. Em juros compostos, procure a tabela fornecida antes de calcular
 3. Questões de "qual a melhor oferta" geralmente pedem cálculo de valor presente ou total pago
 4. Porcentagem acumulada: (1+a)(1+b) − 1, não soma direta
 
-## Praticar com o ENEM Pro
+## Praticar com o ENEM Pro?
 
 O ENEM Pro tem filtro por tópico — selecione "Matemática Financeira" para resolver questões reais de 2009 a 2024 com explicação de IA para cada erro.
 
@@ -19902,14 +20061,15 @@ Taxa equivalente é uma taxa para período diferente que produz o mesmo resultad
 ### Matemática Financeira cai no 1º ou 2º dia do ENEM?
 Matemática Financeira cai no 2º dia do ENEM, dentro das 45 questões de Matemática. Geralmente aparecem 2 a 4 questões envolvendo porcentagem, juros ou financiamentos.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'eletricidade-enem-o-que-cai',
     title: 'Eletricidade no ENEM — O Que Cai, Fórmulas e Como Estudar',
-    description: 'Guia de Eletricidade para o ENEM: eletrostática, corrente elétrica, resistência, potência e os tópicos mais cobrados de Física nas edições recentes.',
+    description: 'Guia de Eletricidade para o ENEM: eletrostática, corrente elétrica, resistência, potência e os tópicos mais cobrados de Física nas edições recentes. Grátis.',
     date: '2026-06-18',
     readTime: 8,
     content: `
@@ -19917,7 +20077,7 @@ Eletricidade é um dos temas mais frequentes de Física no ENEM. Representa entr
 
 > **TL;DR:** Guia de Eletricidade para o ENEM: eletrostática, corrente elétrica, resistência, potência e os tópicos mais cobrados de Física nas edições recentes. [Pratique no ENEM Pro →](/questoes)
 
-## O Que Cai de Eletricidade no ENEM
+## O Que Cai de Eletricidade no ENEM?
 
 | Tópico | Frequência |
 |--------|-----------|
@@ -19928,7 +20088,7 @@ Eletricidade é um dos temas mais frequentes de Física no ENEM. Representa entr
 | Campo e potencial elétrico | Média |
 | Geradores e receptores | Baixa |
 
-## Eletrostática — O Essencial
+## Eletrostática — O Essencial?
 
 ### Carga Elétrica
 - Próton: positivo (+e)
@@ -19943,13 +20103,13 @@ Onde k ≈ 9 × 10⁹ N·m²/C²
 
 O ENEM raramente pede cálculo direto — mais cobrado: analisar o que acontece com a força se a distância dobra (força cai 4x), se a carga dobra (força dobra), etc.
 
-## Corrente Elétrica
+## Corrente Elétrica?
 
 **i = ΔQ / Δt** (corrente = carga / tempo)
 
 O ENEM cobra principalmente o conceito de que corrente é fluxo ordenado de cargas, e o sentido convencional (de + para −) vs. real (elétrons de − para +).
 
-## Resistência — Lei de Ohm
+## Resistência — Lei de Ohm?
 
 **V = R × i** (tensão = resistência × corrente)
 
@@ -19959,7 +20119,7 @@ Resistência em função das características do fio:
 
 Prática ENEM: "Fio cortado ao meio — resistência cai pela metade. Dois fios iguais em paralelo — resistência cai pela metade."
 
-## Circuitos Elétricos
+## Circuitos Elétricos?
 
 ### Série
 - Resistência equivalente: R_eq = R₁ + R₂ + ... + Rₙ
@@ -19973,7 +20133,7 @@ Prática ENEM: "Fio cortado ao meio — resistência cai pela metade. Dois fios 
 
 **Caso especial — dois resistores iguais R em paralelo:** R_eq = R/2
 
-## Potência e Energia Elétrica
+## Potência e Energia Elétrica?
 
 P = V × i = R × i² = V² / R
 
@@ -19985,13 +20145,13 @@ P = 5,4 kW | t = 0,25 h/dia × 30 = 7,5 h
 E = 5,4 × 7,5 = 40,5 kWh
 Custo = 40,5 × 0,80 = **R$32,40**
 
-## Estratégia de Estudo
+## Estratégia de Estudo?
 
 1. **Domine a tabela de unidades**: Volts, Amperes, Ohms, Watts — o ENEM sempre usa as relações entre elas
 2. **Circuitos mistos**: Identifique os grupos série e paralelo separadamente antes de calcular o equivalente
 3. **Contexto cotidiano**: ENEM adora questões sobre conta de luz, chuveiro elétrico, e lâmpadas LED vs incandescente
 
-## Praticar com o ENEM Pro
+## Praticar com o ENEM Pro?
 
 O ENEM Pro filtra questões por tópico dentro de Física — selecione "Eletricidade" para resolver questões reais de 2009 a 2024.
 
@@ -20025,14 +20185,15 @@ Para dois resistores R₁ e R₂ em paralelo: R_eq = (R₁ × R₂) / (R₁ + R�
 ### Lei de Ohm cai no ENEM?
 Sim, com alta frequência. A relação V = R × i aparece em praticamente todas as edições, geralmente em questões sobre circuitos domésticos, chuveiros e lâmpadas.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'enem-ingles-ou-espanhol',
     title: 'ENEM — Inglês ou Espanhol? Qual Escolher e Como Decidir',
-    description: 'Inglês ou espanhol no ENEM? Compare dificuldade, estratégia, pontuação e o que dizem os dados das últimas edições para você escolher a língua certa.',
+    description: 'Inglês ou espanhol no ENEM? Compare dificuldade, estratégia, pontuação e o que dizem os dados das últimas edições para você escolher a língua certa. Grátis.',
     date: '2026-06-18',
     readTime: 6,
     content: `
@@ -20040,13 +20201,13 @@ No ENEM, você escolhe entre inglês e espanhol na hora de responder as questõe
 
 > **TL;DR:** Inglês ou espanhol no ENEM? Compare dificuldade, estratégia, pontuação e o que dizem os dados das últimas edições para você escolher a língua certa. [Pratique no ENEM Pro →](/questoes)
 
-## Como Funciona a Escolha
+## Como Funciona a Escolha?
 
 A prova de Linguagens traz 5 questões em inglês e 5 em espanhol. Você responde **apenas um dos grupos** — 5 questões da língua de sua escolha.
 
 As outras 45 questões de Linguagens (Português, Literatura, Artes, Educação Física) são iguais para todos.
 
-## Inglês × Espanhol — Comparação
+## Inglês × Espanhol — Comparação?
 
 | Critério | Inglês | Espanhol |
 |---------|--------|----------|
@@ -20056,7 +20217,7 @@ As outras 45 questões de Linguagens (Português, Literatura, Artes, Educação 
 | Dificuldade média ENEM | Média | Ligeiramente mais acessível |
 | Nível exigido | Leitura básica a intermediária | Leitura básica a intermediária |
 
-## O ENEM Não Exige Fluência
+## O ENEM Não Exige Fluência?
 
 Importante: o ENEM cobra **leitura e interpretação**, não produção escrita. Você não precisa escrever em inglês nem espanhol — só interpretar textos curtos.
 
@@ -20066,26 +20227,26 @@ As questões geralmente testam:
 - Compreensão de marcadores de tempo, causa e contraste
 - Entender o tema central de um texto
 
-## Quando Escolher Espanhol
+## Quando Escolher Espanhol?
 
 - Se você nunca estudou inglês formalmente
 - Se já estudou espanhol no Ensino Médio
 - Se quiser aproveitar a proximidade com o português (cognatos)
 - Para candidatos que não têm familiaridade com nenhuma língua, o espanhol costuma ser mais acessível
 
-## Quando Escolher Inglês
+## Quando Escolher Inglês?
 
 - Se você estudou inglês no ensino médio ou em curso
 - Se já tem familiaridade com séries, músicas e conteúdo em inglês
 - Se quiser manter o idioma que estudou mais
 
-## A Estratégia Prática
+## A Estratégia Prática?
 
 1. **Olhe as questões de ambas antes de decidir.** Você pode ler os dois blocos e escolher o mais fácil para você naquele dia.
 2. **Leia os textos, não traduza palavra por palavra.** Busque o sentido geral — o ENEM exige compreensão, não tradução perfeita.
 3. **Use o contexto.** Palavras desconhecidas muitas vezes podem ser inferidas pelo contexto da frase ou pelo texto.
 
-## Impacto na Nota
+## Impacto na Nota?
 
 Matematicamente, as 5 questões de língua estrangeira têm o mesmo peso que qualquer outro grupo de 5 questões. Não há bônus por escolher inglês ou espanhol — o que importa é acertar mais.
 
@@ -20119,14 +20280,15 @@ Sim, até o momento em que você marcar as respostas no cartão resposta. Você 
 ### A nota de inglês e espanhol influencia diferente no ENEM?
 Não. As 5 questões de língua estrangeira têm o mesmo peso seja em inglês ou espanhol. A área de Linguagens tem peso igual às outras 4 áreas na nota final.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-enem-2016',
     title: 'Gabarito ENEM 2016 — Gabarito Oficial por Cor e Questão',
-    description: 'Gabarito oficial do ENEM 2016 por cor de prova (Amarela, Azul, Rosa, Branca). Consulte as respostas e acesse o gabarito completo no site do INEP.',
+    description: 'Gabarito oficial do ENEM 2016 por cor de prova (Amarela, Azul, Rosa, Branca). Consulte as respostas e acesse o gabarito completo no site do INEP. Acesse grátis.',
     date: '2026-06-18',
     readTime: 4,
     content: `
@@ -20134,7 +20296,7 @@ O gabarito oficial do ENEM 2016 foi divulgado pelo INEP logo após a aplicação
 
 > **TL;DR:** Gabarito oficial do ENEM 2016 por cor de prova (Amarela, Azul, Rosa, Branca). Consulte as respostas e acesse o gabarito completo no site do INEP. [Pratique no ENEM Pro →](/questoes)
 
-## Gabarito Oficial ENEM 2016
+## Gabarito Oficial ENEM 2016?
 
 O gabarito completo do ENEM 2016, com todas as cores de prova, está disponível no portal oficial do INEP:
 
@@ -20145,7 +20307,7 @@ No portal do INEP você encontra:
 - Arquivos PDF para download
 - Gabaritos de edições anteriores e posteriores
 
-## Sobre o ENEM 2016
+## Sobre o ENEM 2016?
 
 | Dado | Informação |
 |------|-----------|
@@ -20154,7 +20316,7 @@ No portal do INEP você encontra:
 | Tema da redação | Caminhos para combater a intolerância religiosa no Brasil |
 | Aplicação | Nacional (presencial) |
 
-## Estrutura da Prova
+## Estrutura da Prova?
 
 **1º dia (Ciências Humanas + Linguagens):**
 - 45 questões de Linguagens (inclui 5 de língua estrangeira)
@@ -20165,7 +20327,7 @@ No portal do INEP você encontra:
 - 45 questões de Ciências da Natureza
 - 45 questões de Matemática
 
-## Como Usar o Gabarito Para Estudar
+## Como Usar o Gabarito Para Estudar?
 
 1. Resolva a prova do ENEM 2016 antes de ver o gabarito
 2. Marque as questões que errou ou ficou em dúvida
@@ -20174,7 +20336,7 @@ No portal do INEP você encontra:
 
 Resolver provas antigas é uma das estratégias mais eficientes para o ENEM — o estilo de questão e os temas se repetem.
 
-## Calcular a Nota do ENEM 2016
+## Calcular a Nota do ENEM 2016?
 
 Se quiser simular sua nota na escala do TRI com base no gabarito, use a calculadora do ENEM Pro:
 
@@ -20206,8 +20368,9 @@ O ENEM 2016 tinha 180 questões de múltipla escolha (45 de Linguagens, 45 de Ci
 ### O gabarito do ENEM 2016 é diferente por cor de prova?
 Sim. Cada cor de prova (Amarela, Azul, Rosa, Branca) tem uma sequência diferente de questões, mas o conteúdo avaliado é o mesmo. O gabarito do INEP detalha a resposta correta para cada questão em cada cor.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -20221,7 +20384,7 @@ Medicina em faculdades particulares via ENEM é possível pelo ProUni, FIES, e p
 
 > **TL;DR:** Qual nota no ENEM é necessária para entrar em medicina em faculdades particulares? ProUni, FIES e vestibular próprio — veja as notas mínimas e como se preparar. [Pratique no ENEM Pro →](/questoes)
 
-## Rotas Para Medicina Particular via ENEM
+## Rotas Para Medicina Particular via ENEM?
 
 ### 1. ProUni (bolsa parcial ou integral)
 
@@ -20247,7 +20410,7 @@ Muitas faculdades particulares usam a nota do ENEM como parte do vestibular, com
 
 Neste caso, a nota necessária depende da faculdade e da concorrência naquele semestre.
 
-## Notas de Referência
+## Notas de Referência?
 
 | Rota | Nota mínima ENEM |
 |------|-----------------|
@@ -20256,11 +20419,11 @@ Neste caso, a nota necessária depende da faculdade e da concorrência naquele s
 | ProUni medicina (nota real de corte) | 750-800+ |
 | Vestibular próprio (varia) | 600-750 (depende da faculdade) |
 
-## Redação — Ponto Crítico
+## Redação — Ponto Crítico?
 
 Nota zero na redação elimina o candidato do ProUni e do FIES, independente das outras notas. Não deixe a redação para segundo plano.
 
-## Medicina Particular × Federal
+## Medicina Particular × Federal?
 
 | Critério | Particular | Federal (SISU) |
 |---------|-----------|---------------|
@@ -20269,7 +20432,7 @@ Nota zero na redação elimina o candidato do ProUni e do FIES, independente das
 | Qualidade | Varia muito | Alta (federais) |
 | Competição | Alta | Muito alta |
 
-## Estratégia Para Atingir 750+ no ENEM
+## Estratégia Para Atingir 750+ no ENEM?
 
 Para medicina, seja federal ou particular via ProUni, você precisa de nota acima da média em todas as áreas. Foque especialmente em:
 
@@ -20303,8 +20466,9 @@ Sim. Você pode pagar as mensalidades integralmente, usar bolsas internas da fac
 ### Nota zero na redação elimina do ProUni para medicina?
 Sim. Nota zero na redação do ENEM elimina automaticamente do ProUni e do FIES, independentemente da nota nas demais áreas. É o critério eliminatório mais comum nesses programas.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -20318,7 +20482,7 @@ O texto dissertativo-argumentativo é o único tipo de redação aceito no ENEM.
 
 > **TL;DR:** O que é o texto dissertativo-argumentativo do ENEM, como estruturar introdução, desenvolvimento e conclusão, e as regras de cada competência avaliada. [Pratique no ENEM Pro →](/questoes)
 
-## O Que é Texto Dissertativo-Argumentativo
+## O Que é Texto Dissertativo-Argumentativo?
 
 É um texto que:
 1. **Defende um ponto de vista** (tese) sobre um tema controverso ou problema social
@@ -20327,7 +20491,7 @@ O texto dissertativo-argumentativo é o único tipo de redação aceito no ENEM.
 
 O ENEM não aceita relatos de experiência pessoal, narração de histórias, ou poesia. Qualquer fuga ao tipo textual pode resultar em nota baixa nas competências I e II.
 
-## Estrutura Básica
+## Estrutura Básica?
 
 ### Introdução (3 a 5 linhas)
 
@@ -20363,7 +20527,7 @@ A conclusão no ENEM **deve ter proposta de intervenção social** clara. O INEP
 Exemplo de conclusão bem estruturada:
 "Portanto, cabe ao Ministério da Educação [agente] promover campanhas de conscientização [ação] por meio de parcerias com influenciadores digitais [meio], a fim de ampliar o acesso a informações sobre saúde mental [finalidade], priorizando escolas em regiões de maior vulnerabilidade socioeconômica [detalhamento]."
 
-## As 5 Competências do ENEM
+## As 5 Competências do ENEM?
 
 | Competência | O Que Avalia | Nota máx |
 |------------|-------------|---------|
@@ -20375,7 +20539,7 @@ Exemplo de conclusão bem estruturada:
 
 **Competência V zero = redação zerada?** Não. Mas uma proposta ausente ou muito vaga custa até 200 pontos.
 
-## O Que Zera a Redação
+## O Que Zera a Redação?
 
 - Fuga total ao tema
 - Texto em branco
@@ -20383,7 +20547,7 @@ Exemplo de conclusão bem estruturada:
 - Cópia dos textos motivadores
 - Desrespeito aos direitos humanos
 
-## Dicas Práticas
+## Dicas Práticas?
 
 1. **Escreva entre 25 e 30 linhas.** Textos muito curtos limitam seu desenvolvimento; textos muito longos aumentam risco de erros.
 2. **Use conectivos argumentativos:** portanto, entretanto, além disso, por conseguinte, em contrapartida.
@@ -20415,14 +20579,15 @@ São 5 competências, cada uma valendo até 200 pontos, totalizando 1000 pontos.
 ### Quantas linhas deve ter a redação do ENEM?
 O ENEM não define um mínimo oficial além de 7 linhas (abaixo disso, a redação pode ser desclassificada). O recomendado pelos especialistas é entre 25 e 30 linhas — o suficiente para introdução (3-5 linhas), dois parágrafos de desenvolvimento (8-10 linhas cada) e conclusão (4-5 linhas).
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'enem-segunda-aplicacao-2026',
     title: 'ENEM 2ª Aplicação 2026 — Data, Quem Pode Fazer e Como Solicitar',
-    description: 'O que é a segunda aplicação do ENEM 2026, quem tem direito, como solicitar, datas e o que fazer se você perdeu a primeira prova.',
+    description: 'O que é a segunda aplicação do ENEM 2026, quem tem direito, como solicitar, datas e o que fazer se você perdeu a primeira prova. Saiba mais e prepare-se.',
     date: '2026-06-18',
     readTime: 5,
     content: `
@@ -20430,7 +20595,7 @@ A segunda aplicação do ENEM é uma oportunidade extra para candidatos que tive
 
 > **TL;DR:** O que é a segunda aplicação do ENEM 2026, quem tem direito, como solicitar, datas e o que fazer se você perdeu a primeira prova. [Pratique no ENEM Pro →](/questoes)
 
-## O Que é a 2ª Aplicação do ENEM
+## O Que é a 2ª Aplicação do ENEM?
 
 A segunda aplicação ocorre semanas após a data regular do ENEM, para candidatos que:
 
@@ -20439,7 +20604,7 @@ A segunda aplicação ocorre semanas após a data regular do ENEM, para candidat
 
 A prova é a mesma em conteúdo, mas com gabarito diferente (outra cor de caderno).
 
-## Quem Pode Fazer a 2ª Aplicação
+## Quem Pode Fazer a 2ª Aplicação?
 
 ### Direito Garantido (Independente de Justificativa)
 - Candidatos em privação de liberdade
@@ -20451,7 +20616,7 @@ A prova é a mesma em conteúdo, mas com gabarito diferente (outra cor de cadern
 - Óbito de familiar próximo com documentação
 - Outros casos de força maior, a critério do INEP
 
-## Como Solicitar a 2ª Aplicação
+## Como Solicitar a 2ª Aplicação?
 
 1. Acesse o **Página do Participante** (enem.inep.gov.br)
 2. Faça login com CPF e senha
@@ -20461,7 +20626,7 @@ A prova é a mesma em conteúdo, mas com gabarito diferente (outra cor de cadern
 
 **Atenção:** O prazo para enviar a justificativa é curto — geralmente 1 a 2 semanas após a realização da prova.
 
-## Datas ENEM 2026
+## Datas ENEM 2026?
 
 As datas oficiais serão publicadas no Edital do ENEM 2026 pelo INEP. Historicamente:
 
@@ -20506,14 +20671,15 @@ O prazo costuma ser de 1 a 2 semanas após a data da prova, conforme estipulado 
 ### Se eu fiz a 1ª aplicação e também a 2ª, qual nota vale?
 Candidatos não fazem as duas aplicações na mesma edição — a 2ª aplicação é para quem não fez a 1ª. Exceto no caso de candidatos PPL, que têm aplicação em datas diferentes por logística.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'banco-de-questoes-enem-gratis',
     title: 'Banco de Questões do ENEM Grátis — Como Praticar Online Sem Pagar',
-    description: 'Os melhores bancos de questões do ENEM grátis online: onde encontrar questões de 2009 a 2024 por disciplina, com gabarito e explicações.',
+    description: 'Os melhores bancos de questões do ENEM grátis online: onde encontrar questões de 2009 a 2024 por disciplina, com gabarito e explicações. Acesse grátis.',
     date: '2026-06-18',
     readTime: 5,
     content: `
@@ -20521,7 +20687,7 @@ Praticar questões reais do ENEM é uma das formas mais eficientes de se prepara
 
 > **TL;DR:** Os melhores bancos de questões do ENEM grátis online: onde encontrar questões de 2009 a 2024 por disciplina, com gabarito e explicações. [Pratique no ENEM Pro →](/questoes)
 
-## ENEM Pro — Questões com Explicação de IA
+## ENEM Pro — Questões com Explicação de IA?
 
 O **ENEM Pro** oferece questões reais do ENEM de 2009 a 2024 com explicação gerada por IA para cada resposta errada. Filtre por disciplina, tópico e ano.
 
@@ -20529,13 +20695,13 @@ O **ENEM Pro** oferece questões reais do ENEM de 2009 a 2024 com explicação g
 
 **[Praticar questões grátis no ENEM Pro →](/questoes)**
 
-## Portal do INEP
+## Portal do INEP?
 
 O INEP disponibiliza todas as provas do ENEM desde 1998 em PDF, junto com os gabaritos oficiais. É a fonte original — mas sem filtro por tópico nem explicações.
 
 **Como usar:** Baixe a prova do ano desejado, resolva no papel ou em PDF com anotações, depois confira com o gabarito.
 
-## Estratégia de Uso do Banco de Questões
+## Estratégia de Uso do Banco de Questões?
 
 ### Para Diagnóstico Inicial
 Faça uma "prova diagnóstica" com 20-30 questões de cada disciplina. Identifique onde você erra mais — esses são os tópicos prioritários.
@@ -20546,7 +20712,7 @@ Após estudar um assunto específico (ex: genética, funções do 1º grau), res
 ### Para Simulado Final
 Nas últimas 4-6 semanas antes da prova, faça simulados completos (90 questões + redação) no tempo real da prova (5,5 horas por dia).
 
-## Quantas Questões Resolver
+## Quantas Questões Resolver?
 
 | Fase | Meta |
 |------|------|
@@ -20554,7 +20720,7 @@ Nas últimas 4-6 semanas antes da prova, faça simulados completos (90 questões
 | Estudo regular | 20-30 questões/dia |
 | Semana da prova | Revisão leve + resolução rápida |
 
-## Dica: Qualidade > Quantidade
+## Dica: Qualidade > Quantidade?
 
 Resolver 500 questões e não analisar os erros é menos eficiente do que resolver 200 e estudar profundamente cada erro. Use o banco de questões como ferramenta de diagnóstico — não apenas como acúmulo de respostas.
 
@@ -20582,8 +20748,9 @@ Para estudo regular, 20 a 30 questões por dia é o recomendado — o suficiente
 ### Praticar questões online é tão bom quanto resolver no papel?
 Para o ENEM regular (impresso), muitos candidatos preferem simular no papel para habituar o olho ao formato. Para o ENEM Digital, praticar online é mais fiel à experiência real da prova.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -20597,7 +20764,7 @@ Muitos candidatos enfrentam o dilema: focar no ENEM, no vestibular da faculdade 
 
 > **TL;DR:** ENEM ou vestibular tradicional: quais são as diferenças, quando vale mais a pena focar em um ou outro, e como conciliar os dois sem perder rendimento. [Pratique no ENEM Pro →](/questoes)
 
-## ENEM × Vestibular — Principais Diferenças
+## ENEM × Vestibular — Principais Diferenças?
 
 | Critério | ENEM | Vestibular Tradicional |
 |---------|------|----------------------|
@@ -20608,7 +20775,7 @@ Muitos candidatos enfrentam o dilema: focar no ENEM, no vestibular da faculdade 
 | Resultado | Janeiro (SISU em fevereiro) | Depende da instituição |
 | Redação | Texto dissertativo-argumentativo | Varia: alguns pedem redação, outros não |
 
-## Quando o ENEM é Suficiente
+## Quando o ENEM é Suficiente?
 
 Foque no ENEM se:
 - Quer entrar em **universidade federal** (UFMG, USP pelo SISU, UFRJ, UnB, etc.)
@@ -20616,7 +20783,7 @@ Foque no ENEM se:
 - Quer entrar em **faculdade particular** que aceita nota do ENEM
 - Está preparado para o estilo contextualizado das questões
 
-## Quando o Vestibular Tradicional é Essencial
+## Quando o Vestibular Tradicional é Essencial?
 
 Foque (também) no vestibular se:
 - Quer entrar na **FUVEST** (USP pelo vestibular próprio) — nota do ENEM não substitui
@@ -20626,7 +20793,7 @@ Foque (também) no vestibular se:
 
 **Atenção:** Desde 2022, a USP reduziu o peso da FUVEST e aumentou o ENEM no SISU. Verifique sempre no edital atual.
 
-## Como Conciliar os Dois
+## Como Conciliar os Dois?
 
 Se precisa de ambos, a estratégia é:
 
@@ -20635,7 +20802,7 @@ Se precisa de ambos, a estratégia é:
 3. **Planejamento paralelo:** Separe 70% do tempo para o conteúdo comum e 30% para os diferenciais do vestibular específico.
 4. **Simulados separados:** Alterne entre simulados estilo ENEM e provas antigas do vestibular alvo.
 
-## Qual Tem Mais Vagas
+## Qual Tem Mais Vagas?
 
 | Via | Vagas aproximadas |
 |-----|-----------------|
@@ -20671,14 +20838,15 @@ Não. O ITA (Instituto Tecnológico de Aeronáutica) tem processo seletivo próp
 ### É possível passar em medicina só com o ENEM?
 Sim, pela SISU (medicina em federais) e pelo ProUni/FIES (particulares). Mas a competição é muito alta — notas acima de 750-800 em todas as áreas são exigidas na prática. Ver: [nota para medicina pelo ENEM →](/blog/nota-enem-medicina-particular).
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'redacao-enem-introducao-como-fazer',
     title: 'Introdução da Redação ENEM — Como Fazer e Modelos que Funcionam',
-    description: 'Como escrever a introdução perfeita da redação do ENEM: modelos prontos, o que evitar, como apresentar a tese e exemplos de abertura que pontuam nas 5 competências.',
+    description: 'Como escrever a introdução perfeita da redação do ENEM: modelos prontos, o que evitar, como apresentar a tese e exemplos de abertura que pontuam nas 5.',
     date: '2026-06-18',
     readTime: 7,
     content: `
@@ -20686,7 +20854,7 @@ A introdução da redação do ENEM é o primeiro impacto que o corretor tem do 
 
 > **TL;DR:** Como escrever a introdução perfeita da redação do ENEM: modelos prontos, o que evitar, como apresentar a tese e exemplos de abertura que pontuam nas 5 competências. [Pratique no ENEM Pro →](/questoes)
 
-## O Que a Introdução Precisa Fazer
+## O Que a Introdução Precisa Fazer?
 
 Uma introdução eficiente no ENEM deve:
 1. Contextualizar o tema (não apenas repeti-lo)
@@ -20695,7 +20863,7 @@ Uma introdução eficiente no ENEM deve:
 
 Extensão ideal: **3 a 5 linhas**. Introduções muito longas consomem espaço do desenvolvimento.
 
-## Estruturas Que Funcionam
+## Estruturas Que Funcionam?
 
 ### Modelo 1: Contexto Histórico ou Social → Tese
 
@@ -20718,7 +20886,7 @@ Exemplo:
 Exemplo:
 "O filósofo John Locke defendia a separação entre Estado e religião como condição para a liberdade individual. Esse princípio aplica-se ao Brasil contemporâneo, no qual o Estado laico ainda enfrenta desafios para proteger efetivamente a diversidade religiosa."
 
-## O Que Evitar
+## O Que Evitar?
 
 | Evitar | Por quê |
 |--------|---------|
@@ -20728,7 +20896,7 @@ Exemplo:
 | Primeira pessoa ("Eu acho...") | Incompatível com dissertação formal |
 | Introdução com mais de 6 linhas | Ocupa espaço do desenvolvimento |
 
-## A Tese: O Elemento Central
+## A Tese: O Elemento Central?
 
 A tese é sua **posição sobre o problema**. Não é uma pergunta nem um resumo do tema — é uma afirmação que você vai defender nos parágrafos seguintes.
 
@@ -20737,7 +20905,7 @@ Tese forte: "O combate à intolerância religiosa no Brasil depende de reformas 
 
 A tese forte já aponta os argumentos — educação e legislação — que serão desenvolvidos nos parágrafos do desenvolvimento.
 
-## Checklist da Introdução
+## Checklist da Introdução?
 
 - [ ] Contextualizou o tema (não copiou a proposta)
 - [ ] Apresentou tese clara (afirmação, não pergunta)
@@ -20770,8 +20938,9 @@ Sim. A tese é um dos elementos fundamentais avaliados pela Competência III. El
 ### Posso mudar de tese ao longo da redação?
 Não. A tese deve ser consistente do início ao fim. Se sua conclusão contradiz sua introdução, você perde pontos em coerência (Competência IV). Defenda a mesma posição do início ao fim, aprofundando os argumentos.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
 ]
@@ -20780,7 +20949,7 @@ const EXTRA_POSTS_15: BlogPost[] = [
   {
     slug: 'cinematica-enem-o-que-cai',
     title: 'Cinemática no ENEM — O Que Cai, Fórmulas e Exercícios Resolvidos',
-    description: 'Guia completo de Cinemática para o ENEM: MRU, MRUV, queda livre, lançamento oblíquo, gráficos e as questões mais cobradas nas últimas edições.',
+    description: 'Guia completo de Cinemática para o ENEM: MRU, MRUV, queda livre, lançamento oblíquo, gráficos e as questões mais cobradas nas últimas edições. Acesse grátis.',
     date: '2026-06-18',
     readTime: 9,
     content: `
@@ -20788,7 +20957,7 @@ Cinemática é o tópico de Física com mais questões no ENEM. Aparece em todas
 
 > **TL;DR:** Guia completo de Cinemática para o ENEM: MRU, MRUV, queda livre, lançamento oblíquo, gráficos e as questões mais cobradas nas últimas edições. [Pratique no ENEM Pro →](/questoes)
 
-## O Que Cai de Cinemática no ENEM
+## O Que Cai de Cinemática no ENEM?
 
 | Tópico | Frequência |
 |--------|-----------|
@@ -20799,7 +20968,7 @@ Cinemática é o tópico de Física com mais questões no ENEM. Aparece em todas
 | Lançamento horizontal | Média |
 | Lançamento oblíquo | Baixa/Média |
 
-## MRU — Movimento Retilíneo Uniforme
+## MRU — Movimento Retilíneo Uniforme?
 
 Velocidade constante — aceleração zero.
 
@@ -20817,7 +20986,7 @@ Onde:
 Exemplo ENEM: "Carro parte de s₀ = 20 m com velocidade v = 15 m/s. Posição após 4 s?"
 s = 20 + 15 × 4 = **80 m**
 
-## MRUV — Movimento Retilíneo Uniformemente Variado
+## MRUV — Movimento Retilíneo Uniformemente Variado?
 
 Aceleração constante (diferente de zero).
 
@@ -20836,7 +21005,7 @@ v = 0 + 4 × 5 = **20 m/s**
 "Carro a 30 m/s freia com a = −5 m/s². Em que tempo para?"
 0 = 30 + (−5)t → t = **6 s**
 
-## Queda Livre
+## Queda Livre?
 
 Caso especial de MRUV com a = g ≈ 10 m/s² (para baixo).
 
@@ -20846,7 +21015,7 @@ v² = 2 × g × h
 
 **Dica ENEM:** Objeto lançado para cima — na subida, a = −g. No ponto mais alto, v = 0. Tempo de subida = tempo de descida (desprezando resistência do ar).
 
-## Lançamento Horizontal
+## Lançamento Horizontal?
 
 Objeto lançado horizontalmente de uma altura h:
 
@@ -20855,7 +21024,7 @@ Objeto lançado horizontalmente de uma altura h:
 
 O tempo de queda determina o alcance horizontal.
 
-## Leitura de Gráficos — Alta Frequência no ENEM
+## Leitura de Gráficos — Alta Frequência no ENEM?
 
 O ENEM adora cobrar interpretação de gráficos:
 
@@ -20894,8 +21063,9 @@ São frequentes e importantes. Foque em: no gráfico s×t, inclinação = veloci
 
 **[Praticar questões de Física →](/questoes?disciplina=ciencias-natureza)**
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -20909,7 +21079,7 @@ Termodinâmica é um tópico recorrente no ENEM, especialmente em questões cont
 
 > **TL;DR:** Guia de Termodinâmica para o ENEM: temperatura, calor, 1ª e 2ª lei, ciclo de Carnot, máquinas térmicas e os tópicos mais cobrados nas últimas edições. [Pratique no ENEM Pro →](/questoes)
 
-## O Que Cai de Termodinâmica no ENEM
+## O Que Cai de Termodinâmica no ENEM?
 
 | Tópico | Frequência |
 |--------|-----------|
@@ -20920,7 +21090,7 @@ Termodinâmica é um tópico recorrente no ENEM, especialmente em questões cont
 | Dilatação térmica | Média |
 | Capacidade calorífica | Média |
 
-## Temperatura e Calor — Diferença Fundamental
+## Temperatura e Calor — Diferença Fundamental?
 
 **Temperatura:** medida da agitação média das partículas. Escala Celsius (°C) ou Kelvin (K). Conversão: T(K) = T(°C) + 273.
 
@@ -20928,7 +21098,7 @@ Termodinâmica é um tópico recorrente no ENEM, especialmente em questões cont
 
 **Equilíbrio térmico:** quando dois corpos em contato atingem a mesma temperatura, param de trocar calor.
 
-## 1ª Lei da Termodinâmica
+## 1ª Lei da Termodinâmica?
 
 **ΔU = Q − W**
 
@@ -20941,7 +21111,7 @@ Onde:
 **Processo adiabático** (Q = 0): ΔU = −W
 **Processo isocórico** (volume constante): W = 0, logo ΔU = Q
 
-## 2ª Lei da Termodinâmica
+## 2ª Lei da Termodinâmica?
 
 O ENEM cobra principalmente o conceito, não cálculo:
 
@@ -20949,7 +21119,7 @@ O ENEM cobra principalmente o conceito, não cálculo:
 - "É impossível transferir calor espontaneamente do corpo frio para o quente sem trabalho externo" (geladeiras precisam de energia elétrica)
 - Entropia: processos naturais tendem ao aumento da desordem
 
-## Máquinas Térmicas e Rendimento
+## Máquinas Térmicas e Rendimento?
 
 **η = W / Q_absorvido = (Q_abs − Q_ced) / Q_abs**
 
@@ -20959,7 +21129,7 @@ W = 5.000 − 3.000 = 2.000 J
 
 O rendimento de Carnot é o máximo teórico: η_Carnot = 1 − T_fria/T_quente (em Kelvin)
 
-## Calorimetria
+## Calorimetria?
 
 Q = m × c × ΔT
 
@@ -20968,7 +21138,7 @@ Onde c = calor específico (da tabela da prova)
 **Calor latente** (mudança de fase, sem variação de temperatura):
 Q = m × L
 
-## Dilatação Térmica
+## Dilatação Térmica?
 
 **Linear:** ΔL = L₀ × α × ΔT
 **Volumétrica:** ΔV = V₀ × γ × ΔT (γ ≈ 3α para sólidos)
@@ -21002,14 +21172,15 @@ O cálculo do ciclo de Carnot raramente é cobrado diretamente. O ENEM prefere q
 
 **[Praticar questões de Física →](/questoes?disciplina=ciencias-natureza)**
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'ecologia-enem-o-que-cai',
     title: 'Ecologia no ENEM — O Que Cai, Conceitos e Como Estudar',
-    description: 'Guia de Ecologia para o ENEM: cadeias alimentares, biomas, ciclos biogeoquímicos, relações ecológicas e os tópicos mais cobrados em Biologia.',
+    description: 'Guia de Ecologia para o ENEM: cadeias alimentares, biomas, ciclos biogeoquímicos, relações ecológicas e os tópicos mais cobrados em Biologia. Acesse grátis.',
     date: '2026-06-18',
     readTime: 9,
     content: `
@@ -21017,7 +21188,7 @@ Ecologia é um dos tópicos mais cobrados de Biologia no ENEM — aparece em pra
 
 > **TL;DR:** Guia de Ecologia para o ENEM: cadeias alimentares, biomas, ciclos biogeoquímicos, relações ecológicas e os tópicos mais cobrados em Biologia. [Pratique no ENEM Pro →](/questoes)
 
-## O Que Cai de Ecologia no ENEM
+## O Que Cai de Ecologia no ENEM?
 
 | Tópico | Frequência |
 |--------|-----------|
@@ -21029,13 +21200,13 @@ Ecologia é um dos tópicos mais cobrados de Biologia no ENEM — aparece em pra
 | Sucessão ecológica | Média |
 | Impactos ambientais | Muito alta |
 
-## Níveis de Organização Ecológica
+## Níveis de Organização Ecológica?
 
 - **Indivíduo** → **População** → **Comunidade** → **Ecossistema** → **Biosfera**
 
 O ENEM cobra especialmente a distinção entre comunidade (biótico) e ecossistema (biótico + abiótico).
 
-## Cadeias e Teias Alimentares
+## Cadeias e Teias Alimentares?
 
 **Produtor** (autótrofos, fotossíntese) → **Consumidor primário** (herbívoro) → **Consumidor secundário** (carnívoro que come herbívoro) → **Consumidor terciário** → **Decompositores**
 
@@ -21043,7 +21214,7 @@ O ENEM cobra especialmente a distinção entre comunidade (biótico) e ecossiste
 
 O ENEM adora questionar: "Por que é mais eficiente consumir plantas do que carne?" → Menos níveis tróficos = mais energia aproveitada.
 
-## Relações Ecológicas
+## Relações Ecológicas?
 
 | Relação | Espécie A | Espécie B | Exemplo |
 |---------|-----------|-----------|---------|
@@ -21054,7 +21225,7 @@ O ENEM adora questionar: "Por que é mais eficiente consumir plantas do que carn
 | Competição | − | − | Leões e hienas |
 | Amensalismo | 0 | − | Fungo e bactéria (penicilina) |
 
-## Biomas Brasileiros — Alta Cobrança
+## Biomas Brasileiros — Alta Cobrança?
 
 | Bioma | Características-chave |
 |-------|----------------------|
@@ -21065,7 +21236,7 @@ O ENEM adora questionar: "Por que é mais eficiente consumir plantas do que carn
 | Pampa | Sul do Brasil; campos; pecuária |
 | Pantanal | Maior planície alagável; pantaneiro; onças, araras |
 
-## Ciclos Biogeoquímicos
+## Ciclos Biogeoquímicos?
 
 ### Ciclo do Carbono
 Fotossíntese → incorpora CO₂ na matéria orgânica
@@ -21077,7 +21248,7 @@ N₂ do ar → fixação (bactérias do solo) → nitratos absorvidos pelas plan
 
 A **fixação biológica de nitrogênio** (por Rhizobium em leguminosas) é tema frequente no ENEM.
 
-## Impactos Ambientais — Questões Contextuais
+## Impactos Ambientais — Questões Contextuais?
 
 O ENEM frequentemente apresenta impactos em contexto de políticas públicas:
 - Desmatamento e perda de biodiversidade
@@ -21112,8 +21283,9 @@ Porque o ENEM prioriza ciência contextualizada com a realidade brasileira. Ques
 
 **[Praticar questões de Ciências da Natureza →](/questoes?disciplina=ciencias-natureza)**
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -21127,11 +21299,11 @@ A tabela periódica é disponibilizada na prova do ENEM — você não precisa d
 
 > **TL;DR:** Como usar a tabela periódica no ENEM: número atômico, configuração eletrônica, propriedades periódicas e o que o INEP realmente cobra nas questões de Química. [Pratique no ENEM Pro →](/questoes)
 
-## A Tabela Periódica é Fornecida na Prova
+## A Tabela Periódica é Fornecida na Prova?
 
 O caderno do ENEM inclui uma tabela periódica simplificada. Você pode e deve consultá-la durante a prova. Não perca tempo tentando memorizar números atômicos — foque em entender as tendências.
 
-## O Que Cai de Tabela Periódica no ENEM
+## O Que Cai de Tabela Periódica no ENEM?
 
 | Tópico | Frequência |
 |--------|-----------|
@@ -21141,7 +21313,7 @@ O caderno do ENEM inclui uma tabela periódica simplificada. Você pode e deve c
 | Grupos (família) e períodos | Média |
 | Isótopos, isóbaros, isótonos | Média |
 
-## Como Ler a Tabela Periódica
+## Como Ler a Tabela Periódica?
 
 Para cada elemento, a tabela fornece:
 - **Número atômico (Z):** quantidade de prótons = elétrons no átomo neutro
@@ -21149,7 +21321,7 @@ Para cada elemento, a tabela fornece:
 - **Massa atômica (A):** prótons + nêutrons (aproximada)
 - Nêutrons = A − Z
 
-## Distribuição Eletrônica
+## Distribuição Eletrônica?
 
 Elétrons se distribuem por camadas (K, L, M, N...) e subníveis (s, p, d, f).
 
@@ -21162,7 +21334,7 @@ Configuração do Sódio (Z=11): 2, 8, 1
 → 2 elétrons na camada K, 8 na L, 1 na M
 → Período 3 (3 camadas), Família IA (1 elétron na última camada)
 
-## Propriedades Periódicas — O Que o ENEM Mais Cobra
+## Propriedades Periódicas — O Que o ENEM Mais Cobra?
 
 ### Raio Atômico
 - **Cresce da direita para esquerda** no mesmo período
@@ -21179,7 +21351,7 @@ Flúor é o mais eletronegativo de todos.
 - **Cresce de baixo para cima** no mesmo grupo
 Lógica: elétron mais próximo do núcleo e com mais prótons = mais difícil de remover
 
-## Metais, Não Metais e Semimetais
+## Metais, Não Metais e Semimetais?
 
 | Tipo | Localização | Características |
 |------|-------------|----------------|
@@ -21188,7 +21360,7 @@ Lógica: elétron mais próximo do núcleo e com mais prótons = mais difícil d
 | Semimetais (metaloides) | Diagonal | Condutividade intermediária (Si, Ge) |
 | Gases nobres | Última coluna (18) | Inerte, configuração completa |
 
-## Isótopos, Isóbaros, Isótonos
+## Isótopos, Isóbaros, Isótonos?
 
 - **Isótopos:** mesmo Z, diferente A (mesmo elemento, nêutrons diferentes). Ex: ¹²C e ¹⁴C
 - **Isóbaros:** mesmo A, diferente Z. Ex: ⁴⁰K e ⁴⁰Ca
@@ -21221,14 +21393,15 @@ Grupo IA (metais alcalinos — Na, K), Grupo VIIA (halogênios — F, Cl) e Grup
 
 **[Praticar questões de Química →](/questoes?disciplina=ciencias-natureza)**
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'reacoes-quimicas-enem',
     title: 'Reações Químicas no ENEM — O Que Cai, Tipos e Como Balancear',
-    description: 'Guia de Reações Químicas para o ENEM: tipos de reação (síntese, análise, simples e dupla troca), balanceamento, lei de Lavoisier e Proust.',
+    description: 'Guia de Reações Químicas para o ENEM: tipos de reação (síntese, análise, simples e dupla troca), balanceamento, lei de Lavoisier e Proust. Acesse grátis.',
     date: '2026-06-18',
     readTime: 8,
     content: `
@@ -21236,7 +21409,7 @@ Reações Químicas é um dos pilares de Química no ENEM. Aparece de forma dire
 
 > **TL;DR:** Guia de Reações Químicas para o ENEM: tipos de reação (síntese, análise, simples e dupla troca), balanceamento, lei de Lavoisier e Proust. [Pratique no ENEM Pro →](/questoes)
 
-## O Que Cai de Reações Químicas no ENEM
+## O Que Cai de Reações Químicas no ENEM?
 
 | Tópico | Frequência |
 |--------|-----------|
@@ -21247,7 +21420,7 @@ Reações Químicas é um dos pilares de Química no ENEM. Aparece de forma dire
 | Velocidade de reação | Média |
 | Equilíbrio químico | Média |
 
-## Leis Fundamentais
+## Leis Fundamentais?
 
 ### Lei de Lavoisier (conservação da massa)
 "A massa dos reagentes é igual à massa dos produtos."
@@ -21259,7 +21432,7 @@ O ENEM cobra isso principalmente em balanceamento e em contexto de combustão.
 "Os elementos se combinam em proporções fixas por massa."
 Uma substância pura sempre tem a mesma composição, independente da amostra.
 
-## Tipos de Reação Química
+## Tipos de Reação Química?
 
 ### Síntese (adição)
 A + B → AB
@@ -21283,7 +21456,7 @@ Exemplos: precipitação, formação de gás, neutralização
 HCl + NaOH → NaCl + H₂O
 Ácido + Base → Sal + Água
 
-## Balanceamento de Equações
+## Balanceamento de Equações?
 
 **Princípio:** átomos de cada elemento devem ser iguais nos dois lados.
 
@@ -21295,7 +21468,7 @@ Exemplo: __ CH₄ + __ O₂ → __ CO₂ + __ H₂O
 
 **Equação balanceada:** CH₄ + 2O₂ → CO₂ + 2H₂O
 
-## Estequiometria — Alta Frequência
+## Estequiometria — Alta Frequência?
 
 Relação quantitativa entre reagentes e produtos usando proporções molares.
 
@@ -21305,7 +21478,7 @@ Exemplo ENEM: "Qual a massa de CO₂ produzida pela combustão de 16 g de CH₄?
 CH₄ + 2O₂ → CO₂ + 2H₂O
 16 g de CH₄ = 1 mol → produz 1 mol de CO₂ = **44 g**
 
-## Velocidade de Reação
+## Velocidade de Reação?
 
 Fatores que aumentam a velocidade:
 - Temperatura maior
@@ -21341,8 +21514,9 @@ Catalisador é substância que aumenta a velocidade da reação sem ser consumid
 
 **[Praticar questões de Química →](/questoes?disciplina=ciencias-natureza)**
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -21356,7 +21530,7 @@ A redação no ENEM tem um peso que muitos candidatos subestimam. Entender como 
 
 > **TL;DR:** Qual o peso da redação no ENEM? Como a nota da redação afeta a média, o que é a nota de 1000, e quanto a redação impacta a aprovação no SISU e ProUni. [Pratique no ENEM Pro →](/questoes)
 
-## Estrutura das Notas do ENEM
+## Estrutura das Notas do ENEM?
 
 O ENEM tem 5 notas independentes:
 
@@ -21370,7 +21544,7 @@ O ENEM tem 5 notas independentes:
 
 **A redação é uma área independente.** Ela não entra na média de Linguagens — é a 5ª nota separada.
 
-## Quanto Vale a Redação no SISU
+## Quanto Vale a Redação no SISU?
 
 No SISU, as universidades federais calculam a média das 5 notas (com ou sem pesos diferentes por curso). Fórmula básica:
 
@@ -21385,11 +21559,11 @@ Com redação 600:
 
 **Diferença de 400 pontos na redação = 80 pontos na média final.**
 
-## Quanto Vale a Redação no ProUni
+## Quanto Vale a Redação no ProUni?
 
 O ProUni usa a média das 4 provas objetivas + redação com pesos iguais. Nota zero na redação **zera automaticamente a inscrição no ProUni e no FIES**, independente das outras notas.
 
-## Como a Nota da Redação é Calculada
+## Como a Nota da Redação é Calculada?
 
 A redação é avaliada em 5 competências, cada uma de 0 a 200 pontos:
 
@@ -21403,7 +21577,7 @@ A redação é avaliada em 5 competências, cada uma de 0 a 200 pontos:
 
 Soma máxima: 5 × 200 = **1000 pontos**.
 
-## O Que é Nota 1000 na Redação
+## O Que é Nota 1000 na Redação?
 
 Nota 1000 = 200 em cada uma das 5 competências. É a nota máxima. Cada edição do ENEM tem redações nota 1000 — são relativamente raras mas alcançáveis com preparação.
 
@@ -21414,7 +21588,7 @@ Para tirar 1000, você precisa de:
 - Coesão perfeita (conectivos bem usados)
 - Proposta de intervenção completa com todos os 5 elementos
 
-## Estratégia: Quanto Tempo Dedicar à Redação
+## Estratégia: Quanto Tempo Dedicar à Redação?
 
 Para uma nota competitiva no SISU (medicina, direito nas federais), meta mínima de 600-700 na redação. Para ProUni/FIES, evitar zero é obrigatório.
 
@@ -21442,14 +21616,15 @@ Tecnicamente sim, se as outras notas compensarem. Mas para cursos concorridos (m
 **[Como tirar 1000 na redação →](/blog/redacao-enem-como-tirar-1000)**
 **[Temas de redação para praticar →](/temas-redacao)**
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'enem-2026-o-que-mudou',
     title: 'ENEM 2026 — O Que Muda, Novidades e Como se Preparar',
-    description: 'O que muda no ENEM 2026 em relação às edições anteriores: novas regras, datas, conteúdo, redação e tudo que você precisa saber para se preparar.',
+    description: 'O que muda no ENEM 2026 em relação às edições anteriores: novas regras, datas, conteúdo, redação e tudo que você precisa saber para se preparar. Acesse grátis.',
     date: '2026-06-18',
     readTime: 6,
     content: `
@@ -21457,7 +21632,7 @@ O ENEM 2026 segue o mesmo modelo consolidado das edições recentes — mas exis
 
 > **TL;DR:** O que muda no ENEM 2026 em relação às edições anteriores: novas regras, datas, conteúdo, redação e tudo que você precisa saber para se preparar. [Pratique no ENEM Pro →](/questoes)
 
-## O Que Não Muda no ENEM 2026
+## O Que Não Muda no ENEM 2026?
 
 Antes de ver as novidades, é importante saber o que permanece igual:
 
@@ -21468,7 +21643,7 @@ Antes de ver as novidades, é importante saber o que permanece igual:
 - **Mesma Matriz de Referência** — o conteúdo cobrado não muda de um ano para o outro
 - **Validade da nota:** sem prazo de expiração
 
-## Datas Previstas para o ENEM 2026
+## Datas Previstas para o ENEM 2026?
 
 As datas oficiais do ENEM 2026 serão publicadas no Edital do INEP. Com base no histórico:
 
@@ -21484,11 +21659,11 @@ As datas oficiais do ENEM 2026 serão publicadas no Edital do INEP. Com base no 
 
 **Fonte oficial e atualizada: [enem.inep.gov.br](https://enem.inep.gov.br)**
 
-## ENEM Digital 2026
+## ENEM Digital 2026?
 
 O ENEM Digital (versão em computador) deve continuar disponível com vagas limitadas. A inscrição é feita no mesmo período do ENEM regular, selecionando a modalidade durante a inscrição.
 
-## Redação ENEM 2026 — Temas Prováveis
+## Redação ENEM 2026 — Temas Prováveis?
 
 O INEP não divulga o tema com antecedência. Os temas seguem padrão de questões sociais relevantes para o Brasil. Para 2026, temas com alta probabilidade incluem assuntos como:
 - Saúde mental na era digital
@@ -21498,7 +21673,7 @@ O INEP não divulga o tema com antecedência. Os temas seguem padrão de questõ
 
 **[Ver temas prováveis para o ENEM 2026 →](/blog/redacao-enem-temas-provaveis-2026)**
 
-## Como se Preparar para o ENEM 2026
+## Como se Preparar para o ENEM 2026?
 
 1. **Use a Matriz de Referência** como guia: ela lista exatamente os tópicos cobrados por disciplina
 2. **Resolva provas anteriores**: o estilo de questão se repete muito entre edições
@@ -21527,14 +21702,15 @@ A Matriz de Referência do ENEM não sofreu mudanças significativas nas última
 ### Nota do ENEM 2025 vale para o SISU 2027?
 Sim. Não há prazo de validade para a nota do ENEM. Você pode usar notas de qualquer edição nos programas de acesso ao ensino superior.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'como-calcular-media-enem',
     title: 'Como Calcular a Média do ENEM — Fórmula e Calculadora',
-    description: 'Como calcular a média das notas do ENEM para o SISU: fórmula com e sem pesos, exemplos práticos e a calculadora do ENEM Pro para simular sua nota.',
+    description: 'Como calcular a média das notas do ENEM para o SISU: fórmula com e sem pesos, exemplos práticos e a calculadora do ENEM Pro para simular sua nota. Grátis.',
     date: '2026-06-18',
     readTime: 5,
     content: `
@@ -21542,7 +21718,7 @@ A média do ENEM para o SISU não é simplesmente a soma das 5 notas dividida po
 
 > **TL;DR:** Como calcular a média das notas do ENEM para o SISU: fórmula com e sem pesos, exemplos práticos e a calculadora do ENEM Pro para simular sua nota. [Pratique no ENEM Pro →](/questoes)
 
-## A Fórmula Básica (Sem Pesos)
+## A Fórmula Básica (Sem Pesos)?
 
 Quando o curso não atribui pesos diferenciados:
 
@@ -21557,7 +21733,7 @@ Exemplo:
 
 **Média = (650 + 680 + 640 + 720 + 600) / 5 = 658**
 
-## Com Pesos Diferentes por Curso
+## Com Pesos Diferentes por Curso?
 
 Muitos cursos no SISU atribuem peso maior para as disciplinas da área. A fórmula com pesos:
 
@@ -21576,11 +21752,11 @@ Média = (1×650 + 1×680 + 2×640 + 1×720 + 1×600) / (1+1+2+1+1)
 
 Os pesos de cada curso estão disponíveis no sistema SISU durante as inscrições.
 
-## O Que Conta Como Nota Final
+## O Que Conta Como Nota Final?
 
 Cada candidato tem uma nota por área. Se fez o ENEM em mais de um ano, pode usar a melhor nota de cada área em edições diferentes, desde que o edital do programa em questão permita.
 
-## Calculadora de Nota do ENEM Pro
+## Calculadora de Nota do ENEM Pro?
 
 Use a calculadora do ENEM Pro para:
 - Simular sua nota estimada por área a partir do número de acertos
@@ -21592,7 +21768,7 @@ Use a calculadora do ENEM Pro para:
 
 Analisando o desempenho dos estudantes que usam o ENEM Pro, identificamos que a prática consistente com questões reais do ENEM é o fator que mais diferencia candidatos com notas acima de 700 dos demais — independente do tempo total de estudo. Qualidade e regularidade superam volume.
 
-## ENEM em Números (INEP)
+## ENEM em Números (INEP)?
 
 | Dado | Valor |
 |------|-------|
@@ -21623,8 +21799,9 @@ Cada curso define seus pesos no edital do SISU. Cursos da área de saúde geralm
 
 **[Ver notas de corte por curso →](/blog/nota-de-corte-medicina-enem)**
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
 ]
@@ -21633,7 +21810,7 @@ const EXTRA_POSTS_16: BlogPost[] = [
   {
     slug: 'questoes-de-matematica-enem',
     title: 'Questões de Matemática do ENEM — Banco com Gabarito e Resolução',
-    description: 'Pratique com questões reais de Matemática do ENEM. Funções, geometria, probabilidade, estatística e muito mais, com gabarito comentado.',
+    description: 'Pratique com questões reais de Matemática do ENEM. Funções, geometria, probabilidade, estatística e muito mais, com gabarito comentado. Acesse grátis.',
     date: '2026-06-19',
     readTime: 6,
     content: `
@@ -21641,7 +21818,7 @@ Matemática é a disciplina que mais assusta os candidatos do ENEM — e também
 
 > **TL;DR:** Pratique com questões reais de Matemática do ENEM. Funções, geometria, probabilidade, estatística e muito mais, com gabarito comentado. [Pratique no ENEM Pro →](/questoes)
 
-## O Que Cai em Matemática no ENEM
+## O Que Cai em Matemática no ENEM?
 
 | Tópico | Frequência | Peso |
 |--------|-----------|------|
@@ -21654,7 +21831,7 @@ Matemática é a disciplina que mais assusta os candidatos do ENEM — e também
 | Logaritmos | Média | Médio |
 | Matrizes e determinantes | Baixa | Baixo |
 
-## Por Que Matemática no ENEM é Diferente
+## Por Que Matemática no ENEM é Diferente?
 
 O ENEM não cobra decoreba. As questões apresentam **situações-problema contextualizadas**: você precisa identificar o modelo matemático adequado, não apenas aplicar uma fórmula de cabeça.
 
@@ -21662,7 +21839,7 @@ Exemplo típico: uma questão de juros compostos pode vir embutida em um texto s
 
 **A leitura e interpretação do enunciado vale tanto quanto o cálculo.**
 
-## Estratégia para Resolver Questões de Matemática
+## Estratégia para Resolver Questões de Matemática?
 
 1. **Leia o enunciado duas vezes** — erros acontecem por pressa na leitura
 2. **Identifique o que está sendo pedido** — a pergunta real pode estar escondida
@@ -21670,7 +21847,7 @@ Exemplo típico: uma questão de juros compostos pode vir embutida em um texto s
 4. **Descarte alternativas absurdas** — se a resposta precisa ser positiva, elimine negativas
 5. **Confira a ordem de grandeza** — uma resposta de centenas de quilômetros para distância urbana é suspeita
 
-## Como Praticar Questões de Matemática
+## Como Praticar Questões de Matemática?
 
 O caminho mais eficiente é praticar em blocos de dificuldade crescente:
 
@@ -21680,7 +21857,7 @@ O caminho mais eficiente é praticar em blocos de dificuldade crescente:
 - **Semanas 7-8:** Matemática financeira, logaritmos, geometria espacial
 - **Semanas 9-10:** Trigonometria, revisão com simulados cronometrados
 
-## Gabarito e Resolução
+## Gabarito e Resolução?
 
 Resolver uma questão é metade do caminho. Ler a resolução — mesmo quando acerta — revela abordagens mais rápidas e consolida o raciocínio.
 
@@ -21707,14 +21884,15 @@ Depende do curso e da universidade. Para cursos de Engenharia nas federais mais 
 
 **[Calcular minha nota estimada →](/calcular-nota)**
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'questoes-de-fisica-enem',
     title: 'Questões de Física do ENEM — Banco com Gabarito e Resolução',
-    description: 'Pratique com questões reais de Física do ENEM. Mecânica, termodinâmica, eletricidade, ótica e ondas, com gabarito comentado.',
+    description: 'Pratique com questões reais de Física do ENEM. Mecânica, termodinâmica, eletricidade, ótica e ondas, com gabarito comentado. Saiba mais e prepare-se.',
     date: '2026-06-19',
     readTime: 6,
     content: `
@@ -21722,7 +21900,7 @@ Física é parte das 45 questões de Ciências da Natureza no ENEM — dividida 
 
 > **TL;DR:** Pratique com questões reais de Física do ENEM. Mecânica, termodinâmica, eletricidade, ótica e ondas, com gabarito comentado. [Pratique no ENEM Pro →](/questoes)
 
-## O Que Cai em Física no ENEM
+## O Que Cai em Física no ENEM?
 
 | Tópico | Frequência |
 |--------|-----------|
@@ -21734,7 +21912,7 @@ Física é parte das 45 questões de Ciências da Natureza no ENEM — dividida 
 | Física moderna (radioatividade, fotoelétrico) | Média |
 | Magnetismo | Baixa/Média |
 
-## Física no ENEM: O Que Muda em Relação ao Colégio
+## Física no ENEM: O Que Muda em Relação ao Colégio?
 
 O ENEM raramente pede a aplicação direta de fórmula. As questões de Física:
 
@@ -21745,7 +21923,7 @@ O ENEM raramente pede a aplicação direta de fórmula. As questões de Física:
 
 Exemplo: uma questão pode apresentar um gráfico de velocidade × tempo e pedir a força resultante — o candidato precisa calcular aceleração pelo gráfico e depois aplicar a Segunda Lei de Newton.
 
-## Mecânica: O Coração de Física no ENEM
+## Mecânica: O Coração de Física no ENEM?
 
 Mecânica responde por ~40-50% das questões de Física. Priorize:
 
@@ -21764,7 +21942,7 @@ Mecânica responde por ~40-50% das questões de Física. Priorize:
 - Trabalho: W = F × d × cos θ
 - Conservação de energia mecânica
 
-## Estratégia de Estudo por Semanas
+## Estratégia de Estudo por Semanas?
 
 - **Semanas 1-2:** Cinemática + gráficos de movimento
 - **Semanas 3-4:** Dinâmica + leis de Newton
@@ -21772,7 +21950,7 @@ Mecânica responde por ~40-50% das questões de Física. Priorize:
 - **Semanas 7-8:** Eletricidade + lei de Ohm
 - **Semanas 9-10:** Termodinâmica + ondas + revisão
 
-## Como Praticar
+## Como Praticar?
 
 Resolva questões por tema antes de fazer simulados completos. Ao errar, identifique se o erro foi:
 - **Conceitual** (não entendeu o fenômeno) → revisar teoria
@@ -21802,14 +21980,15 @@ Vídeo-aulas + questões comentadas funcionam muito bem para Física. Assista a 
 
 **[Estudar Física para o ENEM →](/blog/como-estudar-fisica-enem)**
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-enem-2015',
     title: 'Gabarito ENEM 2015 — Todas as Disciplinas e Análise da Prova',
-    description: 'Gabarito completo do ENEM 2015 com análise das disciplinas, temas de redação e questões mais cobradas. Edição com ~8 milhões de inscritos.',
+    description: 'Gabarito completo do ENEM 2015 com análise das disciplinas, temas de redação e questões mais cobradas. Edição com ~8 milhões de inscritos. Acesse grátis.',
     date: '2026-06-19',
     readTime: 7,
     content: `
@@ -21817,14 +21996,14 @@ O ENEM 2015 foi aplicado em outubro de 2015, com cerca de 8 milhões de inscrito
 
 > **TL;DR:** Gabarito completo do ENEM 2015 com análise das disciplinas, temas de redação e questões mais cobradas. Edição com ~8 milhões de inscritos. [Pratique no ENEM Pro →](/questoes)
 
-## Gabarito Oficial ENEM 2015
+## Gabarito Oficial ENEM 2015?
 
 O gabarito oficial do ENEM 2015 foi divulgado pelo INEP no dia seguinte à aplicação. Cada caderno de cor tinha uma ordenação diferente de questões, mas o conteúdo era idêntico.
 
 Para acessar o gabarito oficial completo com a ordenação por caderno:
 **[Gabarito oficial INEP (enem.inep.gov.br)](https://enem.inep.gov.br)**
 
-## Análise por Área — ENEM 2015
+## Análise por Área — ENEM 2015?
 
 ### Matemática e suas Tecnologias
 
@@ -21870,7 +22049,7 @@ Forte presença de questões com interpretação de fontes históricas primária
 - Inglês: textos de divulgação científica
 - Publicidade e propaganda: análise crítica
 
-## Redação ENEM 2015
+## Redação ENEM 2015?
 
 **Tema:** A persistência da violência contra a mulher na sociedade brasileira
 
@@ -21878,13 +22057,13 @@ O tema gerou debates por abordar violência de gênero, exigindo dos candidatos 
 
 **Média nacional de redação 2015:** aproximadamente 510 pontos (escala de 0 a 1000).
 
-## Notas de Corte — ENEM 2015
+## Notas de Corte — ENEM 2015?
 
 As notas de corte para medicina nas federais com base no ENEM 2015 (via SISU) ficaram entre **750 e 850 pontos** por área (média ponderada dependendo da faculdade).
 
 **[Ver notas de corte atuais →](/blog/nota-de-corte-medicina-enem)**
 
-## Onde Encontrar as Questões do ENEM 2015
+## Onde Encontrar as Questões do ENEM 2015?
 
 As provas anteriores do ENEM estão disponíveis no site do INEP para download gratuito. No ENEM Pro, você pode praticar questões reais de anos anteriores com gabarito e explicação gerada por IA.
 
@@ -21893,7 +22072,7 @@ As provas anteriores do ENEM estão disponíveis no site do INEP para download g
 
 No ENEM Pro, reunimos as questões de todas as provas anteriores com explicações geradas por IA. Ao analisar os padrões de acerto e erro dos estudantes em nossa plataforma, identificamos que questões de gabaritos anteriores são as mais acessadas para revisão — reforçando que praticar com provas reais é a estratégia mais eficiente.
 
-## Dados do ENEM 2015 — INEP
+## Dados do ENEM 2015 — INEP?
 
 | Dado | Valor |
 |------|-------|
@@ -21922,14 +22101,15 @@ Sim, especialmente em Matemática. A prova de 2015 apresentou questões que exig
 ### Qual foi o tema da redação do ENEM 2015?
 O tema foi "A persistência da violência contra a mulher na sociedade brasileira". Era esperado que o candidato abordasse causas culturais/históricas e propusesse intervenções concretas com agente, ação, modo, finalidade e detalhamento.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-matematica-enem-2020',
     title: 'Gabarito de Matemática ENEM 2020 — Resolução e Análise',
-    description: 'Gabarito completo de Matemática do ENEM 2020 com análise das questões, temas cobrados e resolução comentada.',
+    description: 'Gabarito completo de Matemática do ENEM 2020 com análise das questões, temas cobrados e resolução comentada. Saiba mais e prepare-se.',
     date: '2026-06-19',
     readTime: 6,
     content: `
@@ -21937,7 +22117,7 @@ O ENEM 2020 foi uma edição histórica — aplicado em janeiro de 2021 após ad
 
 > **TL;DR:** Gabarito completo de Matemática do ENEM 2020 com análise das questões, temas cobrados e resolução comentada. [Pratique no ENEM Pro →](/questoes)
 
-## Sobre o ENEM 2020
+## Sobre o ENEM 2020?
 
 | Dado | Informação |
 |------|------------|
@@ -21946,13 +22126,13 @@ O ENEM 2020 foi uma edição histórica — aplicado em janeiro de 2021 após ad
 | Inscritos | ~5,7 milhões (redução histórica pela pandemia) |
 | Cadernos disponíveis | Amarelo, Azul, Rosa, Cinza |
 
-## Gabarito Oficial de Matemática 2020
+## Gabarito Oficial de Matemática 2020?
 
 O gabarito oficial do ENEM 2020 (Matemática e suas Tecnologias) está disponível no portal do INEP. O caderno amarelo, por ser o mais comum, é a referência mais utilizada.
 
 Para o gabarito por cor de caderno: **[enem.inep.gov.br](https://enem.inep.gov.br)**
 
-## Análise das Questões — Matemática ENEM 2020
+## Análise das Questões — Matemática ENEM 2020?
 
 ### Temas Mais Cobrados
 
@@ -21986,7 +22166,7 @@ Questões com urnas, cartas, dados ou situações do cotidiano pedindo probabili
 **Tipo frequente — Geometria:**
 Cálculo de área de figura composta, volume de prisma ou pirâmide com dados fornecidos em diagrama.
 
-## Dicas para Usar o Gabarito 2020 no Estudo
+## Dicas para Usar o Gabarito 2020 no Estudo?
 
 1. **Resolva antes de ver o gabarito** — nunca copie direto
 2. **Analise os erros tema por tema** — identifique onde concentrar esforço
@@ -22016,14 +22196,15 @@ Sim. O ENEM mantém coerência de temas e formato ao longo dos anos. Praticar co
 
 **[Ver gabarito completo ENEM 2024 →](/blog/gabarito-enem-2024)**
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-ciencias-natureza-enem-2020',
     title: 'Gabarito de Ciências da Natureza ENEM 2020 — Física, Química e Biologia',
-    description: 'Gabarito de Ciências da Natureza do ENEM 2020 com análise de Física, Química e Biologia. Edição adiada pela pandemia de COVID-19.',
+    description: 'Gabarito de Ciências da Natureza do ENEM 2020 com análise de Física, Química e Biologia. Edição adiada pela pandemia de COVID-19. Saiba mais e prepare-se.',
     date: '2026-06-19',
     readTime: 6,
     content: `
@@ -22031,19 +22212,19 @@ A prova de Ciências da Natureza do ENEM 2020 foi marcada pelo contexto pandêmi
 
 > **TL;DR:** Gabarito de Ciências da Natureza do ENEM 2020 com análise de Física, Química e Biologia. Edição adiada pela pandemia de COVID-19. [Pratique no ENEM Pro →](/questoes)
 
-## Sobre a Prova de Ciências da Natureza 2020
+## Sobre a Prova de Ciências da Natureza 2020?
 
 - **Total de questões:** 45 (Física, Química e Biologia)
 - **Aplicação:** Janeiro de 2021 (prova do 1º dia junto com Ciências Humanas)
 - **Destaque:** Forte presença de COVID-19 como contexto temático
 
-## Gabarito Oficial
+## Gabarito Oficial?
 
 O gabarito oficial de Ciências da Natureza do ENEM 2020 está disponível no portal do INEP. Acesse o caderno de sua cor para encontrar a ordem correta das questões.
 
 **[Portal INEP — Gabaritos Anteriores](https://enem.inep.gov.br)**
 
-## Análise por Disciplina
+## Análise por Disciplina?
 
 ### Física (≈15 questões)
 
@@ -22079,7 +22260,7 @@ Biologia foi o destaque temático da prova de 2020:
 
 **O tema COVID-19 dominou Biologia:** estrutura do coronavírus, mecanismo de infecção das células pulmonares, resposta imunológica e desenvolvimento de vacinas.
 
-## Como Estudar com o Gabarito 2020
+## Como Estudar com o Gabarito 2020?
 
 A prova de 2020 é excelente para treinar porque:
 1. **Apresenta contextos interdisciplinares** — uma questão pode misturar Física e Química
@@ -22090,7 +22271,7 @@ A prova de 2020 é excelente para treinar porque:
 
 
 
-## Dados do ENEM 2020 — INEP
+## Dados do ENEM 2020 — INEP?
 
 | Dado | Valor |
 |------|-------|
@@ -22127,14 +22308,15 @@ A percepção dos candidatos foi de dificuldade similar à média. As questões 
 ### Vale praticar com o gabarito de 2020 para o ENEM 2026?
 Sim. O ENEM mantém consistência de temas ao longo dos anos. Praticar com questões de 2020 ajuda a treinar a interpretação de gráficos e tabelas, que é fundamental para Ciências da Natureza.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-ciencias-humanas-enem-2020',
     title: 'Gabarito de Ciências Humanas ENEM 2020 — História, Geografia, Filosofia e Sociologia',
-    description: 'Gabarito de Ciências Humanas do ENEM 2020 com análise de História, Geografia, Filosofia e Sociologia. Edição com forte contexto de crise sanitária.',
+    description: 'Gabarito de Ciências Humanas do ENEM 2020 com análise de História, Geografia, Filosofia e Sociologia. Edição com forte contexto de crise sanitária. Grátis.',
     date: '2026-06-19',
     readTime: 6,
     content: `
@@ -22142,11 +22324,11 @@ Ciências Humanas do ENEM 2020 reuniu História, Geografia, Filosofia e Sociolog
 
 > **TL;DR:** Gabarito de Ciências Humanas do ENEM 2020 com análise de História, Geografia, Filosofia e Sociologia. Edição com forte contexto de crise sanitária. [Pratique no ENEM Pro →](/questoes)
 
-## Gabarito Oficial — Ciências Humanas 2020
+## Gabarito Oficial — Ciências Humanas 2020?
 
 Disponível no portal do INEP (enem.inep.gov.br), separado por cor de caderno. A prova foi aplicada no 1º dia (junto com Ciências da Natureza), em janeiro de 2021.
 
-## Análise por Disciplina
+## Análise por Disciplina?
 
 ### História (≈12 questões)
 
@@ -22186,7 +22368,7 @@ Temas mais presentes no ENEM 2020:
 - **Mídia e sociedade** — fake news, bolhas digitais, redes sociais
 - **Durkheim, Weber e Marx** — clássicos da sociologia
 
-## Estratégia de Estudo com o Gabarito 2020
+## Estratégia de Estudo com o Gabarito 2020?
 
 Ciências Humanas exige:
 1. **Leitura de fontes primárias** — textos, mapas, gravuras, quadrinhos
@@ -22198,7 +22380,7 @@ Ciências Humanas exige:
 
 
 
-## Dados do ENEM 2020 — INEP
+## Dados do ENEM 2020 — INEP?
 
 | Dado | Valor |
 |------|-------|
@@ -22235,14 +22417,15 @@ Relativamente. A maioria das questões de Filosofia e Sociologia no ENEM não ex
 ### Como foi Ciências Humanas no ENEM 2020 em relação ao contexto da pandemia?
 Ciências Humanas 2020 abordou temas como desigualdade econômica agravada pela pandemia, questões de acesso à saúde e bioética. Geograficamente, foram cobrados temas de geopolítica e impacto das crises globais nas populações vulneráveis.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-linguagens-enem-2020',
     title: 'Gabarito de Linguagens ENEM 2020 — Português, Literatura, Inglês e Artes',
-    description: 'Gabarito de Linguagens e Códigos do ENEM 2020 com análise de Língua Portuguesa, Literatura, Inglês e temas de comunicação e artes.',
+    description: 'Gabarito de Linguagens e Códigos do ENEM 2020 com análise de Língua Portuguesa, Literatura, Inglês e temas de comunicação e artes. Saiba mais e prepare-se.',
     date: '2026-06-19',
     readTime: 6,
     content: `
@@ -22250,11 +22433,11 @@ Linguagens, Códigos e suas Tecnologias é a prova do 2º dia do ENEM — aplica
 
 > **TL;DR:** Gabarito de Linguagens e Códigos do ENEM 2020 com análise de Língua Portuguesa, Literatura, Inglês e temas de comunicação e artes. [Pratique no ENEM Pro →](/questoes)
 
-## Gabarito Oficial — Linguagens 2020
+## Gabarito Oficial — Linguagens 2020?
 
 Disponível no portal INEP (enem.inep.gov.br). O gabarito é separado por cor de caderno e por opção de língua estrangeira (inglês ou espanhol).
 
-## Análise por Componente
+## Análise por Componente?
 
 ### Língua Portuguesa (≈18-20 questões)
 
@@ -22289,7 +22472,7 @@ A maior fatia de Linguagens é sempre Língua Portuguesa. No ENEM 2020:
 - Linguagem cinematográfica e fotográfica
 - Conceitos de Educação Física: esporte, saúde, lazer e movimento social
 
-## Como a Prova de Linguagens É Avaliada
+## Como a Prova de Linguagens É Avaliada?
 
 Linguagens testa principalmente a **competência leitora** — a capacidade de extrair sentido de textos de diferentes gêneros, identificar intenção comunicativa e reconhecer recursos linguísticos e estilísticos.
 
@@ -22303,7 +22486,7 @@ Linguagens testa principalmente a **competência leitora** — a capacidade de e
 
 No ENEM Pro, reunimos as questões de todas as provas anteriores com explicações geradas por IA. Ao analisar os padrões de acerto e erro dos estudantes em nossa plataforma, identificamos que questões de gabaritos anteriores são as mais acessadas para revisão — reforçando que praticar com provas reais é a estratégia mais eficiente.
 
-## Dados do ENEM 2020 — INEP
+## Dados do ENEM 2020 — INEP?
 
 | Dado | Valor |
 |------|-------|
@@ -22334,14 +22517,15 @@ Sim, Literatura tem presença constante. Mas o ENEM raramente pede "em que ano f
 
 **[Ver gabarito completo ENEM 2024 →](/blog/gabarito-enem-2024)**
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'ansiedade-enem-como-controlar',
     title: 'Ansiedade no ENEM — Como Controlar e Render Melhor na Prova',
-    description: 'Técnicas práticas para controlar a ansiedade antes e durante o ENEM. O que fazer na semana da prova, no dia anterior e no próprio dia de aplicação.',
+    description: 'Técnicas práticas para controlar a ansiedade antes e durante o ENEM. O que fazer na semana da prova, no dia anterior e no próprio dia de aplicação. Grátis.',
     date: '2026-06-19',
     readTime: 7,
     content: `
@@ -22349,7 +22533,7 @@ A ansiedade é um dos maiores inimigos do desempenho no ENEM. Candidatos que est
 
 > **TL;DR:** Técnicas práticas para controlar a ansiedade antes e durante o ENEM. O que fazer na semana da prova, no dia anterior e no próprio dia de aplicação. [Pratique no ENEM Pro →](/questoes)
 
-## Por Que a Ansiedade Prejudica no ENEM
+## Por Que a Ansiedade Prejudica no ENEM?
 
 A ansiedade ativa a resposta de luta ou fuga do cérebro — útil em situações de perigo físico, prejudicial quando você precisa de raciocínio lógico. Os efeitos:
 
@@ -22360,7 +22544,7 @@ A ansiedade ativa a resposta de luta ou fuga do cérebro — útil em situaçõe
 
 O objetivo não é eliminar a ansiedade (isso é impossível e nem desejável), mas mantê-la em nível controlável.
 
-## Semana Antes da Prova
+## Semana Antes da Prova?
 
 ### O Que Fazer
 - **Revise, não aprenda** — a semana antes não é momento de conteúdo novo
@@ -22374,14 +22558,14 @@ O objetivo não é eliminar a ansiedade (isso é impossível e nem desejável), 
 - Ler relatos de "provas impossíveis" ou comentários negativos sobre o ENEM
 - Alterar completamente a rotina de sono ("vou dormir cedo hoje") — mude gradualmente
 
-## Dia Anterior à Prova
+## Dia Anterior à Prova?
 
 1. **Prepare tudo na noite anterior:** documento, caneta preta esferográfica, lanche, roupa. Eliminar decisões do dia D reduz estresse.
 2. **Não faça simulado completo.** Se quiser estudar, revise resumos de conteúdo — não resolva questões novas.
 3. **Desligue as redes sociais** a partir do meio da tarde. Notificações e memes de "ENEM amanhã" aumentam ansiedade.
 4. **Durma no horário normal.** Tentar dormir muito mais cedo pode gerar insônia.
 
-## Técnicas Para o Dia da Prova
+## Técnicas Para o Dia da Prova?
 
 ### Antes de Entrar na Sala
 - **Chegue 40-60 minutos antes** — correr no último minuto dispara ansiedade
@@ -22398,7 +22582,7 @@ O objetivo não é eliminar a ansiedade (isso é impossível e nem desejável), 
 - **Monitore o tempo** a cada 30 minutos (não a cada questão — isso aumenta ansiedade)
 - **Ignore os outros** — pessoa entregando a prova cedo pode significar desistência, não facilidade
 
-## Técnica de Ancoragem de Confiança
+## Técnica de Ancoragem de Confiança?
 
 Antes da prova, escreva em um papel:
 - 3 temas que você domina bem
@@ -22407,7 +22591,7 @@ Antes da prova, escreva em um papel:
 
 Leia isso no banheiro antes de entrar para a sala. Ativa memórias de competência.
 
-## Quando a Ansiedade é Severa
+## Quando a Ansiedade é Severa?
 
 Se a ansiedade chega a ponto de vômitos, crises de choro ou insônia crônica semanas antes, considere:
 - Conversa com psicólogo ou terapeuta
@@ -22418,7 +22602,7 @@ Se a ansiedade chega a ponto de vômitos, crises de choro ou insônia crônica s
 
 
 
-## ENEM em Números (INEP)
+## ENEM em Números (INEP)?
 
 | Dado | Valor |
 |------|-------|
@@ -22454,14 +22638,15 @@ Apenas com orientação médica. Medicamentos ansiolíticos podem causar sonolê
 ### O que fazer se travar completamente em uma questão durante a prova?
 Pule a questão. Circule o número no caderno e na folha de respostas (ou anote em papel separado). Vá para a próxima questão. Muitas vezes, ao resolver outras questões, o bloqueio passa e você volta com mais clareza. No pior caso, escolha uma alternativa ao azar — não deixe em branco.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'redacao-enem-conclusao-como-fazer',
     title: 'Conclusão da Redação ENEM — Como Fazer a Proposta de Intervenção',
-    description: 'Como fazer a conclusão perfeita na redação do ENEM com proposta de intervenção completa. Os 5 elementos obrigatórios e exemplos práticos.',
+    description: 'Como fazer a conclusão perfeita na redação do ENEM com proposta de intervenção completa. Os 5 elementos obrigatórios e exemplos práticos. Acesse grátis.',
     date: '2026-06-19',
     readTime: 8,
     content: `
@@ -22469,11 +22654,11 @@ A conclusão da redação do ENEM é avaliada pela Competência V — a proposta
 
 > **TL;DR:** Como fazer a conclusão perfeita na redação do ENEM com proposta de intervenção completa. Os 5 elementos obrigatórios e exemplos práticos. [Pratique no ENEM Pro →](/questoes)
 
-## O Que É a Competência V
+## O Que É a Competência V?
 
 A Competência V avalia se o candidato propõe uma **intervenção concreta e detalhada** para o problema discutido na redação. Não basta dizer "devemos agir" ou "o governo precisa resolver" — a proposta precisa ser específica, viável e respeitar os direitos humanos.
 
-## Os 5 Elementos Obrigatórios da Proposta de Intervenção
+## Os 5 Elementos Obrigatórios da Proposta de Intervenção?
 
 O INEP é explícito: uma proposta de intervenção completa tem 5 elementos. Cada um ausente ou vago custa pontos.
 
@@ -22485,7 +22670,7 @@ O INEP é explícito: uma proposta de intervenção completa tem 5 elementos. Ca
 | **Finalidade** | Para quê? | a fim de reduzir a desinformação entre jovens |
 | **Detalhamento** | Qual o efeito esperado / o que envolve? | garantindo acesso gratuito a cursos de letramento midiático nas escolas públicas |
 
-## Como Montar a Proposta (Fórmula Prática)
+## Como Montar a Proposta (Fórmula Prática)?
 
 **[Agente] deve/deveria/precisa [ação], por meio de/mediante [modo/instrumento], a fim de/para [finalidade], [detalhamento do impacto ou alcance].**
 
@@ -22502,7 +22687,7 @@ Nesta proposta:
 - **Finalidade:** desenvolver senso crítico diante de fake news
 - **Detalhamento:** toda uma geração saberá verificar fontes
 
-## Erros Comuns que Custam Pontos
+## Erros Comuns que Custam Pontos?
 
 ### Proposta Genérica (perde 40-80 pontos)
 ❌ "É preciso que a sociedade se conscientize sobre o problema."
@@ -22517,7 +22702,7 @@ Nesta proposta:
 ❌ "O Estado deve prender todos que disseminam fake news."
 — Viola liberdade de expressão; proposta inviável juridicamente
 
-## Quantas Propostas Fazer
+## Quantas Propostas Fazer?
 
 **Uma proposta bem desenvolvida** vale mais que duas propostas rasas. A nota máxima na Competência V pode ser atingida com uma única proposta completa. Mas fazer duas propostas com todos os elementos é uma estratégia válida para candidatos mais experientes.
 
@@ -22555,14 +22740,15 @@ Sim. O agente pode ser qualquer entidade: governo federal, estadual ou municipal
 ### Quantas linhas deve ter o parágrafo de conclusão?
 Não há regra fixa, mas o recomendado é entre 5 e 8 linhas. Uma conclusão muito curta (2-3 linhas) não tem espaço para desenvolver todos os elementos. Uma conclusão muito longa (mais de 10 linhas) pode indicar que o desenvolvimento foi insuficiente.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'enem-caderno-de-questoes-cores',
     title: 'Caderno de Questões do ENEM — Cores, Versões e O Que Muda Entre Elas',
-    description: 'Entenda o sistema de cadernos coloridos do ENEM: amarelo, azul, rosa e cinza. O que muda entre cada cor, por que existem versões diferentes e como usar o gabarito certo.',
+    description: 'Entenda o sistema de cadernos coloridos do ENEM: amarelo, azul, rosa e cinza. O que muda entre cada cor, por que existem versões diferentes e como usar o.',
     date: '2026-06-19',
     readTime: 5,
     content: `
@@ -22570,7 +22756,7 @@ No dia do ENEM, cada candidato recebe um caderno de questões com uma cor difere
 
 > **TL;DR:** Entenda o sistema de cadernos coloridos do ENEM: amarelo, azul, rosa e cinza. O que muda entre cada cor, por que existem versões diferentes e como usar o gabarito certo. [Pratique no ENEM Pro →](/questoes)
 
-## Por Que Existem Cadernos de Cores Diferentes
+## Por Que Existem Cadernos de Cores Diferentes?
 
 O ENEM usa cadernos coloridos para **dificultar cola**. As cores (amarelo, azul, rosa, cinza) indicam versões com a mesma questões, mas em **ordem diferente** dentro de cada bloco.
 
@@ -22579,7 +22765,7 @@ Ou seja:
 - A **sequência** das alternativas e das questões varia
 - O **conteúdo** cobrado é idêntico para todos os candidatos
 
-## As Cores do Caderno ENEM
+## As Cores do Caderno ENEM?
 
 | Cor | Versão |
 |-----|--------|
@@ -22590,7 +22776,7 @@ Ou seja:
 
 Cada sala recebe cadernos intercalados — nenhum vizinho tem a mesma sequência de questões. Isso torna a cola ineficaz.
 
-## O Que Realmente Muda Entre os Cadernos
+## O Que Realmente Muda Entre os Cadernos?
 
 | O que muda | O que NÃO muda |
 |------------|----------------|
@@ -22600,7 +22786,7 @@ Cada sala recebe cadernos intercalados — nenhum vizinho tem a mesma sequência
 
 **Exemplo:** A questão sobre probabilidade pode ser a número 12 no caderno amarelo e a número 37 no caderno azul. O enunciado e as alternativas são os mesmos, mas embaralhados.
 
-## Como Usar o Gabarito Corretamente
+## Como Usar o Gabarito Corretamente?
 
 **Erro comum:** usar o gabarito do caderno amarelo quando você fez o caderno azul. A alternativa A do caderno azul não é necessariamente a mesma do caderno amarelo.
 
@@ -22609,11 +22795,11 @@ Cada sala recebe cadernos intercalados — nenhum vizinho tem a mesma sequência
 2. Acesse o gabarito específico para a cor do seu caderno no site do INEP
 3. Ou use a alternativa: anote o número da questão que fez **no seu caderno** e procure a mesma questão pelo enunciado nas soluções comentadas
 
-## Caderno Especial para PPL (Privados de Liberdade)
+## Caderno Especial para PPL (Privados de Liberdade)?
 
 Candidatos em privação de liberdade fazem uma prova separada (2ª Aplicação). O caderno tem a cor **cinza escuro** ou outra denominação especial, com questões diferentes para garantir o sigilo.
 
-## Tabela de Fórmulas no Caderno
+## Tabela de Fórmulas no Caderno?
 
 Todos os cadernos incluem, nas primeiras páginas, uma **folha de fórmulas** com:
 - Fórmulas de Física (cinemática, dinâmica, energia, termodinâmica, etc.)
@@ -22622,7 +22808,7 @@ Todos os cadernos incluem, nas primeiras páginas, uma **folha de fórmulas** co
 
 **Você pode consultar essa folha durante a prova inteira** — não precisa memorizar as fórmulas, apenas saber quando e como usá-las.
 
-## Caderno de Rascunho da Redação
+## Caderno de Rascunho da Redação?
 
 O caderno de questões tem uma parte destacável para rascunho da redação. Você escreve o rascunho ali e depois passa a limpo para a folha oficial de redação. O rascunho não é corrigido — apenas a folha oficial conta.
 
@@ -22653,8 +22839,9 @@ Não. A cor do caderno não indica nível de dificuldade. Todas as versões têm
 ### O que é o "gabarito preliminar" e o "gabarito oficial" do ENEM?
 O gabarito preliminar é divulgado pelo INEP no dia seguinte à prova — é a resposta correta de cada questão antes de qualquer recurso. Candidatos têm alguns dias para contestar questões. Após análise dos recursos, o INEP divulga o gabarito definitivo (oficial), que é o que vale para o cálculo das notas.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
 ]
@@ -22663,7 +22850,7 @@ const EXTRA_POSTS_17: BlogPost[] = [
   {
     slug: 'gabarito-matematica-enem-2025',
     title: 'Gabarito de Matemática ENEM 2025 — Resolução Comentada',
-    description: 'Gabarito oficial de Matemática do ENEM 2025 com resolução comentada das questões mais difíceis. Análise completa da prova e temas cobrados.',
+    description: 'Gabarito oficial de Matemática do ENEM 2025 com resolução comentada das questões mais difíceis. Análise completa da prova e temas cobrados. Acesse grátis.',
     date: '2026-06-20',
     readTime: 7,
     content: `
@@ -22671,12 +22858,12 @@ O ENEM 2025 foi aplicado em novembro de 2025. A prova de Matemática e suas Tecn
 
 > **TL;DR:** Gabarito oficial de Matemática do ENEM 2025 com resolução comentada das questões mais difíceis. Análise completa da prova e temas cobrados. [Pratique no ENEM Pro →](/questoes)
 
-## Gabarito Oficial de Matemática — ENEM 2025
+## Gabarito Oficial de Matemática — ENEM 2025?
 
 O gabarito oficial foi divulgado pelo INEP no dia seguinte à aplicação. Para acessar o gabarito por cor de caderno:
 **[Gabarito oficial INEP → enem.inep.gov.br](https://enem.inep.gov.br)**
 
-## Análise da Prova de Matemática ENEM 2025
+## Análise da Prova de Matemática ENEM 2025?
 
 ### Distribuição de Temas
 
@@ -22713,11 +22900,11 @@ As questões mais desafiadoras do ENEM 2025 em Matemática geralmente envolvem:
 - Leitura de gráficos (barras, linhas, pizza)
 - Equações do 1º grau em contexto
 
-## Média Nacional de Matemática — ENEM 2025
+## Média Nacional de Matemática — ENEM 2025?
 
 Historicamente, a média de Matemática no ENEM fica entre **480 e 560 pontos** na escala TRI. Candidatos com mais de **650 pontos** em Matemática estão no grupo seleto para cursos como Engenharia e Computação nas melhores federais.
 
-## Como Usar o Gabarito para Estudar
+## Como Usar o Gabarito para Estudar?
 
 1. **Resolva a prova completa** sem consultar o gabarito
 2. **Compare** suas respostas com o gabarito oficial
@@ -22747,14 +22934,15 @@ O número de acertos não se converte diretamente em nota — o ENEM usa o TRI (
 
 **[Praticar questões de Matemática →](/questoes?disciplina=matematica)**
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-ciencias-natureza-enem-2025',
     title: 'Gabarito de Ciências da Natureza ENEM 2025 — Física, Química e Biologia',
-    description: 'Gabarito de Ciências da Natureza do ENEM 2025 com análise de Física, Química e Biologia. Temas cobrados, dificuldade e resolução das questões.',
+    description: 'Gabarito de Ciências da Natureza do ENEM 2025 com análise de Física, Química e Biologia. Temas cobrados, dificuldade e resolução das questões. Acesse grátis.',
     date: '2026-06-20',
     readTime: 7,
     content: `
@@ -22762,11 +22950,11 @@ Ciências da Natureza do ENEM 2025 reuniu Física, Química e Biologia em 45 que
 
 > **TL;DR:** Gabarito de Ciências da Natureza do ENEM 2025 com análise de Física, Química e Biologia. Temas cobrados, dificuldade e resolução das questões. [Pratique no ENEM Pro →](/questoes)
 
-## Gabarito Oficial — Ciências da Natureza 2025
+## Gabarito Oficial — Ciências da Natureza 2025?
 
 Disponível no portal INEP (enem.inep.gov.br) por cor de caderno. O gabarito foi divulgado em novembro de 2025, no dia seguinte à aplicação.
 
-## Distribuição por Disciplina — ENEM 2025
+## Distribuição por Disciplina — ENEM 2025?
 
 | Disciplina | Questões Estimadas |
 |------------|-------------------|
@@ -22805,11 +22993,11 @@ Temas cobrados com maior frequência:
 
 **Destaque 2025:** Biotecnologia e CRISPR — edição gênica como ferramenta terapêutica e agrícola.
 
-## Nível de Dificuldade Geral
+## Nível de Dificuldade Geral?
 
 Ciências da Natureza 2025 foi considerada de **dificuldade moderada**. Física teve as questões mais desafiadoras; Biologia teve as mais acessíveis em média.
 
-## Como Estudar com o Gabarito
+## Como Estudar com o Gabarito?
 
 - Resolva por disciplina: 15 questões de cada por vez
 - Identifique qual das três disciplinas teve mais erros
@@ -22843,14 +23031,15 @@ O ENEM 2025 reduziu significativamente o foco em COVID-19 em relação às ediç
 ### Como foi a Química no ENEM 2025?
 A prova de Química do ENEM 2025 manteve o foco em contextualização com situações cotidianas. Estequiometria e química orgânica continuaram sendo os temas de maior peso. Questões sobre sustentabilidade e química verde tiveram destaque.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-ciencias-humanas-enem-2025',
     title: 'Gabarito de Ciências Humanas ENEM 2025 — História, Geografia, Filosofia e Sociologia',
-    description: 'Gabarito de Ciências Humanas do ENEM 2025 com análise das 45 questões de História, Geografia, Filosofia e Sociologia. Temas cobrados e dificuldade.',
+    description: 'Gabarito de Ciências Humanas do ENEM 2025 com análise das 45 questões de História, Geografia, Filosofia e Sociologia. Temas cobrados e dificuldade. Grátis.',
     date: '2026-06-20',
     readTime: 6,
     content: `
@@ -22858,11 +23047,11 @@ Ciências Humanas do ENEM 2025 foi aplicada no 1º dia da prova, junto com Ciên
 
 > **TL;DR:** Gabarito de Ciências Humanas do ENEM 2025 com análise das 45 questões de História, Geografia, Filosofia e Sociologia. Temas cobrados e dificuldade. [Pratique no ENEM Pro →](/questoes)
 
-## Gabarito Oficial — Ciências Humanas 2025
+## Gabarito Oficial — Ciências Humanas 2025?
 
 Disponível no portal INEP (enem.inep.gov.br) por cor de caderno.
 
-## Distribuição por Disciplina
+## Distribuição por Disciplina?
 
 | Disciplina | Questões |
 |------------|----------|
@@ -22871,7 +23060,7 @@ Disponível no portal INEP (enem.inep.gov.br) por cor de caderno.
 | Filosofia | ~10 |
 | Sociologia | ~11 |
 
-## Análise por Disciplina
+## Análise por Disciplina?
 
 ### História — ENEM 2025
 
@@ -22909,7 +23098,7 @@ Disponível no portal INEP (enem.inep.gov.br) por cor de caderno.
 - **Cultura e identidade:** diversidade, multiculturalismo
 - **Weber, Marx e Durkheim:** aplicação dos clássicos a contextos contemporâneos
 
-## Nível de Dificuldade
+## Nível de Dificuldade?
 
 A prova de Ciências Humanas 2025 foi considerada de **dificuldade média**, com exigência de leitura crítica de fontes históricas, mapas e textos contemporâneos.
 
@@ -22941,14 +23130,15 @@ De dificuldade moderada. O ENEM não exige decorar citações — exige entender
 ### Quais temas de História mais caíram no ENEM 2025?
 Brasil Republicano (República Velha a redemocratização) e História Contemporânea (Pós-Guerra Fria) foram os destaques. Questões sobre escravidão, abolição e racismo estrutural também tiveram presença marcante.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'gabarito-linguagens-enem-2025',
     title: 'Gabarito de Linguagens ENEM 2025 — Português, Literatura, Inglês e Artes',
-    description: 'Gabarito de Linguagens e Códigos do ENEM 2025 com análise de Língua Portuguesa, Literatura Brasileira, Inglês, Artes e Educação Física.',
+    description: 'Gabarito de Linguagens e Códigos do ENEM 2025 com análise de Língua Portuguesa, Literatura Brasileira, Inglês, Artes e Educação Física. Acesse grátis.',
     date: '2026-06-20',
     readTime: 6,
     content: `
@@ -22956,11 +23146,11 @@ Linguagens, Códigos e suas Tecnologias foi aplicada no 2º dia do ENEM 2025, ju
 
 > **TL;DR:** Gabarito de Linguagens e Códigos do ENEM 2025 com análise de Língua Portuguesa, Literatura Brasileira, Inglês, Artes e Educação Física. [Pratique no ENEM Pro →](/questoes)
 
-## Gabarito Oficial — Linguagens 2025
+## Gabarito Oficial — Linguagens 2025?
 
 Disponível no portal INEP (enem.inep.gov.br) por cor de caderno e por opção de língua estrangeira (inglês ou espanhol).
 
-## Distribuição por Componente
+## Distribuição por Componente?
 
 | Componente | Questões |
 |------------|----------|
@@ -22969,7 +23159,7 @@ Disponível no portal INEP (enem.inep.gov.br) por cor de caderno e por opção d
 | Inglês / Espanhol | ~5 |
 | Artes e Educação Física | ~6-8 |
 
-## Análise por Componente
+## Análise por Componente?
 
 ### Língua Portuguesa — ENEM 2025
 
@@ -23001,11 +23191,11 @@ Disponível no portal INEP (enem.inep.gov.br) por cor de caderno e por opção d
 - Linguagem do cinema e quadrinhos
 - Esporte como fenômeno cultural e social
 
-## Nível de Dificuldade
+## Nível de Dificuldade?
 
 Linguagens 2025 foi considerada de **dificuldade média-baixa** — acessível para candidatos com bom hábito de leitura. A prova privilegiou interpretação sobre gramática formal.
 
-## Estratégia para Linguagens
+## Estratégia para Linguagens?
 
 A chave é a **leitura estratégica:**
 1. Leia o enunciado da questão antes do texto
@@ -23040,14 +23230,15 @@ Em geral, os textos de inglês têm vocabulário mais acessível para a maioria 
 ### Literatura é cobrada diretamente no ENEM 2025?
 Sim, o ENEM cobra literatura de forma contextualizada: apresenta um trecho e pede análise do estilo, do narrador ou do recurso literário. Raramente pede datas ou nomes de obras de memória.
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'sisu-2026-inscricoes-datas',
     title: 'SISU 2026 — Datas de Inscrição, Cronograma e Como Participar',
-    description: 'Datas do SISU 2026: quando abrem as inscrições, como se inscrever, quem pode participar e quais universidades aceitam a nota do ENEM 2025.',
+    description: 'Datas do SISU 2026: quando abrem as inscrições, como se inscrever, quem pode participar e quais universidades aceitam a nota do ENEM 2025. Acesse grátis.',
     date: '2026-06-20',
     readTime: 6,
     content: `
@@ -23055,7 +23246,7 @@ O SISU 2026 (Sistema de Seleção Unificada) usa a nota do ENEM 2025 para seleci
 
 > **TL;DR:** Datas do SISU 2026: quando abrem as inscrições, como se inscrever, quem pode participar e quais universidades aceitam a nota do ENEM 2025. [Pratique no ENEM Pro →](/questoes)
 
-## O Que é o SISU 2026
+## O Que é o SISU 2026?
 
 O SISU é o programa do MEC que distribui vagas em instituições públicas de ensino superior com base na nota do ENEM. Em 2026, o programa utiliza os resultados do ENEM 2025 (aplicado em novembro de 2025).
 
@@ -23064,7 +23255,7 @@ O SISU é o programa do MEC que distribui vagas em instituições públicas de e
 - Não há limite de tentativas por edição
 - Pode usar nota de edições anteriores do ENEM (verificar edital)
 
-## Cronograma SISU 2026
+## Cronograma SISU 2026?
 
 As datas oficiais são definidas pelo MEC. Historicamente, o SISU do primeiro semestre ocorre em janeiro/fevereiro após a divulgação dos resultados do ENEM:
 
@@ -23078,7 +23269,7 @@ As datas oficiais são definidas pelo MEC. Historicamente, o SISU do primeiro se
 
 **Sempre confirme no site oficial:** [sisu.mec.gov.br](https://sisu.mec.gov.br)
 
-## Como se Inscrever no SISU 2026
+## Como se Inscrever no SISU 2026?
 
 1. Acesse o portal **sisu.mec.gov.br**
 2. Faça login com sua conta **gov.br** (CPF e senha)
@@ -23088,7 +23279,7 @@ As datas oficiais são definidas pelo MEC. Historicamente, o SISU do primeiro se
 
 **Importante:** Você pode **trocar suas opções** durante o período de inscrição — a última seleção feita antes do encerramento é a que vale.
 
-## Ampla Concorrência vs Cotas no SISU
+## Ampla Concorrência vs Cotas no SISU?
 
 | Modalidade | Para Quem |
 |------------|-----------|
@@ -23100,7 +23291,7 @@ As datas oficiais são definidas pelo MEC. Historicamente, o SISU do primeiro se
 
 Concorrer em cotas pode aumentar muito suas chances — a nota de corte das cotas geralmente é menor que a da ampla concorrência.
 
-## Nota de Corte no SISU 2026
+## Nota de Corte no SISU 2026?
 
 A nota de corte é dinâmica durante as inscrições e muda a cada dia. A nota final (que define os aprovados) é calculada no encerramento do período de inscrições.
 
@@ -23111,7 +23302,7 @@ A nota de corte é dinâmica durante as inscrições e muda a cada dia. A nota f
 
 **[Calcular sua nota e comparar com notas de corte →](/calcular-nota)**
 
-## Universidades no SISU 2026
+## Universidades no SISU 2026?
 
 O SISU 2026 inclui universidades federais (UFMG, UFRJ, UnB, UFRGS, UFSC, etc.), universidades estaduais e institutos federais (IFs) de todo o Brasil. A lista completa é divulgada no edital.
 
@@ -23136,14 +23327,15 @@ Candidatos não selecionados na chamada regular entram automaticamente na lista 
 
 **[Ver nota de corte por curso →](/blog/nota-de-corte-medicina-enem)**
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'nota-de-corte-sisu-2026',
     title: 'Nota de Corte SISU 2026 — Por Curso e Universidade com ENEM 2025',
-    description: 'Notas de corte do SISU 2026 por curso e universidade federal. Medicina, Engenharia, Direito, Psicologia e mais, com base no ENEM 2025.',
+    description: 'Notas de corte do SISU 2026 por curso e universidade federal. Medicina, Engenharia, Direito, Psicologia e mais, com base no ENEM 2025. Saiba mais e prepare-se.',
     date: '2026-06-20',
     readTime: 8,
     content: `
@@ -23151,7 +23343,7 @@ A nota de corte do SISU 2026 é definida com base na nota do ENEM 2025 dos candi
 
 > **TL;DR:** Notas de corte do SISU 2026 por curso e universidade federal. Medicina, Engenharia, Direito, Psicologia e mais, com base no ENEM 2025. [Pratique no ENEM Pro →](/questoes)
 
-## Como Funciona a Nota de Corte no SISU
+## Como Funciona a Nota de Corte no SISU?
 
 A nota de corte do SISU **não é fixa** — ela varia a cada edição conforme:
 - O número de vagas disponíveis
@@ -23160,7 +23352,7 @@ A nota de corte do SISU **não é fixa** — ela varia a cada edição conforme:
 
 A nota de corte final só é conhecida após o encerramento das inscrições. Durante o período de inscrição, o SISU divulga a **nota de corte estimada** com base nos inscritos até aquele momento.
 
-## Notas de Corte por Curso — Referência Histórica
+## Notas de Corte por Curso — Referência Histórica?
 
 As notas abaixo são referências históricas (ENEM 2023/2024) e servem como base para estimar o SISU 2026. Valores reais variam por instituição e modalidade.
 
@@ -23213,7 +23405,7 @@ As notas abaixo são referências históricas (ENEM 2023/2024) e servem como bas
 | Nutrição (federais top) | 660-690 |
 | Arquitetura (federais top) | 690-720 |
 
-## Como Calcular se Sua Nota Passa
+## Como Calcular se Sua Nota Passa?
 
 A nota do SISU é uma **média ponderada** das 5 áreas do ENEM (incluindo Redação), com pesos definidos por cada curso:
 
@@ -23224,7 +23416,7 @@ A nota do SISU é uma **média ponderada** das 5 áreas do ENEM (incluindo Reda�
 
 **[Usar calculadora de nota para simular →](/calcular-nota)**
 
-## Estratégias para o SISU 2026
+## Estratégias para o SISU 2026?
 
 ### 1ª Opção: Seja Ambicioso
 Coloque o curso mais difícil como 1ª opção. Se não entrar, ainda tem a 2ª.
@@ -23259,14 +23451,15 @@ Sim. Você escolhe a 1ª opção (curso A na universidade X) e a 2ª opção (cu
 
 **[Ver nota de corte de Medicina →](/blog/nota-de-corte-medicina-enem)**
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'resultado-enem-2025',
     title: 'Resultado do ENEM 2025 — Quando Sai e Como Consultar sua Nota',
-    description: 'Quando sai o resultado do ENEM 2025, como consultar sua nota no site do INEP, o que fazer com a nota e próximos passos para SISU, ProUni e FIES.',
+    description: 'Quando sai o resultado do ENEM 2025, como consultar sua nota no site do INEP, o que fazer com a nota e próximos passos para SISU, ProUni e FIES. Acesse grátis.',
     date: '2026-06-20',
     readTime: 5,
     content: `
@@ -23274,7 +23467,7 @@ O resultado do ENEM 2025 é a nota que você usará para acessar universidades p
 
 > **TL;DR:** Quando sai o resultado do ENEM 2025, como consultar sua nota no site do INEP, o que fazer com a nota e próximos passos para SISU, ProUni e FIES. [Pratique no ENEM Pro →](/questoes)
 
-## Quando Sai o Resultado do ENEM 2025
+## Quando Sai o Resultado do ENEM 2025?
 
 O INEP divulga os resultados individuais do ENEM em média **60 a 90 dias** após a aplicação da prova. Para o ENEM 2025 (aplicado em novembro de 2025), os resultados foram divulgados em **janeiro de 2026**.
 
@@ -23287,7 +23480,7 @@ O INEP divulga os resultados individuais do ENEM em média **60 a 90 dias** apó
 
 **Para datas exatas:** consulte o cronograma oficial no portal [enem.inep.gov.br](https://enem.inep.gov.br)
 
-## Como Consultar o Resultado do ENEM 2025
+## Como Consultar o Resultado do ENEM 2025?
 
 1. Acesse **enem.inep.gov.br**
 2. Clique em **"Página do Participante"**
@@ -23302,7 +23495,7 @@ O boletim mostra sua nota em cada uma das 5 áreas:
 - Matemática
 - Redação (0 a 1000)
 
-## O Que Cada Nota Significa
+## O Que Cada Nota Significa?
 
 | Nota | Interpretação |
 |------|--------------|
@@ -23313,7 +23506,7 @@ O boletim mostra sua nota em cada uma das 5 áreas:
 | Abaixo de 500 | Abaixo da média nacional |
 | 0 em Redação | Inválida para SISU, ProUni e FIES |
 
-## O Que Fazer com o Resultado do ENEM 2025
+## O Que Fazer com o Resultado do ENEM 2025?
 
 ### Se a nota for boa:
 - **SISU:** inscreva-se imediatamente (período curto, geralmente 5-6 dias)
@@ -23349,14 +23542,15 @@ Sim. O INEP abre um período de recurso após a divulgação dos resultados. O c
 
 **[Ver como calcular média para o SISU →](/blog/sisu-como-funciona)**
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'enem-2025-analise-prova',
     title: 'Análise do ENEM 2025 — Dificuldade, Temas e Destaques da Prova',
-    description: 'Análise completa do ENEM 2025: nível de dificuldade por área, temas mais cobrados, surpresas da prova e o que esperar para o ENEM 2026.',
+    description: 'Análise completa do ENEM 2025: nível de dificuldade por área, temas mais cobrados, surpresas da prova e o que esperar para o ENEM 2026. Acesse grátis.',
     date: '2026-06-20',
     readTime: 7,
     content: `
@@ -23364,7 +23558,7 @@ O ENEM 2025 foi aplicado em novembro de 2025 para aproximadamente 5-6 milhões d
 
 > **TL;DR:** Análise completa do ENEM 2025: nível de dificuldade por área, temas mais cobrados, surpresas da prova e o que esperar para o ENEM 2026. [Pratique no ENEM Pro →](/questoes)
 
-## Visão Geral do ENEM 2025
+## Visão Geral do ENEM 2025?
 
 | Dado | Informação |
 |------|------------|
@@ -23374,7 +23568,7 @@ O ENEM 2025 foi aplicado em novembro de 2025 para aproximadamente 5-6 milhões d
 | 2º dia | Linguagens (45q) + Matemática (45q) |
 | Duração | 5h30min (1º dia) + 5h (2º dia) |
 
-## Nível de Dificuldade por Área — ENEM 2025
+## Nível de Dificuldade por Área — ENEM 2025?
 
 | Área | Dificuldade | Comparação com 2024 |
 |------|-------------|---------------------|
@@ -23384,7 +23578,7 @@ O ENEM 2025 foi aplicado em novembro de 2025 para aproximadamente 5-6 milhões d
 | Linguagens | Baixa/Média | Levemente mais fácil |
 | Redação | Média | Tema acessível |
 
-## Temas de Destaque por Área
+## Temas de Destaque por Área?
 
 ### Matemática
 - Funções exponenciais com contexto tecnológico (crescimento de dados digitais)
@@ -23415,7 +23609,7 @@ O tema da redação do ENEM 2025 exigiu dissertação argumentativa sobre um des
 
 **[Ver como fazer a proposta de intervenção →](/blog/redacao-enem-conclusao-como-fazer)**
 
-## Comparação: ENEM 2025 vs ENEM 2024
+## Comparação: ENEM 2025 vs ENEM 2024?
 
 | Aspecto | ENEM 2024 | ENEM 2025 |
 |---------|-----------|-----------|
@@ -23425,7 +23619,7 @@ O tema da redação do ENEM 2025 exigiu dissertação argumentativa sobre um des
 | Linguagens | Média | Fácil/média |
 | Temática dominante | IA e tecnologia | Sustentabilidade e desigualdade |
 
-## O Que Esperar do ENEM 2026
+## O Que Esperar do ENEM 2026?
 
 Com base no padrão do ENEM 2025, os candidatos ao ENEM 2026 devem priorizar:
 
@@ -23458,14 +23652,15 @@ Os resultados do ENEM 2025 (divulgados em janeiro de 2026) são a base para o SI
 
 **[Ver notas de corte SISU 2026 →](/blog/nota-de-corte-sisu-2026)**
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
     slug: 'prouni-2026-inscricoes',
     title: 'ProUni 2026 — Datas de Inscrição, Quem Pode e Como se Inscrever',
-    description: 'Guia completo do ProUni 2026: quem tem direito à bolsa, datas de inscrição, como se inscrever e quais faculdades participam do programa.',
+    description: 'Guia completo do ProUni 2026: quem tem direito à bolsa, datas de inscrição, como se inscrever e quais faculdades participam do programa. Acesse grátis.',
     date: '2026-06-20',
     readTime: 6,
     content: `
@@ -23473,11 +23668,11 @@ O ProUni (Programa Universidade para Todos) 2026 oferece bolsas de estudo integr
 
 > **TL;DR:** Guia completo do ProUni 2026: quem tem direito à bolsa, datas de inscrição, como se inscrever e quais faculdades participam do programa. [Pratique no ENEM Pro →](/questoes)
 
-## O Que é o ProUni 2026
+## O Que é o ProUni 2026?
 
 O ProUni é um programa do MEC que concede bolsas de estudo em instituições de educação superior privadas para estudantes de baixa renda. As bolsas são destinadas a candidatos que fizeram o ENEM e atendem aos critérios socioeconômicos.
 
-## Quem Pode Participar do ProUni 2026
+## Quem Pode Participar do ProUni 2026?
 
 ### Bolsa Integral (100%)
 - Renda familiar bruta mensal per capita de até **1,5 salário mínimo**
@@ -23492,7 +23687,7 @@ O ProUni é um programa do MEC que concede bolsas de estudo em instituições de
 - Não ter tirado zero na Redação
 - Não ter diploma de curso superior
 
-## Datas do ProUni 2026
+## Datas do ProUni 2026?
 
 O ProUni tem geralmente duas edições por ano (1º e 2º semestre):
 
@@ -23506,7 +23701,7 @@ O ProUni tem geralmente duas edições por ano (1º e 2º semestre):
 
 **Acompanhe as datas oficiais em:** [prouni.mec.gov.br](http://prouni.mec.gov.br)
 
-## Como se Inscrever no ProUni 2026
+## Como se Inscrever no ProUni 2026?
 
 1. Acesse **prouni.mec.gov.br**
 2. Faça login com sua conta **gov.br**
@@ -23520,11 +23715,11 @@ O ProUni tem geralmente duas edições por ano (1º e 2º semestre):
 - Histórico escolar
 - Boletim do ENEM
 
-## Quantas Vagas o ProUni Oferece
+## Quantas Vagas o ProUni Oferece?
 
 O ProUni oferece centenas de milhares de bolsas a cada semestre em mais de 1.000 faculdades participantes em todo o Brasil. Os cursos mais disputados são Medicina, Odontologia, Engenharia e Direito.
 
-## ProUni vs SISU — Qual Escolher
+## ProUni vs SISU — Qual Escolher?
 
 | Critério | ProUni | SISU |
 |----------|--------|------|
@@ -23556,8 +23751,9 @@ A nota mínima obrigatória é de 450 pontos em cada uma das 4 provas objetivas 
 **[Ver como funciona o ProUni →](/blog/prouni-como-funciona)**
 **[Calcular minha nota →](/calcular-nota)**
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
   {
@@ -23571,13 +23767,13 @@ Com 3 meses de estudo intensivo e planejamento correto, é possível melhorar si
 
 > **TL;DR:** Cronograma intensivo de 3 meses para o ENEM: o que estudar por semana, como dividir o tempo entre as áreas e como maximizar o aprendizado em pouco tempo. [Pratique no ENEM Pro →](/questoes)
 
-## A Realidade dos 3 Meses
+## A Realidade dos 3 Meses?
 
 3 meses = ~90 dias = ~360 horas de estudo (4 horas/dia) ou ~180 horas (2 horas/dia).
 
 **Prioridade absoluta:** conteúdos de alta frequência no ENEM, não cobertura total do currículo. 20% do conteúdo responde por 80% das questões — aplique o princípio de Pareto.
 
-## Diagnóstico Inicial (Semana 0 — Antes de Começar)
+## Diagnóstico Inicial (Semana 0 — Antes de Começar)?
 
 Antes de montar o cronograma, faça um diagnóstico:
 
@@ -23586,7 +23782,7 @@ Antes de montar o cronograma, faça um diagnóstico:
 3. **Identifique suas forças e fraquezas**
 4. **Priorize** as áreas com maior peso no curso que quer e maior gap
 
-## Cronograma por Mês
+## Cronograma por Mês?
 
 ### Mês 1 — Fundamentos (Semanas 1-4)
 
@@ -23642,7 +23838,7 @@ Antes de montar o cronograma, faça um diagnóstico:
 - Preparação logística (documentos, local de prova)
 - Dormir bem, comer bem, exercício físico
 
-## Distribuição de Horas por Área
+## Distribuição de Horas por Área?
 
 Para candidatos com 4 horas/dia:
 
@@ -23654,7 +23850,7 @@ Para candidatos com 4 horas/dia:
 | Ciências Humanas | 45min | Mais leitura, menos exercício |
 | Linguagens | 45min | Foco em leitura e literatura |
 
-## Ferramentas que Aceleram o Aprendizado
+## Ferramentas que Aceleram o Aprendizado?
 
 1. **Questões comentadas** — resolve e lê a explicação, mesmo quando acerta
 2. **Questões por tema** — pratique tema a tema, não prova completa no início
@@ -23686,8 +23882,9 @@ Nos 3 primeiros meses: priorize as matérias mais fracas nas áreas que têm mai
 
 **[Ver técnicas de estudo para o ENEM →](/blog/tecnicas-de-estudo-enem)**
 
+
 ---
-*Conteúdo produzido pela Equipe ENEM Pro — especialistas em preparação para o ENEM com dados de desempenho de milhares de estudantes em nossa plataforma.*
+*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
     `,
   },
 ]
