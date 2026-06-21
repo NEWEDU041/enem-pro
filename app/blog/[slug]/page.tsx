@@ -152,6 +152,7 @@ function getInternalLinks(slug: string): { href: string; label: string }[] {
   if (slug.includes('ansiedade') || slug.includes('dica') || slug.includes('estrategia')) links.push({ href: '/questao-do-dia', label: 'Questão do dia ENEM' })
   if (slug.includes('caderno') || slug.includes('cores') || slug.includes('como-funciona') || slug.includes('segunda-aplicacao')) links.push({ href: '/blog/tri-enem-como-funciona', label: 'Como funciona o TRI do ENEM' })
   if (slug.includes('sisu') || slug.includes('prouni') || slug.includes('fies') || slug.includes('nota-de-corte')) links.push({ href: '/calcular-nota', label: 'Calcular nota para o SISU' })
+  if (slug.includes('resultado') || slug.includes('analise-prova') || slug.includes('analise') && slug.includes('enem')) links.push({ href: '/gabarito', label: 'Gabarito oficial ENEM' }, { href: '/calcular-nota', label: 'Simular nota ENEM' })
   return links.slice(0, 3)
 }
 

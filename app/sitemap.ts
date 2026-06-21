@@ -25,7 +25,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/questao-do-dia`, lastModified: D('2026-06-15'), changeFrequency: 'daily', priority: 0.85 },
     { url: `${base}/questoes`, lastModified: D('2026-03-01'), changeFrequency: 'weekly', priority: 0.85 },
     { url: `${base}/simulado`, lastModified: D('2026-06-01'), changeFrequency: 'monthly', priority: 0.82 },
-    { url: `${base}/blog`, lastModified: D('2026-06-19'), changeFrequency: 'weekly', priority: 0.8 },
+    { url: `${base}/blog`, lastModified: D('2026-06-20'), changeFrequency: 'weekly', priority: 0.8 },
     { url: `${base}/sobre`, lastModified: D('2026-06-17'), changeFrequency: 'yearly', priority: 0.5 },
     ...MATERIAS_SLUGS.map(slug => ({
       url: `${base}/materias/${slug}`,
@@ -67,7 +67,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
       post.slug.includes('como-estudar') ||
       post.slug.includes('questoes-de') ||
       post.slug.includes('banco-de-questoes') ||
-      post.slug.includes('enem-2026')
+      post.slug.includes('enem-2026') ||
+      post.slug.includes('enem-2025') ||
+      post.slug.includes('como-estudar') ||
+      post.slug.includes('analise-prova')
     return {
       url: `${base}/blog/${post.slug}`,
       lastModified: new Date(post.date),
