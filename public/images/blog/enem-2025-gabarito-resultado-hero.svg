@@ -1,0 +1,15 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ENEM 2025 — Gabarito, Resultado e Notas de Corte">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#37474f;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0f1f27;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#g)"/>
+  <rect x="0" y="0" width="800" height="4" fill="#b0bec5" opacity="0.9"/>
+  <rect x="0" y="396" width="800" height="4" fill="#b0bec5" opacity="0.4"/>
+  <text x="400" y="90" font-family="Arial, sans-serif" font-size="13" fill="#b0bec5" text-anchor="middle" letter-spacing="4" opacity="0.8">ENEM PRO — questoesenem.pro</text>
+  <text x="400" y="150" font-family="Georgia, serif" font-size="36" fill="white" font-weight="bold" text-anchor="middle">ENEM 2025 — Gabarito, Resultado</text>
+  <text x="400" y="202" font-family="Georgia, serif" font-size="36" fill="white" font-weight="bold" text-anchor="middle">e Notas de Corte</text>
+  <text x="400" y="355" font-family="Arial, sans-serif" font-size="14" fill="#b0bec5" text-anchor="middle" opacity="0.7">ENEM Info</text>
+</svg>
