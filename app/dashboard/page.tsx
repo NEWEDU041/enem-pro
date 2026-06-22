@@ -111,10 +111,14 @@ function DashboardContent() {
       }
 
       // Gap 12 — load referral code
-      fetch(`/api/referral?user_id=${user.id}`)
-        .then(r => r.json())
-        .then(d => { if (d.code) { setReferralCode(d.code); setReferralCount(d.total || 0) } })
-        .catch(() => {})
+      if (accessToken) {
+        fetch(`/api/referral?user_id=${user.id}`, {
+          headers: { Authorization: `Bearer ${accessToken}` },
+        })
+          .then(r => r.json())
+          .then(d => { if (d.code) { setReferralCode(d.code); setReferralCount(d.total || 0) } })
+          .catch(() => {})
+      }
 
       // Gap 8 — trigger D0 welcome email (only once)
       if (!meta.email_drip_d0_sent && accessToken) {

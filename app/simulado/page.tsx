@@ -14,10 +14,12 @@ const supabase = createBrowserClient()
 type SimState = 'setup' | 'loading' | 'active' | 'finished'
 
 interface Question {
-  index: number
+  id: string
   year: number
   discipline: string
-  alternativesIntroduction: string
+  title: string
+  context?: string
+  alternativesIntroduction?: string
   alternatives: { letter: string; text: string }[]
   correctAlternative: string
   files?: { type: string; src: string }[]
@@ -154,7 +156,7 @@ export default function SimuladoPage() {
     const q = questions[current]
     const time_ms = Date.now() - questionStartRef.current
     const answer: Answer = {
-      question_id: `${q.year}-${q.index}`,
+      question_id: q.id,
       selected_alternative: letter,
       correct_alternative: q.correctAlternative,
       discipline: q.discipline,
@@ -246,11 +248,13 @@ export default function SimuladoPage() {
         {/* ── ACTIVE ── */}
         {state === 'active' && questions.length > 0 && (
           <ActiveScreen
+            key={current}
             question={questions[current]}
             current={current}
             total={questions.length}
             selected={selected}
             revealed={revealed}
+            token={token}
             onSelect={handleSelect}
             onNext={handleNext}
           />
@@ -331,18 +335,68 @@ function SetupScreen({
   )
 }
 
+function QuestionText({ text }: { text: string }) {
+  const TOKEN = /(\*\*[^*]+\*\*|\*[^*]+\*|!\[[^\]]*\]\([^)]+\))/g
+  return (
+    <div>
+      {text.split('\n').map((line, li) => (
+        <p key={li} className={li > 0 ? 'mt-2 text-sm text-zinc-700 leading-relaxed' : 'text-sm text-zinc-700 leading-relaxed'}>
+          {line.split(TOKEN).map((part, i) => {
+            if (/^\*\*(.+)\*\*$/.test(part)) return <strong key={i}>{part.slice(2, -2)}</strong>
+            if (/^\*(.+)\*$/.test(part)) return <em key={i}>{part.slice(1, -1)}</em>
+            const img = part.match(/^!\[([^\]]*)\]\(([^)]+)\)$/)
+            if (img) {
+              const src = img[2]
+              if (src.includes('enem.dev') || src.includes('broken-image')) return null
+              return <img key={i} src={src} alt={img[1] || ''} className="max-w-full my-2 rounded" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none' }} />
+            }
+            return part
+          })}
+        </p>
+      ))}
+    </div>
+  )
+}
+
 function ActiveScreen({
-  question, current, total, selected, revealed, onSelect, onNext,
+  question, current, total, selected, revealed, token, onSelect, onNext,
 }: {
   question: Question
   current: number
   total: number
   selected: string | null
   revealed: boolean
+  token: string | null
   onSelect: (l: string) => void
   onNext: () => void
 }) {
+  const [explanation, setExplanation] = useState<string>('')
+  const [explaining, setExplaining] = useState<boolean>(false)
+  const [explainUsed, setExplainUsed] = useState<boolean>(false)
   const progress = ((current) / total) * 100
+  const isWrongAnswer = revealed && selected !== null && selected !== question.correctAlternative
+
+  async function handleExplain() {
+    if (!token || explaining || explainUsed) return
+    setExplaining(true)
+    try {
+      const res = await fetch('/api/explicar', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${token}` },
+        body: JSON.stringify({
+          question_title: question.title,
+          correct_alternative: question.correctAlternative,
+          alternatives: question.alternatives,
+          discipline: question.discipline,
+          year: question.year,
+        }),
+      })
+      const data = await res.json()
+      if (data.explanation) setExplanation(data.explanation)
+    } catch { /* non-fatal */ }
+    setExplaining(false)
+    setExplainUsed(true)
+  }
 
   return (
     <div>
@@ -354,18 +408,21 @@ function ActiveScreen({
       <div className="text-xs text-zinc-400 mb-3 flex gap-3">
         <span>ENEM {question.year}</span>
         <span>·</span>
-        <span>{question.discipline}</span>
+        <span>{question.discipline.split(',')[0]}</span>
         <span>·</span>
         <span>Questão {current + 1} de {total}</span>
       </div>
 
       <div className="bg-white rounded-2xl border border-zinc-200 p-6 mb-4">
-        {/* Imagens da questão */}
-        {question.files?.filter((f) => f.type === 'image').map((f, i) => (
-          // eslint-disable-next-line @next/next/no-img-element
-          <img key={i} src={f.src} alt="" className="max-w-full rounded-lg mb-4" />
-        ))}
-        <p className="text-zinc-800 text-sm leading-relaxed">{question.alternativesIntroduction}</p>
+        {question.context && (
+          <div className="pb-4 mb-4 border-b border-zinc-100">
+            <QuestionText text={question.context} />
+          </div>
+        )}
+        {question.alternativesIntroduction && (
+          <p className="text-sm text-zinc-600 mb-3 italic">{question.alternativesIntroduction}</p>
+        )}
+        {question.title && <QuestionText text={question.title} />}
       </div>
 
       <div className="space-y-3 mb-6">
@@ -394,6 +451,26 @@ function ActiveScreen({
           )
         })}
       </div>
+
+      {/* Explicação após resposta errada */}
+      {revealed && isWrongAnswer && !explainUsed && !explaining && (
+        <button onClick={handleExplain}
+          className="w-full mb-3 border border-indigo-300 text-indigo-700 py-3 rounded-xl text-sm font-medium hover:bg-indigo-50 transition-colors">
+          Ver explicação da IA (1x grátis por questão)
+        </button>
+      )}
+      {revealed && explaining && (
+        <div className="w-full mb-3 text-center text-sm text-zinc-400 py-3">A IA está gerando a explicação...</div>
+      )}
+      {explanation && (
+        <div className="bg-indigo-50 border border-indigo-200 rounded-xl p-4 mb-3">
+          <div className="flex items-center gap-2 mb-2">
+            <span>🤖</span>
+            <span className="text-sm font-semibold text-indigo-900">Explicação da IA</span>
+          </div>
+          <p className="text-sm text-indigo-800 leading-relaxed whitespace-pre-wrap">{explanation}</p>
+        </div>
+      )}
 
       {revealed && (
         <button onClick={onNext}
