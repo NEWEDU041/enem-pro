@@ -385,6 +385,7 @@ function ActiveScreen({
         method: 'POST',
         headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${token}` },
         body: JSON.stringify({
+          question_id: question.id,
           question_title: question.title,
           correct_alternative: question.correctAlternative,
           alternatives: question.alternatives,

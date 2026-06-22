@@ -12,11 +12,23 @@ export async function POST(request: NextRequest) {
   if (!auth.ok) return auth.response
   const { userId } = auth
 
-  const anthropic = new Anthropic({ apiKey: cleanEnv(process.env.ANTHROPIC_API_KEY) })
   const supabase = createServerClient()
 
   const body = await request.json()
-  const { question_title, correct_alternative, alternatives, discipline, year } = body
+  const { question_id, question_title, correct_alternative, alternatives, discipline, year } = body
+
+  // 1. Check explanation cache first — avoids any AI cost if already generated
+  if (question_id) {
+    const { data: cached } = await supabase
+      .from('question_explanations')
+      .select('explanation')
+      .eq('question_id', question_id)
+      .maybeSingle()
+
+    if (cached?.explanation) {
+      return NextResponse.json({ explanation: cached.explanation, cached: true })
+    }
+  }
 
   const { data: sub, error: subError } = await supabase.from('subscriptions').select('plan, expires_at').eq('user_id', userId).maybeSingle()
 
@@ -49,12 +61,14 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: 'Plano Pro necessário', freeTrialUsed: true }, { status: 403 })
     }
 
-    // Increment free explanation counter
     await supabase.from('daily_usage').upsert(
       { user_id: userId, date: today, explanation_count: usedToday + 1 },
       { onConflict: 'user_id,date' }
     )
   }
+
+  // 2. Cache miss — call Anthropic
+  const anthropic = new Anthropic({ apiKey: cleanEnv(process.env.ANTHROPIC_API_KEY) })
 
   const alternativesText = alternatives
     .map((a: { letter: string; text: string }) => `${a.letter}) ${a.text}`)
@@ -93,5 +107,16 @@ Explique por que a alternativa ${correct_alternative} é a correta e por que as 
     return NextResponse.json({ error: 'Resposta vazia da IA' }, { status: 500 })
   }
 
-  return NextResponse.json({ explanation: textBlock.text })
+  const explanation = textBlock.text
+
+  // 3. Save to cache for all future users (non-blocking)
+  if (question_id) {
+    supabase.from('question_explanations').insert({
+      question_id,
+      explanation,
+      model: 'claude-haiku-4-5-20251001',
+    }).then(() => {}).catch(() => {})
+  }
+
+  return NextResponse.json({ explanation })
 }

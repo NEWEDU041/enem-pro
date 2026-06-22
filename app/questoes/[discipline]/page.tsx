@@ -1,4 +1,4 @@
-'use client'
+﻿'use client'
 
 import { useEffect, useState, useCallback, Suspense } from 'react'
 import Link from 'next/link'
@@ -47,7 +47,7 @@ export default function QuestionPage() {
 }
 
 function QuestionContent() {
-  const { id } = useParams<{ id: string }>()
+  const { discipline: id } = useParams<{ discipline: string }>()
   const searchParams = useSearchParams()
   const year = searchParams.get('year') || id.split('-')[0]
   const router = useRouter()
@@ -168,6 +168,7 @@ function QuestionContent() {
         ...(session?.access_token ? { Authorization: `Bearer ${session.access_token}` } : {}),
       },
       body: JSON.stringify({
+        question_id: question.id,
         question_title: question.title,
         correct_alternative: question.correctAlternative,
         alternatives: question.alternatives,
