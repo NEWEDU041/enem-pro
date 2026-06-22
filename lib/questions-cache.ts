@@ -2,7 +2,7 @@ import { fetchQuestionsByYear, fetchSingleQuestion } from './enem-api'
 import { createServerClient } from './supabase'
 import type { Question } from './types'
 
-const CACHE_TTL_DAYS = 7
+const CACHE_TTL_DAYS = 365
 
 async function getCachedYear(year: number): Promise<Question[] | null> {
   try {
