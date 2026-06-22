@@ -20,10 +20,23 @@ function MarkdownText({ text, className }: { text: string; className?: string })
             const img = part.match(/^!\[([^\]]*)\]\(([^)]+)\)$/)
             if (img) {
               const src = img[2]
-              if (src.includes('enem.dev') || src.includes('broken-image')) return null
+              if (src.includes('broken-image')) return null
               return (
-                <img key={i} src={src} alt={img[1] || 'imagem'} className="max-w-full my-2 rounded"
-                  onError={(e) => { (e.target as HTMLImageElement).style.display = 'none' }} />
+                <span key={i} className="block my-3">
+                  <img
+                    src={src}
+                    alt={img[1] || 'imagem da questão'}
+                    className="max-w-full rounded border border-zinc-100"
+                    onError={(e) => {
+                      const el = e.currentTarget
+                      el.style.display = 'none'
+                      const msg = document.createElement('div')
+                      msg.className = 'text-xs text-amber-700 bg-amber-50 border border-amber-200 rounded px-3 py-2'
+                      msg.textContent = '⚠️ Esta questão contém uma imagem que não pôde ser carregada. Consulte o caderno oficial do ENEM para visualizar.'
+                      el.parentNode?.appendChild(msg)
+                    }}
+                  />
+                </span>
               )
             }
             return part
@@ -325,7 +338,9 @@ function QuestionContent() {
                   }`}>
                     {alt.letter}
                   </span>
-                  <span className="text-sm text-zinc-700 leading-relaxed pt-1">{alt.text}</span>
+                  <span className="text-sm text-zinc-700 leading-relaxed pt-1">
+                    {alt.text || <span className="italic text-zinc-400">(alternativa com imagem — veja o caderno oficial do ENEM)</span>}
+                  </span>
                   {status !== 'idle' && isCorrectAlt && (
                     <span className="ml-auto shrink-0 text-green-600 text-lg">✓</span>
                   )}

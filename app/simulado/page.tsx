@@ -347,8 +347,24 @@ function QuestionText({ text }: { text: string }) {
             const img = part.match(/^!\[([^\]]*)\]\(([^)]+)\)$/)
             if (img) {
               const src = img[2]
-              if (src.includes('enem.dev') || src.includes('broken-image')) return null
-              return <img key={i} src={src} alt={img[1] || ''} className="max-w-full my-2 rounded" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none' }} />
+              if (src.includes('broken-image')) return null
+              return (
+                <span key={i} className="block my-2">
+                  <img
+                    src={src}
+                    alt={img[1] || 'imagem da questão'}
+                    className="max-w-full rounded border border-zinc-100"
+                    onError={(e) => {
+                      const el = e.currentTarget
+                      el.style.display = 'none'
+                      const msg = document.createElement('span')
+                      msg.className = 'text-xs text-amber-700 bg-amber-50 border border-amber-200 rounded px-2 py-1 block'
+                      msg.textContent = '⚠️ Imagem não disponível. Consulte o caderno oficial do ENEM.'
+                      el.parentNode?.appendChild(msg)
+                    }}
+                  />
+                </span>
+              )
             }
             return part
           })}
@@ -454,7 +470,7 @@ function ActiveScreen({
               <span className={`font-bold w-6 shrink-0 ${isCorrect ? 'text-green-600' : isWrong ? 'text-red-500' : 'text-indigo-600'}`}>
                 {alt.letter}
               </span>
-              <span>{alt.text}</span>
+              <span>{alt.text || <span className="italic text-zinc-400 text-xs">(imagem — veja caderno oficial)</span>}</span>
               {isCorrect && <span className="ml-auto text-green-500 shrink-0">✓</span>}
               {isWrong && <span className="ml-auto text-red-400 shrink-0">✗</span>}
             </button>
