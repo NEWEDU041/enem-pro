@@ -1,6 +1,6 @@
 import { createServerClient } from '@/lib/supabase'
 
-const FREE_DAILY_LIMIT = 5
+const FREE_DAILY_EXPLANATION_LIMIT = 10
 
 export async function checkRateLimit(
   userId: string,
@@ -18,7 +18,7 @@ export async function checkRateLimit(
     .maybeSingle()
 
   const usedToday = usage?.explanation_count ?? 0
-  if (usedToday >= FREE_DAILY_LIMIT) {
+  if (usedToday >= FREE_DAILY_EXPLANATION_LIMIT) {
     // Retry at midnight UTC
     const now = new Date()
     const midnight = new Date(now)

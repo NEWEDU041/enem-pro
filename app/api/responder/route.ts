@@ -20,7 +20,7 @@ export async function POST(request: NextRequest) {
 
   const today = new Date().toISOString().split('T')[0]
 
-  const { data: sub } = await supabase.from('subscriptions').select('plan, expires_at').eq('user_id', user_id).single()
+  const { data: sub } = await supabase.from('subscriptions').select('plan, expires_at').eq('user_id', user_id).maybeSingle()
   const userIsPro = isPro(sub)
 
   if (!userIsPro) {

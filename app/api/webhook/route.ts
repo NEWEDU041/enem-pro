@@ -60,7 +60,7 @@ export async function POST(request: NextRequest) {
         {
           user_id: userId,
           plan: 'pro',
-          expires_at: new Date(((sub as unknown as Record<string, number>).current_period_end ?? 0) * 1000 || Date.now() + 30 * 864e5).toISOString(),
+          expires_at: new Date(((sub as Stripe.Subscription & { current_period_end?: number }).current_period_end ?? 0) * 1000 || Date.now() + 30 * 864e5).toISOString(),
           stripe_subscription_id: sub.id,
           stripe_customer_id: sub.customer as string,
           updated_at: new Date().toISOString(),

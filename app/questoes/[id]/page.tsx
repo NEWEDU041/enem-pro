@@ -61,6 +61,7 @@ function QuestionContent() {
   const [explanation, setExplanation] = useState('')
   const [limitReached, setLimitReached] = useState(false)
   const [freeExplainAvailable, setFreeExplainAvailable] = useState(true)
+  const [explainErrorMsg, setExplainErrorMsg] = useState('')
   const [loading, setLoading] = useState(true)
   const [elapsed, setElapsed] = useState(0)
   const [starred, setStarred] = useState(false)
@@ -73,7 +74,7 @@ function QuestionContent() {
 
       const [qRes, subRes] = await Promise.all([
         fetch(`/api/questoes/${id}?year=${year}`),
-        supabase.from('subscriptions').select('plan, expires_at').eq('user_id', user.id).single(),
+        supabase.from('subscriptions').select('plan, expires_at').eq('user_id', user.id).maybeSingle(),
       ])
 
       const qData = await qRes.json()
@@ -182,7 +183,11 @@ function QuestionContent() {
       return
     }
     if (!data.explanation) {
-      setFreeExplainAvailable(false)
+      setExplainErrorMsg(
+        res.status === 500
+          ? 'Serviço de IA temporariamente indisponível. Tente novamente mais tarde.'
+          : 'Não foi possível gerar a explicação.'
+      )
       setStatus('answered')
       return
     }
@@ -343,7 +348,9 @@ function QuestionContent() {
               <span className="ml-auto text-xs text-zinc-400 font-mono">{mm}:{ss}</span>
             </div>
 
-            {isPro ? (
+            {explainErrorMsg ? (
+              <div className="mt-3 bg-amber-50 border border-amber-200 rounded-xl p-3 text-sm text-amber-800">{explainErrorMsg}</div>
+            ) : isPro ? (
               <button
                 onClick={handleExplain}
                 className="mt-3 bg-indigo-600 text-white px-6 py-2.5 rounded-lg text-sm font-semibold hover:bg-indigo-700 transition-colors"

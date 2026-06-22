@@ -373,6 +373,7 @@ function ActiveScreen({
   const [explanation, setExplanation] = useState<string>('')
   const [explaining, setExplaining] = useState<boolean>(false)
   const [explainUsed, setExplainUsed] = useState<boolean>(false)
+  const [explainError, setExplainError] = useState<string>('')
   const progress = ((current) / total) * 100
   const isWrongAnswer = revealed && selected !== null && selected !== question.correctAlternative
 
@@ -392,8 +393,16 @@ function ActiveScreen({
         }),
       })
       const data = await res.json()
-      if (data.explanation) setExplanation(data.explanation)
-    } catch { /* non-fatal */ }
+      if (data.explanation) {
+        setExplanation(data.explanation)
+      } else if (data.freeTrialUsed) {
+        setExplainError('Você já usou a explicação grátis hoje. Assine o Pro para explicações ilimitadas.')
+      } else {
+        setExplainError('Serviço de IA temporariamente indisponível. Tente novamente mais tarde.')
+      }
+    } catch {
+      setExplainError('Erro de conexão. Verifique sua internet e tente novamente.')
+    }
     setExplaining(false)
     setExplainUsed(true)
   }
@@ -461,6 +470,9 @@ function ActiveScreen({
       )}
       {revealed && explaining && (
         <div className="w-full mb-3 text-center text-sm text-zinc-400 py-3">A IA está gerando a explicação...</div>
+      )}
+      {explainError && (
+        <div className="bg-amber-50 border border-amber-200 rounded-xl p-3 mb-3 text-sm text-amber-800">{explainError}</div>
       )}
       {explanation && (
         <div className="bg-indigo-50 border border-indigo-200 rounded-xl p-4 mb-3">

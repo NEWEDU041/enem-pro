@@ -88,7 +88,10 @@ Explique por que a alternativa ${correct_alternative} é a correta e por que as 
     return NextResponse.json({ error: 'Erro ao gerar explicação', detail: msg }, { status: 500 })
   }
 
-  const explanation = (message.content[0] as { type: string; text: string }).text
+  const textBlock = message.content.find((b) => b.type === 'text') as { type: string; text: string } | undefined
+  if (!textBlock?.text) {
+    return NextResponse.json({ error: 'Resposta vazia da IA' }, { status: 500 })
+  }
 
-  return NextResponse.json({ explanation })
+  return NextResponse.json({ explanation: textBlock.text })
 }
