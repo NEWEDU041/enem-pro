@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
-import { useSearchParams } from 'next/navigation'
+import { useSearchParams, useRouter } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
 import { Suspense } from 'react'
 
@@ -18,6 +18,7 @@ export default function RegisterPage() {
 
 function RegisterForm() {
   const searchParams = useSearchParams()
+  const router = useRouter()
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
   const [name, setName] = useState('')
@@ -39,19 +40,24 @@ function RegisterForm() {
     }
     setLoading(true)
     setError('')
-    const { error } = await supabase.auth.signUp({
+    const { error: signUpError } = await supabase.auth.signUp({
       email,
       password,
-      options: {
-        data: { name },
-        emailRedirectTo: `${window.location.origin}/auth/callback?next=/dashboard`,
-      },
+      options: { data: { name } },
     })
-    if (error) {
-      setError(error.message)
+    if (signUpError) {
+      setError(signUpError.message)
       setLoading(false)
-    } else {
+      return
+    }
+    // Auto-confirmed via DB trigger — login imediato
+    const { error: loginError } = await supabase.auth.signInWithPassword({ email, password })
+    if (loginError) {
+      // Fallback: show done state (user can login manually)
       setDone(true)
+    } else {
+      const next = searchParams.get('next') || '/dashboard'
+      router.push(next)
     }
   }
 
