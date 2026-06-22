@@ -111,11 +111,11 @@ Explique por que a alternativa ${correct_alternative} é a correta e por que as 
 
   // 3. Save to cache for all future users (non-blocking)
   if (question_id) {
-    supabase.from('question_explanations').insert({
+    void supabase.from('question_explanations').insert({
       question_id,
       explanation,
       model: 'claude-haiku-4-5-20251001',
-    }).then(() => {}).catch(() => {})
+    })
   }
 
   return NextResponse.json({ explanation })
