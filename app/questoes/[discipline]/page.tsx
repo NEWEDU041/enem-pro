@@ -338,8 +338,17 @@ function QuestionContent() {
                   }`}>
                     {alt.letter}
                   </span>
-                  <span className="text-sm text-zinc-700 leading-relaxed pt-1">
-                    {alt.text || <span className="italic text-zinc-400">(alternativa com imagem — veja o caderno oficial do ENEM)</span>}
+                  <span className="text-sm text-zinc-700 leading-relaxed pt-1 flex-1">
+                    {alt.file ? (
+                      <img
+                        src={alt.file}
+                        alt={`Alternativa ${alt.letter}`}
+                        className="max-w-full max-h-40 rounded"
+                        onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none' }}
+                      />
+                    ) : (
+                      alt.text
+                    )}
                   </span>
                   {status !== 'idle' && isCorrectAlt && (
                     <span className="ml-auto shrink-0 text-green-600 text-lg">✓</span>

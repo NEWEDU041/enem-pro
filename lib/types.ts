@@ -1,6 +1,7 @@
 export interface Alternative {
   letter: string
   text: string
+  file?: string | null
   isCorrect?: boolean
 }
 

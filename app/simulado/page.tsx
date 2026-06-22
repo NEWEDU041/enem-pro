@@ -470,7 +470,18 @@ function ActiveScreen({
               <span className={`font-bold w-6 shrink-0 ${isCorrect ? 'text-green-600' : isWrong ? 'text-red-500' : 'text-indigo-600'}`}>
                 {alt.letter}
               </span>
-              <span>{alt.text || <span className="italic text-zinc-400 text-xs">(imagem — veja caderno oficial)</span>}</span>
+              <span className="flex-1">
+                {alt.file ? (
+                  <img
+                    src={alt.file}
+                    alt={`Alternativa ${alt.letter}`}
+                    className="max-w-full max-h-36 rounded"
+                    onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none' }}
+                  />
+                ) : (
+                  alt.text
+                )}
+              </span>
               {isCorrect && <span className="ml-auto text-green-500 shrink-0">✓</span>}
               {isWrong && <span className="ml-auto text-red-400 shrink-0">✗</span>}
             </button>
