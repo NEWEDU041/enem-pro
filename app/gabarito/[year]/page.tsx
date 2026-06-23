@@ -4,7 +4,8 @@ import { notFound } from 'next/navigation'
 import { fetchQuestionsByYearCached } from '@/lib/questions-cache'
 import { SITE_URL } from '@/lib/site-config'
 
-const VALID_YEARS = [2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
+// API enem.dev only provides data for years up to 2023
+const VALID_YEARS = [2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
 
 export async function generateStaticParams() {
   return VALID_YEARS.map((year) => ({ year: String(year) }))
@@ -13,7 +14,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ year: string }> }): Promise<Metadata> {
   const { year } = await params
   return {
-    title: `Gabarito ENEM ${year} — Todas as Disciplinas | ENEM Pro`,
+    title: `Gabarito ENEM ${year} — Todas as Disciplinas`,
     description: `Gabarito oficial do ENEM ${year} completo: Matemática, Linguagens, Ciências Humanas e Ciências da Natureza. Veja as respostas corretas de todas as questões.`,
     alternates: { canonical: `${SITE_URL}/gabarito/${year}` },
     openGraph: {

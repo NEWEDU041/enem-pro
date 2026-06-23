@@ -5,7 +5,7 @@ import DemoQuestion from '@/components/DemoQuestion'
 import { SITE_URL } from '@/lib/site-config'
 
 export const metadata: Metadata = {
-  title: 'Questão do Dia ENEM 2026 — Pratique Grátis Todo Dia | ENEM Pro',
+  title: 'Questão do Dia ENEM 2026 — Pratique Grátis Todo Dia',
   description: 'Uma questão nova do ENEM todo dia, rotacionando entre Matemática, Humanas, Linguagens e Ciências da Natureza. Veja o gabarito e treine a consistência.',
   alternates: { canonical: `${SITE_URL}/questao-do-dia` },
   openGraph: {

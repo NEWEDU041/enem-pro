@@ -4,7 +4,7 @@ import CalcularNotaClient from '@/components/CalcularNotaClient'
 import { SITE_URL } from '@/lib/site-config'
 
 export const metadata: Metadata = {
-  title: 'Calculadora de Nota ENEM 2026 — Estimativa TRI por Área | ENEM Pro',
+  title: 'Calculadora de Nota ENEM 2026 — Estimativa TRI por Área',
   description: 'Calcule sua nota estimada no ENEM com base nos acertos por área. Usa a curva TRI e compara com notas de corte do SISU para Medicina, Direito, Engenharia e mais.',
   alternates: { canonical: `${SITE_URL}/calcular-nota` },
   openGraph: {

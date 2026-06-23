@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { SITE_URL } from '@/lib/site-config'
 
 export const metadata: Metadata = {
-  title: 'Gabarito ENEM — Todas as Edições 2009 a 2024 | ENEM Pro',
+  title: 'Gabarito ENEM — Todas as Edições 2009 a 2024',
   description: 'Gabarito oficial do ENEM de todas as edições de 2009 a 2024. Matemática, Linguagens, Ciências Humanas e Ciências da Natureza com respostas corretas.',
   alternates: { canonical: `${SITE_URL}/gabarito` },
 }

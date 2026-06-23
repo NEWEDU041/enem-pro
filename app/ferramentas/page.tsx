@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { SITE_URL } from '@/lib/site-config'
 
 export const metadata: Metadata = {
-  title: 'Ferramentas ENEM 2026 — Calculadoras e Recursos Gratuitos | ENEM Pro',
+  title: 'Ferramentas ENEM 2026 — Calculadoras e Recursos Gratuitos',
   description: 'Ferramentas gratuitas para o ENEM: calculadora de nota TRI, simulado, cronograma de estudos, gabarito oficial, temas de redação e questão do dia.',
   alternates: { canonical: `${SITE_URL}/ferramentas` },
 }

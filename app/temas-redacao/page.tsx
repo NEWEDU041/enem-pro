@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { SITE_URL } from '@/lib/site-config'
 
 export const metadata: Metadata = {
-  title: 'Temas da Redação do ENEM — 2009 a 2024 | ENEM Pro',
+  title: 'Temas da Redação do ENEM — 2009 a 2024',
   description: 'Lista completa dos temas da redação do ENEM de 2009 a 2024. Veja os temas já cobrados, analise padrões e prepare sua redação para o ENEM 2026.',
   alternates: { canonical: `${SITE_URL}/temas-redacao` },
   openGraph: {
