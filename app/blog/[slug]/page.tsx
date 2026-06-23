@@ -45,7 +45,25 @@ function renderContent(content: string) {
   while (i < lines.length) {
     const line = lines[i]
 
-    if (line.startsWith('## ')) {
+    if (line.startsWith('![')) {
+      elements.push(
+        <p key={i} dangerouslySetInnerHTML={{ __html: formatInline(line) }} />
+      )
+    } else if (line.startsWith('> ')) {
+      const bqLines: string[] = []
+      while (i < lines.length && lines[i].startsWith('> ')) {
+        bqLines.push(lines[i].slice(2))
+        i++
+      }
+      elements.push(
+        <blockquote key={`bq-${i}`} className="border-l-4 border-indigo-400 pl-4 py-2 my-4 bg-indigo-50 rounded-r-xl text-zinc-700 italic">
+          {bqLines.map((bl, j) => (
+            <p key={j} dangerouslySetInnerHTML={{ __html: formatInline(bl) }} />
+          ))}
+        </blockquote>
+      )
+      continue
+    } else if (line.startsWith('## ')) {
       elements.push(
         <h2 key={i} className="text-2xl font-bold text-zinc-900 mt-10 mb-4">
           {line.slice(3)}
@@ -158,6 +176,9 @@ function getInternalLinks(slug: string): { href: string; label: string }[] {
 
 function formatInline(text: string): string {
   return text
+    .replace(/!\[([^\]]*)\]\(([^)]+)\)/g, '<img src="$2" alt="$1" class="w-full rounded-xl my-4" loading="lazy" />')
+    .replace(/\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer" class="text-indigo-600 hover:underline font-medium">$1</a>')
+    .replace(/\[([^\]]+)\]\(\/([^)]+)\)/g, '<a href="/$2" class="text-indigo-600 hover:underline font-medium">$1</a>')
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
     .replace(/\*(.+?)\*/g, '<em>$1</em>')
     .replace(/`(.+?)`/g, '<code class="bg-zinc-100 px-1 py-0.5 rounded text-sm font-mono">$1</code>')
