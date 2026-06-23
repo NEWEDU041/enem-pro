@@ -20,7 +20,7 @@ interface Question {
   title: string
   context?: string
   alternativesIntroduction?: string
-  alternatives: { letter: string; text: string }[]
+  alternatives: { letter: string; text: string; file?: string | null }[]
   correctAlternative: string
   files?: { type: string; src: string }[]
 }
