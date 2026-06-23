@@ -98,7 +98,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const disc = DISCIPLINES_MAP[slug]
   if (!disc) return {}
   return {
-    title: `Questões ENEM ${disc.name} 2009–2024 | ENEM Pro`,
+    title: `Questões ENEM ${disc.name} 2009–2024`,
     description: disc.desc,
     alternates: { canonical: `${SITE_URL}/disciplinas/${slug}` },
     openGraph: {
@@ -115,7 +115,7 @@ const COLOR_MAP: Record<string, { badge: string; btn: string; card: string; ring
   emerald: { badge: 'bg-emerald-50 text-emerald-700', btn: 'bg-emerald-600 hover:bg-emerald-700 text-white', card: 'border-emerald-100 bg-emerald-50', ring: 'ring-emerald-200' },
 }
 
-const YEARS = [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009]
+const YEARS = [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009]
 
 export default async function DisciplinaPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params

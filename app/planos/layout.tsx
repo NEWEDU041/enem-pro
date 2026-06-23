@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import { SITE_URL } from '@/lib/site-config'
 
 export const metadata: Metadata = {
-  title: 'Planos e Preços — ENEM Pro | Questões Ilimitadas + IA',
+  title: 'Planos e Preços — Questões Ilimitadas + IA',
   description: 'Assine o ENEM Pro e acesse questões ilimitadas do ENEM 2009–2024 com explicação por IA em cada resposta. Plano Pro por R$14,90/mês. Cancele quando quiser.',
   alternates: { canonical: `${SITE_URL}/planos` },
   openGraph: {

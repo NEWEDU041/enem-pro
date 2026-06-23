@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: { params: Promise<{ disciplin
   if (!disc) return {}
   const shortDisc = disc.split(',')[0]
   return {
-    title: `Questões de ${shortDisc} ENEM ${year} com gabarito — ENEM Pro`,
+    title: `Questões de ${shortDisc} ENEM ${year} — com Gabarito e IA`,
     description: `Pratique todas as questões de ${shortDisc} do ENEM ${year} com gabarito oficial e explicação por IA. Treine grátis.`,
     alternates: { canonical: `${SITE_URL}/questoes/${discipline}/${year}` },
   }

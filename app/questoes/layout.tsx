@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Questões ENEM 2009–2024 — Todas as Disciplinas | ENEM Pro',
+  title: 'Questões ENEM 2009–2024 — Todas as Disciplinas',
   description: 'Pratique com mais de 3.600 questões reais do ENEM de 2009 a 2024. Filtre por ano e disciplina. Gabarito imediato e explicação por IA no Plano Pro.',
   openGraph: {
     title: 'Questões ENEM 2009–2024 | ENEM Pro',

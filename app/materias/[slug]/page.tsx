@@ -259,7 +259,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const m = MATERIAS[slug]
   if (!m) return {}
   return {
-    title: `${m.name} no ENEM — O que Cai, Dicas e Questões | ENEM Pro`,
+    title: `${m.name} no ENEM — O que Cai, Dicas e Questões`,
     description: m.desc,
     alternates: { canonical: `${SITE_URL}/materias/${slug}` },
     openGraph: { title: `${m.name} no ENEM`, description: m.desc },
@@ -385,7 +385,7 @@ export default async function MateriaPage({ params }: { params: Promise<{ slug: 
           <div className="bg-white rounded-2xl border border-zinc-200 p-6">
             <h2 className="font-bold text-zinc-900 mb-4">Questões por Ano — {m.name}</h2>
             <div className="flex flex-wrap gap-2">
-              {[2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009].map(year => (
+              {[2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009].map(year => (
                 <Link
                   key={year}
                   href={`/questoes/${m.areaSlug}/${year}`}
