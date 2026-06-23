@@ -51,9 +51,11 @@ export async function GET() {
 
   const results: Record<string, number> = {}
 
+  // IndexNow: Bing + Yandex (Google uses sitemap ping instead)
   for (const endpoint of [
     'https://api.indexnow.org/indexnow',
     'https://www.bing.com/indexnow',
+    'https://yandex.com/indexnow',
   ]) {
     try {
       const res = await fetch(endpoint, {
@@ -67,5 +69,19 @@ export async function GET() {
     }
   }
 
-  return NextResponse.json({ submitted: urlList.length, results })
+  // Google sitemap ping (signals Google to re-crawl sitemap)
+  try {
+    const sitemapUrl = encodeURIComponent(`${BASE}/sitemap.xml`)
+    const googlePing = await fetch(`https://www.google.com/ping?sitemap=${sitemapUrl}`)
+    results['google_sitemap_ping'] = googlePing.status
+  } catch {
+    results['google_sitemap_ping'] = 0
+  }
+
+  return NextResponse.json({
+    submitted: urlList.length,
+    results,
+    sitemap: `${BASE}/sitemap.xml`,
+    hint: 'Para indexação no Google Search Console, acesse: https://search.google.com/search-console e submeta o sitemap manualmente.',
+  })
 }

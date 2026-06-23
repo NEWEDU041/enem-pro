@@ -51,6 +51,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }))
   )
 
+  // Posts recently expanded (June 2026) get lastModified updated for reindex
+  const RECENTLY_UPDATED = new Set([
+    'questoes-matematica-enem-2022', 'questoes-matematica-enem-2021', 'questoes-matematica-enem-2020',
+    'questoes-ciencias-natureza-enem-2022', 'questoes-ciencias-natureza-enem-2021', 'questoes-ciencias-natureza-enem-2020',
+    'questoes-humanas-enem-2022', 'questoes-humanas-enem-2021', 'questoes-humanas-enem-2020',
+    'questoes-linguagens-enem-2022', 'questoes-linguagens-enem-2021', 'questoes-linguagens-enem-2020',
+  ])
+
   const blogPages: MetadataRoute.Sitemap = getAllPosts().map(post => {
     const isHighPriority =
       post.slug.includes('gabarito') ||
@@ -61,7 +69,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
       post.slug.includes('sisu') ||
       post.slug.includes('prouni') ||
       post.slug.includes('redacao-enem') ||
-      post.slug.includes('redacao-enem-conclusao') ||
       post.slug.includes('matematica-financeira') ||
       post.slug.includes('cronograma-enem') ||
       post.slug.includes('como-estudar') ||
@@ -69,11 +76,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
       post.slug.includes('banco-de-questoes') ||
       post.slug.includes('enem-2026') ||
       post.slug.includes('enem-2025') ||
-      post.slug.includes('como-estudar') ||
       post.slug.includes('analise-prova')
     return {
       url: `${base}/blog/${post.slug}`,
-      lastModified: new Date(post.date),
+      lastModified: RECENTLY_UPDATED.has(post.slug) ? D('2026-06-23') : new Date(post.date),
       changeFrequency: 'yearly' as const,
       priority: isHighPriority ? 0.8 : 0.65,
     }
