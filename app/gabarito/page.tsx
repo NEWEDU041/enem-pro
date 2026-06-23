@@ -3,12 +3,12 @@ import Link from 'next/link'
 import { SITE_URL } from '@/lib/site-config'
 
 export const metadata: Metadata = {
-  title: 'Gabarito ENEM — Todas as Edições 2009 a 2024',
-  description: 'Gabarito oficial do ENEM de todas as edições de 2009 a 2024. Matemática, Linguagens, Ciências Humanas e Ciências da Natureza com respostas corretas.',
+  title: 'Gabarito ENEM — Todas as Edições 2009 a 2023',
+  description: 'Gabarito oficial do ENEM de todas as edições de 2009 a 2023. Matemática, Linguagens, Ciências Humanas e Ciências da Natureza com respostas corretas.',
   alternates: { canonical: `${SITE_URL}/gabarito` },
 }
 
-const YEARS = [2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
+const YEARS = [2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
 
 const YEAR_INFO: Record<number, { candidates: string; highlight: string }> = {
   2024: { candidates: '4,3 milhões', highlight: 'Maior edição dos últimos anos' },
