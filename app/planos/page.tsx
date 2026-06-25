@@ -84,8 +84,8 @@ export default function PlanosPage() {
             </button>
           </div>
         )}
-        <h1 className="text-4xl font-bold mb-4">Escolha seu plano</h1>
-        <p className="text-zinc-500 mb-14">Comece grátis. Assine quando quiser mais.</p>
+        <h1 className="text-4xl font-bold mb-4">Pratique as questões reais do ENEM até passar</h1>
+        <p className="text-zinc-500 mb-14">Comece grátis hoje, sem cartão. Faça upgrade quando quiser questões ilimitadas e a IA explicando cada erro.</p>
 
         {(() => {
           const enem = new Date('2026-10-26')
