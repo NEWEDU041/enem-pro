@@ -42,3 +42,17 @@ next-env.d.ts
 
 .vercel
 .env*.local
+.env*
+
+# scripts: artefatos temporários e backups
+scripts/__pycache__/
+scripts/backups/
+scripts/audit_report.json
+scripts/debug*.py
+scripts/fix*.py
+scripts/show*.py
+scripts/check_*.py
+scripts/retry_*.py
+scripts/score_dist.py
+scripts/populate_explanations.py
+scripts/update_alt_images.py

@@ -288,7 +288,7 @@ def main():
         llm_fixes = [f for t, f in fixes if t == "LLM"]
         asset_fixes = [f for t, f in fixes if t == "ASSET"]
 
-        reachable = "✓ CAN REACH 90" if script_gain >= gap else f"needs +{gap}, script+{script_gain}"
+        reachable = "CAN REACH 90" if script_gain >= gap else f"needs +{gap}, script+{script_gain}"
 
         for _, fix in fixes:
             key = fix.split(":")[0]
@@ -314,7 +314,7 @@ def main():
             reachable_count += 1
 
     print(f"\nPosts that CAN reach 90 via script alone: {reachable_count}/{len(targets)}")
-    print(f"Posts needing LLM/assets: {len(targets) - reachable_count}/{len(targets)}")
+    print(f"Posts needing LLM/expansion: {len(targets) - reachable_count}/{len(targets)}")
 
 
 if __name__ == "__main__":

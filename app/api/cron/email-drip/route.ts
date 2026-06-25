@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
 import { sendDripEmail } from '@/lib/resend'
 import { cleanEnv } from '@/lib/utils'
+import { dripDailyGoogleIndex } from '@/lib/google-indexing'
 
 export const dynamic = 'force-dynamic'
 
@@ -105,5 +106,14 @@ export async function GET(req: NextRequest) {
     }
   }
 
-  return NextResponse.json({ ok: true, totalSent, results })
+  // Piggyback: drip diário de indexação no Google (10 posts/dia em rotação).
+  // Plano Hobby limita a 2 crons, então rodamos junto com o email-drip diário.
+  let googleIndex: Awaited<ReturnType<typeof dripDailyGoogleIndex>> | { error: string } = { error: 'skipped' }
+  try {
+    googleIndex = await dripDailyGoogleIndex()
+  } catch (e) {
+    googleIndex = { error: e instanceof Error ? e.message : 'unknown' }
+  }
+
+  return NextResponse.json({ ok: true, totalSent, results, googleIndex })
 }

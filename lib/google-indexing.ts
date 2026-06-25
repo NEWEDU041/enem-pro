@@ -1,7 +1,30 @@
 import { JWT } from 'google-auth-library'
+import { getAllSlugs } from '@/lib/blog-data'
+import { SITE_URL } from '@/lib/site-config'
 
 const INDEXING_API = 'https://indexing.googleapis.com/v3/urlNotifications:publish'
 const SCOPES = ['https://www.googleapis.com/auth/indexing']
+
+// Drip diário: domínio novo tem crawl budget baixo, então enviamos 10 posts/dia
+// em rotação ao invés de todos de uma vez. Prioriza os posts de maior valor.
+const DAILY_LIMIT = 10
+
+// Posts de maior potencial de busca — vão primeiro na rotação.
+const PRIORITY_SLUGS = [
+  'medicina-enem-nota-de-corte',
+  'redacao-enem-nota-1000',
+  'estrutura-redacao-enem',
+  'engenharia-nota-de-corte-enem',
+  'direito-nota-de-corte-enem',
+  'enem-nota-maxima',
+  'cursinho-online-enem',
+  'melhor-curso-pre-enem-online',
+  'questoes-matematica-enem-2022',
+  'questoes-matematica-enem-2021',
+  'questoes-ciencias-natureza-enem-2022',
+  'questoes-humanas-enem-2022',
+  'questoes-linguagens-enem-2022',
+]
 
 function getJwt(): JWT | null {
   const raw = process.env.GOOGLE_SERVICE_ACCOUNT_KEY
@@ -47,4 +70,37 @@ export async function notifyGoogleBatch(urls: string[]): Promise<{ url: string; 
     await new Promise(r => setTimeout(r, 200))
   }
   return results
+}
+
+// Ordena: prioritários primeiro (na ordem definida), depois o resto.
+function orderedSlugs(): string[] {
+  const all = getAllSlugs()
+  const prioritySet = new Set(PRIORITY_SLUGS)
+  const priorityExisting = PRIORITY_SLUGS.filter(s => all.includes(s))
+  const rest = all.filter(s => !prioritySet.has(s))
+  return [...priorityExisting, ...rest]
+}
+
+// Janela do dia: cicla por toda a lista a cada N dias.
+function dailyWindow(slugs: string[]): string[] {
+  const dayIndex = Math.floor(Date.now() / 86_400_000) // dias desde epoch
+  const windows = Math.ceil(slugs.length / DAILY_LIMIT)
+  const w = dayIndex % windows
+  return slugs.slice(w * DAILY_LIMIT, w * DAILY_LIMIT + DAILY_LIMIT)
+}
+
+// Drip diário de indexação: 10 posts/dia em rotação, prioritários primeiro.
+export async function dripDailyGoogleIndex() {
+  if (!process.env.GOOGLE_SERVICE_ACCOUNT_KEY) {
+    return { error: 'GOOGLE_SERVICE_ACCOUNT_KEY não configurada', total: 0, indexed: 0, fail: 0, urls: [] as string[] }
+  }
+
+  const slugs = orderedSlugs()
+  const batch = dailyWindow(slugs)
+  const urls = batch.map(s => `${SITE_URL}/blog/${s}`)
+
+  const results = await notifyGoogleBatch(urls)
+  const indexed = results.filter(r => r.status === 200).length
+
+  return { total: urls.length, indexed, fail: urls.length - indexed, urls }
 }
