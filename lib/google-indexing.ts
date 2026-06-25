@@ -11,6 +11,10 @@ const DAILY_LIMIT = 10
 
 // Posts de maior potencial de busca — vão primeiro na rotação.
 const PRIORITY_SLUGS = [
+  // Leva 25/06 — informacionais alto volume, indexar primeiro
+  'quantas-questoes-tem-o-enem',
+  'horario-prova-enem-2026',
+  'redacao-enem-quantas-linhas',
   // Leva 24/06 — alto volume sazonal, indexar primeiro
   'o-que-levar-no-dia-do-enem',
   'o-que-nao-pode-levar-no-enem',
