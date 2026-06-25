@@ -11,6 +11,15 @@ const DAILY_LIMIT = 10
 
 // Posts de maior potencial de busca — vão primeiro na rotação.
 const PRIORITY_SLUGS = [
+  // Leva 24/06 — alto volume sazonal, indexar primeiro
+  'o-que-levar-no-dia-do-enem',
+  'o-que-nao-pode-levar-no-enem',
+  'quantos-acertos-para-passar-no-enem',
+  'o-que-mais-cai-no-enem',
+  'local-de-prova-enem-2026',
+  'cartao-de-confirmacao-enem-2026',
+  'bolsa-prouni-100-como-conseguir',
+  'encceja-2026-certificado-ensino-medio',
   'medicina-enem-nota-de-corte',
   'redacao-enem-nota-1000',
   'estrutura-redacao-enem',
