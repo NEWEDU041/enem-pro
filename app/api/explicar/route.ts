@@ -78,21 +78,19 @@ export async function POST(request: NextRequest) {
   try {
     message = await anthropic.messages.create({
       model: 'claude-haiku-4-5-20251001',
-      max_tokens: 600,
-      system: `Você é um professor especialista no ENEM. Explique de forma clara, didática e objetiva por que a alternativa correta é a correta. Use no máximo 3 parágrafos. Não use markdown excessivo. Fale diretamente para o estudante.`,
+      max_tokens: 400,
+      system: `Explique por que a alternativa está correta. Use até 3 parágrafos. Sem markdown excessivo.`,
       messages: [
         {
           role: 'user',
-          content: `ENEM ${year} — ${discipline}
+          content: `${discipline} (ENEM ${year})
 
-Questão: ${question_title}
+${question_title}
 
 Alternativas:
 ${alternativesText}
 
-Alternativa correta: ${correct_alternative}
-
-Explique por que a alternativa ${correct_alternative} é a correta e por que as outras estão erradas.`,
+Correta: ${correct_alternative}`,
         },
       ],
     })
@@ -111,11 +109,11 @@ Explique por que a alternativa ${correct_alternative} é a correta e por que as 
 
   // 3. Save to cache for all future users (non-blocking)
   if (question_id) {
-    void supabase.from('question_explanations').insert({
+    void supabase.from('question_explanations').upsert({
       question_id,
       explanation,
       model: 'claude-haiku-4-5-20251001',
-    })
+    }, { onConflict: 'question_id' })
   }
 
   return NextResponse.json({ explanation })
