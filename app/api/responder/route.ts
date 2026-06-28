@@ -18,46 +18,31 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ error: 'Dados incompletos' }, { status: 400 })
   }
 
-  const today = new Date().toISOString().split('T')[0]
+  // Call optimized SQL function (1 query instead of 3)
+  const { data, error } = await supabase.rpc('record_answer', {
+    p_user_id: user_id,
+    p_question_id: question_id,
+    p_selected_alternative: selected_alternative,
+    p_correct_alternative: correct_alternative,
+    p_discipline: discipline || null,
+    p_year: year || null,
+    p_free_daily_limit: FREE_DAILY_LIMIT,
+  })
 
-  const { data: sub } = await supabase.from('subscriptions').select('plan, expires_at').eq('user_id', user_id).maybeSingle()
-  const userIsPro = isPro(sub)
+  if (error) {
+    console.error('[responder] SQL error:', error)
+    return NextResponse.json({ error: 'Erro ao registrar resposta' }, { status: 500 })
+  }
 
-  if (!userIsPro) {
-    const { data: usage } = await supabase
-      .from('daily_usage')
-      .select('count')
-      .eq('user_id', user_id)
-      .eq('date', today)
-      .maybeSingle()
-
-    const currentCount = usage?.count || 0
-
-    if (currentCount >= FREE_DAILY_LIMIT) {
-      return NextResponse.json(
-        { error: 'Limite diário atingido', limitReached: true },
-        { status: 403 }
-      )
-    }
-
-    // Upsert daily usage
-    await supabase.from('daily_usage').upsert(
-      { user_id, date: today, count: currentCount + 1 },
-      { onConflict: 'user_id,date' }
+  if (data?.error) {
+    return NextResponse.json(
+      { error: data.error, limitReached: data.limit_reached },
+      { status: 403 }
     )
   }
 
-  const is_correct = selected_alternative === correct_alternative
-
-  // Save answer
-  await supabase.from('user_answers').insert({
-    user_id,
-    question_id,
-    selected_alternative,
-    is_correct,
-    discipline: discipline || null,
-    year: year || null,
+  return NextResponse.json({
+    is_correct: data?.is_correct,
+    isPro: data?.is_pro,
   })
-
-  return NextResponse.json({ is_correct, isPro: userIsPro })
 }

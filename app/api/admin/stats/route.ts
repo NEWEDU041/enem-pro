@@ -11,52 +11,40 @@ export async function GET(request: NextRequest) {
   }
 
   const sb = createServerClient()
-  const today = new Date().toISOString().split('T')[0]
-  const weekAgo = new Date(Date.now() - 7 * 86400000).toISOString()
-  const thirtyDaysAgo = new Date(Date.now() - 30 * 86400000).toISOString().split('T')[0]
 
-  const [usersRes, answersRes, answersToday, newUsersWeek, proRes, dripRes, cacheRes, paywallRes, aiUsageRes] =
-    await Promise.all([
-      sb.from('user_profiles').select('*', { count: 'exact', head: true }),
-      sb.from('user_answers').select('*', { count: 'exact', head: true }),
-      sb.from('user_answers').select('*', { count: 'exact', head: true }).gte('answered_at', today),
-      sb.from('user_profiles').select('*', { count: 'exact', head: true }).gte('registered_at', weekAgo),
-      sb.from('subscriptions').select('*', { count: 'exact', head: true })
-        .eq('plan', 'pro').gt('expires_at', new Date().toISOString()),
-      sb.from('email_drip_log').select('*', { count: 'exact', head: true }),
-      sb.from('questions_cache').select('id, cached_at').order('cached_at', { ascending: false }).limit(1),
-      // Usuários que bateram no paywall hoje (daily_usage.count >= 10)
-      sb.from('daily_usage').select('user_id', { count: 'exact', head: true })
-        .eq('date', today)
-        .gte('count', 10),
-      // Taxa de uso de IA (últimos 30 dias)
-      sb.from('daily_usage').select('explanation_count, count')
-        .gte('date', thirtyDaysAgo),
-    ])
+  // Optimized: Single query to materialized view (1 instead of 9)
+  const { data: stats, error } = await sb
+    .from('stats_snapshot')
+    .select('*')
+    .order('snapshot_date', { ascending: false })
+    .limit(1)
+    .maybeSingle()
 
-  // Calcular aiUsageRate: sum(explanation_count) / sum(count)
-  type UsageRow = { explanation_count: number | null; count: number | null }
-  const usageRows: UsageRow[] = (aiUsageRes.data as UsageRow[]) ?? []
-  const totalAnswers30d = usageRows.reduce((acc, r) => acc + (r.count ?? 0), 0)
-  const totalAI30d = usageRows.reduce((acc, r) => acc + (r.explanation_count ?? 0), 0)
+  if (error || !stats) {
+    console.error('[admin/stats] Error fetching stats:', error)
+    return NextResponse.json({ error: 'Failed to fetch stats' }, { status: 500 })
+  }
+
+  // Calculate rates from aggregated data
+  const totalUsers = stats.total_users ?? 0
+  const totalAnswers30d = stats.total_answers_30d ?? 0
+  const aiUsage30d = stats.ai_explanations_30d ?? 0
+
   const aiUsageRate = totalAnswers30d > 0
-    ? `${Math.round((totalAI30d / totalAnswers30d) * 100)}%`
+    ? `${Math.round((aiUsage30d / totalAnswers30d) * 100)}%`
     : '0%'
 
-  // Calcular conversionRate: proCount / totalUsers
-  const totalUsers = usersRes.count ?? 0
-  const proCount = proRes.count ?? 0
   const conversionRate = totalUsers > 0
-    ? `${Math.round((proCount / totalUsers) * 100)}%`
+    ? `${Math.round((stats.pro_active / totalUsers) * 100)}%`
     : '0%'
 
   return NextResponse.json({
-    users: { total: totalUsers, new_week: newUsersWeek.count ?? 0 },
-    answers: { total: answersRes.count ?? 0, today: answersToday.count ?? 0 },
-    pro: { active: proCount },
-    emails_sent: dripRes.count ?? 0,
-    cache_last: cacheRes.data?.[0]?.cached_at ?? null,
-    paywallHitsToday: paywallRes.count ?? 0,
+    users: { total: stats.total_users ?? 0, new_week: stats.new_users_week ?? 0 },
+    answers: { total: stats.total_answers ?? 0, today: stats.answers_today ?? 0 },
+    pro: { active: stats.pro_active ?? 0 },
+    emails_sent: stats.emails_sent ?? 0,
+    cache_last: stats.cache_last_update ?? null,
+    paywallHitsToday: stats.paywall_hits_today ?? 0,
     aiUsageRate,
     conversionRate,
   })
