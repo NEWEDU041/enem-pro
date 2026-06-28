@@ -3,6 +3,7 @@ import { createServerClient } from '@/lib/supabase'
 import { fetchQuestionsByYear } from '@/lib/enem-api'
 import { YEARS } from '@/lib/enem-api'
 import Anthropic from '@anthropic-ai/sdk'
+import { PROMPTS } from '@/lib/ai-prompts'
 
 export const dynamic = 'force-dynamic'
 export const maxDuration = 540 // 9 min
@@ -43,7 +44,7 @@ export async function GET(req: NextRequest) {
       const msg = await client.messages.create({
         model: 'claude-haiku-4-5-20251001',
         max_tokens: 200,
-        system: `Explique por que a alternativa está correta. Máx 3 parágrafos.`,
+        system: PROMPTS.EXPLAIN_ANSWER,
         messages: [{
           role: 'user',
           content: `${q.title}

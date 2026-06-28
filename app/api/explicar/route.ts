@@ -4,6 +4,7 @@ import { createServerClient } from '@/lib/supabase'
 import { requireAuth } from '@/lib/auth'
 import { cleanEnv, isPro, FREE_DAILY_EXPLANATIONS } from '@/lib/utils'
 import { checkRateLimit } from '@/lib/rate-limit'
+import { PROMPTS } from '@/lib/ai-prompts'
 
 export const dynamic = 'force-dynamic'
 
@@ -67,54 +68,49 @@ export async function POST(request: NextRequest) {
     )
   }
 
-  // 2. Cache miss — call Anthropic
-  const anthropic = new Anthropic({ apiKey: cleanEnv(process.env.ANTHROPIC_API_KEY) })
+  // 2. Cache miss — return empty + log for batch generation
+  // All explanations should be pre-generated via bulk script
+  // This is a safety fallback only
+  console.log('[explicar] Cache miss for question:', question_id)
 
-  const alternativesText = alternatives
-    .map((a: { letter: string; text: string }) => `${a.letter}) ${a.text}`)
-    .join('\n')
+  // Optional: generate on-demand as fallback for Pro users only
+  if (userIsPro && question_id) {
+    try {
+      const anthropic = new Anthropic({ apiKey: cleanEnv(process.env.ANTHROPIC_API_KEY) })
 
-  let message
-  try {
-    message = await anthropic.messages.create({
-      model: 'claude-haiku-4-5-20251001',
-      max_tokens: 400,
-      system: `Explique por que a alternativa está correta. Use até 3 parágrafos. Sem markdown excessivo.`,
-      messages: [
-        {
-          role: 'user',
-          content: `${discipline} (ENEM ${year})
+      const alternativesText = alternatives
+        .map((a: { letter: string; text: string }) => `${a.letter}) ${a.text}`)
+        .join('\n')
 
-${question_title}
+      const message = await anthropic.messages.create({
+        model: 'claude-haiku-4-5-20251001',
+        max_tokens: 400,
+        system: PROMPTS.EXPLAIN_ANSWER,
+        messages: [
+          {
+            role: 'user',
+            content: `${discipline} (ENEM ${year})\n\n${question_title}\n\nAlternativas:\n${alternativesText}\n\nCorreta: ${correct_alternative}`,
+          },
+        ],
+      })
 
-Alternativas:
-${alternativesText}
+      const explanation = message.content[0].type === 'text' ? message.content[0].text : ''
 
-Correta: ${correct_alternative}`,
-        },
-      ],
-    })
-  } catch (e: unknown) {
-    const msg = e instanceof Error ? e.message : String(e)
-    console.error('[explicar] anthropic error:', msg)
-    return NextResponse.json({ error: 'Erro ao gerar explicação', detail: msg }, { status: 500 })
+      // Cache the generated explanation
+      void supabase.from('question_explanations').upsert({
+        question_id,
+        explanation,
+        model: 'claude-haiku-4-5-20251001',
+      }, { onConflict: 'question_id' })
+
+      return NextResponse.json({ explanation, fallback: true })
+    } catch (e) {
+      console.error('[explicar] Fallback generation error:', e)
+    }
   }
 
-  const textBlock = message.content.find((b) => b.type === 'text') as { type: string; text: string } | undefined
-  if (!textBlock?.text) {
-    return NextResponse.json({ error: 'Resposta vazia da IA' }, { status: 500 })
-  }
-
-  const explanation = textBlock.text
-
-  // 3. Save to cache for all future users (non-blocking)
-  if (question_id) {
-    void supabase.from('question_explanations').upsert({
-      question_id,
-      explanation,
-      model: 'claude-haiku-4-5-20251001',
-    }, { onConflict: 'question_id' })
-  }
-
-  return NextResponse.json({ explanation })
+  return NextResponse.json(
+    { error: 'Explicação não disponível. Use o script de geração em batch.' },
+    { status: 202 } // 202 = Accepted but not yet generated
+  )
 }

@@ -4,27 +4,9 @@ import { createServerClient } from '@/lib/supabase'
 import { requireAuth } from '@/lib/auth'
 import { isPro, cleanEnv } from '@/lib/utils'
 import { checkRateLimit } from '@/lib/rate-limit'
+import { PROMPTS } from '@/lib/ai-prompts'
 
 export const dynamic = 'force-dynamic'
-
-const SYSTEM_PROMPT = `Avalie redação ENEM nas 5 competências (0, 40, 80, 120, 160, 200 cada):
-C1: Gramática, ortografia, pontuação
-C2: Desenvolvimento do tema proposto
-C3: Argumentação, coerência, repertório
-C4: Conectivos, coesão, fluidez
-C5: Agente + ação + meio + finalidade + efeito
-
-Para cada: cite trecho específico, aponte bom/melhorar, nota.
-
-Termine com:
----SCORES---
-C1: [NOTA]
-C2: [NOTA]
-C3: [NOTA]
-C4: [NOTA]
-C5: [NOTA]
-TOTAL: [SOMA]
----END---`
 
 export async function POST(request: NextRequest) {
   const auth = await requireAuth(request)
@@ -68,7 +50,7 @@ export async function POST(request: NextRequest) {
   const streamResponse = anthropic.messages.stream({
     model: 'claude-haiku-4-5-20251001',
     max_tokens: 1200,
-    system: SYSTEM_PROMPT,
+    system: PROMPTS.GRADE_ESSAY,
     messages: [{
       role: 'user',
       content: `TEMA: ${tema?.trim() || 'N/A'}\n\nREDAÇÃO:\n${texto.trim()}`,

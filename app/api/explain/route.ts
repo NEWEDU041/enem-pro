@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 import Anthropic from '@anthropic-ai/sdk'
+import { PROMPTS } from '@/lib/ai-prompts'
 
 export const maxDuration = 30
 
@@ -30,7 +31,7 @@ export async function POST(req: NextRequest) {
     const message = await client.messages.create({
       model: 'claude-haiku-4-5-20251001',
       max_tokens: 250,
-      system: 'Explique por que a alternativa está correta/errada. Máx 2 parágrafos, sem markdown.',
+      system: isCorrect ? PROMPTS.EXPLAIN_ANSWER : PROMPTS.EXPLAIN_WRONG,
       messages: [
         {
           role: 'user',
