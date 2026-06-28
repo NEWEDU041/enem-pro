@@ -27,38 +27,16 @@ export async function POST(req: NextRequest) {
     const isCorrect = selectedAlternative === correctAlternative
     const correctText = alternatives.find(a => a.letter === correctAlternative)?.text || ''
 
-    const prompt = isCorrect
-      ? `Explique por que a alternativa ${correctAlternative} está correta para esta questão do ENEM:
-
-Questão: ${questionTitle}
-${context ? `Contexto: ${context}` : ''}
-
-Alternativas:
-${alternatives.map(a => `${a.letter}) ${a.text}`).join('\n')}
-
-Resposta correta: ${correctAlternative} - ${correctText}
-
-Faça uma explicação clara, concisa (máx 150 palavras) do raciocínio correto. Evite referências genéricas — seja específico sobre por que essa alternativa está certa.`
-      : `Explique por que a alternativa ${selectedAlternative} está ERRADA e por que a correta é ${correctAlternative} para esta questão do ENEM:
-
-Questão: ${questionTitle}
-${context ? `Contexto: ${context}` : ''}
-
-Alternativas:
-${alternatives.map(a => `${a.letter}) ${a.text}`).join('\n')}
-
-Você escolheu: ${selectedAlternative} - ${alternatives.find(a => a.letter === selectedAlternative)?.text || ''}
-Resposta correta: ${correctAlternative} - ${correctText}
-
-Explique: (1) Por que você errou (o que a alternativa ${selectedAlternative} não captura ou é falsa); (2) Por que ${correctAlternative} é a correta. Máx 200 palavras.`
-
     const message = await client.messages.create({
-      model: 'claude-3-5-sonnet-20241022',
-      max_tokens: 300,
+      model: 'claude-haiku-4-5-20251001',
+      max_tokens: 250,
+      system: 'Explique por que a alternativa está correta/errada. Máx 2 parágrafos, sem markdown.',
       messages: [
         {
           role: 'user',
-          content: prompt,
+          content: isCorrect
+            ? `${questionTitle}\n\nCorreto: ${correctAlternative} - ${correctText}`
+            : `${questionTitle}\n\nVocê escolheu: ${selectedAlternative}\nCorreto: ${correctAlternative} - ${correctText}`,
         },
       ],
     })
