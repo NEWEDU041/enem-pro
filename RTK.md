@@ -145,9 +145,23 @@ DELETE FROM question_explanations WHERE model = 'old-model';
 
 ---
 
+## Status Atual
+
+✅ **717 questões** com explicações pré-geradas
+- 100% migradas para Haiku 4.5
+- 0% em modelos caros (Sonnet)
+- Servidas via cache-first (zero AI calls)
+
+**Próximos passos:**
+- Gerar para as ~2883 questões faltantes (API externa atualmente offline)
+- Quando API voltar: executar `scripts/generate-priority-years.ts`
+
 ## Commits
 
 ```
+e32e528 rtk: add haiku regeneration script + env loader
+0b400fa rtk: add priority-based generation + coverage analysis scripts
+b12cd02 docs: RTK optimization guide + batch generation strategy
 ff5a8fe rtk: centralize prompts + pre-generated explanations strategy (cache-first)
 4896512 rtk: optimize /api/corrigir-redacao (system -60%, max_tokens 2000→1200)
 2658ce2 rtk: optimize /api/explain endpoint (Sonnet→Haiku, -50% tokens)
