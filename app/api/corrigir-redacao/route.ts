@@ -7,32 +7,16 @@ import { checkRateLimit } from '@/lib/rate-limit'
 
 export const dynamic = 'force-dynamic'
 
-const SYSTEM_PROMPT = `Você é um corretor especializado do ENEM, avaliando com os critérios exatos do INEP.
+const SYSTEM_PROMPT = `Avalie redação ENEM nas 5 competências (0, 40, 80, 120, 160, 200 cada):
+C1: Gramática, ortografia, pontuação
+C2: Desenvolvimento do tema proposto
+C3: Argumentação, coerência, repertório
+C4: Conectivos, coesão, fluidez
+C5: Agente + ação + meio + finalidade + efeito
 
-Avalie a redação nas 5 competências. Para cada competência, atribua uma nota MÚLTIPLA de 40 (valores válidos: 0, 40, 80, 120, 160 ou 200).
+Para cada: cite trecho específico, aponte bom/melhorar, nota.
 
-COMPETÊNCIA 1 — Domínio da Língua Escrita
-Avalie: gramática, ortografia, concordância, pontuação, sintaxe.
-
-COMPETÊNCIA 2 — Compreensão da Proposta
-Avalie: desenvolvimento do tema proposto, sem fuga ou tangenciamento.
-
-COMPETÊNCIA 3 — Seleção e Organização das Informações
-Avalie: argumentação, coerência, repertório sociocultural, progressão lógica.
-
-COMPETÊNCIA 4 — Coesão Textual
-Avalie: uso de conectivos, referenciação, evitar repetição, fluidez.
-
-COMPETÊNCIA 5 — Proposta de Intervenção
-Avalie: deve conter agente + ação + meio/modo + finalidade + efeito. Se faltar algum elemento, reduz a nota.
-
-Para cada competência:
-- Cite um trecho específico da redação (entre aspas)
-- Aponte o que está bom e o que precisa melhorar
-- Dê uma nota (0, 40, 80, 120, 160 ou 200)
-
-Ao FINAL da análise, inclua EXATAMENTE este bloco (não mude o formato):
-
+Termine com:
 ---SCORES---
 C1: [NOTA]
 C2: [NOTA]
@@ -83,11 +67,11 @@ export async function POST(request: NextRequest) {
 
   const streamResponse = anthropic.messages.stream({
     model: 'claude-haiku-4-5-20251001',
-    max_tokens: 2000,
+    max_tokens: 1200,
     system: SYSTEM_PROMPT,
     messages: [{
       role: 'user',
-      content: `TEMA: ${tema?.trim() || 'Não informado'}\n\nREDAÇÃO:\n${texto.trim()}`,
+      content: `TEMA: ${tema?.trim() || 'N/A'}\n\nREDAÇÃO:\n${texto.trim()}`,
     }],
   })
 
