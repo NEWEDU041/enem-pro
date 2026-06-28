@@ -6,7 +6,11 @@
     },
     {
       "path": "/api/cron/indexnow",
-      "schedule": "0 8 * * 1"
+      "schedule": "0 8 * * 1,4"
+    },
+    {
+      "path": "/api/cron/gsc-submit",
+      "schedule": "0 9 * * 1,4"
     }
   ]
 }

@@ -3,11 +3,14 @@
 import { useEffect, useState } from 'react'
 import Link from 'next/link'
 
-interface Alt { letter: string; text: string }
+interface Alt { letter: string; text: string; isCorrect?: boolean }
 interface Q {
-  index: number
+  id?: string
+  index?: number
   year: number
   discipline: string
+  title?: string
+  context?: string
   alternativesIntroduction: string
   alternatives: Alt[]
   correctAlternative: string
@@ -110,6 +113,12 @@ export default function DemoQuestion() {
         </div>
       )}
 
+      {q.context && (
+        <div className="text-zinc-700 bg-zinc-50 p-4 rounded-xl mb-4 text-sm whitespace-pre-wrap leading-relaxed">
+          {q.context}
+        </div>
+      )}
+
       <div className="bg-zinc-50 rounded-xl p-4 mb-4">
         <p className="text-sm text-zinc-800 leading-relaxed">{q.alternativesIntroduction}</p>
       </div>
@@ -123,19 +132,21 @@ export default function DemoQuestion() {
               key={alt.letter}
               onClick={() => !revealed && setSelected(alt.letter)}
               disabled={revealed}
-              className={`w-full text-left px-4 py-3 rounded-xl border text-sm flex gap-3 transition-all ${
+              className={`w-full text-left px-4 py-3 rounded-xl border text-sm transition-all ${
                 right ? 'bg-green-50 border-green-400 text-green-800' :
                 wrong ? 'bg-red-50 border-red-400 text-red-800' :
                 selected === alt.letter ? 'bg-indigo-50 border-indigo-400' :
                 'bg-white border-zinc-200 hover:border-indigo-300 disabled:cursor-default'
               }`}
             >
-              <span className={`font-bold w-5 shrink-0 ${right ? 'text-green-600' : wrong ? 'text-red-500' : 'text-indigo-600'}`}>
-                {alt.letter}
-              </span>
-              <span className="flex-1">{alt.text}</span>
-              {right && <span className="ml-auto text-green-500 shrink-0">✓</span>}
-              {wrong && <span className="ml-auto text-red-400 shrink-0">✗</span>}
+              <div className="flex gap-3">
+                <span className={`font-bold w-5 shrink-0 ${right ? 'text-green-600' : wrong ? 'text-red-500' : 'text-indigo-600'}`}>
+                  {alt.letter}
+                </span>
+                <span className="flex-1 text-sm">{alt.text}</span>
+                {right && <span className="text-green-500 shrink-0">✓</span>}
+                {wrong && <span className="text-red-400 shrink-0">✗</span>}
+              </div>
             </button>
           )
         })}

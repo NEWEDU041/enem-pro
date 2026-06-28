@@ -43,13 +43,5 @@ export async function GET(request: NextRequest) {
     }
   }
 
-  // Google sitemap ping
-  try {
-    const ping = await fetch(`https://www.google.com/ping?sitemap=${encodeURIComponent(`${BASE}/sitemap.xml`)}`)
-    results['google_sitemap_ping'] = ping.status
-  } catch {
-    results['google_sitemap_ping'] = 0
-  }
-
   return NextResponse.json({ submitted: urlList.length, results })
 }

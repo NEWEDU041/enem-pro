@@ -56,20 +56,31 @@ export async function fetchQuestionsByYear(year: number): Promise<Question[]> {
   const res = await fetch(`${BASE_URL}/exams/${year}/questions?limit=200`)
   if (!res.ok) throw new Error(`Erro ao buscar questões de ${year}`)
   const data = await res.json()
-  return (data.questions || data).map((q: RawQuestion, i: number) => ({
-    id: `${year}-${i + 1}`,
-    year,
-    discipline: normalizeDiscipline(q.discipline || q.disciplina),
-    title: q.title || q.enunciado || '',
-    context: q.context || q.contexto || '',
-    alternativesIntroduction: q.alternativesIntroduction || '',
-    alternatives: (q.alternatives || q.alternativas || []).map((a) => ({
+  return (data.questions || data).map((q: RawQuestion, i: number) => {
+    const alternatives = (q.alternatives || q.alternativas || []).map((a) => ({
       letter: a.letter || a.letra || '',
       text: a.text || a.texto || '',
       isCorrect: a.isCorrect || false,
-    })),
-    correctAlternative: q.correctAlternative || q.gabarito || '',
-  }))
+    }))
+
+    // Fallback: se não tem correctAlternative explícito, procura na alternativa marcada como correta
+    let correctAlternative = q.correctAlternative || q.gabarito || ''
+    if (!correctAlternative && alternatives.length > 0) {
+      const correctAlt = alternatives.find(a => a.isCorrect)
+      correctAlternative = correctAlt?.letter || ''
+    }
+
+    return {
+      id: `${year}-${i + 1}`,
+      year,
+      discipline: normalizeDiscipline(q.discipline || q.disciplina),
+      title: q.title || q.enunciado || '',
+      context: q.context || q.contexto || '',
+      alternativesIntroduction: q.alternativesIntroduction || '',
+      alternatives,
+      correctAlternative,
+    }
+  })
 }
 
 export async function fetchSingleQuestion(year: number, index: number): Promise<Question | null> {
@@ -77,6 +88,20 @@ export async function fetchSingleQuestion(year: number, index: number): Promise<
     const res = await fetch(`${BASE_URL}/exams/${year}/questions/${index}`)
     if (!res.ok) return null
     const q: RawQuestion = await res.json()
+
+    const alternatives = (q.alternatives || []).map((a) => ({
+      letter: a.letter || '',
+      text: a.text || '',
+      isCorrect: a.isCorrect || false,
+    }))
+
+    // Fallback: procura correctAlternative ou se não achar, usa a marcada como correta
+    let correctAlternative = q.correctAlternative || q.gabarito || ''
+    if (!correctAlternative && alternatives.length > 0) {
+      const correctAlt = alternatives.find(a => a.isCorrect)
+      correctAlternative = correctAlt?.letter || ''
+    }
+
     return {
       id: `${year}-${index}`,
       year,
@@ -84,12 +109,8 @@ export async function fetchSingleQuestion(year: number, index: number): Promise<
       title: q.title || '',
       context: q.context || '',
       alternativesIntroduction: q.alternativesIntroduction || '',
-      alternatives: (q.alternatives || []).map((a) => ({
-        letter: a.letter || '',
-        text: a.text || '',
-        isCorrect: a.isCorrect || false,
-      })),
-      correctAlternative: q.correctAlternative || '',
+      alternatives,
+      correctAlternative,
     }
   } catch {
     return null

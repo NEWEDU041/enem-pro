@@ -22,6 +22,23 @@ const educationalOrgSchema = {
   ],
 }
 
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'ENEM Pro',
+  url: siteUrl,
+  description: 'Todas as questões do ENEM de 2009 a 2024 com gabarito e explicação por IA.',
+  inLanguage: 'pt-BR',
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: {
+      '@type': 'EntryPoint',
+      urlTemplate: `${siteUrl}/questoes?q={search_term_string}`,
+    },
+    'query-input': 'required name=search_term_string',
+  },
+}
+
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
@@ -98,6 +115,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           id="educational-org-schema"
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(educationalOrgSchema) }}
+        />
+        <Script
+          id="website-schema"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
         />
         <ServiceWorkerRegistrar />
         {children}
