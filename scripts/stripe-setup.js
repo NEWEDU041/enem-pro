@@ -61,7 +61,7 @@ async function main() {
   console.log('\n📌 WEBHOOK:')
   console.log('  1. Acesse: https://dashboard.stripe.com/webhooks')
   console.log('  2. "+ Add endpoint"')
-  console.log('  3. URL: https://enem-pro-eight.vercel.app/api/webhook')
+  console.log('  3. URL: https://questoesenem.pro/api/webhook')
   console.log('  4. Eventos: checkout.session.completed, customer.subscription.updated, customer.subscription.deleted')
   console.log('  5. Copie o "Signing secret" → STRIPE_WEBHOOK_SECRET no Vercel\n')
 }
