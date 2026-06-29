@@ -54,7 +54,7 @@ export async function GET(request: NextRequest) {
       .select('*', { count: 'exact', head: true })
       .limit(1)
 
-    const cacheHitRate = totalPotential ? Math.round((cachedQuestions / totalPotential) * 100) : 0
+    const cacheHitRate = totalPotential && cachedQuestions ? Math.round((cachedQuestions / totalPotential) * 100) : 0
 
     health.checks.cache = {
       status: cacheHitRate > 80 ? 'ok' : 'warning',
