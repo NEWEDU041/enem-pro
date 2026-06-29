@@ -314,26 +314,7 @@ function DashboardContent() {
         </div>
 
         {/* Pior disciplina */}
-        {discStats.length > 0 && (() => {
-          const worst = discStats.filter(d => d.total >= 3).sort((a, b) => (a.correct / a.total) - (b.correct / b.total))[0]
-          if (!worst) return null
-          const pct = Math.round((worst.correct / worst.total) * 100)
-          return (
-            <div className="bg-red-50 border border-red-200 rounded-2xl px-6 py-4 mb-6 flex items-center justify-between gap-4">
-              <div>
-                <p className="text-xs text-red-400 uppercase tracking-wide font-semibold mb-0.5">Ponto fraco</p>
-                <p className="font-bold text-red-900">{worst.discipline.split(',')[0]}</p>
-                <p className="text-red-700 text-sm">{pct}% de acerto ({worst.correct}/{worst.total} questões)</p>
-              </div>
-              <Link
-                href={`/questoes?discipline=${encodeURIComponent(worst.discipline)}&year=${selectedYear}`}
-                className="shrink-0 bg-red-600 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:bg-red-700"
-              >
-                Treinar agora →
-              </Link>
-            </div>
-          )
-        })()}
+        <WorstDisciplineCard discStats={discStats} year={selectedYear} />
 
         {/* Breakdown por disciplina */}
         {discStats.length > 0 && (
@@ -541,6 +522,29 @@ function DashboardSkeleton() {
           ))}
         </div>
       </main>
+    </div>
+  )
+}
+
+type DiscStat = { discipline: string; total: number; correct: number }
+
+function WorstDisciplineCard({ discStats, year }: { discStats: DiscStat[]; year: string }) {
+  const worst = discStats.filter(d => d.total >= 3).sort((a, b) => (a.correct / a.total) - (b.correct / b.total))[0]
+  if (!worst) return null
+  const pct = Math.round((worst.correct / worst.total) * 100)
+  return (
+    <div className="bg-red-50 border border-red-200 rounded-2xl px-6 py-4 mb-6 flex items-center justify-between gap-4">
+      <div>
+        <p className="text-xs text-red-400 uppercase tracking-wide font-semibold mb-0.5">Ponto fraco</p>
+        <p className="font-bold text-red-900">{worst.discipline.split(',')[0]}</p>
+        <p className="text-red-700 text-sm">{pct}% de acerto ({worst.correct}/{worst.total} questões)</p>
+      </div>
+      <Link
+        href={`/questoes?discipline=${encodeURIComponent(worst.discipline)}&year=${year}`}
+        className="shrink-0 bg-red-600 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:bg-red-700"
+      >
+        Treinar agora →
+      </Link>
     </div>
   )
 }
