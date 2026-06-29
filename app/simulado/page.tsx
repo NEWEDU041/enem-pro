@@ -419,6 +419,8 @@ function ActiveScreen({
           question_id: question.id,
           question_title: question.title,
           correct_alternative: question.correctAlternative,
+          selected_alternative: selected,
+          is_correct: !isWrongAnswer,
           alternatives: question.alternatives,
           discipline: question.discipline,
           year: question.year,

@@ -16,7 +16,7 @@ export async function POST(request: NextRequest) {
   const supabase = createServerClient()
 
   const body = await request.json()
-  const { question_id, question_title, correct_alternative, alternatives, discipline, year } = body
+  const { question_id, question_title, correct_alternative, selected_alternative, is_correct, alternatives, discipline, year } = body
 
   // 1. Check explanation cache first — avoids any AI cost if already generated
   if (question_id) {
@@ -82,14 +82,19 @@ export async function POST(request: NextRequest) {
         .map((a: { letter: string; text: string }) => `${a.letter}) ${a.text}`)
         .join('\n')
 
+      const wrong = is_correct === false && selected_alternative && selected_alternative !== correct_alternative
+      const selectedText = wrong
+        ? alternatives?.find((a: { letter: string }) => a.letter === selected_alternative)?.text
+        : null
+
       const message = await anthropic.messages.create({
         model: 'claude-haiku-4-5-20251001',
         max_tokens: 400,
-        system: PROMPTS.EXPLAIN_ANSWER,
+        system: wrong ? PROMPTS.EXPLAIN_WRONG : PROMPTS.EXPLAIN_ANSWER,
         messages: [
           {
             role: 'user',
-            content: `${discipline} (ENEM ${year})\n\n${question_title}\n\nAlternativas:\n${alternativesText}\n\nCorreta: ${correct_alternative}`,
+            content: `${discipline} (ENEM ${year})\n\n${question_title}\n\nAlternativas:\n${alternativesText}\n\nCorreta: ${correct_alternative}${wrong && selectedText ? `\nAluno escolheu: ${selected_alternative}) ${selectedText}` : ''}`,
           },
         ],
       })

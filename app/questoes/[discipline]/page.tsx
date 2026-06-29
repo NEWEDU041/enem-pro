@@ -184,6 +184,8 @@ function QuestionContent() {
         question_id: question.id,
         question_title: question.title,
         correct_alternative: question.correctAlternative,
+        selected_alternative: selected,
+        is_correct: isCorrect,
         alternatives: question.alternatives,
         discipline: question.discipline,
         year: question.year,
