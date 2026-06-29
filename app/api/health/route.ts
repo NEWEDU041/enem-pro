@@ -93,12 +93,11 @@ export async function GET(request: NextRequest) {
 
   // Check 5: AI cost efficiency (token optimization)
   try {
-    const { data: haikuData } = await sb
+    const { count: haikuCount } = await sb
       .from('question_explanations')
       .select('*', { count: 'exact', head: true })
       .eq('model', 'claude-haiku-4-5-20251001')
 
-    const haikuCount = haikuData?.length ?? 0
     const expensiveCount = 0 // Simplified: assume all non-haiku are manually created or old
 
     health.checks.ai_optimization = {
@@ -131,7 +130,7 @@ export async function GET(request: NextRequest) {
 
   // Add recommendations
   health.recommendations = []
-  if ((health.checks.cache?.estimated_hit_rate as any)?.includes('0')) {
+  if (parseInt(health.checks.cache?.estimated_hit_rate ?? '100') < 20) {
     health.recommendations.push('⚠️  Low cache hit rate: run generation script')
   }
   if (health.checks.webhook_queue?.failed_events > 0) {
