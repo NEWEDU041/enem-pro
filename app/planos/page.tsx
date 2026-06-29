@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import { createBrowserClient } from '@/lib/supabase'
 import { trackBeginCheckout } from '@/lib/analytics'
+import { ENEM_DATE, daysUntil } from '@/lib/utils'
 
 const supabase = createBrowserClient()
 
@@ -245,7 +246,7 @@ export default function PlanosPage() {
 }
 
 function EnemCountdown() {
-  const days = Math.ceil((new Date('2026-10-26').getTime() - Date.now()) / 86400000)
+  const days = daysUntil(ENEM_DATE)
   if (days <= 0) return null
   return (
     <div className="inline-flex items-center gap-2 bg-amber-50 border border-amber-200 rounded-full px-4 py-1.5 text-sm font-medium text-amber-800 mb-8">
