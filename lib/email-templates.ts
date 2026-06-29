@@ -72,19 +72,18 @@ export function getDripEmail(data: DripEmailData): { subject: string; html: stri
       </div>`,
     },
     21: {
-      subject: `Oferta especial — 20% off nas próximas 72h`,
+      subject: `3 semanas de ENEM Pro, ${firstName} — o que está achando?`,
       html: `<div style="${base}">
-        <h2 style="color:#4f46e5">${firstName}, oferta exclusiva 🎁</h2>
-        <p>Você usa o ENEM Pro há 3 semanas. Isso significa que é sério(a) com sua aprovação.</p>
-        <p>Por isso: <strong>20% de desconto no Pro Mensal</strong> — válido pelas próximas 72 horas.</p>
-        <div style="background:#f0f4ff;border:2px solid #4f46e5;border-radius:16px;padding:24px;text-align:center;margin:20px 0">
-          <p style="margin:0;font-size:13px;color:#6366f1">PRO MENSAL</p>
-          <p style="margin:4px 0;font-size:32px;font-weight:700;color:#4f46e5">R$11,90<span style="font-size:14px;font-weight:400">/mês</span></p>
-          <p style="margin:0;font-size:12px;color:#71717a;text-decoration:line-through">era R$14,90/mês</p>
+        <h2 style="color:#4f46e5">3 semanas, ${firstName} 🔥</h2>
+        <p>Poucos candidatos chegam até aqui. A maioria para na primeira semana.</p>
+        <p>Você está praticando há 21 dias. Com 10 questões/dia, já respondeu mais de <strong>210 questões do ENEM</strong>.</p>
+        <p>Com o Pro, seriam <strong>630 questões</strong> — com a IA explicando cada erro. Isso é a diferença entre adivinhar e entender.</p>
+        <div style="background:#f0f4ff;border:1px solid #c7d2fe;border-radius:12px;padding:16px;margin:20px 0;text-align:center">
+          <p style="margin:0;font-size:14px;color:#4f46e5"><strong>Pro Anual: R$8,25/mês</strong> (R$99/ano)</p>
+          <p style="margin:4px 0 0;font-size:12px;color:#6b7280">Menos que uma pizza. Mais questões do que qualquer cursinho.</p>
         </div>
-        <a href="${url}/planos" style="${btn}">Garantir meu desconto →</a>
-        <p style="font-size:12px;color:#ef4444">⚠️ Oferta expira em 72 horas</p>
-        <p style="${footer}">ENEM Pro</p>
+        <a href="${url}/planos" style="${btn}">Assinar Pro →</a>
+        <p style="${footer}">ENEM Pro · Faltam ~${enemDays} dias</p>
       </div>`,
     },
     30: {
