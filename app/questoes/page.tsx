@@ -76,7 +76,23 @@ function QuestoesContent() {
         </div>
 
         {loading ? (
-          <div className="text-center text-zinc-400 py-20">Carregando questões...</div>
+          <div className="space-y-3">
+            {Array.from({ length: 8 }).map((_, i) => (
+              <div key={i} className="bg-white rounded-xl border border-zinc-200 px-6 py-4 animate-pulse">
+                <div className="flex items-start justify-between gap-4">
+                  <div className="flex-1">
+                    <div className="flex items-center gap-2 mb-3">
+                      <div className="h-5 w-24 bg-zinc-200 rounded-full" />
+                      <div className="h-4 w-32 bg-zinc-100 rounded" />
+                    </div>
+                    <div className="h-4 bg-zinc-100 rounded mb-2 w-full" />
+                    <div className="h-4 bg-zinc-100 rounded w-3/4" />
+                  </div>
+                  <div className="h-5 w-5 bg-zinc-100 rounded shrink-0" />
+                </div>
+              </div>
+            ))}
+          </div>
         ) : questions.length === 0 ? (
           <div className="text-center text-zinc-400 py-20">Nenhuma questão encontrada para esse filtro.</div>
         ) : (

@@ -31,6 +31,8 @@ function DashboardContent() {
   const [loading, setLoading] = useState(true)
   const [upgradeSuccess] = useState(searchParams.get('upgrade') === 'success')
   const [goal, setGoal] = useState<{ course: string; university: string; score: number } | null>(null)
+  const [selectedYear, setSelectedYear] = useState('2023')
+  const [selectedDisc, setSelectedDisc] = useState('Matemática')
 
   useEffect(() => {
     if (upgradeSuccess) {
@@ -267,6 +269,14 @@ function DashboardContent() {
             </div>
             <span className="ml-auto text-zinc-300 text-lg shrink-0">→</span>
           </Link>
+          <Link href="/questao-do-dia" className="bg-white rounded-2xl border border-green-100 p-6 hover:border-green-400 hover:shadow-sm transition-all flex items-center gap-4">
+            <div className="text-3xl">📅</div>
+            <div className="min-w-0">
+              <div className="font-bold text-zinc-900">Questão do Dia</div>
+              <div className="text-sm text-zinc-500">Uma questão nova todo dia — sem login</div>
+            </div>
+            <span className="ml-auto text-zinc-300 text-lg shrink-0">→</span>
+          </Link>
         </div>
 
         {/* Quick start */}
@@ -276,7 +286,8 @@ function DashboardContent() {
             <div>
               <label className="block text-sm font-medium text-zinc-700 mb-2">Ano</label>
               <select
-                id="year-select"
+                value={selectedYear}
+                onChange={(e) => setSelectedYear(e.target.value)}
                 className="w-full border border-zinc-300 rounded-lg px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500"
               >
                 {YEARS.map((y) => <option key={y} value={y}>{y}</option>)}
@@ -285,8 +296,8 @@ function DashboardContent() {
             <div>
               <label className="block text-sm font-medium text-zinc-700 mb-2">Disciplina</label>
               <select
-                id="disc-select"
-                defaultValue="Matemática"
+                value={selectedDisc}
+                onChange={(e) => setSelectedDisc(e.target.value)}
                 className="w-full border border-zinc-300 rounded-lg px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500"
               >
                 <option value="">Todas</option>
@@ -294,8 +305,35 @@ function DashboardContent() {
               </select>
             </div>
           </div>
-          <StartButton isPro={isPro} remaining={isPro ? Infinity : Math.max(0, FREE_DAILY_LIMIT - stats.today)} />
+          <StartButton
+            isPro={isPro}
+            remaining={isPro ? Infinity : Math.max(0, FREE_DAILY_LIMIT - stats.today)}
+            year={selectedYear}
+            discipline={selectedDisc}
+          />
         </div>
+
+        {/* Pior disciplina */}
+        {discStats.length > 0 && (() => {
+          const worst = discStats.filter(d => d.total >= 3).sort((a, b) => (a.correct / a.total) - (b.correct / b.total))[0]
+          if (!worst) return null
+          const pct = Math.round((worst.correct / worst.total) * 100)
+          return (
+            <div className="bg-red-50 border border-red-200 rounded-2xl px-6 py-4 mb-6 flex items-center justify-between gap-4">
+              <div>
+                <p className="text-xs text-red-400 uppercase tracking-wide font-semibold mb-0.5">Ponto fraco</p>
+                <p className="font-bold text-red-900">{worst.discipline.split(',')[0]}</p>
+                <p className="text-red-700 text-sm">{pct}% de acerto ({worst.correct}/{worst.total} questões)</p>
+              </div>
+              <Link
+                href={`/questoes?discipline=${encodeURIComponent(worst.discipline)}&year=${selectedYear}`}
+                className="shrink-0 bg-red-600 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:bg-red-700"
+              >
+                Treinar agora →
+              </Link>
+            </div>
+          )
+        })()}
 
         {/* Breakdown por disciplina */}
         {discStats.length > 0 && (
@@ -542,12 +580,10 @@ function ManageSubscriptionButton() {
   )
 }
 
-function StartButton({ isPro, remaining }: { isPro: boolean; remaining: number }) {
+function StartButton({ isPro, remaining, year, discipline }: { isPro: boolean; remaining: number; year: string; discipline: string }) {
   function handleStart() {
-    const year = (document.getElementById('year-select') as HTMLSelectElement)?.value || '2023'
-    const disc = (document.getElementById('disc-select') as HTMLSelectElement)?.value || ''
     const params = new URLSearchParams({ year })
-    if (disc) params.set('discipline', disc)
+    if (discipline) params.set('discipline', discipline)
     window.location.href = `/questoes?${params.toString()}`
   }
 

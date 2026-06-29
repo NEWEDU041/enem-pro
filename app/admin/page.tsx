@@ -9,6 +9,9 @@ type Stats = {
   pro: { active: number }
   emails_sent: number
   cache_last: string | null
+  paywallHitsToday: number
+  aiUsageRate: string
+  conversionRate: string
 }
 
 type UpgradeResult = { ok?: boolean; error?: string; expires_at?: string }
@@ -115,18 +118,30 @@ export default function AdminPage() {
       <main className="max-w-4xl mx-auto px-6 py-10 space-y-6">
         {/* Stats */}
         {stats && (
-          <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
-            <StatBox label="Usuários" value={stats.users.total} sub={`+${stats.users.new_week} semana`} />
-            <StatBox label="Questões hoje" value={stats.answers.today} sub={`${stats.answers.total} total`} />
-            <StatBox label="Pro ativos" value={stats.pro.active} color="indigo" />
-            <StatBox label="Emails enviados" value={stats.emails_sent} />
-            <StatBox
-              label="Cache questões"
-              value={stats.cache_last ? 'OK' : 'Vazio'}
-              sub={stats.cache_last ? new Date(stats.cache_last).toLocaleDateString('pt-BR') : 'Executar warm-up'}
-              color={stats.cache_last ? 'green' : 'amber'}
-            />
-          </div>
+          <>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+              <StatBox label="Usuários" value={stats.users.total} sub={`+${stats.users.new_week} semana`} />
+              <StatBox label="Questões hoje" value={stats.answers.today} sub={`${stats.answers.total} total`} />
+              <StatBox label="Pro ativos" value={stats.pro.active} color="indigo" />
+              <StatBox
+                label="Receita estimada"
+                value={`R$${(stats.pro.active * 14.90).toFixed(0)}`}
+                sub="mensal (R$14,90/Pro)"
+                color="green"
+              />
+            </div>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+              <StatBox label="Conversão" value={stats.conversionRate} sub="usuários → Pro" color="indigo" />
+              <StatBox label="Uso IA" value={stats.aiUsageRate} sub="questões com explicação" />
+              <StatBox label="Paywall hoje" value={stats.paywallHitsToday} sub="limites atingidos" color={stats.paywallHitsToday > 0 ? 'amber' : undefined} />
+              <StatBox
+                label="Cache questões"
+                value={stats.cache_last ? 'OK' : 'Vazio'}
+                sub={stats.cache_last ? new Date(stats.cache_last).toLocaleDateString('pt-BR') : 'Executar warm-up'}
+                color={stats.cache_last ? 'green' : 'amber'}
+              />
+            </div>
+          </>
         )}
 
         {/* Warm cache */}

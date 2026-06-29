@@ -58,6 +58,7 @@ export default function SimuladoPage() {
   const router = useRouter()
   const [token, setToken] = useState<string | null>(null)
   const [authLoading, setAuthLoading] = useState(true)
+  const [limitHit, setLimitHit] = useState(false)
 
   // Setup state
   const [qCount, setQCount] = useState<10 | 20 | 45>(20)
@@ -123,7 +124,8 @@ export default function SimuladoPage() {
       const { data: sub } = await supabase.from('subscriptions').select('plan, expires_at').eq('user_id', session.user.id).maybeSingle()
 
       if (!isPro(sub) && (usage?.count ?? 0) >= FREE_DAILY_LIMIT) {
-        alert('Você atingiu o limite diário de 10 questões. Volte amanhã ou assine o Pro para questões ilimitadas.')
+        setLimitHit(true)
+        setState('setup')
         return
       }
     }
@@ -234,6 +236,7 @@ export default function SimuladoPage() {
             year={year} setYear={setYear}
             discipline={discipline} setDiscipline={setDiscipline}
             onStart={startSimulado}
+            limitHit={limitHit}
           />
         )}
 
@@ -274,7 +277,7 @@ export default function SimuladoPage() {
 }
 
 function SetupScreen({
-  qCount, setQCount, year, setYear, discipline, setDiscipline, onStart,
+  qCount, setQCount, year, setYear, discipline, setDiscipline, onStart, limitHit,
 }: {
   qCount: 10 | 20 | 45
   setQCount: (n: 10 | 20 | 45) => void
@@ -283,11 +286,25 @@ function SetupScreen({
   discipline: string
   setDiscipline: (d: string) => void
   onStart: () => void
+  limitHit: boolean
 }) {
   return (
     <div>
       <h1 className="text-2xl font-bold text-zinc-900 mb-2">Modo Simulado</h1>
       <p className="text-zinc-500 mb-8">Pratique com timer, veja seu desempenho e nota estimada.</p>
+
+      {limitHit && (
+        <div className="mb-6 bg-amber-50 border border-amber-200 rounded-2xl px-6 py-4 flex items-start gap-3">
+          <span className="text-amber-500 text-lg shrink-0">⚠</span>
+          <div>
+            <p className="text-amber-900 font-semibold text-sm">Limite diário atingido</p>
+            <p className="text-amber-700 text-sm mt-0.5">
+              Você já usou {FREE_DAILY_LIMIT} questões hoje. Volte amanhã ou{' '}
+              <a href="/planos" className="font-semibold underline">assine o Pro</a> para questões ilimitadas.
+            </p>
+          </div>
+        </div>
+      )}
 
       <div className="bg-white rounded-2xl border border-zinc-200 p-8 space-y-6">
         <div>
