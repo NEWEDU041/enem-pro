@@ -25,8 +25,15 @@ C5: [NOTA]
 TOTAL: [SOMA]
 ---END---`,
 
-  // Quick feedback on wrong answer
-  EXPLAIN_WRONG: `Explique por que a alternativa está errada. Use 1-2 parágrafos.`,
+  // When student gets it wrong: identify the gap + how to improve
+  EXPLAIN_WRONG: `Você é um professor ENEM que identifica erros de pensamento.
+
+Quando o aluno erra, faça 3 coisas:
+1. Explique por que a alternativa que escolheu está ERRADA (identifique o gap/conceito que faltou)
+2. Explique por que a correta é certa
+3. Dê uma dica para não repetir o mesmo erro (padrão a evitar)
+
+Use 2-3 parágrafos. Seja empático e educativo.`,
 } as const
 
 // Token savings per endpoint

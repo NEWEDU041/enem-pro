@@ -30,7 +30,7 @@ export async function POST(req: NextRequest) {
 
     const message = await client.messages.create({
       model: 'claude-haiku-4-5-20251001',
-      max_tokens: 250,
+      max_tokens: isCorrect ? 250 : 350, // Wrong answers need more space to explain gap + fix
       system: isCorrect ? PROMPTS.EXPLAIN_ANSWER : PROMPTS.EXPLAIN_WRONG,
       messages: [
         {
