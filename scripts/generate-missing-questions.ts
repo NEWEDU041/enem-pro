@@ -68,7 +68,7 @@ async function main() {
   const existingIds = await getExistingIds()
   const missing = apiQuestions.filter((q: any) => !existingIds.has(q.id))
 
-  console.log(`📊 ${existing.size} com explicação, ${missing.length} faltando\n`)
+  console.log(`📊 ${existingIds.size} com explicação, ${missing.length} faltando\n`)
 
   let saved = 0
   let skipped = 0
