@@ -104794,39 +104794,6 @@ export function getAllPosts(): BlogPost[] {
   return ALL_POSTS
 }
 
-export function getRelatedPosts(slug: string, limit: number = 4): BlogPost[] {
-  const post = getPost(slug)
-  if (!post) return []
-
-  const keywords = slug.toLowerCase().split('-').filter(w => w.length > 3)
-  const scored = ALL_POSTS
-    .filter(p => p.slug !== slug)
-    .map(p => {
-      let score = 0
-      const pSlug = p.slug.toLowerCase()
-
-      // Exact word matches
-      keywords.forEach(kw => {
-        if (pSlug.includes(kw)) score += 2
-      })
-
-      // Category match
-      if (getCategory(p.slug) === getCategory(slug)) score += 1
-
-      // Year match (if applicable)
-      const yearMatch = slug.match(/\d{4}/)
-      if (yearMatch && p.slug.includes(yearMatch[0])) score += 1
-
-      return { post: p, score }
-    })
-    .filter(s => s.score > 0)
-    .sort((a, b) => b.score - a.score)
-    .slice(0, limit)
-    .map(s => s.post)
-
-  return scored
-}
-
 export type BlogCategory = 'Gabarito' | 'Questões' | 'Redação' | 'Universidades' | 'Por Matéria' | 'Estratégias' | 'Como Funciona' | 'Planejamento' | 'Comparativos'
 
 export function getCategory(slug: string): BlogCategory {
