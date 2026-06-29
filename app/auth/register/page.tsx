@@ -28,7 +28,7 @@ function RegisterForm() {
 
   // Store referral code in localStorage so dashboard can process it after login
   useEffect(() => {
-    const ref = searchParams.get('ref')
+    const ref = searchParams?.get('ref')
     if (ref) localStorage.setItem('enem_ref', ref)
   }, [searchParams])
 
@@ -56,7 +56,7 @@ function RegisterForm() {
       // Fallback: show done state (user can login manually)
       setDone(true)
     } else {
-      const next = searchParams.get('next') || '/dashboard'
+      const next = searchParams?.get('next') || '/dashboard'
       router.push(next)
     }
   }
@@ -73,7 +73,7 @@ function RegisterForm() {
               Enviamos um link de confirmação para <strong>{email}</strong>. Clique no link para ativar sua conta.
             </p>
             <Link
-              href={`/auth/login${searchParams.get('next') ? `?next=${searchParams.get('next')}` : ''}`}
+              href={`/auth/login${searchParams?.get('next') ? `?next=${searchParams.get('next')}` : ''}`}
               className="text-indigo-600 text-sm hover:underline"
             >
               Já confirmou? Entrar →
@@ -95,7 +95,7 @@ function RegisterForm() {
           <p className="text-zinc-500 text-sm mb-8">
             Já tem conta?{' '}
             <Link
-              href={`/auth/login${searchParams.get('next') ? `?next=${searchParams.get('next')}` : ''}`}
+              href={`/auth/login${searchParams?.get('next') ? `?next=${searchParams.get('next')}` : ''}`}
               className="text-indigo-600 hover:underline"
             >
               Entrar

@@ -250,9 +250,7 @@ const COLOR_MAP: Record<string, { bg: string; text: string; badge: string; butto
   indigo: { bg: 'bg-indigo-50', text: 'text-indigo-700', badge: 'bg-indigo-100 text-indigo-700', button: 'bg-indigo-600 hover:bg-indigo-700' },
 }
 
-export async function generateStaticParams() {
-  return Object.keys(MATERIAS).map(slug => ({ slug }))
-}
+export const revalidate = 86400
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params

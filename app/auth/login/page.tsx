@@ -32,7 +32,7 @@ function LoginForm() {
       if (error) {
         setError('Email ou senha incorretos.')
       } else {
-        const next = searchParams.get('next') || '/dashboard'
+        const next = searchParams?.get('next') || '/dashboard'
         router.push(next)
       }
     } catch {
@@ -53,7 +53,7 @@ function LoginForm() {
           <p className="text-zinc-500 text-sm mb-8">
             Não tem conta?{' '}
             <Link
-              href={`/auth/register${searchParams.get('next') ? `?next=${searchParams.get('next')}` : ''}`}
+              href={`/auth/register${searchParams?.get('next') ? `?next=${searchParams.get('next')}` : ''}`}
               className="text-indigo-600 hover:underline"
             >
               Criar grátis

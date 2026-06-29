@@ -89,9 +89,7 @@ const SLUG_TO_API_DISCIPLINE: Record<string, string> = {
   'ciencias-natureza': 'Ciências da Natureza e suas Tecnologias',
 }
 
-export async function generateStaticParams() {
-  return Object.keys(DISCIPLINES_MAP).map((slug) => ({ slug }))
-}
+export const revalidate = 86400
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params

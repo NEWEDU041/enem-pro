@@ -60,9 +60,10 @@ export default function QuestionPage() {
 }
 
 function QuestionContent() {
-  const { discipline: id } = useParams<{ discipline: string }>()
+  const params = useParams<{ discipline: string }>()
+  const id = params?.discipline ?? ''
   const searchParams = useSearchParams()
-  const year = searchParams.get('year') || id.split('-')[0]
+  const year = searchParams?.get('year') || id.split('-')[0]
   const router = useRouter()
 
   const [question, setQuestion] = useState<Question | null>(null)

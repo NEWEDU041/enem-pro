@@ -2,14 +2,10 @@ import type { Metadata } from 'next'
 import type { ReactNode } from 'react'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { getPost, getAllSlugs, getRelatedPosts } from '@/lib/blog-data'
+import { getPost, getRelatedPosts } from '@/lib/blog-data'
 import { SITE_URL } from '@/lib/site-config'
 
-export const dynamicParams = false
-
-export async function generateStaticParams() {
-  return getAllSlugs().map(slug => ({ slug }))
-}
+export const revalidate = 86400
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params

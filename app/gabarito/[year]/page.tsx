@@ -7,9 +7,7 @@ import { SITE_URL } from '@/lib/site-config'
 // API enem.dev only provides data for years up to 2023
 const VALID_YEARS = [2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
 
-export async function generateStaticParams() {
-  return VALID_YEARS.map((year) => ({ year: String(year) }))
-}
+export const revalidate = 86400
 
 export async function generateMetadata({ params }: { params: Promise<{ year: string }> }): Promise<Metadata> {
   const { year } = await params
