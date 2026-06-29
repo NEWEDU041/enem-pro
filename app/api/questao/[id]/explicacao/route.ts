@@ -6,15 +6,16 @@ export const revalidate = 86400 // Cache for 24h
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
+  const { id } = await params
   const supabase = createServerClient()
 
   // Serve pre-generated explanation from cache only
   const { data, error } = await supabase
     .from('question_explanations')
     .select('explanation, model, created_at')
-    .eq('question_id', params.id)
+    .eq('question_id', id)
     .maybeSingle()
 
   if (error) {
