@@ -41,7 +41,7 @@ export async function POST(request: NextRequest) {
     customer_email: user.email,
     metadata: { user_id: user.id, plan },
     subscription_data: { metadata: { user_id: user.id } },
-    success_url: `${origin}/dashboard?upgrade=success`,
+    success_url: `${origin}/dashboard?upgrade=success&plan=${plan}`,
     cancel_url: `${origin}/planos`,
     locale: 'pt-BR',
   })

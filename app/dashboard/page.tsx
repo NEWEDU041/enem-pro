@@ -30,13 +30,15 @@ function DashboardContent() {
   const [isPro, setIsPro] = useState(false)
   const [loading, setLoading] = useState(true)
   const [upgradeSuccess] = useState(searchParams.get('upgrade') === 'success')
+  const [upgradePlan] = useState(searchParams.get('plan') || 'annual')
   const [goal, setGoal] = useState<{ course: string; university: string; score: number } | null>(null)
   const [selectedYear, setSelectedYear] = useState('2023')
   const [selectedDisc, setSelectedDisc] = useState('Matemática')
 
   useEffect(() => {
     if (!upgradeSuccess || !user) return
-    trackPurchase(99, 'BRL', 'pro')
+    const price = upgradePlan === 'monthly' ? 14.90 : 99
+    trackPurchase(price, 'BRL', 'pro')
     // Webhook takes 1-3s to process after Stripe redirect — retry sub check
     const timer = setTimeout(async () => {
       const { data } = await supabase.from('subscriptions').select('plan, expires_at').eq('user_id', user.id).maybeSingle()
