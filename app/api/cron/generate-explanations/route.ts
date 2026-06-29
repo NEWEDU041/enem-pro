@@ -6,7 +6,7 @@ import Anthropic from '@anthropic-ai/sdk'
 import { PROMPTS } from '@/lib/ai-prompts'
 
 export const dynamic = 'force-dynamic'
-export const maxDuration = 540 // 9 min
+export const maxDuration = 300
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY })
 
