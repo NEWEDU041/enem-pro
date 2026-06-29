@@ -72,7 +72,10 @@ function RegisterForm() {
             <p className="text-zinc-500 text-sm mb-6">
               Enviamos um link de confirmação para <strong>{email}</strong>. Clique no link para ativar sua conta.
             </p>
-            <Link href="/auth/login" className="text-indigo-600 text-sm hover:underline">
+            <Link
+              href={`/auth/login${searchParams.get('next') ? `?next=${searchParams.get('next')}` : ''}`}
+              className="text-indigo-600 text-sm hover:underline"
+            >
               Já confirmou? Entrar →
             </Link>
           </div>
@@ -91,7 +94,10 @@ function RegisterForm() {
           <h1 className="text-2xl font-bold mb-2">Criar conta grátis</h1>
           <p className="text-zinc-500 text-sm mb-8">
             Já tem conta?{' '}
-            <Link href="/auth/login" className="text-indigo-600 hover:underline">
+            <Link
+              href={`/auth/login${searchParams.get('next') ? `?next=${searchParams.get('next')}` : ''}`}
+              className="text-indigo-600 hover:underline"
+            >
               Entrar
             </Link>
           </p>

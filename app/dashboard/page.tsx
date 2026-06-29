@@ -35,10 +35,15 @@ function DashboardContent() {
   const [selectedDisc, setSelectedDisc] = useState('Matemática')
 
   useEffect(() => {
-    if (upgradeSuccess) {
-      trackPurchase(99, 'BRL', 'pro')
-    }
-  }, [upgradeSuccess])
+    if (!upgradeSuccess || !user) return
+    trackPurchase(99, 'BRL', 'pro')
+    // Webhook takes 1-3s to process after Stripe redirect — retry sub check
+    const timer = setTimeout(async () => {
+      const { data } = await supabase.from('subscriptions').select('plan, expires_at').eq('user_id', user.id).maybeSingle()
+      if (data?.plan === 'pro' && data?.expires_at && new Date(data.expires_at) > new Date()) setIsPro(true)
+    }, 3000)
+    return () => clearTimeout(timer)
+  }, [upgradeSuccess, user])
   const [editingGoal, setEditingGoal] = useState(false)
   const [goalScore, setGoalScore] = useState(700)
   const [referralCode, setReferralCode] = useState('')
