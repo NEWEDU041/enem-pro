@@ -7,17 +7,15 @@ import { SITE_URL } from '@/lib/site-config'
 async function getLiveStats() {
   try {
     const sb = createServerClient()
-    const [answersRes, usersRes] = await Promise.all([
-      sb.from('user_answers').select('*', { count: 'exact', head: true }),
-      sb.from('daily_usage').select('*', { count: 'exact', head: true })
-        .gte('date', new Date(Date.now() - 7 * 86400000).toISOString().split('T')[0]),
-    ])
-    return {
-      totalAnswers: answersRes.count || 0,
-      activeUsers: usersRes.count || 0,
-    }
+    const { data } = await sb
+      .from('stats_snapshot')
+      .select('total_answers')
+      .order('snapshot_date', { ascending: false })
+      .limit(1)
+      .maybeSingle()
+    return { totalAnswers: data?.total_answers || 0 }
   } catch {
-    return { totalAnswers: 0, activeUsers: 0 }
+    return { totalAnswers: 0 }
   }
 }
 

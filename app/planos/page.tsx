@@ -10,6 +10,7 @@ const supabase = createBrowserClient()
 export default function PlanosPage() {
   const [loading, setLoading] = useState<'monthly' | 'annual' | 'portal' | null>(null)
   const [isPro, setIsPro] = useState(false)
+  const [checkoutError, setCheckoutError] = useState('')
 
   useEffect(() => {
     supabase.auth.getSession().then(({ data: { session } }) => {
@@ -55,7 +56,7 @@ export default function PlanosPage() {
       if (data.url) {
         window.location.href = data.url
       } else {
-        alert('Erro ao iniciar pagamento. Tente novamente.')
+        setCheckoutError('Erro ao iniciar pagamento. Tente novamente em instantes.')
       }
     } finally {
       setLoading(null)
@@ -87,16 +88,12 @@ export default function PlanosPage() {
         <h1 className="text-4xl font-bold mb-4">Pratique as questões reais do ENEM até passar</h1>
         <p className="text-zinc-500 mb-14">Comece grátis hoje, sem cartão. Faça upgrade quando quiser questões ilimitadas e a IA explicando cada erro.</p>
 
-        {(() => {
-          const enem = new Date('2026-10-26')
-          const days = Math.ceil((enem.getTime() - Date.now()) / 86400000)
-          if (days <= 0) return null
-          return (
-            <div className="inline-flex items-center gap-2 bg-amber-50 border border-amber-200 rounded-full px-4 py-1.5 text-sm font-medium text-amber-800 mb-8">
-              ⏱️ Faltam <strong>{days} dias</strong> para o ENEM 2026
-            </div>
-          )
-        })()}
+        <EnemCountdown />
+        {checkoutError && (
+          <div className="bg-red-50 border border-red-200 rounded-xl px-4 py-3 mb-6 text-sm text-red-800">
+            {checkoutError}
+          </div>
+        )}
 
         {/* Value Stack */}
         <div className="bg-indigo-50 border border-indigo-100 rounded-2xl p-6 mb-10 text-left">
@@ -243,6 +240,16 @@ export default function PlanosPage() {
           </div>
         </div>
       </main>
+    </div>
+  )
+}
+
+function EnemCountdown() {
+  const days = Math.ceil((new Date('2026-10-26').getTime() - Date.now()) / 86400000)
+  if (days <= 0) return null
+  return (
+    <div className="inline-flex items-center gap-2 bg-amber-50 border border-amber-200 rounded-full px-4 py-1.5 text-sm font-medium text-amber-800 mb-8">
+      ⏱️ Faltam <strong>{days} dias</strong> para o ENEM 2026
     </div>
   )
 }
