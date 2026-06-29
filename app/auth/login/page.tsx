@@ -1,14 +1,23 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, Suspense } from 'react'
 import Link from 'next/link'
-import { useRouter } from 'next/navigation'
+import { useRouter, useSearchParams } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
 
 const supabase = createBrowserClient()
 
 export default function LoginPage() {
+  return (
+    <Suspense fallback={<div className="min-h-screen flex items-center justify-center text-zinc-400">Carregando...</div>}>
+      <LoginForm />
+    </Suspense>
+  )
+}
+
+function LoginForm() {
   const router = useRouter()
+  const searchParams = useSearchParams()
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
   const [error, setError] = useState('')
@@ -23,7 +32,8 @@ export default function LoginPage() {
       if (error) {
         setError('Email ou senha incorretos.')
       } else {
-        router.push('/dashboard')
+        const next = searchParams.get('next') || '/dashboard'
+        router.push(next)
       }
     } catch {
       setError('Erro de conexão. Verifique sua internet e tente novamente.')
@@ -42,7 +52,10 @@ export default function LoginPage() {
           <h1 className="text-2xl font-bold mb-2">Entrar</h1>
           <p className="text-zinc-500 text-sm mb-8">
             Não tem conta?{' '}
-            <Link href="/auth/register" className="text-indigo-600 hover:underline">
+            <Link
+              href={`/auth/register${searchParams.get('next') ? `?next=${searchParams.get('next')}` : ''}`}
+              className="text-indigo-600 hover:underline"
+            >
               Criar grátis
             </Link>
           </p>
