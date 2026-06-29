@@ -7,14 +7,6 @@
     {
       "path": "/api/cron/email-drip",
       "schedule": "0 12 * * *"
-    },
-    {
-      "path": "/api/cron/indexnow",
-      "schedule": "0 8 * * 1,4"
-    },
-    {
-      "path": "/api/cron/gsc-submit",
-      "schedule": "0 9 * * 1,4"
     }
   ]
 }

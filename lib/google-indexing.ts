@@ -102,6 +102,28 @@ function dailyWindow(slugs: string[]): string[] {
   return slugs.slice(w * DAILY_LIMIT, w * DAILY_LIMIT + DAILY_LIMIT)
 }
 
+const WEBMASTERS_SCOPE = 'https://www.googleapis.com/auth/webmasters'
+
+// Submete o sitemap.xml ao Google Search Console.
+export async function submitGscSitemap(): Promise<{ ok: boolean; status?: number; error?: string }> {
+  const raw = process.env.GOOGLE_SERVICE_ACCOUNT_KEY
+  if (!raw) return { ok: false, error: 'GOOGLE_SERVICE_ACCOUNT_KEY não configurada' }
+  try {
+    const key = JSON.parse(raw)
+    const jwt = new JWT({ email: key.client_email, key: key.private_key, scopes: [WEBMASTERS_SCOPE] })
+    const { token } = await jwt.getAccessToken()
+    const siteEncoded = encodeURIComponent(SITE_URL + '/')
+    const sitemapEncoded = encodeURIComponent(`${SITE_URL}/sitemap.xml`)
+    const res = await fetch(
+      `https://www.googleapis.com/webmasters/v3/sites/${siteEncoded}/sitemaps/${sitemapEncoded}`,
+      { method: 'PUT', headers: { Authorization: `Bearer ${token}` } }
+    )
+    return { ok: res.ok, status: res.status }
+  } catch (e) {
+    return { ok: false, error: String(e) }
+  }
+}
+
 // Drip diário de indexação: 10 posts/dia em rotação, prioritários primeiro.
 export async function dripDailyGoogleIndex() {
   if (!process.env.GOOGLE_SERVICE_ACCOUNT_KEY) {

@@ -2,7 +2,8 @@ import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
 import { sendDripEmail } from '@/lib/resend'
 import { cleanEnv } from '@/lib/utils'
-import { dripDailyGoogleIndex } from '@/lib/google-indexing'
+import { dripDailyGoogleIndex, submitGscSitemap } from '@/lib/google-indexing'
+import { submitIndexNow } from '@/lib/indexnow'
 
 export const dynamic = 'force-dynamic'
 
@@ -106,14 +107,19 @@ export async function GET(req: NextRequest) {
     }
   }
 
-  // Piggyback: drip diário de indexação no Google (10 posts/dia em rotação).
-  // Plano Hobby limita a 2 crons, então rodamos junto com o email-drip diário.
-  let googleIndex: Awaited<ReturnType<typeof dripDailyGoogleIndex>> | { error: string } = { error: 'skipped' }
-  try {
-    googleIndex = await dripDailyGoogleIndex()
-  } catch (e) {
-    googleIndex = { error: e instanceof Error ? e.message : 'unknown' }
-  }
+  // Piggyback: indexação + SEO (Hobby: 2 crons max — tudo rodando aqui)
+  const [googleIndex, indexNow, gscSitemap] = await Promise.allSettled([
+    dripDailyGoogleIndex(),
+    submitIndexNow(),
+    submitGscSitemap(),
+  ])
 
-  return NextResponse.json({ ok: true, totalSent, results, googleIndex })
+  return NextResponse.json({
+    ok: true,
+    totalSent,
+    results,
+    googleIndex: googleIndex.status === 'fulfilled' ? googleIndex.value : { error: String((googleIndex as PromiseRejectedResult).reason) },
+    indexNow: indexNow.status === 'fulfilled' ? indexNow.value : { error: String((indexNow as PromiseRejectedResult).reason) },
+    gscSitemap: gscSitemap.status === 'fulfilled' ? gscSitemap.value : { error: String((gscSitemap as PromiseRejectedResult).reason) },
+  })
 }
