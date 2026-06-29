@@ -80,13 +80,13 @@ export async function GET(request: NextRequest) {
       .eq('status', 'failed')
 
     health.checks.webhook_queue = {
-      status: failed === 0 ? 'ok' : 'warning',
+      status: failed === 0 || failed === null ? 'ok' : 'warning',
       latency_ms: Date.now() - queueStart,
-      pending_events: pending,
-      failed_events: failed,
+      pending_events: pending ?? 0,
+      failed_events: failed ?? 0,
     }
 
-    if (failed > 0) health.status = 'degraded'
+    if (failed && failed > 0) health.status = 'degraded'
   } catch (e) {
     health.checks.webhook_queue = { status: 'error', error: String(e) }
   }
