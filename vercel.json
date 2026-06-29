@@ -1,6 +1,10 @@
 {
   "crons": [
     {
+      "path": "/api/cron/refresh-stats",
+      "schedule": "0 0 * * *"
+    },
+    {
       "path": "/api/cron/email-drip",
       "schedule": "0 12 * * *"
     },
