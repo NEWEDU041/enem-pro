@@ -5,6 +5,8 @@ import { notFound } from 'next/navigation'
 import { getPost, getAllSlugs, getRelatedPosts } from '@/lib/blog-data'
 import { SITE_URL } from '@/lib/site-config'
 
+export const dynamicParams = false
+
 export async function generateStaticParams() {
   return getAllSlugs().map(slug => ({ slug }))
 }
@@ -215,14 +217,13 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
 
   const postUrl = `${SITE_URL}/blog/${slug}`
 
-  const today = new Date().toISOString().split('T')[0]
   const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'BlogPosting',
     headline: post.title,
     description: post.description,
     datePublished: post.date,
-    dateModified: today,
+    dateModified: post.date,
     url: postUrl,
     inLanguage: 'pt-BR',
     author: {
@@ -291,10 +292,6 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
         <div className="flex items-center gap-3 mb-6 flex-wrap">
           <time dateTime={post.date} className="text-sm text-zinc-600">
             Publicado em {new Date(post.date).toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' })}
-          </time>
-          <span aria-hidden="true" className="text-zinc-300">·</span>
-          <time dateTime={today} className="text-sm text-zinc-600">
-            Atualizado em {new Date(today).toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' })}
           </time>
           <span aria-hidden="true" className="text-zinc-300">·</span>
           <span className="text-sm text-zinc-600">{post.readTime} min de leitura</span>
