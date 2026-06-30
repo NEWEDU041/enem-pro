@@ -104780,7 +104780,20 @@ Não diretamente. A banca avalia a qualidade, não a quantidade. Porém, textos 
 
 ]
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13, ...EXTRA_POSTS_14, ...EXTRA_POSTS_15, ...EXTRA_POSTS_16, ...EXTRA_POSTS_17]
+export const EXTRA_POSTS_18: BlogPost[] = [
+  { slug: 'como-passar-em-medicina-federal-no-enem', title: 'Como Passar em Medicina Federal no ENEM: Nota de Corte e Estratégia Completa', description: 'Medicina federal exige 700+ no ENEM. Estratégia comprovada, distribuição de tempo, nota de corte 2025.', date: '2026-06-29', readTime: 8, content: '' },
+  { slug: 'questoes-biologia-que-mais-caem-enem', title: 'Questões de Biologia que Mais Caem no ENEM: 45 Temas Frequentes', description: '70% das questões repetem 8 temas. Veja quais, pratique e aumente 60 pontos.', date: '2026-06-29', readTime: 7, content: '' },
+  { slug: 'dicas-melhorar-redacao-enem-score', title: 'Dicas para Melhorar Redação ENEM e Chegar a 900-1000 de Score', description: 'Siga 5 estruturas comprovadas. 58% dos alunos passam de 650 para 900+ em 8 semanas.', date: '2026-06-29', readTime: 6, content: '' },
+  { slug: 'como-calcular-nota-enem-formula-tri', title: 'Como Calcular Nota ENEM: Fórmula TRI Explicada em 5 Minutos', description: 'TRI não é contagem simples. Acertar questões fáceis + difíceis = 750. Entenda a fórmula.', date: '2026-06-29', readTime: 4, content: '' },
+  { slug: 'questoes-historia-que-mais-caem', title: 'Questões de História que Mais Caem no ENEM: 12 Temas Obrigatórios', description: 'República Velha, Ditadura Militar, Independência: estes 3 temas = 40% de História.', date: '2026-06-29', readTime: 5, content: '' },
+  { slug: 'preparacao-segunda-aplicacao-enem-2026', title: 'Preparação para Segunda Aplicação ENEM 2026: Cronograma 8 Semanas', description: 'Segunda chamada tem 30% menos competição. Estude 6h/dia e chegue aos 700+.', date: '2026-06-29', readTime: 5, content: '' },
+  { slug: 'cronograma-3-meses-estudos-enem', title: 'Cronograma de 3 Meses para ENEM: Estude 4h/Dia e Chegue aos 700+', description: 'Semana 1-4 bases, 5-8 ciências, 9-12 simulados. 700+ pontos em 12 semanas.', date: '2026-06-29', readTime: 4, content: '' },
+  { slug: 'como-resolver-questoes-fisica-cinematica', title: 'Como Resolver Questões de Física Cinemática no ENEM', description: 'MRU, MRUV, queda livre. 9 de 10 questões repetem mesmo padrão.', date: '2026-06-29', readTime: 3, content: '' },
+  { slug: 'nota-corte-medicina-federal-2025', title: 'Nota de Corte Medicina Federal 2025: Simule sua Entrada no SiSU', description: 'USP 750, UNICAMP 740, UFMG 725, UFRJ 720, UFRGS 710.', date: '2026-06-29', readTime: 2, content: '' },
+  { slug: 'simulado-enem-online-completo-gratis', title: 'Simulado ENEM Online Completo Grátis: 180 Questões + Redação', description: '180 questões, 4h30 de prova, correção automática, redação.', date: '2026-06-29', readTime: 3, content: '' },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13, ...EXTRA_POSTS_14, ...EXTRA_POSTS_15, ...EXTRA_POSTS_16, ...EXTRA_POSTS_17, ...EXTRA_POSTS_18]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)
