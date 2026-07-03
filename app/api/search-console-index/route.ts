@@ -1,13 +1,14 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { getAllSlugs } from '@/lib/blog-data'
+import { getAllSlugsLight as getAllSlugs } from '@/lib/blog-index'
 import { notifyGoogleBatch } from '@/lib/google-indexing'
 import { SITE_URL } from '@/lib/site-config'
+import { withErrorHandling } from '@/lib/api-helpers'
 
 export const dynamic = 'force-dynamic'
 
 // POST /api/search-console-index          → indexa todos os posts
 // POST /api/search-console-index?slug=x   → indexa um post específico
-export async function POST(request: NextRequest) {
+export const POST = withErrorHandling(async (request: NextRequest) => {
   const authHeader = request.headers.get('authorization')
   if (authHeader !== `Bearer ${process.env.CRON_SECRET}`) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
@@ -32,10 +33,10 @@ export async function POST(request: NextRequest) {
   const fail = results.filter(r => r.status !== 200).length
 
   return NextResponse.json({ total: urls.length, ok, fail, results })
-}
+})
 
 // GET: indexa os 12 posts expandidos recentemente (uso manual/admin)
-export async function GET(request: NextRequest) {
+export const GET = withErrorHandling(async (request: NextRequest) => {
   const authHeader = request.headers.get('authorization')
   if (authHeader !== `Bearer ${process.env.CRON_SECRET}`) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
@@ -58,4 +59,4 @@ export async function GET(request: NextRequest) {
   const ok = results.filter(r => r.status === 200).length
 
   return NextResponse.json({ total: urls.length, ok, results })
-}
+})

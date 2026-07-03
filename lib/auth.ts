@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from './supabase'
 
 export type AuthResult =
-  | { ok: true; userId: string; token: string }
+  | { ok: true; userId: string; token: string; email?: string }
   | { ok: false; response: NextResponse }
 
 export async function requireAuth(request: NextRequest): Promise<AuthResult> {
@@ -18,5 +18,5 @@ export async function requireAuth(request: NextRequest): Promise<AuthResult> {
     return { ok: false, response: NextResponse.json({ error: 'Token inválido' }, { status: 401 }) }
   }
 
-  return { ok: true, userId: user.id, token }
+  return { ok: true, userId: user.id, token, email: user.email }
 }

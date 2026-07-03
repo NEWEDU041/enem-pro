@@ -2,12 +2,13 @@ import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
 import { requireAuth } from '@/lib/auth'
 import { sendDripEmail } from '@/lib/resend'
+import { withErrorHandling } from '@/lib/api-helpers'
 
 export const dynamic = 'force-dynamic'
 
 const VALID_DRIP_DAYS = [0, 1, 3, 7, 14, 21, 30]
 
-export async function POST(req: NextRequest) {
+export const POST = withErrorHandling(async (req: NextRequest) => {
   const auth = await requireAuth(req)
   if (!auth.ok) return auth.response
   const { userId } = auth
@@ -73,4 +74,4 @@ export async function POST(req: NextRequest) {
   }
 
   return NextResponse.json({ ok: sent })
-}
+})

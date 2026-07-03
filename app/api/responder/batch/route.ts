@@ -2,15 +2,26 @@ import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
 import { requireAuth } from '@/lib/auth'
 import { FREE_DAILY_LIMIT, isPro } from '@/lib/utils'
+import { withErrorHandling } from '@/lib/api-helpers'
+import { fetchQuestionsByYearCached } from '@/lib/questions-cache'
+import type { Question } from '@/lib/types'
 
 export const dynamic = 'force-dynamic'
 
 interface BatchAnswer {
   question_id: string
   selected_alternative: string
-  correct_alternative: string
   discipline?: string
   year?: number
+}
+
+interface AnswerInsertRow {
+  user_id: string
+  question_id: string
+  selected_alternative: string
+  is_correct: boolean
+  discipline: string | null
+  year: number | null
 }
 
 interface BatchResult {
@@ -19,7 +30,7 @@ interface BatchResult {
   error?: string
 }
 
-export async function POST(request: NextRequest) {
+export const POST = withErrorHandling(async (request: NextRequest) => {
   const auth = await requireAuth(request)
   if (!auth.ok) return auth.response
   const { userId: user_id } = auth
@@ -71,16 +82,33 @@ export async function POST(request: NextRequest) {
     }
   }
 
+  // Resolve the answer key server-side (one fetch per distinct year, cached)
+  // instead of trusting the client-supplied correct_alternative — otherwise a
+  // forged payload can claim 100% accuracy and corrupt stats/streak/ranking.
+  const years = [...new Set(answers.map(a => a.year).filter((y): y is number => !!y))]
+  const questionsByYear = new Map<number, Question[]>()
+  await Promise.all(years.map(async (year) => {
+    questionsByYear.set(year, await fetchQuestionsByYearCached(year))
+  }))
+
+  function resolveCorrect(a: BatchAnswer): string | null {
+    if (!a.year) return null
+    const found = questionsByYear.get(a.year)?.find(q => q.id === a.question_id)
+    return found?.correctAlternative ?? null
+  }
+
   // Process all answers in parallel
   const results: BatchResult[] = []
-  const answersToInsert: any[] = []
+  const answersToInsert: AnswerInsertRow[] = []
 
   for (const answer of answers) {
-    const is_correct = answer.selected_alternative === answer.correct_alternative
+    const correct = resolveCorrect(answer)
+    const is_correct = correct !== null && answer.selected_alternative === correct
 
     results.push({
       question_id: answer.question_id,
       is_correct,
+      ...(correct === null ? { error: 'Questão não encontrada' } : {}),
     })
 
     answersToInsert.push({
@@ -103,12 +131,15 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ error: 'Failed to save answers' }, { status: 500 })
   }
 
-  // Update daily usage (non-pro users)
+  // Update daily usage (non-pro users) — atomic RPC avoids the race where
+  // parallel requests read the same stale count and clobber each other.
   if (!userIsPro) {
-    await supabase.from('daily_usage').upsert(
-      { user_id, date: today, count: currentCount + answers.length },
-      { onConflict: 'user_id,date' }
-    )
+    const { error: usageError } = await supabase.rpc('increment_daily_usage', {
+      p_user_id: user_id,
+      p_date: today,
+      p_n: answers.length,
+    })
+    if (usageError) console.error('[responder/batch] usage increment failed:', usageError.message)
   }
 
   // Calculate stats
@@ -125,4 +156,4 @@ export async function POST(request: NextRequest) {
     },
     isPro: userIsPro,
   })
-}
+})

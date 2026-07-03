@@ -1,5 +1,5 @@
 import { JWT } from 'google-auth-library'
-import { getAllSlugs } from '@/lib/blog-data'
+import { getAllSlugsLight as getAllSlugs } from '@/lib/blog-index'
 import { SITE_URL } from '@/lib/site-config'
 
 const INDEXING_API = 'https://indexing.googleapis.com/v3/urlNotifications:publish'

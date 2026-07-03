@@ -1,10 +1,11 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
 import { cleanEnv } from '@/lib/utils'
+import { withErrorHandling } from '@/lib/api-helpers'
 
 export const dynamic = 'force-dynamic'
 
-export async function POST(request: NextRequest) {
+export const POST = withErrorHandling(async (request: NextRequest) => {
   const secret = request.headers.get('x-admin-secret')
   if (!secret || secret !== cleanEnv(process.env.ADMIN_SECRET)) {
     return NextResponse.json({ error: 'Não autorizado' }, { status: 401 })
@@ -31,4 +32,4 @@ export async function POST(request: NextRequest) {
   )
 
   return NextResponse.json({ ok: true, user_id: userId, expires_at: expiresAt })
-}
+})

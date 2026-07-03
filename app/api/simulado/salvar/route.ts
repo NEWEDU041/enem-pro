@@ -2,18 +2,20 @@ import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
 import { requireAuth } from '@/lib/auth'
 import { isPro, FREE_DAILY_LIMIT } from '@/lib/utils'
+import { withErrorHandling } from '@/lib/api-helpers'
+import { fetchQuestionsByYearCached } from '@/lib/questions-cache'
+import type { Question } from '@/lib/types'
 
 export const dynamic = 'force-dynamic'
 
 interface AnswerPayload {
   question_id: string
   selected_alternative: string
-  correct_alternative: string
   discipline?: string
   year?: number
 }
 
-export async function POST(request: NextRequest) {
+export const POST = withErrorHandling(async (request: NextRequest) => {
   const auth = await requireAuth(request)
   if (!auth.ok) return auth.response
   const { userId } = auth
@@ -47,21 +49,34 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ saved: 0, total: answers.length, limitReached: true })
   }
 
-  const rows = toSave.map((a) => ({
-    user_id: userId,
-    question_id: a.question_id,
-    selected_alternative: a.selected_alternative,
-    is_correct: a.selected_alternative === a.correct_alternative,
-    discipline: a.discipline ?? null,
-    year: a.year ?? null,
+  // Resolve the answer key server-side instead of trusting the client's
+  // correct_alternative — otherwise a forged payload can claim 100% accuracy.
+  const years = [...new Set(toSave.map(a => a.year).filter((y): y is number => !!y))]
+  const questionsByYear = new Map<number, Question[]>()
+  await Promise.all(years.map(async (year) => {
+    questionsByYear.set(year, await fetchQuestionsByYearCached(year))
   }))
+
+  const rows = toSave.map((a) => {
+    const correct = a.year ? questionsByYear.get(a.year)?.find(q => q.id === a.question_id)?.correctAlternative : undefined
+    return {
+      user_id: userId,
+      question_id: a.question_id,
+      selected_alternative: a.selected_alternative,
+      is_correct: !!correct && a.selected_alternative === correct,
+      discipline: a.discipline ?? null,
+      year: a.year ?? null,
+    }
+  })
 
   await supabase.from('user_answers').insert(rows)
 
-  await supabase.from('daily_usage').upsert(
-    { user_id: userId, date: today, count: currentCount + toSave.length },
-    { onConflict: 'user_id,date' }
-  )
+  const { error: usageError } = await supabase.rpc('increment_daily_usage', {
+    p_user_id: userId,
+    p_date: today,
+    p_n: toSave.length,
+  })
+  if (usageError) console.error('[simulado/salvar] usage increment failed:', usageError.message)
 
   return NextResponse.json({ saved: toSave.length, total: answers.length, limitReached: !userIsPro && toSave.length < answers.length })
-}
+})

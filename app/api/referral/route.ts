@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
 import { requireAuth } from '@/lib/auth'
+import { withErrorHandling } from '@/lib/api-helpers'
 
 export const dynamic = 'force-dynamic'
 
@@ -12,7 +13,7 @@ function makeCode(userId: string, attempt = 0): string {
 }
 
 // GET /api/referral — get or generate referral code + stats (requires auth)
-export async function GET(req: NextRequest) {
+export const GET = withErrorHandling(async (req: NextRequest) => {
   const auth = await requireAuth(req)
   if (!auth.ok) return auth.response
   const { userId } = auth
@@ -38,10 +39,10 @@ export async function GET(req: NextRequest) {
     .eq('referrer_id', userId)
 
   return NextResponse.json({ code, total: count || 0 })
-}
+})
 
 // POST /api/referral — register referral + reward referrer
-export async function POST(req: NextRequest) {
+export const POST = withErrorHandling(async (req: NextRequest) => {
   const { ref_code, referred_user_id } = await req.json()
   if (!ref_code || !referred_user_id) {
     return NextResponse.json({ error: 'Missing params' }, { status: 400 })
@@ -87,4 +88,4 @@ export async function POST(req: NextRequest) {
   )
 
   return NextResponse.json({ ok: true })
-}
+})

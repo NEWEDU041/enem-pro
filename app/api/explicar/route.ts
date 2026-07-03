@@ -5,8 +5,11 @@ import { requireAuth } from '@/lib/auth'
 import { cleanEnv, isPro, FREE_DAILY_EXPLANATIONS } from '@/lib/utils'
 import { checkRateLimit } from '@/lib/rate-limit'
 import { PROMPTS } from '@/lib/ai-prompts'
+import { fetchSingleQuestionCached } from '@/lib/questions-cache'
 
 export const dynamic = 'force-dynamic'
+
+const QUESTION_ID_RE = /^\d{4}-\d+$/
 
 export async function POST(request: NextRequest) {
   const auth = await requireAuth(request)
@@ -16,7 +19,11 @@ export async function POST(request: NextRequest) {
   const supabase = createServerClient()
 
   const body = await request.json()
-  const { question_id, question_title, correct_alternative, selected_alternative, is_correct, alternatives, discipline, year } = body
+  const { question_id, selected_alternative } = body
+
+  if (question_id && !QUESTION_ID_RE.test(question_id)) {
+    return NextResponse.json({ error: 'question_id inválido' }, { status: 400 })
+  }
 
   // 1. Check explanation cache first — avoids any AI cost if already generated
   if (question_id) {
@@ -76,15 +83,21 @@ export async function POST(request: NextRequest) {
   // Optional: generate on-demand as fallback for Pro users only
   if (userIsPro && question_id) {
     try {
+      const [yearStr, indexStr] = question_id.split('-')
+      const question = await fetchSingleQuestionCached(Number(yearStr), Number(indexStr))
+      if (!question) {
+        return NextResponse.json({ error: 'Questão não encontrada' }, { status: 404 })
+      }
+
       const anthropic = new Anthropic({ apiKey: cleanEnv(process.env.ANTHROPIC_API_KEY) })
 
-      const alternativesText = alternatives
-        .map((a: { letter: string; text: string }) => `${a.letter}) ${a.text}`)
+      const alternativesText = question.alternatives
+        .map(a => `${a.letter}) ${a.text}`)
         .join('\n')
 
-      const wrong = is_correct === false && selected_alternative && selected_alternative !== correct_alternative
+      const wrong = !!selected_alternative && selected_alternative !== question.correctAlternative
       const selectedText = wrong
-        ? alternatives?.find((a: { letter: string }) => a.letter === selected_alternative)?.text
+        ? question.alternatives.find(a => a.letter === selected_alternative)?.text
         : null
 
       const message = await anthropic.messages.create({
@@ -94,19 +107,22 @@ export async function POST(request: NextRequest) {
         messages: [
           {
             role: 'user',
-            content: `${discipline} (ENEM ${year})\n\n${question_title}\n\nAlternativas:\n${alternativesText}\n\nCorreta: ${correct_alternative}${wrong && selectedText ? `\nAluno escolheu: ${selected_alternative}) ${selectedText}` : ''}`,
+            content: `${question.discipline} (ENEM ${question.year})\n\n${question.title}\n\nAlternativas:\n${alternativesText}\n\nCorreta: ${question.correctAlternative}${wrong && selectedText ? `\nAluno escolheu: ${selected_alternative}) ${selectedText}` : ''}`,
           },
         ],
       })
 
       const explanation = message.content[0].type === 'text' ? message.content[0].text : ''
 
-      // Cache the generated explanation
-      void supabase.from('question_explanations').upsert({
+      // Cache the generated explanation. `void` alone never triggers the
+      // PostgrestBuilder's lazy thenable — it must be awaited or `.then()`'d.
+      supabase.from('question_explanations').upsert({
         question_id,
         explanation,
         model: 'claude-haiku-4-5-20251001',
-      }, { onConflict: 'question_id' })
+      }, { onConflict: 'question_id' }).then(({ error }) => {
+        if (error) console.error('[explicar] cache upsert failed:', error.message)
+      })
 
       return NextResponse.json({ explanation, fallback: true })
     } catch (e) {

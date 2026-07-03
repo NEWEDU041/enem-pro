@@ -4,6 +4,7 @@ import { sendDripEmail } from '@/lib/resend'
 import { cleanEnv } from '@/lib/utils'
 import { dripDailyGoogleIndex, submitGscSitemap } from '@/lib/google-indexing'
 import { submitIndexNow } from '@/lib/indexnow'
+import { withErrorHandling } from '@/lib/api-helpers'
 
 export const dynamic = 'force-dynamic'
 
@@ -43,7 +44,7 @@ async function getWeakDisc(
   return sorted[0]?.[0]
 }
 
-export async function GET(req: NextRequest) {
+export const GET = withErrorHandling(async (req: NextRequest) => {
   const authHeader = req.headers.get('authorization')
   const secret = cleanEnv(process.env.CRON_SECRET)
 
@@ -122,4 +123,4 @@ export async function GET(req: NextRequest) {
     indexNow: indexNow.status === 'fulfilled' ? indexNow.value : { error: String((indexNow as PromiseRejectedResult).reason) },
     gscSitemap: gscSitemap.status === 'fulfilled' ? gscSitemap.value : { error: String((gscSitemap as PromiseRejectedResult).reason) },
   })
-}
+})

@@ -22,6 +22,7 @@ export async function GET(req: NextRequest) {
 
   const year = parseInt(req.nextUrl.searchParams.get('year') || '2023')
   const limit = parseInt(req.nextUrl.searchParams.get('limit') || '50')
+  const offset = parseInt(req.nextUrl.searchParams.get('offset') || '0')
 
   if (!YEARS.includes(year)) {
     return NextResponse.json({ error: 'Invalid year' }, { status: 400 })
@@ -31,15 +32,26 @@ export async function GET(req: NextRequest) {
   let questions: any[] = []
   let generated = 0
   let failed = 0
+  let stoppedEarly = false
 
   try {
     questions = await fetchQuestionsByYear(year)
-    questions = questions.slice(0, limit)
+    questions = questions.slice(offset, offset + limit)
   } catch (e) {
     return NextResponse.json({ error: `Fetch failed: ${e}` }, { status: 500 })
   }
 
+  // maxDuration is 300s; bail out with a resumable cursor before Vercel
+  // kills the function mid-batch instead of losing track of where it stopped.
+  const deadline = Date.now() + 270_000
+  let processed = 0
+
   for (const q of questions) {
+    if (Date.now() > deadline) {
+      stoppedEarly = true
+      break
+    }
+    processed++
     try {
       const msg = await client.messages.create({
         model: 'claude-haiku-4-5-20251001',
@@ -74,9 +86,14 @@ Correta: ${q.correctAlternative}`,
 
   return NextResponse.json({
     year,
+    offset,
     generated,
     failed,
+    processed,
     total: questions.length,
-    next: `Próximas: year=${year}&limit=${limit}`,
+    stoppedEarly,
+    next: stoppedEarly
+      ? `Retomar: year=${year}&limit=${limit}&offset=${offset + processed}`
+      : `Próximas: year=${year}&limit=${limit}&offset=${offset + limit}`,
   })
 }

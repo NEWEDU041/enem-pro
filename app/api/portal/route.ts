@@ -1,18 +1,19 @@
 import { NextRequest, NextResponse } from 'next/server'
-import Stripe from 'stripe'
 import { createServerClient } from '@/lib/supabase'
 import { requireAuth } from '@/lib/auth'
+import { getStripe } from '@/lib/stripe'
 import { cleanEnv } from '@/lib/utils'
+import { withErrorHandling } from '@/lib/api-helpers'
 
 export const dynamic = 'force-dynamic'
 
-export async function POST(request: NextRequest) {
+export const POST = withErrorHandling(async (request: NextRequest) => {
   const auth = await requireAuth(request)
   if (!auth.ok) return auth.response
   const { userId } = auth
 
-  const stripeKey = cleanEnv(process.env.STRIPE_SECRET_KEY)
-  if (!stripeKey) return NextResponse.json({ error: 'Stripe não configurado' }, { status: 503 })
+  const stripe = getStripe()
+  if (!stripe) return NextResponse.json({ error: 'Stripe não configurado' }, { status: 503 })
 
   const supabase = createServerClient()
   const { data: sub } = await supabase
@@ -25,7 +26,6 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ error: 'Sem assinatura Stripe ativa' }, { status: 404 })
   }
 
-  const stripe = new Stripe(stripeKey)
   const origin = cleanEnv(request.headers.get('origin') ?? undefined)
     || cleanEnv(process.env.NEXT_PUBLIC_SITE_URL)
     || 'https://questoesenem.pro'
@@ -36,4 +36,4 @@ export async function POST(request: NextRequest) {
   })
 
   return NextResponse.json({ url: session.url })
-}
+})

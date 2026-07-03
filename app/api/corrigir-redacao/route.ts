@@ -57,11 +57,14 @@ export async function POST(request: NextRequest) {
     }],
   })
 
-  // Fire-and-forget: save submission (void discards the PromiseLike)
-  void supabase.from('redacao_submissions').insert({
+  // Fire-and-forget: save submission. `void` alone never triggers the
+  // PostgrestBuilder's lazy thenable — it must be awaited or `.then()`'d.
+  supabase.from('redacao_submissions').insert({
     user_id: userId,
     tema: tema?.trim() ?? '',
     texto: texto.trim(),
+  }).then(({ error }) => {
+    if (error) console.error('[corrigir-redacao] save submission failed:', error.message)
   })
 
   const enc = new TextEncoder()

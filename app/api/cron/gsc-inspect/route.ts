@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { JWT } from 'google-auth-library'
-import { getAllSlugs } from '@/lib/blog-data'
+import { getAllSlugsLight as getAllSlugs } from '@/lib/blog-index'
 import { SITE_URL } from '@/lib/site-config'
 
 export const dynamic = 'force-dynamic'

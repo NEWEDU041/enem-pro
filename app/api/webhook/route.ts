@@ -2,6 +2,8 @@ import { NextRequest, NextResponse } from 'next/server'
 import Stripe from 'stripe'
 import { createServerClient } from '@/lib/supabase'
 import { cleanEnv } from '@/lib/utils'
+import { getStripe } from '@/lib/stripe'
+import { withErrorHandling } from '@/lib/api-helpers'
 
 export const dynamic = 'force-dynamic'
 
@@ -11,11 +13,10 @@ function addMonths(months: number): string {
   return d.toISOString()
 }
 
-export async function POST(request: NextRequest) {
-  const stripeKey = cleanEnv(process.env.STRIPE_SECRET_KEY)
-  if (!stripeKey) return NextResponse.json({ error: 'Stripe não configurado' }, { status: 503 })
+export const POST = withErrorHandling(async (request: NextRequest) => {
+  const stripe = getStripe()
+  if (!stripe) return NextResponse.json({ error: 'Stripe não configurado' }, { status: 503 })
 
-  const stripe = new Stripe(stripeKey)
   const body = await request.text()
   const sig = request.headers.get('stripe-signature') || ''
 
@@ -36,7 +37,7 @@ export async function POST(request: NextRequest) {
     const plan = (session.metadata?.plan as string) || 'monthly'
     const months = plan === 'annual' ? 12 : 1
 
-    await supabase.from('subscriptions').upsert(
+    const { error } = await supabase.from('subscriptions').upsert(
       {
         user_id: userId,
         plan: 'pro',
@@ -47,6 +48,10 @@ export async function POST(request: NextRequest) {
       },
       { onConflict: 'user_id' }
     )
+    if (error) {
+      console.error('[webhook] checkout.session.completed upsert failed:', error.message)
+      return NextResponse.json({ error: 'Database error' }, { status: 500 })
+    }
   }
 
   if (event.type === 'customer.subscription.updated') {
@@ -56,7 +61,7 @@ export async function POST(request: NextRequest) {
 
     const isActive = sub.status === 'active' || sub.status === 'trialing'
     if (isActive) {
-      await supabase.from('subscriptions').upsert(
+      const { error } = await supabase.from('subscriptions').upsert(
         {
           user_id: userId,
           plan: 'pro',
@@ -67,11 +72,19 @@ export async function POST(request: NextRequest) {
         },
         { onConflict: 'user_id' }
       )
+      if (error) {
+        console.error('[webhook] subscription.updated upsert failed:', error.message)
+        return NextResponse.json({ error: 'Database error' }, { status: 500 })
+      }
     } else {
       // past_due, paused, incomplete_expired → rebaixa para free
-      await supabase.from('subscriptions')
+      const { error } = await supabase.from('subscriptions')
         .update({ plan: 'free', expires_at: new Date().toISOString(), updated_at: new Date().toISOString() })
         .eq('user_id', userId)
+      if (error) {
+        console.error('[webhook] subscription.updated downgrade failed:', error.message)
+        return NextResponse.json({ error: 'Database error' }, { status: 500 })
+      }
     }
   }
 
@@ -80,10 +93,14 @@ export async function POST(request: NextRequest) {
     const userId = sub.metadata?.user_id
     if (!userId) return NextResponse.json({ ok: true })
 
-    await supabase.from('subscriptions')
+    const { error } = await supabase.from('subscriptions')
       .update({ plan: 'free', expires_at: new Date().toISOString(), updated_at: new Date().toISOString() })
       .eq('user_id', userId)
+    if (error) {
+      console.error('[webhook] subscription.deleted downgrade failed:', error.message)
+      return NextResponse.json({ error: 'Database error' }, { status: 500 })
+    }
   }
 
   return NextResponse.json({ ok: true })
-}
+})

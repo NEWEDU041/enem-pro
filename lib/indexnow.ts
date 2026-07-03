@@ -1,4 +1,4 @@
-import { getAllSlugs } from '@/lib/blog-data'
+import { getAllSlugsLight as getAllSlugs } from '@/lib/blog-index'
 import { SITE_URL } from '@/lib/site-config'
 
 const KEY = '6f7796920fdc4262ac71d91b405fc939'

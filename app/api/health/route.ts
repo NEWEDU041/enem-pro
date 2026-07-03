@@ -18,8 +18,13 @@ export async function GET(request: NextRequest) {
   // Check 1: Database connectivity
   const dbStart = Date.now()
   try {
-    const { data, error } = await sb.from('question_explanations').select('count(*)').limit(1)
-    health.checks.database = { status: 'ok', latency_ms: Date.now() - dbStart }
+    const { error } = await sb.from('question_explanations').select('*', { count: 'exact', head: true })
+    if (error) {
+      health.checks.database = { status: 'error', error: error.message, latency_ms: Date.now() - dbStart }
+      health.status = 'unhealthy'
+    } else {
+      health.checks.database = { status: 'ok', latency_ms: Date.now() - dbStart }
+    }
   } catch (e) {
     health.checks.database = { status: 'error', error: String(e), latency_ms: Date.now() - dbStart }
     health.status = 'unhealthy'
@@ -66,31 +71,6 @@ export async function GET(request: NextRequest) {
     health.checks.cache = { status: 'error', error: String(e) }
   }
 
-  // Check 4: Webhook queue
-  try {
-    const queueStart = Date.now()
-    const { count: pending } = await sb
-      .from('webhook_queue')
-      .select('*', { count: 'exact', head: true })
-      .eq('status', 'pending')
-
-    const { count: failed } = await sb
-      .from('webhook_queue')
-      .select('*', { count: 'exact', head: true })
-      .eq('status', 'failed')
-
-    health.checks.webhook_queue = {
-      status: failed === 0 || failed === null ? 'ok' : 'warning',
-      latency_ms: Date.now() - queueStart,
-      pending_events: pending ?? 0,
-      failed_events: failed ?? 0,
-    }
-
-    if (failed && failed > 0) health.status = 'degraded'
-  } catch (e) {
-    health.checks.webhook_queue = { status: 'error', error: String(e) }
-  }
-
   // Check 5: AI cost efficiency (token optimization)
   try {
     const { count: haikuCount } = await sb
@@ -132,9 +112,6 @@ export async function GET(request: NextRequest) {
   health.recommendations = []
   if (parseInt(health.checks.cache?.estimated_hit_rate ?? '100') < 20) {
     health.recommendations.push('⚠️  Low cache hit rate: run generation script')
-  }
-  if (health.checks.webhook_queue?.failed_events > 0) {
-    health.recommendations.push('⚠️  Webhook failures: check logs')
   }
   if (health.checks.ai_optimization?.expensive_models > 0) {
     health.recommendations.push('⚠️  Expensive AI models in use: migrate to Haiku')

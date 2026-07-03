@@ -1,13 +1,14 @@
 import { NextRequest, NextResponse } from 'next/server'
-import Stripe from 'stripe'
-import { createServerClient } from '@/lib/supabase'
+import { requireAuth } from '@/lib/auth'
+import { getStripe } from '@/lib/stripe'
 import { cleanEnv } from '@/lib/utils'
+import { withErrorHandling } from '@/lib/api-helpers'
 
 export const dynamic = 'force-dynamic'
 
-export async function POST(request: NextRequest) {
-  const stripeKey = cleanEnv(process.env.STRIPE_SECRET_KEY)
-  if (!stripeKey) return NextResponse.json({ error: 'Stripe não configurado' }, { status: 503 })
+export const POST = withErrorHandling(async (request: NextRequest) => {
+  const stripe = getStripe()
+  if (!stripe) return NextResponse.json({ error: 'Stripe não configurado' }, { status: 503 })
 
   const monthlyPriceId = cleanEnv(process.env.STRIPE_PRICE_ID_MONTHLY)
   const annualPriceId = cleanEnv(process.env.STRIPE_PRICE_ID_ANNUAL)
@@ -15,15 +16,9 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ error: 'Preços Stripe não configurados' }, { status: 503 })
   }
 
-  const stripe = new Stripe(stripeKey)
-  const supabase = createServerClient()
-
-  const authHeader = request.headers.get('authorization') || ''
-  const token = authHeader.replace(/^Bearer\s+/i, '')
-  if (!token) return NextResponse.json({ error: 'Não autenticado' }, { status: 401 })
-
-  const { data: { user }, error: authError } = await supabase.auth.getUser(token)
-  if (authError || !user) return NextResponse.json({ error: 'Token inválido' }, { status: 401 })
+  const auth = await requireAuth(request)
+  if (!auth.ok) return auth.response
+  const { userId, email } = auth
 
   const body = await request.json()
   const plan = body.plan === 'annual' ? 'annual' : 'monthly'
@@ -37,14 +32,14 @@ export async function POST(request: NextRequest) {
     mode: 'subscription',
     payment_method_types: ['card'],
     line_items: [{ price: priceId, quantity: 1 }],
-    client_reference_id: user.id,
-    customer_email: user.email,
-    metadata: { user_id: user.id, plan },
-    subscription_data: { metadata: { user_id: user.id } },
+    client_reference_id: userId,
+    customer_email: email,
+    metadata: { user_id: userId, plan },
+    subscription_data: { metadata: { user_id: userId } },
     success_url: `${origin}/dashboard?upgrade=success&plan=${plan}`,
     cancel_url: `${origin}/planos`,
     locale: 'pt-BR',
   })
 
   return NextResponse.json({ url: session.url })
-}
+})
