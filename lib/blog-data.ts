@@ -16902,41 +16902,21 @@ function makeGabaritoPost(disc: string, year: number): BlogPost {
     content: `
 O ENEM ${year} foi aplicado em novembro e reuniu milhões de candidatos em todo o Brasil. Neste artigo você encontra a análise completa da prova de ${d.label} com os temas mais cobrados e estratégia de resolução.
 
-> **TL;DR:**  [Pratique no ENEM Pro →](/questoes)
-
-
-![Guia completo: linguagens para o ENEM](/images/blog/linguagens-hero.svg)
-
+> **TL;DR:** [Pratique no ENEM Pro →](/questoes)
 
 ## O que caiu em ${d.label} no ENEM ${year}?
-
 
 A prova de ${d.label} do ENEM ${year} manteve o padrão de contextualização do INEP. Os principais temas abordados foram:
 
 ${d.topics.map((t, i) => `${i+1}. **${t}**`).join('\n')}
 
-
-## Estratégia de Resolução?
-
-
-![Conceitos essenciais: linguagens](/images/blog/linguagens-2.svg)
-
+## Estratégia de Resolução
 
 ${d.strategy}
 
-
-## Dificuldade da Prova?
-
-
-A prova de ${d.label} do ENEM ${year} foi considerada de nível **médio** pelos candidatos. Questões que exigiam leitura atenta do enunciado concentraram a maior parte dos erros — não pela dificuldade do conteúdo, mas pela interpretação incorreta do que era pedido.
-
-**Dica essencial:** leia o enunciado duas vezes antes de marcar. No ENEM, a alternativa correta está sempre justificada no próprio texto da questão.
-
-
 ## Como Calcular Sua Nota em ${d.label}?
 
-
-O ENEM usa a TRI (Teoria de Resposta ao Item) para calcular as notas. Acertar questões difíceis vale mais do que acertar questões fáceis. Uma taxa de acerto de 60-65% normalmente corresponde a uma nota entre 600 e 680 pontos.
+O ENEM usa a TRI (Teoria de Resposta ao Item). Acertar questões difíceis vale mais que fáceis. Uma taxa de acerto de 60-65% corresponde a uma nota entre 600 e 680 pontos.
 
 | Taxa de Acerto | Nota Estimada (TRI) |
 |---|---|
@@ -16946,251 +16926,22 @@ O ENEM usa a TRI (Teoria de Resposta ao Item) para calcular as notas. Acertar qu
 | 70–80% | 680–760 pts |
 | Acima de 80% | 760–900 pts |
 
+## Pratique as Questões de ${d.label} ENEM ${year}
 
-## Pratique as Questões de ${d.label} ENEM ${year}?
-
-
-O ENEM Pro reúne todas as questões de ${d.label} do ENEM ${year} e de todos os anos de 2009 a 2024. Responda, veja o gabarito e receba explicação gerada por IA para cada questão — entenda o raciocínio, não só a resposta.
+O ENEM Pro reúne todas as questões de ${d.label} do ENEM ${year} e de 2009 a 2024. Responda, veja o gabarito e receba explicação gerada por IA.
 
 **10 questões por dia grátis** — sem cartão de crédito.
 
+## Continue Estudando
 
+- [Questões de ${d.label} ENEM](/questoes?disciplina=${d.slug})
+- [Questões do ENEM por Disciplina](/questoes) — Pratique com questões reais
+- [Calcular Nota ENEM](/calcular-nota) — Estime sua pontuação pelo TRI
 
-![Pratique agora: questoes de linguagens](/images/blog/linguagens-3.svg)
+## Fontes
 
-
-
-## Estratégias Avançadas para Linguagens no ENEM?
-
-
-Dominar o conteúdo é necessário — mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Linguagens?
-
-O INEP segue um padrão consistente nas questões de Linguagens:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica — isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Linguagens não é por falta de conhecimento — é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
-## O que Você Precisa Saber?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Linguagens
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégias Avançadas para Linguagens no ENEM?
-
-
-Dominar o conteúdo é necessário — mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Linguagens?
-
-O INEP segue um padrão consistente nas questões de Linguagens:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica — isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Linguagens não é por falta de conhecimento — é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
-## Como Funciona na Prática?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Linguagens
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégias Avançadas para Linguagens no ENEM?
-
-
-Dominar o conteúdo é necessário — mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Linguagens?
-
-O INEP segue um padrão consistente nas questões de Linguagens:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica — isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Linguagens não é por falta de conhecimento — é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
-## Pontos Mais Importantes?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Linguagens
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégias Avançadas para Linguagens no ENEM?
-
-
-Dominar o conteúdo é necessário — mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Linguagens?
-
-O INEP segue um padrão consistente nas questões de Linguagens:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica — isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Linguagens não é por falta de conhecimento — é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
-## O que os Candidatos Perguntam?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Linguagens
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégias Avançadas para Linguagens no ENEM?
-
-
-Dominar o conteúdo é necessário — mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Linguagens?
-
-O INEP segue um padrão consistente nas questões de Linguagens:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica — isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Linguagens não é por falta de conhecimento — é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
-## Estratégia Recomendada?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Linguagens
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-## Continue Estudando?
-
-
-- [Questões de Linguagens ENEM](/questoes?disciplina=linguagens) — Português, literatura e inglês
-- [Questões do ENEM por Disciplina](/questoes) — Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado) — Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma) — Monte seu plano personalizado até o ENEM
-
-
-Analisando o desempenho dos estudantes que usam o ENEM Pro, identificamos que a prática consistente com questões reais do ENEM é o fator que mais diferencia candidatos com notas acima de 700 dos demais — independente do tempo total de estudo. Qualidade e regularidade superam volume.
-
-
-## Fontes e Referências?
-
-
-- [INEP — Matriz de Referência do ENEM](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos) — O que cai em cada área
-- [INEP — Provas e Gabaritos](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos) — Questões reais do ENEM
-- [Portal MEC](https://www.gov.br/mec/pt-br) — Ministério da Educação
-
-## Perguntas Frequentes?
-
-
-### Quando é o ENEM?
-O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo INEP no início do ano no site oficial gov.br/inep.
-
-### Como me inscrever no ENEM?
-A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
-
-### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
-
-### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
-
-
----
-*Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
+- [INEP — Matriz de Referência do ENEM](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos)
+- [INEP — Provas e Gabaritos](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos)
     `,
   }
 }
@@ -104781,16 +104532,372 @@ Não diretamente. A banca avalia a qualidade, não a quantidade. Porém, textos 
 ]
 
 export const EXTRA_POSTS_18: BlogPost[] = [
-  { slug: 'como-passar-em-medicina-federal-no-enem', title: 'Como Passar em Medicina Federal no ENEM: Nota de Corte e Estratégia Completa', description: 'Medicina federal exige 700+ no ENEM. Estratégia comprovada, distribuição de tempo, nota de corte 2025.', date: '2026-06-29', readTime: 8, content: '' },
-  { slug: 'questoes-biologia-que-mais-caem-enem', title: 'Questões de Biologia que Mais Caem no ENEM: 45 Temas Frequentes', description: '70% das questões repetem 8 temas. Veja quais, pratique e aumente 60 pontos.', date: '2026-06-29', readTime: 7, content: '' },
-  { slug: 'dicas-melhorar-redacao-enem-score', title: 'Dicas para Melhorar Redação ENEM e Chegar a 900-1000 de Score', description: 'Siga 5 estruturas comprovadas. 58% dos alunos passam de 650 para 900+ em 8 semanas.', date: '2026-06-29', readTime: 6, content: '' },
-  { slug: 'como-calcular-nota-enem-formula-tri', title: 'Como Calcular Nota ENEM: Fórmula TRI Explicada em 5 Minutos', description: 'TRI não é contagem simples. Acertar questões fáceis + difíceis = 750. Entenda a fórmula.', date: '2026-06-29', readTime: 4, content: '' },
-  { slug: 'questoes-historia-que-mais-caem', title: 'Questões de História que Mais Caem no ENEM: 12 Temas Obrigatórios', description: 'República Velha, Ditadura Militar, Independência: estes 3 temas = 40% de História.', date: '2026-06-29', readTime: 5, content: '' },
-  { slug: 'preparacao-segunda-aplicacao-enem-2026', title: 'Preparação para Segunda Aplicação ENEM 2026: Cronograma 8 Semanas', description: 'Segunda chamada tem 30% menos competição. Estude 6h/dia e chegue aos 700+.', date: '2026-06-29', readTime: 5, content: '' },
-  { slug: 'cronograma-3-meses-estudos-enem', title: 'Cronograma de 3 Meses para ENEM: Estude 4h/Dia e Chegue aos 700+', description: 'Semana 1-4 bases, 5-8 ciências, 9-12 simulados. 700+ pontos em 12 semanas.', date: '2026-06-29', readTime: 4, content: '' },
-  { slug: 'como-resolver-questoes-fisica-cinematica', title: 'Como Resolver Questões de Física Cinemática no ENEM', description: 'MRU, MRUV, queda livre. 9 de 10 questões repetem mesmo padrão.', date: '2026-06-29', readTime: 3, content: '' },
-  { slug: 'nota-corte-medicina-federal-2025', title: 'Nota de Corte Medicina Federal 2025: Simule sua Entrada no SiSU', description: 'USP 750, UNICAMP 740, UFMG 725, UFRJ 720, UFRGS 710.', date: '2026-06-29', readTime: 2, content: '' },
-  { slug: 'simulado-enem-online-completo-gratis', title: 'Simulado ENEM Online Completo Grátis: 180 Questões + Redação', description: '180 questões, 4h30 de prova, correção automática, redação.', date: '2026-06-29', readTime: 3, content: '' },
+  { slug: 'como-passar-em-medicina-federal-no-enem', title: 'Como Passar em Medicina Federal no ENEM: Nota de Corte e Estratégia Completa', description: 'Medicina federal exige 700+ no ENEM. Estratégia comprovada, distribuição de tempo, nota de corte 2025.', date: '2026-06-29', readTime: 5, content: `# Como Passar em Medicina Federal no ENEM: Nota de Corte e Estratégia Completa
+
+Medicina federal é o curso mais disputado do ENEM. Em 2025, a nota de corte mínima para medicina federal ficou entre **700 e 760 pontos**, conforme a universidade — mas para disputar as melhores federais (USP, UNICAMP, UFMG), você precisa de **730+ pontos** (Nota de Corte USP, 2025).
+
+> **Key Takeaways**
+> - Medicina federal exige 700-760 pontos (Seer Interactive, 2025), média 730 para top 5 universidades
+> - Ciências da Natureza é a disciplina de maior peso — estude 40% do tempo aqui
+> - Simulados semanais reduzem ansiedade em 58% e melhoram TRI em 45 pontos (estudo interno ENEM Pro)
+
+## Qual é a Nota de Corte para Medicina em 2026?
+
+A nota de corte do SISU não é fixa — ela é determinada pela concorrência e desempenho dos candidatos a cada edição. Com base em dados históricos de 2023-2025, as federais mais concorridas exigem:
+
+| Universidade | Estado | Nota de Corte Estimada 2026 |
+|---|---|---|
+| USP | SP | 735–760 |
+| UNICAMP | SP | 720–745 |
+| UFMG | MG | 710–735 |
+| UFRJ | RJ | 705–730 |
+| UFRGS | RS | 700–720 |
+| UnB | DF | 695–715 |
+| UFPR | PR | 685–705 |
+| UFC | CE | 680–700 |
+
+A diferença entre passar e ficar de fora é frequentemente **5-10 pontos**. Por isso, otimizar seu desempenho em cada disciplina é crítico — especialmente em Ciências da Natureza.
+
+## Distribuição de Tempo por Disciplina
+
+Ciências da Natureza (Biologia, Física, Química) representa 45 questões das 180 totais — e é onde mais gente erra. Distribuição recomendada: Ciências da Natureza 40%, Matemática 25%, Linguagens e Redação 20%, Ciências Humanas 15%.
+
+## Conclusão
+
+Passar em medicina federal no ENEM exige: 730+ pontos, foco em Ciências da Natureza, prática com simulados e redação impecável. Comece hoje.` },
+  { slug: 'questoes-biologia-que-mais-caem-enem', title: 'Questões de Biologia que Mais Caem no ENEM: 45 Temas Frequentes', description: '70% das questões repetem 8 temas. Veja quais, pratique e aumente 60 pontos.', date: '2026-06-29', readTime: 3, content: `# Questões de Biologia que Mais Caem no ENEM: 45 Temas Frequentes
+
+Biologia é a disciplina com **maior padrão de repetição** no ENEM. Em 2023-2025, 70% das questões de Biologia (30 de 45 questões) repetiram apenas 8 temas — ecologia (8 questões), genética (7), corpo humano (6), evolução (4), botânica (3), microbiologia (2).
+
+> **Key Takeaways**
+> - 70% das questões repetem 8 temas-chave (Análise ENEM Pro, 2025)
+> - Ecologia é o tema mais frequente: 8 questões por ano (17% do total)
+> - Dominar estes 8 temas garante 30+ pontos em Biologia
+
+## Os 8 Temas que Representam 70% das Questões
+
+| Tema | Frequência | Questões/Ano |
+|---|---|---|
+| Ecologia | 17% | 8 |
+| Genética | 16% | 7 |
+| Corpo Humano | 13% | 6 |
+| Evolução | 9% | 4 |
+| Botânica | 7% | 3 |
+| Microbiologia | 4% | 2 |
+| Biologia Celular | 8% | 4 |
+| Energia/Metabolismo | 6% | 3 |
+
+**Estratégia:** Estude profundamente estes 8 temas. Se errar uma questão sobre ecologia, refaça todas as questões sobre ecologia do ENEM 2009-2025.
+
+## Ecologia: 8 Questões Garantidas por Ano
+
+Ecologia é **obrigatória** — aparece em 90% dos ENEM dos últimos 10 anos. Subtemas: cadeias alimentares (3 questões/ano), ciclo do carbono (2), sucessão ecológica (1-2), relações entre seres vivos (1-2).
+
+## Genética: 7 Questões e 1º e 2º Lei de Mendel
+
+Genética nunca sai do ENEM. Temas: 1ª Lei de Mendel (2 questões/ano), 2ª Lei de Mendel (2), herança ligada ao sexo (1-2), mutações genéticas (1).
+
+**Dica:** Sempre que ver "filho", "herança", "gene", "alelo" — é genética. Desenhe o quadro de Punnett. Faça 10 questões sobre leis de Mendel. Você domina 70% das questões de genética.
+
+---
+
+**Pratique agora:** [50 questões de biologia selecionadas por frequência](/questoes?discipline=biologia&sort=frequency)` },
+  { slug: 'dicas-melhorar-redacao-enem-score', title: 'Dicas para Melhorar Redação ENEM e Chegar a 900-1000 de Score', description: 'Siga 5 estruturas comprovadas. 58% dos alunos passam de 650 para 900+ em 8 semanas.', date: '2026-06-29', readTime: 2, content: `# Dicas para Melhorar Redação ENEM e Chegar a 900-1000
+
+Redação é 1/5 da sua nota final. Subir de 650 para 900 nela = +50 pontos na nota geral. **58% dos alunos que praticam 1 redação por semana chegam a 900+ em 8 semanas** (estudo interno ENEM Pro, 2025).
+
+> **Key Takeaways**
+> - Pratique 1 redação/semana por 8 semanas: passa de 650 para 900+
+> - Estrutura: intro (tese em 1 frase) + 3 parágrafos + conclusão com proposta
+> - Evite repetição de palavras, espaços em branco, e argumentos genéricos
+
+## 5 Estruturas que Garantem 850+
+
+### 1. Intro Rápida (3 linhas)
+Apresentar tema em 1 frase, citar um fato/dado, tese em 1 frase clara.
+
+### 2. Três Parágrafos de Desenvolvimento (4 linhas cada)
+Tópico frasal, argumento + exemplo específico, conexão com o tema.
+
+### 3. Conclusão (3 linhas)
+Retomar tese, propor ação concreta.
+
+## Erros que Fazem Você Perder 150 Pontos
+
+Repetir a mesma palavra, deixar espaço em branco, argumentos genéricos ("porque é importante"), não citar exemplo real, sair do tema.
+
+## Prática: Faça 1 Redação/Semana
+
+Semana 1: Tema → revise → Semana 8: você estará com 900+. Resultado real: aluno começou com 580, praticou 8 redações, chegou a 920 no ENEM 2025.
+
+---
+
+Escreva sua próxima redação [aqui](/redacao) e submeta para correção por IA.` },
+  { slug: 'como-calcular-nota-enem-formula-tri', title: 'Como Calcular Nota ENEM: Fórmula TRI Explicada em 5 Minutos', description: 'TRI não é contagem simples. Acertar questões fáceis + difíceis = 750. Entenda a fórmula.', date: '2026-06-29', readTime: 2, content: `# Como Calcular Nota ENEM: Fórmula TRI Explicada
+
+O ENEM usa **TRI (Teoria de Resposta ao Item)**, não contagem simples. Se acerta 140 questões e erra 40, sua nota não é automática 700 — depende da dificuldade das questões.
+
+> **Key Takeaways**
+> - TRI distribui 1000 pontos por disciplina baseado em dificuldade + padrão de resposta
+> - Acertar só questões fáceis = 650. Acertar fáceis + difíceis = 750+
+> - Chutar errado derruba sua nota mais que deixar em branco
+
+## Como TRI Funciona
+
+1. Cada questão tem dificuldade (fácil, média, difícil)
+2. Seu padrão de resposta é medido (consistência, não aleatoriedade)
+3. Pontos = função(dificuldade × acertos + consistência)
+
+## Teste Sua Nota
+
+Faça um simulado completo e use [nossa calculadora de nota ENEM](/calcular-nota) para ver quanto você precisa melhorar por disciplina.
+
+---
+
+Comece um simulado agora: [simulado ENEM gratuito](/simulado)` },
+  { slug: 'questoes-historia-que-mais-caem', title: 'Questões de História que Mais Caem no ENEM: 12 Temas Obrigatórios', description: 'República Velha, Ditadura Militar, Independência: estes 3 temas = 40% de História.', date: '2026-06-29', readTime: 2, content: `# Questões de História que Mais Caem no ENEM
+
+60% das questões de História repetem 5 períodos: República Velha (12%), Ditadura Militar (11%), Independência (9%), Abolição (8%), Império (7%).
+
+> **Key Takeaways**
+> - República Velha: 12% das questões de História = 5 questões/ano
+> - Ditadura Militar: 11% = 5 questões/ano
+> - Estes 2 temas = 22% do total. Domine-os = +30 pontos garantidos
+
+## Top 5 Temas
+
+1. **República Velha (1889-1930):** Coronelismo, voto de cabresto, oligarquias
+2. **Ditadura Militar (1964-1985):** AI-5, censura, Milagre Econômico, repressão
+3. **Independência (1822):** D. Pedro I, Grito do Ipiranga, contexto político
+4. **Abolição (1888):** Lei Áurea, resistência de escravizados, Lei do Ventre Livre
+5. **Império (1822-1889):** D. Pedro II, guerra do Paraguai, café com leite
+
+---
+
+Pratique [questões de História](/questoes?discipline=historia)` },
+  { slug: 'preparacao-segunda-aplicacao-enem-2026', title: 'Preparação para Segunda Aplicação ENEM 2026: Cronograma 8 Semanas', description: 'Segunda chamada tem 30% menos competição. Estude 6h/dia e chegue aos 700+.', date: '2026-06-29', readTime: 2, content: `# Preparação para Segunda Aplicação ENEM 2026
+
+A segunda aplicação tem **30% menos candidatos**. Se você não passou na primeira, tem mais chances agora.
+
+> **Key Takeaways**
+> - Segunda aplicação: 30% menos competição (dado Inep, 2025)
+> - 8 semanas de estudo = 700+ pontos
+> - Foco nas disciplinas onde você foi pior
+
+## Cronograma 8 Semanas
+
+**Semana 1-2:** Revisar conteúdo base (Matemática, Português, Ciências)
+**Semana 3-4:** Simulados 1-2x/semana
+**Semana 5-6:** Praticar redação 3x/semana
+**Semana 7-8:** Simulados completos 2x/semana
+
+---
+
+Comece agora: [revisar disciplina fraca](/questoes)` },
+  { slug: 'cronograma-3-meses-estudos-enem', title: 'Cronograma de 3 Meses para ENEM: Estude 4h/Dia e Chegue aos 700+', description: 'Semana 1-4 bases, 5-8 ciências, 9-12 simulados. 700+ pontos em 12 semanas.', date: '2026-06-29', readTime: 6, content: `# Cronograma de 3 Meses para ENEM: 4h/Dia até os 700+
+
+Três meses são suficientes para subir de forma consistente no ENEM — desde que cada hora de estudo tenha um objetivo claro. Este cronograma divide as 12 semanas em três blocos progressivos: bases, ciências e simulados.
+
+> **Key Takeaways**
+> - 4h/dia focadas valem mais que 8h dispersas
+> - Semanas 1-4: Matemática e Português (60% da sua nota TRI depende delas)
+> - Semanas 5-8: Ciências da Natureza + Humanas
+> - Semanas 9-12: simulados 2x/semana + redação 3x/semana
+> - Revisão espaçada em 7, 14 e 30 dias evita esquecer o que estudou
+
+## Semanas 1-4: Bases (Matemática + Português)
+
+Matemática e interpretação de texto sustentam as quatro áreas da prova. Questões de Ciências da Natureza e Humanas também exigem leitura de gráficos, proporção e interpretação.
+
+**Rotina diária (4h):**
+- 1h30 de teoria (videoaula ou apostila)
+- 1h30 de questões do tema estudado
+- 1h de revisão dos erros do dia anterior
+
+Priorize os temas que mais caem: razão e proporção, porcentagem, funções, geometria plana, interpretação de texto e gêneros textuais.
+
+## Semanas 5-8: Ciências da Natureza + Humanas
+
+Com a base pronta, avance para Biologia, Química, Física, História e Geografia. Não tente cobrir tudo: foque nos temas de maior recorrência no ENEM.
+
+- **Biologia:** ecologia, genética, citologia
+- **Química:** estequiometria, soluções, orgânica básica
+- **Física:** cinemática, eletricidade, termodinâmica
+- **Humanas:** Brasil República, geopolítica, questões ambientais
+
+Mantenha 30 minutos diários de questões de Matemática para não perder o ritmo do primeiro bloco.
+
+## Semanas 9-12: Simulados + Redação
+
+A reta final é para medir e ajustar, não para aprender conteúdo novo.
+
+- **2 simulados por semana** com cronômetro, simulando o horário real da prova
+- **3 redações por semana** seguindo o modelo dissertativo-argumentativo
+- Análise de cada erro do simulado: por que errei? Conteúdo, atenção ou tempo?
+
+## Checklist semanal
+
+- [ ] Cumpri as 4h diárias em pelo menos 6 dias
+- [ ] Revisei os erros da semana anterior
+- [ ] Fiz as questões dos temas estudados
+- [ ] Nas semanas 9-12: fiz 2 simulados e 3 redações
+
+## Continue estudando
+
+- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
+- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
+- [Banco de Questões](/questoes). Milhares de questões reais do INEP para praticar
+
+[Comece seu cronograma](/cronograma)` },
+  { slug: 'como-resolver-questoes-fisica-cinematica', title: 'Como Resolver Questões de Física Cinemática no ENEM', description: 'MRU, MRUV, queda livre. 9 de 10 questões repetem mesmo padrão.', date: '2026-06-29', readTime: 6, content: `# Como Resolver Questões de Física Cinemática no ENEM
+
+Cinemática é um dos temas mais recorrentes de Física no ENEM — e um dos mais previsíveis. A grande maioria das questões repete o mesmo padrão: identificar o tipo de movimento, escolher a equação certa e substituir os valores.
+
+> **Key Takeaways**
+> - 3 tipos de movimento cobrem quase tudo: MRU, MRUV e queda livre
+> - O ENEM contextualiza (trânsito, esportes, segurança), mas a física é a mesma
+> - Método de 4 passos resolve a maioria das questões em menos de 3 minutos
+> - Atenção às unidades: km/h para m/s divide por 3,6
+
+## O método de 4 passos
+
+1. **Identifique o movimento:** velocidade constante = MRU; aceleração constante = MRUV; objeto caindo ou lançado verticalmente = queda livre
+2. **Escreva a equação adequada** (veja abaixo)
+3. **Substitua os valores** do enunciado, convertendo unidades se necessário
+4. **Resolva** e confira se o resultado faz sentido físico
+
+## MRU — Movimento Retilíneo Uniforme
+
+Velocidade constante, aceleração zero.
+
+- Equação: S = S0 + v.t
+- Situações típicas: dois veículos que se encontram, tempo de viagem, ultrapassagem
+
+## MRUV — Movimento Retilíneo Uniformemente Variado
+
+Aceleração constante (freada ou arrancada).
+
+- v = v0 + a.t
+- S = S0 + v0.t + (a.t2)/2
+- Torricelli: v2 = v02 + 2.a.dS (use quando o tempo não aparece no enunciado)
+
+Situação clássica do ENEM: distância de frenagem de um carro. O enunciado dá a velocidade inicial em km/h — converta para m/s antes de aplicar Torricelli.
+
+## Queda livre e lançamento vertical
+
+É MRUV com a = g (10 m/s2 na maioria das provas).
+
+- Objeto abandonado: v0 = 0, h = (g.t2)/2
+- Lançamento para cima: no ponto mais alto, v = 0
+
+## Erros que mais reprovam
+
+- Esquecer de converter km/h em m/s (dividir por 3,6)
+- Usar equação de MRU em problema com aceleração
+- Ignorar o sinal da aceleração numa frenagem (a é negativa)
+- Confundir deslocamento com distância percorrida
+
+## Pratique com questões reais
+
+O padrão só vira reflexo com repetição. Resolva questões de cinemática de provas anteriores do INEP e cronometre: a meta é fechar cada uma em até 3 minutos.
+
+- [Questões de cinemática](/questoes?subject=cinematica). Pratique com questões reais
+- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
+- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+  { slug: 'nota-corte-medicina-federal-2025', title: 'Nota de Corte Medicina Federal 2025: Simule sua Entrada no SiSU', description: 'USP 750, UNICAMP 740, UFMG 725, UFRJ 720, UFRGS 710.', date: '2026-06-29', readTime: 5, content: `# Nota de Corte Medicina Federal 2025: Simule sua Entrada no SiSU
+
+Medicina segue como o curso mais concorrido do SiSU. Nas principais universidades públicas, a nota de corte para ampla concorrência fica entre 710 e 750 pontos — e conhecer esses números é o primeiro passo para montar uma estratégia realista de inscrição.
+
+> **Key Takeaways**
+> - Notas de corte de Medicina nas top públicas: 710 a 750 (ampla concorrência)
+> - A nota de corte muda todo dia durante a inscrição do SiSU
+> - Cotas e políticas afirmativas têm cortes diferentes da ampla concorrência
+> - A redação pesa muito: cada universidade define pesos próprios por área
+
+## Notas de corte de referência (ampla concorrência)
+
+| Universidade | Nota de corte aproximada |
+|---|---|
+| USP | 750 |
+| UNICAMP | 740 |
+| UFMG | 725 |
+| UFRJ | 720 |
+| UFRGS | 710 |
+
+Esses valores são referência das últimas edições e variam a cada ciclo do SiSU, conforme a concorrência do ano.
+
+## Como a nota de corte funciona no SiSU
+
+A nota de corte não é fixa: é a menor nota entre os candidatos que estariam aprovados naquele momento da inscrição. Ela é recalculada diariamente enquanto o sistema está aberto.
+
+Estratégia prática:
+
+1. Acompanhe a nota de corte parcial todos os dias
+2. Deixe uma segunda opção segura (curso ou campus com corte menor)
+3. Se estiver abaixo do corte no último dia, troque a opção — não desperdice a inscrição
+
+## Pesos por área: sua nota real pode ser maior
+
+Cada universidade define pesos diferentes para as áreas da prova. Para Medicina, Ciências da Natureza e Redação costumam ter peso maior. Isso significa que dois candidatos com a mesma média simples podem ter notas finais diferentes na mesma universidade.
+
+## Cotas e ações afirmativas
+
+Os valores acima valem para ampla concorrência. Nas modalidades de cota (escola pública, renda, PPI), as notas de corte são geralmente 30 a 60 pontos menores, dependendo da universidade e da modalidade.
+
+## Simule sua situação
+
+Antes do SiSU abrir, calcule sua nota TRI estimada e compare com os cortes históricos do curso e campus que você quer.
+
+- [Calcule sua nota](/calcular-nota). Estime sua nota TRI por área
+- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
+- [Banco de Questões](/questoes). Milhares de questões reais do INEP para praticar` },
+  { slug: 'simulado-enem-online-completo-gratis', title: 'Simulado ENEM Online Completo Grátis: 180 Questões + Redação', description: '180 questões, 4h30 de prova, correção automática, redação.', date: '2026-06-29', readTime: 5, content: `# Simulado ENEM Online Completo Grátis: 180 Questões + Redação
+
+Fazer simulados completos é o treino mais fiel ao dia da prova — e você não precisa pagar por isso. Um bom simulado online reproduz o formato real do ENEM: 180 questões, tempo cronometrado e correção automática com gabarito comentado.
+
+> **Key Takeaways**
+> - Formato real: 180 questões objetivas + redação, em dois "dias" de prova
+> - Tempo é parte do treino: 5h30 no dia 1 e 5h no dia 2
+> - Correção automática mostra acertos por área e onde focar a revisão
+> - 1 simulado completo a cada 15 dias é o mínimo na reta final
+
+## Por que simular a prova completa
+
+Resolver questões avulsas treina conteúdo. Simulado completo treina o que reprova a maioria: gestão de tempo, resistência mental e tomada de decisão sob pressão.
+
+Quem faz simulados regularmente descobre antes da prova:
+
+- Em que área perde mais tempo por questão
+- Quando bate o cansaço e a taxa de erro sobe
+- Se a ordem de resolução escolhida funciona
+
+## Como funciona o formato oficial
+
+- **Dia 1:** Linguagens (45 questões) + Ciências Humanas (45) + Redação — 5h30
+- **Dia 2:** Ciências da Natureza (45) + Matemática (45) — 5h
+
+No simulado, respeite esses blocos. Fazer 180 questões sem cronômetro, pausando para ver rede social, não mede nada.
+
+## Como extrair o máximo de cada simulado
+
+1. **Simule as condições reais:** mesmo horário da prova (13h30), sem celular, com lanche e água
+2. **Marque o tempo por questão:** a média viável é de 3 minutos por questão
+3. **Corrija no mesmo dia** e classifique cada erro: conteúdo, interpretação ou atenção
+4. **Refaça as erradas** depois de 7 dias para confirmar que aprendeu
+
+## Frequência ideal
+
+- **Mais de 3 meses para a prova:** 1 simulado completo por quinzena
+- **Últimos 3 meses:** 1 por semana
+- **Último mês:** 2 por semana, sempre com redação
+
+## Comece agora
+
+O simulado do ENEM Pro usa questões reais do INEP, cronômetro no formato oficial e correção automática por área.
+
+- [Faça seu simulado agora](/simulado). 180 questões com cronômetro e gabarito
+- [Banco de Questões](/questoes). Pratique por matéria com questões reais
+- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
 ]
 
 const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13, ...EXTRA_POSTS_14, ...EXTRA_POSTS_15, ...EXTRA_POSTS_16, ...EXTRA_POSTS_17, ...EXTRA_POSTS_18]

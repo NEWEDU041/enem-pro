@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
-import { getAllPosts, getCategory, type BlogCategory } from '@/lib/blog-data'
+import { getAllPostsLight as getAllPosts } from '@/lib/blog-index'
+import type { BlogCategory } from '@/lib/blog-data'
 import { SITE_URL } from '@/lib/site-config'
 
 export const metadata: Metadata = {
@@ -45,7 +46,7 @@ export default function BlogPage() {
   const restPosts = posts.filter(p => p.slug !== featuredPost.slug)
 
   const countByCategory = ALL_CATEGORIES.reduce<Record<string, number>>((acc, cat) => {
-    acc[cat] = posts.filter(p => getCategory(p.slug) === cat).length
+    acc[cat] = posts.filter(p => p.category === cat).length
     return acc
   }, {})
 
@@ -145,7 +146,7 @@ export default function BlogPage() {
                 <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-6">
                   <div className="flex-1">
                     <span className="inline-block text-xs font-semibold px-3 py-1 rounded-full mb-4 bg-white/20 text-white">
-                      {getCategory(featuredPost.slug)}
+                      {featuredPost.category}
                     </span>
                     <h2 className="text-2xl md:text-3xl font-bold mb-3 leading-tight group-hover:underline decoration-white/50">
                       {featuredPost.title}
@@ -160,7 +161,7 @@ export default function BlogPage() {
                     </div>
                   </div>
                   <div aria-hidden="true" className="shrink-0 hidden md:flex items-center justify-center w-20 h-20 rounded-2xl bg-white/10 text-4xl">
-                    {POST_ICON[getCategory(featuredPost.slug)]}
+                    {POST_ICON[featuredPost.category]}
                   </div>
                 </div>
               </Link>
@@ -170,7 +171,7 @@ export default function BlogPage() {
 
         {/* Categorias com posts */}
         {ALL_CATEGORIES.filter(cat => (countByCategory[cat] ?? 0) > 0).map(cat => {
-          const catPosts = restPosts.filter(p => getCategory(p.slug) === cat)
+          const catPosts = restPosts.filter(p => p.category === cat)
           if (catPosts.length === 0) return null
           return (
             <section key={cat} id={`cat-${cat.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`} className="px-6 py-10 border-b border-zinc-100">

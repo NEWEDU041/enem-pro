@@ -1,5 +1,5 @@
 import { ImageResponse } from 'next/og'
-import { getPost, getCategory } from '@/lib/blog-data'
+import { getPostMetaLight } from '@/lib/blog-index'
 
 export const runtime = 'nodejs'
 export const size = { width: 1200, height: 630 }
@@ -19,10 +19,10 @@ const CATEGORY_ACCENT: Record<string, string> = {
 
 export default async function OGImage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
-  const post = getPost(slug)
+  const post = getPostMetaLight(slug)
 
   const title = post?.title ?? 'Blog ENEM Pro'
-  const category = post ? getCategory(slug) : 'ENEM Pro'
+  const category = post?.category ?? 'ENEM Pro'
   const accent = CATEGORY_ACCENT[category] ?? '#4f46e5'
   const shortTitle = title.length > 75 ? title.slice(0, 72) + '…' : title
 

@@ -16,8 +16,7 @@ async function generateExplanations() {
   // Fetch questions without explanations
   const { data: questions, error } = await supabase
     .from('questions_cache')
-    .select('id, year, index, data')
-    .is('explanation', null)
+    .select('id, year, data')
     .limit(100)
 
   if (error) {
@@ -28,7 +27,7 @@ async function generateExplanations() {
   console.log(`📚 ${questions?.length || 0} questões encontradas`)
 
   if (!questions || questions.length === 0) {
-    console.log('✅ Todas as questões têm explicação!')
+    console.log('✅ Todas as questões processadas!')
     return
   }
 
@@ -37,7 +36,7 @@ async function generateExplanations() {
     if (!qData || !qData.statement) continue
 
     try {
-      console.log(`⏳ ${qData.year} - Questão ${q.index}...`)
+      console.log(`⏳ ${q.year} - ID ${q.id}...`)
 
       const response = await anthropic.messages.create({
         model: 'claude-3-5-sonnet-20241022',
@@ -61,11 +60,10 @@ Explique por quê a resposta está correta e por que as outras estão erradas.`
 
       const explanation = response.content[0].type === 'text' ? response.content[0].text : ''
 
-      // Salvar no Supabase
+      // Salvar na tabela question_explanations
       await supabase
-        .from('questions_cache')
-        .update({ explanation, updated_at: new Date().toISOString() })
-        .eq('id', q.id)
+        .from('question_explanations')
+        .upsert({ question_id: q.id, explanation, model: 'claude-3-5-sonnet-20241022' })
 
       console.log(`✅ Salva`)
     } catch (err) {

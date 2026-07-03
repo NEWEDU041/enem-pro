@@ -1,5 +1,5 @@
 import type { MetadataRoute } from 'next'
-import { getAllPosts } from '@/lib/blog-data'
+import { getAllPostsLight as getAllPosts } from '@/lib/blog-index'
 import { SITE_URL } from '@/lib/site-config'
 
 const base = SITE_URL
