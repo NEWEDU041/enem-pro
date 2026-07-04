@@ -39,6 +39,7 @@ interface RawAlternative {
 }
 
 interface RawQuestion {
+  index?: number
   discipline?: string
   disciplina?: string
   title?: string
@@ -52,35 +53,56 @@ interface RawQuestion {
   gabarito?: string
 }
 
+// API caps limit at 50/page (previously 200); a year has ~180 questions, so
+// this must paginate or every request 400s.
+const PAGE_LIMIT = 50
+const MAX_PAGES = 20 // safety cap against a runaway loop if hasMore is ever wrong
+
+function mapQuestion(q: RawQuestion, year: number, fallbackIndex: number): Question {
+  const alternatives = (q.alternatives || q.alternativas || []).map((a) => ({
+    letter: a.letter || a.letra || '',
+    text: a.text || a.texto || '',
+    isCorrect: a.isCorrect || false,
+  }))
+
+  // Fallback: se não tem correctAlternative explícito, procura na alternativa marcada como correta
+  let correctAlternative = q.correctAlternative || q.gabarito || ''
+  if (!correctAlternative && alternatives.length > 0) {
+    const correctAlt = alternatives.find(a => a.isCorrect)
+    correctAlternative = correctAlt?.letter || ''
+  }
+
+  const index = q.index ?? fallbackIndex
+
+  return {
+    id: `${year}-${index}`,
+    year,
+    discipline: normalizeDiscipline(q.discipline || q.disciplina),
+    title: q.title || q.enunciado || '',
+    context: q.context || q.contexto || '',
+    alternativesIntroduction: q.alternativesIntroduction || '',
+    alternatives,
+    correctAlternative,
+  }
+}
+
 export async function fetchQuestionsByYear(year: number): Promise<Question[]> {
-  const res = await fetch(`${BASE_URL}/exams/${year}/questions?limit=200`)
-  if (!res.ok) throw new Error(`Erro ao buscar questões de ${year}`)
-  const data = await res.json()
-  return (data.questions || data).map((q: RawQuestion, i: number) => {
-    const alternatives = (q.alternatives || q.alternativas || []).map((a) => ({
-      letter: a.letter || a.letra || '',
-      text: a.text || a.texto || '',
-      isCorrect: a.isCorrect || false,
-    }))
+  const all: Question[] = []
 
-    // Fallback: se não tem correctAlternative explícito, procura na alternativa marcada como correta
-    let correctAlternative = q.correctAlternative || q.gabarito || ''
-    if (!correctAlternative && alternatives.length > 0) {
-      const correctAlt = alternatives.find(a => a.isCorrect)
-      correctAlternative = correctAlt?.letter || ''
-    }
+  for (let page = 0; page < MAX_PAGES; page++) {
+    const offset = page * PAGE_LIMIT
+    const res = await fetch(`${BASE_URL}/exams/${year}/questions?limit=${PAGE_LIMIT}&offset=${offset}`)
+    if (!res.ok) throw new Error(`Erro ao buscar questões de ${year}`)
+    const data = await res.json()
+    const rawQuestions: RawQuestion[] = data.questions || (Array.isArray(data) ? data : [])
 
-    return {
-      id: `${year}-${i + 1}`,
-      year,
-      discipline: normalizeDiscipline(q.discipline || q.disciplina),
-      title: q.title || q.enunciado || '',
-      context: q.context || q.contexto || '',
-      alternativesIntroduction: q.alternativesIntroduction || '',
-      alternatives,
-      correctAlternative,
-    }
-  })
+    rawQuestions.forEach((q, i) => all.push(mapQuestion(q, year, offset + i + 1)))
+
+    const hasMore = data.metadata?.hasMore ?? rawQuestions.length === PAGE_LIMIT
+    if (!hasMore || rawQuestions.length === 0) break
+  }
+
+  return all
 }
 
 export async function fetchSingleQuestion(year: number, index: number): Promise<Question | null> {
