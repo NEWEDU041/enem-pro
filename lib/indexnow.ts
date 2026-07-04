@@ -8,6 +8,13 @@ const STATIC_PATHS = [
   '/', '/planos', '/gabarito', '/temas-redacao', '/cronograma',
   '/calcular-nota', '/ferramentas', '/questao-do-dia', '/questoes',
   '/simulado', '/blog',
+  '/materias/fisica', '/materias/quimica', '/materias/biologia',
+  '/materias/historia', '/materias/geografia', '/materias/filosofia',
+  '/materias/sociologia', '/materias/portugues', '/materias/literatura',
+  '/materias/matematica', '/materias/ingles',
+  '/disciplinas/matematica', '/disciplinas/linguagens',
+  '/disciplinas/ciencias-humanas', '/disciplinas/ciencias-natureza',
+  '/vs/descomplica', '/vs/stoodi', '/vs/estuda-com',
 ]
 
 const ENDPOINTS = [
@@ -38,4 +45,14 @@ export async function submitIndexNow(): Promise<{ submitted: number; results: Re
   )
 
   return { submitted: urlList.length, results }
+}
+
+export async function pingGoogleSitemap(): Promise<number> {
+  try {
+    const sitemapUrl = encodeURIComponent(`${SITE_URL}/sitemap.xml`)
+    const res = await fetch(`https://www.google.com/ping?sitemap=${sitemapUrl}`)
+    return res.status
+  } catch {
+    return 0
+  }
 }

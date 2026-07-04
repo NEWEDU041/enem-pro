@@ -1,12 +1,10 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
 import { requireAuth } from '@/lib/auth'
-import { sendDripEmail } from '@/lib/resend'
+import { sendDripEmail, ALL_DRIP_DAYS } from '@/lib/resend'
 import { withErrorHandling } from '@/lib/api-helpers'
 
 export const dynamic = 'force-dynamic'
-
-const VALID_DRIP_DAYS = [0, 1, 3, 7, 14, 21, 30]
 
 export const POST = withErrorHandling(async (req: NextRequest) => {
   const auth = await requireAuth(req)
@@ -15,7 +13,7 @@ export const POST = withErrorHandling(async (req: NextRequest) => {
 
   const body = await req.json()
   const { drip_day } = body
-  if (drip_day === undefined || !VALID_DRIP_DAYS.includes(drip_day)) {
+  if (drip_day === undefined || !ALL_DRIP_DAYS.includes(drip_day)) {
     return NextResponse.json({ error: 'Invalid or missing drip_day' }, { status: 400 })
   }
 

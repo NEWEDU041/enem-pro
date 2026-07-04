@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
-import { sendDripEmail } from '@/lib/resend'
+import { sendDripEmail, CRON_DRIP_DAYS } from '@/lib/resend'
 import { cleanEnv } from '@/lib/utils'
 import { dripDailyGoogleIndex, submitGscSitemap } from '@/lib/google-indexing'
 import { submitIndexNow } from '@/lib/indexnow'
@@ -8,7 +8,6 @@ import { withErrorHandling } from '@/lib/api-helpers'
 
 export const dynamic = 'force-dynamic'
 
-const DRIP_DAYS = [1, 3, 7, 14, 21, 30]
 const BATCH_SIZE = 50
 
 function dateNDaysAgo(n: number): string {
@@ -56,7 +55,7 @@ export const GET = withErrorHandling(async (req: NextRequest) => {
   let totalSent = 0
   const results: Record<number, { sent: number; skipped: number; errors: number }> = {}
 
-  for (const day of DRIP_DAYS) {
+  for (const day of CRON_DRIP_DAYS) {
     const targetDate = dateNDaysAgo(day)
     results[day] = { sent: 0, skipped: 0, errors: 0 }
 

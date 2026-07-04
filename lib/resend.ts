@@ -12,6 +12,11 @@ export function getResend(): Resend | null {
 
 type DripArgs = { name: string; email: string; weak_disc?: string; drip_day: number }
 
+// Day 0 (welcome) fires immediately from the client on signup, not from the
+// daily cron scan — keep both lists derived from one place to avoid drift.
+export const CRON_DRIP_DAYS = [1, 3, 7, 14, 21, 30]
+export const ALL_DRIP_DAYS = [0, ...CRON_DRIP_DAYS]
+
 const FROM = process.env.RESEND_FROM || 'ENEM Pro <noreply@resend.dev>'
 
 function getWelcomeEmail(name: string): { subject: string; html: string } {

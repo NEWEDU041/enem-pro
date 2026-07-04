@@ -1,8 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
 
-export const dynamic = 'force-static'
-export const revalidate = 86400 // Cache for 24h
+export const dynamic = 'force-dynamic'
 
 export async function GET(
   request: NextRequest,
@@ -24,9 +23,12 @@ export async function GET(
   }
 
   if (!data?.explanation) {
+    // Not cached: the cron may generate the explanation any time after this,
+    // and a stale 404 shouldn't outlive that (previously cached 24h via
+    // force-static + revalidate, which applied even to the not-found case).
     return NextResponse.json(
       { error: 'Explicação não disponível', status: 'not_generated' },
-      { status: 404 }
+      { status: 404, headers: { 'Cache-Control': 'no-store' } }
     )
   }
 
