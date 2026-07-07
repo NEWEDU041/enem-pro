@@ -40062,7 +40062,7 @@ const EXTRA_POSTS_9: BlogPost[] = [
     slug: 'nota-de-corte-matematica-curso-enem',
     title: 'Nota de Corte Matemática (Curso) ENEM 2025',
     description: 'Nota de corte para o curso de Matemática no SISU 2025. Veja as notas nas federais, diferença entre licenciatura e bacharelado e perspectivas de carreira.',
-    date: '2026-06-14',
+    date: '2026-06-15',
     readTime: 4,
     content: `
 O curso de Matemática forma professores e pesquisadores, com boas perspectivas no mercado e notas de corte variadas no SISU.
@@ -40594,7 +40594,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     slug: 'nota-de-corte-fisica-curso-enem',
     title: 'Nota de Corte Física (Licenciatura/Bacharelado) ENEM 2025',
     description: 'Nota de corte para o curso de Física no SISU 2025. Veja as notas nas federais, mercado para físicos e professores de Física, e como planejar sua candidatura.',
-    date: '2026-06-14',
+    date: '2026-06-15',
     readTime: 4,
     content: `
 Física é um dos cursos com maior escassez de professores no Brasil. o que significa boas oportunidades para quem escolhe a licenciatura.
@@ -40831,7 +40831,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     slug: 'nota-de-corte-quimica-curso-enem',
     title: 'Nota de Corte Química (Licenciatura/Bacharelado) ENEM 2025',
     description: 'Nota de corte para o curso de Química no SISU 2025. Veja as notas nas federais, diferença entre licenciatura e bacharelado industrial/pesquisa, e carreira.',
-    date: '2026-06-14',
+    date: '2026-06-15',
     readTime: 4,
     content: `
 Química tem diversas saídas profissionais além da sala de aula. indústria química, petróleo, cosméticos, alimentos e pesquisa. As notas de corte variam por habilitação e região.
@@ -41099,7 +41099,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     slug: 'enem-2026-cronograma-datas',
     title: 'ENEM 2026: Cronograma Completo de Datas e Prazos',
     description: 'Calendário completo do ENEM 2026: data de inscrição, gabarito, resultado e prazos do SISU e ProUni. Tudo que você precisa saber para não perder nenhuma data.',
-    date: '2026-06-14',
+    date: '2026-06-15',
     readTime: 4,
     content: `
 O ENEM tem um calendário anual com datas críticas que você não pode perder. Marque na agenda e prepare-se com antecedência.
@@ -41430,7 +41430,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     slug: 'como-passar-no-prouni-dicas',
     title: 'Como Passar no ProUni 2026: Nota Mínima, Documentos e',
     description: 'Guia completo para conseguir bolsa ProUni 2026. Nota mínima, critérios de renda, documentos necessários, como escolher o curso e dicas para aumentar as chances.',
-    date: '2026-06-14',
+    date: '2026-06-15',
     readTime: 6,
     content: `
 O ProUni é uma das maiores oportunidades de acesso ao ensino superior no Brasil. Com a nota certa no ENEM e os documentos em ordem, você pode garantir uma bolsa integral ou parcial em uma boa faculdade particular.
@@ -41580,7 +41580,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     slug: 'redacao-enem-nota-zero-como-evitar',
     title: 'Redação ENEM Nota Zero: O que Causa e Como Evitar em 2026',
     description: 'Saiba o que causa nota zero na Redação do ENEM e como evitar os erros que anulam a prova. Fuga de tema, texto ilegível, insultos e outras armadilhas fatais.',
-    date: '2026-06-14',
+    date: '2026-06-15',
     readTime: 5,
     content: `
 A redação nota zero é o pior pesadelo de um candidato ao ENEM — anos de estudo anulados por um erro evitável. Entenda o que causa nota zero e como garantir que isso não aconteça com você.
@@ -41836,7 +41836,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     slug: 'enem-pontuacao-maxima-como-tirar-900',
     title: 'Como Tirar 900+ no ENEM: Estratégia dos Candidatos de Alta',
     description: 'O que fazem os candidatos que tiram 900+ no ENEM? Estratégia de estudo, gestão de tempo na prova, redação nota 900 e como maximizar a pontuação em cada área.',
-    date: '2026-06-14',
+    date: '2026-06-15',
     readTime: 7,
     content: `
 Tirar 900+ no ENEM coloca você entre os 1% melhores candidatos e abre as melhores universidades do país. Não é só talento. é estratégia, consistência e método.
@@ -42653,7 +42653,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     slug: 'enem-2026-inscricao-isentos-baixa-renda',
     title: 'Isenção de Taxa do ENEM 2026: Quem Tem Direito e Como Pedir',
     description: 'Saiba quem tem direito à isenção de taxa do ENEM 2026, como solicitar, os documentos necessários e os prazos. Escola pública e baixa renda podem se inscrever.',
-    date: '2026-06-14',
+    date: '2026-06-15',
     readTime: 4,
     content: `
 A taxa de inscrição do ENEM custa R$85. candidatos de baixa renda e escola pública podem se inscrever gratuitamente. Entenda quem tem direito e como garantir a isenção.
@@ -50706,7 +50706,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     slug: 'gabarito-enem-2020',
     title: 'Gabarito ENEM 2020: 1ª e 2ª Aplicação com Questões',
     description: 'Gabarito completo do ENEM 2020, o primeiro em época de pandemia. Confira as respostas das 1ª e 2ª aplicações e os temas que marcaram aquele ano. Acesse grátis.',
-    date: '2025-06-01',
+    date: '2026-06-15',
     readTime: 7,
     content: `
 
@@ -51592,7 +51592,7 @@ Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e sufici
     slug: 'questoes-de-quimica-enem',
     title: 'Questões de Química no ENEM: Temas Mais Cobrados e Como',
     description: 'Descubra os 10 temas de Química que mais caem no ENEM, com dicas de resolução e exercícios comentados de provas anteriores. Prepare-se de forma eficiente.',
-    date: '2025-06-01',
+    date: '2026-06-15',
     readTime: 9,
     content: `
 
@@ -51878,7 +51878,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     slug: 'questoes-de-biologia-enem',
     title: 'Questões de Biologia no ENEM: O que Mais Cai e Como Estudar',
     description: 'Guia completo dos temas de Biologia mais cobrados no ENEM. Genética, ecologia, evolução e fisiologia com dicas para não cair em pegadinhas. Acesse grátis.',
-    date: '2025-06-01',
+    date: '2026-06-15',
     readTime: 9,
     content: `
 
@@ -52473,7 +52473,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     slug: 'questoes-de-portugues-enem',
     title: 'Questões de Português no ENEM: Interpretação Textual e',
     description: 'Como o Português cai no ENEM: interpretação de textos, gêneros textuais, gramática contextualizada e figuras de linguagem. Dicas práticas para gabaritar.',
-    date: '2025-06-01',
+    date: '2026-06-15',
     readTime: 9,
     content: `
 
@@ -52769,7 +52769,7 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
     slug: 'questoes-de-historia-enem',
     title: 'Questões de História no ENEM: Brasil República',
     description: 'Os temas de História que mais caem no ENEM: Brasil República, Era Vargas, Ditadura Militar, Segunda Guerra, Guerra Fria. Dicas de estudo e questões comentadas.',
-    date: '2025-06-01',
+    date: '2026-06-15',
     readTime: 9,
     content: `
 ## História no ENEM: Abordagem e Metodologia?
@@ -53049,7 +53049,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     slug: 'questoes-de-geografia-enem',
     title: 'Questões de Geografia no ENEM: Biomas, Geopolítica e',
     description: 'Temas de Geografia mais cobrados no ENEM: biomas brasileiros, urbanização, geopolítica mundial e problemas ambientais. Como interpretar mapas e gráficos.',
-    date: '2025-06-01',
+    date: '2026-06-15',
     readTime: 9,
     content: `
 
@@ -53347,7 +53347,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     slug: 'genetica-enem-o-que-cai',
     title: 'Genética no ENEM: O que Cai, Exercícios Resolvidos e Como',
     description: 'Guia completo de Genética para o ENEM: herança mendeliana, grupos sanguíneos, herança ligada ao sexo, probabilidade e biotecnologia. Com exercícios resolvidos.',
-    date: '2025-06-01',
+    date: '2026-06-15',
     readTime: 10,
     content: `
 
@@ -54182,7 +54182,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     slug: 'quimica-organica-enem',
     title: 'Química Orgânica no ENEM: Funções, Reações e Questões',
     description: 'Tudo sobre Química Orgânica no ENEM: funções orgânicas, nomenclatura IUPAC, isomeria, reações e combustíveis. Com questões comentadas de provas anteriores.',
-    date: '2025-06-01',
+    date: '2026-06-15',
     readTime: 10,
     content: `
 
@@ -54510,7 +54510,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     slug: 'nota-de-corte-medicina-federal-por-estado',
     title: 'Nota de Corte Medicina Federal por Estado 2025',
     description: 'Notas de corte de Medicina nas universidades federais por estado em 2025. Compare UFMG, UFRJ, UFBA, UFPE e outras. Ampla concorrência e cotas com dados.',
-    date: '2025-06-01',
+    date: '2026-06-15',
     readTime: 8,
     content: `
 
@@ -55080,7 +55080,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     slug: 'redacao-enem-correcao-online',
     title: 'Correção de Redação ENEM Online com IA: Como Funciona e',
     description: 'Saiba como funciona a correção de redação ENEM online com IA no ENEM Pro. Feedback nas 5 competências, exemplos de nota alta e baixa, e como melhorar sua.',
-    date: '2025-06-01',
+    date: '2026-06-15',
     readTime: 8,
     content: `
 ## Por que Corrigir sua Redação Antes do ENEM?
@@ -55330,7 +55330,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     slug: 'enem-2026',
     title: 'ENEM 2026: Datas, Inscrição, Cronograma e Tudo que Você',
     description: 'Tudo sobre o ENEM 2026: datas previstas, como se inscrever, isenção de taxa, o que levar na prova, temas prováveis de redação e como se preparar com meses de.',
-    date: '2025-06-01',
+    date: '2026-06-15',
     readTime: 11,
     content: `
 ## ENEM 2026: O Guia Completo?
@@ -72295,7 +72295,7 @@ const EXTRA_POSTS_13: BlogPost[] = [
     slug: 'quando-sai-resultado-enem',
     title: 'Quando Sai o Resultado do ENEM 2025 — Datas e Como Consultar',
     description: 'Quando o resultado do ENEM 2025 é divulgado, como consultar pelo CPF, o que significa cada nota e o que fazer assim que o resultado sair. Acesse grátis.',
-    date: '2026-06-17',
+    date: '2026-06-18',
     readTime: 5,
     content: `
 O resultado do ENEM é o momento mais esperado por milhões de candidatos. Entender quando sai, onde consultar e o que fazer com as notas é essencial para aproveitar cada oportunidade.
@@ -72616,7 +72616,7 @@ O INEP não envia o resultado por e-mail automaticamente. Você precisa acessar 
     slug: 'sisu-como-funciona',
     title: 'SISU — Como Funciona, Inscrição e Como Calcular Suas Chances',
     description: 'Como funciona o SISU, quando abre a inscrição, como calcular a nota de corte e estratégias para maximizar suas chances de aprovação nas federais. Acesse grátis.',
-    date: '2026-06-17',
+    date: '2026-06-18',
     readTime: 7,
     content: `
 O SISU (Sistema de Seleção Unificada) é a porta de entrada para mais de 230 universidades públicas federais e estaduais no Brasil. Entender como ele funciona pode fazer diferença entre passar e não passar no curso que você quer.
@@ -72893,7 +72893,7 @@ Você pode colocar até 2 opções (curso + instituição + turno + modalidade d
     slug: 'enem-treineiro',
     title: 'ENEM Treineiro — O Que É, Quem Pode Fazer e Como se Preparar',
     description: 'O ENEM Treineiro é a opção para quem ainda não terminou o ensino médio. Saiba quem pode participar, como se inscrever e se a nota conta para o SISU. Grátis.',
-    date: '2026-06-17',
+    date: '2026-06-18',
     readTime: 5,
     content: `
 O ENEM Treineiro permite que estudantes que ainda estão cursando o ensino médio façam o ENEM como treino. sem que a nota seja usada para ingressar em universidades públicas. É uma forma valiosa de antecipar a experiência da prova.
@@ -73723,7 +73723,7 @@ Idealmente, no 2º ano. quando você já tem conteúdo suficiente para uma perfo
     slug: 'prouni-como-funciona',
     title: 'ProUni — Como Funciona, Quem Tem Direito e Como se Inscrever',
     description: 'Como funciona o ProUni, os critérios para bolsa integral e parcial, como se inscrever e as principais dúvidas sobre o Programa Universidade para Todos.',
-    date: '2026-06-17',
+    date: '2026-06-18',
     readTime: 6,
     content: `
 O ProUni (Programa Universidade para Todos) oferece bolsas de estudo integrais (100%) e parciais (50%) em instituições privadas de ensino superior para estudantes de baixa renda que fizeram o ENEM.
@@ -74000,7 +74000,7 @@ Se abandonar sem justificativa, pode perder a bolsa e ser impedido de receber no
     slug: 'como-estudar-sociologia-enem',
     title: 'Como Estudar Sociologia para o ENEM — Clássicos',
     description: 'Como estudar Sociologia para o ENEM: os 3 clássicos que sempre caem (Marx, Durkheim, Weber), os temas contemporâneos e como responder questões de interpretação.',
-    date: '2026-06-17',
+    date: '2026-06-18',
     readTime: 7,
     content: `
 Sociologia representa cerca de 8–10 questões na prova de Ciências Humanas do ENEM. Muitos candidatos subestimam a disciplina. e perdem pontos que poderiam ser garantidos com 4 a 6 semanas de estudo focado.
@@ -74602,7 +74602,7 @@ Aproximadamente 7 a 10 questões por edição, dentro das 45 de Ciências Humana
     slug: 'enem-digital-prova-computador',
     title: 'ENEM Digital — Prova no Computador, Quem Pode Fazer e',
     description: 'O ENEM Digital é a versão em computador do exame. Saiba quem pode participar, como funciona a prova, as diferenças do impresso e como se preparar. Grátis.',
-    date: '2026-06-17',
+    date: '2026-06-22',
     readTime: 6,
     content: `
 O ENEM Digital é a versão do exame aplicada em computador, disponível como opção para candidatos que preferem fazer a prova em formato digital. A nota tem o mesmo valor do ENEM impresso para todos os fins. SISU, ProUni, FIES e demais programas.
@@ -100567,7 +100567,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     slug: 'medicina-enem-nota-de-corte',
     title: 'Nota de Corte Medicina ENEM 2026 — Por Universidade',
     description: 'Nota de corte para medicina no ENEM 2026 por universidade federal. Veja as médias do SiSU 2025 e saiba qual pontuação mínima você precisa atingir para passar.',
-    date: '2026-06-23',
+    date: '2026-06-24',
     readTime: 9,
     content: `
 Medicina é o curso mais concorrido do Brasil no SiSU. A nota de corte varia por instituição, turno e modalidade de concorrência, mas a referência histórica mostra que candidatos competitivos precisam de **750 a 830 pontos** em todas as áreas.
@@ -100731,7 +100731,7 @@ O SiSU divulga os resultados em três edições geralmente em janeiro/fevereiro,
     slug: 'redacao-enem-nota-1000',
     title: 'Redação ENEM Nota 1000 — O que Fazer para Tirar',
     description: 'Como tirar nota 1000 na redação do ENEM: as 5 competências avaliadas, os erros que zeram e estratégias de candidatos que atingiram nota máxima em 2024.',
-    date: '2026-06-23',
+    date: '2026-06-24',
     readTime: 10,
     content: `
 A nota máxima na redação do ENEM é 1000 pontos. Cada ano, apenas uma fração de 1% dos candidatos atinge esse patamar — mas o caminho para a nota máxima é claro e replicável.
@@ -100926,7 +100926,7 @@ O uso de "eu" é tecnicamente permitido, mas não é recomendado. A dissertaçã
     slug: 'estrutura-redacao-enem',
     title: 'Estrutura da Redação ENEM — Guia Completo 2026',
     description: 'Estrutura completa da redção do ENEM 2026: introdução, desenvolvimento e conclusão com exemplos reais e os critérios exatos do INEP para cada parágrafo.',
-    date: '2026-06-23',
+    date: '2026-06-24',
     readTime: 8,
     content: `
 A redação do ENEM segue um formato fixo: o texto dissertativo-argumentativo. Dominar essa estrutura é o passo mais direto para aumentar a nota, porque o INEP avalia cada parágrafo com critérios específicos.
@@ -101110,7 +101110,7 @@ Sim. O INEP espera que cada parágrafo comece com recuo (entrada de linha). É u
     slug: 'engenharia-nota-de-corte-enem',
     title: 'Nota de Corte Engenharia ENEM 2026 — Por Modalidade',
     description: 'Nota de corte para engenharia no ENEM 2026 por universidade federal e modalidade. Civil, Elétrica, Mecânica, Computação — veja as médias do SiSU 2025.',
-    date: '2026-06-23',
+    date: '2026-06-24',
     readTime: 8,
     content: `
 Engenharia é um dos cursos mais buscados no SiSU. A nota de corte varia bastante por modalidade: Engenharia de Computação e Elétrica costumam ter corte mais alto que Civil e Ambiental.
@@ -101266,7 +101266,7 @@ Ambas têm altas notas de corte, mas são cursos diferentes. Computação é mai
     slug: 'direito-nota-de-corte-enem',
     title: 'Nota de Corte Direito ENEM 2026 — Por Universidade',
     description: 'Nota de corte para direito no ENEM 2026 por universidade federal. Veja as médias do SiSU 2025 e saiba qual pontuação mínima você precisa atingir para passar.',
-    date: '2026-06-23',
+    date: '2026-06-24',
     readTime: 7,
     content: `
 Direito é um dos cursos mais buscados no SiSU. A nota de corte para as federais varia entre 650 e 760 pontos, com as universidades do Sudeste e algumas do Nordeste apresentando os cortes mais altos.
@@ -101429,7 +101429,7 @@ O currículo é o mesmo, mas o noturno costuma ter menor concorrência e nota de
     slug: 'enem-nota-maxima',
     title: 'Nota Máxima no ENEM — Como Atingir 1000 Pontos',
     description: 'Como tirar nota máxima no ENEM 2026: estratégias comprovadas, metas por área e o plano de estudos que candidatos com nota máxima usaram para chegar ao topo.',
-    date: '2026-06-23',
+    date: '2026-06-24',
     readTime: 9,
     content: `
 A nota máxima no ENEM é 1000 pontos por área objetiva e 1000 na redação. Nenhum candidato jamais tirou 1000 em todas as cinco provas simultaneamente — mas atingir 950+ em todas as áreas é alcançável com planejamento.
@@ -101618,7 +101618,7 @@ A Teoria de Resposta ao Item (TRI) é o método de cálculo de nota do ENEM. Ela
     slug: 'cursinho-online-enem',
     title: 'Cursinho Online para o ENEM — Gratuito e Pago 2026',
     description: 'Os melhores cursinhos online para o ENEM em 2026: plataformas gratuitas e pagas comparadas por preço, conteúdo, questões e feedback. Qual realmente vale a pena?',
-    date: '2026-06-23',
+    date: '2026-06-24',
     readTime: 8,
     content: `
 Estudar para o ENEM online é hoje a opção mais acessível e flexível para a maioria dos candidatos. A oferta de cursinhos cresceu muito nos últimos anos — e saber qual vale seu tempo (e dinheiro) faz diferença.
@@ -101784,7 +101784,7 @@ Entre 2 e 4 horas por dia é o recomendado para candidatos que trabalham. Para q
     slug: 'melhor-curso-pre-enem-online',
     title: 'Melhor Curso Pré-ENEM Online 2026 — Comparativo',
     description: 'Comparativo dos melhores cursos pré-ENEM online em 2026: preço, questões reais, simulados e suporte. Qual plataforma realmente melhora sua nota no ENEM?',
-    date: '2026-06-23',
+    date: '2026-06-24',
     readTime: 8,
     content: `
 Escolher o curso pré-ENEM online certo pode ser a diferença entre passar e não passar. Com tantas opções no mercado, é essencial saber o que cada plataforma oferece — e o que realmente funciona.
@@ -101960,7 +101960,7 @@ Depende do que você precisa. ENEM Pro é focado em prática de questões reais 
     slug: 'o-que-levar-no-dia-do-enem',
     title: 'O que Levar no Dia do ENEM 2026 — Checklist Completo',
     description: 'Checklist do que levar no dia do ENEM 2026: documento, caneta preta, cartão de confirmação e lanche. Veja a lista oficial item por item e não perca pontos.',
-    date: '2026-06-24',
+    date: '2026-06-25',
     readTime: 7,
     content: `
 Chegar preparado no dia do ENEM começa muito antes da prova. Levar os itens certos evita problemas na entrada e ajuda você a render melhor durante as cinco horas e meia de exame.
@@ -102083,7 +102083,7 @@ Sim. Alimentos e água são permitidos em embalagens transparentes e sem rótulo
     slug: 'o-que-nao-pode-levar-no-enem',
     title: 'O que Não Pode Levar no ENEM 2026 — Lista Oficial',
     description: 'Lista oficial do que não pode levar no ENEM 2026: celular, relógio digital, lápis e óculos escuros. Veja o que causa eliminação e como evitar problemas.',
-    date: '2026-06-24',
+    date: '2026-06-25',
     readTime: 7,
     content: `
 Saber o que não pode entrar na sala do ENEM é tão importante quanto saber o que levar. Um item proibido em cima da carteira pode causar eliminação imediata, mesmo sem intenção de fraude.
@@ -102190,7 +102190,7 @@ A emissão de som por qualquer aparelho eletrônico, incluindo alarme, leva à e
     slug: 'quantos-acertos-para-passar-no-enem',
     title: 'Quantos Acertos Para Passar no ENEM 2026?',
     description: 'Quantos acertos você precisa para passar no ENEM 2026? Veja a relação entre acertos e nota TRI por área e quanto exige medicina, direito e engenharia.',
-    date: '2026-06-24',
+    date: '2026-06-25',
     readTime: 9,
     content: `
 A pergunta mais comum entre candidatos é quantos acertos garantem a aprovação no ENEM. A resposta depende do curso desejado e do efeito da Teoria de Resposta ao Item, que faz a nota não ser proporcional ao número de acertos.
@@ -102305,7 +102305,7 @@ Para as federais mais concorridas, é preciso acertar cerca de 40 a 43 das 45 qu
     slug: 'encceja-2026-certificado-ensino-medio',
     title: 'Encceja 2026 — Certificado do Ensino Médio',
     description: 'Encceja 2026: como tirar o certificado do ensino médio ou fundamental. Veja inscrição, idade mínima, áreas avaliadas e a nota necessária para aprovação.',
-    date: '2026-06-24',
+    date: '2026-06-25',
     readTime: 8,
     content: `
 O Encceja é a porta de entrada para quem não concluiu o ensino fundamental ou médio na idade regular e quer obter a certificação. A prova é gratuita e dá um certificado com validade nacional reconhecido pelo MEC.
@@ -102421,7 +102421,7 @@ Não. A aprovação é por área. Você pode ser aprovado em algumas áreas em u
     slug: 'o-que-mais-cai-no-enem',
     title: 'O que Mais Cai no ENEM — Temas por Área 2026',
     description: 'Descubra o que mais cai no ENEM por área: os temas recorrentes de Matemática, Linguagens, Humanas e Natureza que mais aparecem e onde focar os estudos.',
-    date: '2026-06-24',
+    date: '2026-06-25',
     readTime: 9,
     content: `
 Saber o que mais cai no ENEM ajuda a priorizar o estudo e a render mais em menos tempo. O exame repete padrões de temas todos os anos, e conhecer esses padrões é uma vantagem estratégica na reta final.
@@ -102564,7 +102564,7 @@ Os temas de redação tratam de problemas sociais brasileiros, como educação, 
     slug: 'local-de-prova-enem-2026',
     title: 'Local de Prova ENEM 2026 — Como Consultar',
     description: 'Como consultar o local de prova do ENEM 2026 pelo cartão de confirmação. Veja o passo a passo, o que fazer se houver erro e dicas para o dia da prova.',
-    date: '2026-06-24',
+    date: '2026-06-25',
     readTime: 6,
     content: `
 Saber onde será sua prova com antecedência evita atrasos e nervosismo no dia do ENEM. O local de prova é informado no cartão de confirmação, disponível na Página do Participante semanas antes do exame.
@@ -102660,7 +102660,7 @@ Não é obrigatório, mas é muito recomendado. Levar o cartão impresso ajuda a
     slug: 'cartao-de-confirmacao-enem-2026',
     title: 'Cartão de Confirmação ENEM 2026 — Como Acessar',
     description: 'Cartão de confirmação ENEM 2026: como acessar, imprimir e o que fazer se não aparecer. Veja o passo a passo na Página do Participante e o que o cartão mostra.',
-    date: '2026-06-24',
+    date: '2026-06-25',
     readTime: 6,
     content: `
 O cartão de confirmação reúne as informações mais importantes da sua inscrição no ENEM. Ele mostra onde, quando e em qual sala você fará a prova, além da língua estrangeira escolhida e do número de inscrição.
@@ -102756,7 +102756,7 @@ O cartão costuma ser liberado algumas semanas antes da prova, em data informada
     slug: 'bolsa-prouni-100-como-conseguir',
     title: 'Bolsa ProUni 100% — Como Conseguir em 2026',
     description: 'Como conseguir bolsa integral de 100% no ProUni 2026: renda máxima, nota mínima no ENEM e regras de seleção. Veja o passo a passo para a bolsa integral.',
-    date: '2026-06-24',
+    date: '2026-06-25',
     readTime: 8,
     content: `
 A bolsa integral do ProUni cobre 100% da mensalidade em faculdades particulares e é uma das principais portas de acesso ao ensino superior no Brasil. Conquistá-la depende de critérios claros de renda e da nota no ENEM.
@@ -104739,26 +104739,59 @@ Faça um simulado completo e use [nossa calculadora de nota ENEM](/calcular-nota
 ---
 
 Comece um simulado agora: [simulado ENEM gratuito](/simulado)` },
-  { slug: 'questoes-historia-que-mais-caem', title: 'Questões de História que Mais Caem no ENEM: 12 Temas Obrigatórios', description: 'República Velha, Ditadura Militar, Independência: estes 3 temas = 40% de História.', date: '2026-06-29', readTime: 2, content: `# Questões de História que Mais Caem no ENEM
+  { slug: 'questoes-historia-que-mais-caem', title: 'Questões de História que Mais Caem no ENEM: 12 Temas Obrigatórios', description: 'República Velha, Ditadura Militar, Independência: estes 3 temas = 40% de História.', date: '2026-06-29', readTime: 5, content: `# Questões de História que Mais Caem no ENEM
 
-60% das questões de História repetem 5 períodos: República Velha (12%), Ditadura Militar (11%), Independência (9%), Abolição (8%), Império (7%).
+60% das questões de História nas últimas provas repetem os mesmos 5 períodos: República Velha (12%), Ditadura Militar (11%), Independência (9%), Abolição (8%) e Império (7%). Priorizar esses temas é a forma mais eficiente de ganhar pontos rápido em Ciências Humanas.
 
 > **Key Takeaways**
-> - República Velha: 12% das questões de História = 5 questões/ano
-> - Ditadura Militar: 11% = 5 questões/ano
-> - Estes 2 temas = 22% do total. Domine-os = +30 pontos garantidos
+> - República Velha e Ditadura Militar somam 23% das questões de História — domine os 2 e já garante boa parte da disciplina
+> - O ENEM cobra história por meio de interpretação de fonte (charge, texto, foto), não decoreba de datas
+> - 12 temas cobrem quase todo o recorte histórico cobrado — estudar fora dessa lista tem retorno baixo
 
-## Top 5 Temas
+## Os 12 Temas Mais Cobrados
 
-1. **República Velha (1889-1930):** Coronelismo, voto de cabresto, oligarquias
-2. **Ditadura Militar (1964-1985):** AI-5, censura, Milagre Econômico, repressão
-3. **Independência (1822):** D. Pedro I, Grito do Ipiranga, contexto político
-4. **Abolição (1888):** Lei Áurea, resistência de escravizados, Lei do Ventre Livre
-5. **Império (1822-1889):** D. Pedro II, guerra do Paraguai, café com leite
+1. **República Velha (1889-1930):** coronelismo, voto de cabresto, política do café com leite, oligarquias regionais
+2. **Ditadura Militar (1964-1985):** AI-5, censura, Milagre Econômico, repressão e resistência (guerrilhas, exílio)
+3. **Independência (1822):** contexto do Grito do Ipiranga, papel de D. Pedro I, permanência da elite colonial
+4. **Abolição (1888):** Lei Áurea, Lei do Ventre Livre, resistência de escravizados (quilombos, revoltas)
+5. **Segundo Império (1822-1889):** D. Pedro II, Guerra do Paraguai, economia cafeeira
+6. **Era Vargas (1930-1945):** Estado Novo, CLT, populismo, industrialização
+7. **Revolução Industrial:** transformações no trabalho, urbanização, movimento operário
+8. **Guerra Fria:** bipolaridade, ditaduras latino-americanas, corrida armamentista
+9. **Colonização do Brasil:** economia açucareira, escravidão indígena e africana, ciclo do ouro
+10. **Redemocratização (1985-1988):** Diretas Já, Constituição de 1988, Nova República
+11. **Movimentos sociais no Brasil:** ligas camponesas, movimento negro, movimento das mulheres
+12. **Globalização e neoliberalismo:** décadas de 1990-2000, privatizações, Plano Real
+
+## Como o ENEM Cobra Cada Tema
+
+A prova raramente pede "quando foi X" — o padrão é apresentar uma fonte (charge, trecho de lei, foto de época, letra de música) e pedir para você relacionar o contexto histórico ao que a fonte mostra. Por isso, decorar datas isoladas rende pouco: o que garante ponto é entender **causa e consequência** de cada período.
+
+**Exemplo de padrão de questão:**
+- Fonte: charge sobre voto de cabresto na República Velha
+- Pergunta: qual mecanismo político a charge critica
+- Resposta certa: exige saber o que era coronelismo, não só a data 1889-1930
+
+## Estratégia de Estudo por Tempo Disponível
+
+- **1 semana:** foque nos 5 temas do topo da lista (República Velha, Ditadura Militar, Independência, Abolição, Império) — cobrem a maior fatia da disciplina
+- **1 mês:** adicione Era Vargas, Guerra Fria e Colonização — fecha os 8 temas mais recorrentes
+- **2+ meses:** complete os 12 temas e pratique redação de contexto histórico para questões de interpretação de fonte
+
+## Perguntas Frequentes
+
+**Preciso decorar datas exatas?**
+Não. O ENEM valoriza entender o contexto e a relação causa-consequência mais do que memorizar anos exatos.
+
+**Qual tema tem o maior retorno por hora de estudo?**
+República Velha e Ditadura Militar — juntos somam a maior fatia de questões e têm padrões de cobrança bem definidos (política, repressão, resistência).
+
+**Vale a pena estudar história antiga ou só Brasil?**
+O ENEM foca fortemente em história do Brasil e temas conectados a Guerra Fria/Revolução Industrial. História antiga aparece pouco.
 
 ---
 
-Pratique [questões de História](/questoes?discipline=historia)` },
+Pratique agora com [questões de História filtradas por tema](/questoes?discipline=historia)` },
   { slug: 'preparacao-segunda-aplicacao-enem-2026', title: 'Preparação para Segunda Aplicação ENEM 2026: Cronograma 8 Semanas', description: 'Segunda chamada tem 30% menos competição. Estude 6h/dia e chegue aos 700+.', date: '2026-06-29', readTime: 2, content: `# Preparação para Segunda Aplicação ENEM 2026
 
 A segunda aplicação tem **30% menos candidatos**. Se você não passou na primeira, tem mais chances agora.
