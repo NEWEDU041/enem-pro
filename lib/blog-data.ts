@@ -5780,18 +5780,11 @@ No ENEM Pro, estudantes com cronograma estruturado. que usam nossa ferramenta de
 - [Portal MEC](https://www.gov.br/mec/pt-br). Ministério da Educação
 ## Perguntas Frequentes
 
-### Quando é o ENEM?
-O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo INEP no início do ano no site oficial gov.br/inep.
+### O que é revisão espaçada e por que ela funciona pro ENEM?
+Revisão espaçada é revisar o mesmo conteúdo em intervalos crescentes (1 dia, 3 dias, 7 dias, 15 dias) em vez de reler tudo de uma vez antes da prova. Isso força o cérebro a recuperar a informação da memória de longo prazo repetidas vezes, o que fixa muito mais do que reler passivamente. Na prática: depois de estudar um tema pela primeira vez, revise em 1 dia, depois em 3, depois em 1 semana — cada revisão pode ser mais rápida que a anterior porque o conteúdo já está mais fixado.
 
-### Como me inscrever no ENEM?
-A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
-
-### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
-
-### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
-
+### Como estudar para o ENEM trabalhando o dia todo?
+Priorize consistência sobre volume: 1h de estudo focado todo dia rende mais do que 6h só no fim de semana, porque espaça a revisão naturalmente. Aproveite deslocamento e intervalos para revisão ativa (questões, flashcards) em vez de teoria nova, que exige mais concentração. Reserve fins de semana para simulados completos e revisão dos temas que mais erra — é quando você tem bloco de tempo maior disponível.
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
@@ -11487,6 +11480,8 @@ Geografia é parte da prova de Ciências Humanas do ENEM, respondendo por cerca 
 - Energia renovável vs. combustíveis fósseis
 - COP, Protocolo de Kyoto, Acordo de Paris
 
+**Desmatamento da Amazônia — como cai na prova:** o ENEM cobra o desmatamento tanto em Geografia (causas: pecuária extensiva, grilagem, mineração ilegal, expansão agrícola) quanto na redação, quando o tema toca meio ambiente. A banca gosta de gráficos e mapas mostrando a evolução do desmatamento por ano — treine leitura desse tipo de dado, não só o conceito. Vale saber os principais órgãos de fiscalização (Ibama, ICMBio) e programas de controle (PPCDAm) para propostas de intervenção mais específicas.
+
 ### 2. Cartografia e Leitura de Mapas (2–3 questões)
 - Projeções cartográficas (Mercator, Peters)
 - Escalas e coordenadas geográficas
@@ -11499,11 +11494,15 @@ Geografia é parte da prova de Ciências Humanas do ENEM, respondendo por cerca 
 - Mobilidade urbana e transporte
 - Metrópoles globais e hierarquia urbana
 
+**Urbanização brasileira — o essencial:** o Brasil urbanizou de forma acelerada e tardia (décadas de 1950-1980), sem planejamento suficiente — é essa combinação de *rapidez sem planejamento* que explica favelização, déficit habitacional e mobilidade urbana precária nas questões do ENEM. A banca gosta de conectar esse processo com êxodo rural e industrialização das décadas anteriores.
+
 ### 4. Geopolítica e Relações Internacionais (2–3 questões)
 - Blocos econômicos (Mercosul, UE, NAFTA/USMCA)
 - Conflitos territoriais e recursos estratégicos
 - Refugiados e migrações internacionais
 - Ascensão da China e multipolaridade
+
+**Mercosul x União Europeia — o que o ENEM cobra:** o Mercosul (Brasil, Argentina, Paraguai, Uruguai) é um bloco de integração econômica regional, mais próximo do estágio de união aduaneira do que de uma integração completa como a UE. Já a União Europeia avançou para moeda única (euro) e livre circulação de pessoas — um estágio de integração mais profundo. O ENEM costuma cobrar essa diferença de *estágio de integração econômica* (zona de livre comércio → união aduaneira → mercado comum → união econômica), não datas de fundação dos blocos.
 
 ### 5. Agropecuária e Recursos Naturais (1–2 questões)
 - Agronegócio brasileiro no mundo
@@ -13455,6 +13454,15 @@ Analisando as redações corrigidas pelos usuários do ENEM Pro, identificamos q
 
 ## Perguntas Frequentes?
 
+
+### Fuga do tema zera a redação inteira?
+Sim. Fuga ao tema é nota 0 na Competência 2, e nota 0 em qualquer competência derruba a redação inteira para 0, mesmo que as outras 4 estejam perfeitas. A diferença entre fuga e tangenciamento importa: tangenciar (abordar o tema de forma lateral, sem focar no recorte pedido) tira pontos mas não zera. Antes de escrever, identifique a palavra-chave e o recorte específico do tema — não basta falar do assunto geral, precisa responder exatamente o que foi pedido.
+
+### Preciso ler muitos livros para ter repertório sociocultural?
+Não. Repertório sociocultural pode vir de filmes, séries, documentários, letras de música, reportagens e até aulas de outras matérias — o que importa é usar a referência de forma pertinente e conectada ao argumento, não citar por citar. Um filme bem articulado com a tese vale mais do que uma citação de livro forçada e descontextualizada.
+
+### Quantas linhas a redação do ENEM precisa ter?
+O espaço oficial tem 30 linhas. Textos com menos de 8 linhas recebem nota 0 automaticamente (são considerados insuficientes). Na prática, redações nota 1000 costumam ocupar entre 25 e 30 linhas — texto muito curto raramente desenvolve os 5 elementos da proposta de intervenção com profundidade suficiente.
 
 ### Quando é o ENEM?
 O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo INEP no início do ano no site oficial gov.br/inep.
@@ -21233,6 +21241,15 @@ O ENEM não pede classificação gramatical isolada. As questões sempre apresen
 - Pontuação (vírgula, ponto e vírgula, dois pontos)
 - Coesão textual. conectivos e referências
 
+## Figuras de Linguagem e Funções da Linguagem?
+
+Duas coisas diferentes que o ENEM cobra separadamente:
+
+**Figuras de linguagem** (recursos estilísticos dentro do texto): metáfora, metonímia, ironia, hipérbole, eufemismo, personificação, antítese. O ENEM raramente pede para *nomear* a figura — pede para identificar o *efeito de sentido* que ela produz no texto (ex: uma hipérbole reforça exagero para causar impacto).
+
+**Funções da linguagem** (a intenção do texto como um todo): referencial (informar), emotiva (expressar sentimento do emissor), conativa (persuadir o leitor — comum em publicidade e textos motivadores de redação), poética (forma do texto importa tanto quanto o conteúdo), fática (testar o canal de comunicação, ex: "alô, está me ouvindo?") e metalinguística (linguagem falando sobre si mesma, ex: um dicionário, ou um poema sobre poesia).
+
+**Como cai na prova:** o ENEM apresenta um texto (propaganda, poema, tirinha) e pede pra identificar qual função predomina ou qual efeito uma figura de linguagem específica produz — sempre em contexto, nunca como definição isolada pra decorar.
 
 ## Literatura. Contexto, Não Decoreba?
 
@@ -75465,6 +75482,22 @@ As outras 45 questões de Linguagens (Português, Literatura, Artes, Educação 
 | Dificuldade média ENEM | Média | Ligeiramente mais acessível |
 | Nível exigido | Leitura básica a intermediária | Leitura básica a intermediária |
 
+## Cuidado com os Falsos Cognatos em Espanhol?
+
+Quem escolhe espanhol pensando "é quase português" costuma cair em pegadinhas de falsos cognatos — palavras parecidas com o português mas com significado diferente. O ENEM usa esse tipo de armadilha em alternativas de interpretação. Os mais comuns:
+
+| Palavra em espanhol | Parece | Significa de verdade |
+|---|---|---|
+| *embarazada* | envergonhada | grávida |
+| *exquisito* | esquisito | delicioso, requintado |
+| *escritorio* | escritório (empresa) | mesa de trabalho / consultório |
+| *taller* | talher | oficina |
+| *apellido* | apelido | sobrenome |
+| *oficina* | escritório | oficina mecânica |
+| *rojo* | roxo | vermelho |
+| *largo* | largo (de espaço) | longo, comprido |
+
+**Estratégia:** nunca traduza palavra por palavra pelo "parece com português" — leia a frase inteira e use o contexto pra confirmar o sentido antes de marcar a alternativa.
 
 ## O ENEM Não Exige Fluência?
 
