@@ -1,0 +1,88 @@
+[
+  {
+    "theme": "Disciplinas",
+    "keywords_count": 53,
+    "writer": "writer-1",
+    "start_date": "2026-07-09",
+    "end_date": "2026-07-16",
+    "target_posts": 15,
+    "priority_keywords": [
+      "Análise combinatória ENEM como resolver",
+      "Matemática financeira ENEM juros compostos",
+      "Ecologia ENEM cadeias alimentares energia",
+      "Eletrodinâmica ENEM circuitos corrente elétrica",
+      "Redação ENEM competência 5 proposta intervenção",
+      "Redação ENEM competência 1 gramática português",
+      "ENEM interpretação texto semântica linguagem",
+      "Genética ENEM leis Mendel dominante recessivo",
+      "Evolução biologia ENEM seleção natural Darwin",
+      "Geometria espacial ENEM cubo pirâmide volume"
+    ]
+  },
+  {
+    "theme": "Temas sazonais",
+    "keywords_count": 17,
+    "writer": "writer-2",
+    "start_date": "2026-07-09",
+    "end_date": "2026-07-16",
+    "target_posts": 10,
+    "priority_keywords": [
+      "ENEM 2026 resultado quando sai janeiro",
+      "ENEM inscrição prazo 2026 como fazer",
+      "ENEM 2026 cronograma oficial datas completo",
+      "ENEM gabarito oficial 2026 quando sai",
+      "Cartão confirmação ENEM 2026 como acessar",
+      "Isenção taxa ENEM 2026 quem tem direito"
+    ]
+  },
+  {
+    "theme": "Técnicas de estudo",
+    "keywords_count": 14,
+    "writer": "writer-3",
+    "start_date": "2026-07-09",
+    "end_date": "2026-07-16",
+    "target_posts": 10,
+    "priority_keywords": [
+      "Como estudar com método Pomodoro ENEM",
+      "Técnica Cornell para anotações ENEM",
+      "Cronograma de estudos ENEM quanto tempo",
+      "Leitura dinâmica para ENEM estratégia rápida",
+      "Flashcards ENEM memorização eficiente",
+      "Resumo para ENEM como fazer bom resumo"
+    ]
+  },
+  {
+    "theme": "Comparações",
+    "keywords_count": 13,
+    "writer": "writer-4",
+    "start_date": "2026-07-09",
+    "end_date": "2026-07-16",
+    "target_posts": 10,
+    "priority_keywords": [
+      "Sisu vs ProUni vs Fies diferenças qual escolher",
+      "ENEM digital vs tradicional diferenças 2026",
+      "Sisu nota mínima requisitos ENEM 450 pontos",
+      "ProUni bolsa requisitos ENEM como funciona",
+      "Fies financiamento taxa requisitos ENEM",
+      "ENEM vs vestibular diferenças que escolher"
+    ]
+  },
+  {
+    "theme": "Perfil candidato + Aplicações + Logística",
+    "keywords_count": 23,
+    "writer": "writer-5",
+    "start_date": "2026-07-09",
+    "end_date": "2026-07-16",
+    "target_posts": 15,
+    "priority_keywords": [
+      "ENEM para trabalhador como estudar conciliando",
+      "ENEM primeira vez como começar estudo zero",
+      "Como tirar 700 no ENEM quantas questões",
+      "ENEM como gerenciar tempo 5 horas prova",
+      "ENEM ansiedade estresse como controlar nervos",
+      "ENEM última semana antes prova revisão dicas",
+      "ENEM deficiência visual acessibilidade recursos",
+      "ENEM carreira militar nota requisito quadro complementar"
+    ]
+  }
+]
