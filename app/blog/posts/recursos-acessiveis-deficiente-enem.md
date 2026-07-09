@@ -102,7 +102,6 @@ Nunca chegue na prova de verdade sem testar recurso. Descobrir problema no dia �
 
 Comum para **cego:**
 - Prova em braile OU digital com leitor
-- Tempo extra (50%)
 - Ledor (opcional, se quiser companhia)
 
 Comum para **surdo:**
@@ -112,7 +111,6 @@ Comum para **surdo:**
 
 Comum para **baixa visão:**
 - Prova ampliada (24 ou 28pt)
-- Tempo extra (25-50%)
 - Redução de ruído (se ajuda concentração)
 
 Comum para **deficiência motora:**
@@ -122,7 +120,6 @@ Comum para **deficiência motora:**
 
 Comum para **TDAH/Autismo:**
 - Redução de ruído (sala isolada)
-- Tempo extra (25-50%)
 - Pausas permitidas (pode sair um momento se necessário)
 
 ## FAQ: Perguntas Sobre Recursos

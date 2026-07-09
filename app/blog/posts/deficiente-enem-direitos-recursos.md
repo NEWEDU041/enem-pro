@@ -33,7 +33,7 @@ Após inscrição, INEP analisa solicitação em até 30 dias. Se aprovada, voc�
 
 ## Quais Adaptações Estão Disponíveis?
 
-**Tempo extra:** até 1h adicional (50% do tempo original). Aplicável para todas as deficiências que impactam velocidade de processamento ou leitura. Você tem 5h30 em vez de 4h30 (para primeira e segunda dia).
+Aplicável para todas as deficiências que impactam velocidade de processamento ou leitura. Você tem 5h30 em vez de 4h30 (para primeira e segunda dia).
 
 **Prova em braile:** disponível para cegos. Transcrita e impressa em braile. Você recebe prova em braile + um acompanhante (ledor) se desejar. Também pode receber prova digital em formato acessível.
 
@@ -85,7 +85,7 @@ Tecnicamente não. Mas se você foi diagnosticado verbalmente ou está em proces
 
 ### Qual adaptação é mais común solicitada?
 
-Tempo extra é a mais comum. 70% dos candidatos com deficiência solicitam 50% de tempo adicional (observação INEP, 2024). Segunda mais comum é prova ampliada. Terceira é intérprete de Libras.
+Segunda mais comum é prova ampliada. Terceira é intérprete de Libras.
 
 ### Posso recusar adaptação que me foi concedida?
 

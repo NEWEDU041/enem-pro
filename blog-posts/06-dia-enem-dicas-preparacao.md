@@ -1,26 +1,25 @@
 # Dia do ENEM 2026: Dicas, O Que Levar e Como Se Preparar
 
-**Meta Description:** Chegou o dia do ENEM 2026. Confira dicas essenciais, checklist do que levar e como se preparar. 92% dos candidatos se preparam corretamente.
+**Meta Description:** Chegou o dia do ENEM 2026.
 
 ---
 
 > **Key Takeaways**
 > - Chegar 30-45 minutos antes do horário de abertura do portão
 > - Levar: CPF, Comprovante de Inscrição, 2 canetas azuis/pretas, lápis HB
-> - 92% dos candidatos que seguem protocolo não têm problemas 
 > - Evitar: eletrônicos, maquiagem com detalhes metálicos, roupas com símbolos
 
 ---
 
 ## Introdução
 
-O dia do ENEM é momento crítico que requer preparação minuciosa para evitar imprevistos. Segundo dados do INEP de 2024, aproximadamente 92% dos candidatos que seguem protocolo completo não enfrentam problemas. Contudo, 8% enfrentam complicações que poderiam ter sido evitadas com planejamento melhor. Este artigo apresenta dicas essenciais, checklist de itens a levar e orientações para dia da prova. Preparação adequada pode fazer diferença entre aprovar e desaprovar em candidato borderline. 
+O dia do ENEM é momento crítico que requer preparação minuciosa para evitar imprevistos. Este artigo apresenta dicas essenciais, checklist de itens a levar e orientações para dia da prova. Preparação adequada pode fazer diferença entre aprovar e desaprovar em candidato borderline.
 
 ---
 
 ## Com Antecedência: Quando Começar a Se Preparar no Dia Anterior?
 
-Recomenda-se iniciar preparação do dia anterior (sexta-feira antes do domingo de prova). Atividades: (1) revisar onde fica sua escola (confirmar endereço no mapa), (2) conferir roupa que vai usar (confortável e adequada), (3) separar documentos necessários, (4) descansar bem (recomenda-se mínimo 7 horas de sono). Segundo especialistas, sono inadequado (menos de 6 horas) reduz desempenho em 15-20%. Evitar últimas horas assistindo revisão pesada ou estudando novo conteúdo. Aproximadamente 65% dos candidatos estudam noite anterior e relatam desempenho pior.
+Recomenda-se iniciar preparação do dia anterior (sexta-feira antes do domingo de prova). Atividades: (1) revisar onde fica sua escola (confirmar endereço no mapa), (2) conferir roupa que vai usar (confortável e adequada), (3) separar documentos necessários, (4) descansar bem (recomenda-se mínimo 7 horas de sono). Evitar últimas horas assistindo revisão pesada ou estudando novo conteúdo.
 
 Organize tudo noite anterior para não se estressar domingo.
 
@@ -28,7 +27,7 @@ Organize tudo noite anterior para não se estressar domingo.
 
 ## Horários: Quando Devo Sair de Casa no Dia do ENEM?
 
-Portões abrem tipicamente entre 12h-12h30 (para provas que começam 13h30). Recomenda-se chegar **30-45 minutos antes** da abertura de portões para evitar filas. Se você demora 30 minutos para chegar na escola, saia de casa às 11h15 no máximo. Deixar margem de 15-20 minutos para imprevistos no caminho. Segundo dados de 2024, aproximadamente 3% dos candidatos atrasam e perdem a prova (INEP permite entrada até 30 minutos após abertura de portões). Chegar cedo também reduz ansiedade.
+Portões abrem tipicamente entre 12h-12h30 (para provas que começam 13h30). Recomenda-se chegar **30-45 minutos antes** da abertura de portões para evitar filas. Se você demora 30 minutos para chegar na escola, saia de casa às 11h15 no máximo. Deixar margem de 15-20 minutos para imprevistos no caminho. Chegar cedo também reduz ansiedade.
 
 Rotas alternativas podem ser necessárias em caso de trânsito inesperado.
 
@@ -36,7 +35,7 @@ Rotas alternativas podem ser necessárias em caso de trânsito inesperado.
 
 ## Documentação Essencial: O Que Levar?
 
-Documentação **obrigatória** é (1) **Comprovante de Inscrição** e (2) **Documento de Identidade com Foto** (RG, CNH ou Passaporte). Ambos são pré-requisitos absolutos. Sem qualquer um dos dois, você não pode fazer prova. Aproximadamente 1,2% dos candidatos esquecem comprovante em casa. Recomenda-se guardar comprovante impresso e também salvo em smartphone como backup. Documento de identidade deve estar válido (data de vencimento não importa para fins de ENEM conforme INEP). CPF não é obrigatório levar fisicamente.
+Documentação **obrigatória** é (1) **Comprovante de Inscrição** e (2) **Documento de Identidade com Foto** (RG, CNH ou Passaporte). Ambos são pré-requisitos absolutos. Sem qualquer um dos dois, você não pode fazer prova. Recomenda-se guardar comprovante impresso e também salvo em smartphone como backup. Documento de identidade deve estar válido (data de vencimento não importa para fins de ENEM conforme INEP). CPF não é obrigatório levar fisicamente.
 
 Guarde comprovante em envelope ou pasta para não danificar.
 
@@ -44,7 +43,7 @@ Guarde comprovante em envelope ou pasta para não danificar.
 
 ## Material Permitido: Canetas, Lápis e Outros Itens
 
-Material permitido para prova inclui: (1) **Caneta esferográfica azul ou preta** (mínimo 2 unidades para segurança), (2) **Lápis HB** para marcar gabaritos, (3) **Borracha** para corrigir erros em lápis, (4) **Apontador** para lápis. Proibido: caneta gel, caneta roller, lápis colorido, caneta permanente. Segundo INEP, isso garante que gabarito possa ser lido por máquina corretora. Recomenda-se trazer material de boa qualidade para não ter problemas. Aproximadamente 4% dos candidatos usam caneta inadequada e precisam reescrever respostas.
+Material permitido para prova inclui: (1) **Caneta esferográfica azul ou preta** (mínimo 2 unidades para segurança), (2) **Lápis HB** para marcar gabaritos, (3) **Borracha** para corrigir erros em lápis, (4) **Apontador** para lápis. Proibido: caneta gel, caneta roller, lápis colorido, caneta permanente. Segundo INEP, isso garante que gabarito possa ser lido por máquina corretora. Recomenda-se trazer material de boa qualidade para não ter problemas.
 
 Evite caneta que vaza ou lápis muito duro que não marca bem.
 
@@ -52,7 +51,7 @@ Evite caneta que vaza ou lápis muito duro que não marca bem.
 
 ## Roupas e Acessórios: O Que É Permitido Usar?
 
-Recomenda-se roupas confortáveis e adequadas: calça/shorts, camiseta/camisola, tênis ou sapato confortável. Salas de ENEM podem estar frias (ar condicionado) então considere casaco leve. Evitar: roupas muito apertadas, salto alto (desconfortável por 5+ horas), roupas com símbolos ou mensagens políticas/religiosas. Sobre acessórios, restrições incluem: sem chapéu/boné (exceto por motivos religiosos comprovados), sem óculos de sol, sem joias grandes que façam barulho. Segundo INEP, aproximadamente 0,3% dos candidatos são impedidos por violação de código de vestimenta.
+Recomenda-se roupas confortáveis e adequadas: calça/shorts, camiseta/camisola, tênis ou sapato confortável. Salas de ENEM podem estar frias (ar condicionado) então considere casaco leve. Evitar: roupas muito apertadas, salto alto (desconfortável por 5+ horas), roupas com símbolos ou mensagens políticas/religiosas. Sobre acessórios, restrições incluem: sem chapéu/boné (exceto por motivos religiosos comprovados), sem óculos de sol, sem joias grandes que façam barulho.
 
 Maquiagem sem elementos metálicos é permitida.
 
@@ -60,7 +59,7 @@ Maquiagem sem elementos metálicos é permitida.
 
 ## Alimentos e Bebidas: O Que Comer no Dia do ENEM?
 
-Café da manhã antes de ENEM deve ser **leve e energético**: pão, queijo, fruta, suco. Evitar: alimentos muito pesados que causam sonolência, comida muito gordurosa (causa desconforto digestivo), alimentos novos que você não conhece (risco de reação). Durante prova, geralmente há intervalo de 30 minutos após 2-3 horas. Recomenda-se trazer: barra de cereal, banana, água, ou suco natural em garrafa. Evitar: refrigerante com cafeína, alimentos muito doces (causa ansiedade após sugar crash). Aproximadamente 23% dos candidatos sofrem desconforto digestivo durante prova por má alimentação.
+Café da manhã antes de ENEM deve ser **leve e energético**: pão, queijo, fruta, suco. Evitar: alimentos muito pesados que causam sonolência, comida muito gordurosa (causa desconforto digestivo), alimentos novos que você não conhece (risco de reação). Durante prova, geralmente há intervalo de 30 minutos após 2-3 horas. Recomenda-se trazer: barra de cereal, banana, água, ou suco natural em garrafa. Evitar: refrigerante com cafeína, alimentos muito doces (causa ansiedade após sugar crash).
 
 Hidratação é crítica por 5+ horas de prova.
 
@@ -88,13 +87,11 @@ Nada de: celular, fone de ouvido, relógios inteligentes, calculadora, régua, m
 
 ## Dicas de Performance: Como Otimizar Durante a Prova?
 
-Durante prova, estratégias que otimizam performance incluem: (1) **Leia questão inteira antes de responder** (3% dos candidatos respondem sem ler tudo), (2) **Pule questões difíceis** (ganhe tempo com fáceis primeiro), (3) **Gerenciar tempo** (mínimo 1-2 minutos por questão), (4) **Não mudar respostas no último minuto** (ansiedade causa mais erros que ajuda), (5) **Marque com lápis e confirme depois com caneta**. Segundo especialistas, seguir essas práticas melhora score em 3-5%.
-
 ---
 
 ## Redação: Dicas Específicas para o Dia
 
-Para Redação (4ª questão, começando sábado à noite ou domingo tarde), dicas incluem: (1) **Leio proposta e textos motivadores completamente** (5 minutos), (2) **Faço rascunho estruturado** (em folha de rascunho se permitida), (3) **Escrevo versão final com cuidado de caligrafia** (máximo 30 linhas permitidas). Recomenda-se dedicar 1 hora de prova para Redação. Aproximadamente 18% dos candidatos deixam Redação para último minuto e fazem com pressa, resultando em nota baixa.
+Para Redação (4ª questão, começando sábado à noite ou domingo tarde), dicas incluem: (1) **Leio proposta e textos motivadores completamente** (5 minutos), (2) **Faço rascunho estruturado** (em folha de rascunho se permitida), (3) **Escrevo versão final com cuidado de caligrafia** (máximo 30 linhas permitidas). Recomenda-se dedicar 1 hora de prova para Redação.
 
 Criterios de avaliação (5 competências) devem ser lembrados durante escrita.
 
@@ -104,7 +101,7 @@ Criterios de avaliação (5 competências) devem ser lembrados durante escrita.
 
 **1. Posso entrar com óculos escuros se tenho fotossensibilidade?**
 
-Não, óculos de sol são proibidos. Se você tem fotossensibilidade diagnosticada, deve solicitar essa adaptação como "recurso especial" durante inscrição. Aproximadamente 0,2% recebem essa aprovação. Faça isso durante período de inscrição, não no dia da prova.
+Não, óculos de sol são proibidos. Se você tem fotossensibilidade diagnosticada, deve solicitar essa adaptação como "recurso especial" durante inscrição. Faça isso durante período de inscrição, não no dia da prova.
 
 **2. Se eu precisar ir ao banheiro, preciso avisar alguém?**
 
@@ -126,7 +123,7 @@ Não há câmeras nas salas de prova. Há fiscalização humana. Monitoramento �
 
 ## Conclusão
 
-Dia do ENEM requer preparação minuciosa: chegar 30-45 minutos antes, levar Comprovante + ID + caneta (2) + lápis HB, usar roupas confortáveis, evitar eletrônicos, comer leve, hidratação constante. Checklist de 10+ itens essenciais previne 92% dos problemas relatados. Estratégias de performance (ler completo, pular difíceis, gerenciar tempo) melhoram score 3-5%. Sono adequado noite anterior (7+ horas) impacta 15-20% do desempenho. Preparação não termina no dia anterior: também inclui rotina nos primeiros momentos do dia. Chegar cedo reduz ansiedade significativamente. 
+Dia do ENEM requer preparação minuciosa: chegar 30-45 minutos antes, levar Comprovante + ID + caneta (2) + lápis HB, usar roupas confortáveis, evitar eletrônicos, comer leve, hidratação constante. Preparação não termina no dia anterior: também inclui rotina nos primeiros momentos do dia. Chegar cedo reduz ansiedade significativamente.
 
 ---
 

@@ -12,8 +12,6 @@ Medicina federal é o curso mais disputado do ENEM. Em 2025, a nota de corte mí
 
 > **Key Takeaways**
 > - Medicina federal exige 700-760 pontos, média 730 para top 5 universidades
-> - Ciências da Natureza é a disciplina de maior peso — estude 40% do tempo aqui
-> - Simulados semanais reduzem ansiedade em 58% e melhoram TRI em 45 pontos (estudo interno ENEM Pro)
 
 ## Qual é a Nota de Corte para Medicina em 2026?
 
@@ -38,15 +36,7 @@ Estude as 4 disciplinas de forma desigual. Ciências da Natureza (Biologia, Fís
 
 **Distribuição recomendada (12 semanas):**
 
-- **Ciências da Natureza:** 40% do tempo (4,8 semanas)
-- **Matemática:** 25% do tempo (3 semanas)
-- **Linguagens e Redação:** 20% do tempo (2,4 semanas)
-- **Ciências Humanas:** 15% do tempo (1,8 semanas)
-
 Dentro de Ciências da Natureza, focar em:
-- **Biologia (35%)** — ecologia, genética, corpo humano
-- **Química (35%)** — estequiometria, termoquímica, reações orgânicas
-- **Física (30%)** — eletromagnetismo, termodinâmica
 
 ## Como o TRI Impacta Sua Nota Final
 
@@ -104,7 +94,7 @@ Sim, mas apenas em federais menos concorridas (UFERSA, UFPI, UFRB). Se quer UFMG
 
 ### Qual disciplina é mais importante para medicina?
 
-Biologia (28% das questões de Ciências da Natureza) tem o maior volume. Mas Física e Química são tão importantes — errar 10 questões de Química derruba sua nota 50-70 pontos.
+Mas Física e Química são tão importantes — errar 10 questões de Química derruba sua nota 50-70 pontos.
 
 ### Devo fazer cursinho para passar em medicina?
 
@@ -114,7 +104,7 @@ Não é obrigatório. Simulados online + revisão de questões antigas + redaç�
 
 Passar em medicina federal no ENEM exige:
 1. **730+ pontos** (mínimo para top 5 federais)
-2. **Foco em Ciências da Natureza** (40% do seu tempo)
+
 3. **Prática com simulados** (1-2 por semana nas últimas 12 semanas)
 4. **Redação impecável** (900+ pontos = diferencial)
 

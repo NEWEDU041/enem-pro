@@ -6,11 +6,9 @@
 
 # Resumos Eficientes: Síntese Que Consolida Aprendizado
 
-Resumir é compressão de informação, não cópia compactada. Resumos ruins copiam 30% do texto original apenas com frases mais curtas. Resumos eficientes extraem 5-10% do texto em formato hierarquizado. Pesquisa de Moos & Ringdahl (2012) publicada em Educational Psychology Review mostrou que criar resumos de próprio punho é 45% mais efetivo para retenção que ler resumos prontos. Este guia ensina diferença entre resumo bom e ruim e protocolo de síntese.
+Resumir é compressão de informação, não cópia compactada. Este guia ensina diferença entre resumo bom e ruim e protocolo de síntese.
 
 > **Key Takeaways**
-> - Resumo deve conter máximo 10-15% do texto original (não 30%)
-> - Criar resumo próprio 45% melhor que ler resumo pronto 
 > - Hierarquização é crítica: ideias principais > secundárias > exemplos
 > - Sem releitura 24h depois, resumo vira papel decorativo
 
@@ -19,12 +17,8 @@ Resumir é compressão de informação, não cópia compactada. Resumos ruins co
 **Resumo Ruim:**
 "Fotossíntese é processo biológico importante em plantas. Plantas usam luz solar. A luz é usada para gerar energia. As plantas têm clorofila. Clorofila capta luz. Luz é convertida em glucose. Glucose é energia para planta. Processo acontece em cloroplastos."
 
-Esse texto é 40% da original, mas não é realmente resumo; é paráfrases.
-
 **Resumo Bom:**
 "Fotossíntese: conversão de luz solar → energia química (glucose) em cloroplastos via clorofila. Equação: 6CO2 + 6H2O + luz → C6H12O6 + 6O2."
-
-Texto é 10% do original, hierarquizado (definição → mecanismo → equação), denso de informação.
 
 ## Protocolo de 4 Passos para Resumo Eficiente
 
@@ -105,7 +99,7 @@ Tópicos com hierarquia > prosa para revisão rápida. Prosa > tópicos para apr
 
 **Qual é a duração ideal de um resumo completo?**
 
-Regra: 1 página de resumo para cada 10 páginas original (aprox 10-15%). Um livro de 300 páginas fica em resumo de 30-45 páginas. Se maior, está inchado.
+Um livro de 300 páginas fica em resumo de 30-45 páginas. Se maior, está inchado.
 
 ## Conclusão: Resumo é Síntese, Não Compressão
 
@@ -116,10 +110,8 @@ Teste: próximo capítulo, applique protocolo de 4 passos. Revise 24h depois. Co
 ---
 
 **Meta Description (149 chars):**
-Resumos eficientes são 10-15% do original (não 30%). Criação própria 45% melhor retenção.
 
 **Citation Capsule:**
-"Pesquisa de Moos & Ringdahl (2012) publicada em Educational Psychology Review demonstra que estudantes que criam seus próprios resumos sintetizados têm 45% melhor retenção de conteúdo comparado a estudantes que leem resumos prontos, mesmo quando tempo total de estudo é igual."
 
 ---
 
@@ -127,17 +119,15 @@ Resumos eficientes são 10-15% do original (não 30%). Criação própria 45% me
 
 # Grifo Inteligente: Como Destacar Sem Encher a Página de Neon
 
-Grifo indiscriminado (20%+ do texto destacado) reduz compreensão porque cérebro trata tudo como igualmente importante. Grifo estratégico (máximo 10% do texto) facilita revisão rápida e active recall. Estudo de Nist & Armbruster (1989) publicado em Reading Research Quarterly mostrou que estudantes que grifam menos (< 10%) têm 18% melhor recall versus aqueles que grifam demais (> 20%). Este guia ensina quando grifo ajuda e quando machuca.
+Este guia ensina quando grifo ajuda e quando machuca.
 
 > **Key Takeaways**
-> - Máximo 10% do texto grifado (não 20-30% como maioria faz)
-> - Menos grifo, maior recall: 18% melhor desempenho 
 > - Grifo antes de ler = armadilha; após ler = mais efetivo
 > - Cores diferentes para hierarquia: verde = conceito, amarelo = detalhe, rosa = exceção
 
 ## Por que Grifo Demais Prejudica Retenção?
 
-Seu cérebro usa grifo como pista de importância. Se 30% da página é grifada, cérebro pensa "tudo é importante" e não cria hierarquia. Resultado: durante revisão, você relê tudo de novo em vez de focar em core ideas.
+Seu cérebro usa grifo como pista de importância. Resultado: durante revisão, você relê tudo de novo em vez de focar em core ideas.
 
 Grifo é índice visual para revisão, não ferramenta de aprendizado durante leitura. Se você grifar ENQUANTO lê, influencia leitura (seu cérebro volta para grifo em vez de continuar) e cria ilusão de conhecimento (ato de grifo = sensação de aprendizado falsa).
 
@@ -165,11 +155,9 @@ Se é primeira leitura do texto, não grifar. Sua prioridade é compreender. Gri
 
 ## Qual é a Taxa Ideal de Grifo?
 
-Pesquisa consistente mostra: 7-10% é ótimo. Menos de 5% é pouco demais (grifo não funciona bem como índice). Mais de 15% volta a prejudicar.
-
 Para texto de 10 páginas: 0.7-1 página grifada é ideal.
 
-Maioria dos estudantes grifam 25-35%. Enorme overhead, retenção pior.
+Enorme overhead, retenção pior.
 
 ## Grifo é Melhor Que Outros Métodos de Destaque?
 
@@ -202,7 +190,7 @@ Grifar sem revisar é decorativo. Revisão de grifos (SQ3R: Survey = olhar grifo
 
 **Como faço grifo em PDFs ou digital sem papel?**
 
-Apps: PDF readers (GoodNotes, Notability) permitem highlight similar ao papel. Notion tem highlight nativo. O importante é: grifo 10%, após ler, revisão estruturada. Ferramenta importa menos que disciplina.
+Apps: PDF readers (GoodNotes, Notability) permitem highlight similar ao papel. Notion tem highlight nativo. Ferramenta importa menos que disciplina.
 
 **Se já cometi erro de grifo demais, como recupero?**
 
@@ -218,17 +206,16 @@ Grifo é ferramenta sua, não para mostrar para professor. Se sistema avaliar pe
 
 ## Conclusão: Grifo é Índice, Não Estudo
 
-Grifo eficiente exige disciplina: ler completo antes, grifo mínimo (10%), hierarquia de cores, revisão estruturada. Mas payoff é claro: documentos com grifo inteligente são eficientes para revisão sem overhead.
+Mas payoff é claro: documentos com grifo inteligente são eficientes para revisão sem overhead.
 
-Próxima semana, teste: leia um capítulo, grifar apenas 8% (máximo). Revise estruturadamente. Compare retenção com sistema anterior.
+Revise estruturadamente. Compare retenção com sistema anterior.
 
 ---
 
 **Meta Description (152 chars):**
-Grifo inteligente (máximo 10%) melhora recall 18% vs grifo demais. Protocolo hierárquico.
+Protocolo hierárquico.
 
 **Citation Capsule:**
-"Estudo de Nist & Armbruster (1989) publicado em Reading Research Quarterly demonstra que estudantes que grifam criteriosamente (menos de 10% do texto) têm 18% melhor recall de conteúdo comparado a estudantes que grifam indiscriminadamente (mais de 20% do texto)."
 
 ---
 
@@ -236,31 +223,29 @@ Grifo inteligente (máximo 10%) melhora recall 18% vs grifo demais. Protocolo hi
 
 # Revisão Espaçada: O Calendário Científico Para Nunca Mais Esquecer
 
-Esquecimento é curva, não um cliff. Hermann Ebbinghaus (1885) descobriu que retenção cai exponencialmente sem revisão. Mas revisão estratégica em intervalos crescentes inverte a curva. Estudantes usando calendário de revisão espaçada (spaced repetition schedule) consolidam 85% de retenção em 1 ano versus 12% sem revisão. Este guia ensina calendário científico e como implementar sem apps.
+Esquecimento é curva, não um cliff. Hermann Ebbinghaus (1885) descobriu que retenção cai exponencialmente sem revisão. Mas revisão estratégica em intervalos crescentes inverte a curva. Este guia ensina calendário científico e como implementar sem apps.
 
 > **Key Takeaways**
-> - Curva de esquecimento: 50% em 1 dia, 30% em 1 semana, sem revisão
-> - Revisão espaçada (1d, 3d, 7d, 14d, 30d) mantém retenção 85% 
 > - Primeira revisão crítica: 24h após aprender
 > - Cada acerto aumenta intervalo; cada erro reseta para início
 
 ## Como Funciona a Curva de Esquecimento Ebbinghaus?
 
-Ebbinghaus memorizou sequências de sílabas sem sentido e testou a si mesmo em intervalos. Descobriu: sem revisão, você esquece 50% em 24h, 70% em 3 dias, 80% em 1 semana. Gráfico é exponencial decrescente, não linear.
+Ebbinghaus memorizou sequências de sílabas sem sentido e testou a si mesmo em intervalos. Gráfico é exponencial decrescente, não linear.
 
-Mas SEM REVISÃO. COM revisão no momento certo (ponto crítico antes de esquecer), curva inverte. Você revisa, retenção sobe a 100%, depois cai novamente, mas MAIS LENTAMENTE. Próxima revisão pode ser 3x mais tarde (1 dia → 3 dias). Esse padrão repete.
+Mas SEM REVISÃO. COM revisão no momento certo (ponto crítico antes de esquecer), curva inverte. Próxima revisão pode ser 3x mais tarde (1 dia → 3 dias). Esse padrão repete.
 
-Resultado: 85% retenção após múltiplas revisões vs 12% sem revisão. Diferença não é pequena; é ordem de magnitude.
+Diferença não é pequena; é ordem de magnitude.
 
 ## O Calendário Científico de Revisão
 
 **Primeira revisão: 24 horas após aprender**
 
-Crítico. Seu cérebro está prestes a esquecer. Revisão aqui "reseta" esquecimento, traz retenção a ~100%. Se espera 3 dias, retenção já é 30%; revisão depois recupera menos.
+Crítico. Seu cérebro está prestes a esquecer.
 
 **Segunda revisão: 3 dias após primeira**
 
-Agora intervalo é 3x maior. Retenção antes dessa revisão está em ~40-50%. Revisa, volta a 100%.
+Agora intervalo é 3x maior.
 
 **Terceira revisão: 7 dias após segunda**
 
@@ -284,7 +269,7 @@ Depende de objetivo. Para passar em prova (objetivo específico), pode parar. Pa
 
 Calendário espaçado (1-3-7-14-30): consistente, previsível, baseado em neurobiologia. Retenção alta, consistente.
 
-Diferença em prática: estudante A (sem calendário) estuda 60h, retém 20-30%. Estudante B (com calendário) estuda 45h, retém 75-85%. Mesma matéria, menos tempo, MUITO melhor resultado.
+Mesma matéria, menos tempo, MUITO melhor resultado.
 
 ## Como Implementar Sem Apps (Só Com Papel/Google Calendar)
 
@@ -315,7 +300,7 @@ Revisão espaçada funciona para conhecimento declarativo (fatos, conceitos, voc
 - Criatividade (brainstorm beneficia de imersão contínua)
 - Fluidez/automatismo (dirigir precisa prática frequente)
 
-Para ENEM (80% declarativo, 20% procedural): revisão espaçada é excelente para história/geografia/biologia/química conceitual. Menos para exercícios matemáticos (praticar diariamente faz mais senso).
+Menos para exercícios matemáticos (praticar diariamente faz mais senso).
 
 Estratégia mista: revisão espaçada para conceitos, prática contínua para exercícios.
 
@@ -323,7 +308,7 @@ Estratégia mista: revisão espaçada para conceitos, prática contínua para ex
 
 **Se perco 1 dia de revisão, perco tudo?**
 
-Não. Você apenas "envelhece" aquele card/conceito. Retenção cai ~5-10%. Você pode voltar 1 semana depois e continuar; ainda tem 70-80% de retenção. Nenhum dia é perdido permanentemente.
+Não. Você apenas "envelhece" aquele card/conceito. Nenhum dia é perdido permanentemente.
 
 **E se eu lembr perfeitamente em dia 1, preciso revisar de novo em dia 3?**
 
@@ -343,17 +328,16 @@ Sim. 1 Pomodoro (25 min) = revisar 10-15 cards / 1 conceito seguindo calendário
 
 ## Conclusão: Revisão Espaçada é Multiplicador de ROI
 
-Se você domina técnicas de aprendizado (Cornell, Feynman, flashcards) mas não usa revisão espaçada, está deixando 60% do potencial de retenção na mesa. Calendário científico (1-3-7-14-30 dias) é cheat code de consolidação.
+Calendário científico (1-3-7-14-30 dias) é cheat code de consolidação.
 
 Implemente começando segunda-feira: aprenda conceito dia 1, coloque lembretes calendário para dias 2/4/7/14/30. Revise disciplinadamente. Veja retenção em 1 mês.
 
 ---
 
 **Meta Description (150 chars):**
-Revisão espaçada mantém retenção 85% (1-3-7-14-30 dias) vs 12% sem revisão. Calendário científico.
+Calendário científico.
 
 **Citation Capsule:**
-"Pesquisa publicada em Cognition Journal (2023) confirma descoberta original de Ebbinghaus (1885): estudantes que aplicam calendário de revisão espaçada (intervalos de 1, 3, 7, 14, 30 dias) mantêm 85% de retenção de conteúdo após 1 ano, comparado a apenas 12% sem revisão estruturada."
 
 ---
 

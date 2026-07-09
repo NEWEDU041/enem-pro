@@ -1,6 +1,6 @@
 ---
 title: "Questões Contextualizadas no ENEM: Como o Exame Cobra Conteúdo"
-description: "85% das questões do ENEM são contextualizadas com situações reais. Veja padrão de como ENEM cria questões e como resolver."
+Veja padrão de como ENEM cria questões e como resolver."
 date: "2026-07-09"
 author: "ENEM Pro"
 tags: ["questões", "estratégia", "enem-2026", "aplicação"]
@@ -8,18 +8,15 @@ tags: ["questões", "estratégia", "enem-2026", "aplicação"]
 
 # Questões Contextualizadas no ENEM: Como o Exame Cobra Conteúdo
 
-ENEM não cobra memorização. Cobra aplicação de conhecimento em situações reais. Pesquisa INEP mostrou que 85% das questões do ENEM têm contexto. Uma questão simples seria: "Quanto é 2+2?". Uma questão ENEM é: "Pedro tem 2 maçãs. Compra mais 2. Quantas maçãs Pedro tem? Se Pedro comer 1 maçã e dar 2 maçãs para Maria, quantas ele terá?". A segunda cobre exatamente mesma operação matemática, mas exige interpretação de texto e aplicação em contexto.
+ENEM não cobra memorização. Cobra aplicação de conhecimento em situações reais. Uma questão simples seria: "Quanto é 2+2?". Uma questão ENEM é: "Pedro tem 2 maçãs. Compra mais 2. Quantas maçãs Pedro tem? Se Pedro comer 1 maçã e dar 2 maçãs para Maria, quantas ele terá?". A segunda cobre exatamente mesma operação matemática, mas exige interpretação de texto e aplicação em contexto.
 
 > **Key Takeaways**
-> - 85% das questões ENEM têm contexto de aplicação real 
-> - Padrão típico: contexto (30%) + núcleo técnico (50%) + interpretação (20%)
-> - Candidatos que entendem padrão resolvem 20% mais questões corretamente (observação ENEM Pro, 2025)
 
 ## Qual é a Estrutura de Questão Contextualizada no ENEM?
 
-Questão contextualizada tem 3 partes: apresentação de contexto, núcleo técnico, pergunta de aplicação. Contexto é uma situação real (histórica, química ambiental, situação social) que ocupa ~30% da questão. Núcleo técnico é conteúdo que você precisa dominar (~50%). Pergunta é o que você efetivamente responde (~20%).
+Questão contextualizada tem 3 partes: apresentação de contexto, núcleo técnico, pergunta de aplicação.
 
-Exemplo em Biologia: "Uma região costeira sofre poluição por derramamento de óleo. Os peixes dessa região mostram redução de população em 60% após 3 meses. Microorganismos decompositores aumentaram 500%. Qual conceito ecológico explica esse padrão?". Contexto é derramamento de óleo. Núcleo técnico é conceitos de ecologia (sucessão, decomposição). Pergunta é qual conceito aplica.
+Exemplo em Biologia: "Uma região costeira sofre poluição por derramamento de óleo. Qual conceito ecológico explica esse padrão?". Contexto é derramamento de óleo. Núcleo técnico é conceitos de ecologia (sucessão, decomposição). Pergunta é qual conceito aplica.
 
 Candidatos que ignoram contexto e pulam direto para pergunta frequentemente erram. Por quê? Porque contexto não é "enfeite". Contexto define qual conceito é relevante. No exemplo acima, se você não lê que população de peixes caiu (pressão seletiva) e decompositores aumentaram (nicho ecológico novo), você pode confundir com outro conceito.
 
@@ -72,8 +69,6 @@ Porque ENEM quer avaliar se você consegue usar conhecimento no mundo real. Prof
 Aplicação vem com prática. Você aprende conceito → pratica em questões de aplicação → começa a reconhecer padrão → consegue aplicar em contexto novo. Neuroplasticidade permite que cérebro generalize aprendizado.
 
 ### Qual area tem maior percentual de questões contextualizadas?
-
-Ciências Humanas e Natureza são 95% contextualizadas. Matemática é ~75% contextualizada (porque algumas questões são puramente técnicas). Linguagens é 100% contextualizada (por definição, linguagem é sempre contextual).
 
 ### Se erro questão contextualizada, como saber se foi falta de conceito ou interpretação?
 

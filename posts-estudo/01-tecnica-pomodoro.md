@@ -1,10 +1,9 @@
 # Técnica Pomodoro: Como Estudar com Mais Foco e Menos Cansaço
 
-Estudar por horas sem parar é contraproducente. A Técnica Pomodoro, desenvolvida por Francesco Cirillo em 1987, resolve isso dividindo o tempo em blocos de 25 minutos concentrado + 5 minutos de pausa. Pesquisa da Universidade de Lund (2019) mostrou que estudantes usando Pomodoro tiveram 35% mais retenção de conteúdo em comparação com sessões contínuas. Este guia ensina como implementar a técnica e maximizar seus resultados.
+Estudar por horas sem parar é contraproducente. A Técnica Pomodoro, desenvolvida por Francesco Cirillo em 1987, resolve isso dividindo o tempo em blocos de 25 minutos concentrado + 5 minutos de pausa. Este guia ensina como implementar a técnica e maximizar seus resultados.
 
 > **Key Takeaways**
 > - Blocos de 25 minutos + 5 minutos de pausa aumentam foco e reduzem fadiga mental
-> - Sessões de Pomodoro superiores em 35% para retenção de conteúdo 
 > - A cada 4 ciclos, faça pausa de 15-30 minutos
 > - Funciona melhor com tarefas bem definidas e lista de distrações à mão
 
@@ -12,11 +11,11 @@ Estudar por horas sem parar é contraproducente. A Técnica Pomodoro, desenvolvi
 
 Seu cérebro tem capacidade limitada de atenção sustentada. Depois de 20-30 minutos focado, o sistema nervoso começa a liberar hormônios de cansaço, reduzindo a eficiência. Pausas curtas restauram neurotransmissores como dopamina, essencial para manter foco. Pomodoro funciona porque alinha com esses ciclos biológicos naturais.
 
-A retenção cai drasticamente após 30 minutos sem pausa. Uma pausa de 5 minutos restaura 40% da capacidade de concentração, segundo estudo do Instituto de Pesquisa em Educação de Stanford (2021).
+A retenção cai drasticamente após 30 minutos sem pausa.
 
 ## Como Implementar Corretamente a Técnica Pomodoro?
 
-Muitas pessoas erram ao usar Pomodoro ignorando sinais do corpo ou definindo tarefas vagas. O método tem 5 passos simples: escolha uma tarefa clara, defina 25 minutos, elimine distrações, complete o ciclo, marque uma pausa. 89% dos estudantes que seguem rigorosamente esses passos relatam melhoria em produtividade.
+Muitas pessoas erram ao usar Pomodoro ignorando sinais do corpo ou definindo tarefas vagas.
 
 **Passo 1: Defina Sua Tarefa Claramente**
 
@@ -62,7 +61,7 @@ Você pode estar muito focado na contagem de tempo. Coloque o timer fora da vis�
 
 **Posso estudar duas matérias alternando Pomodoros?**
 
-Sim. Alterar matérias pode reduzir fadiga mental. Mas pesquisadores mostram que mudar de contexto a cada Pomodoro reduz eficiência em 12% comparado a completar tópicos inteiros antes de mudar. Idealmente: 2-3 Pomodoros mesma matéria, depois mude.
+Sim. Alterar matérias pode reduzir fadiga mental. Idealmente: 2-3 Pomodoros mesma matéria, depois mude.
 
 **Como funciona Pomodoro com aulas síncronas ou lives?**
 
@@ -74,17 +73,16 @@ Be Focused, Forest e Focus Keeper têm bom design. Mas um simples cronômetro de
 
 ## Conclusão: Transforme Suas Sessões de Estudo
 
-A Técnica Pomodoro não é para todos instantaneamente, mas dados consistem mostrando ganhos de 25-40% em produtividade quando adaptada corretamente. A chave é: tarefas claras, sem distrações, pausas reais, e disciplina nos 25 minutos. Se você estuda 4 horas por dia, implementar Pomodoro pode equivaler a ganhar 1 hora de estudo de qualidade sem estudar mais tempo.
+A chave é: tarefas claras, sem distrações, pausas reais, e disciplina nos 25 minutos. Se você estuda 4 horas por dia, implementar Pomodoro pode equivaler a ganhar 1 hora de estudo de qualidade sem estudar mais tempo.
 
 Comece amanhã: escolha uma tarefa, configure 25 minutos, estude intensamente, pausa verdadeira. Faça isso por 5 dias consecutivos. Se a retenção melhorar, mantém. Técnicas que funcionam se tornam hábitos.
 
 ---
 
 **Meta Description (150 chars):**
-Descubra a Técnica Pomodoro para estudar com foco. 25 min + 5 min pausa aumentam retenção em 35%. Guia completo com passos.
+Guia completo com passos.
 
 **Citation Capsule:**
-"A Técnica Pomodoro, que divide o estudo em ciclos de 25 minutos focado seguidos de 5 minutos de pausa, resulta em 35% mais retenção de conteúdo do que sessões contínuas, segundo estudo de 2019 publicado em Scientific Reports pela Universidade de Lund."
 
 ---
 

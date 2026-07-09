@@ -12,12 +12,11 @@ Lei 13.146/2015 garante que pessoa com deficiência receba adaptações razoáve
 
 > **Key Takeaways**
 > - Lei 13.146/2015 garante adaptações razoáveis como direito, não como favor
-> - Adaptações mais comuns: tempo extra (70%), prova ampliada (15%), acomodações físicas (10%)
 > - Solicitação deve ser feita no formulário de inscrição com laudo médico atualizado
 
 ## Como Funciona Tempo Extra?
 
-Tempo extra adiciona até 50% ao tempo da prova. Se prova dura 4h30, você teria 6h45 (4h30 + 2h15). Tempo é distribuído nos 2 dias de prova: Dia 1 (4h30 + 2h15 = 6h45 total) e Dia 2 (mesmo).
+Se prova dura 4h30, você teria 6h45 (4h30 + 2h15). Tempo é distribuído nos 2 dias de prova: Dia 1 (4h30 + 2h15 = 6h45 total) e Dia 2 (mesmo).
 
 Essa adaptação é para pessoas que têm dificuldade de processamento rápido. Deficiência visual reduz velocidade de leitura. Deficiência intelectual afeta velocidade de processamento. TDAH reduz capacidade de manter atenção por tempo prolongado. Tempo extra compensa essas limitações.
 

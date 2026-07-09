@@ -1,6 +1,6 @@
 ---
 title: "Como Estudar para o ENEM Trabalhando: Cronograma e Estratégia"
-description: "64% dos candidatos trabalham e precisam estudar simultaneamente. Veja cronograma realista de 2h/dia e estratégia de alta eficiência."
+Veja cronograma realista de 2h/dia e estratégia de alta eficiência."
 date: "2026-07-09"
 author: "ENEM Pro"
 tags: ["trabalhador", "cronograma", "enem-2026", "logística"]
@@ -8,10 +8,9 @@ tags: ["trabalhador", "cronograma", "enem-2026", "logística"]
 
 # Como Estudar para o ENEM Trabalhando: Cronograma e Estratégia
 
-Estudar para o ENEM trabalhando é desafio real. Pesquisa INEP mostrou que 64% dos candidatos trabalham. O mito é que você precisa 4-6 horas diárias de estudo. A realidade é que trabalhador consegue passar com 1,5-2 horas diárias se estudar com foco extremo. A qualidade substitui quantidade quando tempo é escasso.
+Estudar para o ENEM trabalhando é desafio real. O mito é que você precisa 4-6 horas diárias de estudo. A realidade é que trabalhador consegue passar com 1,5-2 horas diárias se estudar com foco extremo. A qualidade substitui quantidade quando tempo é escasso.
 
 > **Key Takeaways**
-> - 64% dos candidatos trabalham enquanto estudam 
 > - 2 horas de estudo altamente focado > 6 horas de estudo disperso
 > - Manhã cedo e intervalo do trabalho são melhores slots temporais para trabalhadores
 
@@ -19,7 +18,7 @@ Estudar para o ENEM trabalhando é desafio real. Pesquisa INEP mostrou que 64% d
 
 Sim, mas requer estratégia diferente. Candidato que trabalha não pode estudar quando está cansado. Precisa estudar quando está fresco. Para maioria dos trabalhadores, isso significa 6h-7h30 da manhã, antes de sair para trabalho. Outro slot viável é intervalo do almoço. Outro é 1 hora antes de dormir.
 
-Não é impossível. Apenas exige que você seja cirurgicamente preciso com tempo. Nada de redes sociais. Nada de distrações. Sessão de 50 minutos com foco 100% vale mais que 3 horas disperso. Trabalhadores que passam no ENEM entendem isso visceralmente.
+Não é impossível. Apenas exige que você seja cirurgicamente preciso com tempo. Nada de redes sociais. Nada de distrações. Trabalhadores que passam no ENEM entendem isso visceralmente.
 
 Metáfora útil: você não tem volume de tempo dos desempregados. Tem que extrair o máximo de cada minuto. É como preparação de atleta profissional que trabalha em tempo integral. Possível, mas requer disciplina extrema.
 
@@ -47,7 +46,7 @@ Esse cronograma totaliza 10-11 horas por semana. Não é muito, mas é concentra
 
 Identifique seus 3 slots temporais de melhor foco cognitivo. Para a maioria, é manhã cedo. Para alguns é intervalo do almoço. Para outros é 1 hora antes de dormir. O segredo é reconhecer quando seu cérebro está mais fresco.
 
-Se você trabalha de 8h-17h, a manhã de 6h-7h30 é ouro. Seu cérebro está descansado. Não tem ainda a fadiga do dia. Retenção de memória é 30-40% maior que à noite (Sleep and Circadian Neurobiology Lab, Stanford 2023). Acordar 1 hora mais cedo vale a pena.
+Se você trabalha de 8h-17h, a manhã de 6h-7h30 é ouro. Seu cérebro está descansado. Não tem ainda a fadiga do dia. Acordar 1 hora mais cedo vale a pena.
 
 Se acordar cedo não for viável, aproveite intervalo do almoço para 30-45 minutos de questões. À noite, faça apenas revisão (flashcards, não conteúdo novo). Seu cérebro não absorve conceitos novos bem à noite quando cansado. Absorve bem revisão de conceitos já conhecidos.
 
@@ -91,7 +90,7 @@ Tudo bem. Estudar 30 minutos no intervalo + 1h à noite funciona. Não é ideal,
 
 ### Como balancear motivação quando trabalho deixa cansado?
 
-Foque em mini-metas. Não pense "preciso estudar 6 meses". Pense "essa semana preciso acertar 70% das questões de Química". Metas semanais são motivantes. Metas de 6 meses são desmotivantes.
+Foque em mini-metas. Não pense "preciso estudar 6 meses". Metas semanais são motivantes. Metas de 6 meses são desmotivantes.
 
 ### Simulado de fim de semana conflita com vida social?
 

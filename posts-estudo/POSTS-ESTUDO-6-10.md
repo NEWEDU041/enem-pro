@@ -6,21 +6,17 @@
 
 # Active Recall vs Revisão Passiva: Por que Reler é a Maneira Mais Lenta de Aprender
 
-Reler é confortável, mas ilusório. Seu cérebro reconhece palavras e cria sensação de entendimento sem aprendizado real. Active recall (recuperação ativa) força seu cérebro a recuperar informação de memória, processo neurologicamente diferente de reconhecer. Meta-análise de Dunlosky et al. (2013) em Psychological Bulletin mostrou que active recall tem 92% mais efetividade que revisão passiva para aprendizado duradouro. Este guia diferencia ambos e ensina como implementar active recall em rotina.
+Reler é confortável, mas ilusório. Seu cérebro reconhece palavras e cria sensação de entendimento sem aprendizado real. Active recall (recuperação ativa) força seu cérebro a recuperar informação de memória, processo neurologicamente diferente de reconhecer. Este guia diferencia ambos e ensina como implementar active recall em rotina.
 
 > **Key Takeaways**
 > - Active recall = testes, explicação, flashcards; Revisão passiva = reler, grifo
-> - Active recall 92% mais efetivo para aprendizado duradouro 
 > - Revisão passiva cria "ilusão de competência": sensação falsa de domínio
-> - Combinar: 60% active recall + 40% revisão passiva é fórmula prática
 
 ## O Que Exatamente é Active Recall?
 
 Active recall é ato de recuperar informação de memória sem pista visual. Teste: "Qual é a capital do Brasil?" (você tenta lembrar antes de olhar resposta). Revisão passiva: ler "A capital do Brasil é Brasília" e reconhecer.
 
 Neurologicamente: recall ativa estruturas de recuperação de memória (hipocampo, córtex prefrontal); leitura passiva ativa principalmente reconhecimento visual e compreensão. Cérebro forma caminhos neurais mais fortes com active recall (Karpicke & Blunt, 2011, Psychological Science).
-
-Estudantes que usam active recall mostram 3-5x maior retenção após 1 mês (até 80%) comparado a revisão passiva (15-25%) ([Learning & Memory](https://www.learnmem.org/), 2019).
 
 ## Por que Revisão Passiva Cria Ilusão de Competência?
 
@@ -34,27 +30,23 @@ Estudantes que só releem relatam confiança alta antes de provas, depois falham
 
 **Forma 1: Testes de Prática (Gabaritados)**
 
-Fazer simulados, questões de provas anteriores, bancos de exercícios. Sem corrigir imediatamente; tente responder tudo antes. Esse atraso força recall. 87% de efetividade.
+Fazer simulados, questões de provas anteriores, bancos de exercícios. Sem corrigir imediatamente; tente responder tudo antes.
 
 **Forma 2: Flashcards / Spaced Repetition**
 
-Técnica que cobre isso profundamente em post separado. 75% de efetividade.
-
 **Forma 3: Feynman / Explicação**
-
-Tentar explicar sem anotação força recall de conceitos conectados. 70% de efetividade.
 
 **Forma 4: Geração de Resumos (Sem Consultar Material)**
 
-Leia um parágrafo, fecha livro, tente resumir de memória. Depois verifica. Melhor que resumir enquanto lê. 68% de efetividade.
+Leia um parágrafo, fecha livro, tente resumir de memória. Depois verifica.
 
 **Forma 5: Questionamento Socrático (Perguntas Abertas)**
 
-Formule suas próprias perguntas sobre conceito, responda. Mais efetivo que responder perguntas já feitas. 72% de efetividade.
+Formule suas próprias perguntas sobre conceito, responda.
 
 ## Como Balancear Active Recall e Revisão Passiva Sem Queimar?
 
-100% active recall é ótimo neurologicamente mas causa burnout emocional. Estrutura prática: 60% active recall (testes, cards, explicação) + 40% revisão passiva (reler, grifo, exemplos). Com 3h de estudo/dia, você faz 1.8h ativo + 1.2h passivo.
+Com 3h de estudo/dia, você faz 1.8h ativo + 1.2h passivo.
 
 Ciclo semanal: segunda-terça-quarta (primário ativo), quinta-sexta (revisão, mix), sábado (revisão passiva + repouso).
 
@@ -62,17 +54,15 @@ Ciclo semanal: segunda-terça-quarta (primário ativo), quinta-sexta (revisão, 
 
 Próxima vez que estudar, teste a si mesmo: feche livro, escreva tudo que lembra sobre conceito. Se conseguir gerar informação nova (detalhes que não decorou, mas deduziu), é recall. Se só consegue reconhecer quando vê, é passiva ainda.
 
-Estudantes ENEM que faziam esse auto-teste semanalmente ajustavam rotina 34% mais rápido para maior active recall.
-
 ## FAQ: Active Recall Prático
 
 **Qual é o tipo de teste melhor para active recall?**
 
-Teste de resposta aberta (discursiva) é mais poderoso que múltipla escolha. Múltipla escolha funciona, mas oferece pistas. Discursiva força recuperação completa. Para exame com múltipla escolha (ENEM), treinar com ambos (80% discursiva + 20% múltipla)..
+Teste de resposta aberta (discursiva) é mais poderoso que múltipla escolha. Múltipla escolha funciona, mas oferece pistas. Discursiva força recuperação completa.
 
 **Como faço active recall se não tenho banco de exercícios grandes?**
 
-Crie seus próprios testes. Leia parágrafo, escreva 3-5 perguntas que poderia fazer, depois responda sem consultar. Menos efetivo que banco profissional, mas 60% mais efetivo que revisão passiva.
+Crie seus próprios testes. Leia parágrafo, escreva 3-5 perguntas que poderia fazer, depois responda sem consultar.
 
 **Posso misturar active recall com revisão passiva na mesma sessão?**
 
@@ -88,17 +78,16 @@ Falhar é desconfortável. Mas falha em estudo (baixo stakes) é melhor que falh
 
 ## Conclusão: Active Recall é Mais Cansativo, Mas Funciona
 
-Revisão passiva é confortável. Seu cérebro evita active recall naturalmente. Mas dados são claros: 92% mais efetivo. Se você escolhe conforto agora, você paga em desempenho depois.
+Revisão passiva é confortável. Seu cérebro evita active recall naturalmente. Se você escolhe conforto agora, você paga em desempenho depois.
 
-Implementação simples: próximas 2 semanas, mantenha 60% de active recall. Compare retenção e confiança com período anterior.
+Compare retenção e confiança com período anterior.
 
 ---
 
 **Meta Description (152 chars):**
-Active recall é 92% mais efetivo que revisão passiva. Testes, cards, explicação vs reler e grifo.
+Testes, cards, explicação vs reler e grifo.
 
 **Citation Capsule:**
-"Meta-análise de Dunlosky et al. (2013) publicada no Psychological Bulletin conclui que active recall (recuperação ativa de informação de memória) é 92% mais efetivo que revisão passiva (releitura e grifo) para criar aprendizado duradouro e transferência de conhecimento."
 
 ---
 
@@ -112,27 +101,18 @@ Ler todo livro da mesma forma é ineficiente. Leitura estratégica varia velocid
 > - 4 tipos de leitura: exploratória, estrutural, crítica, profunda (escolha conforme propósito)
 > - SQ3R aumenta velocidade 3x + compreensão ([Journal of Adolescent & Adult Literacy](https://www.literacyworldwide.org/), 2000)
 > - Primeiras 5 minutos definem velocidade ideal para material
-> - 70% de estudantes que não conhecem leitura estratégica leem tudo lentamente
 
 ## Qual Tipo de Leitura Você Deveria Usar?
 
-**Leitura Exploratória (Skim/Scan) - 60-80% mais rápido**
-
 Objetivo: entender estrutura geral, achar informação específica. Técnica: leia títulos, primeiras/últimas frases parágrafos, índice. Tempo: 5-10 min por capítulo. Uso: pré-leitura, busca rápida de informação.
-
-**Leitura Estrutural (Normal) - 100% velocidade normal**
 
 Objetivo: entender conteúdo completo, reter informação. Técnica: leia cada parágrafo, tome anotações Cornell. Tempo: normal. Uso: estudo principal.
 
-**Leitura Crítica - 80-120% (mais lento)**
-
-Objetivo: questionar, comparar, avaliar. Técnica: pause para questionar cada seção, identifique premissas, compare com conhecimento prévio. Tempo: +30% versus estrutural. Uso: análise, ensaios, filosofia.
-
-**Leitura Profunda - 30-50% velocidade normal**
+Objetivo: questionar, comparar, avaliar. Técnica: pause para questionar cada seção, identifique premissas, compare com conhecimento prévio. Uso: análise, ensaios, filosofia.
 
 Objetivo: compreensão máxima, prazer, conexão emocional. Técnica: leia devagar, note reações, explora ambiguidades. Tempo: lento. Uso: literatura, textos complexos, autoconhecimento.
 
-Para ENEM: 90% exploratória/estrutural, 10% crítica. Você não tem tempo para profunda.
+Você não tem tempo para profunda.
 
 ## O Sistema SQ3R Explicado Passo-a-Passo
 
@@ -166,15 +146,13 @@ Você "ouve" cada palavra mentalmente. Normal, mas reduz velocidade a 200-250 pa
 
 **Erro 2: Regressão Constante**
 
-Você relê frases por insegurança. Tática: passe primeira vez mesmo que perca detalhes, volta se realmente necessário. Releitura instintiva reduz 40% velocidade.
+Você relê frases por insegurança. Tática: passe primeira vez mesmo que perca detalhes, volta se realmente necessário.
 
 **Erro 3: Ler Tudo com Mesma Velocidade**
 
 Você não precisa ler introdução matemática com mesma atenção de prova de conceito. Ajuste velocidade conforme importância.
 
 **Erro 4: Não Fazer Pré-Leitura**
-
-Pulando S (Survey) reduz compreensão 20% porque cérebro não tem estrutura prévia. 5 minutos de Survey economiza 15+ minutos em leitura confusa.
 
 ## Qual é a Velocidade de Leitura Ideal?
 

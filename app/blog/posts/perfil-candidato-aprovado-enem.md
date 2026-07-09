@@ -1,6 +1,6 @@
 ---
 title: "Perfil do Candidato que Passa no ENEM: Características e Hábitos"
-description: "60% dos aprovados em medicina praticam 1,5h diárias consistentes. Descubra o perfil dos candidatos aprovados e como você se compara."
+Descubra o perfil dos candidatos aprovados e como você se compara."
 date: "2026-07-09"
 author: "ENEM Pro"
 tags: ["perfil", "aprovados", "enem-2026", "preparação"]
@@ -8,11 +8,9 @@ tags: ["perfil", "aprovados", "enem-2026", "preparação"]
 
 # Perfil do Candidato que Passa no ENEM: Características e Hábitos
 
-Quem passa no ENEM tem algo em comum: não é talento, é consistência. Estudos mostram que 60% dos aprovados em medicina praticam 1,5 horas diárias de forma estruturada. O perfil do candidato aprovado segue padrões claros de comportamento, rotina e foco.
+Quem passa no ENEM tem algo em comum: não é talento, é consistência. Candidatos aprovados costumam manter uma rotina diária estruturada de estudo em vez de sessões longas e esporádicas. O perfil do candidato aprovado segue padrões claros de comportamento, rotina e foco.
 
 > **Key Takeaways**
-> - Candidatos aprovados estudam 1,5-2h diárias consistentes (60% dos aprovados em medicina, INEP 2024)
-> - 78% revisam seus erros dentro de 24h, enquanto reprovados deixam passar (estudo ENEM Pro, 2025)
 > - Melhor preditor de aprovação é simulados semanais, não horas totais estudadas
 
 ## Qual é o Perfil do Candidato que Passa no ENEM?
@@ -34,7 +32,7 @@ Aprovados conseguem focar 50 minutos sem distração. Reprovados estudam 2 horas
 
 ## Qual é a Rotina Diária de um Candidato Aprovado?
 
-A rotina começa antes do estudo. Candidatos aprovados dormem 7-8 horas regularmente. Sono deficiente derruba retenção de memória em 40% (publicação Nature Neuroscience, 2021). Depois vem café da manhã proteico e 30 minutos de exercício leve ou meditação.
+A rotina começa antes do estudo. Candidatos aprovados dormem 7-8 horas regularmente. Depois vem café da manhã proteico e 30 minutos de exercício leve ou meditação.
 
 O estudo acontece nos horários de maior foco cognitivo. Para a maioria, entre 6h-8h da manhã ou 14h-17h à tarde. À noite, 1 hora de revisão de flashcards de erros. Nunca estudam no celular sem plano. Nunca navegam redes sociais enquanto estudam. O telefone fica em outra sala.
 
@@ -46,13 +44,13 @@ Diferença crítica entre aprovado e reprovado está em como tratam os erros. Re
 
 Eles perguntam a si mesmos: foi erro de conteúdo, interpretação ou distrator? Anotam o padrão de erro em um documento chamado "Lacunas". Revisam esse documento antes de cada simulado. Refazem as mesmas questões uma semana depois. Se acertam dessa vez, sabem que aprenderam.
 
-Essa prática de análise de erro reduz a chance de errar a mesma questão novamente em 85% (observação interna ENEM Pro, 2025). É a diferença entre estudar e realmente aprender.
+É a diferença entre estudar e realmente aprender.
 
 ## Qual é o Papel dos Simulados para Aprovados?
 
 Simulados não são testes. São diagnósticos. Candidatos aprovados fazem 1-2 simulados por semana nas 12 semanas finais. Não para "passar" no simulado. Para identificar padrões de fraqueza antes da prova real.
 
-Um candidato que faz simulado e acerta 85% em Matemática e 65% em Física sabe que precisa focar Física na próxima semana. Um candidato que acerta 75% no começo da prova e 45% no final sabe que tem problema de gestão de tempo. Cada simulado revela uma verdade sobre seu desempenho.
+Cada simulado revela uma verdade sobre seu desempenho.
 
 Aprovados revisam relatórios de simulado linha por linha. Não apenas veem a nota final. Veem a taxa de acerto por habilidade, por nível de dificuldade, por área. Essa granularidade permite ajuste fino do plano de estudos semana a semana.
 
@@ -60,7 +58,7 @@ Aprovados revisam relatórios de simulado linha por linha. Não apenas veem a no
 
 Motivação não é constante. Tem altos e baixos. Candidatos aprovados não esperam estar motivados para estudar. Estudam porque têm sistema. Colocam o estudo na agenda como se fosse reunião obrigatória. Respeitam o calendário.
 
-Disciplina é 80% da aprovação. Talento é 20%. Um candidato com QI médio que estuda consistentemente por 6 meses bate um superdotado que estuda 2 meses intenso. Cérebro humano responde a repetição espaçada. Reforço gradual. Não explosões.
+Um candidato com QI médio que estuda consistentemente por 6 meses bate um superdotado que estuda 2 meses intenso. Cérebro humano responde a repetição espaçada. Reforço gradual. Não explosões.
 
 Aprovados criam "triggers" para manter disciplina. Alguns estudam no mesmo lugar todos os dias. Outros colocam música instrumental antes de cada sessão. Alguns têm grupo de estudo que se reúne 3 vezes por semana. A técnica exata não importa. O que importa é que o trigger mantém eles estudando mesmo quando não estão animados.
 
@@ -72,11 +70,11 @@ Inteligência é desenvolvida, não fixa. Neurociência provou que cérebro cria
 
 ### Qual é a melhor faixa horária para estudar?
 
-Cérebro tem ritmo circadiano. Para 70% das pessoas, melhor foco cognitivo é entre 6h-8h da manhã. Tarde vem em segundo. Noite é pior para conteúdo novo, melhor para revisão. Mas o melhor horário é aquele que você consegue ser consistente.
+Cérebro tem ritmo circadiano. Tarde vem em segundo. Noite é pior para conteúdo novo, melhor para revisão. Mas o melhor horário é aquele que você consegue ser consistente.
 
 ### Como aprovados mantêm motivação por 6 meses?
 
-Não é motivação, é identidade. Aprovados não dizem "vou estudar hoje". Dizem "sou um candidato sério ao ENEM". A identidade motiva consistência. Eles também estabelecem mini-metas semanais: "passar em 70% de Química essa semana". Atingir meta semanal mantém momentum.
+Não é motivação, é identidade. Aprovados não dizem "vou estudar hoje". Dizem "sou um candidato sério ao ENEM". A identidade motiva consistência. Atingir meta semanal mantém momentum.
 
 ### Quanto de descanso preciso entre sessões de estudo?
 

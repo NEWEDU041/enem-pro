@@ -8,12 +8,9 @@ tags: ["eficiência", "técnicas", "tempo", "enem-2026"]
 
 # Estudo Eficiente com Pouco Tempo: Técnicas Comprovadas
 
-Mito: você precisa 4-6 horas diárias para passar no ENEM. Realidade: 1 hora de estudo altamente focado vale mais que 4 horas disperso. Pesquisa Universidade Stanford mostrou que cérebro retém 85% do conteúdo estudado em 50 minutos focado vs apenas 40% em 3 horas com interrupções. Qualidade importa mais que volume.
+Mito: você precisa 4-6 horas diárias para passar no ENEM. Realidade: 1 hora de estudo altamente focado vale mais que 4 horas disperso. Qualidade importa mais que volume.
 
 > **Key Takeaways**
-> - 50 minutos de foco 100% > 3 horas com distrações 
-> - Técnica Pomodoro aumenta retenção em 35% (meta-análise Psychological Bulletin, 2024)
-> - Revisão de erros em 24h aumenta retenção em 65% vs revisão em 7 dias (Ebbinghaus Forgetting Curve)
 
 ## Qual é a Técnica Pomodoro Exatamente?
 
@@ -29,11 +26,6 @@ Revisão espaçada é técnica de memorização cientificamente comprovada. Idei
 
 Padrão ideal de revisão :
 - Estude conceito novo
-- Revise em 1 dia (retém 90%)
-- Revise em 3 dias (retém 85%)
-- Revise em 1 semana (retém 80%)
-- Revise em 2 semanas (retém 75%)
-- Revise em 1 mês (retém 70%)
 
 Se você segue esse padrão, o conceito fica "pegajoso" no seu cérebro. Se você estuda uma vez e não revisa, esquece em dias.
 
@@ -41,23 +33,23 @@ Ferramentas como Anki automatizam isso. Você marca uma questão como "acertou".
 
 ## Como Priorizar Conteúdo Quando Tempo é Escasso?
 
-Não estude tudo igual. Estude de forma inversa ao seu desempenho. Se você acerta 90% em Português e 50% em Química, estude Química.
+Não estude tudo igual. Estude de forma inversa ao seu desempenho.
 
 Matriz de priorização simples:
-1. **Alto impacto, alta dificuldade:** Ciências da Natureza (45 questões, pesado). Estude 40% do tempo aqui.
-2. **Alto impacto, médio:** Matemática (45 questões). Estude 25% do tempo.
-3. **Médio impacto, médio:** Humanas (45 questões). Estude 20% do tempo.
-4. **Menor impacto, pode ser fácil:** Linguagens + Redação. Estude 15% do tempo.
+1. **Alto impacto, alta dificuldade:** Ciências da Natureza (45 questões, pesado).
+2. **Alto impacto, médio:** Matemática (45 questões).
+3. **Médio impacto, médio:** Humanas (45 questões).
+4. **Menor impacto, pode ser fácil:** Linguagens + Redação.
 
-Dentro de cada área, priorize o que você erra. Se erra Física mas acerta Biologia, inverta proporção: Física 60%, Biologia 40%.
+Dentro de cada área, priorize o que você erra.
 
 Essa estratégia garante que cada hora estudada melhora sua nota o máximo possível. Hora em área que você já acerta muito tem retorno baixo. Hora em área que erra muito tem retorno alto.
 
 ## Como Aprender Eficientemente: Ler vs Praticar?
 
-Ler conteúdo em livro = passivo. Retenção: 5-10%. Assistir aula em vídeo = semi-ativo. Retenção: 25-30%. Praticar questões = ativo. Retenção: 70-85% (Cone of Learning, Edgar Dale, 1969).
+Ler conteúdo em livro = passivo. Assistir aula em vídeo = semi-ativo. Praticar questões = ativo.
 
-Portanto, para estudo eficiente com pouco tempo: minimize leitura, minimize vídeo. Maximize prática de questões. Seu cronograma ideal é 20% aprendizado de conceito novo, 80% prática.
+Portanto, para estudo eficiente com pouco tempo: minimize leitura, minimize vídeo. Maximize prática de questões.
 
 Quando aprende conceito novo, use método: leia resumo (10 min) → veja exemplo rápido (5 min) → resolva questão simples aplicando conceito (10 min) → resolva questão mais difícil (10 min). Total: 35 minutos. Passou para próximo conceito.
 
@@ -92,7 +84,7 @@ Manhã é melhor para conteúdo novo (cérebro está descansado, retenção é m
 
 ### Como saber se estou estudando eficientemente ou apenas desperdiçando tempo?
 
-Métrica: acertos em questões práticas devem aumentar 5% por semana nos primeiros meses. Se você praticava 60% de acerto na semana 1, deveria estar em 65% na semana 2. Se não está melhorando, sua estratégia não é eficiente. Mude.
+Se não está melhorando, sua estratégia não é eficiente. Mude.
 
 ### Devo fazer todas as questões do ENEM antes da prova?
 

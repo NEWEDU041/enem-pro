@@ -18,9 +18,6 @@ ENEM aloca 4h30 para 90 questões cada dia (2 dias). Isso dá média de 3 minuto
 ## Qual é a Estratégia de Alocação de Tempo?
 
 **Dia 1 (Linguagens + Ciências Humanas = 90 questões, 4h30):**
-- 0-2h: Responda questões de fácil-médio (Q1-Q45, estimado). Meta: 80% acerto
-- 2-3h30: Responda questões de médio-difícil (Q46-Q75). Meta: 60% acerto
-- 3h30-4h: Responda questões difíceis (Q76-Q90). Meta: 40% acerto
 - 4-4h30: Revise respostas, preencha em branco se não tem resposta
 
 **Dia 2 (Ciências Natureza + Matemática = 90 questões + Redação, 5h30 total):**
@@ -68,7 +65,7 @@ Revisão nos últimos 30 minutos é crítica. Mas não revise tudo. Revise selet
 2. Questões de cálculo (Matemática) — risco de erro aritmético
 3. Questões que deixou em branco (se sobrou tempo)
 
-Não revise questão que você tem 100% certeza. Waste de tempo.
+Waste de tempo.
 
 Também não refaça questão do zero. Apenas confira se preencheu corretamente, se lógica faz sentido. Se tiver dúvida, deixa como está (múltiplas revisões frequentemente prejudicam, você muda resposta correta para errada).
 
@@ -84,7 +81,7 @@ Depende. Se for questões difíceis, tudo bem pular 20. Você respondeu 70 quest
 
 ### Devo sempre deixar questões difíceis para o final?
 
-Sim. Única exceção é se você tem 100% certeza que sabe. Aí resolva rápido. Mas se não tem certeza, pule para não gastar tempo.
+Sim. Aí resolva rápido. Mas se não tem certeza, pule para não gastar tempo.
 
 ### Como praticar gestão de tempo antes da prova?
 

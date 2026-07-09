@@ -7,14 +7,13 @@
 > **Key Takeaways**
 > - ENEM 2024+ mantém 180 questões divididas em 4 áreas + Redação
 > - Nota máxima é 1000 pontos por área (5000 total possível)
-> - 2,1 milhões de candidatos participam anualmente 
 > - Foco em competências em vez de memorização pura
 
 ---
 
 ## Introdução
 
-O ENEM passou por transformações importantes desde 2024, reforçando foco em competências em vez de memorização. Segundo dados do INEP, aproximadamente 2,1 milhões de candidatos participam anualmente. A estrutura atual é resultado de evolução de mais de 25 anos de ENEM (desde 1998). Este artigo detalha novo formato 2024+, áreas de conhecimento, número de questões, critérios de avaliação da Redação e estratégias adequadas ao modelo atual. 
+O ENEM passou por transformações importantes desde 2024, reforçando foco em competências em vez de memorização. A estrutura atual é resultado de evolução de mais de 25 anos de ENEM (desde 1998). Este artigo detalha novo formato 2024+, áreas de conhecimento, número de questões, critérios de avaliação da Redação e estratégias adequadas ao modelo atual.
 
 ---
 
@@ -54,8 +53,6 @@ A Redação ENEM é texto dissertativo-argumentativo com até 30 linhas. É aval
 4. **Competência 4: Conhecimento de Fenômenos** (0-200): demonstrar conhecimento sobre tema e contexto social/histórico.
 5. **Competência 5: Proposta de Intervenção** (0-200): apresentar solução viável e respeitosa para problema abordado.
 
-Segundo dados de 2024, média de Redação é 480 pontos, com 18% dos candidatos zerando em alguma competência.
-
 ---
 
 ## Competências Gerais Avaliadas: Foco em Raciocínio Crítico
@@ -91,7 +88,7 @@ Distribuição varia ligeiramente de ano para ano conforme temas de interesse na
 
 ## Tipo de Questão: Múltipla Escolha com Uma Única Resposta Correta
 
-Todas 180 questões do ENEM 2024+ são de **múltipla escolha com 5 alternativas** (A, B, C, D, E). Uma única alternativa é correta. Não há questões dissertativas exceto Redação. Não há questões de verdadeiro/falso. Estratégia recomendada é ler questão inteira, ler todas 5 alternativas antes de escolher, usar eliminação de incorretas quando necessário. Aproximadamente 3% dos candidatos erram por leitura incorreta da alternativa ou confundindo ordem das respostas.
+Todas 180 questões do ENEM 2024+ são de **múltipla escolha com 5 alternativas** (A, B, C, D, E). Uma única alternativa é correta. Não há questões dissertativas exceto Redação. Não há questões de verdadeiro/falso. Estratégia recomendada é ler questão inteira, ler todas 5 alternativas antes de escolher, usar eliminação de incorretas quando necessário.
 
 ---
 
@@ -110,8 +107,6 @@ Dicas de preparação adequadas ao modelo 2024+ incluem:
 3. **Domine conceitos**: não decore fórmulas, entenda princípios subjacentes
 4. **Analyze argumentação**: desenvolva capacidade crítica de avaliar argumentos em textos
 5. **Redação com proposta viável**: pratique escrever propostas de intervenção específicas e realizáveis
-
-Aproximadamente 87% dos candidatos com score 700+ dedicam 40% do tempo à interpretação/análise vs. 60% anterior que focavam memorização.
 
 ---
 
@@ -144,11 +139,11 @@ Geralmente a nota mais recente (2026) é usada automaticamente. Porém, você po
 
 **3. Qual é a nota média esperada no ENEM 2024+?**
 
-Média geral é aproximadamente 500-520 pontos por área. Média de Redação é 480 pontos. Score 600+ é considerado bom, 700+ é muito bom, 800+ é excelente (top 10%).
+Média geral é aproximadamente 500-520 pontos por área. Média de Redação é 480 pontos.
 
 **4. Tem aumentado ou diminuído o nível de dificuldade do ENEM 2024+?**
 
-Nível mantém-se estável. Não há tendência de aumento ou diminuição. Distribuição de dificuldade é planejada (25% fácil, 50% médio, 25% difícil) para permitir discriminação entre candidatos.
+Nível mantém-se estável. Não há tendência de aumento ou diminuição.
 
 **5. Quais áreas têm questões mais difíceis em média?**
 

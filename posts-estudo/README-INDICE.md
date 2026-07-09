@@ -11,34 +11,21 @@ Contém Posts 1-5 (Pomodoro, Cornell, Flashcards, Feynman, Mind Maps)
 
 ```
 POST 1: Técnica Pomodoro: Como Estudar com Mais Foco e Menos Cansaço
- - 35% retenção melhor vs contínuo 
  - 4 ciclos de 25+5 min = estrutura ideal
- - 89% de estudantes rigorosos melhoram produtividade
- - [ORIGINAL DATA]: 67% mantém foco com pausas físicas vs 41% sedentárias
  
 POST 2: Método Cornell: A Melhor Forma de Organizar Seus Cadernos
- - 47% melhor recall vs anotações lineares 
- - 3 zonas: notas 62%, palavras-chave 25%, resumo 13%
  - 1.200 cadernos analisados: espaço em branco = 2.3x melhor síntese
  - [ORIGINAL DATA]: 24h review é crítico para consolidação
  
 POST 3: Flashcards e Repetição Espaçada: Como Memorizar Sem Esforço Infinito
- - 55% retenção LT com spaced repetition vs tradicional 
  - 15,000 cards: intervalo médio 127 dias com 8-10 reviews totais
  - Curve de Ebbinghaus (1885) confirmada ainda em 2024
  - [ORIGINAL DATA]: Apps automatizam intervalo; papel exige disciplina manual
  
 POST 4: Técnica Feynman: Como Aprender Qualquer Coisa Ensinando
- - 15-20% maior learning transfer explicativo vs leitura 
  - 4 passos: escolha, explique, identifique gaps, reformule
- - 450 sessões: 78% ficam presos, exatamente onde está deficiência
- - [ORIGINAL DATA]: 89% mais confiança em discussões após 1-2x/semana Feynman
  
 POST 5: Mapas Mentais: Como Visualizar Tudo o Que Você Aprende
- - 25-30% melhor performance síntese vs linear (Computers & Educ 2020)
- - 340 mapas: limite 3-6 ramificações principais = 34% melhor recall
- - Cores +15% recall vs monocromático
- - [ORIGINAL DATA]: 12-18% mais eficiência em revisão com cores hierárquicas
 ```
 
 ### Arquivo 2: POSTS-ESTUDO-6-10.md
@@ -46,16 +33,11 @@ Contém Posts 6-7 (Active Recall, Leitura Estratégica)
 
 ```
 POST 6: Active Recall vs Revisão Passiva: Por que Reler é a Maneira Mais Lenta
- - 92% mais efetivo vs revisão passiva 
- - 600 estudantes: 78% com active recall +200pts vs revisão passiva
  - Ilusão de competência: reconhecer ≠ aprender
  - [ORIGINAL DATA]: Testes práticos > reler em 3-5x retenção após 1 mês
  
 POST 7: Leitura Estratégica: Como Ler Livros 3x Mais Rápido
  - 3x velocidade + compreensão igual com SQ3R (J. Adol & Adult Lit 2000)
- - 4 tipos: exploratória (80% mais rápido), estrutural, crítica, profunda
- - 340 estudantes: exploratória (5min) + estrutural = 33% ganho velocidade
- - [ORIGINAL DATA]: Regressão instintiva reduz velocidade 40%
 ```
 
 ### Arquivo 3: POSTS-ESTUDO-8-10-FINAL.md
@@ -63,22 +45,14 @@ Contém Posts 8-10 (Resumos, Grifo, Revisão Espaçada)
 
 ```
 POST 8: Resumos Eficientes: Síntese Que Consolida Aprendizado
- - 45% melhor retenção criar próprio vs ler pronto 
- - 280 resumos: resumo denso 10-15% original = revisão 5-10min
  - Hierarquização: ideia-chave > suporte > exemplo
- - [ORIGINAL DATA]: Cards grifados <10% revisão 2x mais rápida
  
 POST 9: Grifo Inteligente: Como Destacar Sem Encher de Neon
- - 18% melhor recall grifo ≤10% vs grifo >20% 
  - 420 estudantes: grifo após ler > grifo durante leitura
  - 3 cores hierarquia: verde (conceito), amarelo (detalhe), rosa (exceção)
- - [ORIGINAL DATA]: 68% grifam durante (errado), 32% depois (correto)
  
 POST 10: Revisão Espaçada: Calendário Científico Para Nunca Mais Esquecer
- - 85% retenção vs 12% s/ revisão 
- - 1.200 estudantes: calendário 1-3-7-14-30 = 76-84% retenção 1 mês
  - Ebbinghaus (1885) ainda válido em neurobiologia moderna 2024
- - [ORIGINAL DATA]: Sem calendário = 8-15% retenção; mesma matéria 140 anos depois
 ```
 
 ---
@@ -129,7 +103,7 @@ Cada post segue template rigoroso:
 ✅ **Parágrafos**: Máx 150 words, típico 40-80 
 ✅ **Sentenças**: 15-20 words média 
 ✅ **Tone**: Conversacional, anti-AI (contractions, rhetorical Q) 
-✅ **Heading Hierarchy**: H1 + H2 (60-70% perguntas) + H3 (sem skip) 
+
 ✅ **Sem EM Dashes**: Substituído por commas, hyphens, colons, periods 
 ✅ **Internal Links**: Marcadas com 
 ✅ **Visuals**: e placeholders cada 300-500 words 
@@ -188,7 +162,7 @@ Para cada placeholder:
 **Readability Target**: Flesch-Kincaid Grade 7-8, Ease 60-70 
 **Content Length**: 1,200-1,500 words/post (típico) 
 **Image Count**: 2-3 + 2-3 per post 
-**Keyword Density**: Primary 1.2-1.5%, Natural density 
+
 **Links**: 3-5 internal, 5-8 external citations 
 **User Intent**: TOFU (Awareness) + MOFU (Consideration) 
 **AI Citation Optimized**: Citation capsules + structured facts 

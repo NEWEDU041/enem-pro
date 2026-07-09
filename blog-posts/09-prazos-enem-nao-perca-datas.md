@@ -14,13 +14,13 @@
 
 ## Introdução
 
-O cronograma de prazos ENEM 2026 é rigoroso e não oferece flexibilidade. Segundo dados do INEP, aproximadamente 5% dos candidatos perdem algum prazo crítico por desorganização. Este artigo consolida todos os prazos importantes em um único lugar, facilitando planejamento e colocando lembretes estratégicos. Perder prazos pode significar não fazer ENEM naquele ano, impossibilidade de solicitar isenção ou incapacidade de participar de Sisu/ProUni. 
+O cronograma de prazos ENEM 2026 é rigoroso e não oferece flexibilidade. Este artigo consolida todos os prazos importantes em um único lugar, facilitando planejamento e colocando lembretes estratégicos. Perder prazos pode significar não fazer ENEM naquele ano, impossibilidade de solicitar isenção ou incapacidade de participar de Sisu/ProUni.
 
 ---
 
 ## Abril 2026: Solicitação de Isenção de Taxa
 
-**Período estimado: primeira quinzena de abril 2026** (datas exatas a confirmar pelo INEP em fevereiro). Solicitação de isenção ocorre em período curto, geralmente 7-10 dias úteis. Candidatos de baixa renda (até 1,5 salário mínimo por pessoa) devem solicitar neste período. Após período encerrar, não há segunda oportunidade ou recursos. Aproximadamente 1,9 milhão de candidatos solicitam isenção anualmente. Taxa de aprovação é 67%.
+**Período estimado: primeira quinzena de abril 2026** (datas exatas a confirmar pelo INEP em fevereiro). Solicitação de isenção ocorre em período curto, geralmente 7-10 dias úteis. Candidatos de baixa renda (até 1,5 salário mínimo por pessoa) devem solicitar neste período. Após período encerrar, não há segunda oportunidade ou recursos.
 
 **Ação recomendada**: Quando INEP divulgar edital (fevereiro), anote data exata, configure 3 lembretes (2 semanas antes, 1 semana antes, 2 dias antes), prepare documentação antecipadamente (contracheque, benefício, comprovante residência).
 
@@ -28,7 +28,7 @@ O cronograma de prazos ENEM 2026 é rigoroso e não oferece flexibilidade. Segun
 
 ## Maio 2026: Período de Inscrição ENEM
 
-**Período estimado: primeira quinzena de maio 2026** (datas exatas a confirmar). Período de inscrição dura aproximadamente 20 dias úteis. Inscrição é OBRIGATÓRIA para fazer ENEM, sem exceções. Aproximadamente 2,9 milhões inscritos em 2024. Candidatos com isenção aprovada também se inscrevem neste período, mas não precisam pagar taxa. Candidatos sem isenção pagam taxa entre 85-100 reais neste período.
+**Período estimado: primeira quinzena de maio 2026** (datas exatas a confirmar). Período de inscrição dura aproximadamente 20 dias úteis. Inscrição é OBRIGATÓRIA para fazer ENEM, sem exceções. Candidatos com isenção aprovada também se inscrevem neste período, mas não precisam pagar taxa. Candidatos sem isenção pagam taxa entre 85-100 reais neste período.
 
 **Ação recomendada**: Configure lembretes em múltiplos pontos (abertura, 1 semana antes de fechar, 3 dias antes, 1 dia antes), inscreva-se nos primeiros 5 dias para evitar problemas técnicos no final, pague taxa em máximo 3 dias se não tiver isenção.
 
@@ -36,7 +36,7 @@ O cronograma de prazos ENEM 2026 é rigoroso e não oferece flexibilidade. Segun
 
 ## Junho 2026: Divulgação de Resultado de Isenção
 
-**Período estimado: primeira quinzena de junho 2026**. Após período de inscrição encerrar, INEP divulga resultado de isenções solicitadas. Resultado é notificado via email e disponível no portal gov.br. Taxa de aprovação é aproximadamente 67%. Candidatos com isenção negada ainda podem inscrever-se no ENEM pagando taxa integral. Recomenda-se verificar resultado ASSIM que divulgado pois pode haver recurso posterior se documentação complementar é oferecida.
+**Período estimado: primeira quinzena de junho 2026**. Após período de inscrição encerrar, INEP divulga resultado de isenções solicitadas. Resultado é notificado via email e disponível no portal gov.br. Candidatos com isenção negada ainda podem inscrever-se no ENEM pagando taxa integral. Recomenda-se verificar resultado ASSIM que divulgado pois pode haver recurso posterior se documentação complementar é oferecida.
 
 **Ação recomendada**: Verificar resultado no portal gov.br assim que divulgado, se negado e acredita que foi erro, prepare documentação complementar para possível recurso (até 5 dias úteis).
 
@@ -44,7 +44,7 @@ O cronograma de prazos ENEM 2026 é rigoroso e não oferece flexibilidade. Segun
 
 ## Junho/Julho 2026: Divulgação de Local de Prova
 
-**Período estimado: fim de junho a início de julho 2026**. Após inscrição e pagamento confirmados, INEP divulga local específico (escola) onde você fará prova. Informação aparece no portal gov.br. Recomenda-se verificar endereço completo, horário de abertura dos portões (geralmente 12h), traçar rota até local no mapa. Aproximadamente 12% precisam se deslocar para município diferente do primeiro escolhido. Verificar local com antecedência evita perder prova por não saber onde ir.
+**Período estimado: fim de junho a início de julho 2026**. Após inscrição e pagamento confirmados, INEP divulga local específico (escola) onde você fará prova. Informação aparece no portal gov.br. Recomenda-se verificar endereço completo, horário de abertura dos portões (geralmente 12h), traçar rota até local no mapa. Verificar local com antecedência evita perder prova por não saber onde ir.
 
 **Ação recomendada**: Assim que divulgado, verifique endereço completo e horário no portal, coloque endereço no Google Maps e pratique a rota, considere como vai no dia (transporte, gasolina, tempo total de trajeto).
 
@@ -68,7 +68,7 @@ O cronograma de prazos ENEM 2026 é rigoroso e não oferece flexibilidade. Segun
 
 ## Dezembro 2026 a Janeiro 2027: Período Pós-Prova
 
-**Período estimado: até 30 de dezembro 2026 ou meados de janeiro 2027**. Este é período de espera após provas. INEP corrige e processa todos os resultados durante este período. Não há atividade do candidato nesta fase. Recomenda-se descansar e aproveitar para fazer outras coisas enquanto aguarda resultado. Aproximadamente 2% dos candidatos ficam ansiosos durante esta espera.
+**Período estimado: até 30 de dezembro 2026 ou meados de janeiro 2027**. Este é período de espera após provas. INEP corrige e processa todos os resultados durante este período. Não há atividade do candidato nesta fase. Recomenda-se descansar e aproveitar para fazer outras coisas enquanto aguarda resultado.
 
 **Ação recomendada**: Descanso mental é recomendado, evite tentar "adivinhar" sua nota, ocupe-se com outras atividades, prepare-se mentalmente para próximos passos (Sisu, ProUni, Fies).
 
@@ -76,7 +76,7 @@ O cronograma de prazos ENEM 2026 é rigoroso e não oferece flexibilidade. Segun
 
 ## Janeiro 2027: Divulgação de Resultado ENEM 2026
 
-**Período estimado: meados de janeiro 2027** (até 60 dias após último dia de provas). Resultado ENEM 2026 é divulgado no portal gov.br. Aproximadamente 98% dos candidatos tentam acessar nos primeiros 5 dias, causando lentidão significativa do sistema. Resultado permanece disponível permanentemente. Recomenda-se acessar em horários de menor movimento (madrugada/manhã cedo, fora dos primeiros 30 minutos).
+**Período estimado: meados de janeiro 2027** (até 60 dias após último dia de provas). Resultado ENEM 2026 é divulgado no portal gov.br. Resultado permanece disponível permanentemente. Recomenda-se acessar em horários de menor movimento (madrugada/manhã cedo, fora dos primeiros 30 minutos).
 
 **Ação recomendada**: Assim que divulgado, acesse em horário de menor movimento (madrugada 2-6h) para evitar lentidão, baixe boletim em PDF como backup, guarde comprovante de resultado para futuro.
 
@@ -168,7 +168,7 @@ Sisu abre 1-2 semanas após resultado com prazo de 7-10 dias. Recomenda-se inscr
 
 ## Conclusão
 
-Prazos ENEM 2026 são rigorosos: isenção abril, inscrição maio, local de prova junho, provas novembro, resultado janeiro 2027, Sisu/ProUni/Fies janeiro-fevereiro 2027. Aproximadamente 5% dos candidatos perdem algum prazo. Múltiplos lembretes (celular, calendário, aviso família) previnem 99% das perdas. Datas exatas serão confirmadas pelo INEP conforme aproximação de cada período. Recomenda-se anotar datas assim que confirmadas e configurar lembretes estratégicos. Perder qualquer prazo crítico pode resultar em impossibilidade de fazer ENEM ou participar de Sisu/ProUni. 
+Prazos ENEM 2026 são rigorosos: isenção abril, inscrição maio, local de prova junho, provas novembro, resultado janeiro 2027, Sisu/ProUni/Fies janeiro-fevereiro 2027. Datas exatas serão confirmadas pelo INEP conforme aproximação de cada período. Recomenda-se anotar datas assim que confirmadas e configurar lembretes estratégicos. Perder qualquer prazo crítico pode resultar em impossibilidade de fazer ENEM ou participar de Sisu/ProUni.
 
 ---
 

@@ -13,11 +13,10 @@ Pânico no dia reduz nota drasticamente. Candidatos que controlam ansiedade perf
 > **Key Takeaways**
 > - Pânico reduz nota em 50-100 pontos (observação interno ENEM Pro)
 > - 5 técnicas simples controlam ansiedade: respiração, pensamento lógico, movimento, foco, auto-compaixão
-> - Preparação mental 1 mês antes aumenta sucesso em 65%
 
 ## Estratégia 1: Respiração 4-7-8 Quando Travar
 
-Se ficar preso em questão, respire. Não pense, respire. 5 ciclos de respiração 4-7-8 (inspire 4, segure 7, exhale 8). Isso reduz ansiedade em 58% em minutos. Seu cérebro volta ao modo de resolução de problema.
+Se ficar preso em questão, respire. Não pense, respire. 5 ciclos de respiração 4-7-8 (inspire 4, segure 7, exhale 8). Seu cérebro volta ao modo de resolução de problema.
 
 Pratica dessa técnica 1 mês antes garante que você a usa automaticamente em stress. No dia, quando trava, seu corpo já sabe: "ok, respira, volta ao normal".
 
@@ -26,7 +25,6 @@ Tempo total: 5 minutos. Quantidade de questões que ganha tempo de volta: 1-2. B
 ## Estratégia 2: Pensamento Lógico, Não Emocional
 
 Mente ansiosa pensa: "Estou errando tudo", "Não vou passar", "Sou burro". Essas são emoções, não realidade. Pense logicamente:
-- "Errei essa questão. Uma questão de 180 não muda minha nota (0.5%)"
 - "Errei a última. Tenho 88 questões ainda. Tempo para recuperar"
 - "Nervosismo é sinal que me importo. Uso isso como energia, não como derrota"
 
@@ -60,7 +58,7 @@ Você vai errar. Todos erram. Até candidatos aprovados erram. Não é fracasso 
 
 Quando erra, diga a si mesmo: "Tudo bem errar. É oportunidade de aprender. Continuo tentando." Não seja crítico brutal consigo mesmo.
 
-Auto-compaixão correlaciona com 20-30% melhor performance em stress (pesquisa Universidade Texas, 2021). Ser gentil consigo funciona.
+Ser gentil consigo funciona.
 
 ## Preparação Mental 1 Mês Antes
 

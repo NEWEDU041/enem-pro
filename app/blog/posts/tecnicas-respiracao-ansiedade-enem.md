@@ -1,6 +1,6 @@
 ---
 title: "Técnicas de Respiração para Controlar Ansiedade no ENEM"
-description: "Respiração 4-7-8 reduz ansiedade em 58% em 5 minutos. Aprenda 3 técnicas simples para usar na prova."
+Aprenda 3 técnicas simples para usar na prova."
 date: "2026-07-09"
 author: "ENEM Pro"
 tags: ["ansiedade", "respiração", "técnicas", "enem-2026"]
@@ -8,10 +8,9 @@ tags: ["ansiedade", "respiração", "técnicas", "enem-2026"]
 
 # Técnicas de Respiração para Controlar Ansiedade no ENEM
 
-Ansiedade dispara durante prova. Coração acelerado, respiração superficial, mente acelerada. Resultado: você não consegue pensar direito. Solução é controlar respiração. Respiração profunda ativa sistema nervoso parassimpático, que acalma corpo. Harvard Medical School comprovou que respiração 4-7-8 reduz ansiedade em 58% em apenas 5 minutos.
+Ansiedade dispara durante prova. Coração acelerado, respiração superficial, mente acelerada. Resultado: você não consegue pensar direito. Solução é controlar respiração. Respiração profunda ativa sistema nervoso parassimpático, que acalma corpo.
 
 > **Key Takeaways**
-> - Respiração 4-7-8 reduz ansiedade em 58% em 5 minutos 
 > - 3 técnicas simples: 4-7-8, Caixa (4-4-4-4), Abdominal (barriga)
 > - Pratique 1 mês antes da prova para automatizar durante stress
 
@@ -72,10 +71,8 @@ Escolha uma e seja consistente. Não mude de técnica toda semana.
 
 ## Outros Gatilhos de Calma Além Respiração
 
-- **Música:** 10 min de música clássica instrumental antes de estudar reduz ansiedade em 20% (meta-análise Frontiers in Psychology, 2023)
 - **Toque:** Abraçar alguém, pegar mão de alguém amigo (ativa hormônio ocitocina = calma)
 - **Visualização:** Imagine local calmo (praia, floresta). 2 min é o suficiente
-- **Movimento:** 10 min de caminhada reduz ansiedade em 30%
 
 Combine respiração + 1-2 outras técnicas para máximo efeito.
 

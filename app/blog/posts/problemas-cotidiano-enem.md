@@ -11,13 +11,11 @@ tags: ["aplicação", "cotidiano", "enem-2026", "temas"]
 ENEM adora cobrar problemas reais que impactam vida de brasileiros. Crise hídrica? Vira questão de Química (desalinização), Geografia (clima), Biologia (ecossistemas aquáticos). Pandemia de COVID? Virou questão de Biologia (vírus), Saúde Pública (epidemiologia), Filosofia (ética). Questões nascem de problemas que você vive ou vê na notícia.
 
 > **Key Takeaways**
-> - 40% das questões ENEM usam tema de relevância social/ambiental 
 > - Problemas mais frequentes: saneamento, energia, saúde, educação, desigualdade social
-> - Candidatos que rastreiam notícias de 6 meses antes do ENEM conseguem "prever" ~15% das questões
 
 ## Qual é o Padrão de Temas Problemáticos no ENEM?
 
-ENEM prioriza temas que afetam maioria dos brasileiros. Saneamento básico aparece todo ano porque 30% do Brasil ainda não tem acesso a esgoto tratado. Energia aparece todo ano porque Brasil usa 60% de energia hidrelétrica e sofre secas periódicas. Educação aparece porque é direito fundamental.
+ENEM prioriza temas que afetam maioria dos brasileiros. Educação aparece porque é direito fundamental.
 
 Temas políticos também aparecem, mas de forma "neutra": ENEM nunca pede sua opinião sobre partido político. Mas pede que você analise implicação de política de educação, impacto de reforma tributária, ou dinâmica de movimentos sociais. Análise crítica, não opinião pessoal.
 
@@ -35,7 +33,7 @@ Problema real: "Brasil sofre seca e hidroelétricas baixam nível". Questão ENE
 Problema real: "Desnutrição em crianças do semiárido é 2x maior que média nacional". Questão ENEM tipo: "Região com alta desnutrição tem solos pobres e seca. Qual fator é raiz de problema? A) Culpa da criança; B) Falta de supermercado; C) Insegurança alimentar causada por falta de acesso a alimentos nutritivos" (Resposta: C — problema estrutural, não individual).
 
 **Educação:**
-Problema real: "Escolas públicas têm 30% menos computadores que escolas privadas". Questão ENEM tipo: "Qual consequência de desigualdade de acesso a tecnologia na educação pública vs privada?" (Resposta envolve literacy digital, preparação para mundo digital, etc.).
+Questão ENEM tipo: "Qual consequência de desigualdade de acesso a tecnologia na educação pública vs privada?" (Resposta envolve literacy digital, preparação para mundo digital, etc.).
 
 ## Como Preparar-se Para Problemas Cotidianos?
 
@@ -75,7 +73,7 @@ Leia a notícia com objetivo de achar "problema central" e "consequência". Não
 
 ### ENEM favorece candidatos que leem notícias?
 
-Sim, em certa medida. Candidatos que rastreiam notícias têm 15% a mais de facilidade em questões de problemas reais porque contexto é familiar. Mas não é pré-requisito. Candidato que estuda conceitos bem consegue resolver questão mesmo sem ter visto notícia sobre contexto.
+Sim, em certa medida. Mas não é pré-requisito. Candidato que estuda conceitos bem consegue resolver questão mesmo sem ter visto notícia sobre contexto.
 
 ### Como diferenciar "opinião" de "análise crítica" em questão de problema real?
 

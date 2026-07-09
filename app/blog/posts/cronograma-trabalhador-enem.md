@@ -112,7 +112,6 @@ Total continua ~10-12h/semana, só distribuído irregular.
 Planilha simples:
 | Semana | Simulado Score | Acertos Matemática | Acertos Ciências | Acertos Port | Meta Cumprida? |
 |--------|---|---|---|---|---|
-| 1 | 550 | 60% | 55% | 70% | Sim |
 
 Rastreie. Cada semana deve haver melhora de 5-10 pontos. Se não houver, ajuste estratégia.
 
