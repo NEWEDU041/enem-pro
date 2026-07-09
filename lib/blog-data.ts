@@ -61953,12 +61953,12 @@ export const EXTRA_POSTS_18: BlogPost[] = [
   { slug: 'como-passar-em-medicina-federal-no-enem', title: "Como Passar em Medicina Federal no ENEM: Nota de Corte e Estratégia Completa", description: "Medicina federal exige 700+ no ENEM. Veja estratégia comprovada, distribuição de tempo por disciplina, e nota de corte 2025 por universidade.", date: '2026-06-29', readTime: 5, content: `
 # Como Passar em Medicina Federal no ENEM: Nota de Corte e Estratégia Completa
 
-Medicina federal é o curso mais disputado do ENEM. Em 2025, a nota de corte mínima para medicina federal ficou entre **700 e 760 pontos**, conforme a universidade — mas para disputar as melhores federais (USP, UNICAMP, UFMG), você precisa de **730+ pontos** (Nota de Corte USP, 2025).
+Medicina federal é o curso mais disputado do ENEM. Em 2025, a nota de corte mínima para medicina federal ficou entre **700 e 760 pontos**, conforme a universidade — mas para disputar as melhores federais (USP, UNICAMP, UFMG), você precisa de **730+ pontos**.
 
 > **Key Takeaways**
-> - Medicina federal exige 700-760 pontos (Seer Interactive, 2025), média 730 para top 5 universidades
+> - Medicina federal exige 700-760 pontos, com média de 730 para as top 5 universidades
 > - Ciências da Natureza é a disciplina de maior peso — estude 40% do tempo aqui
-> - Simulados semanais reduzem ansiedade em 58% e melhoram TRI em 45 pontos (estudo interno ENEM Pro)
+> - Simulados semanais ajudam a reduzir a ansiedade e a melhorar a familiaridade com o formato da prova
 
 ## Qual é a Nota de Corte para Medicina em 2026?
 
@@ -62067,14 +62067,14 @@ Comece hoje. Faça seu primeiro simulado esta semana. Revise as questões que er
 
 **Próximo passo:** [veja as questões de medicina mais fáceis e mais difíceis do ENEM](/questoes?discipline=biologia) para praticar agora.
 ` },
-  { slug: 'questoes-biologia-que-mais-caem-enem', title: 'Questões de Biologia que Mais Caem no ENEM: 45 Temas Frequentes', description: '70% das questões repetem 8 temas. Veja quais, pratique e aumente 60 pontos.', date: '2026-06-29', readTime: 3, content: `# Questões de Biologia que Mais Caem no ENEM: 45 Temas Frequentes
+  { slug: 'questoes-biologia-que-mais-caem-enem', title: 'Questões de Biologia que Mais Caem no ENEM: 45 Temas Frequentes', description: 'Biologia no ENEM se concentra em poucos temas recorrentes. Veja quais, pratique e reforce sua nota.', date: '2026-06-29', readTime: 3, content: `# Questões de Biologia que Mais Caem no ENEM: 45 Temas Frequentes
 
-Biologia é a disciplina com **maior padrão de repetição** no ENEM. Em 2023-2025, 70% das questões de Biologia (30 de 45 questões) repetiram apenas 8 temas — ecologia (8 questões), genética (7), corpo humano (6), evolução (4), botânica (3), microbiologia (2).
+Biologia é a disciplina com **maior padrão de repetição** no ENEM. Historicamente, boa parte das questões de Biologia se concentra em poucos temas recorrentes — ecologia, genética, corpo humano, evolução, botânica e microbiologia.
 
 > **Key Takeaways**
-> - 70% das questões repetem 8 temas-chave (Análise ENEM Pro, 2025)
-> - Ecologia é o tema mais frequente: 8 questões por ano (17% do total)
-> - Dominar estes 8 temas garante 30+ pontos em Biologia
+> - A maioria das questões se concentra em um número reduzido de temas-chave
+> - Ecologia é um dos temas mais frequentes na prova
+> - Dominar esses temas centrais fortalece bastante sua nota em Biologia
 
 ## Os 8 Temas que Representam 70% das Questões
 
@@ -62104,12 +62104,12 @@ Genética nunca sai do ENEM. Temas: 1ª Lei de Mendel (2 questões/ano), 2ª Lei
 ---
 
 **Pratique agora:** [50 questões de biologia selecionadas por frequência](/questoes?discipline=biologia&sort=frequency)` },
-  { slug: 'dicas-melhorar-redacao-enem-score', title: 'Dicas para Melhorar Redação ENEM e Chegar a 900-1000 de Score', description: 'Siga 5 estruturas comprovadas. 58% dos alunos passam de 650 para 900+ em 8 semanas.', date: '2026-06-29', readTime: 2, content: `# Dicas para Melhorar Redação ENEM e Chegar a 900-1000
+  { slug: 'dicas-melhorar-redacao-enem-score', title: 'Dicas para Melhorar Redação ENEM e Chegar a 900-1000 de Score', description: 'Siga 5 estruturas comprovadas para sair de 650 e chegar a 900+ na redação em poucas semanas de prática.', date: '2026-06-29', readTime: 2, content: `# Dicas para Melhorar Redação ENEM e Chegar a 900-1000
 
-Redação é 1/5 da sua nota final. Subir de 650 para 900 nela = +50 pontos na nota geral. **58% dos alunos que praticam 1 redação por semana chegam a 900+ em 8 semanas** (estudo interno ENEM Pro, 2025).
+Redação é 1/5 da sua nota final. Subir de 650 para 900 nela equivale a +50 pontos na nota geral. Praticar uma redação por semana de forma consistente, com correção e ajuste dos erros, é o caminho mais direto pra sair de 650 e chegar em 900+.
 
 > **Key Takeaways**
-> - Pratique 1 redação/semana por 8 semanas: passa de 650 para 900+
+> - Pratique 1 redação/semana com correção: sai de 650 rumo a 900+
 > - Estrutura: intro (tese em 1 frase) + 3 parágrafos + conclusão com proposta
 > - Evite repetição de palavras, espaços em branco, e argumentos genéricos
 
