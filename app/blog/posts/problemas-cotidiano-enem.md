@@ -92,9 +92,3 @@ Leia notícias. Conecte a conceitos que estuda. Pratique questões sobre temas r
 **Próximo passo:** [explore questões sobre temas problemáticos atuais](/questoes?filter=tema-social) e veja como conceitos se aplicam.
 
 ---
-
-## Referências
-
-- [INEP. Análise de Questões por Tema ENEM 2024](https://www.gov.br/inep) — distribuição de temas
-- [TRATA BRASIL. Saneamento no Brasil](https://www.tratabrasil.org.br) — dados de saneamento
-- [ANEEL. Matriz Energética Brasil](https://www.aneel.gov.br) — dados de energia

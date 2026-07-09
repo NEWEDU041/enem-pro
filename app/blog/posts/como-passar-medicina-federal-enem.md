@@ -67,7 +67,7 @@ Pratique uma redação por semana. Envie para correção por professores ou plat
 
 ## Simulados: A Arma Secreta
 
-Estudar teoria é necessário, mas **simulados semanais aumentam sua nota em 45-60 pontos** em 8 semanas. Simulados funcionam porque:
+Simulados funcionam porque:
 
 1. **Treina resistência mental** — ENEM são 4h30 de prova
 2. **Identifica padrões de erro** — você descobre se erra Química ou Biologia
@@ -93,8 +93,6 @@ Sim, mas apenas em federais menos concorridas (UFERSA, UFPI, UFRB). Se quer UFMG
 **Mínimo 3 meses** de estudo intenso (6h/dia). Ideal: **6 meses** (4-5h/dia) para atingir 730+. Comece 6 meses antes do ENEM.
 
 ### Qual disciplina é mais importante para medicina?
-
-Mas Física e Química são tão importantes — errar 10 questões de Química derruba sua nota 50-70 pontos.
 
 ### Devo fazer cursinho para passar em medicina?
 

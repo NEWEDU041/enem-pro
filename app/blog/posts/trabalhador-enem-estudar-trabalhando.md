@@ -1,6 +1,6 @@
 ---
 title: "Como Estudar para o ENEM Trabalhando: Cronograma e Estratégia"
-Veja cronograma realista de 2h/dia e estratégia de alta eficiência."
+description: "Veja cronograma realista de 2h/dia e estratégia de alta eficiência."
 date: "2026-07-09"
 author: "ENEM Pro"
 tags: ["trabalhador", "cronograma", "enem-2026", "logística"]
@@ -105,8 +105,3 @@ Comece na manhã cedo. Sacrifique 1 hora de sono por 6 meses. Acordar 1 hora ant
 **Próximo passo:** [explore cronogramas pré-feitos para trabalhadores](/cronograma/trabalhador) e personalize conforme seus turnos.
 
 ---
-
-## Referências
-
-- [INEP. Perfil Socioeconômico Candidatos ENEM](https://www.gov.br/inep) — 2024
-- [Stanford Sleep & Circadian Neurobiology Lab](https://med.stanford.edu/sleep) — foco cognitivo por hora do dia

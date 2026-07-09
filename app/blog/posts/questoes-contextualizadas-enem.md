@@ -1,6 +1,6 @@
 ---
 title: "Questões Contextualizadas no ENEM: Como o Exame Cobra Conteúdo"
-Veja padrão de como ENEM cria questões e como resolver."
+description: "Veja padrão de como ENEM cria questões e como resolver."
 date: "2026-07-09"
 author: "ENEM Pro"
 tags: ["questões", "estratégia", "enem-2026", "aplicação"]
@@ -87,8 +87,3 @@ Estude conteúdo. Depois, pratique questões reais do ENEM. Analise como cada co
 **Próximo passo:** [explore banco de questões contextualizadas por disciplina](/questoes?filter=contextualizada) e pratique agora.
 
 ---
-
-## Referências
-
-- [INEP. Análise de Questões ENEM 2024](https://www.gov.br/inep) — padrão de contextualização
-- [INEP. Matriz de Referência ENEM](https://www.gov.br/inep) — como ENEM estrutura questões

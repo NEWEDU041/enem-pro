@@ -20,7 +20,7 @@ Se prova dura 4h30, você teria 6h45 (4h30 + 2h15). Tempo é distribuído nos 2 
 
 Essa adaptação é para pessoas que têm dificuldade de processamento rápido. Deficiência visual reduz velocidade de leitura. Deficiência intelectual afeta velocidade de processamento. TDAH reduz capacidade de manter atenção por tempo prolongado. Tempo extra compensa essas limitações.
 
-Estratégia com tempo extra: não gaste tudo na pressa. Use primeiras 3h para responder de forma normal. Use últimas 1h45 especificamente para: revisar respostas, refazer questões difíceis que pula inicialmente, conferir se preencheu tudo corretamente. Tempo extra bem usado pode melhorar nota em 50-80 pontos.
+Estratégia com tempo extra: não gaste tudo na pressa. Use primeiras 3h para responder de forma normal. Use últimas 1h45 especificamente para: revisar respostas, refazer questões difíceis que pula inicialmente, conferir se preencheu tudo corretamente.
 
 ## Como Funciona Prova Ampliada?
 
@@ -101,8 +101,3 @@ Conheça cada opção. Escolha a que melhor funciona para você. Pratique com ma
 **Próximo passo:** [revise o passo-a-passo completo de como solicitar cada adaptação](/recursos/guia-adaptacoes).
 
 ---
-
-## Referências
-
-- [INEP. Guia de Atendimento Especial](https://www.gov.br/inep) — adaptações disponíveis
-- [Lei 13.146/2015. Lei de Inclusão](http://www.planalto.gov.br) — direitos legais

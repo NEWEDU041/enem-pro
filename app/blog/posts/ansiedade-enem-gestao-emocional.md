@@ -1,6 +1,6 @@
 ---
 title: "Ansiedade no ENEM: Estratégias de Gestão Emocional e Foco"
-Veja 5 técnicas comprovadas para controlar ansiedade e manter foco."
+description: "Veja 5 técnicas comprovadas para controlar ansiedade e manter foco."
 date: "2026-07-09"
 author: "ENEM Pro"
 tags: ["ansiedade", "saúde-mental", "enem-2026", "preparação"]
@@ -8,7 +8,7 @@ tags: ["ansiedade", "saúde-mental", "enem-2026", "preparação"]
 
 # Ansiedade no ENEM: Estratégias de Gestão Emocional e Foco
 
-Ansiedade antes do ENEM é universal. A questão não é eliminar ansiedade. É canalizá-la para foco produtivo. Candidatos que controlam ansiedade melhoram nota em 40-60 pontos comparado com quem deixa ansiedade tomar conta.
+Ansiedade antes do ENEM é universal. A questão não é eliminar ansiedade. É canalizá-la para foco produtivo.
 
 > **Key Takeaways**
 
@@ -91,10 +91,3 @@ No dia de prova, use técnica de respiração 4-7-8 se ficar nervoso. Lembre que
 **Próximo passo:** [comece agora com um simulado de baixa pressão](/simulado/iniciante) para familiarizar seu corpo com formato de prova.
 
 ---
-
-## Referências
-
-- [INEP. Análise de Bem-estar Candidatos ENEM](https://www.gov.br/inep) — 2023
-- [Harvard Medical School. The 4-7-8 Breathing Technique](https://www.health.harvard.edu) — técnica de respiração
-- [Nature. Exercise and Anxiety Meta-Analysis](https://www.nature.com) — 2024
-- [Yale Psychology Lab. Mindfulness and Intrusive Thoughts](https://psychology.yale.edu) — 2023

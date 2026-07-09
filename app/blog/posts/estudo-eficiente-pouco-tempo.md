@@ -103,10 +103,3 @@ Com essas técnicas, 1,5 horas diárias de estudo focado por 6 meses é suficien
 **Próximo passo:** [configure seu cronograma personalizado com técnica Pomodoro](/cronograma/pomodoro) e comece hoje.
 
 ---
-
-## Referências
-
-- [Stanford Education Lab. Focus and Retention Study](https://med.stanford.edu) — 2023
-- [Psychological Bulletin. Pomodoro Technique Meta-Analysis](https://www.apa.org) — 2024
-- [Ebbinghaus, Hermann. Memory: A Contribution to Experimental Psychology](https://en.wikipedia.org) — 1885 (Forgetting Curve)
-- [Dale, Edgar. Cone of Learning](https://en.wikipedia.org) — 1969

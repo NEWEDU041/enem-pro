@@ -27,7 +27,7 @@ Todas plataformas acima funcionam em smartphone e computador.
 
 ## Qual É a Importância de Resolver Questões Antigas do ENEM?
 
-Resolver questões de anos anteriores (2010-2024) é considerado o recurso **mais eficaz** para preparação ENEM. Segundo pesquisas educacionais, candidatos que resolvem 50+ questões antigas melhoram nota média em 40-50 pontos. ENEM mantém padrão de questões bastante consistente ao longo dos anos. O INEP disponibiliza todas questões e gabaritos de 2010 até 2024 gratuitamente no site oficial.
+Resolver questões de anos anteriores (2010-2024) é considerado o recurso **mais eficaz** para preparação ENEM. ENEM mantém padrão de questões bastante consistente ao longo dos anos. O INEP disponibiliza todas questões e gabaritos de 2010 até 2024 gratuitamente no site oficial.
 
 ---
 

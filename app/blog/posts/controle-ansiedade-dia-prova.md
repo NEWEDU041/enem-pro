@@ -8,10 +8,9 @@ tags: ["ansiedade", "prova", "controle", "enem-2026"]
 
 # Como Controlar Ansiedade Durante a Prova do ENEM
 
-Pânico no dia reduz nota drasticamente. Candidatos que controlam ansiedade performam 50-100 pontos melhor (observação ENEM Pro, 2025). Ansiedade não é problema se você tiver técnicas. Cinco estratégias funcionam: respiração profunda, pensamento lógico (não emocional), movimento físico, foco na questão atual, e auto-compaixão.
+Pânico no dia reduz nota drasticamente. Ansiedade não é problema se você tiver técnicas. Cinco estratégias funcionam: respiração profunda, pensamento lógico (não emocional), movimento físico, foco na questão atual, e auto-compaixão.
 
 > **Key Takeaways**
-> - Pânico reduz nota em 50-100 pontos (observação interno ENEM Pro)
 > - 5 técnicas simples controlam ansiedade: respiração, pensamento lógico, movimento, foco, auto-compaixão
 
 ## Estratégia 1: Respiração 4-7-8 Quando Travar
@@ -107,8 +106,3 @@ Treina essas técnicas em simulados. No dia real, são automáticas. Você entra
 **Próximo passo:** [faça meditação guiada para preparação mental 30 dias](/recursos/meditacao-enem-30dias).
 
 ---
-
-## Referências
-
-- [Universidade Texas. Auto-Compassion under Stress](https://www.utexas.edu) — 2021
-- [ENEM Pro. Observação Interno 2025](https://www.enem.pro)

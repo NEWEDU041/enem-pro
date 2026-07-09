@@ -100,9 +100,3 @@ Conheça seus direitos. Solicite no prazo. Preparem-se estrategicamente. O ENEM 
 **Próximo passo:** [baixe checklist completo de documentação para deficientes](/recursos/checklist-deficiente-enem) e revise antes de inscrever.
 
 ---
-
-## Referências
-
-- [Lei 13.146/2015. Lei de Inclusão da Pessoa com Deficiência](http://www.planalto.gov.br) — legislação que garante direitos
-- [INEP. Candidatos com Deficiência](https://www.gov.br/inep) — dados 2024
-- [Ministério da Educação. Orientações de Acessibilidade](https://www.gov.br/mec) — guia oficial

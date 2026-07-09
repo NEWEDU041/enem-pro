@@ -29,6 +29,13 @@ const FABRICATED_STAT_SRC = '(\\b\\d{1,3}(?:[.,]\\d+)?\\s?%|\\baproximadamente\\
 const FABRICATED_STAT = new RegExp(FABRICATED_STAT_SRC, 'i')
 const FABRICATED_STAT_G = new RegExp(FABRICATED_STAT_SRC, 'gi')
 
+// Reivindicações causais de "ganho de pontos" (ex: "melhora nota em 40-60 pontos",
+// "diferença é 50-100 pontos") — fabricadas quando não há fonte real. Diferente de
+// fatos estruturais reais (nota de corte, média por área), que ficam protegidos
+// pelo SAFE_PATTERNS abaixo.
+const CAUSAL_POINTS_SRC = '(melhora[m]?|aumenta[m]?|reduz(em)?|diferença|ganham|perdem|derruba|performa[m]?|impacta[m]?)[^.]{0,40}?\\d{1,3}[-–]\\d{1,3}\\s*pontos|\\d{1,3}[-–]\\d{1,3}\\s*pontos[^.]{0,40}?(melhor|pior|a mais|a menos|perdidos|ganhos)'
+const CAUSAL_POINTS = new RegExp(CAUSAL_POINTS_SRC, 'i')
+
 // Fatos estruturais reais que NÃO devem ser removidos mesmo contendo números
 const SAFE_PATTERNS = [
   /nota\s+(m[íi]nima|de corte)/i,
@@ -56,7 +63,8 @@ for (const file of files) {
     const isListItem = /^\s*[-*>]\s/.test(line)
 
     if (isListItem) {
-      if (FABRICATED_STAT.test(line) && !SAFE_PATTERNS.some(p => p.test(line))) {
+      const flagged = FABRICATED_STAT.test(line) || CAUSAL_POINTS.test(line)
+      if (flagged && !SAFE_PATTERNS.some(p => p.test(line))) {
         removedInFile++
         return null
       }
@@ -64,11 +72,12 @@ for (const file of files) {
     }
 
     // Parágrafo normal: quebra em sentenças e remove só as fabricadas
-    if (!FABRICATED_STAT.test(line)) return line
+    if (!FABRICATED_STAT.test(line) && !CAUSAL_POINTS.test(line)) return line
 
     const sentences = line.split(/(?<=[.!?])\s+(?=[A-ZÀ-Ú])/)
     const kept = sentences.filter(s => {
-      if (!FABRICATED_STAT.test(s)) return true
+      const flagged = FABRICATED_STAT.test(s) || CAUSAL_POINTS.test(s)
+      if (!flagged) return true
       if (SAFE_PATTERNS.some(p => p.test(s))) return true
       removedInFile++
       return false

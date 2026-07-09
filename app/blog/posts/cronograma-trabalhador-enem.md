@@ -113,7 +113,7 @@ Planilha simples:
 | Semana | Simulado Score | Acertos Matemática | Acertos Ciências | Acertos Port | Meta Cumprida? |
 |--------|---|---|---|---|---|
 
-Rastreie. Cada semana deve haver melhora de 5-10 pontos. Se não houver, ajuste estratégia.
+Rastreie. Se não houver, ajuste estratégia.
 
 ## FAQ: Perguntas Sobre Este Cronograma
 
@@ -142,7 +142,3 @@ Comece hoje. Ajuste horários conforme sua realidade. Mas mantenha estrutura: ma
 **Próximo passo:** [baixe cronograma em Excel para sincronizar com seu calendário](/recursos/cronograma-trabalhador-excel).
 
 ---
-
-## Referências
-
-- [ENEM Pro. Observação Interno 2024](https://www.enem.pro) — efetividade de cronograma com trabalhadores

@@ -149,8 +149,3 @@ Organize-se. Solicite. Teste. Participe.
 **Próximo passo:** [baixe checklist completo de recursos e como solicitar](/recursos/checklist-acessibilidade).
 
 ---
-
-## Referências
-
-- [INEP. Recursos de Acessibilidade ENEM](https://www.gov.br/inep) — lista completa
-- [Lei 13.146/2015. Lei de Inclusão](http://www.planalto.gov.br)

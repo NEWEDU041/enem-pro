@@ -8,12 +8,11 @@ tags: ["gestão-tempo", "prova", "estratégia", "enem-2026"]
 
 # Gestão de Tempo na Prova do ENEM: Estratégia por Disciplina
 
-ENEM aloca 4h30 para 90 questões cada dia (2 dias). Isso dá média de 3 minutos por questão. Mas questões não têm peso igual. Algumas fáceis (2 min), outras difíceis (5 min). Candidatos que dominam gestão de tempo conseguem revisar no final. Candidatos que não, ficam sem tempo e começam a chutar. Diferença é 50-100 pontos.
+ENEM aloca 4h30 para 90 questões cada dia (2 dias). Isso dá média de 3 minutos por questão. Mas questões não têm peso igual. Algumas fáceis (2 min), outras difíceis (5 min). Candidatos que dominam gestão de tempo conseguem revisar no final. Candidatos que não, ficam sem tempo e começam a chutar.
 
 > **Key Takeaways**
 > - 3 minutos/questão de média, mas distribuição é desigual (fácil 2 min, difícil 5 min)
 > - Deixar questões difíceis para o final economiza tempo inicial 
-> - Revisão em 30 minutos finais aumenta nota em 20-30 pontos (observação interno)
 
 ## Qual é a Estratégia de Alocação de Tempo?
 
@@ -94,7 +93,3 @@ Gestão de tempo é diferencial de 50-100 pontos. Estratégia é: identifique di
 **Próximo passo:** [baixe template de gestão de tempo para levar na prova](/recursos/template-gestao-tempo).
 
 ---
-
-## Referências
-
-- [ENEM Pro. Observação Interna 2025](https://www.enem.pro) — impacto de revisão em score

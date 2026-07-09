@@ -1,6 +1,6 @@
 ---
 title: "Técnicas de Respiração para Controlar Ansiedade no ENEM"
-Aprenda 3 técnicas simples para usar na prova."
+description: "Aprenda 3 técnicas simples para usar na prova."
 date: "2026-07-09"
 author: "ENEM Pro"
 tags: ["ansiedade", "respiração", "técnicas", "enem-2026"]
@@ -107,8 +107,3 @@ Comece agora. Respire 4-7-8 neste momento. Sinta a diferença.
 **Próximo passo:** [baixe guia com 5 técnicas de respiração + áudio guiado](/recursos/audio-respiracao-guiada).
 
 ---
-
-## Referências
-
-- [Harvard Medical School. 4-7-8 Breathing](https://www.health.harvard.edu) — 2022
-- [Frontiers in Psychology. Música e Ansiedade Meta-Analysis](https://www.frontiersin.org) — 2023

@@ -1,6 +1,6 @@
 ---
 title: "Perfil do Candidato que Passa no ENEM: Características e Hábitos"
-Descubra o perfil dos candidatos aprovados e como você se compara."
+description: "Descubra o perfil dos candidatos aprovados e como você se compara."
 date: "2026-07-09"
 author: "ENEM Pro"
 tags: ["perfil", "aprovados", "enem-2026", "preparação"]
@@ -93,9 +93,3 @@ Comece hoje. Escolha uma hora de estudo consistente. Durma 7 horas. Refaça uma 
 **Próximo passo:** [teste seu nível atual com um simulado gratuito](/simulado) e receba diagnóstico personalizado.
 
 ---
-
-## Referências
-
-- [INEP. Dados de Desempenho ENEM 2024](https://www.gov.br/inep) — análise de perfil aprovados
-- [Nature Neuroscience. Sleep and Memory Consolidation](https://www.nature.com/articles/nn) — 2021
-- [Stanford Sleep & Circadian Neurobiology Lab](https://med.stanford.edu/sleep) — ritmo cognitivo diário
