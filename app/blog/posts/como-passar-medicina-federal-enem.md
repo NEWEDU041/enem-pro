@@ -8,10 +8,10 @@ tags: ["medicina", "nota-corte", "enem-2026", "preparação"]
 
 # Como Passar em Medicina Federal no ENEM: Nota de Corte e Estratégia Completa
 
-Medicina federal é o curso mais disputado do ENEM. Em 2025, a nota de corte mínima para medicina federal ficou entre **700 e 760 pontos**, conforme a universidade — mas para disputar as melhores federais (USP, UNICAMP, UFMG), você precisa de **730+ pontos** (Nota de Corte USP, 2025).
+Medicina federal é o curso mais disputado do ENEM. Em 2025, a nota de corte mínima para medicina federal ficou entre **700 e 760 pontos**, conforme a universidade — mas para disputar as melhores federais (USP, UNICAMP, UFMG), você precisa de **730+ pontos**.
 
 > **Key Takeaways**
-> - Medicina federal exige 700-760 pontos (Seer Interactive, 2025), média 730 para top 5 universidades
+> - Medicina federal exige 700-760 pontos, média 730 para top 5 universidades
 > - Ciências da Natureza é a disciplina de maior peso — estude 40% do tempo aqui
 > - Simulados semanais reduzem ansiedade em 58% e melhoram TRI em 45 pontos (estudo interno ENEM Pro)
 
