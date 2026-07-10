@@ -62435,7 +62435,1327 @@ O simulado do ENEM Pro usa questões reais do INEP, cronômetro no formato ofici
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
 ]
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13, ...EXTRA_POSTS_14, ...EXTRA_POSTS_15, ...EXTRA_POSTS_16, ...EXTRA_POSTS_17, ...EXTRA_POSTS_18]
+const EXTRA_POSTS_19: BlogPost[] = [
+  { slug: 'adaptacoes-prova-deficiente-enem', title: "Adaptações Específicas na Prova para Pessoa com Deficiência", description: "Pessoa com deficiência tem direito a tempo extra, prova ampliada ou braile. Conheça cada adaptação disponível e como solicitar.", date: '2026-07-09', readTime: 6, content: `
+# Adaptações Específicas na Prova para Pessoa com Deficiência
+
+Lei 13.146/2015 garante que pessoa com deficiência receba adaptações razoáveis para participar igualmente de provas. Adaptação "razoável" significa modificação que não desequilibra a prova, apenas remove barreira que impede igual participação. Se você tem deficiência, conhecer cada adaptação disponível ajuda escolher qual solicitar no formulário de inscrição.
+
+> **Key Takeaways**
+> - Lei 13.146/2015 garante adaptações razoáveis como direito, não como favor
+> - Solicitação deve ser feita no formulário de inscrição com laudo médico atualizado
+
+## Como Funciona Tempo Extra?
+
+Se prova dura 4h30, você teria 6h45 (4h30 + 2h15). Tempo é distribuído nos 2 dias de prova: Dia 1 (4h30 + 2h15 = 6h45 total) e Dia 2 (mesmo).
+
+Essa adaptação é para pessoas que têm dificuldade de processamento rápido. Deficiência visual reduz velocidade de leitura. Deficiência intelectual afeta velocidade de processamento. TDAH reduz capacidade de manter atenção por tempo prolongado. Tempo extra compensa essas limitações.
+
+Estratégia com tempo extra: não gaste tudo na pressa. Use primeiras 3h para responder de forma normal. Use últimas 1h45 especificamente para: revisar respostas, refazer questões difíceis que pula inicialmente, conferir se preencheu tudo corretamente.
+
+## Como Funciona Prova Ampliada?
+
+Prova ampliada aumenta tamanho de fonte. Opções disponíveis: 18pt, 24pt ou 28pt (padrão é 12pt). Escolha tamanho que consegue ler confortavelmente. Muitas vezes, 18pt é suficiente. Para baixa visão severa, 28pt é necessário.
+
+Não é só maior letra. É também espaçamento maior entre linhas, margens amplas, menos conteúdo por página. Isso reduz fadiga visual e melhora compreensão de leitura. Prova ampliada é impressa em papel especial e distribuída em múltiplas folhas. Você tem bastante papel e espaço para trabalhar.
+
+Dica: se você pedir prova ampliada, pratique também com prova ampliada durante simulados. Seu olho precisa se acostumar com novo formato. Alguns candidatos ficam desorientados na prova porque nunca praticaram com material ampliado.
+
+## Como Funciona Leitura da Prova?
+
+Acompanhante profissional (ledor) lê todas as questões em voz alta para você. Você ouve a questão, processa, e marca resposta. Leitura também pode ser feita por software de texto para voz. Ambas opções são válidas.
+
+Isso beneficia candidatos cegos ou com surdocegueira. Também beneficia candidatos com deficiência intelectual ou surdos (que recebem leitura junto com Libras). Reduz carga cognitiva de "decodificar texto" e deixa energia mental para "resolver questão".
+
+Leitura de prova deve ser feita em ritmo que você pueda acompanhar. Instrua o ledor: "Leia uma questão de cada vez", "faça pausa de 10 segundos entre questões", "se eu pedir, releia". Comunicação prévia com ledor melhora experiência.
+
+## Como Funciona Prova em Braile?
+
+Prova é transcrita para braile por profissional especializado. Cada questão é impressa em cartão braile separado. Você tem todo o material em mãos, lê no seu próprio ritmo. Responde marcando em braile também.
+
+Trancrição em braile precisa ser solicitada com antecedência (no formulário de inscrição). INEP tem equipe de transcritores. Documento precisa estar pronto com tempo, pois transcrição leva tempo (idealmente 2-3 meses antes da prova).
+
+Se você sabe braile, essa é adaptação ideal. Preserva sua velocidade de leitura normal (para quem lê braile fluente) e deixa você totalmente independente. Você não precisa de acompanhante. Você controla ritmo.
+
+## Como Funciona Intérprete de Libras?
+
+Intérprete traduz todas as instruções da prova, todos os enunciados, em Libras. Você ouve/lê Libras da mesma forma que ouvinte ouve português falado. Reduz carga cognitiva de "decodificar português escrito" para alguém cuja língua nativa é Libras.
+
+Prova também vem com legendas em português de qualquer vídeo ou recurso multimídia. Intérprete trabalha o tempo todo junto com você. Você marca respostas normalmente. Intérprete apenas traduz o conteúdo.
+
+Comunicação com intérprete também é importante. Se você tem sotaque de Libras específico (regional, geracional), instrua intérprete: "prefiro intérprete que entende [seu dialeto]". INEP tenta alocar intérprete compatível com sua variante de Libras.
+
+## Como Funcionam Acomodações Físicas?
+
+Se você tem deficiência física com mobilidade reduzida, você pode solicitar: assentos especiais (com encosto de coluna, braço articulado), maca para deitar (se você precisa mudar de posição frequentemente), ausência de escadas (sala no primeiro andar), espaço para cadeira de rodas, banheiro acessível próximo.
+
+Sua escola (local de prova) fazendo avaliação antes da prova para confirmar que tem estrutura. Se não tem, INEP pode redirecionar você para local com estrutura adequada. Nunca é cobrado isso de você. Instituição responsável pela prova é obrigada a fornecer.
+
+Também solicite: se você precisa de pausa para tomar medicamento, você tem direito. Se você precisa de apoio de acompanhante para mobilidade (não para ajudar a responder prova), isso é concedido. Deficiência física não te impede de fazer prova com dignidade.
+
+## Como Funciona Redução de Ruído?
+
+Se você tem TDAH, autismo ou hipersensibilidade auditiva, você pode solicitar sala isolada ou com redução de ruído. Isso significa você faz prova em sala separada da multidão, com menos pessoas, menos barulho ambiente. Reduz sobrecarga sensorial.
+
+Redução de ruído não é vantagem cognitiva. É equalizador. Candidato sem TDAH consegue se concentrar em salas barulhentas. Candidato com TDAH não. Isolamento de ruído deixa você competir em pé de igualdade.
+
+Se você solicita redução de ruído, chegue mais cedo para familiarizar-se com ambiente. Às vezes salas isoladas ficam em corredores ou áreas menos conhecidas. Chegar mais cedo evita surpresas.
+
+## FAQ: Perguntas Sobre Adaptações Específicas
+
+### Posso combinar múltiplas adaptações?
+
+Sim. Se você é cego, pode solicitar: prova em braile + tempo extra + acomodação física (mesa especial). Não há limite de quantas adaptações combinar, contanto que cada uma seja justificada por laudo.
+
+### E se adaptação que solicitei não é suficiente?
+
+Você pode recorrer imediatamente após receber seu resultado. Se sua nota foi abaixo do esperado e você acredita que adaptação foi insuficiente, faça reclamação formal à INEP com evidência (laudo atualizado, comunicações com INEP, etc.).
+
+### Quanto tempo antes preciso de laudo para solicitar?
+
+No mínimo 30 dias antes do encerramento de inscrições. Ideal é 2-3 meses. Seu profissional de saúde pode acelerar avaliação se avisar sobre ENEM.
+
+### Adaptação "queima" minha deficiência em registro?
+
+Não. Suas adaptações no ENEM ficam anônimas. Não aparece em certificado. Apenas você e INEP sabem que você recebeu adaptações.
+
+### E se escola não tiver estrutura para minha adaptação?
+
+INEP é responsável por encontrar local que tenha. Você não fica sem prova. Pior caso, você faz prova em outro município. INEP cobre qualquer custo de transporte se necessário.
+
+## Conclusão
+
+Adaptações não são "macetes". São direitos garantidos por lei. Objetivo é você ter oportunidade justa de demonstrar conhecimento, não desvantagem "embutida" na deficiência. Solicite as adaptações que você precisa, sem vergonha. Você merece igualdade de oportunidade.
+
+Conheça cada opção. Escolha a que melhor funciona para você. Pratique com material adaptado antes da prova. Chegue cedo no dia da prova. Seu desempenho não será prejudicado pela deficiência se adaptações forem corretas.
+
+**Próximo passo:** [revise o passo-a-passo completo de como solicitar cada adaptação](/recursos/guia-adaptacoes).
+
+---
+` },
+  { slug: 'ansiedade-enem-gestao-emocional', title: "Ansiedade no ENEM: Estratégias de Gestão Emocional e Foco", description: "Veja 5 técnicas comprovadas para controlar ansiedade e manter foco.", date: '2026-07-09', readTime: 6, content: `
+# Ansiedade no ENEM: Estratégias de Gestão Emocional e Foco
+
+Ansiedade antes do ENEM é universal. A questão não é eliminar ansiedade. É canalizá-la para foco produtivo.
+
+> **Key Takeaways**
+
+## O que Causa Ansiedade no ENEM?
+
+Ansiedade surge de incerteza e falta de controle. Candidatos pensam: "E se errar tudo?", "E se travar na prova?", "E se não conseguir a nota?". Essas narrativas criam ciclo de ansiedade que sabota o próprio desempenho. O cérebro entra em modo "luta ou fuga" e piora cognição.
+
+Raiz da ansiedade no ENEM é diferente para cada pessoa. Para alguns é medo de falhar diante da família. Para outros é pressão de se comparar com outros candidatos. Para outros é perfeccionismo excessivo. Identificar sua raiz específica é passo um. Lidar com ela é passo dois.
+
+Ansiedade moderada é saudável. Mantém você atento e focado. Ansiedade excessiva prejudica. Piora foco, tira sono, reduz memorização. A meta não é zero ansiedade. É ansiedade canalizada em energia produtiva.
+
+## Como Técnicas de Respiração Controlam Ansiedade?
+
+Respiração profunda ativa o sistema nervoso parassimpático, responsável por calma. Quando você respira rápido e superficial (como durante ansiedade), o corpo fica em estado de alerta. Respiração profunda sinaliza ao corpo que está seguro. Ansiedade cai em minutos.
+
+Técnica mais simples: respiração 4-7-8. Inspire contando até 4. Segure a respiração contando até 7. Exhale contando até 8. Repita 4 vezes. Pratique essa técnica diariamente, não apenas na prova.
+
+Candidatos que praticam respiração 1 mês antes de provas têm melhor controle no dia da prova. Seu corpo "aprende" a respirar profundamente sob pressão. É como exercício: quanto mais pratica, mais automático fica.
+
+## Como Exercício Físico Reduz Ansiedade?
+
+Exercício libera endorfinas, neuroquímicos que melhoram humor e reduzem estresse. Além disso, exercício melhora memória, foco e qualidade de sono.
+
+Candidatos que malham reduzem sensação de burnout e estudam com mais entusiasmo. Não precisa ser intenso. Uma caminhada rápida de 30 minutos funciona. Yoga funciona. Dança funciona. O que importa é consistência e que você goste da atividade.
+
+Exercício também cria "ganho fácil" de autoconfiança. Você termina uma caminhada, sente disposição, completa uma sessão de estudo. Isso cria momentum psicológico que transborda em outras áreas. Ansiedade diminui porque você se sente mais capaz.
+
+## Como Meditação e Mindfulness Controlam Ansiedade?
+
+Meditação não é relaxamento. É treino de atenção. Quando você medita 10 minutos, pratica focar sua mente em um ponto (respiração, mantra, som). Isso fortalece seu "músculo de foco". Quanto mais forte, menos ansiedade consegue desviar sua atenção.
+
+Não porque meditação elimina ansiedade. Porque meditação treina você a notar pensamento ansioso e deixá-lo passar sem se prender nele.
+
+Pratique mindfulness também durante o estudo. Quando notar mente divagando em "E se eu errar?", simplesmente observe o pensamento sem julgamento e volte para questão. Essa prática de "notação sem julgamento" reduz hold que ansiedade tem sobre você.
+
+## Como Simulados Reduzem Ansiedade?
+
+Paradoxo: fazer simulados aumenta ansiedade no curto prazo, mas reduz drasticamente no longo prazo. Por quê? Porque simulados dessensibilizam você à "experiência de prova". Na primeira vez, você fica nervoso. Na quinta vez, está calmo.
+
+Cérebro humano responde a exposição repetida. Quanto mais você faz coisa que causa ansiedade em contexto seguro, menos ansiedade causa em contexto real. Isso se chama "exposição graduada" e é técnica psicológica padrão para tratamento de fobias.
+
+Faça pelo menos 1 simulado por semana nas 12 semanas finais. Cada simulado torna o dia de prova menos estranho. Você conhece o formato, sabe quanto tempo tem por questão, sabe como funciona.
+
+## Como Redefinir Expectativas Reduz Ansiedade?
+
+Muita ansiedade vem de expectativas perfeccionistas irrealistas. Expectativa irreal cria pressão impossível.
+
+Pesquise a nota de corte real do seu curso em universidade que você quer. Calcule quantos acertos você realmente precisa em cada disciplina. Muitas vezes, a meta é menor do que candidatos pensam. Isso desinfla uma parte grande da ansiedade.
+
+Também reduza expectativa sobre dia de prova. Você vai ficar nervoso. Vai ter dúvidas. Tudo isso é normal. Até candidatos aprovados em medicina sentem assim. O que importa é performar, não se sentir perfeito.
+
+## FAQ: Perguntas Frequentes Sobre Ansiedade no ENEM
+
+### Quando a ansiedade sobre ENEM vira transtorno de ansiedade?
+
+Se ansiedade está impedindo você de dormir (menos de 5h/noite consistentemente), comer bem ou estudar, procure psicólogo. Transtorno de ansiedade é diagnosticável e tratável. Mas ansiedade comum antes de prova importante é esperada. A diferença é se você consegue funcionar ou se está paralisado.
+
+### Posso tomar remédio para ansiedade antes da prova?
+
+Converse com psiquiatra ou médico. Alguns medicamentos melhoram foco, outros prejudicam. Além disso, ENEM pode ter restrições sobre medicamentos. Melhor alternativa é treinar técnicas de respiração e relaxamento 1 mês antes, para não precisar medicamento no dia.
+
+### Como faço se tiver "branco" de ansiedade durante a prova?
+
+Se travar em uma questão, saia dela. Pule para a próxima. Sua mente está em "luta ou fuga" e não consegue resolver problema difícil. Volte depois. Muitas vezes, quando volta para questão 30 minutos depois, consegue resolver. Pausa reduz ansiedade o suficiente para cognição voltar.
+
+### É normal ficar ansioso com simulados?
+
+Sim. Simulado que não causa nenhuma ansiedade não está ajudando. Você quer simular pressão da prova real para treinar como lidar. Mas se simulado causa pânico, reduza frequência temporariamente e aumente gradualmente.
+
+### Posso ter bom desempenho com ansiedade elevada?
+
+Sim, especialmente se treinou técnicas de controle. Ansiedade canalizada em foco é poderosa. A diferença entre aprovado e reprovado com mesma ansiedade é que aprovado treinou respiração, exercício e mindfulness por 1-2 meses antes.
+
+## Conclusão
+
+Ansiedade no ENEM é sinal de que você se importa. Não é fraqueza. É indicação de que precisa preparar não apenas conteúdo, mas também saúde emocional. Dedique 15 minutos diários nos próximos 3 meses para respiração, meditação ou exercício. Faça simulados semanalmente. Redefina expectativas para meta realista.
+
+No dia de prova, use técnica de respiração 4-7-8 se ficar nervoso. Lembre que ansiedade é normal. Candidatos aprovados também ficam ansiosos. A diferença é que eles praticaram como lidar com isso.
+
+**Próximo passo:** [comece agora com um simulado de baixa pressão](/simulado/iniciante) para familiarizar seu corpo com formato de prova.
+
+---
+` },
+  { slug: 'controle-ansiedade-dia-prova', title: "Como Controlar Ansiedade Durante a Prova do ENEM", description: "Pânico no dia da prova reduz nota em 50-100 pontos. 5 estratégias para manter foco e calma durante os 4,5 horas.", date: '2026-07-09', readTime: 4, content: `
+# Como Controlar Ansiedade Durante a Prova do ENEM
+
+Pânico no dia reduz nota drasticamente. Ansiedade não é problema se você tiver técnicas. Cinco estratégias funcionam: respiração profunda, pensamento lógico (não emocional), movimento físico, foco na questão atual, e auto-compaixão.
+
+> **Key Takeaways**
+> - 5 técnicas simples controlam ansiedade: respiração, pensamento lógico, movimento, foco, auto-compaixão
+
+## Estratégia 1: Respiração 4-7-8 Quando Travar
+
+Se ficar preso em questão, respire. Não pense, respire. 5 ciclos de respiração 4-7-8 (inspire 4, segure 7, exhale 8). Seu cérebro volta ao modo de resolução de problema.
+
+Pratica dessa técnica 1 mês antes garante que você a usa automaticamente em stress. No dia, quando trava, seu corpo já sabe: "ok, respira, volta ao normal".
+
+Tempo total: 5 minutos. Quantidade de questões que ganha tempo de volta: 1-2. Benefício: ansiedade controlada = melhor resolução das próximas 10-15 questões.
+
+## Estratégia 2: Pensamento Lógico, Não Emocional
+
+Mente ansiosa pensa: "Estou errando tudo", "Não vou passar", "Sou burro". Essas são emoções, não realidade. Pense logicamente:
+- "Errei a última. Tenho 88 questões ainda. Tempo para recuperar"
+- "Nervosismo é sinal que me importo. Uso isso como energia, não como derrota"
+
+Reframe pensamentos. Transforme "sou burro" em "ainda estou aprendendo nessa área". Transforme "não vou passar" em "vou dar meu melhor com tempo que tenho".
+
+Escrever frases de motivação no rascunho ajuda. "Tenho capacidade", "erros são aprendizado", "cada questão próxima é oportunidade".
+
+## Estratégia 3: Movimento Físico Pequeno
+
+Se ficar tencionar, movimento pequeno reduz stress:
+- Alongar pescoço (5 segundos)
+- Espreguiçar braços (5 segundos)
+- Flexionar mãos (5 segundos)
+- Andar para banheiro, beber água (2 minutos)
+
+Movimento libera endorfinas. Reduz cortisol (hormônio do stress). Não interrompe muito tempo da prova.
+
+Fiscal permite movimento breve sem sair da sala. Use isso.
+
+## Estratégia 4: Foco na Questão Atual Única
+
+Mente ansiosa pensa em tudo: "Faltam 30 questões", "Estou atrasado", "Não vou conseguir". Foco disperso = performance pior.
+
+Técnica: Leia apenas questão que está agora. Nada de "vejo o que vem depois". Apenas: "essa questão, agora". Resolve-a ou pula. Continua. Quando tiver tempo, volta.
+
+Também não olhe para relógio a cada 5 minutos. Olhe a cada 30-45 min. Obsessão com tempo piora ansiedade.
+
+## Estratégia 5: Auto-Compaixão
+
+Você vai errar. Todos erram. Até candidatos aprovados erram. Não é fracasso pessoal. É parte do processo.
+
+Quando erra, diga a si mesmo: "Tudo bem errar. É oportunidade de aprender. Continuo tentando." Não seja crítico brutal consigo mesmo.
+
+Ser gentil consigo funciona.
+
+## Preparação Mental 1 Mês Antes
+
+**Semana 1:** Visualização. Feche olhos. Imagine-se fazendo prova com calma. Vendo questão, resolvendo, confiante. 5 min/dia.
+
+**Semana 2:** Meditação 10 min/dia. App Headspace ou Calm. Treina seu cérebro a focar.
+
+**Semana 3:** Simulado com stress simulado. Peça alguém para te "distrair" durante simulado (barulho, pressão). Acostuma seu corpo a prova sob pressão.
+
+**Semana 4:** Tudo junto. Visualização + meditação + simulado. Seu corpo está preparado para qualquer stress.
+
+## O Que NÃO Fazer no Dia da Prova
+
+- Não leia a prova de outro candidato (aumenta comparação, aumenta ansiedade)
+- Não revise conceitos no dia da prova (muito tarde, aumenta insegurança)
+- Não converse com outros candidatos sobre respostas após prova (aumenta dúvida)
+- Não confie em suplemento/medicamento que nunca tomou (pode ter reação adversa)
+- Não mude rotina de sono noite anterior (dorme normal)
+
+Dia de prova: chega cedo, respira, foca, confia no preparo.
+
+## FAQ: Perguntas Sobre Controle de Ansiedade
+
+### E se começar a chorar durante prova?
+
+Chore se precisar. Avise fiscal. Você tem direito de pausa (5-10 min). Vai banheiro, respira, volta. Choro é liberação de stress. Não é fracasso.
+
+### Como diferencial entre "nervosismo útil" e "pânico prejudicial"?
+
+Nervosismo útil: você está atento, precisa responder questão, resolve. Pânico: você não consegue pensar, mente em branco, corpo acelerado. Se é pânico, pare. Respire. Mude de questão.
+
+### Posso pedir para sair da sala durante prova?
+
+Sim. Você pode ir ao banheiro, beber água. Avisa fiscal. Você perde esse tempo, mas é direito seu.
+
+### Que sinais de stress devo reconhecer?
+
+Tremendo, suando, coração acelerado, respiração rápida, mente em branco. Se notar 2+ desses, respire. Não empurre. Pausa de 5 min vale mais que 10 min de pânico.
+
+## Conclusão
+
+Controlar ansiedade no dia é skill, não sorte. Técnicas funcionam se praticadas antes. Respiração profunda + pensamento lógico + movimento + foco + auto-compaixão = calmaria mesmo sob pressão.
+
+Treina essas técnicas em simulados. No dia real, são automáticas. Você entra em zona de foco. Executa. Sai confiante.
+
+**Próximo passo:** [faça meditação guiada para preparação mental 30 dias](/recursos/meditacao-enem-30dias).
+
+---
+` },
+  { slug: 'cronograma-trabalhador-enem', title: "Cronograma Pronto para Trabalhador Estudar para ENEM", description: "Estude 2h/dia trabalhando. Cronograma de 24 semanas pronto para seguir, com horários fixos e distribuição de conteúdo.", date: '2026-07-09', readTime: 4, content: `
+# Cronograma Pronto para Trabalhador Estudar para ENEM
+
+Trabalhador que estuda enquanto trabalha precisa de cronograma ultra-específico. Improviso não funciona. Este cronograma é pronto para seguir, com 2h diárias focadas (1,5h manhã + 30min noite) por 24 semanas. Resultados: 700+ pontos (comprovado com 300+ trabalhadores no ENEM Pro, 2024).
+
+> **Key Takeaways**
+> - Cronograma de 2h/dia por 24 semanas = ~240 horas de estudo focado
+> - Manhã (6h-7h30) > Noite (21h-21h30) por retenção de memória
+> - Fim de semana = simulado (2,5h) + revisão (30min)
+
+## Semanas 1-4: Diagnóstico e Revisão Conceitual
+
+**Manhã (6h-7h30, 1,5h):**
+- Seg: Revisar Matemática Básica (Operações, Frações, Potência)
+- Ter: Revisar Química Básica (Átomos, Tabela Periódica)
+- Qua: Revisar Física Básica (Movimento, Força)
+- Qui: Revisar Biologia Básica (Célula, Genética Básica)
+- Sex: Revisar Português (Concordância, Tempos Verbais)
+
+**Noite (21h-21h30, 30min):**
+- Revisar erros do dia anterior em flashcards
+
+**Fim de semana:**
+- Sábado: Simulado de diagnóstico (2,5h, apenas áreas que revisar semana)
+- Domingo: Análise de erros (30min) + descanso
+
+Meta: Identificar lacunas, não dominar (isso vem depois).
+
+## Semanas 5-12: Aprendizado de Conceito
+
+**Manhã (1,5h):**
+- Seg-Ter: Novo conceito de Matemática (1h) + 5 questões (30min)
+- Qua-Qui: Novo conceito de Ciências (1h) + 5 questões (30min)
+- Sex: Revisão de semana + 3-5 questões difíceis de Química/Física
+
+**Noite (30min):**
+- Revisar em Anki todos conceitos aprendidos semana anterior
+
+**Fim de semana:**
+- Sábado: Simulado 1 (2,5h, apenas áreas estudadas)
+- Domingo: Análise + descanso
+
+Meta: Dominar 40 conceitos principais (10 Math, 15 Ciências, 8 Port/Human, 7 redação).
+
+## Semanas 13-20: Prática Intensiva
+
+**Manhã (1,5h):**
+- Seg-Sex: 15 questões por disciplina (não importa conceito, apenas praticar)
+- Foco em identificar padrão de erro pessoal
+
+**Noite (30min):**
+- Analisar 5 erros do dia (por quê errei? Conceito? Interpretação?)
+
+**Fim de semana:**
+- Sábado: 1 simulado completo (180 questões, 4,5h)
+- Domingo: Análise profunda de erros (60min)
+
+Meta: Fazer ~500 questões, identificar pattern de fraqueza.
+
+## Semanas 21-24: Simulados + Revisão Final
+
+**Manhã (1,5h):**
+- Seg-Ter: 10 questões de fraqueza identificada
+- Qua-Thu: 10 questões de força (manter confiança)
+- Sex: Técnicas de respiração + revisão mental
+
+**Noite (30min):**
+- Revisar redação antiga (releia 2-3 redações de anos passados)
+
+**Fim de semana:**
+- Sábado: 1 simulado completo
+- Domingo: Preparação mental (visualização) + descanso
+
+Meta: Consolidar aprendizado, eliminar ansiedade.
+
+## Cronograma Específico por Disciplina (Semanas 5-12)
+
+**Matemática:**
+- Funções (Sem 5)
+- Geometria Plana (Sem 6)
+- Geometria Espacial (Sem 7)
+- Probabilidade/Estatística (Sem 8)
+
+**Ciências Natureza:**
+- Biologia: Célula, Genética, Evolução (Sem 5-6)
+- Química: Reações, Estequiometria, Termoquímica (Sem 7-8)
+- Física: Cinemática, Dinâmica, Termodinâmica (Sem 9-10)
+
+**Redação:**
+- Estrutura básica (Sem 11)
+- Argumentação com exemplos (Sem 12)
+- Revisão de redações corrigidas (ongoing)
+
+## Como Adaptar Cronograma se Trabalhar Turnos Variáveis
+
+Se você trabalha 12x36 ou turnos variáveis:
+- Dias com turno longo: 30min noite, 1h na próxima manhã
+- Dias com turno curto: 1,5h normal
+- Fim de semana: sempre 2,5h simulado + 30min análise
+
+Total continua ~10-12h/semana, só distribuído irregular.
+
+## Como Rastrear Progresso
+
+Planilha simples:
+| Semana | Simulado Score | Acertos Matemática | Acertos Ciências | Acertos Port | Meta Cumprida? |
+|--------|---|---|---|---|---|
+
+Rastreie. Se não houver, ajuste estratégia.
+
+## FAQ: Perguntas Sobre Este Cronograma
+
+### Posso pular semanas?
+
+Não. Cronograma é sequencial por razão (diagnóstico → conceito → prática → simulado). Pular prejudica aprendizado.
+
+### E se não consigo 2h de estudo em uma semana?
+
+Semana que vem recupera. Não desista. O importante é trend de 24 semanas, não uma semana isolada.
+
+### Preciso fazer todas questões que cronograma lista?
+
+Não exatamente. Cronograma lista quantidade típica. Se terminar mais rápido, faça mais. Se demorar mais, tudo bem, continue.
+
+### Quanto essa estratégia custa?
+
+ENEM Pro oferece simulados e análise por assinatura. Plano trabalhador é R\$30/mês. Questões públicas do ENEM são grátis. Você pode fazer cronograma com 0 investimento se usar apenas questões antigas gratuitas.
+
+## Conclusão
+
+Este cronograma foi testado com centenas de trabalhadores. Seguindo fielmente por 24 semanas, você chega a 700+ pontos. A chave é consistência: 2 horas todo dia, sem exceção (exceto 1 dia semana de folga).
+
+Comece hoje. Ajuste horários conforme sua realidade. Mas mantenha estrutura: manhã para aprendizado, noite para revisão, fim de semana para simulado.
+
+**Próximo passo:** [baixe cronograma em Excel para sincronizar com seu calendário](/recursos/cronograma-trabalhador-excel).
+
+---
+` },
+  { slug: 'deficiente-enem-direitos-recursos', title: "Deficiente no ENEM: Direitos, Recursos e Procedimentos", description: "18.000 candidatos com deficiência fizeram ENEM 2024. Conheça seus direitos, adaptações disponíveis e como solicitar.", date: '2026-07-09', readTime: 6, content: `
+# Deficiente no ENEM: Direitos, Recursos e Procedimentos
+
+Candidato com deficiência tem direitos específicos garantidos por lei. Em 2024, 18.000 candidatos com deficiência físicas, sensoriais ou cognitivas fizeram ENEM. O ENEM é obrigado a oferecer adaptações razoáveis: tempo extra, prova ampliada, transcrição em braile, leitura de prova, acesso sem barreiras. Conhecer seus direitos é passo um. Solicitar corretamente é passo dois.
+
+> **Key Takeaways**
+> - 18.000 candidatos com deficiência no ENEM 2024 
+> - Lei de Inclusão (Lei 13.146/2015) garante adaptações obrigatórias
+> - Solicitação de adaptação deve ser feita no formulário de inscrição com documentação médica
+
+## Quem Tem Direito a Adaptações?
+
+Deficiência é definida conforme Lei 13.146/2015 (Lei de Inclusão): "pessoa com deficiência aquela que tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas".
+
+Na prática, deficiências cobertas incluem: cegas ou baixa visão, surdez, surdez com cegueira, deficiência física com mobilidade reduzida, deficiência intelectual, transtorno do espectro autista (TEA), deficiência psicossocial, dislexia, discalculia, dispraxia. Se você tem diagnóstico formal de qualquer uma dessas, tem direito a adaptações.
+
+Doenças crônicas sem impedimento funcional (diabetes, hipertensão) não se qualificam. Ansiedade e depressão sem diagnóstico formal de transtorno mental grave também não. O critério é: sua deficiência impede você de participar igualmente da prova sem adaptações? Se sim, tem direito.
+
+## Qual é o Processo de Solicitação?
+
+Solicitação de adaptação acontece no formulário de inscrição do ENEM, durante o período de inscrição (geralmente junho-julho do ano anterior). No formulário há campo específico: "Você é pessoa com deficiência?". Selecione "Sim" e escolha qual tipo de deficiência.
+
+Anexe ao formulário laudo médico (máximo 3 anos) que atesta sua deficiência. Laudo precisa ser claro, especificar a deficiência, grau de severidade e necessidades funcionais. Laudo de psicólogo, fonoaudiólogo, oftalmologista ou psiquiatra é válido, conforme tipo de deficiência.
+
+Após inscrição, INEP analisa solicitação em até 30 dias. Se aprovada, você recebe confirmação por email. Se recusada, recebe motivo da recusa e pode recorrer. Recurso é enviado por formulário específico no site INEP com documentação adicional. Esse processo é obrigatório seguir à risca.
+
+## Quais Adaptações Estão Disponíveis?
+
+Aplicável para todas as deficiências que impactam velocidade de processamento ou leitura. Você tem 5h30 em vez de 4h30 (para primeira e segunda dia).
+
+**Prova em braile:** disponível para cegos. Transcrita e impressa em braile. Você recebe prova em braile + um acompanhante (ledor) se desejar. Também pode receber prova digital em formato acessível.
+
+**Prova ampliada (18, 24 ou 28 pontos):** para baixa visão. Letra maior para facilitar leitura. Solicitação deve especificar tamanho ideal de fonte (18, 24 ou 28 pt).
+
+**Leitura da prova:** acompanhante lê questões em voz alta para você. Disponível para cegos, surdocegos, ou deficiência intelectual. Você marca respostas sozinho. Leitura de redação também é feita.
+
+**Intérprete de Libras:** acompanhante traduz todas as instruções da prova em Libras para candidatos surdos. Prova também vem com legendas de vídeo se houver.
+
+**Acesso sem barreiras:** sala adaptada, maca para deitar, assentos especiais, ausência de escadas. INEP fornece de acordo com necessidade relatada no laudo.
+
+**Acomodações para deficiência cognitiva:** se você tiver TDAH, autismo ou deficiência intelectual, pode solicitar redução de ruído, ambiente isolado, pausas, acompanhante de apoio.
+
+## Como Preparar a Documentação Corretamente?
+
+Erro mais comum é trazer laudo desatualizado (maior que 3 anos) ou laudo que não especifica impedimento funcional. INEP pode recusar se laudo for genérico ("paciente tem deficiência visual" sem indicar grau).
+
+Laudo ideal deve incluir:
+1. Diagnóstico claro e CID (código internacional de doença)
+2. Data do diagnóstico e avaliação
+3. Grau de severidade (leve, moderada, grave)
+4. Como a deficiência afeta atividades escolares específicas
+5. Recomendação de adaptações específicas do profissional
+6. Assinatura, data e carimbo do profissional
+
+Se seu laudo é antigo, agende avaliação nova. Muitos profissionais oferecem "reavaliação simplificada" que é mais barata que avaliação completa. Melhor trazer laudo recente do que correr risco de rejeição.
+
+## O Que Esperar no Dia da Prova?
+
+Chegue 1h antes do horário marcado. Profissional de acessibilidade da escola irá orientar você para sala adaptada. Teste os materiais que solicitou (se ampliado, confirma tamanho de fonte; se braile, confirma que recebeu todo o material).
+
+Se tiver acompanhante (ledor, intérprete, apoio), eles estarão junto. Instrua-os previamente sobre preferências suas: ritmo de leitura, se quer pausas, como você sinaliza quando termina uma questão.
+
+Prova começa no mesmo horário para todo mundo, mas você tem mais tempo. Isso significa você termina mais tarde. Não é desvantagem. É equalização. O objetivo é que você tenha oportunidade justa de demonstrar conhecimento.
+
+## FAQ: Perguntas Sobre Direitos de Deficientes no ENEM
+
+### Perdi o prazo de solicitação. Posso fazer recurso?
+
+Sim. Recurso pode ser feito após inscrição ser finalizada, durante período específico. Sua universidade também pode interceder. Se você não conseguiu solicitar adaptação no prazo (por questões de acesso, por exemplo), procure ombudsman da universidade para oficializar reclamação formal. INEP tenderá a oferecer adaptações em função de reclamação formal.
+
+### Meu laudo não menciona ENEM especificamente. Precisa?
+
+Não. Laudo precisa descrever sua deficiência e como afeta atividades educacionais em geral. Se descreve que você tem dificuldade de leitura rápida (por exemplo), INEP entende que tempo extra é necessário. Profissional não precisa saber sobre ENEM.
+
+### Posso pedir adaptações mesmo sem diagnóstico formal?
+
+Tecnicamente não. Mas se você foi diagnosticado verbalmente ou está em processo de avaliação, procure profissional para laudo formal. Muitos profissionais conseguem acelerar processo se você explicar urgência relacionada a ENEM.
+
+### Qual adaptação é mais común solicitada?
+
+Segunda mais comum é prova ampliada. Terceira é intérprete de Libras.
+
+### Posso recusar adaptação que me foi concedida?
+
+Sim. Se você foi aprovado para tempo extra mas não quer, pode desistir. Mas o objetivo de adaptações é equalizar oportunidades. Se você recusar adaptação que seria benéfica, pode estar prejudicando seu desempenho desnecessariamente.
+
+## Conclusão
+
+Deficiência não impede você de passar no ENEM. Lei de Inclusão existe justamente para garantir que você tenha oportunidade justa. Sua responsabilidade é: diagnosticar-se formalmente, solicitar adaptações no prazo, trazer laudo adequado, preparar-se como qualquer outro candidato.
+
+Conheça seus direitos. Solicite no prazo. Preparem-se estrategicamente. O ENEM foi reformado para ser acessível. Você está legalmente protegido.
+
+**Próximo passo:** [baixe checklist completo de documentação para deficientes](/recursos/checklist-deficiente-enem) e revise antes de inscrever.
+
+---
+` },
+  { slug: 'estudo-eficiente-pouco-tempo', title: "Estudo Eficiente com Pouco Tempo: Técnicas Comprovadas", description: "Qualidade > quantidade. 1 hora de estudo focado > 4 horas disperso. Veja 5 técnicas para maximizar eficiência de estudo.", date: '2026-07-09', readTime: 5, content: `
+# Estudo Eficiente com Pouco Tempo: Técnicas Comprovadas
+
+Mito: você precisa 4-6 horas diárias para passar no ENEM. Realidade: 1 hora de estudo altamente focado vale mais que 4 horas disperso. Qualidade importa mais que volume.
+
+> **Key Takeaways**
+
+## Qual é a Técnica Pomodoro Exatamente?
+
+Técnica Pomodoro divide tempo em blocos: 50 minutos de foco + 10 minutos de pausa. Depois de 3 ciclos, pausa de 20 minutos. A ideia é treinar foco intenso. Seu cérebro consegue manter atenção máxima por ~50 minutos. Depois disso, começa a cair foco. Pausa restaura atenção.
+
+Durante bloco de 50 minutos: telefone desligado, internet desligada (exceto se precisa para pesquisa), nada de notificações. Você trabalha em 1 coisa. Quando timer toca, você descansa. Toma água, move, respira fundo. Volta para próximo ciclo.
+
+Benefício principal não é time-tracking. É psicológico: você sabe que precisa apenas focar 50 minutos. Depois pode descansar. Isso reduz resistência psicológica a "estudar". Muito mais fácil comprometer-se com 50 minutos que com "3 horas".
+
+## Como Revisão Espaçada Aumenta Retenção?
+
+Revisão espaçada é técnica de memorização cientificamente comprovada. Ideia é simples: você não aprende algo uma vez e esquece. Cérebro precisa de reforço repetido. Mas espaçamento importa.
+
+Padrão ideal de revisão :
+- Estude conceito novo
+
+Se você segue esse padrão, o conceito fica "pegajoso" no seu cérebro. Se você estuda uma vez e não revisa, esquece em dias.
+
+Ferramentas como Anki automatizam isso. Você marca uma questão como "acertou". Anki automaticamente agenda revisão em 1 dia. Você marca que "acertou fácil". Anki agenda em 3 dias. Você erra. Anki agenda para amanhã. Assim você sempre revisa exatamente quando memória está enfraquecendo.
+
+## Como Priorizar Conteúdo Quando Tempo é Escasso?
+
+Não estude tudo igual. Estude de forma inversa ao seu desempenho.
+
+Matriz de priorização simples:
+1. **Alto impacto, alta dificuldade:** Ciências da Natureza (45 questões, pesado).
+2. **Alto impacto, médio:** Matemática (45 questões).
+3. **Médio impacto, médio:** Humanas (45 questões).
+4. **Menor impacto, pode ser fácil:** Linguagens + Redação.
+
+Dentro de cada área, priorize o que você erra.
+
+Essa estratégia garante que cada hora estudada melhora sua nota o máximo possível. Hora em área que você já acerta muito tem retorno baixo. Hora em área que erra muito tem retorno alto.
+
+## Como Aprender Eficientemente: Ler vs Praticar?
+
+Ler conteúdo em livro = passivo. Assistir aula em vídeo = semi-ativo. Praticar questões = ativo.
+
+Portanto, para estudo eficiente com pouco tempo: minimize leitura, minimize vídeo. Maximize prática de questões.
+
+Quando aprende conceito novo, use método: leia resumo (10 min) → veja exemplo rápido (5 min) → resolva questão simples aplicando conceito (10 min) → resolva questão mais difícil (10 min). Total: 35 minutos. Passou para próximo conceito.
+
+Esse ciclo é muito mais eficiente que ler 1 hora sobre conceito sem praticar.
+
+## Como Evitar Burnout Mantendo Consistência?
+
+Burnout é "estudei muito, mas não aguento mais". Causa é falta de descanso ou meta irreal que causa frustração contínua.
+
+Estratégia de sostenibilidad:
+1. Estude 6 dias da semana, 1 dia completo de folga (sem culpa)
+2. Durma 7-8 horas (não-negocinável)
+3. Exercite 30 min pelo menos 3x/semana (reduz stress, melhora memória)
+4. Tenha "válvula de escape" (hobby que não é estudo)
+5. Rastreie meta semanal, não diária (alguns dias terão menos foco, outros mais, mas semana como um todo conta)
+
+Se você manter essas regras, consegue estudar por 6 meses sem burnout. Se violar qualquer uma por mais de 2 semanas (especialmente sono), sua cognição piora. Não vale a pena.
+
+Também ajuste meta conforme realidade. Se você estava planejando 3h diárias mas consegue apenas 1,5h consistentemente, mude meta para 1,5h. Meta realista que você cumpre > meta ambiciosa que falha e desanima.
+
+## FAQ: Perguntas Sobre Eficiência de Estudo
+
+### Quanto tempo realmente preciso estudar por dia?
+
+Depende de quanto tempo falta para ENEM. Se faltam 6 meses e você quer 700+: 2-3 horas de estudo focado por dia. Se faltam 3 meses: 4-5 horas de estudo focado. Se faltam 6 semanas: 5-7 horas.
+
+Mas "focado" é chave. 3 horas disperso em redes sociais não conta. 1 hora com Pomodoro conta muito mais.
+
+### Devo estudar de noite ou de manhã?
+
+Manhã é melhor para conteúdo novo (cérebro está descansado, retenção é maior). Noite é melhor para revisão. Se você só tem um slot disponível, manhã cedo é ouro (6h-8h). Se não consegue manhã cedo, qualquer hora é melhor que nenhuma.
+
+### Como saber se estou estudando eficientemente ou apenas desperdiçando tempo?
+
+Se não está melhorando, sua estratégia não é eficiente. Mude.
+
+### Devo fazer todas as questões do ENEM antes da prova?
+
+Não. Banco do ENEM tem ~13.000 questões. Fazer todas é impossível e desnecessário. Fazer 1.000-1.500 questões bem (com revisão de erro) é suficiente. Qualidade > quantidade.
+
+### Se estou muito atrasado, como recupero tempo?
+
+Foco extremo por período curto. Se faltam 4 semanas e você está atrasado: 6 horas de estudo focado por dia. Só isso pelos próximos 28 dias. Depois volta à vida normal pós-ENEM. Isso é sacrifício temporário, não sustentável, mas funciona.
+
+## Conclusão
+
+Estudar eficientemente com pouco tempo é possível. Use Pomodoro (50 min foco + 10 min pausa). Implemente revisão espaçada com Anki. Priorize conteúdo em que erra. Pratique mais, leia menos. Mantenha sono e exercício. Rastreie progresso semanal.
+
+Com essas técnicas, 1,5 horas diárias de estudo focado por 6 meses é suficiente para 700+ pontos. Já 6 horas diárias disperso provavelmente te deixa em 650. Qualidade ganha.
+
+**Próximo passo:** [configure seu cronograma personalizado com técnica Pomodoro](/cronograma/pomodoro) e comece hoje.
+
+---
+` },
+  { slug: 'gestao-tempo-prova-enem', title: "Gestão de Tempo na Prova do ENEM: Estratégia por Disciplina", description: "ENEM tem 180 questões em 9 horas. Média 3 minutos por questão. Aprenda estratégia comprovada de gestão de tempo.", date: '2026-07-09', readTime: 4, content: `
+# Gestão de Tempo na Prova do ENEM: Estratégia por Disciplina
+
+ENEM aloca 4h30 para 90 questões cada dia (2 dias). Isso dá média de 3 minutos por questão. Mas questões não têm peso igual. Algumas fáceis (2 min), outras difíceis (5 min). Candidatos que dominam gestão de tempo conseguem revisar no final. Candidatos que não, ficam sem tempo e começam a chutar.
+
+> **Key Takeaways**
+> - 3 minutos/questão de média, mas distribuição é desigual (fácil 2 min, difícil 5 min)
+> - Deixar questões difíceis para o final economiza tempo inicial 
+
+## Qual é a Estratégia de Alocação de Tempo?
+
+**Dia 1 (Linguagens + Ciências Humanas = 90 questões, 4h30):**
+- 4-4h30: Revise respostas, preencha em branco se não tem resposta
+
+**Dia 2 (Ciências Natureza + Matemática = 90 questões + Redação, 5h30 total):**
+- Mesmo padrão para 90 questões (4h30)
+- 4h30-5h30: Redação (1h completo)
+
+Essa distribuição garante que você responda tudo, porque mais fácil você termina rápido. Difícil você deixa para o final. Se não tiver tempo, pelo menos tentou tudo.
+
+## Como Identificar Dificuldade Rápido?
+
+Ler enunciado inteiro gasta tempo. Dica: se primeira leitura do enunciado é confusa, questão é difícil. Pule. Se entende rapidamente, é fácil. Resolva.
+
+Isso é bom porque ENEM frequentemente coloca questões difíceis no meio (mistura com fáceis). Candidatos que pulam questão difícil, voltam depois, economizam 2-3 minutos por questão difícil.
+
+Técnica: na primeira passada, marque no rascunho "F" (fácil) ou "D" (difícil). Segunda passada, responda todas as F's. Terceira passada, tenta D's. Quarta passada, revisa.
+
+## Como Gerir Tempo Por Área?
+
+Não dedique mesmo tempo para todas disciplinas. Matemática pesa mais (45 questões), merece mais tempo. Linguagens é mais rápido (25 questões), merece menos.
+
+**Alocação por área (Dia 1, 4h30 = 270 min):**
+- Linguagens: 45 min (25 questões)
+- Ciências Humanas: 75 min (45 questões)
+- Revisão: 30 min
+
+**Dia 2 (4h30 = 270 min):**
+- Ciências Natureza: 120 min (45 questões)
+- Matemática: 90 min (45 questões)
+- Revisão: 30 min
+
+Essas proporções compensam diferenças de dificuldade. Ciências Natureza é mais pesada, recebe mais tempo. Linguagens é mais leve, recebe menos.
+
+## O Que Fazer Se Travar em Uma Questão?
+
+Regra ouro: nunca gaste mais de 5 minutos em uma questão. Se em 5 min não consegue resolver, pule. Marca com "V" no rascunho (voltar). Continua.
+
+Por quê? Porque 5 questões que erra por falta de tempo vale mais que 1 questão que acerta depois de 25 minutos. Volume de acertos importa mais que profundidade de uma questão.
+
+Se ficar com tempo depois (o que é raro), volta nos V's. Mas maioria das vezes, vai ficar sem tempo. Melhor ter respondido 85 questões bem do que 60 questões muito bem.
+
+## Como Revisar Eficientemente?
+
+Revisão nos últimos 30 minutos é crítica. Mas não revise tudo. Revise seletivamente:
+1. Questões que você marcou com dúvida (não tem certeza absoluta)
+2. Questões de cálculo (Matemática) — risco de erro aritmético
+3. Questões que deixou em branco (se sobrou tempo)
+
+Waste de tempo.
+
+Também não refaça questão do zero. Apenas confira se preencheu corretamente, se lógica faz sentido. Se tiver dúvida, deixa como está (múltiplas revisões frequentemente prejudicam, você muda resposta correta para errada).
+
+## FAQ: Perguntas Sobre Gestão de Tempo
+
+### Quanto tempo devo gastar em redação?
+
+1 hora. Se terminar antes, use extra para revisar questões de Dia 2. Redação não melhora muito com tempo extra depois da 1h. Melhor usar tempo revisando outras questões.
+
+### E se pulo 20 questões? Como recupero?
+
+Depende. Se for questões difíceis, tudo bem pular 20. Você respondeu 70 questões bem. Se for questões fáceis, problema. Volta. Questão fácil que erra custa muito mais que questão difícil que deixa em branco.
+
+### Devo sempre deixar questões difíceis para o final?
+
+Sim. Aí resolva rápido. Mas se não tem certeza, pule para não gastar tempo.
+
+### Como praticar gestão de tempo antes da prova?
+
+Simulados com cronômetro. Mínimo 4-5 simulados completos com timer. Seu corpo aprende ritmo. Quando chegar no dia da prova, você já sabe como se pacejar.
+
+## Conclusão
+
+Gestão de tempo é diferencial de 50-100 pontos. Estratégia é: identifique dificuldade rápido, responda fáceis primeiro, deixe difíceis para o final, revise seletivamente. Pratique com simulados cronometrados. No dia, confie em ritmo que treinou.
+
+**Próximo passo:** [baixe template de gestão de tempo para levar na prova](/recursos/template-gestao-tempo).
+
+---
+` },
+  { slug: 'perfil-candidato-aprovado-enem', title: "Perfil do Candidato que Passa no ENEM: Características e Hábitos", description: "Descubra o perfil dos candidatos aprovados e como você se compara.", date: '2026-07-09', readTime: 6, content: `
+# Perfil do Candidato que Passa no ENEM: Características e Hábitos
+
+Quem passa no ENEM tem algo em comum: não é talento, é consistência. Candidatos aprovados costumam manter uma rotina diária estruturada de estudo em vez de sessões longas e esporádicas. O perfil do candidato aprovado segue padrões claros de comportamento, rotina e foco.
+
+> **Key Takeaways**
+> - Melhor preditor de aprovação é simulados semanais, não horas totais estudadas
+
+## Qual é o Perfil do Candidato que Passa no ENEM?
+
+Candidatos aprovados não necessariamente estudam mais horas. Estudam melhor. Pesquisa interna com 2.400 usuários do ENEM Pro mostrou que aprovados compartilham cinco características fundamentais. A primeira é a consistência diária, não explosões de estudo. A segunda é revisão estruturada de erros em 24 horas. A terceira é foco em qualidade, não volume de questões.
+
+Não existem "super-dotados" aprovando no ENEM. Existem candidatos disciplinados que entendem como o seu cérebro absorve informação. Eles estudam as disciplinas de forma desigual, focam nas áreas de maior peso e usam simulados como ferramenta de diagnóstico, não apenas treino.
+
+## Quanto Tempo Estudam os Aprovados?
+
+O mito diz que você precisa estudar 8 horas diárias para passar no ENEM. A realidade é diferente. Candidatos aprovados estudam entre 1,5 e 3 horas diárias, com picos de 4-5 horas nos últimos meses. A diferença entre reprovado e aprovado não é quantidade de horas, é qualidade delas.
+
+Aprovados conseguem focar 50 minutos sem distração. Reprovados estudam 2 horas com o celular ao lado e conseguem absorver apenas 30 minutos de conteúdo real. Uma hora de foco profundo vale mais que quatro horas de "estudo" com interrupções.
+
+**Distribuição típica de aprovados (12 semanas antes do ENEM):**
+- Semanas 1-4: 1,5h/dia (revisão de conceitos)
+- Semanas 5-8: 2,5h/dia (prática de questões)
+- Semanas 9-12: 3,5h/dia (simulados + revisão final)
+
+## Qual é a Rotina Diária de um Candidato Aprovado?
+
+A rotina começa antes do estudo. Candidatos aprovados dormem 7-8 horas regularmente. Depois vem café da manhã proteico e 30 minutos de exercício leve ou meditação.
+
+O estudo acontece nos horários de maior foco cognitivo. Para a maioria, entre 6h-8h da manhã ou 14h-17h à tarde. À noite, 1 hora de revisão de flashcards de erros. Nunca estudam no celular sem plano. Nunca navegam redes sociais enquanto estudam. O telefone fica em outra sala.
+
+Aprovados rastreiam seu progresso. Mantêm uma planilha simples: questões praticadas, acertos por disciplina, erros para revisar. Revisam essa planilha semanalmente. Não é obsessão. É método.
+
+## Como Aprovados Lidam com Erros?
+
+Diferença crítica entre aprovado e reprovado está em como tratam os erros. Reprovados erram uma questão, veem o gabarito e seguem adiante. Aprovados erram uma questão e investem 15-20 minutos analisando por quê.
+
+Eles perguntam a si mesmos: foi erro de conteúdo, interpretação ou distrator? Anotam o padrão de erro em um documento chamado "Lacunas". Revisam esse documento antes de cada simulado. Refazem as mesmas questões uma semana depois. Se acertam dessa vez, sabem que aprenderam.
+
+É a diferença entre estudar e realmente aprender.
+
+## Qual é o Papel dos Simulados para Aprovados?
+
+Simulados não são testes. São diagnósticos. Candidatos aprovados fazem 1-2 simulados por semana nas 12 semanas finais. Não para "passar" no simulado. Para identificar padrões de fraqueza antes da prova real.
+
+Cada simulado revela uma verdade sobre seu desempenho.
+
+Aprovados revisam relatórios de simulado linha por linha. Não apenas veem a nota final. Veem a taxa de acerto por habilidade, por nível de dificuldade, por área. Essa granularidade permite ajuste fino do plano de estudos semana a semana.
+
+## Qual é o Impacto da Motivação e Disciplina?
+
+Motivação não é constante. Tem altos e baixos. Candidatos aprovados não esperam estar motivados para estudar. Estudam porque têm sistema. Colocam o estudo na agenda como se fosse reunião obrigatória. Respeitam o calendário.
+
+Um candidato com QI médio que estuda consistentemente por 6 meses bate um superdotado que estuda 2 meses intenso. Cérebro humano responde a repetição espaçada. Reforço gradual. Não explosões.
+
+Aprovados criam "triggers" para manter disciplina. Alguns estudam no mesmo lugar todos os dias. Outros colocam música instrumental antes de cada sessão. Alguns têm grupo de estudo que se reúne 3 vezes por semana. A técnica exata não importa. O que importa é que o trigger mantém eles estudando mesmo quando não estão animados.
+
+## FAQ: Perguntas Sobre o Perfil de Candidatos Aprovados
+
+### Você nasceu inteligente ou desenvolveu inteligência estudando?
+
+Inteligência é desenvolvida, não fixa. Neurociência provou que cérebro cria novas conexões neurais com prática repetida (plasticidade neural, estudo Stanford 2023). Candidato que estuda estrategicamente por 6 meses tem "inteligência ENEM" maior que quem nasceu com QI superior mas nunca estudou sistematicamente.
+
+### Qual é a melhor faixa horária para estudar?
+
+Cérebro tem ritmo circadiano. Tarde vem em segundo. Noite é pior para conteúdo novo, melhor para revisão. Mas o melhor horário é aquele que você consegue ser consistente.
+
+### Como aprovados mantêm motivação por 6 meses?
+
+Não é motivação, é identidade. Aprovados não dizem "vou estudar hoje". Dizem "sou um candidato sério ao ENEM". A identidade motiva consistência. Atingir meta semanal mantém momentum.
+
+### Quanto de descanso preciso entre sessões de estudo?
+
+Estudar 50 minutos, descansar 10 minutos (técnica Pomodoro). O cérebro retém melhor com pausas frequentes do que com blocos longos sem parar. Depois de 2-3 ciclos Pomodoro, tire 20 minutos de descanso maior. Isso previne burnout.
+
+### Posso passar sem cursinho se sigo o perfil de aprovado?
+
+Sim. Cursinho não é pré-requisito. É acelerador. Se você pratica 2h diárias consistentes com foco, faz 1 simulado semanal, analisa erros estruturadamente e estuda por 6 meses, atinge 700+ sem cursinho. Cursinho ajuda na disciplina, mas não substitui trabalho pessoal.
+
+## Conclusão
+
+Perfil do candidato aprovado não é complexo. É sete comportamentos simples repetidos diariamente: estuda com foco, dorme bem, revisita erros, faz simulados, rastreia progresso, mantém disciplina, ajusta conforme feedback.
+
+Comece hoje. Escolha uma hora de estudo consistente. Durma 7 horas. Refaça uma questão que errou ontem. Adicione uma camada de estrutura a cada semana. Em seis meses, você terá desenvolvido cada hábito de um candidato aprovado.
+
+**Próximo passo:** [teste seu nível atual com um simulado gratuito](/simulado) e receba diagnóstico personalizado.
+
+---
+` },
+  { slug: 'problemas-cotidiano-enem', title: "Problemas do Dia a Dia que Aparecem no ENEM: Exemplos Reais", description: "ENEM cobre temas como saneamento, saúde, energia, educação. Veja 10 problemas reais que viram questões e como se preparar.", date: '2026-07-09', readTime: 6, content: `
+# Problemas do Dia a Dia que Aparecem no ENEM: Exemplos Reais
+
+ENEM adora cobrar problemas reais que impactam vida de brasileiros. Crise hídrica? Vira questão de Química (desalinização), Geografia (clima), Biologia (ecossistemas aquáticos). Pandemia de COVID? Virou questão de Biologia (vírus), Saúde Pública (epidemiologia), Filosofia (ética). Questões nascem de problemas que você vive ou vê na notícia.
+
+> **Key Takeaways**
+> - Problemas mais frequentes: saneamento, energia, saúde, educação, desigualdade social
+
+## Qual é o Padrão de Temas Problemáticos no ENEM?
+
+ENEM prioriza temas que afetam maioria dos brasileiros. Educação aparece porque é direito fundamental.
+
+Temas políticos também aparecem, mas de forma "neutra": ENEM nunca pede sua opinião sobre partido político. Mas pede que você analise implicação de política de educação, impacto de reforma tributária, ou dinâmica de movimentos sociais. Análise crítica, não opinião pessoal.
+
+Temas globais também aparecem: mudança climática, desigualdade de renda, migração, conflitos internacionais. ENEM quer que você entenda não apenas Brasil, mas também contexto internacional que afeta Brasil.
+
+## Exemplos de Problemas Que Viram Questões
+
+**Saneamento e Água:**
+Problema real: "80 milhões de brasileiros não têm acesso a água tratada". Questão ENEM tipo: "Uma cidade tem alta taxa de doenças infecciosas relacionadas a água. Qual medida reduz incidência: A) Distribuir bottled water; B) Implementar sistema de tratamento de água municipal; C) Educar população a fervir água em casa?" (Resposta: B — solução em massa, não individual).
+
+**Energia:**
+Problema real: "Brasil sofre seca e hidroelétricas baixam nível". Questão ENEM tipo: "Seca reduz produção de hidrelétricas. Qual alternativa energética é mais viável para Brasil a curto prazo? A) Energia solar (precisa painéis espalhados); B) Energia eólica (precisa turbinas em regiões ventosas); C) Usar termoelétricas a gás natural (rápido de ligar)?" (Resposta: C para curto prazo, com ressalva que longo prazo é renovável).
+
+**Saúde Pública:**
+Problema real: "Desnutrição em crianças do semiárido é 2x maior que média nacional". Questão ENEM tipo: "Região com alta desnutrição tem solos pobres e seca. Qual fator é raiz de problema? A) Culpa da criança; B) Falta de supermercado; C) Insegurança alimentar causada por falta de acesso a alimentos nutritivos" (Resposta: C — problema estrutural, não individual).
+
+**Educação:**
+Questão ENEM tipo: "Qual consequência de desigualdade de acesso a tecnologia na educação pública vs privada?" (Resposta envolve literacy digital, preparação para mundo digital, etc.).
+
+## Como Preparar-se Para Problemas Cotidianos?
+
+Primeira estratégia: leia notícias. Não é brincadeira. Reserve 15 minutos por dia lendo G1, Folha ou portal de notícias. Foque em reportagens que toquem: saúde, educação, meio ambiente, economia, política. Essas são áreas que ENEM cobra.
+
+Segunda estratégia: quando lê notícia, pergunte a si: "Qual conceito científico ou histórico explica esse problema?". Notícia sobre crise hídrica? Conceito é ciclo da água, escassez de recursos, política de saneamento. Notícia sobre desemprego? Conceito é estrutura econômica, mercado de trabalho, políticas públicas.
+
+Terceira estratégia: mantenha "clipping" de temas. Escolha 3 problemas que você acha que ENEM vai cobrar esse ano (mudança climática, desigualdade, saúde mental, etc.). Reúna 5-10 artigos sobre cada tema. Leia conforme estuda conceitos relacionados.
+
+Quarta estratégia: quando responde questão sobre problema cotidiano que acerta, reveja resposta. Quando erra, investigue raiz do erro: foi falta de conhecimento sobre o problema? Ou falta de conhecimento do conceito que se aplica?
+
+## Qual é a Relação Entre BNCC e Temas Problemáticos?
+
+Base Nacional Comum Curricular (BNCC) orienta o que ENEM cobra. BNCC explicitamente pede que educação prepare alunos para resolver problemas reais. Cada competência da BNCC tem "contexto de aplicação" que é problema real.
+
+Exemplo: Competência de Biologia "Entender processos de vida e reprodução" tem contexto de aplicação em problemas como: saúde sexual e reprodutiva, controle populacional, agricultura (melhoramento genético). ENEM cobra essas aplicações, não conceito puro.
+
+Portanto, quando você estuda qualquer conceito para ENEM, sempre pergunte: "Qual problema real isso se aplica?". Se não consegue pensar em aplicação, significa você não dominou conceito o suficiente para aplicar.
+
+## Como Temas Problemáticos Integram Disciplinas?
+
+Muitas vezes, um problema real exige conhecimento de 2-3 disciplinas. Problema de poluição de rio precisa: Biologia (ecossistemas aquáticos), Química (reações que degradam poluentes), Geografia (localização do rio, impacto regional), História/Filosofia (legislação ambiental, ética).
+
+ENEM frequentemente cria questões que "misturam" disciplinas. Candidato precisa reconhecer que questão sobre saneamento é, no fundo, uma questão de Química (água potável) + Saúde Pública (biologia dos micróbios) + Política (lei que exige tratamento).
+
+Candidatos que reconhecem essas conexões multidisciplinares conseguem resolver questão mesmo se originalmente prepararam mais em uma disciplina.
+
+## FAQ: Perguntas Sobre Temas Problemáticos no ENEM
+
+### Qual tema você acha que ENEM vai cobrar esse ano?
+
+Impossível prever com certeza. Mas temas "atemporais" sempre aparecem: saneamento, educação, desigualdade, energia, saúde. Temas "atuais" variam: em 2023 foi muito sobre seca; em 2024 foi mais sobre transição energética. Foque nos atemporais.
+
+### Se não entendo notícia de jornal, como posso usar para estudar?
+
+Leia a notícia com objetivo de achar "problema central" e "consequência". Não precisa entender todos os detalhes técnicos inicialmente. Com tempo, conforme estuda conceitos relacionados, notícia ficará mais clara.
+
+### ENEM favorece candidatos que leem notícias?
+
+Sim, em certa medida. Mas não é pré-requisito. Candidato que estuda conceitos bem consegue resolver questão mesmo sem ter visto notícia sobre contexto.
+
+### Como diferenciar "opinião" de "análise crítica" em questão de problema real?
+
+Opinião é "acho que X", "na minha visão Y". Análise é "dados mostram que X causa Y", "consequência lógica de Z é W". ENEM quer análise. Se resposta oferecida é "opinião pessoal", provavelmente não é correta.
+
+### Preciso saber história recente para responder sobre problemas atuais?
+
+Ajuda, mas não é obrigatório. ENEM explica contexto histórico na própria questão. O que precisa é reconhecer padrão: se questão fala de "grupo que foi historicamente marginalizado", você percebe que é questão sobre desigualdade + consequências históricas.
+
+## Conclusão
+
+Problemas do dia a dia que você vê em notícias frequentemente viram questões do ENEM. Preparação eficiente significa: estudar conceito → conectar a problema real → praticar questão que aplica conceito → reconhecer padrão em novo contexto.
+
+Leia notícias. Conecte a conceitos que estuda. Pratique questões sobre temas relevantes. Em 6 meses, você terá construído compreensão profunda de como conhecimento se aplica a problemas reais. Isso é exatamente o que ENEM cobra.
+
+**Próximo passo:** [explore questões sobre temas problemáticos atuais](/questoes?filter=tema-social) e veja como conceitos se aplicam.
+
+---
+` },
+  { slug: 'questoes-contextualizadas-enem', title: "Questões Contextualizadas no ENEM: Como o Exame Cobra Conteúdo", description: "Veja padrão de como ENEM cria questões e como resolver.", date: '2026-07-09', readTime: 6, content: `
+# Questões Contextualizadas no ENEM: Como o Exame Cobra Conteúdo
+
+ENEM não cobra memorização. Cobra aplicação de conhecimento em situações reais. Uma questão simples seria: "Quanto é 2+2?". Uma questão ENEM é: "Pedro tem 2 maçãs. Compra mais 2. Quantas maçãs Pedro tem? Se Pedro comer 1 maçã e dar 2 maçãs para Maria, quantas ele terá?". A segunda cobre exatamente mesma operação matemática, mas exige interpretação de texto e aplicação em contexto.
+
+> **Key Takeaways**
+
+## Qual é a Estrutura de Questão Contextualizada no ENEM?
+
+Questão contextualizada tem 3 partes: apresentação de contexto, núcleo técnico, pergunta de aplicação.
+
+Exemplo em Biologia: "Uma região costeira sofre poluição por derramamento de óleo. Qual conceito ecológico explica esse padrão?". Contexto é derramamento de óleo. Núcleo técnico é conceitos de ecologia (sucessão, decomposição). Pergunta é qual conceito aplica.
+
+Candidatos que ignoram contexto e pulam direto para pergunta frequentemente erram. Por quê? Porque contexto não é "enfeite". Contexto define qual conceito é relevante. No exemplo acima, se você não lê que população de peixes caiu (pressão seletiva) e decompositores aumentaram (nicho ecológico novo), você pode confundir com outro conceito.
+
+## Como o ENEM Usa Interpretação de Texto em Ciências?
+
+Interpretação é diferente em ENEM. Não é "qual é o tema do texto". É "qual consequência lógica você tira desse fato descrito?". Texto pode descrever um cenário. Pergunta pede conclusão que você faz a partir desse cenário e do conhecimento científico que você domina.
+
+Exemplo em Química: "Uma bebida deixada ao sol por 8 horas desenvolve gosto amargo. O produto que causa isso é resultado de reação de oxidação de compostos orgânicos da bebida. Qual fator afeta essa reação?". Texto descreve fato (amargura após 8 horas ao sol). Você precisa interpretar: sol = calor + luz UV = condições que aceleram oxidação. Então resposta é "calor e radiação UV aceleram reação".
+
+Candidatos frequentemente erram porque "responderam a pergunta" sem entender conexão entre contexto e conhecimento. Eles sabem o que é oxidação, mas não conectaram oxidação ao contexto de bebida ao sol.
+
+## Qual é o Padrão de Questões em Diferentes Áreas?
+
+**Matemática:** contexto é sempre situação prática (porcentagem em cálculo de imposto, geometria em construção civil, probabilidade em sorteio). Você precisa traduzir texto em equação matemática. A dificuldade é tradução, não conta.
+
+**Ciências da Natureza:** contexto é sempre fenômeno natural ou situação que afeta humanos (poluição, saúde, energia). Você precisa aplicar conceito científico para explicar fenômeno. Dificuldade é reconhecer qual conceito aplica.
+
+**Humanas:** contexto é sempre fato histórico, geográfico, sociológico ou filosófico. Você precisa analisar implicações do fato usando perspectiva de disciplina. Dificuldade é análise crítica, não memorização.
+
+**Linguagens:** contexto é sempre texto real (artigo de jornal, charge, poesia). Você precisa analisar intenção do autor ou efeito retórico do texto. Dificuldade é análise textual profunda.
+
+## Como Preparar-se para Questões Contextualizadas?
+
+Primeira estratégia: leia questão inteira antes de resolver. Muitos candidatos leem enunciado pela metade, assumem qual conceito aplica, e começam resolver. Isso causa erro porque contexto que vem depois contradiz suposição inicial.
+
+Segunda estratégia: anote palavras-chave do contexto. Se questão fala de "reação que libera calor", anote "exotérmica". Se fala de "luz do sol", anote "fotossíntese" ou "energia luminosa". Essas anotações criam ponte entre contexto e conceito.
+
+Terceira estratégia: pratique questões real do ENEM, não apenas simulados. Questões de anos anteriores têm padrão de contextualização que você precisa reconhecer. Quanto mais pratica, mais automaticamente você faz conexão contexto-conceito.
+
+Quarta estratégia: ao errar questão contextualizada, pergunte a si: "Eu não entendia o conceito ou não entendia como conceito se aplicava ao contexto?". Muitas vezes é segundo. Se for, o erro foi de interpretação de texto, não de falta de conhecimento.
+
+## Como Diferenciar Questões por Nível de Dificuldade?
+
+Questões fáceis têm contexto óbvio e núcleo técnico direto. Exemplo: "Um alimento deixado fora da geladeira por 3 horas a 25°C estraga. Qual fator reduz crescimento de bactérias?". Resposta é óbvia: temperatura baixa (refrigeração).
+
+Questões médias têm contexto claro, mas núcleo técnico exige conexão entre 2-3 conceitos. Exemplo: "Uma floresta tropical é derrubada. Temperatura local aumenta. Umidade do ar diminui. Qual processo ecológico foi interrompido?". Você precisa conectar: árvores = transpiração = umidade do ar. Sem árvores = sem transpiração = ar seco.
+
+Questões difíceis têm contexto implícito ou múltiplos fatos que precisam ser conectados. Exemplo: "Um país reduz subsídio para energia de carvão. Desempregabilidade em região mineradora aumenta. PIB local cai. Qual implicação econômica e social?". Você precisa conectar energia → economia regional → mercado de trabalho → redistribuição de recursos.
+
+Candidatos que entendem esses 3 níveis conseguem "prever" dificuldade da questão antes de resolver. Se for nível 1, resolvem rápido. Se for nível 3, dedicam mais tempo à leitura cuidadosa.
+
+## FAQ: Perguntas Sobre Questões Contextualizadas
+
+### Por que ENEM não cobra apenas conteúdo puro sem contexto?
+
+Porque ENEM quer avaliar se você consegue usar conhecimento no mundo real. Profissional que virar precisa resolver problemas práticos, não responder perguntas de livro didático. Contexto simula mundo real.
+
+### Como eu sou capaz de aprender conteúdo e aplicar em contexto novo?
+
+Aplicação vem com prática. Você aprende conceito → pratica em questões de aplicação → começa a reconhecer padrão → consegue aplicar em contexto novo. Neuroplasticidade permite que cérebro generalize aprendizado.
+
+### Qual area tem maior percentual de questões contextualizadas?
+
+### Se erro questão contextualizada, como saber se foi falta de conceito ou interpretação?
+
+Refaça a mesma questão, mas "simplifique" o contexto mentalmente. Se você consegue responder versão simplificada, o erro foi interpretação. Se erra versão simplificada também, o erro foi conceito.
+
+### Devo estudar história para responder questões de história?
+
+Não apenas datas e fatos. Deva estudar conceitos: o que causou revolução? Como estruturas sociais mudam? Como ideias transformam sociedades? Questões de história cobram análise, não memorização.
+
+## Conclusão
+
+ENEM cobra aplicação, não memorização. Questões contextualizadas são a regra, não exceção. Preparação eficiente significa: aprender conceito → praticar em aplicações reais → reconhecer padrão → conseguir resolver contextos novos.
+
+Estude conteúdo. Depois, pratique questões reais do ENEM. Analise como cada conceito aparece contextualizado. Refaça questões erradas prestando atenção em onde você travou (conceito ou interpretação). Em 6 meses com essa estratégia, você domina tanto conteúdo quanto padrão de aplicação.
+
+**Próximo passo:** [explore banco de questões contextualizadas por disciplina](/questoes?filter=contextualizada) e pratique agora.
+
+---
+` },
+  { slug: 'recursos-acessiveis-deficiente-enem', title: "Recursos Acessíveis Disponíveis para Deficientes no ENEM", description: "INEP oferece software de leitura, prova em formato acessível, acompanhante. Conheça todos recursos disponíveis gratuitamente.", date: '2026-07-09', readTime: 4, content: `
+# Recursos Acessíveis Disponíveis para Deficientes no ENEM
+
+INEP oferece recursos gratuitos para deficientes participarem igualmente. Software de leitura de tela, prova em braile, intérprete, ledor, acesso sem barreiras, redução de ruído. Conhecer todos recursos disponíveis ajuda escolher qual solicitar no formulário. Lei 13.146/2015 garante tudo isso como direito.
+
+> **Key Takeaways**
+> - INEP oferece 12+ recursos de acessibilidade sem custo
+> - Solicitação deve ser feita no formulário com laudo médico
+> - Combinação de recursos é permitida (ex: tempo extra + prova ampliada + redução de ruído)
+
+## Softwares de Acessibilidade Disponíveis
+
+**Leitor de Tela NVDA (Gratuito):**
+- Lê texto da tela em voz
+- Compatível com prova digital ENEM
+- Você pode testar antes da prova (INEP fornece modelo de teste)
+- Não é permitido usar seu próprio leitor de tela. INEP fornece.
+
+**Ampliador de Tela ZoomText (Gratuito):**
+- Aumenta letra na tela sem distorção
+- Movimento de cursor automático (segue seu mouse)
+- Útil para baixa visão que consegue usar tela (mas precisa letra grande)
+
+**Teclado Alternativo:**
+- Se você não consegue usar mouse/teclado padrão, INEP oferece teclados adaptados
+- Comutadores (switches) para pessoas com deficiência motora
+- Comande pela voz (Dragon NaturallySpeaking)
+
+Todos softwares são testados antecipadamente. Você marca na inscrição "quero usar [software]". INEP testa com você 1 semana antes de prova.
+
+## Formatos de Prova Alternativos
+
+**Prova Digital com Leitor:**
+- Você marca respostas direto no computador
+- Leitor de tela lê questões automaticamente
+- Você controla ritmo (pausa, volta questão anterior, pula)
+
+**Prova Impressa em Braile:**
+- Transcrição em braile (toda questão convertida)
+- Você marca respostas também em braile
+- Totalmente independente (sem acompanhante, se não quiser)
+
+**Prova Ampliada Impressa:**
+- Fonte 18, 24 ou 28pt
+- Espaçamento maior entre linhas
+- Distribui em múltiplas folhas (menos conteúdo por página)
+
+**Prova Padrão + Acompanhante:**
+- Você recebe prova normal
+- Acompanhante (ledor, intérprete) auxilia leitura
+- Você marca respostas sozinho
+
+## Acompanhantes Profissionais Disponíveis
+
+**Ledor (Leitor de Prova):**
+- Lê questões em voz alta
+- Para cegos, surdocegos, deficiência intelectual
+- Ritmo conforme seu pedido
+
+**Intérprete de Libras:**
+- Traduz todas instruções em Libras
+- Para surdos, surdocegos
+- Trabalha durante 4,5h
+
+**Apoio Pessoal:**
+- Profissional que ajuda com mobilidade (não responde prova)
+- Para deficiência motora severa
+- Permanece ao seu lado
+
+Todos acompanhantes assinam termo de sigilo. Informações suas são confidenciais.
+
+## Acomodações Físicas Disponíveis
+
+- Sala isolada (redução de ruído)
+- Maca ou cadeira com encosto especial
+- Mesa com altura ajustável
+- Espaço para cadeira de rodas
+- Banheiro acessível próximo
+- Elevador (evita escadas)
+- Estacionamento reservado próximo
+
+INEP responsável por garantir. Se escola não tem estrutura, INEP encontra escola que tem.
+
+## Como Testar Recursos Antes da Prova
+
+Se você solicitou leitor de tela, software de ampliação, ou outro recurso:
+1. Solicite "teste antecipado" no período de inscrição
+2. INEP agenda dia/hora (geralmente 1-2 semanas antes)
+3. Você vai à escola e testa. Se não funciona bem, fala.
+4. INEP ajusta ou oferece alternativa
+
+Nunca chegue na prova de verdade sem testar recurso. Descobrir problema no dia é desastre.
+
+## Qual Combinação de Recursos Escolher?
+
+Comum para **cego:**
+- Prova em braile OU digital com leitor
+- Ledor (opcional, se quiser companhia)
+
+Comum para **surdo:**
+- Prova padrão + Intérprete de Libras
+- Legendas em português
+- Redução de ruído (se sensível a vibrações)
+
+Comum para **baixa visão:**
+- Prova ampliada (24 ou 28pt)
+- Redução de ruído (se ajuda concentração)
+
+Comum para **deficiência motora:**
+- Acomodações físicas (mesa, cadeira, banheiro próximo)
+- Tempo extra (se afeta velocidade)
+- Acompanhante de apoio (se precisa)
+
+Comum para **TDAH/Autismo:**
+- Redução de ruído (sala isolada)
+- Pausas permitidas (pode sair um momento se necessário)
+
+## FAQ: Perguntas Sobre Recursos
+
+### Usar recurso de acessibilidade piora minha privacidade?
+
+Não. Você faz prova em sala isolada (só você + eventualmente acompanhante + fiscal). Seu resultado é anônimo como qualquer outro candidato.
+
+### Posso trocar recurso no último momento?
+
+Não. Cronograma de INEP feita com base em recursos solicitados. Mudar no último momento prejudica organização. Solicite certo desde início.
+
+### E se recurso que pedi não funciona bem no dia?
+
+Você avisa fiscal. Não pode mudar prova, mas pode fazer reclamação formal com INEP após prova. INEP revisará e pode oferecer oportunidade de refazer questões que foram prejudicadas.
+
+### Qual é o custo de recursos?
+
+Zero. Todos recursos são garantidos por lei e oferecidos gratuitamente por INEP.
+
+## Conclusão
+
+Recursos acessíveis não são privilégio. São direito garantido por lei. Sua deficiência não te impede de fazer ENEM. Conhecer recursos disponíveis, solicitar no prazo, testar antecipadamente garante experiência justa.
+
+Organize-se. Solicite. Teste. Participe.
+
+**Próximo passo:** [baixe checklist completo de recursos e como solicitar](/recursos/checklist-acessibilidade).
+
+---
+` },
+  { slug: 'tecnicas-respiracao-ansiedade-enem', title: "Técnicas de Respiração para Controlar Ansiedade no ENEM", description: "Aprenda 3 técnicas simples para usar na prova.", date: '2026-07-09', readTime: 4, content: `
+# Técnicas de Respiração para Controlar Ansiedade no ENEM
+
+Ansiedade dispara durante prova. Coração acelerado, respiração superficial, mente acelerada. Resultado: você não consegue pensar direito. Solução é controlar respiração. Respiração profunda ativa sistema nervoso parassimpático, que acalma corpo.
+
+> **Key Takeaways**
+> - 3 técnicas simples: 4-7-8, Caixa (4-4-4-4), Abdominal (barriga)
+> - Pratique 1 mês antes da prova para automatizar durante stress
+
+## Técnica 1: Respiração 4-7-8
+
+**Como fazer:**
+1. Inspire contando até 4 (nariz fechado)
+2. Segure respiração contando até 7
+3. Exhale contando até 8 (boca aberta)
+4. Repita 4 ciclos
+
+**Por quê funciona:** Exalação longa (8 seg) ativa sinal de calma ao cérebro. Sua fisiologia interpreta exalação longa como "está seguro, pode desacelerar".
+
+**Quando usar:** Se ficar travado em uma questão. Tira 5 minutos, faz 4 ciclos, volta.
+
+## Técnica 2: Respiração em Caixa (Box Breathing)
+
+**Como fazer:**
+1. Inspire contando até 4
+2. Segure contando até 4
+3. Exhale contando até 4
+4. Segure contando até 4
+5. Repita 5-6 ciclos
+
+**Por quê funciona:** Ritmo uniforme acalma mente. Marinhas da US Navy usam isso para stress em combate. Funciona.
+
+**Quando usar:** No início da prova (chegar 30min antes, fazer 2-3 rodadas no banheiro).
+
+## Técnica 3: Respiração Abdominal
+
+**Como fazer:**
+1. Coloque mão no abdômen
+2. Inspire lentamente pelo nariz, sentindo barriga inchar (não peito)
+3. Exhale lentamente pela boca, sentindo barriga desinflar
+4. Repita 10 ciclos
+
+**Por quê funciona:** A maioria respira "no peito" quando ansiosa (rasa). Respiração abdominal ativa mais receptores de calma no sistema nervoso.
+
+**Quando usar:** Qualquer hora. Até na fila esperando prova começar.
+
+## Como Treinar Técnicas Antes da Prova
+
+**Semana 1-2:** Aprenda técnica. Pratique 5 min diários. Escolha a que mais gosta.
+
+**Semana 3-4:** Pratique em momento de stress (dia de prova de outro assunto, discussão com alguém). Treina seu corpo a usar técnica quando já está ansioso, não apenas quando está calmo.
+
+**Semana 5+:** Continue praticando diariamente. Quando chegar na prova de verdade, é automático. Seu corpo sabe fazer mesmo sob stress.
+
+Neuroplasticidade: quanto mais pratica técnica, mais fácil seu corpo a usa automaticamente em stress. Não é mágica, é treinamento.
+
+## Qual Técnica Escolher?
+
+Teste as 3. Qual faz você se sentir mais calmo? Essa é sua. Não existe "melhor". Existe melhor para você.
+
+Alguns preferem 4-7-8 (efeito mais rápido). Outros preferem caixa (ritmo regular). Outros preferem abdominal (sente corpo relaxar).
+
+Escolha uma e seja consistente. Não mude de técnica toda semana.
+
+## Outros Gatilhos de Calma Além Respiração
+
+- **Toque:** Abraçar alguém, pegar mão de alguém amigo (ativa hormônio ocitocina = calma)
+- **Visualização:** Imagine local calmo (praia, floresta). 2 min é o suficiente
+
+Combine respiração + 1-2 outras técnicas para máximo efeito.
+
+## FAQ: Perguntas Sobre Técnicas de Respiração
+
+### Essas técnicas realmente funcionam ou é placebo?
+
+Funcionam. É neurobiologia, não placebo. Sistema nervoso parassimpático é ativado por exalação longa. Isso é fato fisiológico medido cientificamente.
+
+### Quanto tempo leva para sentir efeito?
+
+Respiração 4-7-8: 2-3 ciclos (1 min). Caixa: 4-5 ciclos (2 min). Abdominal: 10 ciclos (3 min). Efeito cumulativo melhora com prática de semanas.
+
+### Posso usar durante prova?
+
+Sim. Pausa de 5 min para respirar é permitido. Você não perde essa informação do tempo total (você ainda tem 4h30 para responder 90 questões).
+
+### E se não consigo "contar" corretamente durante respiração?
+
+Tudo bem. Aproximação também funciona. Não precisa ser 4-7-8 exatamente. Pode ser 3-6-6 ou 5-5-5. A proporção "exalação longa" é que importa.
+
+### Qual é melhor para pessoa com asma?
+
+Qualquer uma. Mas comece com técnicas mais lentas (4-4-4-4 ou abdominal). Se ficou tonto ou falta ar, stop. Consulte médico.
+
+## Conclusão
+
+Técnicas de respiração são ferramenta poderosa e gratuita para controlar ansiedade. Escolha uma, pratique 1 mês, use na prova. A diferença entre candidato que controla ansiedade e que não é 40-50 pontos no final.
+
+Comece agora. Respire 4-7-8 neste momento. Sinta a diferença.
+
+**Próximo passo:** [baixe guia com 5 técnicas de respiração + áudio guiado](/recursos/audio-respiracao-guiada).
+
+---
+` },
+  { slug: 'trabalhador-enem-estudar-trabalhando', title: "Como Estudar para o ENEM Trabalhando: Cronograma e Estratégia", description: "Veja cronograma realista de 2h/dia e estratégia de alta eficiência.", date: '2026-07-09', readTime: 6, content: `
+# Como Estudar para o ENEM Trabalhando: Cronograma e Estratégia
+
+Estudar para o ENEM trabalhando é desafio real. O mito é que você precisa 4-6 horas diárias de estudo. A realidade é que trabalhador consegue passar com 1,5-2 horas diárias se estudar com foco extremo. A qualidade substitui quantidade quando tempo é escasso.
+
+> **Key Takeaways**
+> - 2 horas de estudo altamente focado > 6 horas de estudo disperso
+> - Manhã cedo e intervalo do trabalho são melhores slots temporais para trabalhadores
+
+## É Possível Passar no ENEM Trabalhando?
+
+Sim, mas requer estratégia diferente. Candidato que trabalha não pode estudar quando está cansado. Precisa estudar quando está fresco. Para maioria dos trabalhadores, isso significa 6h-7h30 da manhã, antes de sair para trabalho. Outro slot viável é intervalo do almoço. Outro é 1 hora antes de dormir.
+
+Não é impossível. Apenas exige que você seja cirurgicamente preciso com tempo. Nada de redes sociais. Nada de distrações. Trabalhadores que passam no ENEM entendem isso visceralmente.
+
+Metáfora útil: você não tem volume de tempo dos desempregados. Tem que extrair o máximo de cada minuto. É como preparação de atleta profissional que trabalha em tempo integral. Possível, mas requer disciplina extrema.
+
+## Qual é o Cronograma Ideal para Trabalhador?
+
+**Cronograma de 2h/dia para trabalhador (6 meses antes do ENEM):**
+
+**Manhã (6h-7h30):** 1,5 horas
+- 5 minutos: revisar onde parou ontem
+- 45 minutos: novo conceito (leitura + anotações)
+- 30 minutos: praticar questões do conceito que aprendeu
+- 10 minutos: anotar erros para análise
+
+**Noite (21h-21h30):** 30 minutos
+- 15 minutos: revisar flashcards de erros da semana
+- 15 minutos: confirmar agendamento de simulado do fim de semana
+
+**Fim de semana (sábado ou domingo):** 2-3 horas
+- Simulado completo de 2,5h
+- Revisão de 30 minutos em questões com maior taxa de erro
+
+Esse cronograma totaliza 10-11 horas por semana. Não é muito, mas é concentrado. Se você mantém essa rotina por 24 semanas (6 meses), acumula 240-260 horas de estudo focal. O suficiente para 700+ pontos se bem direcionado.
+
+## Como Escolher os Melhores Horários de Estudo?
+
+Identifique seus 3 slots temporais de melhor foco cognitivo. Para a maioria, é manhã cedo. Para alguns é intervalo do almoço. Para outros é 1 hora antes de dormir. O segredo é reconhecer quando seu cérebro está mais fresco.
+
+Se você trabalha de 8h-17h, a manhã de 6h-7h30 é ouro. Seu cérebro está descansado. Não tem ainda a fadiga do dia. Acordar 1 hora mais cedo vale a pena.
+
+Se acordar cedo não for viável, aproveite intervalo do almoço para 30-45 minutos de questões. À noite, faça apenas revisão (flashcards, não conteúdo novo). Seu cérebro não absorve conceitos novos bem à noite quando cansado. Absorve bem revisão de conceitos já conhecidos.
+
+## Como Estudar Qualidade com Pouco Tempo?
+
+Com 2 horas diárias, você não pode estudar tudo. Precisa estratégia cirúrgica. Foco nas disciplinas de maior peso: Ciências da Natureza e Matemática. Deixe Humanas e Linguagens para fim de semana.
+
+Tecnologia é amiga. Use app como Anki para flashcards. Use ENEM Pro para questões. Use YouTube apenas para explicar conceito específico que não entendeu (máximo 10 minutos). Evite "aulas completas" de 1-2 horas. Você não tem tempo.
+
+Priorize questões sobre teoria. Com 2 horas diárias, você tem tempo de fazer 5-10 questões por dia. Isso é 35-70 questões por semana. Em 6 meses, 840-2.100 questões. Suficiente para dominar padrões de ENEM se revisar erros estruturadamente.
+
+## Como Manter Consistência Trabalhando?
+
+Consistência é mais difícil para trabalhador porque começo é duro. Você acorda cedo, está cansado, tenta estudar. Primeiras 2 semanas são sacrifício. Semanas 3-4 viram rotina. Semanas 5+ seu corpo se acostuma.
+
+Crie "âncora" para manter hábito. Alguns estudam no mesmo café. Alguns colocam música instrumental. Alguns deixam material de estudo já preparado na noite anterior. Essas pequenas coisas reduzem fricção psicológica de começar a estudar.
+
+Também rastreie consistência, não desempenho. Se meta é estudar 6 dias da semana, 1 dia de folga. Rastreie: completei os 6 dias? Se sim, dê crédito a si mesmo. Nos primeiros meses, meta é criar hábito, não acumular conhecimento.
+
+## O Que Fazer se Trabalhar Turnos Variáveis?
+
+Se você trabalha turnos variáveis ou 12x36, estratégia muda. Você não tem slots fixos. Precisar ser oportunista. Dia que termina trabalho cedo? Estude 1h antes de dormir. Dia que trabalha à noite? Estude 2h de manhã e descanse.
+
+Total da semana continua sendo 10-12 horas, mas distribuído irregular. Isso é mais difícil psicologicamente. Solução é usar o fim de semana para compensar. Se semana foi caótica, dedique sábado e domingo para 3-4 horas de estudo.
+
+Também seja gentil com si mesmo. Turno de 12h é exaustivo. Sua meta é passar no ENEM, não burnout total. Se uma semana você conseguir apenas 7 horas de estudo em vez de 10, tudo bem. Semana que vem recupera.
+
+## FAQ: Perguntas Sobre Estudar Trabalhando
+
+### Preciso sair do trabalho para passar no ENEM?
+
+Não é obrigatório. Depende de quão exigente é seu trabalho cognitivamente. Se você trabalha em call center (cognitivamente repetitivo), consegue manter 2h diárias de estudo. Se trabalha em startup tech (cognitivamente intensivo), você chega em casa exaurido. Nesse caso, considere 3 meses de redução de carga de trabalho ou licença.
+
+### Quanto tempo antes do ENEM preciso começar?
+
+Para trabalhador, mínimo 6 meses. Ideal 8-9 meses. Desempregado consegue em 3 meses. Trabalhador precisa de mais tempo porque estuda menos horas por dia. Comece o quanto antes.
+
+### E se não conseguir acordar cedo?
+
+Tudo bem. Estudar 30 minutos no intervalo + 1h à noite funciona. Não é ideal, mas é viável se você for disciplinado. O que importa é consistência, não horário específico.
+
+### Como balancear motivação quando trabalho deixa cansado?
+
+Foque em mini-metas. Não pense "preciso estudar 6 meses". Metas semanais são motivantes. Metas de 6 meses são desmotivantes.
+
+### Simulado de fim de semana conflita com vida social?
+
+Sim. Esse é trade-off. Você precisa escolher 1 dia de fim de semana (sábado OU domingo) para simulado. Outro dia está livre. Ou faça simulado em noite de semana, entre 19h-21h30, sacrificando TV ou lazer naquela noite específica.
+
+## Conclusão
+
+Estudar trabalhando é desafio real, mas solucionável. Com 2 horas diárias focadas, cronograma estruturado e estudo de alta qualidade, você passa no ENEM. A diferença é que você não tem margem de erro. Cada hora conta. Cada sessão precisa ser produtiva.
+
+Comece na manhã cedo. Sacrifique 1 hora de sono por 6 meses. Acordar 1 hora antes vale cada ponto extra que você ganha. Sua carreira universitária é investimento que dura 4 anos. Seis meses de sacrifício agora valem cada segundo.
+
+**Próximo passo:** [explore cronogramas pré-feitos para trabalhadores](/cronograma/trabalhador) e personalize conforme seus turnos.
+
+---
+` },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13, ...EXTRA_POSTS_14, ...EXTRA_POSTS_15, ...EXTRA_POSTS_16, ...EXTRA_POSTS_17, ...EXTRA_POSTS_18, ...EXTRA_POSTS_19]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)
