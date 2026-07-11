@@ -61950,48 +61950,35 @@ Não diretamente. A banca avalia a qualidade, não a quantidade. Porém, textos 
 ]
 
 export const EXTRA_POSTS_18: BlogPost[] = [
-  { slug: 'como-passar-em-medicina-federal-no-enem', title: "Como Passar em Medicina Federal no ENEM: Nota de Corte e Estratégia Completa", description: "Medicina federal exige 700+ no ENEM. Veja estratégia comprovada, distribuição de tempo por disciplina, e nota de corte 2025 por universidade.", date: '2026-06-29', readTime: 5, content: `
+  { slug: 'como-passar-em-medicina-federal-no-enem', title: "Como Passar em Medicina Federal no ENEM: Nota de Corte e Estratégia Completa", description: "Medicina federal está entre os cursos mais concorridos do Sisu, com notas de corte tipicamente acima de 750 pontos. Veja estratégia de estudo, TRI e redação.", date: '2026-06-29', readTime: 6, content: `
 # Como Passar em Medicina Federal no ENEM: Nota de Corte e Estratégia Completa
 
-Medicina federal é o curso mais disputado do ENEM. Em 2025, a nota de corte mínima para medicina federal ficou entre **700 e 760 pontos**, conforme a universidade — mas para disputar as melhores federais (USP, UNICAMP, UFMG), você precisa de **730+ pontos**.
+Medicina federal está entre os cursos mais disputados do Sisu no Brasil inteiro. Em ampla concorrência, as federais mais competitivas costumam exigir notas de corte bem acima de 750 pontos — para federais regionais menos concorridas, o corte tende a ficar um pouco mais baixo, embora ainda alto.
 
 > **Key Takeaways**
-> - Medicina federal exige 700-760 pontos, com média de 730 para as top 5 universidades
-> - Ciências da Natureza é a disciplina de maior peso — estude 40% do tempo aqui
-> - Simulados semanais ajudam a reduzir a ansiedade e a melhorar a familiaridade com o formato da prova
+> - Medicina em federais via Sisu costuma exigir notas de corte bem acima de 750 pontos em ampla concorrência
+> - USP e Unicamp não participam do Sisu — usam vestibular próprio (Fuvest e Comvest)
 
 ## Qual é a Nota de Corte para Medicina em 2026?
 
-A nota de corte do SISU não é fixa — ela é determinada pela concorrência e desempenho dos candidatos a cada edição. Com base em dados históricos de 2023-2025, as federais mais concorridas exigem:
+A nota de corte do Sisu não é fixa — ela é determinada pela concorrência e desempenho dos candidatos a cada edição, e varia bastante entre ampla concorrência e as diferentes modalidades de cota (que costumam ficar bem abaixo da ampla). Duas armadilhas comuns:
 
-| Universidade | Estado | Nota de Corte Estimada 2026 |
-|---|---|---|
-| USP | SP | 735–760 |
-| UNICAMP | SP | 720–745 |
-| UFMG | MG | 710–735 |
-| UFRJ | RJ | 705–730 |
-| UFRGS | RS | 700–720 |
-| UnB | DF | 695–715 |
-| UFPR | PR | 685–705 |
-| UFC | CE | 680–700 |
+1. **USP e Unicamp não usam Sisu.** USP seleciona por Fuvest, Unicamp por Comvest. Se seu plano é uma dessas duas, sua preparação e calendário são diferentes do Sisu.
+2. **Notas de corte mudam a cada edição.** Não confie em uma tabela fixa — consulte o número oficial mais recente diretamente no portal do Sisu ou no site da universidade antes de definir sua meta.
 
-A diferença entre passar e ficar de fora é frequentemente **5-10 pontos**. Por isso, otimizar seu desempenho em cada disciplina é crítico — especialmente em Ciências da Natureza, que pesa mais na maioria das universidades.
+Como referência de ordem de grandeza: nas federais mais concorridas (UFRJ, UFMG, UFRGS, entre outras), a ampla concorrência para Medicina costuma ficar na faixa de 750-825 pontos; federais menos concorridas tendem a ficar um pouco abaixo disso. Trate esses números como ponto de partida para sua meta, não como garantia.
 
 ## Distribuição de Tempo por Disciplina
 
-Estude as 4 disciplinas de forma desigual. Ciências da Natureza (Biologia, Física, Química) representa 45 questões das 180 totais — e é onde mais gente erra.
+Estude as 4 áreas de forma desigual. Ciências da Natureza (Biologia, Física, Química) representa 45 das 180 questões totais — e costuma ser onde mais candidatos de Medicina erram, por isso merece proporcionalmente mais horas de estudo nas 12 semanas finais.
 
 **Distribuição recomendada (12 semanas):**
+- Ciências da Natureza: maior fatia do tempo semanal, por ser a área mais pesada e mais decisiva para o corte de Medicina
+- Matemática: segunda maior fatia, com foco em resolução rápida de questões
+- Humanas e Linguagens: fatia menor, priorizando revisão de questões erradas em vez de releitura de conteúdo
+- Redação: pelo menos 1 sessão semanal dedicada, já que pesa igual às outras disciplinas no Sisu
 
-- **Ciências da Natureza:** 40% do tempo (4,8 semanas)
-- **Matemática:** 25% do tempo (3 semanas)
-- **Linguagens e Redação:** 20% do tempo (2,4 semanas)
-- **Ciências Humanas:** 15% do tempo (1,8 semanas)
-
-Dentro de Ciências da Natureza, focar em:
-- **Biologia (35%)** — ecologia, genética, corpo humano
-- **Química (35%)** — estequiometria, termoquímica, reações orgânicas
-- **Física (30%)** — eletromagnetismo, termodinâmica
+Dentro de Ciências da Natureza, dê prioridade extra aos tópicos em que você mais erra nos simulados — não distribua o tempo igualmente entre Biologia, Física e Química se seu desempenho nelas for desigual.
 
 ## Como o TRI Impacta Sua Nota Final
 
@@ -62018,11 +62005,11 @@ Medicina exige redação impecável. A nota de redação varia de 0-1000, com pe
 - Deixar espaço em branco
 - Argumentos genéricos ("é importante porque...")
 
-Pratique uma redação por semana. Envie para correção por professores ou plataformas de IA — feedback semanal muda sua nota de 700 para 900 em 8 semanas (observação ENEM Pro, 2025).
+Pratique uma redação por semana. Envie para correção por professores ou plataformas de IA — o feedback semanal consistente costuma ser o que mais rápido eleva a nota de redação ao longo de algumas semanas de prática.
 
 ## Simulados: A Arma Secreta
 
-Estudar teoria é necessário, mas **simulados semanais aumentam sua nota em 45-60 pontos** em 8 semanas. Simulados funcionam porque:
+Simulados funcionam porque:
 
 1. **Treina resistência mental** — ENEM são 4h30 de prova
 2. **Identifica padrões de erro** — você descobre se erra Química ou Biologia
@@ -62037,19 +62024,19 @@ Estudar teoria é necessário, mas **simulados semanais aumentam sua nota em 45-
 
 ### Qual nota de corte garantida para medicina federal?
 
-Não existe nota "garantida" — a concorrência muda a cada ano. Mas **730 pontos é seguro para medicina em universidades de segunda tier (UFPR, UFC, UnB)**. Para USP/UNICAMP, aponte para **750+** (Dados históricos SiSU 2023-2025).
+Não existe nota "garantida" — a concorrência muda a cada ano e por modalidade de vaga. Trate a faixa de 750-825 pontos como referência para federais concorridas em ampla concorrência, mas confirme o número oficial mais recente no Sisu antes de fixar sua meta.
 
-### Posso passar em medicina com 700 pontos?
+### Posso passar em medicina com nota mais baixa que a média das federais mais concorridas?
 
-Sim, mas apenas em federais menos concorridas (UFERSA, UFPI, UFRB). Se quer UFMG ou UFRJ, 700 é risco — busque 720+.
+Sim, em federais menos concorridas ou por cotas, onde o corte costuma ficar bem abaixo da ampla concorrência das federais top. Se sua meta é uma federal de alta concorrência, vale mirar acima da faixa de referência para ter margem de segurança.
 
 ### Quanto tempo preciso estudar para passar?
 
-**Mínimo 3 meses** de estudo intenso (6h/dia). Ideal: **6 meses** (4-5h/dia) para atingir 730+. Comece 6 meses antes do ENEM.
+Estudo intenso por pelo menos 3 meses (com várias horas diárias) já ajuda bastante, mas o ideal é começar com 6 meses de antecedência, com uma rotina diária sustentável em vez de um sprint final de última hora.
 
 ### Qual disciplina é mais importante para medicina?
 
-Biologia (28% das questões de Ciências da Natureza) tem o maior volume. Mas Física e Química são tão importantes — errar 10 questões de Química derruba sua nota 50-70 pontos.
+Ciências da Natureza costuma pesar mais na maioria das universidades e é onde os candidatos de Medicina mais erram — por isso, dentro do seu tempo de estudo, ela merece prioridade sobre as demais áreas, sem abandonar Matemática e Redação.
 
 ### Devo fazer cursinho para passar em medicina?
 
@@ -62058,10 +62045,10 @@ Não é obrigatório. Simulados online + revisão de questões antigas + redaç�
 ## Conclusão
 
 Passar em medicina federal no ENEM exige:
-1. **730+ pontos** (mínimo para top 5 federais)
-2. **Foco em Ciências da Natureza** (40% do seu tempo)
+1. **Nota alta e consistente** (mire bem acima da faixa de referência de 750-825 se sua meta é uma federal de alta concorrência)
+2. **Domínio forte em Ciências da Natureza** (a área que mais pesa e mais derruba candidatos de Medicina)
 3. **Prática com simulados** (1-2 por semana nas últimas 12 semanas)
-4. **Redação impecável** (900+ pontos = diferencial)
+4. **Redação impecável** (900+ pontos é um diferencial real)
 
 Comece hoje. Faça seu primeiro simulado esta semana. Revise as questões que errou. Repita. Em 12 semanas, você estará pronto.
 
@@ -62539,6 +62526,9 @@ Conheça cada opção. Escolha a que melhor funciona para você. Pratique com ma
 Ansiedade antes do ENEM é universal. A questão não é eliminar ansiedade. É canalizá-la para foco produtivo.
 
 > **Key Takeaways**
+> - A meta não é zero ansiedade, é ansiedade canalizada em energia produtiva
+> - Respiração, exercício físico, meditação e simulados regulares reduzem ansiedade de forma comprovada
+> - Simulados aumentam ansiedade no curto prazo, mas reduzem drasticamente no longo prazo
 
 ## O que Causa Ansiedade no ENEM?
 
@@ -62962,6 +62952,9 @@ Conheça seus direitos. Solicite no prazo. Preparem-se estrategicamente. O ENEM 
 Mito: você precisa 4-6 horas diárias para passar no ENEM. Realidade: 1 hora de estudo altamente focado vale mais que 4 horas disperso. Qualidade importa mais que volume.
 
 > **Key Takeaways**
+> - Estudo focado em blocos (tipo Pomodoro) supera horas dispersas de estudo
+> - Revisão espaçada e priorização por disciplina que você mais erra maximizam retorno por hora
+> - Sono, exercício e uma folga semanal evitam o burnout que derruba a consistência
 
 ## Qual é a Técnica Pomodoro Exatamente?
 
@@ -62975,8 +62968,11 @@ Benefício principal não é time-tracking. É psicológico: você sabe que prec
 
 Revisão espaçada é técnica de memorização cientificamente comprovada. Ideia é simples: você não aprende algo uma vez e esquece. Cérebro precisa de reforço repetido. Mas espaçamento importa.
 
-Padrão ideal de revisão :
-- Estude conceito novo
+Padrão ideal de revisão:
+- Estude o conceito novo
+- Revise 1 dia depois
+- Revise novamente 3 dias depois
+- Revise novamente 7 dias depois, e depois em intervalos cada vez maiores
 
 Se você segue esse padrão, o conceito fica "pegajoso" no seu cérebro. Se você estuda uma vez e não revisa, esquece em dias.
 
@@ -63327,6 +63323,9 @@ Leia notícias. Conecte a conceitos que estuda. Pratique questões sobre temas r
 ENEM não cobra memorização. Cobra aplicação de conhecimento em situações reais. Uma questão simples seria: "Quanto é 2+2?". Uma questão ENEM é: "Pedro tem 2 maçãs. Compra mais 2. Quantas maçãs Pedro tem? Se Pedro comer 1 maçã e dar 2 maçãs para Maria, quantas ele terá?". A segunda cobre exatamente mesma operação matemática, mas exige interpretação de texto e aplicação em contexto.
 
 > **Key Takeaways**
+> - Toda questão contextualizada tem 3 partes: contexto, núcleo técnico e pergunta de aplicação
+> - Errar geralmente vem de má interpretação do contexto, não de falta de conhecimento do conceito
+> - O padrão de contextualização muda por área: Matemática traduz texto em equação, Humanas cobra análise crítica
 
 ## Qual é a Estrutura de Questão Contextualizada no ENEM?
 
@@ -63384,7 +63383,9 @@ Porque ENEM quer avaliar se você consegue usar conhecimento no mundo real. Prof
 
 Aplicação vem com prática. Você aprende conceito → pratica em questões de aplicação → começa a reconhecer padrão → consegue aplicar em contexto novo. Neuroplasticidade permite que cérebro generalize aprendizado.
 
-### Qual area tem maior percentual de questões contextualizadas?
+### Qual área tem maior percentual de questões contextualizadas?
+
+Ciências da Natureza e Ciências Humanas tendem a ter a maior proporção de questões fortemente contextualizadas, já que quase sempre partem de um fenômeno real ou situação social para chegar ao conceito. Matemática também usa muito contexto prático, mas a etapa final costuma exigir cálculo direto além da interpretação.
 
 ### Se erro questão contextualizada, como saber se foi falta de conceito ou interpretação?
 
@@ -63549,7 +63550,7 @@ Organize-se. Solicite. Teste. Participe.
 
 ---
 ` },
-  { slug: 'tecnicas-respiracao-ansiedade-enem', title: "Técnicas de Respiração para Controlar Ansiedade no ENEM", description: "Aprenda 3 técnicas simples para usar na prova.", date: '2026-07-09', readTime: 4, content: `
+  { slug: 'tecnicas-respiracao-ansiedade-enem', title: "Técnicas de Respiração para Controlar Ansiedade no ENEM", description: "Aprenda 3 técnicas de respiração (4-7-8, Caixa e Abdominal) para controlar ansiedade no ENEM, quando usar cada uma e como treinar antes da prova.", date: '2026-07-09', readTime: 4, content: `
 # Técnicas de Respiração para Controlar Ansiedade no ENEM
 
 Ansiedade dispara durante prova. Coração acelerado, respiração superficial, mente acelerada. Resultado: você não consegue pensar direito. Solução é controlar respiração. Respiração profunda ativa sistema nervoso parassimpático, que acalma corpo.
