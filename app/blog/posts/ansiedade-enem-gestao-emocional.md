@@ -11,6 +11,9 @@ tags: ["ansiedade", "saúde-mental", "enem-2026", "preparação"]
 Ansiedade antes do ENEM é universal. A questão não é eliminar ansiedade. É canalizá-la para foco produtivo.
 
 > **Key Takeaways**
+> - A meta não é zero ansiedade, é ansiedade canalizada em energia produtiva
+> - Respiração, exercício físico, meditação e simulados regulares reduzem ansiedade de forma comprovada
+> - Simulados aumentam ansiedade no curto prazo, mas reduzem drasticamente no longo prazo
 
 ## O que Causa Ansiedade no ENEM?
 

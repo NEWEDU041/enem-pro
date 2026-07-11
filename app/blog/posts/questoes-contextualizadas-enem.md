@@ -11,6 +11,9 @@ tags: ["questões", "estratégia", "enem-2026", "aplicação"]
 ENEM não cobra memorização. Cobra aplicação de conhecimento em situações reais. Uma questão simples seria: "Quanto é 2+2?". Uma questão ENEM é: "Pedro tem 2 maçãs. Compra mais 2. Quantas maçãs Pedro tem? Se Pedro comer 1 maçã e dar 2 maçãs para Maria, quantas ele terá?". A segunda cobre exatamente mesma operação matemática, mas exige interpretação de texto e aplicação em contexto.
 
 > **Key Takeaways**
+> - Toda questão contextualizada tem 3 partes: contexto, núcleo técnico e pergunta de aplicação
+> - Errar geralmente vem de má interpretação do contexto, não de falta de conhecimento do conceito
+> - O padrão de contextualização muda por área: Matemática traduz texto em equação, Humanas cobra análise crítica
 
 ## Qual é a Estrutura de Questão Contextualizada no ENEM?
 
@@ -68,7 +71,9 @@ Porque ENEM quer avaliar se você consegue usar conhecimento no mundo real. Prof
 
 Aplicação vem com prática. Você aprende conceito → pratica em questões de aplicação → começa a reconhecer padrão → consegue aplicar em contexto novo. Neuroplasticidade permite que cérebro generalize aprendizado.
 
-### Qual area tem maior percentual de questões contextualizadas?
+### Qual área tem maior percentual de questões contextualizadas?
+
+Ciências da Natureza e Ciências Humanas tendem a ter a maior proporção de questões fortemente contextualizadas, já que quase sempre partem de um fenômeno real ou situação social para chegar ao conceito. Matemática também usa muito contexto prático, mas a etapa final costuma exigir cálculo direto além da interpretação.
 
 ### Se erro questão contextualizada, como saber se foi falta de conceito ou interpretação?
 

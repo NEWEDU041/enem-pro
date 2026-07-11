@@ -53,15 +53,15 @@ R: Apenas em Matemática. Ocupam 2-3 das 45 questões. Raramente aparecem na Red
 
 ### H1: Juros Compostos no ENEM: Fórmulas, Exemplos e Estratégias de Resolução
 
-Juros compostos aparecem em 2-3 questões do ENEM todo ano, valendo até 6 pontos em Matemática. Este post mostra que juros é apenas multiplicação repetida. Você consegue. Vamos descomplicar.
+Juros compostos aparece com frequência nas provas de Matemática do ENEM. Este post mostra que juros é apenas multiplicação repetida. Você consegue. Vamos descomplicar.
 
 > **Key Takeaways**
 > - Fórmula: M = C × (1 + i)^t (montante = capital × taxa elevada a tempo)
-> - Juros compostos ganham 2-3 questões por prova (INEP análise 2022-2024)
+> - Juros compostos aparece com frequência nas provas de Matemática do ENEM
 
 ### H2: Como funcionam juros compostos e por que diferem de juros simples?
 
-Juros simples acumula de forma linear. Juros compostos acumula de forma exponencial, gerando mais dinheiro ao final. Após 2 anos, juros simples: R$ 1.200 (200 ganho). Juros compostos: R$ 1.210 (210 ganho). A diferença cresce com o tempo. Após 10 anos, a diferença é R$ 1.359 vs R$ 2.594 (OTAN de Finanças, simulação 2023). Juros compostos é a realidade dos investimentos e dívidas. Por isto o ENEM cobra sempre isto.
+Juros simples acumula de forma linear. Juros compostos acumula de forma exponencial, gerando mais dinheiro ao final. Após 2 anos, juros simples: R$ 1.200 (200 ganho). Juros compostos: R$ 1.210 (210 ganho). A diferença cresce com o tempo, pois compostos incidem também sobre os juros já acumulados. Juros compostos é a realidade dos investimentos e dívidas. Por isto o ENEM cobra sempre isto.
 
 ### H2: Qual é a fórmula de juros compostos e como aplicá-la corretamente?
 
@@ -98,7 +98,7 @@ R: Cada questão: 4-6 minutos (incluindo leitura e cálculo). Se levar mais, pro
 
 ### H1: Redação ENEM Competência 1: Como Não Perder Pontos em Gramática e Norma Culta
 
-Competência 1 (gramática e norma culta) vale até 200 pontos da redação ENEM. Muitos candidatos perdem 80-100 pontos aqui por erros simples e evitáveis. Este post mostra os 10 erros mais comuns e como evitá-los.
+Competência 1 (gramática e norma culta) vale até 200 pontos da redação ENEM. Este post mostra os 10 erros mais comuns e como evitá-los.
 
 > **Key Takeaways**
 > - Concordância verbal e nominal: sujeito e verbo devem concordar em número/pessoa
@@ -123,7 +123,7 @@ Regra de ouro: não coloque vírgula entre sujeito e verbo. Errado: "Os alunos, 
 ### H2: FAQ: Perguntas Frequentes sobre Gramática na Redação ENEM
 
 **P: O ENEM perde pontos por acentuação gráfica errada?**
-R: Sim. Competência 1 inclui norma culta, que envolve acentuação. Erro único: 5-10 pontos perdidos. Múltiplos erros: 40-80 pontos perdidos (análise ENEM 2023). Regra: grave as palavras mais comuns ("êxito", "vício", "estímulo").
+R: Sim. Competência 1 inclui norma culta, que envolve acentuação. Regra: grave as palavras mais comuns ("êxito", "vício", "estímulo").
 
 **P: Pronome relativo "que" e "qual" têm diferenças?**
 R: Sim. "Que" é para informações essenciais; "qual" para informações adicionais (entre vírgulas). Exemplo: "O livro que você leu" (essencial) vs "O livro, o qual você adorou, está aqui" (adicional). Este detalhe perde 10-20 pontos.
@@ -147,11 +147,11 @@ Competência 5 é a mais desafiadora e a mais valorizada: vale até 200 pontos. 
 
 ### H2: Quais são os 5 critérios para uma proposta de intervenção perfeita?
 
-Critério 1: Ação clara e viável (ex: "criar aplicativo" não "melhorar educação"). Critério 2: Agente definido (quem executa: governo, escola, ONG). Critério 4: Finalidade explícita (qual o resultado esperado, qual o impacto na sociedade). Critério 5: Detalhes de execução (onde, quando, como, quanto de tempo/dinheiro). Dados ENEM Pro mostram que propostas com todos 5 critérios ganham média 180-200 pontos. Propostas com 3 ou menos critérios: 100-140 pontos (ENEM Pro análise 2024, 320 redações).
+Critério 1: Ação clara e viável (ex: "criar aplicativo" não "melhorar educação"). Critério 2: Agente definido (quem executa: governo, escola, ONG). Critério 4: Finalidade explícita (qual o resultado esperado, qual o impacto na sociedade). Critério 5: Detalhes de execução (onde, quando, como, quanto de tempo/dinheiro). Propostas que reúnem poucos desses critérios tendem a ficar nos níveis mais baixos da grade de correção da competência.
 
 ### H2: Como estruturar uma ação específica sem ser vaga demais?
 
-Vago: "Melhorar o acesso à educação digital". Específico: "Implementar programa de distribução de tablets com internet 5G para 500 escolas da zona rural até 2026, financiado por parcerias público-privadas e fundo específico de inclusão digital". Vague perde 40-60 pontos. Estratégia: comece vago, depois pergunte "Como exatamente? Onde? Quanto?". Responder estas 3 perguntas gera automaticamente uma proposta específica.
+Vago: "Melhorar o acesso à educação digital". Específico: "Implementar programa de distribução de tablets com internet 5G para 500 escolas da zona rural até 2026, financiado por parcerias público-privadas e fundo específico de inclusão digital". Uma proposta vaga como a primeira compromete seriamente a nota da competência. Estratégia: comece vago, depois pergunte "Como exatamente? Onde? Quanto?". Responder estas 3 perguntas gera automaticamente uma proposta específica.
 
 ### H2: Qual é o papel do agente na proposta de intervenção?
 
@@ -159,7 +159,7 @@ Agente é quem executa a ação. Se o agente é vago ("alguém", "a sociedade"),
 
 ### H2: Como escrever a finalidade de modo que o avaliador entenda o impacto social?
 
-Finalidade é o "por que" da ação. Não é suficiente listar a ação. Explique qual é o efeito esperado na sociedade. Exemplo de finalidade fraca: "Instalar computadores nas escolas". A finalidade forte conecta ação com impacto social mensurável. Isto sobe score de Competência 5 de 120 para 190 pontos automaticamente (observação em 156 redações ENEM Pro, 2024).
+Finalidade é o "por que" da ação. Não é suficiente listar a ação. Explique qual é o efeito esperado na sociedade. Exemplo de finalidade fraca: "Instalar computadores nas escolas". A finalidade forte conecta ação com impacto social mensurável, e é esse elo que costuma elevar a nota da competência de forma consistente.
 
 ### H2: FAQ: Perguntas Frequentes sobre Proposta de Intervenção
 

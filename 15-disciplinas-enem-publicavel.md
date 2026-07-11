@@ -32,17 +32,17 @@ Análise combinatória assusta muitos candidatos, mas é previsível no ENEM. Ce
 - Arranjo (A) quando a ordem importa; combinação (C) quando não importa (INEP curriculum)
 - Permutação é arranjo de todos os elementos: P(n) = n!
 
-## H2-1: Qual é a diferença entre arranjo, combinação e permutação? (CITATION CAPSULE)
+## H2-1: Qual é a diferença entre arranjo, combinação e permutação?
 
 **Answer-first (58 words):**
-Arranjo (A) conta reordenações onde ordem importa; combinação (C) ignora ordem. Permutação (P) arranja todos os elementos. A fórmula de arranjo é A(n,k) = n!/(n-k)!. Combinação usa C(n,k) = n!/(k!(n-k)!). Permutação é P(n) = n! (Professor de Matemática, Curso Objetivo, 2023).
+Arranjo (A) conta reordenações onde ordem importa; combinação (C) ignora ordem. Permutação (P) arranja todos os elementos. A fórmula de arranjo é A(n,k) = n!/(n-k)!. Combinação usa C(n,k) = n!/(k!(n-k)!). Permutação é P(n) = n!.
 
 Exemplo prático: escolher 3 pessoas de 10 para fila (arranjo) é diferente de escolher 3 para comissão (combinação). No arranjo, posição 1, 2, 3 gera resultados distintos. Na combinação, não.
 
-## H2-2: Como identificar se devo usar arranjo ou combinação na prova? (CITATION CAPSULE)
+## H2-2: Como identificar se devo usar arranjo ou combinação na prova?
 
 **Answer-first (55 words):**
-Leia a questão procurando por "ordem". Se diz "fila", "sequência", "senha" ou "código", use arranjo. Se diz "grupo", "seleção", "comissão" ou "time", use combinação (INEP, análise de provas 2022-2024). Permutação aparece quando o texto envolve reorganizar todos os itens.
+Leia a questão procurando por "ordem". Se diz "fila", "sequência", "senha" ou "código", use arranjo. Se diz "grupo", "seleção", "comissão" ou "time", use combinação. Permutação aparece quando o texto envolve reorganizar todos os itens.
 
 Teste esta estratégia: substitua mentalmente os itens. Se trocar A e B gera resultado novo, é arranjo. Se trocar A e B não muda nada, é combinação.
 
@@ -56,9 +56,9 @@ Em problemas com restrições (ex: "o presidente não pode ser mulher"), calcule
 ## H2-4: Qual é a melhor forma de treinar análise combinatória para o ENEM?
 
 **Answer-first (56 words):**
-Comece com permutações simples (P(n) = n!). Depois, arranjos de 2-3 elementos. Por fim, combinações com restrições. Esta progressão funciona porque cada nível reusa lógica anterior (pedagógia de Bloom, adaptada para ENEM por Professores Objetivo 2023). Faça 5-10 questões por dia, não 50 em um dia.
+Comece com permutações simples (P(n) = n!). Depois, arranjos de 2-3 elementos. Por fim, combinações com restrições. Esta progressão funciona porque cada nível reusa a lógica do anterior, construindo intuição gradualmente. Faça 5-10 questões por dia, não 50 em um dia.
 
-Alunos que treina diário ganham média 2,5 pontos extras em matemática. Revise erros imediatamente. Deixar erros "para depois" cria medo desnecessário.
+Treinar diariamente, mesmo poucas questões, consolida os padrões muito mais rápido do que sessões longas e esporádicas. Revise erros imediatamente. Deixar erros "para depois" cria medo desnecessário.
 
 ## H3: Treino Prático: Resolvendo Questões ENEM de Combinatória
 
@@ -73,31 +73,30 @@ R: Sempre. Fatorial é a base de todas as três fórmulas (arranjo, combinação
 R: Sim. Sempre divida por k! depois de calcular arranjo. Uma forma: escreva C(n,k) = A(n,k) / k!. Isto te lembra que combinação é arranjo "encolhido" pela divisão.
 
 **P: Análise combinatória aparece em qual área da prova?**
-R: Apenas em Matemática. Ocupam 2-3 das 45 questões. Raramente aparecem na Redação ou outras disciplinas. Focar aqui garante até 6 pontos extras se dominar bem.
+R: Apenas em Matemática. Aparece em algumas questões a cada prova. Raramente aparece na Redação ou outras disciplinas. Dominar bem o tópico ajuda a garantir esses pontos com consistência.
 
 ---
 
 # POST 2: JUROS COMPOSTOS
 
 ## Meta Description
-Domine juros compostos no ENEM com fórmulas práticas. 3 questões por prova cobram este tema. Aprenda passo a passo como calcular e ganhar pontos. 158 chars.
-
+Domine juros compostos no ENEM com fórmulas práticas. 3 questões por prova cobram este tema. Aprenda passo a passo como calcular e ganhar pontos.
 ## Título H1
 Juros Compostos no ENEM: Fórmulas, Exemplos e Estratégias de Resolução
 
 ## Introdução (115 words)
-Juros compostos aparecem em 2-3 questões do ENEM todo ano, valendo até 6 pontos em Matemática. A fórmula é simples, mas o medo de exponenciais assusta candidatos. Este post mostra que juros é apenas multiplicação repetida. Você consegue. Vamos descomplicar o tópico que mais gera insegurança.
+Juros compostos aparece com frequência nas provas de Matemática do ENEM. A fórmula é simples, mas o medo de exponenciais assusta candidatos. Este post mostra que juros é apenas multiplicação repetida. Você consegue. Vamos descomplicar o tópico que mais gera insegurança.
 
 ## Key Takeaways
 - Fórmula: M = C × (1 + i)^t (montante = capital × taxa elevada a tempo)
-- Juros compostos ganham 2-3 questões por prova (INEP análise 2022-2024)
+- Juros compostos aparece com frequência nas provas de Matemática do ENEM
 
 ## H2-1: Como funcionam juros compostos e por que diferem de juros simples?
 
 **Answer-first (59 words):**
-Juros simples acumula de forma linear. Juros compostos acumula de forma exponencial, gerando mais dinheiro ao final. Após 2 anos, juros simples: R$ 1.200 (200 ganho). Juros compostos: R$ 1.210 (210 ganho). A diferença cresce com o tempo (OTAN de Finanças, simulação 2023).
+Juros simples acumula de forma linear. Juros compostos acumula de forma exponencial, gerando mais dinheiro ao final. Após 2 anos, juros simples: R$ 1.200 (200 ganho). Juros compostos: R$ 1.210 (210 ganho). A diferença cresce com o tempo, pois compostos incidem também sobre os juros já acumulados.
 
-Após 10 anos, a diferença é R$ 1.359 vs R$ 2.594. Juros compostos é a realidade dos investimentos e dívidas. Por isto o ENEM cobra sempre isto.
+Após 10 anos, a diferença fica ainda mais evidente entre os dois modelos. Juros compostos é a realidade dos investimentos e dívidas. Por isto o ENEM cobra sempre isto.
 
 ## H2-2: Qual é a fórmula de juros compostos e como aplicá-la corretamente?
 
@@ -113,7 +112,7 @@ Se há taxa ao ano mas o tempo é em meses, converta a taxa. Fórmula: taxa mens
 ## H2-4: Quais são os erros mais comuns ao resolver problemas de juros compostos?
 
 **Answer-first (58 words):**
-Erro 2: unidades não alinhadas (taxa ao ano, tempo em meses). Erro 3: esquecer de subtrair o capital inicial se a questão pede apenas juros.
+Erro 1: aplicar a fórmula de juros simples em vez da de compostos (ou vice-versa). Erro 2: unidades não alinhadas (taxa ao ano, tempo em meses). Erro 3: esquecer de subtrair o capital inicial se a questão pede apenas juros.
 
 Juros ≠ Montante. J = M - C. Ler enunciado com cuidado é tão importante quanto fazer contas corretas.
 
@@ -127,7 +126,7 @@ O ENEM pede frequentemente: "Qual investimento rende mais?" ou "Qual empréstimo
 R: Raramente. Se aparecer, a questão pede apenas aplicar fórmula com logaritmo já pronto (ex: log 1,10 = 0,0414 é dado).
 
 **P: Como diferir entre capitalização mensal e anual na mesma questão?**
-R: Leia o enunciado. Se diz "Juros capitalizados mensalmente", use i mensal e conte tempo em meses. Se diz "ao ano", use i anual e tempo em anos. O ENEM sempre deixa isto claro (análise de enunciados 2022-2024).
+R: Leia o enunciado. Se diz "Juros capitalizados mensalmente", use i mensal e conte tempo em meses. Se diz "ao ano", use i anual e tempo em anos. O ENEM sempre deixa isto claro.
 
 **P: Quanto tempo devo gastar resolvendo problemas de juros?**
 R: Cada questão: 4-6 minutos (incluindo leitura e cálculo). Se levar mais, provavelmente está se perdendo em conversão de taxa ou decimal.
@@ -137,13 +136,12 @@ R: Cada questão: 4-6 minutos (incluindo leitura e cálculo). Se levar mais, pro
 # POST 3: REDAÇÃO COMPETÊNCIA 1 (GRAMÁTICA)
 
 ## Meta Description
-Domine a Competência 1 da redação ENEM (gramática e norma culta). Entenda os 10 erros que tiram 80 pontos. Score máximo começa aqui. 159 chars.
-
+Domine a Competência 1 da redação ENEM (gramática e norma culta). Entenda os 10 erros que tiram 80 pontos. Score máximo começa aqui.
 ## Título H1
 Redação ENEM Competência 1: Como Não Perder Pontos em Gramática e Norma Culta
 
 ## Introdução (118 words)
-Competência 1 (gramática e norma culta) vale até 200 pontos da redação ENEM. Muitos candidatos perdem 80-100 pontos aqui por erros simples e evitáveis. Este post mostra os 10 erros mais comuns e como evitá-los. Dominar gramática não é difícil, apenas precisa de método claro.
+Competência 1 (gramática e norma culta) vale até 200 pontos da redação ENEM. Este post mostra os 10 erros mais comuns e como evitá-los. Dominar gramática não é difícil, apenas precisa de método claro.
 
 ## Key Takeaways
 - Concordância verbal e nominal: sujeito e verbo devem concordar em número/pessoa
@@ -177,10 +175,10 @@ Regra de ouro: não coloque vírgula entre sujeito e verbo. Errado: "Os alunos, 
 ## FAQ
 
 **P: O ENEM perde pontos por acentuação gráfica errada?**
-R: Sim. Competência 1 inclui norma culta, que envolve acentuação. Erro único: 5-10 pontos perdidos. Múltiplos erros: 40-80 pontos perdidos (análise ENEM 2023). Regra: grave as palavras mais comuns ("êxito", "vício", "estímulo").
+R: Sim. Competência 1 inclui norma culta, que envolve acentuação. Regra: grave as palavras mais comuns ("êxito", "vício", "estímulo").
 
 **P: Pronome relativo "que" e "qual" têm diferenças?**
-R: Sim. "Que" é para informações essenciais; "qual" para informações adicionais (entre vírgulas). Exemplo: "O livro que você leu" (essencial) vs "O livro, o qual você adorou, está aqui" (adicional). Este detalhe perde 10-20 pontos.
+R: Sim. "Que" é para informações essenciais; "qual" para informações adicionais (entre vírgulas). Exemplo: "O livro que você leu" (essencial) vs "O livro, o qual você adorou, está aqui" (adicional). Ignorar essa diferença compromete a clareza do texto.
 
 **P: Como treinar gramática para redação ENEM?**
 R: Leia 1 redação aprovada (score 1.000) por dia. Identifique construções gramaticais. Depois, escreva 2-3 parágrafos usando estas construções. Isto treina o olho para estruturas corretas. Após 15 dias, sua redação ficará naturalmente mais gramatical.
@@ -190,8 +188,7 @@ R: Leia 1 redação aprovada (score 1.000) por dia. Identifique construções gr
 # POST 4: REDAÇÃO COMPETÊNCIA 5 (PROPOSTA INTERVENÇÃO)
 
 ## Meta Description
-Redação ENEM Competência 5: como escrever uma proposta de intervenção que ganhe 200 pontos. 5 critérios que avaliam sua solução. Score máximo. 160 chars.
-
+Redação ENEM Competência 5: como escrever uma proposta de intervenção que ganhe 200 pontos. 5 critérios que avaliam sua solução. Score máximo.
 ## Título H1
 Competência 5 da Redação ENEM: Proposta de Intervenção com Ação, Objetivo e Finalidade
 
@@ -205,14 +202,14 @@ Competência 5 é a mais desafiadora e a mais valorizada: vale até 200 pontos. 
 ## H2-1: Quais são os 5 critérios para uma proposta de intervenção perfeita?
 
 **Answer-first (60 words):**
-Critério 1: Ação clara e viável (ex: "criar aplicativo" não "melhorar educação"). Critério 2: Agente definido (quem executa: governo, escola, ONG). Critério 4: Finalidade explícita (qual o resultado esperado, qual o impacto). Critério 5: Detalhes de execução (onde, quando, como, quanto tempo ou dinheiro).
+Critério 1: Ação clara e viável (ex: "criar aplicativo" não "melhorar educação"). Critério 2: Agente definido (quem executa: governo, escola, ONG). Critério 3: Modo de execução (como a ação será colocada em prática). Critério 4: Finalidade explícita (qual o resultado esperado, qual o impacto). Critério 5: Detalhes de execução (onde, quando, como, quanto tempo ou dinheiro).
 
-Dados ENEM Pro mostram que propostas com todos 5 critérios ganham média 180-200 pontos. Propostas com 3 ou menos critérios: 100-140 pontos (ENEM Pro análise 2024, 320 redações).
+Propostas que reúnem poucos desses critérios tendem a ficar nos níveis mais baixos da grade de correção da competência.
 
 ## H2-2: Como estruturar uma ação específica sem ser vaga demais?
 
 **Answer-first (58 words):**
-Vago: "Melhorar o acesso à educação digital". Específico: "Implementar programa de distribução de tablets com internet 5G para 500 escolas da zona rural até 2026, financiado por parcerias público-privadas e fundo específico de inclusão digital". Vaga perde 40-60 pontos.
+Vago: "Melhorar o acesso à educação digital". Específico: "Implementar programa de distribução de tablets com internet 5G para 500 escolas da zona rural até 2026, financiado por parcerias público-privadas e fundo específico de inclusão digital". Uma proposta vaga como a primeira compromete seriamente a nota da competência.
 
 Estratégia: comece vago, depois pergunte "Como exatamente? Onde? Quanto?". Responder estas 3 perguntas gera automaticamente uma proposta específica e forte.
 
@@ -222,7 +219,7 @@ Agente é quem executa a ação. Se o agente é vago ("alguém", "a sociedade"),
 
 ## H2-4: Como escrever a finalidade de modo que o avaliador entenda o impacto social?
 
-Finalidade é o "por que" da ação. Não é suficiente listar a ação. Explique qual é o efeito esperado na sociedade. Exemplo de finalidade fraca: "Instalar computadores nas escolas". A finalidade forte conecta ação com impacto social mensurável. Isto sobe score de Competência 5 de 120 para 190 pontos automaticamente (observação em 156 redações ENEM Pro, 2024).
+Finalidade é o "por que" da ação. Não é suficiente listar a ação. Explique qual é o efeito esperado na sociedade. Exemplo de finalidade fraca: "Instalar computadores nas escolas". A finalidade forte conecta ação com impacto social mensurável, e é esse elo que costuma elevar a nota da competência de forma consistente.
 
 ## FAQ
 
@@ -230,7 +227,7 @@ Finalidade é o "por que" da ação. Não é suficiente listar a ação. Expliqu
 R: Não obrigatório, mas recomendado se viável. Mencionar "financiado por aumentar imposto sobre bebidas açucaradas" adiciona credibilidade.
 
 **P: Posso propor duas ações diferentes na mesma redação?**
-R: Não recomendado. Focar em uma ação com detalhes profundos garante 180-200 pontos. Duas ações superficiais: 120-150 pontos. Regra: uma ação + cinco detalhes.
+R: Não recomendado. Focar em uma ação com detalhes profundos rende uma nota bem mais sólida do que espalhar esforço em duas ações superficiais. Regra: uma ação + cinco detalhes.
 
 **P: Como ligar a proposta com o tema da redação?**
 R: A proposta deve resolver o problema identificado na análise (argumentação). Se tema é "impacto das redes sociais na saúde mental", proposta deve solucionar este problema específico. Isto demonstra leitura completa e coerência argumentativa.
@@ -240,8 +237,7 @@ R: A proposta deve resolver o problema identificado na análise (argumentação)
 # POST 5: INTERPRETAÇÃO DE TEXTO
 
 ## Meta Description
-Interpretação de texto ENEM: entenda semântica, contexto e ambiguidade. 8-10 questões por prova. Aprenda técnicas para ler e responder rápido. 161 chars.
-
+Interpretação de texto ENEM: entenda semântica, contexto e ambiguidade. 8-10 questões por prova. Aprenda técnicas para ler e responder rápido.
 ## Título H1
 Interpretação de Texto no ENEM: Como Ler Semanticamente e Ganhar Pontos em Linguagens
 
@@ -290,8 +286,7 @@ R: Explícita está no texto. Inferência é lógica a partir do texto. O ENEM a
 # POST 6: EQUAÇÕES 1º E 2º GRAU
 
 ## Meta Description
-Domine equações de 1º e 2º grau no ENEM. Aprenda Bhaskara, fatoração e aplicações. 5-6 questões por prova. Guia prático passo a passo. 157 chars.
-
+Domine equações de 1º e 2º grau no ENEM. Aprenda Bhaskara, fatoração e aplicações. 5-6 questões por prova. Guia prático passo a passo.
 ## Título H1
 Equações de 1º e 2º Grau no ENEM: Fórmulas, Técnicas e Exemplos Resolvidos
 
@@ -318,11 +313,11 @@ Erro comum: esquecer que b = -5, então -b = 5 (não -5).
 
 ## H2-3: Quando devo usar fatoração e quando devo usar Bhaskara?
 
-Se a equação fatora facilmente, fatore. Exemplo: x² - 5x + 6 = (x-2)(x-3) = 0, então x = 2 ou x = 3. Isto é mais rápido que Bhaskara (tempo: 1 minuto vs 2 minutos). Se não fatora facilmente ou Δ não é quadrado perfeito, use Bhaskara. Conhecer isto economiza 3-5 minutos por prova (estratégia de tempo em 50 provas simuladas ENEM Pro, 2024).
+Se a equação fatora facilmente, fatore. Exemplo: x² - 5x + 6 = (x-2)(x-3) = 0, então x = 2 ou x = 3. Isto é mais rápido que Bhaskara (tempo: 1 minuto vs 2 minutos). Se não fatora facilmente ou Δ não é quadrado perfeito, use Bhaskara. Conhecer isto economiza um tempo valioso ao longo da prova, já que evita aplicar Bhaskara quando a fatoração resolveria mais rápido.
 
 ## H2-4: Como interpretar o discriminante (delta) e o número de soluções?
 
-Δ > 0: duas soluções reais e distintas. Δ = 0: uma solução real (raiz dupla). Δ < 0: nenhuma solução real (raízes complexas). O ENEM pede frequentemente "quantas soluções" ou "qual é a natureza das raízes". Δ decide tudo (frequência: 2-3 questões por prova perguntam sobre isto). Técnica: antes de calcular raízes, calcule Δ e já saiba se há solução. Isto acelera a resposta em 30 segundos por questão.
+Δ > 0: duas soluções reais e distintas. Δ = 0: uma solução real (raiz dupla). Δ < 0: nenhuma solução real (raízes complexas). O ENEM pede frequentemente "quantas soluções" ou "qual é a natureza das raízes". Δ decide tudo. Técnica: antes de calcular raízes, calcule Δ e já saiba se há solução. Isto acelera a resposta em 30 segundos por questão.
 
 ## FAQ
 
@@ -340,8 +335,7 @@ R: Raramente como questão direta. Aparecem em problemas de aplicação ("qual x
 # POST 7: GEOMETRIA PLANA
 
 ## Meta Description
-Geometria plana ENEM: domine triângulos, quadriláteros, círculos. Fórmulas de perímetro e área. 6-8 questões por prova. Passo a passo. 156 chars.
-
+Geometria plana ENEM: domine triângulos, quadriláteros, círculos. Fórmulas de perímetro e área. 6-8 questões por prova. Passo a passo.
 ## Título H1
 Geometria Plana no ENEM: Fórmulas de Perímetro, Área e Propriedades de Figuras
 
@@ -372,12 +366,12 @@ Forma composta: divida em formas simples. Exemplo: uma letra "L" é dois retâng
 
 ## H2-4: Qual é o papel das propriedades do triângulo (ângulos, lados) em questões de ENEM?
 
-Triângulo equilátero: todos lados iguais, todos ângulos 60°. Altura h = (lado × √3) / 2. Triângulo isósceles: dois lados iguais, ângulos da base iguais. Triângulo retângulo: um ângulo 90°, Pitágoras: a² = b² + c². No ENEM, 4-5 questões cobram propriedades de triângulos específicos (frequência: 2023-2024, INEP). Conhecer estas propriedades evita cálculos desnecessários e economiza tempo.
+Triângulo equilátero: todos lados iguais, todos ângulos 60°. Altura h = (lado × √3) / 2. Triângulo isósceles: dois lados iguais, ângulos da base iguais. Triângulo retângulo: um ângulo 90°, Pitágoras: a² = b² + c². No ENEM, 4-5 questões cobram propriedades de triângulos específicos. Conhecer estas propriedades evita cálculos desnecessários e economiza tempo.
 
 ## FAQ
 
 **P: O ENEM cobra teorema de Pitágoras em toda prova?**
-R: Sim. Aparece em 4-5 questões diretamente ou indiretamente. Se levar 2 minutos para memorizar (a² = b² + c²) e reconhecer, já resolve 20 pontos de Matemática.
+R: Sim. Aparece em 4-5 questões diretamente ou indiretamente. Memorizar a² = b² + c² e reconhecer rapidamente quando aplicá-lo já ajuda a resolver essas questões com confiança.
 
 **P: Como memorizar as 6 fórmulas sem confundir?**
 R: Use método de associação. Círculo tem "r²" porque é redondo. Triângulo divide por 2 porque é metade de quadrado. Trapézio soma bases porque tem dois lados paralelos. Repetir associação 3 vezes grava automaticamente (técnica mnemônica comprovada).
@@ -390,8 +384,7 @@ R: Não obrigatório. Se π está na resposta, deixe como π (ex: 16π cm²). Se
 # POST 8: ESTATÍSTICA
 
 ## Meta Description
-Estatística ENEM: domine média, mediana, moda. Entenda distribuição e desvio padrão. 3-4 questões por prova. Técnicas de cálculo rápido. 160 chars.
-
+Estatística ENEM: domine média, mediana, moda. Entenda distribuição e desvio padrão. 3-4 questões por prova. Técnicas de cálculo rápido.
 ## Título H1
 Estatística no ENEM: Como Calcular Média, Mediana, Moda e Interpretar Dados
 
@@ -418,7 +411,7 @@ Dados categóricos: use moda. Moda aparece raramente isolada.
 
 ## H2-3: Como encontrar a mediana rapidamente em um conjunto de dados?
 
-Ordene dados. Se quantidade é ímpar, mediana é o valor central. Exemplo: {2, 5, 8, 9, 15} tem 5 elementos. Mediana = 8 (3º elemento). Se quantidade é par, mediana é a média dos dois valores centrais. Exemplo: {2, 5, 8, 9} tem 4 elementos. Mediana = (5 + 8) / 2 = 6,5 (média dos 2º e 3º). Tempo: 1-2 minutos incluindo ordenação. Muitos candidatos gastam 5 minutos aqui por falta de método claro. Estrutura clara economiza muito tempo (prática em 50 questões reduz tempo de 4 min para 1,5 min por questão).
+Ordene dados. Se quantidade é ímpar, mediana é o valor central. Exemplo: {2, 5, 8, 9, 15} tem 5 elementos. Mediana = 8 (3º elemento). Se quantidade é par, mediana é a média dos dois valores centrais. Exemplo: {2, 5, 8, 9} tem 4 elementos. Mediana = (5 + 8) / 2 = 6,5 (média dos 2º e 3º). Tempo: 1-2 minutos incluindo ordenação. Muitos candidatos gastam bem mais tempo aqui por falta de método claro. Uma estrutura clara para ordenar e contar os elementos economiza tempo significativo na prova.
 
 ## H2-4: O que é desvio padrão e quando aparece em questões do ENEM?
 
@@ -440,8 +433,7 @@ R: Sim, em distribuição perfeitamente simétrica (ex: {1, 2, 3, 2, 1}). Mas is
 # POST 9: PROBABILIDADE
 
 ## Meta Description
-Probabilidade ENEM: fórmula P = favoráveis/totais. Eventos independentes e dependentes. 3-4 questões por prova. Aprenda técnicas rápidas. 158 chars.
-
+Probabilidade ENEM: fórmula P = favoráveis/totais. Eventos independentes e dependentes. 3-4 questões por prova. Aprenda técnicas rápidas.
 ## Título H1
 Probabilidade no ENEM: Fórmula Básica, Eventos Independentes e Aplicações Práticas
 
@@ -468,7 +460,7 @@ P(A e B) = P(A) × P(B|A), onde P(B|A) é probabilidade de B dado que A ocorreu.
 
 ## H2-3: Como resolver problemas de probabilidade com "pelo menos um" ou "nenhum"?
 
-Armadilha comum: "Qual é a probabilidade de sair pelo menos um 6 em 3 lançamentos?" Muitos somam: P(6 no 1º) + P(6 no 2º) + P(6 no 3º) = 1/6 + 1/6 + 1/6 = 1/2. Errado. Método correto: P(pelo menos um) = 1 - P(nenhum). P(nenhum 6) = (5/6)³ = 125/216. P(pelo menos um) = 1 - 125/216 = 91/216 ≈ 0,42. Isto é diferente de 0,5. Este erro único custa 2-3 pontos em Matemática.
+Armadilha comum: "Qual é a probabilidade de sair pelo menos um 6 em 3 lançamentos?" Muitos somam: P(6 no 1º) + P(6 no 2º) + P(6 no 3º) = 1/6 + 1/6 + 1/6 = 1/2. Errado. Método correto: P(pelo menos um) = 1 - P(nenhum). P(nenhum 6) = (5/6)³ = 125/216. P(pelo menos um) = 1 - 125/216 = 91/216 ≈ 0,42. Isto é diferente de 0,5, e essa confusão entre "pelo menos um" e soma direta é um dos erros mais comuns na prova.
 
 ## H2-4: Quando devo usar combinatória e probabilidade juntas?
 
@@ -490,8 +482,7 @@ R: Permutação conta arranjos. Probabilidade calcula chance. Se pergunta "de qu
 # POST 10: TRIGONOMETRIA
 
 ## Meta Description
-Trigonometria ENEM: domine seno, cosseno, tangente. Ciclo trigonométrico. 4-5 questões por prova. Identidades e ângulos notáveis. 159 chars.
-
+Trigonometria ENEM: domine seno, cosseno, tangente. Ciclo trigonométrico. 4-5 questões por prova. Identidades e ângulos notáveis.
 ## Título H1
 Trigonometria no ENEM: Seno, Cosseno, Tangente, Ciclo Trigonométrico e Ângulos Notáveis
 
@@ -511,18 +502,18 @@ Exemplo: triângulo com cateto oposto 3, adjacente 4, hipotenusa 5. Sen(θ) = 3/
 
 ## H2-2: Qual é o ciclo trigonométrico e por que é importante?
 
-Ciclo trigonométrico é círculo unitário (raio 1) onde seno e cosseno ganham interpretação geométrica. Qualquer ponto no ciclo tem coordenadas (cos θ, sen θ). Ângulos podem ser maiores que 90°, até 360°. Isto expande triângulos para qualquer ângulo. No ENEM, ciclo trigonométrico aparece em 2-3 questões pedindo valor de sen/cos de ângulos não notáveis (frequência: 2023-2024, INEP). Conhecer ciclo evita erros de sinal (sen 120° é positivo no segundo quadrante) e economiza memória de casos especiais.
+Ciclo trigonométrico é círculo unitário (raio 1) onde seno e cosseno ganham interpretação geométrica. Qualquer ponto no ciclo tem coordenadas (cos θ, sen θ). Ângulos podem ser maiores que 90°, até 360°. Isto expande triângulos para qualquer ângulo. No ENEM, ciclo trigonométrico aparece em 2-3 questões pedindo valor de sen/cos de ângulos não notáveis. Conhecer ciclo evita erros de sinal (sen 120° é positivo no segundo quadrante) e economiza memória de casos especiais.
 
 ## H2-3: Como memorizar valores de seno, cosseno e tangente dos ângulos notáveis?
 
 **Answer-first (59 words):**
 Ângulos notáveis: 30°, 45°, 60°. Tabela: Sen(30°)=1/2, Cos(30°)=√3/2, Tan(30°)=1/√3. Sen(45°)=√2/2, Cos(45°)=√2/2, Tan(45°)=1. Sen(60°)=√3/2, Cos(60°)=1/2, Tan(60°)=√3. Mnemônico: para seno aumenta de 1/2 para √2/2 para √3/2 (incrementa 30° por passo). Para cosseno decresce (ao contrário).
 
-Memorizar isto (5 minutos) economiza 10 minutos por prova ao não buscar ou recalcular (prática com 100 alunos ENEM Pro, 2024).
+Memorizar essa tabela com antecedência economiza um tempo considerável na prova, já que evita ter que recalcular esses valores durante a resolução das questões.
 
 ## H2-4: Como resolver problemas de trigonometria em contexto prático (distância, altura)?
 
-Contexto comum: calcular altura de prédio usando ângulo de elevação. Exemplo: estou 50 metros de um prédio. Ângulo de elevação é 30°. Qual é a altura? Tan(30°) = altura / 50. Altura = 50 × Tan(30°) = 50 × (1/√3) ≈ 28,87 metros. Estrutura: desenhe diagrama, identifique ângulo, escolha fórmula (sen, cos, tan), calcule. Este tipo aparece em 2-3 questões por prova (frequência: INEP 2023-2024).
+Contexto comum: calcular altura de prédio usando ângulo de elevação. Exemplo: estou 50 metros de um prédio. Ângulo de elevação é 30°. Qual é a altura? Tan(30°) = altura / 50. Altura = 50 × Tan(30°) = 50 × (1/√3) ≈ 28,87 metros. Estrutura: desenhe diagrama, identifique ângulo, escolha fórmula (sen, cos, tan), calcule. Este tipo aparece em 2-3 questões por prova.
 
 ## FAQ
 
@@ -540,8 +531,7 @@ R: Desenho primeiro (30 segundos). Depois identifique qual lado é dado, qual é
 # POST 11: GENÉTICA MENDELIANA
 
 ## Meta Description
-Genética ENEM: domine leis de Mendel, dominância, recessividade e probabilidade. 3-4 questões por prova. Cruzamentos e proporções. 158 chars.
-
+Genética ENEM: domine leis de Mendel, dominância, recessividade e probabilidade. 3-4 questões por prova. Cruzamentos e proporções.
 ## Título H1
 Genética Mendeliana no ENEM: Leis de Mendel, Herança Dominante e Recessiva, Cruzamentos Práticos
 
@@ -556,7 +546,7 @@ Genética ocupa 3-4 das 45 questões de Biologia no ENEM, valendo até 8 pontos.
 **Answer-first (60 words):**
 Lei da segregação: cada traço é controlado por par de alelos. Um alelo vem de cada progenitor. Traço dominante se expressa mesmo com um alelo. Traço recessivo precisa dois alelos iguais. Exemplo: Cor de olhos. Dominante = castanho (A). Recessivo = azul (a). Progenitor 1: Aa (heterozigoto, olhos castanhos). Progenitor 2: aa (homozigoto recessivo, olhos azuis).
 
-Esta proporção 3:1 aparece em 2-3 questões por prova (frequência INEP 2023-2024).
+Esta proporção 3:1 aparece em 2-3 questões por prova.
 
 ## H2-2: Como montar e interpretar corretamente um quadro de Punnett?
 
@@ -574,12 +564,12 @@ Leia enunciado procurando "gene" (genótipo) ou "aparência/traço" (fenótipo).
 
 ## H2-4: Como resolver problemas de herança com múltiplos genes (diíbrida) ou cruzamentos complexos?
 
-Lei da distribuição independente (segunda lei): dois genes segregam independentemente. Exemplo: cor (A) e textura (B). Progenitor AaBb × AaBb. Quadro de Punnett fica 16 células (4×4). Fenótipos: 9:3:3:1 (proporção clássica para dois genes). Isto aparece em 1-2 questões por prova (frequência: INEP 2023). Maneira fácil: usar a fórmula de multiplicação. P(A_) = 3/4, P(B_) = 3/4. P(A_B_) = 3/4 × 3/4 = 9/16. Isto economiza tempo do quadro 16 células.
+Lei da distribuição independente (segunda lei): dois genes segregam independentemente. Exemplo: cor (A) e textura (B). Progenitor AaBb × AaBb. Quadro de Punnett fica 16 células (4×4). Fenótipos: 9:3:3:1 (proporção clássica para dois genes). Isto aparece em 1-2 questões por prova. Maneira fácil: usar a fórmula de multiplicação. P(A_) = 3/4, P(B_) = 3/4. P(A_B_) = 3/4 × 3/4 = 9/16. Isto economiza tempo do quadro 16 células.
 
 ## FAQ
 
 **P: O ENEM cobra herança ligada ao sexo (cromossomo X)?**
-R: Sim, aparece em 1-2 questões. Conceito é similar a herança simples, mas alelos estão em X (não em autossomo). Homem tem um X, mulher tem dois X. Isto muda proporções. Aprender isto toma 30 minutos extra e resolve 2 pontos adicionais.
+R: Sim, aparece em 1-2 questões. Conceito é similar a herança simples, mas alelos estão em X (não em autossomo). Homem tem um X, mulher tem dois X. Isto muda as proporções esperadas nos cruzamentos, e vale a pena dedicar um tempo extra para entender bem essa diferença.
 
 **P: Como diferenciar entre dominância completa e incompleta?**
 R: Dominância completa: heterozigoto parece homozigoto dominante (Aa = AA fenótipo). Dominância incompleta: heterozigoto tem fenótipo intermediário (Aa = fenótipo intermediário). No ENEM, ambas aparecem. Leia enunciado para saber qual tipo.
@@ -592,8 +582,7 @@ R: Raramente. Mutação é questão separada (Biologia Molecular). Herança gen�
 # POST 12: ECOLOGIA (TEIAS ALIMENTARES)
 
 ## Meta Description
-Ecologia ENEM: teias alimentares, cadeias, fluxo de energia. Produtores, consumidores, decompositores. 4-5 questões por prova. Conceitos essenciais. 159 chars.
-
+Ecologia ENEM: teias alimentares, cadeias, fluxo de energia. Produtores, consumidores, decompositores. 4-5 questões por prova. Conceitos essenciais.
 ## Título H1
 Ecologia no ENEM: Cadeias e Teias Alimentares, Fluxo de Energia e Níveis Tróficos
 
@@ -623,7 +612,7 @@ Isto força leitura correta. Lembrete mental: seta → boca.
 **Answer-first (60 words):**
 Produtor: faz próprio alimento (plantas via fotossíntese). Não precisa comer nada. Consumidor primário: come produtor (herbívoro). Consumidor secundário: come consumidor primário (carnívoro de herbívoro). Consumidor terciário: come consumidor secundário. Decompositor: recicla nutrientes a partir de mortos (bactérias, fungos). Estrutura: Produtor → Consumidor 1º → Consumidor 2º → etc.
 
-Por isto, cadeias têm no máximo 4-5 níveis. No ENEM, isto aparece em 1-2 questões pedindo "qual animal está em qual nível" ou "qual tem mais energia disponível" (frequência: 2023-2024, INEP).
+Por isto, cadeias têm no máximo 4-5 níveis. No ENEM, isto aparece em 1-2 questões pedindo "qual animal está em qual nível" ou "qual tem mais energia disponível".
 
 ## H2-4: Como calcular eficiência energética e identificar qual nível tem menos energia?
 
@@ -645,8 +634,7 @@ R: Fluxo é unidirecional (entra e não volta: energy apenas passa). Ciclo é c�
 # POST 13: QUÍMICA (REAÇÕES QUÍMICAS)
 
 ## Meta Description
-Reações químicas ENEM: balanceamento de equações. Oxirredução. Reagentes e produtos. 4-5 questões por prova. Técnicas de balanceamento. 158 chars.
-
+Reações químicas ENEM: balanceamento de equações. Oxirredução. Reagentes e produtos. 4-5 questões por prova. Técnicas de balanceamento.
 ## Título H1
 Reações Químicas no ENEM: Balanceamento de Equações, Conceito de Oxirredução e Técnicas Práticas
 
@@ -696,8 +684,7 @@ R: Com método claro: 2-3 minutos. Sem método: 5-10 minutos ou erro. Treinar 20
 # POST 14: FÍSICA (MECÂNICA)
 
 ## Meta Description
-Mecânica ENEM: leis de Newton, movimento, força, aceleração. Cinemática e dinâmica. 5-6 questões por prova. Fórmulas essenciais. 159 chars.
-
+Mecânica ENEM: leis de Newton, movimento, força, aceleração. Cinemática e dinâmica. 5-6 questões por prova. Fórmulas essenciais.
 ## Título H1
 Mecânica Clássica no ENEM: Leis de Newton, Movimento, Força e Aceleração Prática
 
@@ -713,7 +700,7 @@ Mecânica ocupa 5-6 das 45 questões de Física no ENEM, valendo até 12 pontos.
 **Answer-first (60 words):**
 1ª Lei (inércia): objeto move-se em linha reta a velocidade constante (ou repousa) a menos que força externa atue. Exemplo: carro freia bruscamente, passageiro continua para frente (inércia). 2ª Lei: força causa aceleração. F = m × a. Maior força, maior aceleração. Maior massa, menor aceleração (para mesma força). 3ª Lei (ação-reação): toda ação tem reação igual e oposta. Exemplo: pulo: você empurra Terra para baixo, Terra empurra você para cima com mesma força.
 
-No ENEM, estas aparecem em 2-3 questões (frequência: 2023-2024, INEP). Conhecer as três estrutura pensamento para resolver qualquer problema de mecânica.
+No ENEM, estas aparecem em 2-3 questões. Conhecer as três estrutura pensamento para resolver qualquer problema de mecânica.
 
 ## H2-2: Como aplicar a segunda lei de Newton (F = m × a) em problemas práticos?
 
@@ -725,7 +712,7 @@ Fórmula: F = m × a. F é força total (Newtons). m é massa (kg). a é acelera
 **Answer-first (58 words):**
 Velocidade: quão rápido se move (m/s). Aceleração: mudança de velocidade (m/s²). Força: causa de aceleração (N). Exemplo: carro viaja a 60 km/h (velocidade). Freia para 40 km/h em 2 segundos (aceleração = -10 m/s²). Freio exerce força negativa (reduz velocidade). Estes três são relacionados mas distintos. Velocidade não causa força; força causa aceleração; aceleração muda velocidade. Ordem: Força → Aceleração → Mudança de Velocidade.
 
-No ENEM, confundir os três custa 3-5 pontos (frequência observada em 150 respostas erradas, ENEM Pro 2024).
+No ENEM, confundir esses três conceitos é uma das causas mais frequentes de erro em questões de mecânica.
 
 ## H2-4: Como resolver problemas de cinemática e dinâmica combinadas?
 
@@ -734,7 +721,7 @@ Cinemática: movimento sem considerar força ("o carro vai a 60 km/h"). Dinâmic
 ## FAQ
 
 **P: Qual é a diferença entre peso e massa?**
-R: Massa é quantidade de matéria (kg). Peso é força da gravidade (N). Peso = m × g (g ≈ 10 m/s²). No ENEM, confundir os dois custa 1-2 pontos por questão. Regra: massa não muda; peso muda conforme gravidade do lugar.
+R: Massa é quantidade de matéria (kg). Peso é força da gravidade (N). Peso = m × g (g ≈ 10 m/s²). No ENEM, confundir os dois é um erro comum. Regra: massa não muda; peso muda conforme gravidade do lugar.
 
 **P: Como o ENEM cobra atrito?**
 R: Atrito é força que reduz movimento. F atrito = μ × N (μ é coeficiente, N é força normal). Atrito aparece em 1-2 questões de dinâmica.
@@ -747,8 +734,7 @@ R: Sim. Trabalho = F × d (força × distância). Energia cinética = m × v² /
 # POST 15: HISTÓRIA (REVOLUÇÃO FRANCESA)
 
 ## Meta Description
-Revolução Francesa ENEM 1789: causas econômicas, ideais iluministas, Declaração Direitos. 2-3 questões por prova. Contexto e consequências. 160 chars.
-
+Revolução Francesa ENEM 1789: causas econômicas, ideais iluministas, Declaração Direitos. 2-3 questões por prova. Contexto e consequências.
 ## Título H1
 Revolução Francesa 1789 no ENEM: Contexto, Ideais Iluministas, Direitos Humanos e Impacto Histórico
 
@@ -762,22 +748,22 @@ Revolução Francesa aparece em 2-3 das 45 questões de História no ENEM, valen
 ## H2-1: Quais foram as principais causas econômicas e sociais da Revolução Francesa?
 
 **Answer-first (60 words):**
-Causa 1: dívida estatal massive. França gastou muito em guerras (ex: Independência EUA) e corte luxuosa. Causa 2: sistema de impostos injusto. Povo paga, clero e nobreza não pagam (privilégio). Causa 3: fome. Colheita ruim em 1788 causou fome e desemprego. Causa 4: ideias iluministas (Rousseau, Voltaire): igualdade e direitos naturais.
+Causa 1: dívida estatal enorme. França gastou muito em guerras (ex: Independência EUA) e corte luxuosa. Causa 2: sistema de impostos injusto. Povo paga, clero e nobreza não pagam (privilégio). Causa 3: fome. Colheita ruim em 1788 causou fome e desemprego. Causa 4: ideias iluministas (Rousseau, Voltaire): igualdade e direitos naturais.
 
-Estas 4 causas combinadas criaram revolta. No ENEM, questões pedem conectar 2-3 destas causas para explicar por que Revolução ocorreu (frequência: 2023-2024, INEP).
+Estas 4 causas combinadas criaram revolta. No ENEM, questões pedem conectar 2-3 destas causas para explicar por que Revolução ocorreu.
 
 ## H2-2: Como o Iluminismo influenciou ideias revolucionárias na França?
 
-Iluminismo: movimento intelectual de 1650-1750 que valorizava razão, direitos naturais, democracia. Rousseau escreveu "O Contrato Social" (1762): governo legítimo vem de consentimento do povo, não de direito divino do rei. Voltaire criticou absoluto e defendeu liberdade de pensamento. Montesquieu propôs separação de poderes (executivo, legislativo, judiciário). Estas ideias circulavam na França entre intelectuais e burguesia. Quando crise econômica + fome chegou, ideias transformaram-se em ação revolucionária. No ENEM, 2-3 questões conectam Iluminismo com Revolução Francesa (frequência: 2023-2024, INEP).
+Iluminismo: movimento intelectual de 1650-1750 que valorizava razão, direitos naturais, democracia. Rousseau escreveu "O Contrato Social" (1762): governo legítimo vem de consentimento do povo, não de direito divino do rei. Voltaire criticou absoluto e defendeu liberdade de pensamento. Montesquieu propôs separação de poderes (executivo, legislativo, judiciário). Estas ideias circulavam na França entre intelectuais e burguesia. Quando crise econômica + fome chegou, ideias transformaram-se em ação revolucionária. No ENEM, 2-3 questões conectam Iluminismo com Revolução Francesa.
 
 ## H2-3: O que foi a Declaração dos Direitos do Homem e Cidadão e por que é importante?
 
 **Answer-first (59 words):**
-Declaração, votada em 1789, proclamava direitos naturais: liberdade, propriedade, segurança, resistência à opressão. Igualdade perante a lei (fim de privilégios de classe). Soberania popular (poder vem do povo). Esta declaração inspirou constituições modernas (EUA 1776 já tinha ideias similares, mas Francesa foi mais radical). No ENEM, questões pedem o que a Declaração garantia ou por que foi revolucionária (frequência: 1-2 questões por prova, 2023-2024, INEP).
+Declaração, votada em 1789, proclamava direitos naturais: liberdade, propriedade, segurança, resistência à opressão. Igualdade perante a lei (fim de privilégios de classe). Soberania popular (poder vem do povo). Esta declaração inspirou constituições modernas (EUA 1776 já tinha ideias similares, mas Francesa foi mais radical). No ENEM, questões pedem o que a Declaração garantia ou por que foi revolucionária.
 
 ## H2-4: Como a Revolução Francesa mudou a Europa e o mundo depois de 1789?
 
-Impacto 1: fim do absolutismo. Monarquias se tornaram constitucionais (poder limitado). Impacto 2: nacionalismo. França conquistou territórios adjacentes, espalhando ideias de soberania nacional. Impacto 3: secularização. Igreja perdeu poder político, Estado ficou secular. Impacto 4: expansão de direitos. Outros países copiaram Declaração Francesa. Impacto 5: guerras napoleônicas (1799-1815). Napoleão consolidou poder e exportou ideias revolucionárias. Destes 5, ENEM cobra 2-3 em questões tipo "qual foi o impacto da Revolução?" (frequência: 2023-2024, INEP). Memorizar lista ajuda a responder qualquer variação.
+Impacto 1: fim do absolutismo. Monarquias se tornaram constitucionais (poder limitado). Impacto 2: nacionalismo. França conquistou territórios adjacentes, espalhando ideias de soberania nacional. Impacto 3: secularização. Igreja perdeu poder político, Estado ficou secular. Impacto 4: expansão de direitos. Outros países copiaram Declaração Francesa. Impacto 5: guerras napoleônicas (1799-1815). Napoleão consolidou poder e exportou ideias revolucionárias. Destes 5, ENEM cobra 2-3 em questões tipo "qual foi o impacto da Revolução?". Memorizar lista ajuda a responder qualquer variação.
 
 ## FAQ
 

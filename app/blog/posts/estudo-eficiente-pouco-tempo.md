@@ -11,6 +11,9 @@ tags: ["eficiência", "técnicas", "tempo", "enem-2026"]
 Mito: você precisa 4-6 horas diárias para passar no ENEM. Realidade: 1 hora de estudo altamente focado vale mais que 4 horas disperso. Qualidade importa mais que volume.
 
 > **Key Takeaways**
+> - Estudo focado em blocos (tipo Pomodoro) supera horas dispersas de estudo
+> - Revisão espaçada e priorização por disciplina que você mais erra maximizam retorno por hora
+> - Sono, exercício e uma folga semanal evitam o burnout que derruba a consistência
 
 ## Qual é a Técnica Pomodoro Exatamente?
 
@@ -24,8 +27,11 @@ Benefício principal não é time-tracking. É psicológico: você sabe que prec
 
 Revisão espaçada é técnica de memorização cientificamente comprovada. Ideia é simples: você não aprende algo uma vez e esquece. Cérebro precisa de reforço repetido. Mas espaçamento importa.
 
-Padrão ideal de revisão :
-- Estude conceito novo
+Padrão ideal de revisão:
+- Estude o conceito novo
+- Revise 1 dia depois
+- Revise novamente 3 dias depois
+- Revise novamente 7 dias depois, e depois em intervalos cada vez maiores
 
 Se você segue esse padrão, o conceito fica "pegajoso" no seu cérebro. Se você estuda uma vez e não revisa, esquece em dias.
 

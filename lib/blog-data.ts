@@ -64871,7 +64871,1513 @@ O novo ENEM 2024+ mantém estrutura de 180 questões (45 por área) + Redação 
 ---` },
 ]
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13, ...EXTRA_POSTS_14, ...EXTRA_POSTS_15, ...EXTRA_POSTS_16, ...EXTRA_POSTS_17, ...EXTRA_POSTS_18, ...EXTRA_POSTS_19, ...EXTRA_POSTS_20]
+const EXTRA_POSTS_21: BlogPost[] = [
+  { slug: 'tecnica-pomodoro-enem', title: "Técnica Pomodoro: Como Estudar com Mais Foco e Menos Cansaço", description: "Aprenda a Técnica Pomodoro para estudar com blocos de 25 minutos focados e pausas estratégicas, aumentando retenção e reduzindo fadiga mental no ENEM.", date: '2026-07-11', readTime: 4, content: `
+# Técnica Pomodoro: Como Estudar com Mais Foco e Menos Cansaço
+
+Estudar por horas sem parar é contraproducente. A Técnica Pomodoro, desenvolvida por Francesco Cirillo em 1987, resolve isso dividindo o tempo em blocos de 25 minutos concentrado + 5 minutos de pausa. Este guia ensina como implementar a técnica e maximizar seus resultados.
+
+> **Key Takeaways**
+> - Blocos de 25 minutos + 5 minutos de pausa aumentam foco e reduzem fadiga mental
+> - A cada 4 ciclos, faça pausa de 15-30 minutos
+> - Funciona melhor com tarefas bem definidas e lista de distrações à mão
+
+## Por que a Mente se Cansa com Estudos Longos?
+
+Seu cérebro tem capacidade limitada de atenção sustentada. Depois de 20-30 minutos focado, o sistema nervoso começa a liberar hormônios de cansaço, reduzindo a eficiência. Pausas curtas restauram neurotransmissores como dopamina, essencial para manter foco. Pomodoro funciona porque alinha com esses ciclos biológicos naturais.
+
+A retenção cai drasticamente após 30 minutos sem pausa.
+
+## Como Implementar Corretamente a Técnica Pomodoro?
+
+Muitas pessoas erram ao usar Pomodoro ignorando sinais do corpo ou definindo tarefas vagas.
+
+**Passo 1: Defina Sua Tarefa Claramente**
+
+"Estudar matemática" é vago. Diga: "Resolver 15 exercícios de geometria" ou "Decorar fórmulas de trigonometria". Tarefas específicas ajudam o cérebro a criar foco imediato. Sem clareza, você gasta Pomodoros inteiros decidindo o que fazer.
+
+**Passo 2: Elimine Todas as Distrações**
+
+Celular em outra sala. Abas desnecessárias fechadas. Avise pessoas que não quer ser incomodado. Um único ping de WhatsApp pode quebrar minutos de concentração: pesquisas sobre produtividade mostram que o cérebro leva bastante tempo para retomar o foco total depois de uma interrupção.
+
+**Passo 3: Trabalhe com Intensidade Total**
+
+Não pense "tenho apenas 25 minutos, então vou devagar". Pense "tenho apenas 25 minutos, então vou ao máximo". Essa mentalidade muda tudo. Seu cérebro libera mais dopamina quando há urgência benéfica.
+
+**Passo 4: Pausa Não é Estudar Diferente**
+
+Muitos estudantes usam a pausa para "revisar rapidinho". Errado. Pausa significa sair da cadeira, beber água, alongar, respirar. Atividades físicas reabilitam o foco. Pomodoro com pausas sedentárias não funciona.
+
+**Passo 5: A Cada 4 Ciclos, Descanse Mais**
+
+Após 4 Pomodoros (100 minutos), o cérebro precisa de 15-30 minutos de descanso real. Sem isso, a qualidade cai. Estudar um 5º Pomodoro após 4 sem pausa longa é improdutivo.
+
+## Qual é o Intervalo Ideal Entre Pomodoros?
+
+Muita gente testa 20, 30 ou até 45 minutos. O padrão de 25 minutos não é mágico, mas é um bom ponto de partida. Intervalos menores (15 min) tendem a fragmentar o raciocínio; maiores (40+ min) geram cansaço prematuro para a maioria das pessoas.
+
+Para alguns cérebros, 30 minutos funciona melhor. Para outros, 22 minutos. Teste durante 1 semana com cada duração e anote eficiência. O ideal é seu ideal, não o de Cirillo.
+
+## Pomodoro é Eficaz para Todas as Matérias?
+
+Pomodoro funciona bem para lógica, exercícios e decoreba. Para criatividade e escrita discursiva, alguns estudantes preferem 45-50 minutos em um único bloco. Não force Pomodoro em atividades que exigem "fluxo". A Técnica Pomodoro é ferramenta, não religião.
+
+Estudantes de redação do ENEM relatam que usar Pomodoro para estrutura (organizar ideias = 25 min, escrever = 50 min) funciona melhor que Pomodoro para escrever continuamente.
+
+## FAQ: Dúvidas Comuns sobre Pomodoro
+
+**Como devo estudar se um exercício leva mais de 25 minutos?**
+
+Divida a atividade em etapas. Se um exercício é complexo, gaste 1 Pomodoro lendo e entendendo, 1 esboçando solução, 1 escrevendo resposta. Isso mantém o foco e força revisão mental entre etapas.
+
+**E se Pomodoro me deixar ansioso?**
+
+Você pode estar muito focado na contagem de tempo. Coloque o timer fora da visão. O objetivo é foco, não obsessão com cronômetro. Se ansiedade persistir, teste 30 minutos. Alguns neurologicamente prosperam com ciclos um pouco maiores.
+
+**Posso estudar duas matérias alternando Pomodoros?**
+
+Sim. Alterar matérias pode reduzir fadiga mental. Idealmente: 2-3 Pomodoros mesma matéria, depois mude.
+
+**Como funciona Pomodoro com aulas síncronas ou lives?**
+
+Aulas não seguem Pomodoro. Mas você pode aplicar no estudo complementar. Assista a aula (ritmo da aula), depois revise com 2-3 Pomodoros focados. Combine técnicas.
+
+**Qual app você recomenda para Pomodoro?**
+
+Be Focused, Forest e Focus Keeper têm bom design. Mas um simples cronômetro de celular funciona igualmente bem. A ferramenta não é crítica; a disciplina sim.
+
+## Conclusão: Transforme Suas Sessões de Estudo
+
+A chave é: tarefas claras, sem distrações, pausas reais, e disciplina nos 25 minutos. Se você estuda 4 horas por dia, implementar Pomodoro pode equivaler a ganhar 1 hora de estudo de qualidade sem estudar mais tempo.
+
+Comece amanhã: escolha uma tarefa, configure 25 minutos, estude intensamente, pausa verdadeira. Faça isso por 5 dias consecutivos. Se a retenção melhorar, mantém. Técnicas que funcionam se tornam hábitos.
+` },
+  { slug: 'metodo-cornell-anotacoes-enem', title: "Método Cornell: A Melhor Forma de Organizar Seus Cadernos", description: "Aprenda o Método Cornell para organizar anotações em 3 zonas (notas, palavras-chave, resumo) e transformar cadernos bagunçados em ferramenta de revisão eficaz.", date: '2026-07-11', readTime: 4, content: `
+# Método Cornell: A Melhor Forma de Organizar Seus Cadernos
+
+Anotações desorganizadas são informação perdida. O Método Cornell, criado na Universidade de Cornell por Walter Pauk em 1949, divide a página em 3 zonas: notas, palavras-chave e resumo. Este guia ensina estrutura, implementação e como converter anotações Cornell em revisão eficaz.
+
+> **Key Takeaways**
+> - Divida a página em 3 zonas: palavras-chave, notas detalhadas e resumo
+> - Funciona tanto em caderno físico quanto digital
+> - Transforme Cornell em flashcards para spaced repetition
+
+## Por que Anotações Lineares Falham?
+
+Quando você escreve tudo sequencialmente, sem hierarquia, seu cérebro trata todas as informações como igualmente importantes. Semanas depois, ao revisar, você percebe que não sabe mais o que era essencial e o que era exemplo. Cornell resolve isso forçando 2 passagens: 1ª durante aula (capture), 2ª logo depois (processamento).
+
+## Como Estruturar Sua Página no Método Cornell?
+
+A estrutura é simples mas crítica. Divida sua página (ou arquivo digital) em 3 partes: coluna da esquerda (2-3 cm) para palavras-chave, coluna da direita (15 cm) para notas detalhadas, rodapé (2-3 linhas) para resumo. Essa proporção não é aleatória; vem da ideia de que densidade visual moderada ajuda o recall.
+
+**Zona 2: Notas (coluna direita)**
+
+Aqui vai tudo que você ouve ou lê. Mas com limite: máximo 1 nota por linha, sem escrever tudo palavra por palavra. Cornell exige síntese real, não transcrição. Abrevie. Use símbolos. Deixe espaço em branco.
+
+**Zona 1: Palavras-chave (coluna esquerda)**
+
+Escreva aqui os triggers que acionam o conceito. Se a nota é "Fotossíntese = processo em que plantas convertem luz solar em energia química", a palavra-chave é simplesmente "Fotossíntese". Quando revisar, você vê "Fotossíntese" e tenta lembrar tudo da nota antes de verificar. Isso é Active Recall.
+
+**Zona 3: Resumo (rodapé)**
+
+Após a aula, reserve 2 minutos para resumir a página inteira em 3-4 frases. Qual era o ponto principal? Qual conceito conecta tudo? Esse resumo ativa memória consolidada, forçando seu cérebro a sintetizar.
+
+## Como Revisar Cadernos Cornell Corretamente?
+
+Ter cadernos bonitos não vale nada se a revisão é ineficaz. O método Cornell exige protocolo de revisão específico: 1º dia (24h após aula), cobrir a zona de notas e tentar lembrar usando só as palavras-chave; 3º dia, mesmo; depois, 1x por semana. Sem protocolo, cadernos Cornell se tornam lindos livros decorativos.
+
+## Cornell Funciona em Digitais ou Só em Papel?
+
+Funciona em ambos. Apps como OneNote, Notion e Obsidian permitem estrutura similar à papel. Vantagem digital: links entre notas, buscas, sincronização. Desvantagem: menos memória motora.
+
+Escolha papel se você aprende escrevendo. Escolha digital se você aprende digitando e revisando.
+
+## Como Converter Cornell em Flashcards para Spaced Repetition?
+
+Palavras-chave Cornell são perfeitas para fazer flashcards. Lado A: palavra-chave (ex: "Fotossíntese"). Lado B: resumo da nota + zona 3 (ex: "Conversão de luz solar em energia química; ocorre em cloroplastos; gera glicose e oxigênio"). Agora você tem sistema de revisão espaçada garantido.
+
+## Erros Comuns ao Usar Cornell
+
+**Erro 1: Escrever tudo palavra por palavra**
+
+Cornell exige síntese durante captura, não depois. Se você escreve tudo, perde o ponto.
+
+**Erro 2: Não deixar espaço em branco**
+
+Cornell é hierarquizado, não preenchimento. Se sua página fica lotada de ponta a ponta, você está de volta às anotações lineares disfarçadas de Cornell.
+
+**Erro 3: Resumo vago**
+
+Resumo deve ser específico. "Muito importante" não vale. "Fotossíntese é processo em 2 fases: reação luminosa (gera ATP) e reação escura (fixa CO2)" vale.
+
+**Erro 4: Não revisar 24h depois**
+
+O protocolo é crítico.
+
+## FAQ: Cornell na Prática
+
+**Posso usar Cornell em aulas rápidas ou só em aulas expositivas?**
+
+Cornell funciona melhor em aulas expositivas (40+ min). Em aulas rápidas (10-15 min), Cornell é overhead. Use estrutura simplificada: só zona de notas e zona de palavras-chave.
+
+**E se a professor fala muito rápido e não consigo acompanhar?**
+
+Priorize capturar ideias-chave, não todas as palavras. Cornell não é transcrição. Se perder algo, deixe espaço e complete depois vendo slide ou pedindo para colega.
+
+**Como uso Cornell para revisão de conceitos de outra disciplina?**
+
+Mesmo protocolo. Zona de notas para conceito (ex: "Segunda Lei de Newton: F = m × a"), zona de palavras-chave para trigger ("Força, massa, aceleração"), zona de resumo para conexão prática ("Quanto maior a força, maior aceleração; massa resiste aceleração").
+
+**Qual tamanho ideal de página Cornell?**
+
+A4 é padrão. Se achar muito grande, use meia página A4 (A5).
+
+**Funciona Cornell sem revisar dentro de 24h?**
+
+Funciona, mas menos. Revisar logo depois da aula tende a aumentar bastante a retenção em comparação a revisar sem prazo definido.
+
+## Conclusão: Cornell é Investimento que Vale
+
+Se você estuda há anos com anotações lineares, experimentar Cornell por 2 semanas (5-6 disciplinas) deve converter você.
+
+Comece amanhã em 1 matéria. Estruture página Cornell. Revise 24h depois. Veja diferença.
+` },
+  { slug: 'flashcards-repeticao-espacada-enem', title: "Flashcards e Repetição Espaçada: Como Memorizar Sem Esforço Infinito", description: "Entenda como flashcards e repetição espaçada exploram a curva do esquecimento para memorizar mais em menos tempo, com comparativo de apps para o ENEM.", date: '2026-07-11', readTime: 5, content: `
+# Flashcards e Repetição Espaçada: Como Memorizar Sem Esforço Infinito
+
+Memorizar é processo, não talento inato. Flashcards combinados com repetição espaçada (spaced repetition) exploram a curva do esquecimento descoberta por Hermann Ebbinghaus em 1885. Este guia ensina a ciência por trás, implementação prática e como escolher apps.
+
+> **Key Takeaways**
+> - Repetição espaçada segue a curva científica de esquecimento de Ebbinghaus
+> - Melhor para conhecimento declarativo (fatos, datas, vocabulário); pior para procedural (habilidades práticas)
+> - Apps como Anki automatizam o intervalo, reduzindo carga cognitiva
+
+## Por que Revisamos Tudo de Novo a Cada Sessão?
+
+Seu cérebro esquece ativamente. Revisão tradicional (reler tudo toda semana) é ineficiente; você gasta tempo revendo o que já domina. Repetição espaçada inverte: você revisa algo logo após aprender (enquanto está fresco) e depois em intervalos crescentes (3 dias, 1 semana, 2 semanas, 1 mês).
+
+## Como Funciona Exatamente a Repetição Espaçada?
+
+O algoritmo é simples: 1. Você aprende um conceito; 2. Revisa 1 dia depois; 3. Se acertou, próxima revisão em 3 dias; 4. Se acertou novamente, próxima em 10 dias; 5. Se errou, volta a 1 dia. Cada acerto aumenta o intervalo seguindo um fator de expansão (tipicamente em torno de 2.5x). Se você errar, o intervalo reseta. Isso garante que você revise cada informação perto do momento em que está prestes a esquecer.
+
+## Qual é o Intervalo Ideal Inicial?
+
+A fórmula clássica (1 dia, 3 dias, 10 dias, depois 2.5x o anterior) deriva da curva de Ebbinghaus, mas é um ponto de partida, não regra fixa. O intervalo ideal depende da complexidade do conceito, familiaridade anterior e objetivo (passar em teste vs entender profundamente). Para ENEM, uma fórmula como 1d, 3d, 10d, 30d, 60d funciona bem na prática. Para fluência de idioma, intervalos menores (1d, 2d, 5d) costumam funcionar melhor.
+
+## Flashcards são Eficazes para Tudo ou Só para Memorização?
+
+Flashcards funcionam bem para: fatos (datas, nomes), vocabulário (idiomas), conceitos definidos (lei de Newton, fotossíntese), procedimentos passo-a-passo. Flashcards funcionam mal para: análise crítica, redação, criatividade, resolução de problemas complexos. Um flashcard não ensina você a escrever redação ENEM; mas ensina estrutura de tópicos para uma redação bem construída.
+
+Se a habilidade é "lembrar", flashcards é 1ª escolha. Se a habilidade é "aplicar", flashcards é ferramenta complementar.
+
+## Anki vs Quizlet vs Outros Apps: Qual Escolher?
+
+**Anki**: Algoritmo de spaced repetition robusto, customizável, sincroniza dispositivos, código aberto. Curva de aprendizado: média-alta. Custo: gratuito (desktop/web), pago no app iOS.
+
+**Quizlet**: Interface simples, comunidade enorme, gratuito com anúncios. Algoritmo de spaced repetition simplificado. Curva de aprendizado: baixa. Sem sincronização offline completa.
+
+**RemNote**: Combinação de flashcard + notas. Algoritmo bom, interface moderna. Curva de aprendizado: média.
+
+Para máxima retenção a longo prazo, Anki costuma ser a escolha de quem já tem disciplina de estudo. Para facilidade e comunidade, Quizlet é mais amigável para começar. Escolha baseada em quanto tempo você tem para aprender a ferramenta.
+
+## Como Você Cria Bons Flashcards (Não Só Flashcards)?
+
+Qualidade de flashcard determina eficácia. Regras básicas:
+
+**Regra 1: Uma ideia por card**
+Errado: "Qual é a capital do Brasil e sua população?"
+Certo: "Qual é a capital do Brasil?" (Brasília) + Card separado "Qual é a população de Brasília?"
+
+**Regra 2: Resposta breve, precisa**
+Errado: "Explique fotossíntese completamente"
+Certo: "Qual é o propósito principal da fotossíntese?" (Converter luz solar em energia química para a planta)
+
+**Regra 3: Use seu próprio idioma**
+Cópias de enciclopédia funcionam pior. Flashcards em suas palavras fixam melhor.
+
+**Regra 4: Adicione contexto quando necessário**
+Errado: "O que é osmose?"
+Certo: "Em Biologia, o que é osmose?" (movimento de água através de membrana semipermeável)
+
+## Spaced Repetition Funciona para Qualquer Idade?
+
+Sim, o princípio da curva de esquecimento se aplica em qualquer idade. O que varia é o tempo total até o esquecimento inicial (influenciado por atenção e interesse), mas a lógica de revisar no momento certo funciona para qualquer perfil de estudante.
+
+Estudantes ENEM (16-25 anos) típicos: 1º review 1 dia, 2º 3 dias, 3º 10 dias. Adultos em reaprendizado: intervalos parecidos costumam funcionar bem também.
+
+## FAQ: Implementando Spaced Repetition
+
+**Quantos cards devo revisar por dia para não ficar sobrecarregado?**
+
+Regra prática: não mais de 20-30 cards novos por dia. Revisão de cards antigos é automática (o app calcula o volume). Comece com 10 cards/dia e aumente gradualmente. Consistência importa mais que volume — criar muitos cards de uma vez e não revisar é receita para desistir.
+
+**E se esquecer de revisar alguns dias? Perde tudo?**
+
+Não. Seus cards apenas "envelhecem" e suas datas de revisão seguinte aumentam. Não há punição; apenas retorno à curva normal. Apps como Anki lidam com isso automaticamente.
+
+**Cards são bons para estudar antes de provas?**
+
+Sim, com ressalva: nas últimas 24-48h antes de prova, revise áreas fracas, não estude cards integralmente. Spaced repetition assume semanas/meses; revisão de última hora funciona melhor com foco nos conceitos-chave.
+
+**Posso usar flashcards digitais ou papel funciona igual?**
+
+Digital é superior para spaced repetition porque o algoritmo calcula os intervalos automaticamente. Papel exige você mesmo gerenciar intervalos, erro comum. Digital sincroniza entre dispositivos. Se só tiver papel, escreva a data de revisão em cada card e siga o protocolo manualmente.
+
+**Quando devo "aposentar" cards já dominados?**
+
+Anki permite manter cards indefinidamente em "suspensão" (pausada). Alguns estudantes suspendem quando o intervalo passa de 180 dias (sinal de domínio) e reativam antes de provas de retomada. Não há resposta única; depende do objetivo (manter conhecimento para sempre vs passar em prova específica).
+
+## Conclusão: Spaced Repetition é Cheat Code da Memorização
+
+Se você passou a vida inteira revendo tudo de novo toda semana, spaced repetition será uma revelação. O algoritmo faz o trabalho pesado; você só revisa no momento certo.
+
+Comece com 1 deck de 30 cards em Anki. Revise consistentemente por 20 dias. Compare a retenção com o período em que estudava sem repetição espaçada.
+` },
+  { slug: 'tecnica-feynman-estudar-enem', title: "Técnica Feynman: Como Aprender Qualquer Coisa Ensinando", description: "Conheça os 4 passos da Técnica Feynman para expor lacunas no seu entendimento explicando conceitos em linguagem simples, e como combiná-la com Pomodoro.", date: '2026-07-11', readTime: 5, content: `
+# Técnica Feynman: Como Aprender Qualquer Coisa Ensinando
+
+A melhor forma de expor lacunas no seu entendimento é tentar explicar para outra pessoa. A Técnica Feynman, nomeada em homenagem ao físico Richard Feynman (1918-1988), força você a quebrar conceitos complexos em linguagem simples. Este guia ensina os 4 passos de Feynman e como integrar em rotina de estudo.
+
+> **Key Takeaways**
+> - 4 passos: escolha conceito, explique em simples, identifique gaps, reformule
+> - Compatível com Pomodoro (1 Pomodoro = 1 conceito explicado)
+> - Expõe rapidamente exatamente o que você não entendeu
+
+## Por que Explicar é Tão Poderoso?
+
+Quando você lê, seu cérebro pode fazer "ilusão de competência": você reconhece as palavras e pensa que entende. Quando você tenta explicar em voz alta ou para papel, sem scripts, a necessidade de ser específico força seu cérebro a recuperar e organizar conhecimento. Pesquisadores chamam isso de "retrieval practice" (prática de recuperação). Explicar é retrieval prático.
+
+## Qual é o Protocolo Exato dos 4 Passos Feynman?
+
+**Passo 1: Escolha o Conceito**
+
+Escolha um conceito discreto: "Fotossíntese", "Revolução Francesa", "Derivadas". Não escolha "toda matéria de Química"; isso é projeto trimestral, não exercício.
+
+**Passo 2: Explique em Linguagem Simples (Para Você Mesmo ou Outra Pessoa)**
+
+Sem slides, sem anotações. Fale em voz alta ou escreva, como se estivesse explicando para alguém sem conhecimento prévio. "Fotossíntese é o processo em que plantas..." Fale até ficar preso ou perceber que não sabe explicar bem uma parte.
+
+**Passo 3: Identifique as Lacunas**
+
+Quando você ficar preso, não continue. Volte ao material (livro, vídeo, aula) e releia especificamente a parte que não conseguiu explicar. Isso é aprendizado focado, não exploração aleatória.
+
+**Passo 4: Reformule em Termos Mais Simples Ainda**
+
+Volte ao passo 2 e explique de novo, agora cobrindo a lacuna que preencheu. Repita até conseguir explicação fluida.
+
+## Feynman é Melhor Que Resumir?
+
+Resumir é ato de síntese; Feynman é ato de explicação. São complementares. Resumir: condensar texto em pontos-chave. Feynman: articular pontos-chave sem referência. Resumo é estático; Feynman é dinâmico (você fala/escreve, não só copia).
+
+Recomendação: Cornell (anotação estruturada) → Feynman (explicação) → Flashcards (consolidação).
+
+## Como Você Implementa Feynman com Pomodoro?
+
+1 Pomodoro (25 min) é um bom tempo para 1 conceito Feynman. Primeiros 15 min: explicação inicial (passo 2), até ficar preso (passo 3). Últimos 10 min: volta ao material, reformula (passo 4), explica novamente até conseguir fluência. No próximo Pomodoro, novo conceito.
+
+Com esse ritmo, você cobre vários conceitos em uma sessão de 3h (6 Pomodoros), com qualidade de aprendizado superior à revisão tradicional no mesmo tempo.
+
+## Feynman Funciona Melhor Sozinho ou em Grupo?
+
+Ambos. Sozinho: você é mais rigoroso (não há plateia complacente). Em grupo: o feedback de outras pessoas expõe gaps que você não veria sozinho. Idealmente: mais vezes por semana sozinho (auto-rigor), pelo menos uma vez em grupo (retroalimentação).
+
+## Erros Comuns ao Usar Feynman
+
+**Erro 1: Memorizar a explicação**
+
+Você não quer decorar uma explicação bonitinha. Quer compreender. Se você memoriza a explicação, volta à ilusão de competência.
+
+**Erro 2: Usar jargão quando ficar preso**
+
+"Uh, processo de... reação fotossintética que, sabe, é complexo..." Não. Volte à fonte e entenda, em palavras simples. Se você não consegue explicar sem jargão, não entendeu ainda.
+
+**Erro 3: Pular o passo 3 (identificar lacunas)**
+
+Se você explica e fica preso, pause. Volte. Não tente "pensar mais" e continuar. O gap é uma mensagem clara: você precisa reler.
+
+**Erro 4: Usar Feynman para tudo**
+
+Algumas coisas (procedimento passo-a-passo, algoritmo) são melhor aprendidas fazendo, não explicando. Feynman funciona bem para conceitos, princípios, história. É pior para habilidades práticas.
+
+## FAQ: Feynman em Situações Reais
+
+**Posso fazer Feynman mentalmente sem falar em voz alta?**
+
+Escrever é bem melhor que mental. No mental é fácil pular partes; o escrito força você a ser completo. Se não pode falar, escreva. Pelo menos isso.
+
+**Como faço Feynman se estou nervoso falando pra outras pessoas?**
+
+Comece sozinho. Fale para a parede, para um gravador, escreva em papel. Familiaridade reduz o nervosismo. Depois de algumas sessões sozinho, o grupo será menos assustador.
+
+**Feynman funciona para idiomas?**
+
+Sim. Melhor uso: explicar uma regra gramatical em voz alta (passo 2), identificar onde fica preso (passo 3), reler a regra (volta ao material), explicar novamente até fluência. Para vocabulário isolado, é menos eficaz que flashcards. Para compreensão de leitura, é excelente.
+
+**Qual é o tempo ideal por conceito Feynman?**
+
+Se o conceito é simples (definição, regra): 5-10 min. Se é complexo (processo, conexão entre ideias): 20-30 min. Uma média razoável fica em torno de 15 min por conceito para matérias de ENEM.
+
+**Posso gravar sessões Feynman e ouvir depois?**
+
+Sim. Ouça 1-2 dias depois. Você vai se surpreender com lacunas que criou — é um sinal de que os gaps foram corretamente identificados. Ouvir depois ajuda a consolidar a compreensão.
+
+## Conclusão: Feynman Converte Leitura em Compreensão
+
+Se você estuda passivamente (ler, reler, grifo), Feynman é uma atualização crítica. A técnica força seu cérebro a sair do "reconhecimento" (leitura) para a "recuperação" (explicação), uma mudança poderosa para o aprendizado durável.
+
+Teste amanhã: escolha 1 conceito, explique por 15 min para a parede, identifique lacunas, reformule. Se conseguir explicar com fluência sem anotações, entendeu. Se não conseguir, volte ao material.
+` },
+  { slug: 'mapas-mentais-estudar-enem', title: "Mapas Mentais: Como Visualizar Tudo o Que Você Aprende", description: "Aprenda a estruturar mapas mentais para conectar conceitos do ENEM, quando usar em vez de anotações lineares e os erros mais comuns ao criar um.", date: '2026-07-11', readTime: 5, content: `
+# Mapas Mentais: Como Visualizar Tudo o Que Você Aprende
+
+Ideias isoladas são frágeis; ideias conectadas são memoráveis. Mapas mentais (mind maps) transformam informação linear em estrutura visual hierárquica, refletindo como o cérebro naturalmente organiza conhecimento. Este guia ensina quando usar, como estruturar e integrar em plano de estudo.
+
+> **Key Takeaways**
+> - Mapas mentais funcionam melhor para conectar conceitos do que para memorização pura
+> - Requerem síntese ativa: ideal pós-aula, não durante
+> - Combine com Cornell (captura) e flashcards (memorização) para cobrir todo o ciclo de estudo
+
+## Por que Mapas Mentais Funcionam Melhor para Conceitos?
+
+Seu cérebro não pensa de forma linear. Pensa em rede: "fotossíntese" conecta a "plantas", "energia", "luz", "clorofila", "glicose". Anotações lineares forçam uma estrutura artificial (parágrafo 1, parágrafo 2). Mapas mentais permitem estrutura radial: conceito central com ramificações, o que ajuda a visualizar como os tópicos se relacionam.
+
+Pessoas visuais tendem a se beneficiar mais, mas quem prefere texto também ganha algo: a estrutura força você a decidir quais conceitos são centrais e quais são periféricos, algo que a leitura linear não exige.
+
+## Como Estruturar um Mapa Mental Eficaz?
+
+**1. Centro Claro**
+
+Conceito central no meio da página, envolvido em círculo. Ex: "Revolução Francesa" ou "Respiração Celular". Nunca um título vago como "Biologia"; sempre um conceito específico.
+
+**2. Ramificações Principais (3-6)**
+
+Primeiras ramificações saem do centro. Cada uma é um tema-chave relacionado ao centro. Para "Revolução Francesa": Causas, Fases, Personagens, Consequências, Ideias Principais.
+
+**3. Ramificações Secundárias (detalhes)**
+
+Saem das ramificações principais. Ex: Causa → Débito da coroa francesa, Fome, Desigualdade social. Limite também aqui: 3-5 por ramificação principal.
+
+**4. Cores e Imagens**
+
+Cores diferentes por ramificação principal facilitam a busca visual. Ícones pequenos (setas, símbolos) ajudam na memorabilidade.
+
+**5. Hierarquia Clara**
+
+Mais próximo do centro é mais geral. Mais distante é mais específico. Nunca pule níveis.
+
+## Mapas Mentais vs Anotações Cornell: Quando Usar Cada Uma?
+
+**Cornell**: aula, captura de informação, estrutura para revisão rápida. Durante a aula, estruture Cornell.
+
+**Mapas Mentais**: síntese pós-aula, conexão entre conceitos, preparação para provas discursivas/redação. Depois da aula/livro, faça o mapa mental.
+
+Sequência ideal: Cornell (captar) → Feynman (entender) → Mapa Mental (conectar) → Flashcards (memorizar).
+
+## Mapas Mentais Funcionam Melhor em Papel ou Digital?
+
+Papel: flexibilidade, memória motora, sem distrações. Desvantagem: difícil revisar/editar, não sincroniza.
+
+Digital (MindMeister, XMind, Notion): fácil revisar, sincroniza, customização. Desvantagem: mais passos para criar, pode engajar menos o cérebro do que desenhar à mão.
+
+Para quem tem tempo limitado (como na reta final do ENEM), digital costuma compensar pela velocidade de revisão, mesmo que a criação manual em papel force mais processamento ativo do conteúdo.
+
+## Erros Comuns em Mapas Mentais
+
+**Erro 1: Mapas muito complexos**
+
+Se você precisa de zoom para ler, está excessivamente detalhado. Um mapa mental deve caber em 1 visualização.
+
+**Erro 2: Texto em excesso**
+
+Máximo 2-3 palavras por ramificação. Se você está escrevendo frases inteiras, está usando Cornell, não mapa mental.
+
+**Erro 3: Sem revisão visual**
+
+Criar o mapa e nunca olhar de novo é desperdício. Revise 1 dia depois, 1 semana depois.
+
+**Erro 4: Mapa mental para tudo**
+
+Nem todo conceito se beneficia. Algoritmos passo-a-passo (como resolver um cálculo) funcionam melhor em lista numerada do que em mapa.
+
+## Quando Mapas Mentais Não São Eficazes?
+
+Mapas mentais são piores para:
+- Procedimentos sequenciais (passo 1, então 2, então 3)
+- Memorização pura (datas, nomes isolados)
+- Conceitos muito lineares (linha do tempo histórica: 1800 → 1850 → 1900)
+
+São melhores para: conceitos relacionais, comparações, síntese.
+
+## FAQ: Mapas Mentais em Prática
+
+**Qual é o tempo ideal para criar um mapa mental?**
+
+10-30 minutos dependendo da complexidade. Mais que 1h costuma indicar que está muito detalhado. Lembre-se: mapa mental não é trabalho artístico, é ferramenta de aprendizado.
+
+**Posso fazer mapa mental enquanto estou aprendendo ou só depois?**
+
+Depois é melhor. Durante a aula, foque em Cornell (captar). Depois da aula você tem tranquilidade para a síntese do mapa. Se fizer durante a aula, perde parte da explicação do professor.
+
+**Como uso mapa mental para preparar redação ENEM?**
+
+Excelente uso. Tema de redação no centro. Ramificações: argumentos principais, dados/exemplos para cada argumento, contra-argumentos, conclusão. Você visualiza a estrutura inteira em 1 página. Recomendado fazer isso cerca de 20 minutos antes de escrever.
+
+**Mapas mentais funcionam para todas as disciplinas?**
+
+Funcionam melhor em Humanas (História, Filosofia, Sociologia) e conceitos de Biologia. Funcionam menos em Matemática (use listas de fórmulas) e resolução de problemas (use simulações/prática). Para Física/Química: mapas para conexões conceituais, não para procedimentos.
+
+**Quantas vezes devo revisar um mapa mental criado?**
+
+Protocolo: revisar 1 dia depois, 1 semana depois, e na semana anterior à prova. Sem esse protocolo, a retenção cai.
+
+## Conclusão: Mapas Mentais são Síntese Visual
+
+Se você estuda matérias com muitas conexões conceituais (História, Biologia, Química), mapas mentais transformam fragmentação em coerência. A técnica força síntese ativa e cria um documento visual reutilizável para revisão.
+
+Teste em 1 matéria esta semana: complete a aula/capítulo, faça um mapa mental colorido em 20 minutos, revise 1 semana depois. Compare a retenção com sua rotina anterior.
+` },
+  { slug: 'active-recall-vs-revisao-passiva-enem', title: "Active Recall vs Revisão Passiva: Por que Reler é a Maneira Mais Lenta de Aprender", description: "Descubra a diferença entre active recall e revisão passiva, por que reler cria uma ilusão de competência, e como aplicar recuperação ativa na rotina de estudo.", date: '2026-07-11', readTime: 5, content: `
+# Active Recall vs Revisão Passiva: Por que Reler é a Maneira Mais Lenta de Aprender
+
+Reler é confortável, mas ilusório. Seu cérebro reconhece palavras e cria sensação de entendimento sem aprendizado real. Active recall (recuperação ativa) força seu cérebro a recuperar informação de memória, processo neurologicamente diferente de reconhecer. Este guia diferencia ambos e ensina como implementar active recall em rotina.
+
+> **Key Takeaways**
+> - Active recall = testes, explicação, flashcards; revisão passiva = reler, grifo
+> - Revisão passiva cria "ilusão de competência": sensação falsa de domínio
+> - Testar-se é mais difícil no momento, mas retém mais a longo prazo
+
+## O Que Exatamente é Active Recall?
+
+Active recall é o ato de recuperar informação de memória sem pista visual. Teste: "Qual é a capital do Brasil?" (você tenta lembrar antes de olhar a resposta). Revisão passiva: ler "A capital do Brasil é Brasília" e apenas reconhecer.
+
+A recuperação ativa exige que o cérebro busque a informação por conta própria, enquanto a leitura passiva ativa principalmente reconhecimento visual e compreensão superficial. Pesquisas sobre prática de recuperação (Karpicke & Blunt, 2011) mostram que testar-se produz mais aprendizado duradouro do que reler ou fazer mapas de estudo.
+
+## Por que Revisão Passiva Cria Ilusão de Competência?
+
+Seu cérebro confunde facilidade de reconhecimento com domínio. Se você lê "Fotossíntese = processo de conversão de luz em energia" três vezes, na próxima vez que vê a palavra "fotossíntese" seu cérebro ativa: "ah, conheço isso, já li". Isso é fluência perceptual, não aprendizado.
+
+Quando você é testado (recall), o cérebro deve recuperar sem pista: "Defina fotossíntese". Isso é difícil inicialmente, mas essa dificuldade é exatamente o que ajuda a consolidar a memória — o que pesquisadores como Robert Bjork chamam de "desejável dificuldade".
+
+Estudantes que só releem relatam confiança alta antes de provas, depois falham. Estudantes que usam active recall relatam menos confiança durante o estudo, mas melhor performance em provas.
+
+## Quais São as Melhores Formas de Active Recall?
+
+**Forma 1: Testes de Prática (Gabaritados)**
+
+Fazer simulados, questões de provas anteriores, bancos de exercícios. Sem corrigir imediatamente; tente responder tudo antes.
+
+**Forma 2: Flashcards / Spaced Repetition**
+
+Responder o lado A do card sem olhar o lado B força recuperação sem pista. Combine com o calendário de revisão espaçada para revisar cada card no momento certo antes de esquecer.
+
+**Forma 3: Feynman / Explicação**
+
+Explicar o conceito em voz alta ou por escrito, sem consultar material, expõe exatamente onde está a lacuna de entendimento — é uma forma de active recall aplicada a conceitos inteiros, não só a fatos isolados.
+
+**Forma 4: Geração de Resumos (Sem Consultar Material)**
+
+Leia um parágrafo, feche o livro, tente resumir de memória. Depois verifique.
+
+**Forma 5: Questionamento Socrático (Perguntas Abertas)**
+
+Formule suas próprias perguntas sobre o conceito, responda.
+
+## Como Balancear Active Recall e Revisão Passiva Sem Queimar?
+
+Com 3h de estudo por dia, uma proporção razoável é dedicar a maior parte do tempo a métodos ativos e reservar uma fração menor para revisão passiva (reler anotações, ver resumos).
+
+Ciclo semanal sugerido: segunda a quarta (foco em métodos ativos), quinta e sexta (revisão mista), sábado (revisão passiva + descanso).
+
+## Teste Mental: Você Sabe Ou Apenas Reconhece?
+
+Na próxima vez que estudar, teste a si mesmo: feche o livro, escreva tudo que lembra sobre o conceito. Se conseguir gerar informação nova (detalhes que não decorou, mas deduziu), é recall. Se só consegue reconhecer quando vê, ainda é revisão passiva.
+
+## FAQ: Active Recall Prático
+
+**Qual é o tipo de teste melhor para active recall?**
+
+Teste de resposta aberta (discursiva) é mais poderoso que múltipla escolha. Múltipla escolha funciona, mas oferece pistas. Discursiva força recuperação completa.
+
+**Como faço active recall se não tenho banco de exercícios grandes?**
+
+Crie seus próprios testes. Leia o parágrafo, escreva 3-5 perguntas que poderia fazer, depois responda sem consultar.
+
+**Posso misturar active recall com revisão passiva na mesma sessão?**
+
+Sim, mas a ordem importa. Active recall primeiro (quando a mente está fresca), depois revisão passiva (relaxamento final). A ordem invertida reduz o benefício.
+
+**E se acertar tudo no teste? Continuo revisando?**
+
+Se você acerta, já demonstrou recall. Mas o conceito ainda não está totalmente consolidado; precisa revisar em intervalos posteriores (spaced repetition). Sim, continua revendo, mas com menor frequência para os itens que acertou.
+
+**Qual é o medo de active recall que mais bloqueia estudantes?**
+
+Falhar é desconfortável. Mas falhar em estudo (baixo risco) é melhor que falhar em prova (alto risco). Estudantes precisam de um reframing mental: errar durante o estudo é ganho, não fracasso.
+
+## Conclusão: Active Recall é Mais Cansativo, Mas Funciona
+
+Revisão passiva é confortável. Seu cérebro evita active recall naturalmente. Se você escolhe conforto agora, paga em desempenho depois.
+
+Teste esta semana: substitua metade das suas sessões de releitura por testes de active recall e compare sua confiança e retenção com o período anterior.
+` },
+  { slug: 'leitura-estrategica-sq3r-enem', title: "Leitura Estratégica: Como Ler Livros e Artigos Mais Rápido", description: "Conheça os 4 tipos de leitura e o sistema SQ3R (Survey, Question, Read, Recite, Review) para ganhar velocidade de leitura sem perder compreensão no ENEM.", date: '2026-07-11', readTime: 5, content: `
+# Leitura Estratégica: Como Ler Livros e Artigos Mais Rápido
+
+Ler todo livro da mesma forma é ineficiente. Leitura estratégica varia velocidade, profundidade e propósito conforme o material. O sistema SQ3R (Survey, Question, Read, Recite, Review), desenvolvido por Francis Robinson em 1946, aumenta compreensão e velocidade simultaneamente. Este guia ensina os tipos de leitura e como aplicar o SQ3R.
+
+> **Key Takeaways**
+> - 4 tipos de leitura — exploratória, estrutural, crítica, profunda — escolha conforme o propósito
+> - SQ3R ajuda a ganhar velocidade sem perder compreensão
+> - Os primeiros 5 minutos de exploração (survey) definem a velocidade ideal para o material
+
+## Qual Tipo de Leitura Você Deveria Usar?
+
+**Leitura exploratória**: objetivo é entender a estrutura geral, achar informação específica. Técnica: leia títulos, primeiras/últimas frases dos parágrafos, índice. Tempo: 5-10 min por capítulo. Uso: pré-leitura, busca rápida de informação.
+
+**Leitura estrutural**: objetivo é entender o conteúdo completo, reter informação. Técnica: leia cada parágrafo, tome anotações Cornell. Tempo: normal. Uso: estudo principal.
+
+**Leitura crítica**: objetivo é questionar, comparar, avaliar. Técnica: pause para questionar cada seção, identifique premissas, compare com conhecimento prévio. Uso: análise, redação, filosofia.
+
+**Leitura profunda**: objetivo é compreensão máxima, conexão com o conteúdo. Técnica: leia devagar, explore ambiguidades. Tempo: lento. Uso: literatura, textos complexos.
+
+Na reta final do ENEM, você raramente tem tempo para leitura profunda — priorize exploratória e estrutural.
+
+## O Sistema SQ3R Explicado Passo-a-Passo
+
+**S — Survey (Exploração, 5 min)**
+
+Título, índice, primeiras/últimas páginas. Qual é o tema geral? Quais são as seções principais? Sua mente cria um mapa cognitivo prévio.
+
+**Q — Question (Questionamento, 2 min)**
+
+Formule perguntas que espera responder. "Qual é a estrutura de uma célula?" "Por que ocorre fotossíntese?" Perguntas ativam a busca ativa enquanto você lê.
+
+**R — Read (Leitura, tempo variável)**
+
+Leia normalmente, mas procure respostas às perguntas de Q. Anotações Cornell enquanto lê.
+
+**R — Recite (Recitação, 3-5 min)**
+
+Logo após ler a seção, feche o livro e tente recitar (explicar oralmente ou escrever) o que aprendeu sem consultar. Isso é active recall. Se não conseguir, volte e releia.
+
+**R — Review (Revisão, 2-3 min)**
+
+Revise suas anotações. Cubra a zona de notas, tente lembrar usando só as palavras-chave. Se não lembrar, releia.
+
+## Erros Comuns em Leitura que Reduzem Velocidade
+
+**Erro 1: Subvocalização**
+
+Você "ouve" cada palavra mentalmente. É normal, mas reduz velocidade. Praticar leitura ativa (com propósito e perguntas de Q) ajuda a reduzir a dependência da subvocalização com o tempo.
+
+**Erro 2: Regressão Constante**
+
+Você relê frases por insegurança. Tática: passe a primeira vez mesmo que perca detalhes, volte se realmente necessário.
+
+**Erro 3: Ler Tudo com a Mesma Velocidade**
+
+Você não precisa ler a introdução com a mesma atenção da definição de um conceito central. Ajuste a velocidade conforme a importância.
+
+**Erro 4: Não Fazer Pré-Leitura**
+
+Pular direto para a leitura completa sem fazer o Survey inicial faz você perder o mapa geral do texto — você lê sem saber onde as ideias centrais estão, o que aumenta releituras desnecessárias depois.
+
+## Qual é a Velocidade de Leitura Ideal?
+
+Não existe velocidade única; depende de:
+- Complexidade do material (ficção é mais rápida de ler que biologia avançada)
+- Propósito (exploração é mais rápida; leitura profunda é mais lenta)
+- Familiaridade com o tópico
+
+Para estudo ENEM, uma velocidade moderada com boa compreensão vale mais que velocidade máxima. Ganhar 2-3x de velocidade com prática consistente de SQ3R ao longo de algumas semanas é uma meta realista.
+
+## Quando SQ3R Não Funciona Tão Bem?
+
+SQ3R é melhor para texto expositório (não-ficção). Para ficção, reduz o prazer da leitura. Para matemática, adapte (Q e R são críticos, S e Recite menos). Para artigos de pesquisa, modifique (Survey vira resumo + conclusão, depois metodologia/resultados).
+
+SQ3R é um framework flexível, não um dogma.
+
+## FAQ: Leitura Estratégica em Prática
+
+**Qual é a diferença entre scanning e skimming?**
+
+Scanning: busca informação específica (número, data, palavra-chave), pulando partes deliberadamente. Skimming: leitura superficial para entender a ideia geral. Ambos são exploratórios, mas scanning é mais direcionado.
+
+**Posso usar leitura estratégica em ficção sem perder o prazer?**
+
+SQ3R completo em ficção é excessivo. Mas uma leitura exploratória antes (sinopse, primeiros capítulos) ajuda no engajamento. Depois, leia com mais profundidade.
+
+**Como faço leitura estratégica com artigos científicos (papers)?**
+
+Adapte: S = leia título, resumo, conclusão; Q = formule perguntas específicas sobre os achados; R = leia metodologia e resultados; Recite = explique os achados; Review = revise suas anotações.
+
+**E se tiver deadline curto, não tenho 5 min para Survey?**
+
+O Survey é um investimento: 5 min de exploração economiza tempo perdido em leitura confusa depois. Vale a pena mesmo com prazo apertado. Mas se realmente for impossível, priorize Read + Recite sobre Survey + Question.
+
+**Existe app para treinar velocidade de leitura?**
+
+Existem apps de leitura rápida, mas eles tendem a comprometer a compreensão no início. A abordagem mais confiável é ler material real (livros, artigos) aplicando SQ3R consistentemente por algumas semanas — a velocidade aumenta naturalmente junto com a compreensão.
+
+## Conclusão: Leitura Estratégica é Habilidade, Não Dom
+
+Velocidade de leitura é treinável. SQ3R é uma ferramenta testada há décadas. Investindo algumas semanas em aplicação consistente, você ganha velocidade real sem perder compreensão.
+
+Comece amanhã: escolha um capítulo ou artigo, aplique S-Q-R-R-R, compare o tempo e a compreensão com sua leitura normal.
+` },
+  { slug: 'resumos-eficientes-enem', title: "Resumos Eficientes: Síntese Que Consolida Aprendizado", description: "Aprenda o protocolo de 4 passos para fazer resumos que realmente consolidam aprendizado, a diferença entre resumo bom e ruim, e quando vale a pena resumir.", date: '2026-07-11', readTime: 4, content: `
+# Resumos Eficientes: Síntese Que Consolida Aprendizado
+
+Resumir é compressão de informação, não cópia compactada. Este guia ensina a diferença entre resumo bom e ruim e um protocolo de síntese em 4 passos.
+
+> **Key Takeaways**
+> - Hierarquização é crítica: ideias principais > secundárias > exemplos
+> - Sem releitura 24h depois, o resumo vira papel decorativo
+> - Vale a pena resumir apenas material longo ou complexo, não textos curtos
+
+## Qual É a Diferença Entre Resumo Bom e Ruim?
+
+**Resumo Ruim:**
+"Fotossíntese é processo biológico importante em plantas. Plantas usam luz solar. A luz é usada para gerar energia. As plantas têm clorofila. Clorofila capta luz. Luz é convertida em glicose. Glicose é energia para a planta. O processo acontece em cloroplastos."
+
+**Resumo Bom:**
+"Fotossíntese: conversão de luz solar em energia química (glicose) em cloroplastos via clorofila. Equação: 6CO2 + 6H2O + luz → C6H12O6 + 6O2."
+
+## Protocolo de 4 Passos para Resumo Eficiente
+
+**Passo 1: Leia Completo Sem Anotações (5-10 min)**
+
+Não interrompa com resumo parcial. Leia tudo primeiro. Seu cérebro precisa de contexto total para hierarquizar corretamente. Se interrompe, marca como importante coisas que depois percebe serem secundárias.
+
+**Passo 2: Identifique Ideias Principais (3-5 ideias)**
+
+Feche o livro. Pergunte-se: "Se eu tivesse que contar tudo isso em 30 segundos, o que diria?" Essas 3-5 ideias são o esqueleto do seu resumo.
+
+**Passo 3: Escreva o Resumo (Hierarquizado)**
+
+Formato recomendado:
+- Ideia 1
+  - Suporte 1
+  - Suporte 2
+- Ideia 2
+  - Suporte
+- Conclusão (1 frase)
+
+Máximo 15 linhas por página original.
+
+**Passo 4: Revise 24h Depois (Sem Consultar)**
+
+Leia o resumo. Tente lembrar o texto original. Se não lembrar, releia o original e atualize o resumo. A revisão força recuperação (active recall).
+
+## Quando Você Deveria Fazer Resumo vs Quando Não Vale
+
+**Faça resumo para:**
+- Capítulos inteiros (15+ páginas)
+- Conceitos complexos com múltiplas camadas
+- Preparação para provas discursivas (síntese necessária)
+
+**Não faça resumo para:**
+- Textos curtos (menos de 5 páginas)
+- Procedimentos passo-a-passo (use lista numerada)
+- Material que você já tem em Cornell bem estruturado
+- Ficção (resumo mata a graça)
+
+O retorno de resumir é alto apenas para textos longos. Resumir 2 páginas é overhead desnecessário; Cornell já é suficiente nesse caso.
+
+## Erros Comuns em Resumos
+
+**Erro 1: Copiar frases do original**
+
+Você não aprendeu, apenas reconheceu. Parafrasear em suas próprias palavras força a síntese.
+
+**Erro 2: Incluir exemplos**
+
+Exemplos são ilustrativos, não essenciais. O resumo deve conter as ideias principais. Exemplos viram secundários (notas de rodapé se necessário).
+
+**Erro 3: Resumo muito longo**
+
+Se um resumo de 20 páginas fica com 8 páginas, não é resumo, é paráfrase. Alvo: 2-3 páginas para 20 páginas originais.
+
+**Erro 4: Resumo sem revisão**
+
+Criou um resumo ótimo na segunda-feira e nunca abriu de novo? Foi desperdiçado. A revisão 24h/1 semana depois é crítica.
+
+## FAQ: Resumos na Prática
+
+**Qual é a ferramenta melhor para organizar resumos?**
+
+Papel é ótimo pela clareza. Digital (Notion, OneNote) é melhor para revisão (busca, sincronização). Experimente ambos e escolha o que funciona melhor para você.
+
+**Posso fazer resumo enquanto estou lendo ou só depois?**
+
+Depois é melhor (força retenção). Mas Cornell enquanto lê + resumo depois combina bem: Cornell captura notas e palavras-chave, o resumo é a síntese final.
+
+**E se não conseguir resumir porque não entendi o texto?**
+
+Volte para a Técnica Feynman. Tente explicar sem resumir. Se não consegue explicar, não está pronto para resumir. Entendimento precede síntese.
+
+**Resumo em tópicos vs em prosa. Qual é melhor?**
+
+Tópicos com hierarquia funcionam melhor para revisão rápida. Prosa funciona melhor para aprendizado profundo. Para ENEM, com revisão rápida sendo prioridade, tópicos costumam ser mais úteis.
+
+**Qual é a duração ideal de um resumo completo?**
+
+Um livro de 300 páginas costuma ficar bem resumido em 30-45 páginas. Se ficar muito maior que isso, está inchado.
+
+## Conclusão: Resumo é Síntese, Não Compressão
+
+Resumo eficiente exige disciplina: ler completo, atrasar a escrita, hierarquizar rigorosamente, revisar. O retorno é claro: um documento compacto e reutilizável que consolida o aprendizado.
+
+Teste no próximo capítulo: aplique o protocolo de 4 passos, revise 24h depois, e compare a retenção com quando você apenas relê.
+` },
+  { slug: 'grifo-inteligente-enem', title: "Grifo Inteligente: Como Destacar Sem Encher a Página de Neon", description: "Aprenda quando o grifo ajuda e quando atrapalha a retenção, o protocolo de grifo em 4 passos e como combinar cores para hierarquizar informação.", date: '2026-07-11', readTime: 4, content: `
+# Grifo Inteligente: Como Destacar Sem Encher a Página de Neon
+
+Este guia ensina quando o grifo ajuda e quando atrapalha o aprendizado.
+
+> **Key Takeaways**
+> - Grifar antes de ler é uma armadilha; grifar depois de ler é mais eficaz
+> - Use cores para criar hierarquia: verde para conceito, amarelo para detalhe, rosa para exceção
+
+## Por que Grifo Demais Prejudica a Retenção?
+
+Seu cérebro usa o grifo como pista de importância. Resultado: durante a revisão, você relê tudo de novo em vez de focar nas ideias centrais.
+
+O grifo funciona como índice visual para revisão, não como ferramenta de aprendizado durante a leitura. Se você grifa enquanto lê, isso influencia a leitura (o cérebro volta para o grifo em vez de continuar) e cria uma ilusão de conhecimento (o ato de grifar passa a sensação falsa de que você já aprendeu).
+
+## Protocolo de Grifo Inteligente
+
+**Passo 1: Leia o Parágrafo Completo Sem Grifar**
+
+Deixe a caneta de lado. Leia tudo. Seu cérebro precisa ver o contexto completo antes de decidir o que é importante.
+
+**Passo 2: Volte e Grife Só o Essencial (Máximo 2-3 palavras por parágrafo)**
+
+Depois de ler o parágrafo, volte. Procure a frase ou expressão que captura a ideia central. Grife exatamente isso, nada mais.
+
+**Passo 3: Use Cores Hierarquicamente**
+
+- Caneta verde: conceitos principais (definições, ideias centrais)
+- Caneta amarela: detalhes importantes que suportam os principais
+- Caneta rosa: exceções, contra-exemplos, alertas
+
+Limite-se a 3 cores. Mais cores criam confusão.
+
+**Passo 4: Nunca Grife na Primeira Leitura**
+
+Se é a primeira leitura do texto, não grife. Sua prioridade é compreender. O grifo vem na releitura ou durante a revisão. Estudantes que esperam alguns dias após a primeira leitura para grifar (durante a revisão espaçada) costumam grifar de forma mais inteligente, porque já sabem o que realmente é central.
+
+## Qual é a Taxa Ideal de Grifo?
+
+Para um texto de 10 páginas, algo em torno de 1 página grifada costuma ser um bom equilíbrio. Grifar bem mais que isso tende a gerar excesso de destaque e retenção pior, porque nada se distingue mais como prioritário.
+
+## Grifo é Melhor Que Outros Métodos de Destaque?
+
+Grifo funciona bem em papel. Destacar digitalmente costuma ser um pouco menos eficaz (menos memória motora envolvida). Anotações laterais são similares em eficácia ao grifo, às vezes até melhores. Sublinhado funciona de forma parecida ao grifo.
+
+A combinação ideal é grifo mais anotação lateral (uma palavra-chave na margem): o grifo funciona como índice, a anotação como lembrança do porquê aquilo importa.
+
+## Erros Comuns
+
+**Erro 1: Grifar enquanto lê pela primeira vez**
+
+Você está escolhendo o que é importante sem ter o contexto completo ainda.
+
+**Erro 2: Grifar frases completas**
+
+Grifar "A fotossíntese é o processo de conversão de luz solar em energia química" é demais. Grifar "fotossíntese" ou "conversão luz → energia" é o ideal.
+
+**Erro 3: Grifar para "parecer que está estudando"**
+
+Psicologicamente, o ato de grifar parece estudo. Não é. Grifo é ferramenta, não fim.
+
+**Erro 4: Esquecer de revisar os grifos**
+
+Grifar sem revisar depois é decorativo. Revisar os grifos (olhar os grifos, reler o contexto ao redor, tentar recitar sem olhar) fecha o ciclo.
+
+## FAQ: Grifo na Prática
+
+**Como faço grifo em PDFs ou digital sem papel?**
+
+Leitores de PDF (GoodNotes, Notability) permitem destaque parecido com o papel. Notion tem highlight nativo. A ferramenta importa menos que a disciplina.
+
+**Se já cometi o erro de grifar demais, como recupero?**
+
+Na próxima releitura, ignore os grifos antigos. Releia com foco em compreensão. Depois, grife novamente (de forma mais inteligente, agora que você realmente compreendeu).
+
+**Posso usar grifo combinado com Cornell?**
+
+Sim. Durante a aula, use Cornell (sem grifo). Depois da aula, leia suas notas Cornell e grife no máximo 1 frase por nota. Depois revise os grifos. Combina bem.
+
+**E se meu professor usa o grifo como critério de estudo?**
+
+Grifo é uma ferramenta sua, não para mostrar ao professor. Se o critério de avaliação for pelo grifo, use o método que funciona para você mesmo assim.
+
+## Conclusão: Grifo é Índice, Não Estudo
+
+Grifo inteligente, usado com moderação e depois de ler o texto completo, cria um documento eficiente para revisão sem overhead.
+
+Aplique o protocolo de 4 passos no próximo capítulo. Compare sua retenção com o sistema anterior de grifar tudo durante a primeira leitura.
+` },
+  { slug: 'revisao-espacada-calendario-enem', title: "Revisão Espaçada: O Calendário Científico Para Nunca Mais Esquecer", description: "Conheça o calendário de revisão espaçada (1-3-7-14-30 dias) baseado na curva de esquecimento de Ebbinghaus e como aplicá-lo sem apps no ENEM.", date: '2026-07-11', readTime: 5, content: `
+# Revisão Espaçada: O Calendário Científico Para Nunca Mais Esquecer
+
+Esquecimento é uma curva, não um precipício. Hermann Ebbinghaus (1885) descobriu que a retenção cai de forma acelerada sem revisão. Mas revisão estratégica em intervalos crescentes inverte essa curva. Este guia ensina um calendário prático e como implementar sem apps.
+
+> **Key Takeaways**
+> - A primeira revisão é a mais crítica: 24h após aprender
+> - Cada acerto aumenta o intervalo seguinte; cada erro reseta para o início
+> - Um calendário simples (1-3-7-14-30 dias) já cobre a maior parte do ganho
+
+## Como Funciona a Curva de Esquecimento de Ebbinghaus?
+
+Ebbinghaus memorizou sequências de sílabas sem sentido e testou a si mesmo em intervalos. O gráfico de retenção sem revisão é decrescente e acelerado, não linear.
+
+Mas com revisão no momento certo (perto do ponto em que você estaria prestes a esquecer), a curva se inverte: a próxima revisão pode acontecer bem mais tarde que a anterior, e esse padrão se repete a cada ciclo.
+
+## O Calendário de Revisão
+
+**Primeira revisão: 24 horas após aprender**
+
+Crítica. É o momento em que você está mais perto de esquecer o conteúdo recém-aprendido.
+
+**Segunda revisão: 3 dias após a primeira**
+
+**Terceira revisão: 7 dias após a segunda**
+
+**Quarta revisão: 14-21 dias após a terceira**
+
+Nesse ponto você já pode revisar apenas as ideias que errou; as que acertou consistentemente podem ter intervalos ainda maiores.
+
+**Quinta revisão: 30 dias após a quarta**
+
+Para quem quer consolidar por completo.
+
+**Revisões seguintes: expandir para 60-90-180-365 dias**
+
+Depende do objetivo. Para passar em uma prova específica, você pode parar por aqui. Para aprendizado duradouro, o ciclo continua.
+
+## Diferença Entre "Revisão Quando Tiver Tempo" vs Calendário Espaçado
+
+"Quando tiver tempo" costuma virar: dia 0 (aprender), dia 2 (por acaso), dia 8 (por acaso), dia 25 (por acaso). Intervalos aleatórios e inconsistentes geram retenção que varia muito de conteúdo para conteúdo.
+
+Um calendário espaçado (1-3-7-14-30) é consistente e previsível — e por isso mais fácil de manter e de confiar na hora da prova.
+
+## Como Implementar Sem Apps (Só Com Papel ou Google Calendar)
+
+**Opção 1: Google Calendar com Lembretes**
+
+Aprenda o conceito no dia 1. Agende lembretes para os dias 2, 4, 7, 14, 30. Quando o lembrete tocar, você revisa. Simples e gratuito.
+
+**Opção 2: Caderno com Datas Escritas**
+
+Escreva a data da próxima revisão em cada nota. Revise quando a data chegar. Menos conveniente, mas funciona.
+
+**Opção 3: Sistema de Caixas (Físico)**
+
+Sistema tradicional com caixas separadas por intervalo (caixa 1 = revisar logo, caixa 2 = revisar depois de alguns dias, e assim por diante). Os cards se movem entre as caixas conforme os acertos, "subindo" gradualmente para intervalos maiores.
+
+Apps automatizam esse processo; papel exige disciplina manual. Ambos funcionam se você for consistente.
+
+## Qual é o Melhor Multiplicador de Intervalo?
+
+Multiplicadores entre 2x e 3x (por exemplo, 1-2-4-8-16-30 ou 1-3-9-27+ dias) costumam funcionar de forma parecida na prática. Mais importante que o número exato é a consistência: um calendário simples aplicado com rigor supera um calendário "perfeito" aplicado de forma inconsistente.
+
+## Quando Revisão Espaçada Não Funciona?
+
+Revisão espaçada funciona bem para conhecimento declarativo (fatos, conceitos, vocabulário). Funciona pior para:
+- Habilidades procedurais (tocar um instrumento exige prática frequente, não espaçada)
+- Criatividade (brainstorm se beneficia de imersão contínua)
+- Fluência/automatismo (dirigir exige prática frequente)
+
+Para exercícios de matemática, praticar com mais frequência costuma fazer mais sentido do que espaçar muito.
+
+Estratégia mista: revisão espaçada para conceitos, prática contínua para exercícios.
+
+## FAQ: Calendário Prático
+
+**Se perco 1 dia de revisão, perco tudo?**
+
+Não. Você apenas "envelhece" aquele card ou conceito. Nenhum dia é perdido permanentemente.
+
+**E se eu lembrar perfeitamente no dia 1, preciso revisar de novo no dia 3?**
+
+Sim. Mesmo que lembre perfeitamente, revisar reforça a consolidação da memória. A próxima revisão será bem mais espaçada; sem a revisão no dia 3, você corre risco de esquecer antes da próxima.
+
+**Como faço revisão espaçada se estou estudando para uma prova em 30 dias?**
+
+O calendário de 1-3-7-14-30 dias se alinha bem com uma janela de 30 dias. Se o prazo for menor, comprima os intervalos (por exemplo, 1-2-5-10-20 dias) para caber no período disponível.
+
+**Qual é a diferença entre revisão espaçada manual e por apps?**
+
+Manual: você gerencia as datas (mais propenso a erro). Apps: automatizam o cálculo, reduzindo a carga cognitiva. Apps ganham em conveniência, mas manual funciona se você for disciplinado.
+
+**Posso combinar revisão espaçada com Pomodoro?**
+
+Sim. Um Pomodoro (25 min) é um bom bloco para revisar um lote de cards ou um conceito específico seguindo o calendário espaçado.
+
+## Conclusão: Revisão Espaçada é Multiplicador de Retenção
+
+Um calendário simples (1-3-7-14-30 dias) já entrega a maior parte do ganho de retenção que a repetição espaçada promete.
+
+Implemente a partir de segunda-feira: aprenda um conceito no dia 1, coloque lembretes no calendário para os dias 2, 4, 7, 14 e 30. Revise com disciplina e compare sua retenção depois de um mês.
+` },
+]
+
+const EXTRA_POSTS_22: BlogPost[] = [
+  { slug: 'analise-combinatoria-enem', title: "Análise Combinatória no ENEM: Guia Completo para Arranjos, Permutações e Combinações", description: "Descubra as estratégias para dominar análise combinatória no ENEM.", date: '2026-07-11', readTime: 3, content: `
+# Análise Combinatória no ENEM: Guia Completo para Arranjos, Permutações e Combinações
+
+## Introdução
+Análise combinatória assusta muitos candidatos, mas é previsível no ENEM. Cerca de 2-3 questões por ano cobram este tópico, representando até 6 pontos na prova de Matemática. A boa notícia: os padrões se repetem. Este guia te ensina exatamente o que cai.
+
+## Key Takeaways
+- Arranjo (A) quando a ordem importa; combinação (C) quando não importa (INEP curriculum)
+- Permutação é arranjo de todos os elementos: P(n) = n!
+
+## Qual é a diferença entre arranjo, combinação e permutação?
+
+Arranjo (A) conta reordenações onde ordem importa; combinação (C) ignora ordem. Permutação (P) arranja todos os elementos. A fórmula de arranjo é A(n,k) = n!/(n-k)!. Combinação usa C(n,k) = n!/(k!(n-k)!). Permutação é P(n) = n!.
+
+Exemplo prático: escolher 3 pessoas de 10 para fila (arranjo) é diferente de escolher 3 para comissão (combinação). No arranjo, posição 1, 2, 3 gera resultados distintos. Na combinação, não.
+
+## Como identificar se devo usar arranjo ou combinação na prova?
+
+Leia a questão procurando por "ordem". Se diz "fila", "sequência", "senha" ou "código", use arranjo. Se diz "grupo", "seleção", "comissão" ou "time", use combinação. Permutação aparece quando o texto envolve reorganizar todos os itens.
+
+Teste esta estratégia: substitua mentalmente os itens. Se trocar A e B gera resultado novo, é arranjo. Se trocar A e B não muda nada, é combinação.
+
+## Quais são os três erros mais comuns ao resolver problemas de análise combinatória?
+
+Erro 1: esquecer de dividir na combinação. A fórmula C requer dividir por k!. Erro 2: confundir ordem. Muitos usam arranjo quando combinação é correto. Erro 3: usar fórmula sem verificar se os eventos são independentes.
+
+Em problemas com restrições (ex: "o presidente não pode ser mulher"), calcule separadamente e multiplique.
+
+## Qual é a melhor forma de treinar análise combinatória para o ENEM?
+
+Comece com permutações simples (P(n) = n!). Depois, arranjos de 2-3 elementos. Por fim, combinações com restrições. Esta progressão funciona porque cada nível reusa a lógica do anterior, construindo intuição gradualmente. Faça 5-10 questões por dia, não 50 em um dia.
+
+Treinar diariamente, mesmo poucas questões, consolida os padrões muito mais rápido do que sessões longas e esporádicas. Revise erros imediatamente. Deixar erros "para depois" cria medo desnecessário.
+
+## Treino Prático: Resolvendo Questões ENEM de Combinatória
+
+Pegue uma prova completa de ENEM (ex: 2023, 2022). Identifique 3 questões de combinatória. Escreva o tipo (arranjo/combinação/permutação) antes de resolver. Compare sua resposta com o gabarito. Registre o tempo. Repita este processo com 2 provas. Após isto, você terá reconhecido os padrões principais.
+
+## FAQ
+
+**P: Quando usar fatorial na combinatória?**
+R: Sempre. Fatorial é a base de todas as três fórmulas (arranjo, combinação, permutação). Se não há fatorial, a pergunta provavelmente não é combinatória. Memorize: 0! = 1, 1! = 1, 2! = 2, 3! = 6, 4! = 24, 5! = 120.
+
+**P: Há truques para não errar ao aplicar a fórmula de combinação?**
+R: Sim. Sempre divida por k! depois de calcular arranjo. Uma forma: escreva C(n,k) = A(n,k) / k!. Isto te lembra que combinação é arranjo "encolhido" pela divisão.
+
+**P: Análise combinatória aparece em qual área da prova?**
+R: Apenas em Matemática. Aparece em algumas questões a cada prova. Raramente aparece na Redação ou outras disciplinas. Dominar bem o tópico ajuda a garantir esses pontos com consistência.
+` },
+  { slug: 'juros-compostos-enem', title: "Juros Compostos no ENEM: Fórmulas, Exemplos e Estratégias de Resolução", description: "Domine juros compostos no ENEM com fórmulas práticas. Aprenda passo a passo como calcular e ganhar pontos.", date: '2026-07-11', readTime: 3, content: `
+# Juros Compostos no ENEM: Fórmulas, Exemplos e Estratégias de Resolução
+
+## Introdução
+Juros compostos aparece com frequência nas provas de Matemática do ENEM. A fórmula é simples, mas o medo de exponenciais assusta candidatos. Este post mostra que juros é apenas multiplicação repetida. Você consegue. Vamos descomplicar o tópico que mais gera insegurança.
+
+## Key Takeaways
+- Fórmula: M = C × (1 + i)^t (montante = capital × taxa elevada a tempo)
+- Juros compostos aparece com frequência nas provas de Matemática do ENEM
+
+## Como funcionam juros compostos e por que diferem de juros simples?
+
+Juros simples acumula de forma linear. Juros compostos acumula de forma exponencial, gerando mais dinheiro ao final. Após 2 anos, juros simples: R\$ 1.200 (200 ganho). Juros compostos: R\$ 1.210 (210 ganho). A diferença cresce com o tempo, pois compostos incidem também sobre os juros já acumulados.
+
+Após 10 anos, a diferença fica ainda mais evidente entre os dois modelos. Juros compostos é a realidade dos investimentos e dívidas. Por isto o ENEM cobra sempre isto.
+
+## Qual é a fórmula de juros compostos e como aplicá-la corretamente?
+
+A fórmula é M = C × (1 + i)^t. M é montante final. C é capital inicial. i é a taxa de juros (em decimais). t é o tempo em períodos. M = 100 × (1 + 0,05)³ = 100 × 1,157625 = R\$ 115,76 (cálculo direto).
+
+Detalhe importante: a taxa e tempo devem estar no mesmo período. Se taxa é ao mês, tempo em meses. Se ao ano, tempo em anos.
+
+## Como transformar taxas de juros entre diferentes períodos?
+
+Se há taxa ao ano mas o tempo é em meses, converta a taxa. Fórmula: taxa mensal = (taxa anual)^(1/12). Esta conversão usa a raiz 12ª porque há 12 meses em 1 ano. No ENEM, este cálculo aparece em Muitos candidatos não sabem isto e chutam.
+
+## Quais são os erros mais comuns ao resolver problemas de juros compostos?
+
+Erro 1: aplicar a fórmula de juros simples em vez da de compostos (ou vice-versa). Erro 2: unidades não alinhadas (taxa ao ano, tempo em meses). Erro 3: esquecer de subtrair o capital inicial se a questão pede apenas juros.
+
+Juros ≠ Montante. J = M - C. Ler enunciado com cuidado é tão importante quanto fazer contas corretas.
+
+## Como usar juros compostos para comparar investimentos ou empréstimos no ENEM?
+
+O ENEM pede frequentemente: "Qual investimento rende mais?" ou "Qual empréstimo sai mais barato?". Calcule o montante final M para cada opção. Compare. A maior M significa maior ganho (investimento) ou maior dívida (empréstimo). Calcule ambas e escolha segundo a questão (ganho maior ou custo menor).
+
+## FAQ
+
+**P: O ENEM cobra logaritmos para resolver juros compostos?**
+R: Raramente. Se aparecer, a questão pede apenas aplicar fórmula com logaritmo já pronto (ex: log 1,10 = 0,0414 é dado).
+
+**P: Como diferir entre capitalização mensal e anual na mesma questão?**
+R: Leia o enunciado. Se diz "Juros capitalizados mensalmente", use i mensal e conte tempo em meses. Se diz "ao ano", use i anual e tempo em anos. O ENEM sempre deixa isto claro.
+
+**P: Quanto tempo devo gastar resolvendo problemas de juros?**
+R: Cada questão: 4-6 minutos (incluindo leitura e cálculo). Se levar mais, provavelmente está se perdendo em conversão de taxa ou decimal.
+` },
+  { slug: 'redacao-competencia-1-gramatica-enem', title: "Redação ENEM Competência 1: Como Não Perder Pontos em Gramática e Norma Culta", description: "Domine a Competência 1 da redação ENEM (gramática e norma culta). Entenda os 10 erros que tiram 80 pontos. Score máximo começa aqui.", date: '2026-07-11', readTime: 3, content: `
+# Redação ENEM Competência 1: Como Não Perder Pontos em Gramática e Norma Culta
+
+## Introdução
+Competência 1 (gramática e norma culta) vale até 200 pontos da redação ENEM. Este post mostra os 10 erros mais comuns e como evitá-los. Dominar gramática não é difícil, apenas precisa de método claro.
+
+## Key Takeaways
+- Concordância verbal e nominal: sujeito e verbo devem concordar em número/pessoa
+- Regência verbal/nominal: cada verbo/nome pede um tipo de preposição
+
+## Quais são os 10 erros gramaticais mais comuns na redação ENEM?
+
+Erro 1: Concordância verbal (ex: "A maioria dos alunos estuda" vs "A maioria dos alunos estudam"). Correto: singular com verbo singular ("estuda"). Erro 2: Colocação de pronome (ênclise vs próclise). Erro 3: Acento gráfico esquecido (ex: "êxito" sem acento).
+
+Erro 4: Uso de vírgula incorreta que separa sujeito do verbo. Erro 5: Confundir "onde" (lugar físico) com "aonde" (movimento). Erro 6: Regência verbal (ex: "insistir em" não "insistir a"). Erro 7: Uso de "nem" duplicado ("nem...nem" é correto). Erro 8: Falta de paralelismo sintático. Erro 9: Pronome relativo mal colocado. Erro 10: Tempos verbais misturados no mesmo parágrafo.
+
+## Como evitar erros de concordância verbal na redação?
+
+Encontre o sujeito primeiro. Verbo concorda com o sujeito, não com a palavra mais próxima. Exemplo: "Muitos dos alunos estudam" (sujeito "Muitos", plural, verbo "estudam" plural). Não: "Muitos do aluno estuda" (erro: "do aluno" não é sujeito).
+
+Se sujeito é plural, verbo é plural. Se singular, verbo é singular. O toque físico (apontar) reforça memória visual e gramatical automaticamente.
+
+## Qual é a diferença entre regência verbal e nominal?
+
+Regência verbal: cada verbo pede uma preposição ou nenhuma. "Obedecer a", "insistir em", "assistir a", "convencer a". Regência nominal: nomes também pedem preposições. "Amor a", "respeito por", "medo de", "fé em". Exemplo errado: "Convidei a ela para a festa". Correto: "Convidei-a para a festa" (convidar pede acusativo, não preposição).
+
+Foco estratégico economiza tempo de estudo.
+
+## Como usar vírgula corretamente sem separar sujeito e verbo?
+
+Regra de ouro: não coloque vírgula entre sujeito e verbo. Errado: "Os alunos, estudam todos os dias". Correto: "Os alunos estudam todos os dias". Exceção: se há aposto, vírgulas envolvem o aposto, mas não separam sujeito e verbo. Exemplo: "Os alunos, grupo dedicado, estudam todos os dias" (vírgulas protegem "grupo dedicado", mas sujeito "Os alunos" e verbo "estudam" não se separam).
+
+## FAQ
+
+**P: O ENEM perde pontos por acentuação gráfica errada?**
+R: Sim. Competência 1 inclui norma culta, que envolve acentuação. Regra: grave as palavras mais comuns ("êxito", "vício", "estímulo").
+
+**P: Pronome relativo "que" e "qual" têm diferenças?**
+R: Sim. "Que" é para informações essenciais; "qual" para informações adicionais (entre vírgulas). Exemplo: "O livro que você leu" (essencial) vs "O livro, o qual você adorou, está aqui" (adicional). Ignorar essa diferença compromete a clareza do texto.
+
+**P: Como treinar gramática para redação ENEM?**
+R: Leia 1 redação aprovada (score 1.000) por dia. Identifique construções gramaticais. Depois, escreva 2-3 parágrafos usando estas construções. Isto treina o olho para estruturas corretas. Após 15 dias, sua redação ficará naturalmente mais gramatical.
+` },
+  { slug: 'redacao-competencia-5-proposta-intervencao-enem', title: "Competência 5 da Redação ENEM: Proposta de Intervenção com Ação, Objetivo e Finalidade", description: "Redação ENEM Competência 5: como escrever uma proposta de intervenção que ganhe 200 pontos. 5 critérios que avaliam sua solução. Score máximo.", date: '2026-07-11', readTime: 3, content: `
+# Competência 5 da Redação ENEM: Proposta de Intervenção com Ação, Objetivo e Finalidade
+
+## Introdução
+Competência 5 é a mais desafiadora e a mais valorizada: vale até 200 pontos. Uma proposta de intervenção excelente deixa claro quem age, qual a ação, qual o objetivo e qual a finalidade. Este guia mostra os 5 critérios que avaliam sua proposta.
+
+## Key Takeaways
+- Proposta de intervenção precisa de: quem age, qual ação, qual objetivo, qual finalidade
+- Uso de conectivos ("portanto", "dessa forma", "para que") marca clareza de intenção
+
+## Quais são os 5 critérios para uma proposta de intervenção perfeita?
+
+Critério 1: Ação clara e viável (ex: "criar aplicativo" não "melhorar educação"). Critério 2: Agente definido (quem executa: governo, escola, ONG). Critério 3: Modo de execução (como a ação será colocada em prática). Critério 4: Finalidade explícita (qual o resultado esperado, qual o impacto). Critério 5: Detalhes de execução (onde, quando, como, quanto tempo ou dinheiro).
+
+Propostas que reúnem poucos desses critérios tendem a ficar nos níveis mais baixos da grade de correção da competência.
+
+## Como estruturar uma ação específica sem ser vaga demais?
+
+Vago: "Melhorar o acesso à educação digital". Específico: "Implementar programa de distribução de tablets com internet 5G para 500 escolas da zona rural até 2026, financiado por parcerias público-privadas e fundo específico de inclusão digital". Uma proposta vaga como a primeira compromete seriamente a nota da competência.
+
+Estratégia: comece vago, depois pergunte "Como exatamente? Onde? Quanto?". Responder estas 3 perguntas gera automaticamente uma proposta específica e forte.
+
+## Qual é o papel do agente na proposta de intervenção?
+
+Agente é quem executa a ação. Se o agente é vago ("alguém", "a sociedade"), a proposta perde força e pontos. Agente claro: "O Ministério da Educação deve...". Agente vago: "A gente tem que...". Tipos de agentes comuns: Governo federal, Governo estadual, Prefeituras, Escolas, ONGs, Setor privado, Universidades, Cidadão. Escolha um agente e desenvolva a ação neste contexto. Se agente é "Governo federal", ação é regulamentação nacional, orçamento, políticas. Se agente é "ONG", ação é mais localizada, comunitária.
+
+## Como escrever a finalidade de modo que o avaliador entenda o impacto social?
+
+Finalidade é o "por que" da ação. Não é suficiente listar a ação. Explique qual é o efeito esperado na sociedade. Exemplo de finalidade fraca: "Instalar computadores nas escolas". A finalidade forte conecta ação com impacto social mensurável, e é esse elo que costuma elevar a nota da competência de forma consistente.
+
+## FAQ
+
+**P: Devo mencionar custo financeiro na proposta?**
+R: Não obrigatório, mas recomendado se viável. Mencionar "financiado por aumentar imposto sobre bebidas açucaradas" adiciona credibilidade.
+
+**P: Posso propor duas ações diferentes na mesma redação?**
+R: Não recomendado. Focar em uma ação com detalhes profundos rende uma nota bem mais sólida do que espalhar esforço em duas ações superficiais. Regra: uma ação + cinco detalhes.
+
+**P: Como ligar a proposta com o tema da redação?**
+R: A proposta deve resolver o problema identificado na análise (argumentação). Se tema é "impacto das redes sociais na saúde mental", proposta deve solucionar este problema específico. Isto demonstra leitura completa e coerência argumentativa.
+` },
+  { slug: 'equacoes-1-2-grau-enem', title: "Equações de 1º e 2º Grau no ENEM: Fórmulas, Técnicas e Exemplos Resolvidos", description: "Domine equações de 1º e 2º grau no ENEM. Aprenda Bhaskara, fatoração e aplicações. Guia prático passo a passo.", date: '2026-07-11', readTime: 3, content: `
+# Equações de 1º e 2º Grau no ENEM: Fórmulas, Técnicas e Exemplos Resolvidos
+
+## Introdução
+Equações do primeiro e segundo grau aparecem com frequência nas questões de Matemática do ENEM. Este post mostra passo a passo como dominar.
+
+## Key Takeaways
+- Primeiro grau: ax + b = 0, isolando x: x = -b/a
+- Segundo grau: Δ = b² - 4ac, depois Bhaskara: x = (-b ± √Δ) / 2a
+
+## Como resolver equações do primeiro grau rapidamente?
+
+Equação primeiro grau: ax + b = c. Isolam x: x = (c - b) / a. Exemplo: 3x + 5 = 14. Passa o 5: 3x = 9. Divide por 3: x = 3. Isto leva 30 segundos. Armadilha: candidatos muitas vezes invertam sinais. Ao passar número para outro lado, mude sinal: +5 vira -5, ×3 vira ÷3.
+
+Verificação: substitua x = 3 na equação original. 3(3) + 5 = 14? Sim: 14 = 14. Correta.
+
+## Qual é a fórmula de Bhaskara e como aplicá-la sem erros?
+
+Bhaskara resolve ax² + bx + c = 0. Primeiro: calcule Δ = b² - 4ac. Depois: x = (-b ± √Δ) / 2a. Exemplo: x² - 5x + 6 = 0. a=1, b=-5, c=6. Δ = (-5)² - 4(1)(6) = 25 - 24 = 1. x = (5 ± 1) / 2. x' = 3, x'' = 2. Verificação: (3)² - 5(3) + 6 = 9 - 15 + 6 = 0. Correta.
+
+Erro comum: esquecer que b = -5, então -b = 5 (não -5).
+
+## Quando devo usar fatoração e quando devo usar Bhaskara?
+
+Se a equação fatora facilmente, fatore. Exemplo: x² - 5x + 6 = (x-2)(x-3) = 0, então x = 2 ou x = 3. Isto é mais rápido que Bhaskara (tempo: 1 minuto vs 2 minutos). Se não fatora facilmente ou Δ não é quadrado perfeito, use Bhaskara. Conhecer isto economiza um tempo valioso ao longo da prova, já que evita aplicar Bhaskara quando a fatoração resolveria mais rápido.
+
+## Como interpretar o discriminante (delta) e o número de soluções?
+
+Δ > 0: duas soluções reais e distintas. Δ = 0: uma solução real (raiz dupla). Δ < 0: nenhuma solução real (raízes complexas). O ENEM pede frequentemente "quantas soluções" ou "qual é a natureza das raízes". Δ decide tudo. Técnica: antes de calcular raízes, calcule Δ e já saiba se há solução. Isto acelera a resposta em 30 segundos por questão.
+
+## FAQ
+
+**P: Como verificar se a resposta está correta sem usar calculadora?**
+R: Substitua x na equação original. Se resultado é 0 (segundo grau) ou igual a c (primeiro grau), está correto.
+
+**P: O ENEM cobra equações com frações ou decimais?**
+R: Sim. Se há fração, multiplique toda equação pelo denominador comum primeiro. Exemplo: (x/2) + 3 = 5 vira x + 6 = 10. Isto elimina frações. Decimais são raros (0-1 questão por prova).
+
+**P: Equações paramétricas (com incógnita em outro lugar) caem no ENEM?**
+R: Raramente como questão direta. Aparecem em problemas de aplicação ("qual x torna isto verdadeiro?").
+` },
+  { slug: 'geometria-plana-enem', title: "Geometria Plana no ENEM: Fórmulas de Perímetro, Área e Propriedades de Figuras", description: "Geometria plana ENEM: domine triângulos, quadriláteros, círculos. Fórmulas de perímetro e área. Passo a passo.", date: '2026-07-11', readTime: 3, content: `
+# Geometria Plana no ENEM: Fórmulas de Perímetro, Área e Propriedades de Figuras
+
+## Introdução
+Geometria plana aparece com frequência nas questões de Matemática no ENEM. Candidatos frequentemente confundem fórmulas e perdem tempo desenhando.
+
+## Key Takeaways
+- Triângulo: A = (base × altura) / 2; Perímetro = soma dos 3 lados
+- Quadrado: A = lado²; Círculo: A = πr², Perímetro = 2πr
+
+## Quais são as fórmulas principais de área e perímetro que cai no ENEM?
+
+Triângulo: A = (b × h) / 2, P = a + b + c. Quadrado: A = l², P = 4l. Retângulo: A = comprimento × largura, P = 2(c + l). Círculo: A = πr², P = 2πr (π ≈ 3,14). Trapézio: A = ((base maior + base menor) × altura) / 2. Losango: A = (diagonal 1 × diagonal 2) / 2.
+
+Memorizar estas 6 (e entender cada uma) é suficiente. Nenhum ENEM cobra figura além destas 6.
+
+## Como diferenciar entre área e perímetro e quando usar cada uma?
+
+Perímetro: contorno, medida linear (metros). Área: superfície, medida em quadrado (m²). Questão "qual é a medida do contorno" usa perímetro. Questão "quanto cabe dentro" ou "quanto pinta" usa área.
+
+Técnica: leia enunciado procurando por "contorno" (perímetro) ou "superfície/interior" (área). Se fala "cerca", "arame", "moldura": perímetro. Se fala "piso", "pintura", "jardim": área.
+
+## Como calcular a área de formas compostas ou irregulares?
+
+Forma composta: divida em formas simples. Exemplo: uma letra "L" é dois retângulos. Calcule área de cada um e some. Forma irregular: use fórmula de Shoelace ou divida em triângulos menores. Esse tipo de situação aparece com frequência no ENEM. Desenho ajuda muito. Gaste 30 segundos desenhando para economizar 1 minuto de cálculo.
+
+## Qual é o papel das propriedades do triângulo (ângulos, lados) em questões de ENEM?
+
+Triângulo equilátero: todos lados iguais, todos ângulos 60°. Altura h = (lado × √3) / 2. Triângulo isósceles: dois lados iguais, ângulos da base iguais. Triângulo retângulo: um ângulo 90°, Pitágoras: a² = b² + c². O ENEM cobra com frequência propriedades de triângulos específicos. Conhecer estas propriedades evita cálculos desnecessários e economiza tempo.
+
+## FAQ
+
+**P: O ENEM cobra teorema de Pitágoras em toda prova?**
+R: Sim. Aparece em 4-5 questões diretamente ou indiretamente. Memorizar a² = b² + c² e reconhecer rapidamente quando aplicá-lo já ajuda a resolver essas questões com confiança.
+
+**P: Como memorizar as 6 fórmulas sem confundir?**
+R: Use método de associação. Círculo tem "r²" porque é redondo. Triângulo divide por 2 porque é metade de quadrado. Trapézio soma bases porque tem dois lados paralelos. Repetir associação 3 vezes grava automaticamente (técnica mnemônica comprovada).
+
+**P: Figuras com π precisam de calculadora?**
+R: Não obrigatório. Se π está na resposta, deixe como π (ex: 16π cm²). Se pede valor numérico, use π ≈ 3,14. Isto economiza 30 segundos por questão.
+` },
+  { slug: 'estatistica-enem', title: "Estatística no ENEM: Como Calcular Média, Mediana, Moda e Interpretar Dados", description: "Estatística ENEM: domine média, mediana, moda. Entenda distribuição e desvio padrão. Técnicas de cálculo rápido.", date: '2026-07-11', readTime: 3, content: `
+# Estatística no ENEM: Como Calcular Média, Mediana, Moda e Interpretar Dados
+
+## Introdução
+Estatística aparece com frequência nas questões de Matemática no ENEM. Muitos candidatos memorizam definições mas erram aplicação. Este post mostra quando usar cada uma.
+
+## Key Takeaways
+- Média: soma dividida pela quantidade (x̄ = Σx / n)
+- Mediana: valor central quando dados ordenados; Moda: valor mais frequente
+
+## Como calcular média e quando é a resposta correta no ENEM?
+
+Média é soma de todos valores dividida pela quantidade. Fórmula: x̄ = (x₁ + x₂ +... + xₙ) / n. Exemplo: notas 70, 80, 90. Média = (70 + 80 + 90) / 3 = 240 / 3 = 80. O ENEM pede média quando quer "valor típico" ou "desempenho geral". Armadilha: média é sensível a valores extremos.
+
+Detalhe importante: média ponderada (cada valor tem peso diferente). Fórmula: x̄ = Σ(xᵢ × wᵢ) / Σwᵢ. Exemplo: prova 1 (peso 1): 70; prova 2 (peso 2): 80. Média ponderada = (70×1 + 80×2) / (1+2) = 230/3 ≈ 76,7 (não 75). Este detalhe aparece em
+
+## Qual é a diferença entre média, mediana e moda em um conjunto de dados?
+
+Média: valor central por cálculo. Mediana: valor central por posição (quando dados ordenados). Moda: valor que aparece mais vezes. Exemplo: dados {1, 2, 2, 3, 3, 3, 100}. Média = 114/7 ≈ 16,3 (influenciada pelo 100 extremo). Mediana = 3 (valor central é 3). Moda = 3 (aparece 3 vezes). Quando usar qual? Distribuição normal: use média. Distribuição com valores extremos: use mediana.
+
+Dados categóricos: use moda. Moda aparece raramente isolada.
+
+## Como encontrar a mediana rapidamente em um conjunto de dados?
+
+Ordene dados. Se quantidade é ímpar, mediana é o valor central. Exemplo: {2, 5, 8, 9, 15} tem 5 elementos. Mediana = 8 (3º elemento). Se quantidade é par, mediana é a média dos dois valores centrais. Exemplo: {2, 5, 8, 9} tem 4 elementos. Mediana = (5 + 8) / 2 = 6,5 (média dos 2º e 3º). Tempo: 1-2 minutos incluindo ordenação. Muitos candidatos gastam bem mais tempo aqui por falta de método claro. Uma estrutura clara para ordenar e contar os elementos economiza tempo significativo na prova.
+
+## O que é desvio padrão e quando aparece em questões do ENEM?
+
+Desvio padrão mede dispersão dos dados. Se valores estão próximos da média, desvio padrão é pequeno. Se dispersos, desvio grande. Fórmula é complexa, mas conceito é simples. No ENEM, desvio padrão raramente pede cálculo completo (apenas em 1-2 questões). Pede interpretação: "qual distribuição tem maior dispersão?". Distribuição A com desvio 5 é mais concentrada que distribuição B com desvio 10.
+
+## FAQ
+
+**P: O ENEM usa fórmula de desvio padrão que precisa memorizar?**
+R: Não. As fórmulas de desvio padrão no ENEM são dadas ou não precisam cálculo exato. Foco em conceito: "qual tem maior dispersão?". Isto reduz pressão de memorização.
+
+**P: Como organizar dados quando há tabelas grandes?**
+R: Use papel rascunho. Ordene valores em coluna. Marque central com caneta. Leia quantidade de dados rapidamente.
+
+**P: Média, mediana, moda podem ser iguais?**
+R: Sim, em distribuição perfeitamente simétrica (ex: {1, 2, 3, 2, 1}). Mas isto é raro no ENEM. Quando aparecem iguais, questão explora entendimento de simetria.
+` },
+  { slug: 'probabilidade-enem', title: "Probabilidade no ENEM: Fórmula Básica, Eventos Independentes e Aplicações Práticas", description: "Probabilidade ENEM: fórmula P = favoráveis/totais. Eventos independentes e dependentes. Aprenda técnicas rápidas.", date: '2026-07-11', readTime: 3, content: `
+# Probabilidade no ENEM: Fórmula Básica, Eventos Independentes e Aplicações Práticas
+
+## Introdução
+Probabilidade aparece com frequência nas questões de Matemática no ENEM. Este post descomplicar probabilidade passo a passo.
+
+## Key Takeaways
+- Probabilidade P = (casos favoráveis) / (total de casos possíveis)
+- Eventos independentes: P(A e B) = P(A) × P(B); eventos dependentes: ajusta probabilidade
+
+## Qual é a fórmula básica de probabilidade e quando usar?
+
+Fórmula: P = (número de eventos favoráveis) / (número total de eventos possíveis). Exemplo: dado (6 faces). Qual é a probabilidade de sair 3? Exemplo 2: baralho (52 cartas, 4 ases). Qual é a probabilidade de tirar ás?
+
+Detalhe: os casos devem ser igualmente prováveis. Se forem, fórmula funciona. Se não forem, usar método diferente (mas isto é avançado e raro).
+
+## Como diferencia entre eventos independentes e dependentes?
+
+Evento independente: resultado não afeta próximo resultado. Exemplo: jogar dado duas vezes. Resultado do 1º não afeta resultado do 2º. P(A e B) = P(A) × P(B). Evento dependente: resultado afeta próximo resultado. Exemplo: tirar 2 cartas de baralho sem reposição. Primeira carta muda a quantidade de cartas para segunda.
+
+P(A e B) = P(A) × P(B|A), onde P(B|A) é probabilidade de B dado que A ocorreu. Dependente aparece com frequência e costuma causar mais erros.
+
+## Como resolver problemas de probabilidade com "pelo menos um" ou "nenhum"?
+
+Armadilha comum: "Qual é a probabilidade de sair pelo menos um 6 em 3 lançamentos?" Muitos somam: P(6 no 1º) + P(6 no 2º) + P(6 no 3º) = 1/6 + 1/6 + 1/6 = 1/2. Errado. Método correto: P(pelo menos um) = 1 - P(nenhum). P(nenhum 6) = (5/6)³ = 125/216. P(pelo menos um) = 1 - 125/216 = 91/216 ≈ 0,42. Isto é diferente de 0,5, e essa confusão entre "pelo menos um" e soma direta é um dos erros mais comuns na prova.
+
+## Quando devo usar combinatória e probabilidade juntas?
+
+Probabilidade + combinatória: quando há múltiplas combinações possíveis. Exemplo: "Qual é a probabilidade de escolher 3 pessoas de um grupo de 10 e exatamente 2 serem mulheres?" Combinatória conta: C(5 mulheres, 2) × C(5 homens, 1) = 10 × 5 = 50 formas. Total: C(10, 3) = 120. P = 50/120 = 5/12 ≈ 0,417. Estrutura: use combinatória para contar casos, depois aplique fórmula de probabilidade.
+
+## FAQ
+
+**P: Quando uso tabela de frequência e quando uso fórmula de probabilidade?**
+R: Tabela de frequência: quando dados já foram coletados (histórico). Fórmula de probabilidade: quando calculando chance teórica (antes de evento).
+
+**P: Qual é a diferença entre probabilidade e chance?**
+R: Probabilidade é decimal ou fração (0-1). Chance é razão (1 em 6, ou 1:6). No ENEM, ambas aparecem, mas leia enunciado para saber qual formato responder.
+
+**P: Como diferenciar entre permutação e probabilidade em questões mistas?**
+R: Permutação conta arranjos. Probabilidade calcula chance. Se pergunta "de quantas formas", use permutação/combinação. Se pergunta "qual é a chance/probabilidade", use fórmula de probabilidade.
+` },
+  { slug: 'trigonometria-enem', title: "Trigonometria no ENEM: Seno, Cosseno, Tangente, Ciclo Trigonométrico e Ângulos Notáveis", description: "Trigonometria ENEM: domine seno, cosseno, tangente. Ciclo trigonométrico. Identidades e ângulos notáveis.", date: '2026-07-11', readTime: 3, content: `
+# Trigonometria no ENEM: Seno, Cosseno, Tangente, Ciclo Trigonométrico e Ângulos Notáveis
+
+## Introdução
+Trigonometria aparece com frequência nas questões de Matemática no ENEM. Candidatos frequentemente memorizam fórmulas mas não entendem origem. Este post ensina a origem e aplicação correta.
+
+## Key Takeaways
+- Seno, cosseno, tangente definem-se em triângulo retângulo ou ciclo trigonométrico
+- Ângulos notáveis (30°, 45°, 60°): memorizar tabela economiza 5 minutos por prova
+
+## Como se definem seno, cosseno e tangente em um triângulo retângulo?
+
+Triângulo retângulo tem um ângulo 90°. Dois catetos (lados adjacentes ao ângulo reto). Uma hipotenusa (lado oposto ao ângulo reto). Para ângulo θ: Seno(θ) = cateto oposto / hipotenusa. Cosseno(θ) = cateto adjacente / hipotenusa. Tangente(θ) = cateto oposto / cateto adjacente. Mnemônico: "SOHCAHTOA" (Seno=Oposto/Hipotenusa, Cosseno=Adjacente/Hipotenusa, Tangente=Oposto/Adjacente).
+
+Exemplo: triângulo com cateto oposto 3, adjacente 4, hipotenusa 5. Sen(θ) = 3/5, Cos(θ) = 4/5, Tan(θ) = 3/4.
+
+## Qual é o ciclo trigonométrico e por que é importante?
+
+Ciclo trigonométrico é círculo unitário (raio 1) onde seno e cosseno ganham interpretação geométrica. Qualquer ponto no ciclo tem coordenadas (cos θ, sen θ). Ângulos podem ser maiores que 90°, até 360°. Isto expande triângulos para qualquer ângulo. No ENEM, ciclo trigonométrico aparece em 2-3 questões pedindo valor de sen/cos de ângulos não notáveis. Conhecer ciclo evita erros de sinal (sen 120° é positivo no segundo quadrante) e economiza memória de casos especiais.
+
+## Como memorizar valores de seno, cosseno e tangente dos ângulos notáveis?
+
+Ângulos notáveis: 30°, 45°, 60°. Tabela: Sen(30°)=1/2, Cos(30°)=√3/2, Tan(30°)=1/√3. Sen(45°)=√2/2, Cos(45°)=√2/2, Tan(45°)=1. Sen(60°)=√3/2, Cos(60°)=1/2, Tan(60°)=√3. Mnemônico: para seno aumenta de 1/2 para √2/2 para √3/2 (incrementa 30° por passo). Para cosseno decresce (ao contrário).
+
+Memorizar essa tabela com antecedência economiza um tempo considerável na prova, já que evita ter que recalcular esses valores durante a resolução das questões.
+
+## Como resolver problemas de trigonometria em contexto prático (distância, altura)?
+
+Contexto comum: calcular altura de prédio usando ângulo de elevação. Exemplo: estou 50 metros de um prédio. Ângulo de elevação é 30°. Qual é a altura? Tan(30°) = altura / 50. Altura = 50 × Tan(30°) = 50 × (1/√3) ≈ 28,87 metros. Estrutura: desenhe diagrama, identifique ângulo, escolha fórmula (sen, cos, tan), calcule. Este tipo aparece em
+
+## FAQ
+
+**P: O ENEM cobra identidades trigonométricas (sen² + cos² = 1)?**
+R: Sim, raramente como questão direta. Aparece em 1-2 questões para simplificar expressões. Memorizar ajuda mas não é essencial se souber usar ciclo trigonométrico.
+
+**P: Como diferenciar entre radianos e graus no ENEM?**
+R: Enunciado explica sempre. Se não há símbolo °, é radiano (π múltiplos). Se há °, é grau. Conversão: radianos × (180/π) = graus. Raramente o ENEM pede conversão diretamente (0-1 questão por prova).
+
+**P: Qual é a sequência para resolver trigonometria: desenho primeiro ou fórmula?**
+R: Desenho primeiro (30 segundos). Depois identifique qual lado é dado, qual é procurado. Depois escolha fórmula.
+` },
+  { slug: 'genetica-mendeliana-enem', title: "Genética Mendeliana no ENEM: Leis de Mendel, Herança Dominante e Recessiva, Cruzamentos Práticos", description: "Genética ENEM: domine leis de Mendel, dominância, recessividade e probabilidade. Cruzamentos e proporções.", date: '2026-07-11', readTime: 3, content: `
+# Genética Mendeliana no ENEM: Leis de Mendel, Herança Dominante e Recessiva, Cruzamentos Práticos
+
+## Introdução
+Genética aparece com frequência nas questões de Biologia no ENEM. Candidatos memorizam definições mas erram em cruzamentos genéticos. Este post mostra método passo a passo.
+
+## Key Takeaways
+- Alelo dominante (A) expressa sobre recessivo (a); genótipos: AA, Aa, aa
+
+## Como a primeira lei de Mendel explica herança de um único traço?
+
+Lei da segregação: cada traço é controlado por par de alelos. Um alelo vem de cada progenitor. Traço dominante se expressa mesmo com um alelo. Traço recessivo precisa dois alelos iguais. Exemplo: Cor de olhos. Dominante = castanho (A). Recessivo = azul (a). Progenitor 1: Aa (heterozigoto, olhos castanhos). Progenitor 2: aa (homozigoto recessivo, olhos azuis).
+
+Esta proporção 3:1 aparece em
+
+## Como montar e interpretar corretamente um quadro de Punnett?
+
+Quadro de Punnett arranja alelos de progenitores em tabela. Passo 1: Identifique genótipos dos progenitores. Passo 2: Escreva alelos de cada progenitor em linha (para um) e coluna (para outro). Passo 3: Combine cada célula. Passo 4: Conte resultados. Exemplo: Aa × Aa. Células: AA, Aa, Aa, aa. Proporção: 1:2:1 (genótipo), 3:1 (fenótipo). Erro comum: esquecer de contar proporção duplicada (Aa aparece 2 vezes).
+
+Regra: contar cuidadosamente, não sumarizar.
+
+## Qual é a diferença entre genótipo e fenótipo em problemas de herança?
+
+Genótipo: composição genética real (AA, Aa, aa). Fenótipo: aparência/traço observável. Exemplo: Aa e AA têm mesmo fenótipo (ambos expressam dominante), mas genótipos diferentes. Questão: "Qual é a probabilidade de filho ter olhos azuis?" Azul é recessivo (aa). Resposta: genótipos possíveis, depois selecione aa.
+
+Leia enunciado procurando "gene" (genótipo) ou "aparência/traço" (fenótipo).
+
+## Como resolver problemas de herança com múltiplos genes (diíbrida) ou cruzamentos complexos?
+
+Lei da distribuição independente (segunda lei): dois genes segregam independentemente. Exemplo: cor (A) e textura (B). Progenitor AaBb × AaBb. Quadro de Punnett fica 16 células (4×4). Fenótipos: 9:3:3:1 (proporção clássica para dois genes). Isto aparece em Maneira fácil: usar a fórmula de multiplicação. P(A_) = 3/4, P(B_) = 3/4. P(A_B_) = 3/4 × 3/4 = 9/16. Isto economiza tempo do quadro 16 células.
+
+## FAQ
+
+**P: O ENEM cobra herança ligada ao sexo (cromossomo X)?**
+R: Sim, aparece em 1-2 questões. Conceito é similar a herança simples, mas alelos estão em X (não em autossomo). Homem tem um X, mulher tem dois X. Isto muda as proporções esperadas nos cruzamentos, e vale a pena dedicar um tempo extra para entender bem essa diferença.
+
+**P: Como diferenciar entre dominância completa e incompleta?**
+R: Dominância completa: heterozigoto parece homozigoto dominante (Aa = AA fenótipo). Dominância incompleta: heterozigoto tem fenótipo intermediário (Aa = fenótipo intermediário). No ENEM, ambas aparecem. Leia enunciado para saber qual tipo.
+
+**P: Mutação e herança aparecem juntas no ENEM?**
+R: Raramente. Mutação é questão separada (Biologia Molecular). Herança genética é sobre transmissão de alelos já existentes.
+` },
+  { slug: 'ecologia-teias-alimentares-enem', title: "Ecologia no ENEM: Cadeias e Teias Alimentares, Fluxo de Energia e Níveis Tróficos", description: "Ecologia ENEM: teias alimentares, cadeias, fluxo de energia. Produtores, consumidores, decompositores. Conceitos essenciais.", date: '2026-07-11', readTime: 3, content: `
+# Ecologia no ENEM: Cadeias e Teias Alimentares, Fluxo de Energia e Níveis Tróficos
+
+## Introdução
+Ecologia aparece com frequência nas questões de Biologia no ENEM. Candidatos confundem cadeia e teia alimentar. Este post mostra como ler diagramas corretamente.
+
+## Key Takeaways
+- Cadeia alimentar: sequência linear (produtor → consumidor 1 → consumidor 2 → predador)
+- Teia alimentar: múltiplas cadeias conectadas; fluxo de energia unidirecional (produtor para consumidor)
+
+## Como diferencia entre cadeia alimentar e teia alimentar no ENEM?
+
+Cadeia alimentar: uma linha reta de relações alimentares. Exemplo: Planta → Gafanhoto → Sapo → Cobra. Teia alimentar: múltiplas cadeias conectadas. Exemplo: Planta pode alimentar Gafanhoto E Gado. Ambos podem alimentar Leão. Este é um rede (teia), não uma linha. Razão: teia é mais realista. Ler teia requer seguir setas com cuidado. Erro comum: contar organismos em vez de contar setas.
+
+Setas indicam relação alimentar.
+
+## Como interpretar setas em diagramas de cadeia e teia alimentar?
+
+Seta aponta para quem come. Não para origem. "Planta → Inseto" significa inseto come planta (não o contrário). Isto causa resposta completamente errada ("inseto é produtor" quando é consumidor). Técnica: coloque seta na boca de quem come. Isto evita inversão automáticamente. Regra: sempre que vê seta, leia "é comido por" (não "come").
+
+Isto força leitura correta. Lembrete mental: seta → boca.
+
+## Qual é o papel de produtores, consumidores primários, secundários e decompositores?
+
+Produtor: faz próprio alimento (plantas via fotossíntese). Não precisa comer nada. Consumidor primário: come produtor (herbívoro). Consumidor secundário: come consumidor primário (carnívoro de herbívoro). Consumidor terciário: come consumidor secundário. Decompositor: recicla nutrientes a partir de mortos (bactérias, fungos). Estrutura: Produtor → Consumidor 1º → Consumidor 2º → etc.
+
+Por isto, cadeias têm no máximo 4-5 níveis. No ENEM, isto aparece em 1-2 questões pedindo "qual animal está em qual nível" ou "qual tem mais energia disponível".
+
+## Como calcular eficiência energética e identificar qual nível tem menos energia?
+
+Quanto mais distante do produtor, menos energia disponível. Questão comum: "Qual organismo tem mais energia disponível?" Resposta: sempre o produtor. Se questão pede "qual consumidor tem mais energia", resposta: consumidor primário (mais perto da fonte).
+
+## FAQ
+
+**P: O que acontece se remover um produtor de uma cadeia alimentar?**
+R: Todos consumidores sofrem. Sem produtor, não há energia entrando. Cadeia colapsa. Isto aparece em 1-2 questões sobre impacto ecológico. Resposta: sistema inteiro depende de produtores.
+
+**P: Decompositores fazem parte da cadeia alimentar ou estão separados?**
+R: Estão separados. Decompositores não comem vivos; comem mortos. Sua função é reciclar nutrientes no solo. Isto frequentemente aparece em questão pedir "quem não faz parte desta cadeia" (decompositores, às vezes).
+
+**P: Qual é a diferença entre fluxo de energia e ciclo de nutrientes?**
+R: Fluxo é unidirecional (entra e não volta: energy apenas passa). Ciclo é cíclico (nutrientes circulam: C, N, P voltam ao solo). No ENEM, ambas aparecem. Energia flui; nutrientes reciclam.
+` },
+  { slug: 'mecanica-fisica-enem', title: "Mecânica Clássica no ENEM: Leis de Newton, Movimento, Força e Aceleração Prática", description: "Mecânica ENEM: leis de Newton, movimento, força, aceleração. Cinemática e dinâmica. Fórmulas essenciais.", date: '2026-07-11', readTime: 3, content: `
+# Mecânica Clássica no ENEM: Leis de Newton, Movimento, Força e Aceleração Prática
+
+## Introdução
+Mecânica aparece com frequência nas questões de Física no ENEM. Candidatos frequentemente confundem força, aceleração e velocidade. Este post descomplicar as três leis.
+
+## Key Takeaways
+- 1ª Lei (inércia): objeto em repouso/movimento permanece assim sem força externa
+- 2ª Lei: F = m × a (força causa aceleração proporcional à massa)
+
+## Como as três leis de Newton explicam movimento e força?
+
+1ª Lei (inércia): objeto move-se em linha reta a velocidade constante (ou repousa) a menos que força externa atue. Exemplo: carro freia bruscamente, passageiro continua para frente (inércia). 2ª Lei: força causa aceleração. F = m × a. Maior força, maior aceleração. Maior massa, menor aceleração (para mesma força). 3ª Lei (ação-reação): toda ação tem reação igual e oposta. Exemplo: pulo: você empurra Terra para baixo, Terra empurra você para cima com mesma força.
+
+No ENEM, estas aparecem em 2-3 questões. Conhecer as três estrutura pensamento para resolver qualquer problema de mecânica.
+
+## Como aplicar a segunda lei de Newton (F = m × a) em problemas práticos?
+
+Fórmula: F = m × a. F é força total (Newtons). m é massa (kg). a é aceleração (m/s²). Exemplo: carro de 1.000 kg acelera a 2 m/s². Qual é a força? F = 1.000 × 2 = 2.000 N. Detalhe: força é a força líquida (total). Se várias forças atuam, some vetorialmente. Exemplo: dois cavalos puxam corda juntos, força é soma das duas. Erro comum: misturar força com velocidade. Força causa mudança de velocidade (aceleração), não movimento constante.
+
+## Qual é a diferença entre velocidade, aceleração e força em movimento?
+
+Velocidade: quão rápido se move (m/s). Aceleração: mudança de velocidade (m/s²). Força: causa de aceleração (N). Exemplo: carro viaja a 60 km/h (velocidade). Freia para 40 km/h em 2 segundos (aceleração = -10 m/s²). Freio exerce força negativa (reduz velocidade). Estes três são relacionados mas distintos. Velocidade não causa força; força causa aceleração; aceleração muda velocidade. Ordem: Força → Aceleração → Mudança de Velocidade.
+
+No ENEM, confundir esses três conceitos é uma das causas mais frequentes de erro em questões de mecânica.
+
+## Como resolver problemas de cinemática e dinâmica combinadas?
+
+Cinemática: movimento sem considerar força ("o carro vai a 60 km/h"). Dinâmica: movimento considerando força (F = m × a). Combinadas: conhece força, encontra aceleração, depois encontra velocidade. Exemplo: carro repousa. Motor aplica força 5.000 N. Massa 1.000 kg. Qual é velocidade após 5 segundos? Passo 1: a = F/m = 5.000/1.000 = 5 m/s². Passo 2: v = a × t = 5 × 5 = 25 m/s.
+
+## FAQ
+
+**P: Qual é a diferença entre peso e massa?**
+R: Massa é quantidade de matéria (kg). Peso é força da gravidade (N). Peso = m × g (g ≈ 10 m/s²). No ENEM, confundir os dois é um erro comum. Regra: massa não muda; peso muda conforme gravidade do lugar.
+
+**P: Como o ENEM cobra atrito?**
+R: Atrito é força que reduz movimento. F atrito = μ × N (μ é coeficiente, N é força normal). Atrito aparece em 1-2 questões de dinâmica.
+
+**P: Trabalho e energia aparecem em mecânica?**
+R: Sim. Trabalho = F × d (força × distância). Energia cinética = m × v² / 2. Estes aparecem em 2-3 questões extras de "energia e trabalho". Dominar F = m × a e cinemática (v, a, t) resolve base; depois aprende trabalho.
+` },
+  { slug: 'revolucao-francesa-enem', title: "Revolução Francesa 1789 no ENEM: Contexto, Ideais Iluministas, Direitos Humanos e Impacto Histórico", description: "Revolução Francesa ENEM 1789: causas econômicas, ideais iluministas, Declaração Direitos. Contexto e consequências.", date: '2026-07-11', readTime: 3, content: `
+# Revolução Francesa 1789 no ENEM: Contexto, Ideais Iluministas, Direitos Humanos e Impacto Histórico
+
+## Introdução
+Revolução Francesa aparece com frequência nas questões de História no ENEM. Candidatos frequentemente confundem causas econômicas com ideológicas. Este post mostra narrativa clara: causa → evento → resultado.
+
+## Key Takeaways
+- Causas: dívida estatal, privilégios do clero e nobreza, fome, ideias iluministas
+- Declaração dos Direitos do Homem e Cidadão (1789): igualdade, liberdade, propriedade
+
+## Quais foram as principais causas econômicas e sociais da Revolução Francesa?
+
+Causa 1: dívida estatal enorme. França gastou muito em guerras (ex: Independência EUA) e corte luxuosa. Causa 2: sistema de impostos injusto. Povo paga, clero e nobreza não pagam (privilégio). Causa 3: fome. Colheita ruim em 1788 causou fome e desemprego. Causa 4: ideias iluministas (Rousseau, Voltaire): igualdade e direitos naturais.
+
+Estas 4 causas combinadas criaram revolta. No ENEM, questões pedem conectar 2-3 destas causas para explicar por que Revolução ocorreu.
+
+## Como o Iluminismo influenciou ideias revolucionárias na França?
+
+Iluminismo: movimento intelectual de 1650-1750 que valorizava razão, direitos naturais, democracia. Rousseau escreveu "O Contrato Social" (1762): governo legítimo vem de consentimento do povo, não de direito divino do rei. Voltaire criticou absoluto e defendeu liberdade de pensamento. Montesquieu propôs separação de poderes (executivo, legislativo, judiciário). Estas ideias circulavam na França entre intelectuais e burguesia. Quando crise econômica + fome chegou, ideias transformaram-se em ação revolucionária. No ENEM, 2-3 questões conectam Iluminismo com Revolução Francesa.
+
+## O que foi a Declaração dos Direitos do Homem e Cidadão e por que é importante?
+
+Declaração, votada em 1789, proclamava direitos naturais: liberdade, propriedade, segurança, resistência à opressão. Igualdade perante a lei (fim de privilégios de classe). Soberania popular (poder vem do povo). Esta declaração inspirou constituições modernas (EUA 1776 já tinha ideias similares, mas Francesa foi mais radical). No ENEM, questões pedem o que a Declaração garantia ou por que foi revolucionária.
+
+## Como a Revolução Francesa mudou a Europa e o mundo depois de 1789?
+
+Impacto 1: fim do absolutismo. Monarquias se tornaram constitucionais (poder limitado). Impacto 2: nacionalismo. França conquistou territórios adjacentes, espalhando ideias de soberania nacional. Impacto 3: secularização. Igreja perdeu poder político, Estado ficou secular. Impacto 4: expansão de direitos. Outros países copiaram Declaração Francesa. Impacto 5: guerras napoleônicas (1799-1815). Napoleão consolidou poder e exportou ideias revolucionárias. Destes 5, ENEM cobra 2-3 em questões tipo "qual foi o impacto da Revolução?". Memorizar lista ajuda a responder qualquer variação.
+
+## FAQ
+
+**P: Qual é a diferença entre Revolução Francesa e Revolução Industrial?**
+R: Francesa: política/social, 1789, França. Industrial: econômica/tecnológica, 1760+, Inglaterra. Aparecem em questões diferentes ENEM. Revolução Francesa: direitos, igualdade. Industrial: máquinas, produção, capitalismo. Temas separados.
+
+**P: Napoleão foi consequência ou parte da Revolução Francesa?**
+R: Ambas. Napoleão subiu ao poder em caos revolucionário (1799). Consolidou ganhos revolucionários mas também criou seu próprio império. No ENEM, Napoleão é considerado época posterior à Revolução, não parte dela.
+
+**P: Como relacionar Revolução Francesa com outras revoluções (Americana, Russa)?**
+R: Causas similares: dívida, desigualdade, ideias novas. Americana (1776) influenciou Francesa. Russa (1917) radicalizou ideias francesas. No ENEM, comparação entre duas aparece em 1-2 questões de "qual foi mais radical?" ou "qual influenciou qual?". Conhecer ordem temporal e ideais distintos responde isto.
+` },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13, ...EXTRA_POSTS_14, ...EXTRA_POSTS_15, ...EXTRA_POSTS_16, ...EXTRA_POSTS_17, ...EXTRA_POSTS_18, ...EXTRA_POSTS_19, ...EXTRA_POSTS_20, ...EXTRA_POSTS_21, ...EXTRA_POSTS_22]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)

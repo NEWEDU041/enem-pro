@@ -1,6 +1,6 @@
 ---
 title: "Técnicas de Respiração para Controlar Ansiedade no ENEM"
-description: "Aprenda 3 técnicas simples para usar na prova."
+description: "Aprenda 3 técnicas de respiração (4-7-8, Caixa e Abdominal) para controlar ansiedade no ENEM, quando usar cada uma e como treinar antes da prova."
 date: "2026-07-09"
 author: "ENEM Pro"
 tags: ["ansiedade", "respiração", "técnicas", "enem-2026"]

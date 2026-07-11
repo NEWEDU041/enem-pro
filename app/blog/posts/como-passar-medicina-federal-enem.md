@@ -1,6 +1,6 @@
 ---
 title: "Como Passar em Medicina Federal no ENEM: Nota de Corte e Estratégia Completa"
-description: "Medicina federal exige 700+ no ENEM. Veja estratégia comprovada, distribuição de tempo por disciplina, e nota de corte 2025 por universidade."
+description: "Medicina federal está entre os cursos mais concorridos do Sisu, com notas de corte tipicamente acima de 750 pontos. Veja estratégia de estudo, TRI e redação."
 date: "2026-06-29"
 author: "ENEM Pro"
 tags: ["medicina", "nota-corte", "enem-2026", "preparação"]
@@ -8,35 +8,32 @@ tags: ["medicina", "nota-corte", "enem-2026", "preparação"]
 
 # Como Passar em Medicina Federal no ENEM: Nota de Corte e Estratégia Completa
 
-Medicina federal é o curso mais disputado do ENEM. Em 2025, a nota de corte mínima para medicina federal ficou entre **700 e 760 pontos**, conforme a universidade — mas para disputar as melhores federais (USP, UNICAMP, UFMG), você precisa de **730+ pontos**.
+Medicina federal está entre os cursos mais disputados do Sisu no Brasil inteiro. Em ampla concorrência, as federais mais competitivas costumam exigir notas de corte bem acima de 750 pontos — para federais regionais menos concorridas, o corte tende a ficar um pouco mais baixo, embora ainda alto.
 
 > **Key Takeaways**
-> - Medicina federal exige 700-760 pontos, média 730 para top 5 universidades
+> - Medicina em federais via Sisu costuma exigir notas de corte bem acima de 750 pontos em ampla concorrência
+> - USP e Unicamp não participam do Sisu — usam vestibular próprio (Fuvest e Comvest)
 
 ## Qual é a Nota de Corte para Medicina em 2026?
 
-A nota de corte do SISU não é fixa — ela é determinada pela concorrência e desempenho dos candidatos a cada edição. Com base em dados históricos de 2023-2025, as federais mais concorridas exigem:
+A nota de corte do Sisu não é fixa — ela é determinada pela concorrência e desempenho dos candidatos a cada edição, e varia bastante entre ampla concorrência e as diferentes modalidades de cota (que costumam ficar bem abaixo da ampla). Duas armadilhas comuns:
 
-| Universidade | Estado | Nota de Corte Estimada 2026 |
-|---|---|---|
-| USP | SP | 735–760 |
-| UNICAMP | SP | 720–745 |
-| UFMG | MG | 710–735 |
-| UFRJ | RJ | 705–730 |
-| UFRGS | RS | 700–720 |
-| UnB | DF | 695–715 |
-| UFPR | PR | 685–705 |
-| UFC | CE | 680–700 |
+1. **USP e Unicamp não usam Sisu.** USP seleciona por Fuvest, Unicamp por Comvest. Se seu plano é uma dessas duas, sua preparação e calendário são diferentes do Sisu.
+2. **Notas de corte mudam a cada edição.** Não confie em uma tabela fixa — consulte o número oficial mais recente diretamente no portal do Sisu ou no site da universidade antes de definir sua meta.
 
-A diferença entre passar e ficar de fora é frequentemente **5-10 pontos**. Por isso, otimizar seu desempenho em cada disciplina é crítico — especialmente em Ciências da Natureza, que pesa mais na maioria das universidades.
+Como referência de ordem de grandeza: nas federais mais concorridas (UFRJ, UFMG, UFRGS, entre outras), a ampla concorrência para Medicina costuma ficar na faixa de 750-825 pontos; federais menos concorridas tendem a ficar um pouco abaixo disso. Trate esses números como ponto de partida para sua meta, não como garantia.
 
 ## Distribuição de Tempo por Disciplina
 
-Estude as 4 disciplinas de forma desigual. Ciências da Natureza (Biologia, Física, Química) representa 45 questões das 180 totais — e é onde mais gente erra.
+Estude as 4 áreas de forma desigual. Ciências da Natureza (Biologia, Física, Química) representa 45 das 180 questões totais — e costuma ser onde mais candidatos de Medicina erram, por isso merece proporcionalmente mais horas de estudo nas 12 semanas finais.
 
 **Distribuição recomendada (12 semanas):**
+- Ciências da Natureza: maior fatia do tempo semanal, por ser a área mais pesada e mais decisiva para o corte de Medicina
+- Matemática: segunda maior fatia, com foco em resolução rápida de questões
+- Humanas e Linguagens: fatia menor, priorizando revisão de questões erradas em vez de releitura de conteúdo
+- Redação: pelo menos 1 sessão semanal dedicada, já que pesa igual às outras disciplinas no Sisu
 
-Dentro de Ciências da Natureza, focar em:
+Dentro de Ciências da Natureza, dê prioridade extra aos tópicos em que você mais erra nos simulados — não distribua o tempo igualmente entre Biologia, Física e Química se seu desempenho nelas for desigual.
 
 ## Como o TRI Impacta Sua Nota Final
 
@@ -63,7 +60,7 @@ Medicina exige redação impecável. A nota de redação varia de 0-1000, com pe
 - Deixar espaço em branco
 - Argumentos genéricos ("é importante porque...")
 
-Pratique uma redação por semana. Envie para correção por professores ou plataformas de IA — feedback semanal muda sua nota de 700 para 900 em 8 semanas (observação ENEM Pro, 2025).
+Pratique uma redação por semana. Envie para correção por professores ou plataformas de IA — o feedback semanal consistente costuma ser o que mais rápido eleva a nota de redação ao longo de algumas semanas de prática.
 
 ## Simulados: A Arma Secreta
 
@@ -82,17 +79,19 @@ Simulados funcionam porque:
 
 ### Qual nota de corte garantida para medicina federal?
 
-Não existe nota "garantida" — a concorrência muda a cada ano. Mas **730 pontos é seguro para medicina em universidades de segunda tier (UFPR, UFC, UnB)**. Para USP/UNICAMP, aponte para **750+** (Dados históricos SiSU 2023-2025).
+Não existe nota "garantida" — a concorrência muda a cada ano e por modalidade de vaga. Trate a faixa de 750-825 pontos como referência para federais concorridas em ampla concorrência, mas confirme o número oficial mais recente no Sisu antes de fixar sua meta.
 
-### Posso passar em medicina com 700 pontos?
+### Posso passar em medicina com nota mais baixa que a média das federais mais concorridas?
 
-Sim, mas apenas em federais menos concorridas (UFERSA, UFPI, UFRB). Se quer UFMG ou UFRJ, 700 é risco — busque 720+.
+Sim, em federais menos concorridas ou por cotas, onde o corte costuma ficar bem abaixo da ampla concorrência das federais top. Se sua meta é uma federal de alta concorrência, vale mirar acima da faixa de referência para ter margem de segurança.
 
 ### Quanto tempo preciso estudar para passar?
 
-**Mínimo 3 meses** de estudo intenso (6h/dia). Ideal: **6 meses** (4-5h/dia) para atingir 730+. Comece 6 meses antes do ENEM.
+Estudo intenso por pelo menos 3 meses (com várias horas diárias) já ajuda bastante, mas o ideal é começar com 6 meses de antecedência, com uma rotina diária sustentável em vez de um sprint final de última hora.
 
 ### Qual disciplina é mais importante para medicina?
+
+Ciências da Natureza costuma pesar mais na maioria das universidades e é onde os candidatos de Medicina mais erram — por isso, dentro do seu tempo de estudo, ela merece prioridade sobre as demais áreas, sem abandonar Matemática e Redação.
 
 ### Devo fazer cursinho para passar em medicina?
 
@@ -101,10 +100,10 @@ Não é obrigatório. Simulados online + revisão de questões antigas + redaç�
 ## Conclusão
 
 Passar em medicina federal no ENEM exige:
-1. **730+ pontos** (mínimo para top 5 federais)
-
+1. **Nota alta e consistente** (mire bem acima da faixa de referência de 750-825 se sua meta é uma federal de alta concorrência)
+2. **Domínio forte em Ciências da Natureza** (a área que mais pesa e mais derruba candidatos de Medicina)
 3. **Prática com simulados** (1-2 por semana nas últimas 12 semanas)
-4. **Redação impecável** (900+ pontos = diferencial)
+4. **Redação impecável** (900+ pontos é um diferencial real)
 
 Comece hoje. Faça seu primeiro simulado esta semana. Revise as questões que errou. Repita. Em 12 semanas, você estará pronto.
 
