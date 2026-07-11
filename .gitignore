@@ -62,3 +62,4 @@ scripts/retry_*.py
 scripts/score_dist.py
 scripts/populate_explanations.py
 scripts/update_alt_images.py
+.audit-extract/

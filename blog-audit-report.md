@@ -1,68 +1,83 @@
-# ENEM Pro — Blog Audit Report
+# Blog Audit Report — ENEM Pro
 
-**Data:** 05/07/2026
-**Total de posts ao vivo:** 312 (311 em `lib/blog-data.ts` + 1 arquivo `.md` órfão que na prática está inacessível — ver achado #1)
-**Metodologia:** passada estrutural determinística (sem LLM) sobre os 312 posts — contagem de palavras, parágrafos, headings, links internos/externos, imagens, Flesch aproximado, idade por `date`. Não é o rubric completo de 100 pontos por post (custaria caro em tokens rodar 312× com subagentes); os números abaixo são sinal de triagem, não nota final. Dados brutos completos em `blog-audit-raw.json`.
+**Data do audit:** 11/07/2026
+**Posts analisados:** 292 (extraídos de `lib/blog-data.ts`, que é a fonte real em produção — `app/blog/posts/*.md` tem apenas 39 arquivos físicos, o resto vive só como string no blog-data)
+**Método:** checagem determinística (script, não LLM por post) para manter economia de token, dado o volume. Achados de alta confiança abaixo; achados que dependem de julgamento editorial (profundidade, tom, E-E-A-T qualitativo) não foram pontuados post a post — ver seção "Não coberto" no fim.
+**Audit anterior:** `05/07/2026` (312 posts na época) — este substitui, não complementa.
 
-## Achado #1 — 9 arquivos `.md` em `app/blog/posts/` são conteúdo morto; 1 está 100% inacessível
+## Achado #1 (prioridade máxima): bug sistêmico de seções vazias em conteúdo pSEO antigo
 
-`app/blog/[slug]/page.tsx` só importa `getPost()` de `lib/blog-data.ts` — **nunca lê `app/blog/posts/*.md`**. Dos 10 arquivos ali:
+**129 de 292 posts (44%) têm pelo menos uma seção com heading mas zero conteúdo.** Não é ruído disperso — são os **mesmos 9 headings de template reaparecendo dezenas de vezes**, o que indica um bug de geração em lote (o script/prompt declarava a seção mas o conteúdo nunca foi preenchido):
 
-- **9 têm um slug duplicado em `blog-data.ts`** (stub adicionado em 29/06, ver HANDOFF). O `.md` correspondente nunca é servido — é peso morto no disco. Em alguns casos o `.md` até tem mais palavras que o stub ao vivo (ex.: `questoes-biologia-que-mais-caem-enem`: 475 no `.md` vs 267 ao vivo; `dicas-melhorar-redacao-enem-score`: 254 vs 206), mas isso não importa porque nada lê o arquivo.
-- **1 (`como-passar-medicina-federal-enem.md`, 1004 palavras — o mais rico de todos)** não tem stub nenhum em `blog-data.ts` sob esse slug exato. Não está em `getAllPosts()`, não está no sitemap, não é roteável — é o post mais bem escrito do lote e está completamente inacessível. Existe sim um post *diferente* e mais fraco cobrindo o mesmo tema: `como-passar-em-medicina-federal-no-enem` (282 palavras, stub em `blog-data.ts`).
+| Heading vazio | Ocorrências |
+|---|---|
+| `### Checklist de Preparação Final` | 90 |
+| `### Distribuição Típica de Questões por Tema` | 46 |
+| `### O que o ENEM Mais Cobra em todas as áreas?` | 44 |
+| `### O que o ENEM Mais Cobra em Matemática?` | 28 |
+| `### O que o ENEM Mais Cobra em Ciências Humanas?` | 26 |
+| `### Distribuicao de Tempo por Area` | 22 |
+| `### O que o ENEM Mais Cobra em Linguagens?` | 21 |
+| `### O que o ENEM Mais Cobra em Ciências da Natureza?` | 17 |
+| `### Os Erros Mais Comuns que Derrubam a Nota` | 16 |
 
-**Ação recomendada:** usar o conteúdo de `como-passar-medicina-federal-enem.md` para enriquecer o stub `como-passar-em-medicina-federal-no-enem` em `blog-data.ts` (mesmo tema, título quase idêntico — ver cannibalization abaixo), depois apagar os 9 arquivos `.md` órfãos.
+Isso afeta majoritariamente o cluster de **gabarito/disciplinas/redação/Sisu** — o maior bloco de conteúdo do site (~167 posts). Um leitor que chega numa dessas páginas literalmente vê um subtítulo sem resposta embaixo.
 
-## Achado #2 — 10 posts "long-tail" de 29/06 estão extremamente curtos
+**Recomendação:** não é para corrigir arquivo por arquivo manualmente — são poucos templates recorrentes. Vale escrever conteúdo genérico reutilizável por padrão de heading (ex: um "Checklist de Preparação Final" padrão adaptado por disciplina) e aplicar em lote, em vez de reescrita individual. Escopo grande demais para essa sessão — recomendo tratar como projeto próprio.
 
-Os posts adicionados na sessão de 29/06 (HANDOFF: "10 posts long-tail criados") têm 17–390 palavras — muito abaixo do padrão do resto do blog (média geral: 2.627 palavras). São exatamente os 8 piores da triagem (score 33–43/100): `questoes-historia-que-mais-caem`, `preparacao-segunda-aplicacao-enem-2026`, `como-passar-em-medicina-federal-no-enem`, `questoes-biologia-que-mais-caem-enem`, e outros do mesmo lote. Nenhum tem imagem, nenhum recebe link de outro post (`inbound: 0`).
+## Achado #2: estatísticas com precisão fabricada (32 posts)
 
-## Achado #3 — zero linkagem interna entre posts do blog (estrutural, afeta quase tudo)
+Mesmo padrão já corrigido nos posts de hoje: frases tipo "**N-M questões por prova**" ou "**das 45 questões**" apresentadas como fato sem fonte real (o ENEM varia a cada edição, ninguém publica essa garantia por subtema). Exemplos: `questoes-matematica-enem-2022.md` ("segundo dados"), `redacao-enem-tema.md` ("Segundo dados"), `trigonometria-enem-o-que-cai.md` ("3 questões por prova").
 
-- **268/312 posts (86%) são "órfãos"** — nenhum outro post do blog aponta pra eles.
-- **260/312 (83%) são "beco sem saída"** — não linkam para nenhum outro post (linkam só para `/simulado`, `/questoes`, `/cronograma` — features do produto, não outros artigos).
-- Isso não é um problema de alguns posts, é a arquitetura toda: não existe hub-and-spoke entre os ~300 posts de `blog-data.ts`. Cada gabarito-por-ano/disciplina (ex. 15 anos × 4 disciplinas = ~60 posts) linka pra si mesmo e pras features, nunca pro gabarito do ano anterior ou de outra disciplina do mesmo ano.
+**Recomendação:** o linter (`scripts/lint-blog-post.ts`) já pega esse padrão automaticamente — rodar contra qualquer lote antes do merge, como já ficou estabelecido hoje.
 
-**Ação recomendada:** `getRelatedPosts()` já existe em `lib/blog-data.ts` (usado na página do post pra mostrar relacionados na UI) — mas isso é diferente de ter o link *dentro do texto*, que é o que pesa pra SEO/PageRank interno. Vale considerar injetar 2-3 links contextuais automáticos dentro do `content` na hora de servir (ou num script de pós-processamento), usando `getCategory()` que já existe.
+## Achado #3: 85% dos posts são "órfãos" (zero link interno recebido)
 
-## Achado #4 — ~60 posts de gabarito (todos os anos/disciplinas de matemática, por ex.) empacados no mesmo score por falta de imagem
+248 de 292 posts não são linkados de dentro de nenhum outro post (`/blog/[slug]` inline). O blog não tem `related_slugs` ou campo equivalente no schema (`BlogPost` só tem `slug, title, description, date, readTime, content`) — a navegação depende inteiramente da listagem `/blog` e do sitemap, sem malha de linkagem deliberada entre posts relacionados.
 
-Todo post `gabarito-enem-{ano}-matematica` (2009–2024) tem exatamente o mesmo padrão: 308 palavras, `imgs: 0`, `inbound: 0`, 3 links de saída. É um problema de template, não de conteúdo individual — resolver a causa raiz (adicionar imagem + link cruzado no gerador desses posts) conserta dezenas de posts de uma vez.
+**Recomendação:** é o gap de arquitetura de link mais crítico do site. Não precisa resolver os 248 de uma vez — mesmo adicionar 2-3 links contextuais nos posts de maior tráfego (gabarito, cronograma) para os posts de cauda longa já ajudaria a distribuir autoridade.
 
-## Freshness — cuidado com falso positivo
+## Achado #4: cannibalização — poucos casos reais, heurística gerou bastante ruído
 
-102/312 posts (33%) têm `date` > 180 dias. **Mas atenção:** `date` aqui é a única data que existe no modelo (não há campo separado de `lastUpdated`), e pra posts de gabarito histórico (`gabarito-enem-2009-matematica`, data natural = ano do exame) uma "idade" de 6.076 dias é esperada e correta, não indica conteúdo desatualizado. O sinal de freshness só é acionável pra conteúdo genuinamente sensível ao tempo (prazos, "melhores apps de 2025", cronogramas do próximo ENEM) — recomendo não tratar os `gabarito-*` como itens de ação de freshness.
+Rodei detecção por sobreposição de palavras do título (159 pares com Jaccard ≥ 0.6), mas a maioria é falso positivo do próprio padrão de pSEO do site (`nota-de-corte-medicina-enem` vs `nota-de-corte-direito-enem` compartilham "nota-de-corte-enem" só porque é o mesmo template, não é duplicação real). Filtrando manualmente, os casos genuínos:
 
-## Cannibalization
+| Cluster | Posts | Recomendação |
+|---|---|---|
+| "Quando sai o resultado do ENEM" | `quando-sai-resultado-enem`, `quando-sai-resultado-enem-2026`, `enem-resultado-quando-sai-2026`, `resultado-enem-2025` | 4 posts pro mesmo intent de busca — merge em 1 canônico + 301 dos outros 3, ou diferenciar escopo claramente (ex: 1 vira "histórico de datas por ano") |
+| Nota de corte Engenharia | `nota-de-corte-engenharia-enem`, `engenharia-nota-de-corte-enem` | Slugs invertidos, mesmo conteúdo provável — merge/redirect |
+| Nota de corte Direito | `nota-de-corte-direito-enem`, `direito-nota-de-corte-enem` | Mesmo caso acima |
+| ENEM Treineiro | `enem-treineiro`, `enem-treineiro-2026` | Checar se são genuinamente diferentes (ano específico vs conceito geral) ou merge |
 
-Detecção por overlap de palavras-chave do título (Jaccard ≥ 0,75, dentro da mesma categoria). Com ~300 posts sobre o mesmo nicho isso gera muito ruído (564 pares brutos) — reportando só o par de alta confiança:
+## Achado #5: freshness (data de publicação)
 
-| Post A | Post B | Score | Recomendação |
-|---|---|---|---|
-| `como-passar-em-medicina-federal-no-enem` | `como-passar-medicina-federal-enem` (só existe como `.md` morto, achado #1) | 1.0 | Fundir: usar o conteúdo do `.md` (1004 palavras) pra enriquecer o stub, apagar o `.md` |
+| Faixa | Posts |
+|---|---|
+| < 90 dias (baixa prioridade) | 221 |
+| 90-180 dias (média) | 42 |
+| 180+ dias (alta prioridade) | 29 |
 
-Os `gabarito-enem-{X}-{disciplina}` batem uns nos outros no score bruto só por compartilharem "gabarito enem [disciplina]" — isso é esperado e correto (cada ano é uma página própria, não cannibalization real).
+Site é majoritariamente recente (76% publicado nos últimos 90 dias, reflexo da Fase 1 Agressiva de julho). Os 29 "high priority" valem uma checagem de estatísticas desatualizadas, mas não é um problema estrutural.
 
-## Resumo estrutural
+## Achado #6: description curta/ausente
+
+Apenas 2 posts (`usar-nota-enem-universidade.md` e 1 outro) — praticamente resolvido, a maior parte do site já tem meta description adequada.
+
+## Não coberto nesta rodada (para manter custo razoável)
+
+- Score 0-100 por post (5 categorias: content/SEO/E-E-A-T/technical/AI citation) — exigiria julgamento de LLM por post; a 292 posts, rodar isso via subagents teria custo de token desproporcional ao valor incremental sobre os achados determinísticos acima. Recomendo rodar `/blog analyze` sob demanda nos posts do Achado #1 (os 129 com seção vazia) depois que o conteúdo for reescrito, não antes.
+- Validação de schema JSON-LD renderizado (precisa inspecionar HTML final, não só o markdown fonte)
+- Links externos quebrados (não verificado)
+
+## Resumo executivo
 
 | Métrica | Valor |
 |---|---|
-| Total de posts (únicos, ao vivo) | 312 |
-| Palavras (média) | 2.627 |
-| Sem imagem nenhuma | 75 (24%) |
-| Sem TL;DR/Key Takeaways | 0 |
-| Órfãos (zero link de entrada) | 268 (86%) |
-| Beco sem saída (zero link pra outro post) | 260 (83%) |
-| `date` > 180 dias (ver caveat de freshness acima) | 102 (33%) |
-| Score de triagem < 50 | 68 |
-| Score de triagem 50-69 | 7 |
-| Score de triagem 70-89 | 201 |
-| Score de triagem 90+ | 36 |
+| Posts analisados | 292 |
+| Posts com seção vazia (bug de geração) | 129 (44%) |
+| Posts com estatística de precisão fabricada | 32 (11%) |
+| Posts órfãos (sem link interno recebido) | 248 (85%) |
+| Posts com description curta/ausente | 2 |
+| Clusters de cannibalização confirmados | 4 |
+| Posts desatualizados (180+ dias) | 29 |
 
-## Fila de ação priorizada
-
-1. Fundir `como-passar-medicina-federal-enem.md` → stub `como-passar-em-medicina-federal-no-enem`, apagar os 9 `.md` órfãos (achado #1)
-2. Reescrever/expandir os 10 posts long-tail de 29/06 pra pelo menos 1.200-1.500 palavras (achado #2)
-3. Decidir uma estratégia de link cruzado automático entre posts da mesma categoria (achado #3) — maior alavancagem por esforço, afeta 260+ posts de uma vez
-4. Adicionar imagem de template aos ~75 posts sem imagem, priorizando os `gabarito-*` (achado #4)
-5. Não gastar esforço "atualizando" `gabarito-enem-{ano}` antigos por causa do freshness score — é ruído, não use como fila de prioridade
+**Maior prioridade:** Achado #1 (seções vazias em massa no cluster gabarito/disciplinas) — é o que mais gente vê (é o maior cluster do site) e é o mais visivelmente quebrado para um leitor real.
