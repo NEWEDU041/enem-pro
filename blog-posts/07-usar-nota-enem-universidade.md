@@ -33,7 +33,7 @@ O Sisu utiliza algoritmo de preenchimento de vagas baseado em nota ENEM e concor
 
 ## Nota Mínima ENEM para Participar do Sisu
 
-A nota mínima para Sisu é geralmente **450 pontos** em nota geral. Contudo, cursos específicos têm notas de corte muito maiores. Segundo dados de 2024: Medicina média 750+, Engenharia 700+, Direito 680+, Administração 550-600. Cada instituição estabelece seu próprio corte que varia ano a ano conforme concorrência. Recomenda-se consultar notas de corte históricas para avaliar realismo de suas escolhas.
+A nota mínima para Sisu é geralmente **450 pontos** em nota geral. Contudo, cursos específicos têm notas de corte muito maiores, com cursos de alta concorrência (como Medicina) historicamente entre os mais disputados. Cada instituição estabelece seu próprio corte que varia ano a ano conforme concorrência. Recomenda-se consultar notas de corte históricas no próprio portal do Sisu para avaliar realismo de suas escolhas.
 
 ---
 

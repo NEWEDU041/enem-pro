@@ -43,7 +43,7 @@ Boletim pode ser baixado em PDF e impresso para comprovação futura.
 
 ## Quanto Tempo Leva para Acessar o Resultado se o Sistema Está Lento?
 
-Nos primeiros dias de liberação, sistema do INEP fica sobrecarregado por 1-3 milhões de tentativas de acesso simultâneas. Segundo dados de 2024, tempo médio de carregamento na primeira hora é 8-15 segundos. Após 2-3 horas, tempo estabiliza em 1-2 segundos. Recomenda-se tentar acesso fora do horário de pico (noite ou madrugada após primeira hora). Se página não carrega após 30 segundos, recarregue o navegador. Algumas vezes o portal oferece horários específicos por grupo de inscrição para distribuir acesso.
+Nos primeiros dias de liberação, sistema do INEP fica sobrecarregado por milhões de tentativas de acesso simultâneas, o que deixa o carregamento mais lento na primeira hora e tende a estabilizar depois. Recomenda-se tentar acesso fora do horário de pico (noite ou madrugada após primeira hora). Se página não carrega após 30 segundos, recarregue o navegador. Algumas vezes o portal oferece horários específicos por grupo de inscrição para distribuir acesso.
 
 Não feche a página se estiver carregando. Paciência é recomendada.
 

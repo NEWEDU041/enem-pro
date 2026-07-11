@@ -1,10 +1,13 @@
 # Erros Comuns na Inscrição ENEM 2026: Como Evitar as 10 Armadilhas Principais
 
-Confira checklist.
+**Meta Description:** Os 10 erros mais comuns na inscrição do ENEM 2026 e como evitá-los, de dados inconsistentes a prazos perdidos de isenção.
 
 ---
 
 > **Key Takeaways**
+> - Dados inconsistentes com o documento oficial são a causa mais comum de rejeição
+> - Perder o prazo de isenção ou de inscrição não tem exceção nem segunda chance
+> - Conferir email, comprovante e status da inscrição evita a maioria dos problemas
 
 ---
 

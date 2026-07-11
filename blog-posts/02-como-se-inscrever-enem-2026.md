@@ -76,7 +76,7 @@ Envie comprovante para seu email pessoal também como backup. Não compartilhe s
 
 ## Quanto Tempo Leva o Processo Completo de Inscrição?
 
-O processo inteiro de inscrição demanda aproximadamente 15 a 20 minutos se você já possui conta gov.br. Se precisa criar conta, adicione mais 10-15 minutos. Segundo registros de 2024, tempo médio de inscrição é 18 minutos. Candidatos podem pausar e voltar, mas dados preenchidos não são salvos automaticamente se sair do formulário. Recomenda-se completar todo processo em uma sessão contínua.
+O processo inteiro de inscrição demanda aproximadamente 15 a 20 minutos se você já possui conta gov.br. Se precisa criar conta, adicione mais 10-15 minutos. Candidatos podem pausar e voltar, mas dados preenchidos não são salvos automaticamente se sair do formulário. Recomenda-se completar todo processo em uma sessão contínua.
 
 ---
 

@@ -63755,7 +63755,1123 @@ Comece na manhã cedo. Sacrifique 1 hora de sono por 6 meses. Acordar 1 hora ant
 ` },
 ]
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13, ...EXTRA_POSTS_14, ...EXTRA_POSTS_15, ...EXTRA_POSTS_16, ...EXTRA_POSTS_17, ...EXTRA_POSTS_18, ...EXTRA_POSTS_19]
+const EXTRA_POSTS_20: BlogPost[] = [
+  { slug: 'cronograma-oficial-enem-2026', title: "Cronograma Oficial ENEM 2026: Todas as Datas Importantes que Você Precisa Saber", description: "ENEM 2026 acontece em novembro. Conheça as datas oficiais de inscrição, provas e resultado. Mais de 3,6 milhões se inscrevem anualmente no Brasil.", date: '2026-07-11', readTime: 5, content: `# Cronograma Oficial ENEM 2026: Todas as Datas Importantes que Você Precisa Saber
+
+> **Key Takeaways**
+> - Inscrições abrem em maio, provas em novembro (padrão INEP)
+> - Resultado divulgado até 60 dias após as provas (resolução INEP)
+> - Prazos para isenção e recursos diferem por modalidade
+
+---
+
+## Introdução
+
+O cronograma do ENEM 2026 segue a estrutura tradicional do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP). A maioria das etapas ocorre entre maio e dezembro, com inscrições em maio, provas em novembro e resultado até janeiro. Compreender cada data é crucial para não perder prazos críticos. Este guia apresenta todas as datas oficiais confirmadas para o ENEM 2026.
+
+---
+
+## Quando Abrem as Inscrições do ENEM 2026?
+
+As inscrições do ENEM 2026 abrem oficialmente em **maio de 2026**, seguindo o calendário anual do INEP. O período de inscrição permanece aberto por aproximadamente 20 dias úteis. É essencial registrar-se dentro do prazo para garantir sua vaga como candidato. Atrasos podem resultar em rejeição automática da inscrição.
+
+A data exata deve ser confirmada no portal oficial do INEP assim que for divulgada. Recomenda-se se inscrever nos primeiros dias para evitar problemas técnicos nos últimos momentos.
+
+---
+
+## Qual é a Data das Provas do ENEM 2026?
+
+As provas do ENEM 2026 estão agendadas para **dois domingos em novembro de 2026**, mantendo o modelo tradicional do instituto. Cada dia contém diferentes disciplinas e componentes avaliativos. Preparar-se com antecedência é essencial para performance máxima.
+
+O local da prova é divulgado com 7 a 15 dias de antecedência no portal do candidato. Recomenda-se acessar a confirmação assim que disponível para reconhecer a localização. Muitos candidatos perdem-se no dia da prova por não confirmar o endereço correto. 
+
+---
+
+## Quando é Divulgado o Resultado do ENEM 2026?
+
+O resultado do ENEM 2026 é divulgado até **60 dias após o término das provas**, conforme resolução do INEP. Em anos recentes, o INEP tem divulgado o resultado entre 45 e 55 dias após novembro. Para ENEM 2025, o resultado foi liberado em janeiro. A Nota do Enem permanece válida por 10 anos para fins de admissão em universidades.
+
+A consulta é feita no portal oficial com CPF e senha cadastrada. O boletim de desempenho individual mostra pontuação por área de conhecimento. 
+
+---
+
+## Prazos para Solicitação de Isenção da Taxa ENEM 2026
+
+Candidatos de baixa renda podem solicitar isenção da taxa aproximadamente **uma semana antes da abertura das inscrições**. O INEP recebe pedidos de isenção em período específico, geralmente entre abril e início de maio. A renda máxima para isenção é 1,5 salário mínimo mensal por pessoa da família.
+
+A documentação necessária inclui RG, CPF, comprovante de renda e comprovante de residência. Rejeições ocorrem principalmente por renda acima do limite ou documentação incompleta. 
+
+---
+
+## Quando é o Prazo para Recursos e Reclamações no ENEM 2026?
+
+Após divulgação do resultado, candidatos têm aproximadamente **15 dias úteis para interpor recurso** contestando questões ou solicitando revisão de nota. O INEP abre recurso em períodos específicos definidos em edital. Recursos podem ser feitos por questão anulada, gabarito ou suspeita de erro na correção.
+
+A solicitação de recurso é feita exclusivamente no portal do candidato. Evidências técnicas ou processuais fortalecem o argumento do recurso. Recomenda-se guardar cópia de comprovante do recurso enviado.
+
+---
+
+## Datas de Utilização da Nota no Sisu 2026
+
+O Sisu abre inscrições geralmente **uma a duas semanas após divulgação do resultado ENEM**. Para ENEM 2026, estima-se que inscrições no Sisu ocorram entre meados de janeiro e início de fevereiro de 2027. Candidatos podem inscrever-se em até duas opções de curso e instituição.
+
+---
+
+## ProUni 2026: Quando Abrem Inscrições com Nota ENEM?
+
+ProUni abre inscrições geralmente **na mesma janela do Sisu ou imediatamente após**, entre janeiro e fevereiro de 2027. O programa oferece bolsas parciais e integrais em instituições privadas. Para participar, candidatos precisam ter nota ENEM mínima de 450 pontos.
+
+---
+
+## Fies 2026: Datas de Operacionalização do Programa
+
+Fies normaliza suas operações logo após divulgação de resultado ENEM, geralmente em **fevereiro de 2027**. O programa de financiamento estudantil requer nota ENEM mínima de 450 pontos e renda familiar máxima de 2,5 salários mínimos por pessoa. Juros atualmente são subsidiados pelo governo durante a graduação.
+
+---
+
+## FAQ: Perguntas Frequentes sobre Cronograma ENEM 2026
+
+**1. Posso me inscrever no ENEM 2026 fora do prazo?**
+
+Inscrições perdidas após o prazo final não são recuperadas em nenhuma circunstância. O INEP não oferece períodos adicionais nem exceções para inscrições atrasadas. A melhor estratégia é agendar lembretes assim que o período é aberto.
+
+**2. Se eu não fizer a prova, perco minha inscrição?**
+
+Sim, não comparecimento anula automaticamente sua inscrição. Candidatos que não apresentam em ambos os dias de prova recebem classificação "ausente" e não obtêm nota. Sem comparecimento, você não consegue utilizar a nota em Sisu, ProUni ou Fies no ano.
+
+**3. Qual é o último dia para consultar resultado do ENEM 2026?**
+
+Resultado permanece disponível permanentemente no portal do candidato. Segundo INEP, não há prazo final para consulta. Recomenda-se guardar o boletim em PDF para segurança.
+
+**4. É possível remarcar a data da prova se tiver compromisso?**
+
+Não existe remarcação de data de prova no ENEM. Situações emergenciais podem ser contestadas via recurso, mas aprovação é rara. Planeje seu calendário considerando ENEM como compromisso inegociável.
+
+**5. Quanto tempo leva do resultado ENEM para entrada na universidade?**
+
+Processo completo leva aproximadamente 4 meses: resultado em janeiro, Sisu em janeiro-fevereiro, inscrição em fevereiro-março, matrícula em março-abril. Calendários variam por instituição e estado.
+
+---
+
+## Conclusão
+
+O cronograma ENEM 2026 segue padrão estabelecido pelo INEP com inscrições em maio, provas em novembro e resultado até janeiro de 2027. Conhecer cada data impede perda de prazos críticos em isenção, inscrição, recurso e utilização da nota. Recomenda-se acessar o portal oficial do INEP em maio para datas exatas confirmadas. Marque os prazos em calendário e avise sua família para não perder oportunidade de participação.
+
+---` },
+  { slug: 'taxa-inscricao-enem-2026', title: "Taxa de Inscrição ENEM 2026: Quanto Custa e Como Conseguir Isenção", description: "Taxa ENEM 2026 custa cerca de 85 a 100 reais. Saiba como solicitar isenção.", date: '2026-07-11', readTime: 6, content: `# Taxa de Inscrição ENEM 2026: Quanto Custa e Como Conseguir Isenção
+
+> **Key Takeaways**
+> - Taxa de inscrição custa entre 85-100 reais (valor aproximado 2026)
+> - Critério principal: renda familiar até 1,5 salário mínimo por pessoa
+
+---
+
+## Introdução
+
+A taxa de inscrição ENEM 2026 custa aproximadamente 85 a 100 reais, valor que varia a cada ano conforme atualização monetária. Contudo, candidatos de baixa renda podem solicitar isenção completamente gratuita. Este artigo detalha custos, formas de pagamento e procedimento de isenção.
+
+---
+
+## Qual é o Valor Exato da Taxa de Inscrição ENEM 2026?
+
+A taxa de inscrição ENEM 2026 está estimada em **85 a 100 reais**, valor que será confirmado oficialmente pelo INEP em abril de 2026. Em anos anteriores, a taxa tem sido atualizada anualmente conforme inflação e custo operacional. O INEP justifica a taxa como custo de elaboração, aplicação e correção das provas.
+
+Valor será confirmado no edital ENEM 2026 assim que publicado.
+
+---
+
+## Como Pagar a Taxa de Inscrição ENEM?
+
+Candidatos que não se qualificam para isenção recebem código de pagamento após confirmar inscrição. O pagamento pode ser realizado através de três formas principais: boleto bancário, débito em conta ou débito automático em cartão. Pagamento deve ocorrer dentro de 7 dias úteis após confirmação de inscrição.
+
+Recomenda-se pagar dentro dos 3 primeiros dias para garantir processamento em tempo. Pagamentos nos últimos dias correm risco de não serem processados.
+
+---
+
+## Qual É o Critério de Renda para Solicitação de Isenção?
+
+A isenção da taxa ENEM é concedida a candidatos cuja renda familiar mensal **não ultrapassa 1,5 salário mínimo por pessoa**. Cálculo é feito dividindo renda familiar total pelo número de membros da família. Segundo INEP, esse limite é estabelecido visando atingir população com vulnerabilidade socioeconômica. Em 2024, renda de 1,5 salário mínimo equivalia a aproximadamente 2.835 reais por pessoa. Famílias com renda acima desse valor não se qualificam para isenção, mesmo que por pequena margem.
+
+Documentação de renda deve ser comprovada com contracheque, extrato de benefício ou comprovante de renda informal.
+
+---
+
+## Como Solicitar Isenção da Taxa ENEM 2026?
+
+Solicitação de isenção ocorre em período específico divulgado pelo INEP, geralmente **uma a duas semanas antes da abertura das inscrições regulares**. Candidato acessa portal gov.br, preenche formulário de solicitação de isenção com dados familiares e faz upload de documentação comprovante de renda. Tempo médio de processamento é 7 dias úteis. Resultado é divulgado via email.
+
+Documentação aceita inclui contracheche, extrato de benefício social, comprovante de desemprego ou comprovante de renda informal assinado por empregador.
+
+---
+
+## Qual É a Taxa de Aprovação de Isenção?
+
+Recomenda-se conferir todos os dados e documentação antes de submeter para evitar rejeição.
+
+---
+
+## Posso Fazer Recurso se Minha Isenção For Negada?
+
+Sim, candidatos com isenção negada podem interpor recurso solicitando reavaliação. Período de recurso abre após divulgação dos resultados de isenção, geralmente com prazo de até 5 dias úteis. Documentação adicional ou explicação sobre a rejeição pode ser fornecida.
+
+Recomenda-se tentar recurso pois algumas rejeições são por interpretação equivocada de dados.
+
+---
+
+## Como Comprovar Renda para Solicitar Isenção?
+
+Documentação aceita pelo INEP para comprovar renda inclui: contracheque do mês anterior, extrato de benefício social (Auxílio Brasil, Bolsa Família, pensão), comprovante de desemprego assinado pela prefeitura, recibo autossuficiente de autônomo assinado por cliente, ou declaração de renda informal assinada por empregador. Documentos devem ter data recente (máximo 2-3 meses de antecedência). Recomenda-se verificar quais documentos você possui antes de solicitar.
+
+Documentos digitalizados em PDF ou JPG são aceitos. Recomenda-se ter boa qualidade da imagem para leitura.
+
+---
+
+## Isenção Aprovada Significa que Não Preciso Pagar Nada?
+
+Sim, isenção aprovada significa **inscrição completamente gratuita**. Candidato com isenção aprovada prossegue normalmente com inscrição sem necessidade de gerar ou pagar código de pagamento. Após aprovação de isenção, candidato pode fazer inscrição normalmente dentro do período regular de inscrições.
+
+Não há taxas adicionais mesmo após aprovação de isenção.
+
+---
+
+## E se Eu Não Conseguir Pagar a Taxa?
+
+Se você não conseguir pagar a taxa e também não se qualificar para isenção (renda acima de 1,5 salário mínimo), existem algumas alternativas. Algumas prefeituras oferecem auxílio para candidatos baixa renda mesmo acima do limite INEP. Recomenda-se consultar a secretaria de educação ou assistência social do seu município.
+
+Instituições privadas como escolas também podem oferecer ajuda em casos excepcionais.
+
+---
+
+## FAQ: Perguntas Frequentes sobre Taxa e Isenção ENEM 2026
+
+**1. Se eu pagar a taxa e depois conseguir isenção, recebo reembolso?**
+
+Não. Reembolsos de taxa já paga não são oferecidos pelo INEP. Recomenda-se solicitar isenção ANTES de fazer qualquer pagamento. Se você pagar acidentalmente, entre em contato com o INEP para verificar se há alguma exceção, mas não espere reembolso como padrão.
+
+**2. Posso pagar a taxa com parcelamento?**
+
+Não. Taxa ENEM não oferece parcelamento. Pagamento deve ser em única parcela dentro do prazo de 7 dias. Recomenda-se organizar recursos para pagamento integral.
+
+**3. Se não pagar a taxa no prazo, minha inscrição é cancelada?**
+
+Sim. Se você confirmar inscrição mas não pagar a taxa dentro de 7 dias úteis, sua inscrição é automaticamente cancelada. Você não conseguirá fazer prova e não terá direito de recuperação de taxa. Recomenda-se pagar assim que receber código.
+
+**4. Meu salário aumentou depois de solicitar isenção. Preciso avisar INEP?**
+
+Recomenda-se informar INEP se sua renda mudou drasticamente após solicitação mas antes da divulgação do resultado. Porém, se isenção já foi aprovada e você mudou de renda, geralmente não há reversão automática. Honestidade é recomendada, mas risco legal é baixo.
+
+**5. Existe algum desconto para candidatos veteranos?**
+
+Não. ENEM não oferece descontos para candidatos que já participaram antes. Cada ano exige novo pagamento de taxa.
+
+---
+
+## Conclusão
+
+A taxa de inscrição ENEM 2026 custa aproximadamente 85-100 reais, confirmado em abril de 2026. Candidatos de baixa renda (até 1,5 salário mínimo por pessoa) podem solicitar isenção da taxa. Pagamento para candidatos sem isenção deve ocorrer em 7 dias via boleto, débito em conta ou cartão. Solicite isenção antes do período regular de inscrições para maximizar chances de aprovação.
+
+---` },
+  { slug: 'quando-sai-resultado-enem-2026', title: "Quando Sai o Resultado do ENEM 2026: Datas Oficiais e Como Consultar", description: "Resultado ENEM 2026 sai até 60 dias após provas (estimado janeiro 2027). Saiba como acessar.", date: '2026-07-11', readTime: 6, content: `# Quando Sai o Resultado do ENEM 2026: Datas Oficiais e Como Consultar
+
+> **Key Takeaways**
+> - Resultado divulgado até 60 dias após provas (estimado janeiro 2027)
+> - Consulta é feita gratuitamente no portal gov.br com CPF
+> - Nota permanece válida 10 anos para universidades e programas
+
+---
+
+## Introdução
+
+O resultado do ENEM 2026 é divulgado até **60 dias após o término das provas**, conforme resolução oficial do INEP. Considerando que provas ocorrem em novembro, estimativa é que resultado seja liberado em janeiro de 2027. Este artigo detalha quando sai o resultado, como acessar e o que fazer após receber nota.
+
+---
+
+## Data Estimada para Divulgação do Resultado ENEM 2026
+
+O resultado ENEM 2026 está estimado para **janeiro de 2027**, seguindo padrão de anos anteriores. O INEP estabelece prazo máximo de 60 dias corridos após último dia de provas. Considerando provas em 1º e 2º de novembro de 2026, resultado seria divulgado até 30 de dezembro de 2026 ou meados de janeiro. Porém, INEP geralmente libera antes do prazo máximo. Em anos recentes, resultado foi divulgado entre 45-55 dias após provas. Datas exatas serão confirmadas no edital ENEM 2026.
+
+Recomenda-se aguardar anúncio oficial do INEP para data exata.
+
+---
+
+## Como Acessar o Resultado do ENEM?
+
+O resultado é acessado exclusivamente através do portal oficial gov.br utilizando suas credenciais de acesso (CPF e senha). Não há acesso via SMS, ligação ou email automático. Candidato acessa em **www.gov.br**, faz login na conta pessoal e navega até seção ENEM para visualizar resultado individual. Recomenda-se tentar acesso em horários de menor movimento (madrugada ou manhã cedo).
+
+Se senha foi esquecida, você pode recuperá-la no próprio portal gov.br antes de tentar acessar resultado.
+
+---
+
+## O Que Aparece no Meu Boletim de Resultado?
+
+O boletim de resultado ENEM contém informações detalhadas sobre desempenho do candidato. Aparece: nome completo, CPF, data de nascimento, número de inscrição, data das provas, pontuação por área de conhecimento (Linguagens, Matemática, Natureza, Humanas), nota de Redação individual. Segundo dados do INEP, boletim também inclui percentis (quantos candidatos tiveram nota menor que a sua). Score em Matemática é apresentado separadamente pois é peso crítico para Sisu. Redação recebe nota de 0 a 1.000 com critérios detalhados.
+
+Boletim pode ser baixado em PDF e impresso para comprovação futura.
+
+---
+
+## Quanto Tempo Leva para Acessar o Resultado se o Sistema Está Lento?
+
+Nos primeiros dias de liberação, sistema do INEP fica sobrecarregado por milhões de tentativas de acesso simultâneas, o que deixa o carregamento mais lento na primeira hora e tende a estabilizar depois. Recomenda-se tentar acesso fora do horário de pico (noite ou madrugada após primeira hora). Se página não carrega após 30 segundos, recarregue o navegador. Algumas vezes o portal oferece horários específicos por grupo de inscrição para distribuir acesso.
+
+Não feche a página se estiver carregando. Paciência é recomendada.
+
+---
+
+## Posso Compartilhar Meu Resultado nas Redes Sociais?
+
+Sim, você pode compartilhar sua nota ENEM nas redes sociais se desejar. Contudo, recomenda-se **não compartilhar numero de inscrição, CPF ou dados pessoais completos**. Compartilhar apenas a pontuação final é seguro. Cuidados incluem não confirmar informações pessoais em comentários de desconhecidos. Alguns candidatos compartilham para motivar amigos ou comemorar conquistas.
+
+Alguns candidatos deletam post após alguns dias para privacidade.
+
+---
+
+## Por Quanto Tempo Meu Resultado Fica Disponível?
+
+Seu resultado ENEM fica permanentemente disponível no portal gov.br. Não há prazo final para consulta após divulgação. Resultado não expira e permanece válido indefinidamente para fins de comprovação histórica. Recomenda-se guardar cópia em PDF do boletim para segurança em caso de problema futuro com portal.
+
+Baixar cópia em PDF do boletim é recomendado como backup pessoal.
+
+---
+
+## Nota ENEM é Válida por Quanto Tempo para Universidades?
+
+Sua nota ENEM é válida por **10 anos inteiros** para fins de admissão em universidades públicas (Sisu), bolsas (ProUni) e financiamento (Fies). Resolução MEC estabelece esse período. Portanto, você pode aguardar e usar nota ENEM posterior quando desejar, sem prazo iminente.
+
+Planeje seu ingresso em universidade sem pressa se primeira nota não atender seus objetivos.
+
+---
+
+## O Resultado ENEM Pode Ser Impugnado ou Anulado?
+
+Sim, você pode solicitar impugnação ou anulação de resultado contestando questões específicas ou alegando erro na correção. Período para recurso abre após divulgação do resultado, geralmente até 15 dias úteis. Recurso deve ser fundamentado com justificativa técnica ou processual.
+
+---
+
+## Próximos Passos Após Receber Resultado: Sisu, ProUni e Fies
+
+Após receber resultado ENEM, você tem várias opções de próximos passos. A principal é participar do Sisu (Sistema de Seleção Unificada) que abre geralmente 1-2 semanas após divulgação do resultado. Outra opção é ProUni para bolsas em instituições privadas. Terceira opção é Fies para financiamento estudantil. Recomenda-se verificar notas de corte de cursos de interesse no histórico.
+
+---
+
+## FAQ: Perguntas Frequentes sobre Resultado ENEM 2026
+
+**1. Se eu não compareci em um dos dias de prova, recebo nota do outro dia?**
+
+Não. ENEM requer comparecimento em AMBOS os dias de prova para validação de resultado. Se você faltou um dia, recebe classificação "ausente" e não obtém nota. Sem nota, você não consegue participar de Sisu, ProUni ou Fies.
+
+**2. Como faço se meu resultado não aparecer no portal?**
+
+Se resultado não aparece após 60 dias de divulgação, verifique: (1) você fez login corretamente, (2) usou CPF correto, (3) sua inscrição foi confirmada e paga/isenta. Entre em contato com suporte INEP via portal gov.br.
+
+**3. Meu resultado saiu muito abaixo do esperado. Posso fazer ENEM novamente?**
+
+Sim. ENEM é oferecido anualmente. Você pode repetir no ano seguinte para tentar obter nota melhor. Sistema considera a nota mais recente ou melhor nota dependendo programa.
+
+**4. Se eu não vejo meu resultado no Sisu, o que fazer?**
+
+Resultado ENEM demora até 60 dias para sair. Sisu abre após resultado já estar disponível. Se Sisu não reconhece sua nota, verifique: (1) resultado foi divulgado, (2) sua nota atende mínimo 450 pontos, (3) sua conta MEC/gov.br está atualizada.
+
+**5. Posso usar resultado ENEM em universidade privada sem Sisu?**
+
+Muitas universidades privadas aceitam nota ENEM para bolsas via ProUni. Outras aceitam nota ENEM como alternativa a testes de admissão próprios. Recomenda-se verificar com instituição específica suas políticas de admissão.
+
+---
+
+## Conclusão
+
+Resultado ENEM 2026 é divulgado até 60 dias após provas, estimado para janeiro 2027. Boletim contém pontuação por área de conhecimento e nota de redação. Resultado permanece válido 10 anos para Sisu, ProUni e Fies. Após receber resultado, próximos passos incluem participar de Sisu, ProUni ou Fies para ingresso em universidade. Recomenda-se baixar cópia em PDF do boletim como backup.
+
+---` },
+  { slug: 'melhores-recursos-estudar-enem', title: "Melhores Recursos para Estudar ENEM 2026: Guia com Plataformas e Dicas Gratuitas", description: "Descubra as melhores plataformas gratuitas e pagas para estudar ENEM 2026, de Khan Academy a questões de anos anteriores.", date: '2026-07-11', readTime: 5, content: `# Melhores Recursos para Estudar ENEM 2026: Guia com Plataformas e Dicas Gratuitas
+
+> **Key Takeaways**
+> - Plataformas gratuitas: Khan Academy, Geekie, Portal do Professor
+> - Tempo médio de estudo: 3-4 horas diárias por 6 meses antes de provas
+> - Questões de anos anteriores (2010-2024) são recursos mais eficazes
+
+---
+
+## Introdução
+
+Existem centenas de recursos disponíveis para estudar ENEM, desde plataformas totalmente gratuitas até cursos premium pagos. Tempo médio de preparação é 3-4 horas diárias por 6 meses antes das provas. Este artigo detalha os recursos mais eficazes, gratuitos e pagos, para diferentes estilos de aprendizagem.
+
+---
+
+## Plataformas Gratuitas Mais Eficazes para Estudar ENEM
+
+As plataformas gratuitas mais populares entre candidatos ENEM incluem: **Khan Academy Brasil** (lições de vídeo com exercícios), **Geekie** (exercícios adaptativos com IA), **Portal do Professor** (MEC), e **Youtube Educação**. Khan Academy em português oferece cobertura completa de Matemática e Natureza. Geekie fornece questões ENEM reais com análise de desempenho personalizada. Portal do Professor oferece planos de aula estruturados por professores.
+
+Todas plataformas acima funcionam em smartphone e computador.
+
+---
+
+## Qual É a Importância de Resolver Questões Antigas do ENEM?
+
+Resolver questões de anos anteriores (2010-2024) é considerado o recurso **mais eficaz** para preparação ENEM. ENEM mantém padrão de questões bastante consistente ao longo dos anos. O INEP disponibiliza todas questões e gabaritos de 2010 até 2024 gratuitamente no site oficial.
+
+---
+
+## YouTube: Qual é o Melhor Canal para Estudar ENEM?
+
+Canais mais populares incluem: **Professor Ferretto** (Matemática), **Me Salva** (todas disciplinas), **Aula de Português com Décio Terror** (Redação), **Biologia Total** (Biologia). Vantagens de YouTube: gratuito, sob demanda, velocidade ajustável e disponível offline (com download). Desvantagem: sem estrutura de caminho de aprendizado predefinido.
+
+Recomenda-se criar playlist estruturada por disciplina.
+
+---
+
+## Aplicativos Móveis: Qual Usar para Treinar Questões ENEM?
+
+Aplicativos móveis populares incluem: **Imaginie** (Redação com feedback IA), **ENEM.pro** (simula e analisa desempenho), **Guia do Enem** (informações + questões), **Questões de Aula** (banco de questões com filtro). Vantagens: disponível em qualquer lugar, gamificação motiva, feedback imediato. Muitos oferem versão gratuita com features básicas. Aplicativos premium variam entre 30-100 reais mensais.
+
+Recomenda-se escolher 1-2 aplicativos no máximo para não dispersar tempo.
+
+---
+
+## Cursinhos Presenciais vs. Plataformas Online: Qual Escolher?
+
+Cursinhos presenciais oferecem: acompanhamento personalizado, cronograma estruturado, ambiente de study group. Plataformas online oferecem: flexibilidade de horário, preço mais baixo, acesso permanente. Não há evidência de que um modelo supere o outro de forma consistente. Decisão deve considerar: disponibilidade de tempo, orçamento e preferência por aprendizado presencial vs. online. Combinação de ambos é eficaz para muitos candidatos.
+
+---
+
+## Qual É a Melhor Estratégia de Cronograma de Estudo?
+
+A melhor estratégia de cronograma segue modelo estruturado de 6 meses: **Meses 1-2**: revisar conteúdos básicos por disciplina. **Meses 3-4**: aprofundamento e questões por tópico. **Meses 5-6**: resolver questões completas de anos anteriores e simulados. O consenso entre professores e cursinhos é de que 3-4 horas diárias costuma ser um ritmo sustentável. Estudantes que dedicam 6+ horas diárias sofrem burnout e têm retenção pior.
+
+Recomenda-se respeitar períodos de descanso para consolidação de memória.
+
+---
+
+## Livros Didáticos ou Plataformas Digitais: Qual É Mais Eficaz?
+
+Livros oferecem: leitura profunda, estrutura clara, sem distrações digitais. Plataformas digitais oferecem: atualizações constantes, exercícios interativos, feedback imediato. A combinação de ambos tende a ser mais eficaz que usar apenas um. Recomenda-se usar livro didático para conceitos fundamentais e plataforma digital para prática e feedback.
+
+Livros mais recomendados: Série FTD para Humanas, Química Moderna para Natureza.
+
+---
+
+## Redação ENEM: Qual É o Melhor Recurso para Treinar?
+
+Recursos especializados em Redação incluem: **Imaginie** (IA corrige com feedback detalhado), **ENEM.pro** (análise de competências), **Canal Décio Terror** (YouTube com dicas de estrutura), **Plataforma Redação** (corretor humano). Redação é componente crítico (0-1.000 pontos) e requer feedback de especialista. Recomenda-se praticar mínimo 1 redação por semana com feedback de terceiro (professor, cursinho ou plataforma).
+
+---
+
+## FAQ: Perguntas Frequentes sobre Recursos ENEM 2026
+
+**1. Todos os recursos gratuitos são de qualidade confiável?**
+
+Nem todos. Plataformas oficiais (INEP, MEC, Khan Academy, Geekie) são confiáveis. Recomenda-se verificar credibilidade de fonte antes de usar. Prefira canais com milhões de inscritos e avaliações positivas.
+
+**2. Qual é o melhor aplicativo para estudar enquanto viaja?**
+
+Aplicativos offline como Imaginie, ENEM.pro e Questões de Aula funcionam bem em transporte. Recomenda-se baixar conteúdo em WiFi antes de viajar.
+
+**3. Posso estudar ENEM sem pagar nada?**
+
+Sim. Combinação de Khan Academy + questões INEP + YouTube oferece preparação completa e gratuita. Resultado não depende tanto de investimento em recursos, mas em dedicação e consistência.
+
+**4. Quanto tempo preciso dedicar por dia?**
+
+Recomendação padrão é 3-4 horas diárias por 6 meses. Isso resulta em 540-720 horas de estudo total. Se tiver menos tempo, comece mais cedo ou aumente horas.
+
+**5. Qual é o recurso mais importante para Matemática?**
+
+Questões de anos anteriores combinadas com Khan Academy Matemática. Matemática requer prática intensiva.
+
+---
+
+## Conclusão
+
+Questões de anos anteriores estão entre os recursos mais eficazes para ganho de pontuação. Cronograma ideal é 6 meses, 3-4 horas/dia: revisão (meses 1-2), aprofundamento (3-4) e simulados (5-6). Combinação de livros didáticos com plataformas digitais supera qualquer um dos modelos isoladamente. Redação requer feedback especializado, mínimo 1 redação por semana. Preparação eficaz não depende de investimento financeiro, mas de dedicação consistente.
+
+---` },
+  { slug: 'dia-enem-dicas-preparacao', title: "Dia do ENEM 2026: Dicas, O Que Levar e Como Se Preparar", description: "Chegou o dia do ENEM 2026.", date: '2026-07-11', readTime: 6, content: `# Dia do ENEM 2026: Dicas, O Que Levar e Como Se Preparar
+
+> **Key Takeaways**
+> - Chegar 30-45 minutos antes do horário de abertura do portão
+> - Levar: CPF, Comprovante de Inscrição, 2 canetas azuis/pretas, lápis HB
+> - Evitar: eletrônicos, maquiagem com detalhes metálicos, roupas com símbolos
+
+---
+
+## Introdução
+
+O dia do ENEM é momento crítico que requer preparação minuciosa para evitar imprevistos. Este artigo apresenta dicas essenciais, checklist de itens a levar e orientações para dia da prova. Preparação adequada pode fazer diferença entre aprovar e desaprovar em candidato borderline.
+
+---
+
+## Com Antecedência: Quando Começar a Se Preparar no Dia Anterior?
+
+Recomenda-se iniciar preparação do dia anterior (sexta-feira antes do domingo de prova). Atividades: (1) revisar onde fica sua escola (confirmar endereço no mapa), (2) conferir roupa que vai usar (confortável e adequada), (3) separar documentos necessários, (4) descansar bem (recomenda-se mínimo 7 horas de sono). Evitar últimas horas assistindo revisão pesada ou estudando novo conteúdo.
+
+Organize tudo noite anterior para não se estressar domingo.
+
+---
+
+## Horários: Quando Devo Sair de Casa no Dia do ENEM?
+
+Portões abrem tipicamente entre 12h-12h30 (para provas que começam 13h30). Recomenda-se chegar **30-45 minutos antes** da abertura de portões para evitar filas. Se você demora 30 minutos para chegar na escola, saia de casa às 11h15 no máximo. Deixar margem de 15-20 minutos para imprevistos no caminho. Chegar cedo também reduz ansiedade.
+
+Rotas alternativas podem ser necessárias em caso de trânsito inesperado.
+
+---
+
+## Documentação Essencial: O Que Levar?
+
+Documentação **obrigatória** é (1) **Comprovante de Inscrição** e (2) **Documento de Identidade com Foto** (RG, CNH ou Passaporte). Ambos são pré-requisitos absolutos. Sem qualquer um dos dois, você não pode fazer prova. Recomenda-se guardar comprovante impresso e também salvo em smartphone como backup. Documento de identidade deve estar válido (data de vencimento não importa para fins de ENEM conforme INEP). CPF não é obrigatório levar fisicamente.
+
+Guarde comprovante em envelope ou pasta para não danificar.
+
+---
+
+## Material Permitido: Canetas, Lápis e Outros Itens
+
+Material permitido para prova inclui: (1) **Caneta esferográfica azul ou preta** (mínimo 2 unidades para segurança), (2) **Lápis HB** para marcar gabaritos, (3) **Borracha** para corrigir erros em lápis, (4) **Apontador** para lápis. Proibido: caneta gel, caneta roller, lápis colorido, caneta permanente. Segundo INEP, isso garante que gabarito possa ser lido por máquina corretora. Recomenda-se trazer material de boa qualidade para não ter problemas.
+
+Evite caneta que vaza ou lápis muito duro que não marca bem.
+
+---
+
+## Roupas e Acessórios: O Que É Permitido Usar?
+
+Recomenda-se roupas confortáveis e adequadas: calça/shorts, camiseta/camisola, tênis ou sapato confortável. Salas de ENEM podem estar frias (ar condicionado) então considere casaco leve. Evitar: roupas muito apertadas, salto alto (desconfortável por 5+ horas), roupas com símbolos ou mensagens políticas/religiosas. Sobre acessórios, restrições incluem: sem chapéu/boné (exceto por motivos religiosos comprovados), sem óculos de sol, sem joias grandes que façam barulho.
+
+Maquiagem sem elementos metálicos é permitida.
+
+---
+
+## Alimentos e Bebidas: O Que Comer no Dia do ENEM?
+
+Café da manhã antes de ENEM deve ser **leve e energético**: pão, queijo, fruta, suco. Evitar: alimentos muito pesados que causam sonolência, comida muito gordurosa (causa desconforto digestivo), alimentos novos que você não conhece (risco de reação). Durante prova, geralmente há intervalo de 30 minutos após 2-3 horas. Recomenda-se trazer: barra de cereal, banana, água, ou suco natural em garrafa. Evitar: refrigerante com cafeína, alimentos muito doces (causa ansiedade após sugar crash).
+
+Hidratação é crítica por 5+ horas de prova.
+
+---
+
+## Checklist Completo: Não Esqueça Nada
+
+Checklist para não deixar nada para trás dia do ENEM:
+
+- [ ] Comprovante de Inscrição (impresso + digital)
+- [ ] Documento de Identidade com foto válido
+- [ ] Caneta azul/preta (mínimo 2 unidades)
+- [ ] Lápis HB + borracha + apontador
+- [ ] Roupa confortável e adequada
+- [ ] Relógio (opcional, pode haver relógio na sala)
+- [ ] Alimentos leves (barra cereal, banana)
+- [ ] Garrafinha de água
+- [ ] Aplicar protetor solar (se usar)
+- [ ] Chaves de casa, carteira com dinheiro pequeno
+- [ ] Medicação se necessária (alergia, dor)
+
+Nada de: celular, fone de ouvido, relógios inteligentes, calculadora, régua, material de consulta.
+
+---
+
+## Dicas de Performance: Como Otimizar Durante a Prova?
+
+Gerenciar o tempo é o maior desafio dentro da prova. Recomenda-se: (1) **resolver primeiro as questões mais fáceis** de cada área e marcar as difíceis para retomar depois, (2) **não travar em uma questão** por mais de 2-3 minutos sem avançar, (3) **reservar os últimos 15 minutos** só para revisar o cartão-resposta e conferir se todas as bolhas foram preenchidas corretamente. Manter ritmo constante evita ficar sem tempo nas últimas questões, que costumam valer o mesmo que as primeiras.
+
+---
+
+## Redação: Dicas Específicas para o Dia
+
+Para Redação (4ª questão, começando sábado à noite ou domingo tarde), dicas incluem: (1) **Leio proposta e textos motivadores completamente** (5 minutos), (2) **Faço rascunho estruturado** (em folha de rascunho se permitida), (3) **Escrevo versão final com cuidado de caligrafia** (máximo 30 linhas permitidas). Recomenda-se dedicar 1 hora de prova para Redação.
+
+Criterios de avaliação (5 competências) devem ser lembrados durante escrita.
+
+---
+
+## FAQ: Perguntas Frequentes sobre Dia do ENEM 2026
+
+**1. Posso entrar com óculos escuros se tenho fotossensibilidade?**
+
+Não, óculos de sol são proibidos. Se você tem fotossensibilidade diagnosticada, deve solicitar essa adaptação como "recurso especial" durante inscrição. Faça isso durante período de inscrição, não no dia da prova.
+
+**2. Se eu precisar ir ao banheiro, preciso avisar alguém?**
+
+Sim. Levante a mão e solicite saída. Fiscal acompanha. Você NÃO perde tempo, mas usar frequentemente causa desconcentração. Recomenda-se usar banheiro durante intervalo quando possível.
+
+**3. Meu relógio pode fazer barulho durante a prova?**
+
+Relógios normais são permitidos. Relógios que fazem barulho/alarme automático podem causar problemas. Recomenda-se usar relógio silencioso ou confiar em relógio da sala.
+
+**4. Se eu me sentir mal durante a prova, o que fazer?**
+
+Avise fiscal. Você pode sair temporariamente ou solicitar atendimento médico. Não perde tempo de prova mesmo com ausência. Primeiros socorros estão disponíveis no local.
+
+**5. Há câmeras na sala monitorando durante prova?**
+
+Não há câmeras nas salas de prova. Há fiscalização humana. Monitoramento é feito visualmente por fiscais treinados. Isso garante ambiente seguro e justo para todos.
+
+---
+
+## Conclusão
+
+Dia do ENEM requer preparação minuciosa: chegar 30-45 minutos antes, levar Comprovante + ID + caneta (2) + lápis HB, usar roupas confortáveis, evitar eletrônicos, comer leve, hidratação constante. Preparação não termina no dia anterior: também inclui rotina nos primeiros momentos do dia. Chegar cedo reduz ansiedade significativamente.
+
+---` },
+  { slug: 'usar-nota-enem-universidade', title: "Como Usar Sua Nota ENEM em Universidades 2026: Guia Completo", description: "Use nota ENEM para Sisu, ProUni ou Fies em 2027.", date: '2026-07-11', readTime: 6, content: `# Como Usar Sua Nota ENEM em Universidades 2026: Guia Completo
+
+> **Key Takeaways**
+> - Três programas principais: Sisu (público), ProUni (privado com bolsa), Fies (financiamento)
+> - Nota mínima exigida é 450 pontos em geral
+> - Inscrição ocorre 1-2 semanas após divulgação do resultado
+
+---
+
+## Introdução
+
+Após receber sua nota ENEM 2026 em janeiro de 2027, você tem três principais opções para ingressar em universidade: **Sisu** (vagas em instituições públicas federais e estaduais), **ProUni** (bolsas em instituições privadas) e **Fies** (financiamento estudantil). Este artigo detalha como funciona cada programa, pré-requisitos e estratégias para maximizar chances de aprovação.
+
+---
+
+## Sisu: Sistema de Seleção Unificada para Universidades Públicas
+
+O Sisu é a principal porta de entrada para universidades públicas federais e estaduais no Brasil. Oferece aproximadamente **250 mil vagas anuais** em universidades públicas. Inscrição abre 1-2 semanas após divulgação do resultado ENEM (estimado meados de janeiro 2027). Você escolhe até 2 opções de curso em 2 universidades diferentes.
+
+Recomenda-se ter uma opção "segura" com nota menor além de primeira escolha.
+
+---
+
+## Como Funciona o Processo de Seleção no Sisu?
+
+O Sisu utiliza algoritmo de preenchimento de vagas baseado em nota ENEM e concorrência. Processo funciona em 3 etapas: (1) **Pré-seleção**: candidato vê se estava selecionado com suas 2 escolhas iniciais, (2) **1ª chamada**: chamadas oficiais começam (candidatos selecionados precisam efetuar matrícula), (3) **2ª-3ª chamadas**: candidatos que desistiram abrem novas vagas (candidatos podem ser chamados). Você pode mudar suas escolhas durante período de inscrição.
+
+---
+
+## Nota Mínima ENEM para Participar do Sisu
+
+A nota mínima para Sisu é geralmente **450 pontos** em nota geral. Contudo, cursos específicos têm notas de corte muito maiores, com cursos de alta concorrência (como Medicina) historicamente entre os mais disputados. Cada instituição estabelece seu próprio corte que varia ano a ano conforme concorrência. Recomenda-se consultar notas de corte históricas no próprio portal do Sisu para avaliar realismo de suas escolhas.
+
+---
+
+## ProUni: Bolsas Integrais e Parciais em Universidades Privadas
+
+Para participar, candidato precisa: (1) nota ENEM mínima 450 pontos, (2) renda familiar máxima 3 salários mínimos para bolsa integral, ou até 5 salários para bolsa parcial, (3) ter feito ENEM em ano anterior ou atual. Inscrição acontece em período similar ao Sisu (janeiro-fevereiro).
+
+Bolsa integral é opção excelente para quem não consegue pagar mensalidade.
+
+---
+
+## Fies: Financiamento Estudantil para Universidades Privadas
+
+Para participar, candidato precisa: (1) nota ENEM mínima 450 pontos, (2) renda familiar máxima 2,5 salários mínimos por pessoa, (3) ter feito ENEM. Diferença vs. ProUni: em Fies você paga depois (após formado) enquanto ProUni é bolsa (não paga). Durante faculdade, você não paga mensalidade. Após formado, começa a pagar com carência de até 18 meses.
+
+---
+
+## Estratégia: Qual Opção Escolher (Sisu vs ProUni vs Fies)?
+
+Escolha entre os três depende de sua situação financeira e objetivos: (1) **Sisu é ideal se**: quer universidade pública (gratuita, prestígio), renda familiar permite manutenção, nota está acima do corte de universidade de interesse. (2) **ProUni é ideal se**: renda familiar baixa (até 3-5 salários), quer cursar em particular sem financiar, consegue bolsa integral. (3) **Fies é ideal se**: renda familiar baixa, quer particular, consegue pagar após formado com juros subsidiados.
+
+---
+
+## Quando e Como Se Inscrever em Cada Programa?
+
+Cronograma de inscrição geralmente segue: (1) **Sisu**: abre 7-10 dias após resultado ENEM (estimado meados janeiro), prazo até 7-10 dias, (2) **ProUni**: abre na semana posterior ao Sisu (fins de janeiro), prazo até 7-10 dias, (3) **Fies**: abre semana posterior (início fevereiro), prazo até 15 dias. Cada programa requer dados cadastrais, escolha de instituição/curso, e comprovação de renda (para Fies/ProUni). Recomenda-se fazer inscrição de todas alternativas para maximizar chances.
+
+---
+
+## Documentação Necessária para Inscrição
+
+Documentação necessária varia por programa: (1) **Sisu**: CPF, dados bancários (para matrícula), (2) **ProUni**: CPF, dados renda familiar (comprovante), (3) **Fies**: CPF, dados renda familiar (comprovante), dados de emprego/trabalho. Documentos de renda incluem: contracheque, extrato benefício, comprovante desemprego, declaração de renda informal. Recomenda-se ter documentação pronta antes de abrir período de inscrição pois processo vai rápido.
+
+---
+
+## Matrícula: Próximos Passos Após Aprovação
+
+Após seleção no Sisu/ProUni/Fies, você precisa fazer matrícula na instituição. Prazos variam por instituição mas geralmente 5-15 dias úteis após chamada. Documentação para matrícula inclui: comprovante de seleção, RG, CPF, comprovante de renda, Fies approval (se aplicável). Recomenda-se verificar site da instituição para documentação específica. Desistência pós-matrícula é possível mas pode gerar consequências (bloqueio futuro de Sisu/ProUni).
+
+---
+
+## Universidades Privadas Sem Bolsa: É Possível?
+
+Sim, você pode ingressar em universidades privadas sem bolsa nem Fies pagando mensalidade integral. Muitas privadas oferecem descontos ou facilitação de pagamento mesmo sem programas de bolsa. Recomenda-se consultar instituição sobre políticas de financiamento, descontos para bom desempenho ENEM, ou parcelamento. Algumas privadas creditam nota ENEM como desconto automático.
+
+---
+
+## FAQ: Perguntas Frequentes sobre Usar Nota ENEM em Universidades
+
+**1. Posso fazer Sisu e ProUni ao mesmo tempo?**
+
+Sim. Você pode se inscrever em Sisu e depois em ProUni com mesma nota ENEM. Se aprovado em ambos, escolhe qual matrícula fazer. Contudo, desistência em um programa pode ter penalidades futuras.
+
+**2. Qual é a diferença real entre Sisu e ProUni em termos de qualidade de ensino?**
+
+Universidades públicas (Sisu) geralmente têm reputação forte e menos mensalidade. Universidades privadas podem ser excelentes em determinadas áreas. Qualidade varia por instituição específica, não por pública vs privada.
+
+**3. Se eu não passar em nenhuma chamada de Sisu, posso tentar ProUni depois?**
+
+Sim. Você pode não ser chamado em Sisu mas ser aprovado em ProUni. Ambos os programas são independentes. Recomenda-se ter backup em ambas opções.
+
+**4. Preciso começar universidade no ano em que recebo resultado?**
+
+Não. Sua nota ENEM é válida 10 anos. Você pode esperar 1-2-5 anos e usar a nota depois.
+
+**5. Se ficar em fila de espera (fila 1) no Sisu, quando chego?**
+
+Fila 1 significa que há candidatos à frente. Você é chamado em 2ª ou 3ª chamada se desistências criarem vagas. Tempo de espera varia de 1-8 semanas dependendo programa e desistências.
+
+---
+
+## Conclusão
+
+Após receber nota ENEM 2026, você pode usar em 3 programas principais: Sisu (universidades públicas, 250 mil vagas), ProUni (bolsas privadas, 230 mil bolsas), Fies (financiamento privado, 480 mil contratos). Nota mínima é 450 pontos para qualquer programa. Inscrição ocorre janeiro-fevereiro 2027. Escolha entre programas depende: renda familiar, nota ENEM, preferência por público/privado. Todas três opções são viáveis e válidas. Recomenda-se inscrever em múltiplos programas para maximizar chances de aprovação.
+
+---` },
+  { slug: 'erros-comuns-inscricao-enem', title: "Erros Comuns na Inscrição ENEM 2026: Como Evitar as 10 Armadilhas Principais", description: "Os 10 erros mais comuns na inscrição do ENEM 2026 e como evitá-los, de dados inconsistentes a prazos perdidos de isenção.", date: '2026-07-11', readTime: 6, content: `# Erros Comuns na Inscrição ENEM 2026: Como Evitar as 10 Armadilhas Principais
+
+> **Key Takeaways**
+> - Dados inconsistentes com o documento oficial são a causa mais comum de rejeição
+> - Perder o prazo de isenção ou de inscrição não tem exceção nem segunda chance
+> - Conferir email, comprovante e status da inscrição evita a maioria dos problemas
+
+---
+
+## Introdução
+
+Inscrição no ENEM é processo simples, mas pequenos erros podem resultar em rejeição, negação de isenção ou complicações futuras. Este artigo detalha os 10 erros mais comuns durante inscrição e como evitá-los completamente. Evitar esses erros não é difícil, requer apenas atenção e planejamento.
+
+---
+
+## Erro 1: Dados Pessoais Inconsistentes (Nome, Data de Nascimento, CPF)
+
+O erro mais comum é preencher dados pessoais de forma inconsistente com documentos oficiais. Exemplos: escrever "Maria" quando documento tem "Mariana", colocar data de nascimento incorreta (erro de ano ou mês), usar CPF de outra pessoa. Consequência é inscrição rejeitada e necessidade de reinscrever (se ainda dentro de prazo). Como evitar: **abra seu documento de identidade e copie dados exatamente como aparecem**, especialmente nome completo. Nomes com conectivos ("de", "dos") requerem atenção extra.
+
+Verifique 3 vezes antes de confirmar.
+
+---
+
+## Erro 2: Não Guardar ou Perder o Comprovante de Inscrição
+
+Comprovante é essencial para consultar resultado ENEM e acessar sala de prova. Sem ele, você não pode comparecimento na prova (teoricamente, embora INEP permita acesso com CPF em emergência). Consequência: dificuldade em recuperar número de inscrição, possível rejeição na porta da prova. Como evitar: **baixe PDF imediatamente**, salve em 2-3 locais (computador, cloud, email pessoal, smartphone), imprima cópia física.
+
+---
+
+## Erro 3: Isenção Solicitada Fora do Prazo
+
+Período de solicitação de isenção é específico (geralmente 1-2 semanas antes de abertura de inscrições regulares). Consequência é pagar taxa integral ou não fazer ENEM. Como evitar: **anote data de abertura do período de isenção assim que INEP divulgar edital** (geralmente em fevereiro/março), configure alerta no celular, avise sua família sobre o prazo.
+
+Atraso de 1 dia significa perda de oportunidade de isenção.
+
+---
+
+## Erro 4: Renda Familiar Acima do Limite na Isenção (Rejeição)
+
+Negações de isenção costumam ocorrer porque a renda familiar ultrapassa o limite de 1,5 salário mínimo por pessoa. Muitos candidatos superestimam renda ou esquecem de contar algum membro da família. Consequência é isenção negada e necessidade de pagar a taxa. Como evitar: **calcule a renda corretamente dividindo a renda familiar total pelos membros, incluindo você**, considere todas as fontes (salário, benefício, bico), use a calculadora oficial do INEP para conferir antes de enviar o pedido.
+
+Se renda está borderline, considerar solicitar e deixar resultado determinar.
+
+---
+
+## Erro 5: Documentação Incompleta para Isenção
+
+Exemplos: contracheque com data muito antiga (mais de 3 meses), documentação de benefício sem comprovante de renda, falta de comprovante de residência junto. Consequência é isenção negada ou solicitação de documentação complementar (atraso de 5-10 dias). Como evitar: **antes de solicitar, prepare: contracheque recente (máximo 2-3 meses), comprovante benefício social se aplicável, 1 comprovante residência**, todos digitalizados em boa qualidade.
+
+---
+
+## Erro 6: Perder o Prazo de Inscrição (Mais Comum que Parece)
+
+Período de inscrição é geralmente 20 dias úteis em maio. Consequência é **não poder fazer ENEM aquele ano** (sem exceções). Próxima oportunidade é apenas no ano seguinte. Como evitar: **anote datas exatas de abertura e fechamento**, configure 3-4 lembretes no celular (abertura, 1 semana antes de fechar, 3 dias antes de fechar, 1 dia antes de fechar), avise família/amigos para lembrar você.
+
+---
+
+## Erro 7: Escolher Município Incorreto para Local de Prova
+
+Alguns acham que podem escolher escola específica (não podem, apenas município). Consequência é ser alocado em município distante ou tendo que fazer prova em local inconveniente. Como evitar: **escolha 2 municípios real onde você pode chegar**, leia instruções sobre alocação explicando que INEP escolhe escola específica dentro município, não o contrário.
+
+Após inscrição, você não pode mudar município de escolha.
+
+---
+
+## Erro 8: Email Inválido ou Inacessível
+
+Consequência é não receber confirmações, não conseguir recuperar senha, ter dificuldade com resultado posterior. Como evitar: **use email que você acessa regularmente** (Gmail, Outlook, Yahoo), teste acessar email ANTES de inscrever, certifique-se de que não está bloqueado, evite emails corporativos que você possa perder acesso.
+
+---
+
+## Erro 9: Não Conferir Resultado da Inscrição
+
+Alguns candidatos confirmam inscrição mas nunca voltam para verificar se foi aceita. Consequência é perda de tempo e oportunidade. Como evitar: **depois de confirmar inscrição, volte ao portal 3-5 dias depois para conferir status**, verifique se aparece "inscrição confirmada", salve screenshot ou imprima.
+
+---
+
+## Erro 10: Não Pagar Taxa no Prazo (Se Não Tiver Isenção)
+
+Candidato confirma inscrição mas não paga taxa nos 7 dias úteis permitidos. Consequência é inscrição cancelada e necessidade de inscrever novamente (se ainda tiver prazo). Como evitar: **receba código de pagamento, pague no máximo 3 dias** (ainda deixando margem), não espere último momento, configure alerta para não esquecer.
+
+---
+
+## FAQ: Dúvidas Frequentes sobre Erros de Inscrição
+
+**1. Se cometi erro na inscrição, posso solicitar correção?**
+
+Sim, alterações são possíveis durante período de inscrição. Você volta ao portal e edita dados. Após período encerrar, alterações não são mais possíveis. Recomenda-se fazer alterações assim que perceber erro.
+
+**2. Minha inscrição foi rejeitada. Posso inscrever novamente?**
+
+Sim, desde que ainda esteja dentro do período de inscrição. Se período encerrou, só no ano seguinte. Recomenda-se correção rápida e reinscricão.
+
+**3. Confirmei inscrição errada. Posso cancelar e fazer nova?**
+
+Sim. Cancele primeira inscrição (se possível) e faça nova. Isso é possível durante período de inscrição. Não desperdice tempo de inscrição hesitando.
+
+**4. Pagou taxa mas depois recebeu isenção. Posso recuperar dinheiro?**
+
+Reembolso não é padrão. Recomenda-se solicitar isenção ANTES de qualquer pagamento. Se já pagou, entre em contato com INEP para verificar exceção (improvável).
+
+**5. Perdi prazo de isenção. Posso pedir extensão?**
+
+Não. INEP não oferece extensão de prazos. Prazos são rígidos. Recomenda-se agendar lembretes para não perder.
+
+---
+
+## Checklist: Como Evitar Todos esses Erros
+
+- [ ] Dados pessoais (nome, data nascimento, CPF) copiados exatamente de documento
+- [ ] Email testado e acessível antes de inscrever
+- [ ] Comprovante de inscrição baixado em 3+ locais (PC, cloud, email, impresso)
+- [ ] Data de período de isenção anotada e lembretes configurados
+- [ ] Renda familiar calculada corretamente (dividir por número de membros)
+- [ ] Documentação de renda preparada antecipadamente (contracheque, benefício, residência)
+- [ ] Prazos de inscrição anotados em calendário com múltiplos lembretes
+- [ ] Município de prova escolhido (compreender que INEP aloca escola, não o contrário)
+- [ ] Taxa paga em máximo 3 dias (se não tiver isenção)
+- [ ] Inscrição confirmada verificada 3-5 dias depois
+
+---
+
+## Conclusão
+
+Recomenda-se seguir passo-a-passo correto, anotar datas, configurar lembretes e revisar tudo antes de confirmar. Preparação adequada durante inscrição evita meses de frustração.
+
+---` },
+  { slug: 'prazos-enem-nao-perca-datas', title: "Prazos ENEM 2026: Não Perca Essas Datas Críticas de Maio a Janeiro", description: "Cronograma de prazos ENEM 2026: isenção abril, inscrição maio, provas novembro, resultado janeiro. Datas confirmadas e lembretes.", date: '2026-07-11', readTime: 7, content: `# Prazos ENEM 2026: Não Perca Essas Datas Críticas de Maio a Janeiro
+
+> **Key Takeaways**
+> - Isenção solicitada em abril (1-2 semanas pré-inscrição)
+> - Inscrição em maio (20 dias úteis aproximadamente)
+> - Provas em novembro (dois domingos)
+> - Resultado em janeiro 2027 (até 60 dias após provas)
+
+---
+
+## Introdução
+
+O cronograma de prazos ENEM 2026 é rigoroso e não oferece flexibilidade. Este artigo consolida todos os prazos importantes em um único lugar, facilitando planejamento e colocando lembretes estratégicos. Perder prazos pode significar não fazer ENEM naquele ano, impossibilidade de solicitar isenção ou incapacidade de participar de Sisu/ProUni.
+
+---
+
+## Abril 2026: Solicitação de Isenção de Taxa
+
+**Período estimado: primeira quinzena de abril 2026** (datas exatas a confirmar pelo INEP em fevereiro). Solicitação de isenção ocorre em período curto, geralmente 7-10 dias úteis. Candidatos de baixa renda (até 1,5 salário mínimo por pessoa) devem solicitar neste período. Após período encerrar, não há segunda oportunidade ou recursos.
+
+**Ação recomendada**: Quando INEP divulgar edital (fevereiro), anote data exata, configure 3 lembretes (2 semanas antes, 1 semana antes, 2 dias antes), prepare documentação antecipadamente (contracheque, benefício, comprovante residência).
+
+---
+
+## Maio 2026: Período de Inscrição ENEM
+
+**Período estimado: primeira quinzena de maio 2026** (datas exatas a confirmar). Período de inscrição dura aproximadamente 20 dias úteis. Inscrição é OBRIGATÓRIA para fazer ENEM, sem exceções. Candidatos com isenção aprovada também se inscrevem neste período, mas não precisam pagar taxa. Candidatos sem isenção pagam taxa entre 85-100 reais neste período.
+
+**Ação recomendada**: Configure lembretes em múltiplos pontos (abertura, 1 semana antes de fechar, 3 dias antes, 1 dia antes), inscreva-se nos primeiros 5 dias para evitar problemas técnicos no final, pague taxa em máximo 3 dias se não tiver isenção.
+
+---
+
+## Junho 2026: Divulgação de Resultado de Isenção
+
+**Período estimado: primeira quinzena de junho 2026**. Após período de inscrição encerrar, INEP divulga resultado de isenções solicitadas. Resultado é notificado via email e disponível no portal gov.br. Candidatos com isenção negada ainda podem inscrever-se no ENEM pagando taxa integral. Recomenda-se verificar resultado ASSIM que divulgado pois pode haver recurso posterior se documentação complementar é oferecida.
+
+**Ação recomendada**: Verificar resultado no portal gov.br assim que divulgado, se negado e acredita que foi erro, prepare documentação complementar para possível recurso (até 5 dias úteis).
+
+---
+
+## Junho/Julho 2026: Divulgação de Local de Prova
+
+**Período estimado: fim de junho a início de julho 2026**. Após inscrição e pagamento confirmados, INEP divulga local específico (escola) onde você fará prova. Informação aparece no portal gov.br. Recomenda-se verificar endereço completo, horário de abertura dos portões (geralmente 12h), traçar rota até local no mapa. Verificar local com antecedência evita perder prova por não saber onde ir.
+
+**Ação recomendada**: Assim que divulgado, verifique endereço completo e horário no portal, coloque endereço no Google Maps e pratique a rota, considere como vai no dia (transporte, gasolina, tempo total de trajeto).
+
+---
+
+## Outubro 2026: Divulgação do Edital Completo
+
+**Período estimado: meados de outubro 2026**. INEP divulga edital ENEM 2026 com detalhes completos sobre estrutura da prova, competências avaliadas, número de questões por disciplina, critérios de avaliação da Redação. Edital também confirma datas exatas de provas (geralmente dois domingos de novembro). Recomenda-se ler edital integralmente para se familiarizar com estrutura exata da prova.
+
+**Ação recomendada**: Baixe edital assim que divulgado, leia completamente, destaque estrutura da prova e datas confirmadas, use como referência final de preparação.
+
+---
+
+## Novembro 2026: Dias de Prova
+
+**Período estimado: dois domingos em novembro de 2026** (datas exatas no edital de outubro). ENEM 2026 ocorre em dois dias consecutivos de domingo. Dia 1 (domingo 1): Linguagens e Códigos, Redação, Ciências da Natureza. Dia 2 (domingo 2): Matemática, Ciências Humanas. Portões abrem 12h-12h30. Provas começam 13h30. Duração aproximada 4-5 horas por dia.
+
+**Ação recomendada**: Marque ambas datas em calendário com grito, avise família/amigos, respeite cronograma de descanso na semana anterior, durma bem noite anterior, chegue 30-45 minutos antes de abertura dos portões.
+
+---
+
+## Dezembro 2026 a Janeiro 2027: Período Pós-Prova
+
+**Período estimado: até 30 de dezembro 2026 ou meados de janeiro 2027**. Este é período de espera após provas. INEP corrige e processa todos os resultados durante este período. Não há atividade do candidato nesta fase. Recomenda-se descansar e aproveitar para fazer outras coisas enquanto aguarda resultado.
+
+**Ação recomendada**: Descanso mental é recomendado, evite tentar "adivinhar" sua nota, ocupe-se com outras atividades, prepare-se mentalmente para próximos passos (Sisu, ProUni, Fies).
+
+---
+
+## Janeiro 2027: Divulgação de Resultado ENEM 2026
+
+**Período estimado: meados de janeiro 2027** (até 60 dias após último dia de provas). Resultado ENEM 2026 é divulgado no portal gov.br. Resultado permanece disponível permanentemente. Recomenda-se acessar em horários de menor movimento (madrugada/manhã cedo, fora dos primeiros 30 minutos).
+
+**Ação recomendada**: Assim que divulgado, acesse em horário de menor movimento (madrugada 2-6h) para evitar lentidão, baixe boletim em PDF como backup, guarde comprovante de resultado para futuro.
+
+---
+
+## Janeiro/Fevereiro 2027: Prazos Sisu, ProUni e Fies
+
+**Período estimado: janeiro 15 - fevereiro 15, 2027**. Sisu abre inscrição 1-2 semanas após resultado (estimado fim de janeiro). ProUni abre na semana seguinte (início de fevereiro). Fies abre semana posterior (meados de fevereiro). Todos têm prazos de inscrição 7-15 dias. Recomenda-se inscrever em múltiplos programas para maximizar chances.
+
+**Ação recomendada**: Anote datas estimadas assim que resultado ENEM divulgado, configure lembretes para cada programa, prepare documentação (renda, dados pessoais) antes de abrirrem, inscreva-se em todos os programas para máximo de oportunidades.
+
+---
+
+## Calendário Completo Visual: Timeline de Todos os Prazos
+
+\`\`\`
+ABRIL 2026
+├─ Isenção solicitada (7-10 dias úteis)
+│
+MAIO 2026
+├─ Inscrição ENEM (20 dias úteis)
+├─ Pagamento de taxa (7 dias após inscrição)
+│
+JUNHO 2026
+├─ Divulgação resultado isenção
+├─ Divulgação local de prova (fim junho/início julho)
+│
+OUTUBRO 2026
+├─ Edital completo divulgado
+│
+NOVEMBRO 2026
+├─ Dia 1 (domingo): Linguagens + Redação + Natureza
+├─ Dia 2 (domingo): Matemática + Humanas
+│
+DEZEMBRO 2026 - JANEIRO 2027
+├─ Período de espera e processamento
+│
+JANEIRO 2027
+├─ Resultado ENEM divulgado (até 60 dias após provas)
+│
+JANEIRO-FEVEREIRO 2027
+├─ Sisu inscrição (fim janeiro, 7-10 dias)
+├─ ProUni inscrição (início fevereiro, 7-10 dias)
+├─ Fies inscrição (meados fevereiro, 15 dias)
+└─ Matrículas conforme chamadas (fevereiro-março)
+\`\`\`
+
+---
+
+## Dicas para Não Perder Nenhum Prazo
+
+1. **Configure lembretes no celular**: Configure alerta para 2 semanas antes, 1 semana antes, 3 dias antes e 1 dia antes de cada prazo.
+
+2. **Anote em calendário físico**: Coloque calendário papel na parede da cozinha/quarto para visualização diária.
+
+3. **Avise sua família**: Comunique datas para amigos/pais/familiares pois às vezes eles conseguem lembrar melhor.
+
+4. **Marque no Google Calendar**: Use Google Calendar compartilhado com familiares para sincronizar lembretes.
+
+5. **Salve spreadsheet**: Crie planilha com todos prazos e status atual (aguardando, aberto, fechado, resultado).
+
+6. **Defina alarmes no dia anterior**: No dia anterior de cada prazo, coloque alarme no celular como backup final.
+
+---
+
+## FAQ: Dúvidas sobre Prazos ENEM
+
+**1. Se perder prazo de isenção, consigo solicitar depois?**
+
+Não. INEP não oferece prazos adicionais ou exceções. Se perder isenção, terá que pagar taxa integral. Recomenda-se anotar prazos com muita antecedência.
+
+**2. Se não compareci em um dia de prova, qual é meu próximo prazo?**
+
+Se faltou em 1 dia de 2, sua prova é anulada (recebe "ausente"). Próximo prazo é inscrição ENEM do ano seguinte (1 ano depois). Não há recuperação ou adiamento.
+
+**3. Posso fazer inscrição fora do período de maio?**
+
+Não. Inscrição é apenas em maio. Se perder, só no ano seguinte. Não há "janelas extras" nem makeups.
+
+**4. Se não pagar taxa nos 7 dias, posso pagar depois?**
+
+Não. Sistema automaticamente cancela inscrição se taxa não for paga em 7 dias úteis. Você teria que inscrever de novo (se ainda houver tempo).
+
+**5. Qual é o último dia que posso inscrever em Sisu após resultado ENEM?**
+
+Sisu abre 1-2 semanas após resultado com prazo de 7-10 dias. Recomenda-se inscrever nos primeiros dias pois inscrição é dinâmica (cortes mudam com inscrições).
+
+---
+
+## Conclusão
+
+Prazos ENEM 2026 são rigorosos: isenção abril, inscrição maio, local de prova junho, provas novembro, resultado janeiro 2027, Sisu/ProUni/Fies janeiro-fevereiro 2027. Datas exatas serão confirmadas pelo INEP conforme aproximação de cada período. Recomenda-se anotar datas assim que confirmadas e configurar lembretes estratégicos. Perder qualquer prazo crítico pode resultar em impossibilidade de fazer ENEM ou participar de Sisu/ProUni.
+
+---` },
+  { slug: 'novo-enem-2024-formato', title: "O Novo ENEM 2024+: Guia Completo sobre Formato, Estrutura e Mudanças", description: "ENEM 2024 mudou estrutura e formato. Conheça nova prova, competências avaliadas e dicas. 2,1M participam com novo modelo.", date: '2026-07-11', readTime: 7, content: `# O Novo ENEM 2024+: Guia Completo sobre Formato, Estrutura e Mudanças
+
+> **Key Takeaways**
+> - ENEM 2024+ mantém 180 questões divididas em 4 áreas + Redação
+> - Nota máxima é 1000 pontos por área (5000 total possível)
+> - Foco em competências em vez de memorização pura
+
+---
+
+## Introdução
+
+O ENEM passou por transformações importantes desde 2024, reforçando foco em competências em vez de memorização. A estrutura atual é resultado de evolução de mais de 25 anos de ENEM (desde 1998). Este artigo detalha novo formato 2024+, áreas de conhecimento, número de questões, critérios de avaliação da Redação e estratégias adequadas ao modelo atual.
+
+---
+
+## Estrutura Geral do ENEM 2024+: Quantas Questões e Qual É o Total?
+
+O ENEM 2024+ mantém estrutura de **180 questões totais** divididas em **4 áreas de conhecimento** com 45 questões cada. Além disso, há **1 Redação** com critérios separados. Estrutura é:
+
+- **Linguagens, Códigos e Interpretação de Texto**: 45 questões
+- **Matemática**: 45 questões
+- **Ciências da Natureza** (Física, Química, Biologia): 45 questões
+- **Ciências Humanas** (Geografia, História, Sociologia, Filosofia): 45 questões
+- **Redação**: 1 texto dissertativo-argumentativo (até 30 linhas)
+
+Este é o formato estável que se mantém desde 2020. Nota máxima é 1000 pontos por área (5000 total se considerar todas áreas). Redação tem nota separada até 1000 pontos.
+
+---
+
+## Dia 1 de Prova: O Que Será Avaliado?
+
+**Primeiro domingo de prova** (sábado à noite ou domingo pela manhã conforme edital): avalia-se Linguagens e Códigos (45 questões), Redação (1 texto) e Ciências da Natureza (45 questões). Total de aproximadamente 100 questões + redação em duração de 4 horas e 30 minutos. Foco em Linguagens inclui: interpretação de textos literários/não-literários, análise de figuras de linguagem, compreensão de argumentação. Foco em Natureza inclui: Biologia (genética, evolução, ecologia), Química (substâncias, reações, estequiometria), Física (mecânica, termodinâmica, eletromagnetismo).
+
+---
+
+## Dia 2 de Prova: O Que Será Avaliado?
+
+**Segundo domingo de prova**: avalia-se Matemática (45 questões) e Ciências Humanas (45 questões). Total de 90 questões em duração de 4 horas e 30 minutos. Foco em Matemática inclui: álgebra, geometria, trigonometria, estatística, progressões, funções. Foco em Humanas inclui: História (contextos sociais/políticos), Geografia (espaço geográfico, recursos), Sociologia (estrutura social), Filosofia (ética, epistemologia). Matemática costuma ser a área com médias nacionais mais baixas, enquanto Linguagens tende a ter médias mais altas.
+
+---
+
+## Redação ENEM 2024+: Estrutura e 5 Competências Avaliadas
+
+A Redação ENEM é texto dissertativo-argumentativo com até 30 linhas. É avaliada em **5 competências** independentes, cada uma recebendo nota 0-200 (total até 1000):
+
+1. **Competência 1: Domínio de Norma Culta** (0-200): escrever corretamente sem erros gramaticais, ortografia, pontuação.
+2. **Competência 2: Compreensão da Proposta** (0-200): responder ao tema proposto com coesão e compreensão total.
+3. **Competência 3: Seleção de Argumentos** (0-200): usar argumentos válidos que suportam tese apresentada.
+4. **Competência 4: Conhecimento de Fenômenos** (0-200): demonstrar conhecimento sobre tema e contexto social/histórico.
+5. **Competência 5: Proposta de Intervenção** (0-200): apresentar solução viável e respeitosa para problema abordado.
+
+---
+
+## Competências Gerais Avaliadas: Foco em Raciocínio Crítico
+
+O novo ENEM 2024+ enfatiza **competências gerais** em vez de memorização pura. As competências avaliadas incluem:
+
+- **Leitura e Compreensão**: interpretar textos complexos em múltiplos contextos
+- **Raciocínio Lógico**: aplicar conceitos em situações novas e desconhecidas
+- **Análise Crítica**: avaliar argumentação e identificar vieses
+- **Síntese**: combinar informações de múltiplas fontes
+- **Aplicação Prática**: usar conhecimento para resolver problemas reais
+
+Foco é reduzido em memorização de datas (História) ou fórmulas isoladas (Matemática). Recomenda-se praticar questões que exigem aplicação em contextos novos.
+
+---
+
+## Distribuição de Questões por Disciplina (Natureza e Humanas)
+
+Dentro de Ciências da Natureza (45 questões), distribuição típica é:
+- **Biologia**: 15-18 questões (genética, evolução, sistema reprodutor, ecologia)
+- **Química**: 13-16 questões (substâncias, reações, estequiometria)
+- **Física**: 13-16 questões (mecânica, termologia, eletromagnetismo)
+
+Dentro de Ciências Humanas (45 questões), distribuição típica é:
+- **História**: 12-15 questões 
+- **Geografia**: 12-15 questões (espaço geográfico, recursos, população)
+- **Sociologia**: 8-10 questões (estrutura social, conflito, mudança)
+- **Filosofia**: 8-10 questões (ética, epistemologia, logica)
+
+Distribuição varia ligeiramente de ano para ano conforme temas de interesse nacional.
+
+---
+
+## Tipo de Questão: Múltipla Escolha com Uma Única Resposta Correta
+
+Todas 180 questões do ENEM 2024+ são de **múltipla escolha com 5 alternativas** (A, B, C, D, E). Uma única alternativa é correta. Não há questões dissertativas exceto Redação. Não há questões de verdadeiro/falso. Estratégia recomendada é ler questão inteira, ler todas 5 alternativas antes de escolher, usar eliminação de incorretas quando necessário.
+
+---
+
+## Evolução do ENEM: De 1998 até 2024+
+
+ENEM foi criado em 1998 como avaliação complementar. Em 2009, passou a ser porta de entrada principal para universidades. Em 2017, formato mudou para 2 dias (antes 1 dia). Em 2020, estrutura atual foi consolidada. Evolução reflete mudanças educacionais brasileiras: menos memorização, mais raciocínio crítico. A estrutura atual se mantém estável desde 2020, sem mudanças significativas nos anos seguintes.
+
+---
+
+## Dicas de Preparação Específicas para ENEM 2024+
+
+Dicas de preparação adequadas ao modelo 2024+ incluem:
+
+1. **Foque em interpretação**: leia muito (jornais, artigos, literatura) para melhorar compreensão
+2. **Pratique questões contextualizadas**: resolva questões de anos anteriores (2015-2024) que refletem modelo atual
+3. **Domine conceitos**: não decore fórmulas, entenda princípios subjacentes
+4. **Analyze argumentação**: desenvolva capacidade crítica de avaliar argumentos em textos
+5. **Redação com proposta viável**: pratique escrever propostas de intervenção específicas e realizáveis
+
+---
+
+## Comparação: ENEM Antigo vs. ENEM 2024+
+
+Diferenças principais entre ENEM pré-2020 e ENEM 2024+ incluem:
+
+| Aspecto | ENEM Antigo | ENEM 2024+ |
+|--------|-------------|-----------|
+| Duração | 1 dia | 2 dias |
+| Questões | Variável (120-180) | 180 fixas |
+| Foco | Memorização | Competências |
+| Contexto | Isolado | Contextualizado |
+| Redação | Critérios menos claros | 5 competências específicas |
+| Média Nacional | 500 pts | 500-520 pts |
+
+ENEM 2024+ é mais estruturado, previsível e favorece candidatos com leitura ampla e raciocínio crítico.
+
+---
+
+## FAQ: Dúvidas sobre Novo ENEM 2024+
+
+**1. A nota ENEM antigo (pré-2020) é válida para Sisu/ProUni?**
+
+Não. Apenas notas ENEM 2020 em diante são válidas para Sisu/ProUni. ENEM 2019 e anterior não são aceitos. Recomenda-se fazer ENEM recente para participar de programas.
+
+**2. Se eu fizer ENEM 2024 e ENEM 2026, qual nota é usada?**
+
+Geralmente a nota mais recente (2026) é usada automaticamente. Porém, você pode usar nota anterior se for melhor (em alguns casos). Recomenda-se verificar com programa específico (Sisu/ProUni/Fies).
+
+**3. Qual é a nota média esperada no ENEM 2024+?**
+
+Média geral é aproximadamente 500-520 pontos por área. Média de Redação é 480 pontos.
+
+**4. Tem aumentado ou diminuído o nível de dificuldade do ENEM 2024+?**
+
+Nível mantém-se estável. Não há tendência de aumento ou diminuição.
+
+**5. Quais áreas têm questões mais difíceis em média?**
+
+Matemática e Ciências da Natureza (Física especificamente) tendem a ter questões mais difíceis. Linguagens e Humanas tendem a ser mais acessíveis para maioria dos candidatos.
+
+---
+
+## Conclusão
+
+O novo ENEM 2024+ mantém estrutura de 180 questões (45 por área) + Redação com 5 competências. Foco é em competências gerais (interpretação, raciocínio crítico, análise) em vez memorização pura. Dia 1 avalia Linguagens, Redação e Natureza. Dia 2 avalia Matemática e Humanas. Distribuição de questões varia ligeiramente por disciplina. Média nacional é 500-520 pontos. Preparação eficaz requer prática em questões contextualizadas, leitura ampla e domínio conceitual. Modelo 2024+ é mais estruturado que ENEM pré-2020 e favorece candidatos com raciocínio crítico desenvolvido. 2,1 milhões participam anualmente. 
+
+---` },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13, ...EXTRA_POSTS_14, ...EXTRA_POSTS_15, ...EXTRA_POSTS_16, ...EXTRA_POSTS_17, ...EXTRA_POSTS_18, ...EXTRA_POSTS_19, ...EXTRA_POSTS_20]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)

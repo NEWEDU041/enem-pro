@@ -87,6 +87,8 @@ Nada de: celular, fone de ouvido, relógios inteligentes, calculadora, régua, m
 
 ## Dicas de Performance: Como Otimizar Durante a Prova?
 
+Gerenciar o tempo é o maior desafio dentro da prova. Recomenda-se: (1) **resolver primeiro as questões mais fáceis** de cada área e marcar as difíceis para retomar depois, (2) **não travar em uma questão** por mais de 2-3 minutos sem avançar, (3) **reservar os últimos 15 minutos** só para revisar o cartão-resposta e conferir se todas as bolhas foram preenchidas corretamente. Manter ritmo constante evita ficar sem tempo nas últimas questões, que costumam valer o mesmo que as primeiras.
+
 ---
 
 ## Redação: Dicas Específicas para o Dia

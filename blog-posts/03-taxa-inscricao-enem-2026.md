@@ -12,13 +12,13 @@
 
 ## Introdução
 
-A taxa de inscrição ENEM 2026 custa aproximadamente 85 a 100 reais, valor que varia a cada ano conforme atualização monetária. Segundo dados do INEP de 2024, o valor foi fixado em 85 reais para aquele ano. Contudo, candidatos de baixa renda podem solicitar isenção completamente gratuita. Este artigo detalha custos, formas de pagamento e procedimento de isenção.
+A taxa de inscrição ENEM 2026 custa aproximadamente 85 a 100 reais, valor que varia a cada ano conforme atualização monetária. Contudo, candidatos de baixa renda podem solicitar isenção completamente gratuita. Este artigo detalha custos, formas de pagamento e procedimento de isenção.
 
 ---
 
 ## Qual é o Valor Exato da Taxa de Inscrição ENEM 2026?
 
-A taxa de inscrição ENEM 2026 está estimada em **85 a 100 reais**, valor que será confirmado oficialmente pelo INEP em abril de 2026. Em anos anteriores, a taxa tem sido atualizada anualmente conforme inflação e custo operacional. Segundo histórico INEP, valor em 2023 foi 85 reais, em 2022 foi 85 reais e em 2021 foi 78 reais. O INEP justifica a taxa como custo de elaboração, aplicação e correção das provas.
+A taxa de inscrição ENEM 2026 está estimada em **85 a 100 reais**, valor que será confirmado oficialmente pelo INEP em abril de 2026. Em anos anteriores, a taxa tem sido atualizada anualmente conforme inflação e custo operacional. O INEP justifica a taxa como custo de elaboração, aplicação e correção das provas.
 
 Valor será confirmado no edital ENEM 2026 assim que publicado.
 

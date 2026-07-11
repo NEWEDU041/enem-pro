@@ -27,7 +27,7 @@ O ENEM 2024+ mantém estrutura de **180 questões totais** divididas em **4 áre
 - **Ciências Humanas** (Geografia, História, Sociologia, Filosofia): 45 questões
 - **Redação**: 1 texto dissertativo-argumentativo (até 30 linhas)
 
-Segundo dados de 2024, este é formato estável que se mantém desde 2020. Nota máxima é 1000 pontos por área (5000 total se considerar todas áreas). Redação tem nota separada até 1000 pontos.
+Este é o formato estável que se mantém desde 2020. Nota máxima é 1000 pontos por área (5000 total se considerar todas áreas). Redação tem nota separada até 1000 pontos.
 
 ---
 
@@ -39,7 +39,7 @@ Segundo dados de 2024, este é formato estável que se mantém desde 2020. Nota 
 
 ## Dia 2 de Prova: O Que Será Avaliado?
 
-**Segundo domingo de prova**: avalia-se Matemática (45 questões) e Ciências Humanas (45 questões). Total de 90 questões em duração de 4 horas e 30 minutos. Foco em Matemática inclui: álgebra, geometria, trigonometria, estatística, progressões, funções. Foco em Humanas inclui: História (contextos sociais/políticos), Geografia (espaço geográfico, recursos), Sociologia (estrutura social), Filosofia (ética, epistemologia). Matemática é área com notas mais baixas média nacional (média 520 pontos) enquanto Linguagens tem média maior (média 540).
+**Segundo domingo de prova**: avalia-se Matemática (45 questões) e Ciências Humanas (45 questões). Total de 90 questões em duração de 4 horas e 30 minutos. Foco em Matemática inclui: álgebra, geometria, trigonometria, estatística, progressões, funções. Foco em Humanas inclui: História (contextos sociais/políticos), Geografia (espaço geográfico, recursos), Sociologia (estrutura social), Filosofia (ética, epistemologia). Matemática costuma ser a área com médias nacionais mais baixas, enquanto Linguagens tende a ter médias mais altas.
 
 ---
 
@@ -94,7 +94,7 @@ Todas 180 questões do ENEM 2024+ são de **múltipla escolha com 5 alternativas
 
 ## Evolução do ENEM: De 1998 até 2024+
 
-ENEM foi criado em 1998 como avaliação complementar. Em 2009, passou a ser porta de entrada principal para universidades. Em 2017, formato mudou para 2 dias (antes 1 dia). Em 2020, estrutura atual foi consolidada. Evolução reflete mudanças educacionais brasileiras: menos memorização, mais raciocínio crítico. Segundo historiografia educacional, ENEM é um dos testes mais estáveis do mundo (mantém estrutura básica por 4+ anos).
+ENEM foi criado em 1998 como avaliação complementar. Em 2009, passou a ser porta de entrada principal para universidades. Em 2017, formato mudou para 2 dias (antes 1 dia). Em 2020, estrutura atual foi consolidada. Evolução reflete mudanças educacionais brasileiras: menos memorização, mais raciocínio crítico. A estrutura atual se mantém estável desde 2020, sem mudanças significativas nos anos seguintes.
 
 ---
 
