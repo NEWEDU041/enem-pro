@@ -10,6 +10,7 @@ const allReports = [
   ...loadReport('_dedupe-report.json'),
   ...loadReport('_splice-report.json'),
   ...loadReport('_revisao-fix-report.json'),
+  ...loadReport('_fabrication-fix-report.json'),
 ]
 const affectedSlugs = [...new Set(allReports.map(r => r.slug))]
 const report = affectedSlugs.map(slug => ({ slug }))

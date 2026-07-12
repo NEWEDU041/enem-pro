@@ -3626,7 +3626,7 @@ Com o ENEM 2026 marcado para novembro, a pergunta que todo candidato faz é: ond
 
 
 **Alta frequência (estude primeiro):**
-- Funções do 1º e 2º grau: mínimo 6 questões por prova
+- Funções do 1º e 2º grau: presença consistente na prova
 - Geometria (plana + espacial): 8–10 questões
 - Estatística e probabilidade: 5–7 questões
 
@@ -7559,7 +7559,7 @@ Cinemática (velocidade, aceleração, gráficos), Dinâmica (Leis de Newton) e 
 **Segunda prioridade: Eletricidade**
 Circuitos elétricos, Lei de Ohm, potência. Questões de conta com kWh aparecem com frequência.
 
-**Física Moderna:** Efeito fotoelétrico, radioatividade, relatividade. 1–2 questões por prova. Investimento baixo, bom retorno.
+**Física Moderna:** Efeito fotoelétrico, radioatividade, relatividade. Investimento baixo, bom retorno.
 
 
 ## Gestão de tempo na prova. estratégia para Natureza?
@@ -13718,7 +13718,7 @@ Física assusta muitos candidatos. é uma das áreas com maior potencial de ganh
 
 ## O que Cai em Física no ENEM?
 
-O ENEM testa Física dentro de Ciências da Natureza (45 questões no total com Química e Biologia). Física representa em média **15–18 questões por prova**.
+O ENEM testa Física dentro de Ciências da Natureza (45 questões no total com Química e Biologia). Física costuma representar boa parte das questões de Ciências da Natureza.
 
 Os temas mais recorrentes nos últimos 10 anos:
 
@@ -14035,7 +14035,7 @@ Biologia é uma das disciplinas com maior quantidade de temas no ENEM. também u
 
 ## O que Cai em Biologia no ENEM?
 
-Biologia faz parte de Ciências da Natureza (45 questões com Física e Química). Biologia representa em média **15–17 questões por prova**.
+Biologia faz parte de Ciências da Natureza (45 questões com Física e Química). Biologia costuma representar boa parte das questões de Ciências da Natureza.
 
 Distribuição histórica dos últimos 10 anos:
 
@@ -14337,7 +14337,7 @@ Química é, para muitos candidatos, a disciplina mais temida do ENEM. Mas quand
 
 O ENEM não testa memorização de reações orgânicas ou cálculos estequiométricos complexos. A prova cobra **entendimento de conceitos no contexto do cotidiano**.
 
-Química faz parte de Ciências da Natureza (45 questões com Física e Biologia). Química representa em média **14–16 questões por prova**.
+Química faz parte de Ciências da Natureza (45 questões com Física e Biologia). Química costuma representar boa parte das questões de Ciências da Natureza.
 
 ## Temas Mais Cobrados (últimos 10 anos)?
 
@@ -14638,7 +14638,7 @@ Cada área tem peso diferente e estilo de questão específico.
 
 ## Geometria Plana: o Mais Frequente?
 
-Geometria plana aparece em 3–5 questões por prova. Os temas que mais caem:
+Geometria plana aparece com frequência na prova. Os temas que mais caem:
 
 **Triângulos:**
 - Teorema de Pitágoras: a² = b² + c²
@@ -15833,7 +15833,7 @@ História é uma das disciplinas onde os candidatos mais polarizam: ou vão muit
 
 ## O que o ENEM Cobra em História?
 
-História faz parte de Ciências Humanas (45 questões com Geografia, Filosofia e Sociologia). História representa em média **12–15 questões por prova**.
+História faz parte de Ciências Humanas (45 questões com Geografia, Filosofia e Sociologia). História costuma representar boa parte das questões de Ciências Humanas.
 
 A distribuição histórica por período:
 
@@ -16678,7 +16678,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2026-06-14',
     readTime: 7,
     content: `
-Funções são um dos temas com maior peso em Matemática no ENEM. Aparecem em praticamente todas as edições e costumam representar 3–5 questões por prova.
+Funções são um dos temas com maior peso em Matemática no ENEM. Aparecem em praticamente todas as edições e costumam ter presença consistente na prova.
 
 > **TL;DR:** Funções no ENEM 2026: o que cai de função do 1º grau, 2º grau, exponencial e logarítmica. Fórmulas, gráficos e como resolver questões da banca INEP. [Pratique no ENEM Pro →](/questoes)
 
@@ -16945,7 +16945,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2026-06-14',
     readTime: 6,
     content: `
-Trigonometria no ENEM aparece de forma consistente. 2 a 3 questões por prova. A boa notícia: o nível exigido é acessível com algumas semanas de estudo focado.
+Trigonometria no ENEM aparece de forma consistente. A boa notícia: o nível exigido é acessível com algumas semanas de estudo focado.
 
 > **TL;DR:** Trigonometria no ENEM 2026: seno, cosseno, tangente, lei dos senos e cossenos. O que estudar, tabela de valores e como resolver questões contextualizadas da banca INEP. [Pratique no ENEM Pro →](/questoes)
 
@@ -18658,7 +18658,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2026-06-14',
     readTime: 6,
     content: `
-Progressões Aritmética (PA) e Geométrica (PG) são temas frequentes em Matemática no ENEM. Aparecem em 1–2 questões por prova e costumam ser acessíveis para quem domina as fórmulas.
+Progressões Aritmética (PA) e Geométrica (PG) são temas frequentes em Matemática no ENEM. Aparecem com frequência moderada e costumam ser acessíveis para quem domina as fórmulas.
 
 > **TL;DR:** PA e PG no ENEM 2026: fórmulas do termo geral e soma. usar cada progressão, como resolver questões contextualizadas da banca INEP e dicas de estudo. [Pratique no ENEM Pro →](/questoes)
 
@@ -19906,7 +19906,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2026-06-14',
     readTime: 6,
     content: `
-Logaritmos aparecem em 1–2 questões por prova do ENEM e costumam ser questões acessíveis para quem domina as propriedades. O segredo está em entender a relação entre logaritmo e exponencial.
+Logaritmos aparecem com frequência moderada nas provas do ENEM e costumam ser questões acessíveis para quem domina as propriedades. O segredo está em entender a relação entre logaritmo e exponencial.
 
 > **TL;DR:** Logaritmos no ENEM 2026: definição, propriedades fundamentais, equações logarítmicas e como resolver questões contextualizadas da banca INEP. [Pratique no ENEM Pro →](/questoes)
 
@@ -20197,7 +20197,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2026-06-14',
     readTime: 7,
     content: `
-Probabilidade e Combinatória costumam aparecer juntas em 2–3 questões por prova do ENEM. São temas que parecem difíceis mas seguem lógica clara — com prática, tornam-se pontos seguros.
+Probabilidade e Combinatória costumam aparecer juntas com frequência nas provas do ENEM. São temas que parecem difíceis mas seguem lógica clara — com prática, tornam-se pontos seguros.
 
 > **TL;DR:** Probabilidade e análise combinatória no ENEM 2026: princípio de contagem, permutações, combinações, cálculo de probabilidade e como resolver questões da banca. [Pratique no ENEM Pro →](/questoes)
 
@@ -26250,7 +26250,7 @@ Inclua no cronograma dias especificos de revisao do conteudo estudado 7, 14 e 30
 
 ![Guia completo: questoes de quimica enem para o ENEM](/images/blog/questoes-de-quimica-enem-hero.svg)
 
-Química representa aproximadamente 15 das 45 questões de Ciências da Natureza. O ENEM não cobra Química decorada. cobra **aplicação de conceitos** em situações reais: alimentação, saúde, ambiente e tecnologia.
+Química representa boa parte das questões de Ciências da Natureza. O ENEM não cobra Química decorada. cobra **aplicação de conceitos** em situações reais: alimentação, saúde, ambiente e tecnologia.
 
 
 ## Os 10 Temas Mais Cobrados?
@@ -27634,7 +27634,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ![Guia completo: quimica organica enem para o ENEM](/images/blog/quimica-organica-enem-hero.svg)
 
-Química Orgânica é a área com maior concentração de questões em Química no ENEM, com 4 a 6 questões por prova. O motivo é simples: a vida é orgânica. Alimentos, combustíveis, medicamentos, plásticos e cosméticos. todos são compostos orgânicos, o que facilita contextualização.
+Química Orgânica é a área com maior concentração de questões em Química no ENEM. O motivo é simples: a vida é orgânica. Alimentos, combustíveis, medicamentos, plásticos e cosméticos. todos são compostos orgânicos, o que facilita contextualização.
 
 
 ## Funções Orgânicas: O Básico Essencial?
@@ -36372,7 +36372,7 @@ O ENEM não permite calculadora. Para porcentagens comuns, use frações equival
 Taxa equivalente é uma taxa para período diferente que produz o mesmo resultado em juros compostos. É cobrada em questões que pedem converter taxa mensal em anual (ou vice-versa). Fórmula: (1 + i_anual) = (1 + i_mensal)¹².
 
 ### Matemática Financeira cai no 1º ou 2º dia do ENEM?
-Matemática Financeira cai no 2º dia do ENEM, dentro das 45 questões de Matemática. Geralmente aparecem 2 a 4 questões envolvendo porcentagem, juros ou financiamentos.
+Matemática Financeira cai no 2º dia do ENEM, dentro das 45 questões de Matemática. Geralmente aparecem questões envolvendo porcentagem, juros ou financiamentos.
 
 
 ---
@@ -38835,7 +38835,7 @@ Em nossa plataforma, analisamos quais tópicos geram mais dúvidas e erros entre
 
 
 ### Cinemática cai no 1º ou 2º dia do ENEM?
-Cinemática cai no 2º dia, dentro das 45 questões de Ciências da Natureza (disciplina Física). Aparece em 2 a 6 questões por edição.
+Cinemática cai no 2º dia, dentro das 45 questões de Ciências da Natureza (disciplina Física). Aparece com frequência nas edições do ENEM.
 
 ### Preciso saber lançamento oblíquo para o ENEM?
 Lançamento oblíquo (projétil com ângulo) é cobrado ocasionalmente, geralmente de forma conceitual. Saiba os conceitos básicos: no ponto mais alto, a componente vertical é zero. o alcance máximo ocorre em 45°.
@@ -39367,7 +39367,7 @@ Em nossa plataforma, analisamos quais tópicos geram mais dúvidas e erros entre
 
 
 ### Quantas questões de Ecologia caem no ENEM?
-Ecologia representa entre 5 e 8 das 45 questões de Ciências da Natureza (dentro das questões de Biologia). É um dos tópicos mais frequentes da disciplina.
+Ecologia aparece com frequência entre as questões de Ciências da Natureza (dentro das questões de Biologia). É um dos tópicos mais frequentes da disciplina.
 
 ### Preciso saber o nome científico dos biomas?
 Não. O ENEM não cobra nomenclatura científica dos biomas. cobra características, localização, fauna e flora representativa e impactos ambientais.
@@ -40594,7 +40594,7 @@ Depende do curso e da universidade. Para cursos de Engenharia nas federais mais 
     date: '2026-06-19',
     readTime: 6,
     content: `
-Física é parte das 45 questões de Ciências da Natureza no ENEM. dividida com Química e Biologia. Embora apareçam cerca de 15 questões de Física por prova, o impacto na nota é significativo. Pratique com questões reais para superar a dificuldade.
+Física é parte das 45 questões de Ciências da Natureza no ENEM. dividida com Química e Biologia. Física tem presença relevante nas questões de Ciências da Natureza, e o impacto na nota é significativo. Pratique com questões reais para superar a dificuldade.
 
 > **TL;DR:** Pratique com questões reais de Física do ENEM. Mecânica, termodinâmica, eletricidade, ótica e ondas, com gabarito comentado. [Pratique no ENEM Pro →](/questoes)
 
@@ -44666,7 +44666,7 @@ A edição de 2022 manteve o padrão histórico do INEP: cerca de 70% das quest�
 
 ## Por que Funções Dominam a Prova de Matemática?
 
-Funções aparecem em 12 a 14 questões a cada edição do ENEM, segundo dados históricos do INEP. Isso acontece porque a matriz de referência valoriza a modelagem de situações reais, e funções são a ferramenta matemática mais versátil para isso.
+Funções aparecem com bastante frequência a cada edição do ENEM. Isso acontece porque a matriz de referência valoriza a modelagem de situações reais, e funções são a ferramenta matemática mais versátil para isso.
 
 ### Funções do 1º e 2º Grau
 
@@ -47890,7 +47890,7 @@ Matemática tem peso 3 ou 4 nos cursos de engenharia. Isso significa que cada po
 
 Os temas mais cobrados em Matemática para engenharia são funções, geometria analítica e estatística. Eles aparecem a cada prova. São previsíveis e estudáveis.
 
-Funções lineares e quadráticas aparecem em 5 a 8 questões por prova. Geometria espacial — volume e área de sólidos — aparece em 3 a 5 questões. Estatística básica — média, mediana e moda — aparece em 2 a 4 questões.
+Funções lineares e quadráticas aparecem com frequência na prova. Geometria espacial — volume e área de sólidos — também é recorrente. Estatística básica — média, mediana e moda — aparece com regularidade.
 
 A boa notícia é que essas são áreas com alta taxa de aprendizado. Em nossa plataforma, identificamos que candidatos que focam nesses 3 temas por 60 dias ganham em média 55 pontos em Matemática.
 
@@ -48060,7 +48060,7 @@ Em nossa plataforma, identificamos que candidatos que leem pelo menos 20 minutos
 
 Ciências Humanas tem o maior peso na maioria dos cursos de direito. Os temas mais cobrados são:
 
-História do Brasil tem foco nos últimos 150 anos. Colonização, império, república e ditadura militar são temas frequentes. Direitos humanos e movimentos sociais aparecem em 4 a 6 questões por prova.
+História do Brasil tem foco nos últimos 150 anos. Colonização, império, república e ditadura militar são temas frequentes. Direitos humanos e movimentos sociais aparecem com frequência nas provas.
 
 Filosofia para o ENEM não exige leitura das obras completas. Exige conhecer os conceitos principais de filósofos específicos. Locke, Rousseau, Kant e Montesquieu aparecem em temas de democracia e Estado.
 
@@ -51471,10 +51471,10 @@ O ENEM foca fortemente em história do Brasil e temas conectados a Guerra Fria/R
 Pratique agora com [questões de História filtradas por tema](/questoes?discipline=historia)` },
   { slug: 'preparacao-segunda-aplicacao-enem-2026', title: 'Preparação para Segunda Aplicação ENEM 2026: Cronograma 8 Semanas', description: 'Segunda chamada tem 30% menos competição. Estude 6h/dia e chegue aos 700+.', date: '2026-06-29', readTime: 2, content: `# Preparação para Segunda Aplicação ENEM 2026
 
-A segunda aplicação tem **30% menos candidatos**. Se você não passou na primeira, tem mais chances agora.
+A segunda aplicação costuma ter menos candidatos que a primeira. Se você não passou na primeira, tem mais chances agora.
 
 > **Key Takeaways**
-> - Segunda aplicação: 30% menos competição (dado Inep, 2025)
+> - Segunda aplicação costuma ter menos concorrência que a primeira
 > - 8 semanas de estudo = 700+ pontos
 > - Foco nas disciplinas onde você foi pior
 
