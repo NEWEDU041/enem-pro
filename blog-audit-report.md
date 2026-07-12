@@ -5,9 +5,13 @@
 **Método:** checagem determinística (script, não LLM por post) para manter economia de token, dado o volume. Achados de alta confiança abaixo; achados que dependem de julgamento editorial (profundidade, tom, E-E-A-T qualitativo) não foram pontuados post a post — ver seção "Não coberto" no fim.
 **Audit anterior:** `05/07/2026` (312 posts na época) — este substitui, não complementa.
 
-## Achado #1 (prioridade máxima): bug sistêmico de seções vazias em conteúdo pSEO antigo
+## Achado #1 — ✅ RESOLVIDO em 12/07/2026 (commit `a3d8860`)
 
-**129 de 292 posts (44%) têm pelo menos uma seção com heading mas zero conteúdo.** Não é ruído disperso — são os **mesmos 9 headings de template reaparecendo dezenas de vezes**, o que indica um bug de geração em lote (o script/prompt declarava a seção mas o conteúdo nunca foi preenchido):
+**Atualização 12/07:** o problema era mais grave do que "seção vazia" sugeria. Investigando os posts mais afetados, achei: (1) um template ("tabela de frequência + Plano de Revisão em 30 Dias") duplicado até 10x no mesmo post sob headings diferentes com o mesmo corpo; (2) seções inteiras de OUTROS posts coladas sem relação nenhuma com o assunto (ex: nota de corte de Engenharia com uma seção inteira sobre História); (3) um template "Revisão Rápida + Checklist" com o nome do tópico errado (de outro post) preenchido no placeholder. Corrigido com 3 passes mecânicos (dedup exato, remoção de splice por template conhecido, correção de placeholder) — 562 blocos duplicados, 244 headings vazias e 49 seções cruzadas removidas, 360 referências de tópico corrigidas. Seções vazias: 129 posts → 0. Detalhes completos na memória do projeto (`session-12072026-fix-duplicacao-splice-blog`).
+
+**Registro original (11/07), mantido para contexto:**
+
+129 de 292 posts (44%) tinham pelo menos uma seção com heading mas zero conteúdo. Não é ruído disperso — são os **mesmos 9 headings de template reaparecendo dezenas de vezes**, o que indica um bug de geração em lote (o script/prompt declarava a seção mas o conteúdo nunca foi preenchido):
 
 | Heading vazio | Ocorrências |
 |---|---|
