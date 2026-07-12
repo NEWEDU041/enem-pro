@@ -55,6 +55,17 @@ const nextConfig: NextConfig = {
       },
     ]
   },
+  async redirects() {
+    // Posts duplicados (mesmo intent de busca, conteúdo quase idêntico) consolidados
+    // em um canônico — ver blog-audit-report.md, Achado #4 (cannibalização).
+    return [
+      { source: '/blog/quando-sai-resultado-enem', destination: '/blog/resultado-enem-2025', permanent: true },
+      { source: '/blog/enem-resultado-quando-sai-2026', destination: '/blog/quando-sai-resultado-enem-2026', permanent: true },
+      { source: '/blog/nota-de-corte-engenharia-enem', destination: '/blog/engenharia-nota-de-corte-enem', permanent: true },
+      { source: '/blog/direito-nota-de-corte-enem', destination: '/blog/nota-de-corte-direito-enem', permanent: true },
+      { source: '/blog/enem-treineiro-2026', destination: '/blog/enem-treineiro', permanent: true },
+    ]
+  },
 }
 
 export default nextConfig
