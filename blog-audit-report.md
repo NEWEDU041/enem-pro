@@ -39,9 +39,13 @@ Mesmo padrão já corrigido em lotes anteriores: frases tipo "**N-M questões po
 
 **Recomendação:** o linter (`scripts/lint-blog-post.ts`) já pega esse padrão automaticamente — rodar contra qualquer lote antes do merge. Para os 32 já publicados, é uma correção pequena por arquivo (1-2 frases cada), mais rápida que o Achado #1.
 
-## Achado #3: 85% dos posts são "órfãos" (zero link interno recebido)
+## Achado #3 — ⚠️ CORRIGIDO em 12/07/2026: era falso alarme (método de medição errado)
 
-248 de 292 posts não são linkados de dentro de nenhum outro post (`/blog/[slug]` inline). O blog não tem `related_slugs` ou campo equivalente no schema (`BlogPost` só tem `slug, title, description, date, readTime, content`) — a navegação depende inteiramente da listagem `/blog` e do sitemap, sem malha de linkagem deliberada entre posts relacionados.
+**A métrica original (85% órfãos) estava errada.** Meu método original só contava links `/blog/[slug]` como texto literal dentro do markdown do `content`. Mas `app/blog/[slug]/page.tsx` já tem `getRelatedPosts()` (`lib/blog-data.ts:54653`), que renderiza até 3 "Artigos relacionados" via componente React (JSX, não markdown) em **toda** página do blog, com fallback pra posts de outras categorias quando a própria categoria não tem 3 posts suficientes. Esse mecanismo não aparece numa busca de texto no conteúdo — por isso o falso positivo.
+
+**Bug real encontrado no processo (corrigido):** a seção "Artigos relacionados" estava sendo renderizada **duas vezes** na mesma página (um bloco em grid logo após o conteúdo, outro em lista mais abaixo, ambos usando os mesmos 3 posts de `getRelatedPosts()`). Removido o bloco duplicado.
+
+**Ainda vale investigar (não feito nesta sessão, por tempo):** `getRelatedPosts()` não garante reciprocidade (A relacionar com B não implica B relacionar com A) — pode haver órfãos reais que só apareceriam com uma análise do grafo de `getCategory()` de fato, não pela busca textual que fiz. Se for revisitar, construir o grafo chamando `getRelatedPosts()` para cada post programaticamente, não fazer grep no conteúdo.
 
 **Recomendação:** é o gap de arquitetura de link mais crítico do site. Não precisa resolver os 248 de uma vez — mesmo adicionar 2-3 links contextuais nos posts de maior tráfego (gabarito, cronograma) para os posts de cauda longa já ajudaria a distribuir autoridade.
 

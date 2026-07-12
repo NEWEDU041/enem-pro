@@ -308,24 +308,6 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
           {renderContent(post.content)}
         </article>
 
-        {related.length > 0 && (
-          <section aria-labelledby="related-posts-heading" className="mt-12 pt-8 border-t border-zinc-200">
-            <h2 id="related-posts-heading" className="text-2xl font-bold text-zinc-900 mb-6">Artigos relacionados</h2>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-              {related.map(r => (
-                <Link
-                  key={r.slug}
-                  href={`/blog/${r.slug}`}
-                  className="block p-4 border border-zinc-200 rounded-lg hover:border-indigo-300 hover:bg-indigo-50 transition-colors"
-                >
-                  <h3 className="font-semibold text-zinc-900 mb-1">{r.title}</h3>
-                  <p className="text-sm text-zinc-600 line-clamp-2">{r.description}</p>
-                </Link>
-              ))}
-            </div>
-          </section>
-        )}
-
         {getInternalLinks(slug).length > 0 && (
           <nav aria-label="Links relacionados" className="mt-10 flex flex-wrap gap-2">
             {getInternalLinks(slug).map(link => (
