@@ -45,16 +45,19 @@ Mesmo padrão já corrigido em lotes anteriores: frases tipo "**N-M questões po
 
 **Recomendação:** é o gap de arquitetura de link mais crítico do site. Não precisa resolver os 248 de uma vez — mesmo adicionar 2-3 links contextuais nos posts de maior tráfego (gabarito, cronograma) para os posts de cauda longa já ajudaria a distribuir autoridade.
 
-## Achado #4: cannibalização — poucos casos reais, heurística gerou bastante ruído
+## Achado #4 — ✅ RESOLVIDO em 12/07/2026 (commit `1726204`)
 
-Rodei detecção por sobreposição de palavras do título (159 pares com Jaccard ≥ 0.6), mas a maioria é falso positivo do próprio padrão de pSEO do site (`nota-de-corte-medicina-enem` vs `nota-de-corte-direito-enem` compartilham "nota-de-corte-enem" só porque é o mesmo template, não é duplicação real). Filtrando manualmente, os casos genuínos:
+Os 5 casos genuínos (2 pares "resultado ENEM 2025/2026" que eram na verdade 2 duplicatas distintas por ano, não um cluster de 4; mais Engenharia, Direito e Treineiro) foram resolvidos com 301 redirect (`next.config.ts`) do post mais fraco pro mais completo, e remoção da entrada duplicada de `blog-data.ts`. No caso de Engenharia, aproveitei pra manter o post SEM o erro factual (o outro tratava USP como se participasse do Sisu, o que é errado — USP usa Fuvest). Redirects confirmados ao vivo (308) e canônicos confirmados (200).
 
-| Cluster | Posts | Recomendação |
+| Cluster | Mantido | Redirecionado |
 |---|---|---|
-| "Quando sai o resultado do ENEM" | `quando-sai-resultado-enem`, `quando-sai-resultado-enem-2026`, `enem-resultado-quando-sai-2026`, `resultado-enem-2025` | 4 posts pro mesmo intent de busca — merge em 1 canônico + 301 dos outros 3, ou diferenciar escopo claramente (ex: 1 vira "histórico de datas por ano") |
-| Nota de corte Engenharia | `nota-de-corte-engenharia-enem`, `engenharia-nota-de-corte-enem` | Slugs invertidos, mesmo conteúdo provável — merge/redirect |
-| Nota de corte Direito | `nota-de-corte-direito-enem`, `direito-nota-de-corte-enem` | Mesmo caso acima |
-| ENEM Treineiro | `enem-treineiro`, `enem-treineiro-2026` | Checar se são genuinamente diferentes (ano específico vs conceito geral) ou merge |
+| Resultado ENEM 2025 | `resultado-enem-2025` | `quando-sai-resultado-enem` |
+| Resultado ENEM 2026 | `quando-sai-resultado-enem-2026` | `enem-resultado-quando-sai-2026` |
+| Nota de corte Engenharia | `engenharia-nota-de-corte-enem` | `nota-de-corte-engenharia-enem` |
+| Nota de corte Direito | `nota-de-corte-direito-enem` | `direito-nota-de-corte-enem` |
+| ENEM Treineiro | `enem-treineiro` | `enem-treineiro-2026` |
+
+**Pendência menor:** `nota-de-corte-direito-enem.md` (o post mantido) ainda tem o mesmo erro USP/Sisu — não corrigido por escopo, fica pra próxima leva de correção factual dos posts de nota de corte.
 
 ## Achado #5: freshness (data de publicação)
 
@@ -80,12 +83,12 @@ Apenas 2 posts (`usar-nota-enem-universidade.md` e 1 outro) — praticamente res
 
 | Métrica | Valor | Status |
 |---|---|---|
-| Posts analisados | 292 | — |
+| Posts analisados | 292 (351 após remoção de duplicatas) | — |
 | Posts com seção vazia / conteúdo duplicado (bug de geração) | 129 → **0** | ✅ resolvido 12/07 |
-| Posts com estatística de precisão fabricada | 32 (11%) | 🔴 aberto |
-| Posts órfãos (sem link interno recebido) | 248 (85%) | 🔴 aberto |
+| Posts com estatística de precisão fabricada | 32 → **0** (14 falsos positivos legítimos mantidos) | ✅ resolvido 12/07 |
+| Clusters de cannibalização confirmados | 5 → **0** (301 redirect + remoção) | ✅ resolvido 12/07 |
+| Posts órfãos (sem link interno recebido) | 248 (85%) | 🔴 aberto — maior pendência |
 | Posts com description curta/ausente | 2 | 🔴 aberto (baixo esforço) |
-| Clusters de cannibalização confirmados | 4 | 🔴 aberto |
 | Posts desatualizados (180+ dias) | 29 | 🟡 baixa prioridade |
 
 **Maior prioridade aberta:** Achado #2 (32 posts com estatística fabricada) — mesmo padrão do Achado #1 já resolvido, mas menor escopo por arquivo (1-2 frases cada em vez de reescrita de seção inteira).
