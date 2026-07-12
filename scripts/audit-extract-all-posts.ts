@@ -13,7 +13,10 @@ const blogDataPath = path.join(__dirname, '../lib/blog-data.ts')
 const raw = fs.readFileSync(blogDataPath, 'utf8')
 
 // Cada entrada segue o padrão: { slug: '...', title: "...", description: "...", date: '...', readTime: N, content: `...` }
-const entryRegex = /\{\s*slug:\s*'([^']+)',\s*title:\s*("(?:[^"\\]|\\.)*"|'(?:[^'\\]|\\.)*'),\s*description:\s*("(?:[^"\\]|\\.)*"|'(?:[^'\\]|\\.)*'),\s*date:\s*'([^']+)',\s*readTime:\s*\d+,\s*content:\s*`([\s\S]*?)`\s*,?\s*\}/g
+// O corpo do content precisa casar "qualquer coisa que não seja backtick/backslash OU um backslash seguido
+// de qualquer caractere" — um `[\s\S]*?` não-guloso simples pararia no primeiro backtick ESCAPADO (\`)
+// dentro do próprio conteúdo, truncando a extração silenciosamente.
+const entryRegex = /\{\s*slug:\s*'([^']+)',\s*title:\s*("(?:[^"\\]|\\.)*"|'(?:[^'\\]|\\.)*'),\s*description:\s*("(?:[^"\\]|\\.)*"|'(?:[^'\\]|\\.)*'),\s*date:\s*'([^']+)',\s*readTime:\s*\d+,\s*content:\s*`((?:[^`\\]|\\.)*)`\s*,?\s*\}/g
 
 const posts: Post[] = []
 let m: RegExpExecArray | null
@@ -31,7 +34,9 @@ while ((m = entryRegex.exec(raw)) !== null) {
   } catch {
     description = descRaw.slice(1, -1)
   }
-  const content = contentRaw.replace(/\\`/g, '`').replace(/\\\$/g, '$').replace(/\\\\/g, '\\')
+  // desfaz o escape na ordem inversa de como foi aplicado (backslash -> backtick -> dollar
+  // na hora de escapar; aqui: dollar -> backtick -> backslash)
+  const content = contentRaw.replace(/\\\$/g, '$').replace(/\\`/g, '`').replace(/\\\\/g, '\\')
   posts.push({ slug, title, description, date, content })
 }
 

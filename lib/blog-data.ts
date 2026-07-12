@@ -126,7 +126,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em todas as áreas?
 
 ## Como Funciona na Prática?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -142,7 +141,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito 2024 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -153,12 +152,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito 2024 com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Gabarito 2024
+- [ ] Revisei os conceitos fundamentais de Gabarito
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -166,92 +164,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## O que os Candidatos Perguntam?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Estratégia Recomendada?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Dicas Práticas?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Resumo dos Principais Tópicos?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Como se Preparar?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Por que Isso Importa?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Como Aplicar no ENEM?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
 
 ## Continue Estudando?
 
@@ -398,32 +310,8 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em todas as áreas?
 
 ## Como Funciona na Prática?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Pontos Mais Importantes?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Estratégia Recomendada?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
@@ -437,7 +325,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito 2023 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -448,12 +336,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito 2023 com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Dicas Práticas?
-- [ ] Revisei os conceitos fundamentais de Gabarito 2023
+- [ ] Revisei os conceitos fundamentais de Gabarito
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -461,23 +348,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Como se Preparar?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
 
 ## Continue Estudando?
 
@@ -956,7 +826,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Como Passar No em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Como Passar em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -967,12 +837,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Como Passar No com interpretacao de texto
+3. Pratique questoes mistas que combinam Como Passar com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Como Passar No
+- [ ] Revisei os conceitos fundamentais de Como Passar
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -980,55 +849,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Pontos Mais Importantes?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Estratégia Recomendada?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
 ## Continue Estudando?
 
@@ -1332,7 +1152,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito 2024 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Redação em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -1343,11 +1163,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito 2024 com interpretacao de texto
+3. Pratique questoes mistas que combinam Redação com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Gabarito 2024
+- [ ] Revisei os conceitos fundamentais de Redação
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -1608,7 +1428,6 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 
 
@@ -1640,7 +1459,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Simulado Gratis em contextos ineditos e situacoes reais
+- Aplicar o conteudo de 10 Dicas de Ouro em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -1651,16 +1470,15 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Simulado Gratis com interpretacao de texto
+3. Pratique questoes mistas que combinam 10 Dicas de Ouro com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 
 
 ## Como Funciona na Prática?
 
 
-- [ ] Revisei os conceitos fundamentais de Simulado Gratis
+- [ ] Revisei os conceitos fundamentais de 10 Dicas de Ouro
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -2169,7 +1987,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Cronograma Estudos 2025 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Cronograma de Estudos em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -2180,12 +1998,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Cronograma Estudos 2025 com interpretacao de texto
+3. Pratique questoes mistas que combinam Cronograma de Estudos com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Cronograma Estudos 2025
+- [ ] Revisei os conceitos fundamentais de Cronograma de Estudos
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -2193,55 +2010,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Pontos Mais Importantes?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Estratégia Recomendada?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
 ## Continue Estudando?
 
@@ -2434,7 +2202,6 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 ## Como Funciona na Prática?
 | Area | Questoes/dia recomendadas | Foco principal |
@@ -2458,7 +2225,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Questoes Ciencias Natureza em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Como Calcular Sua Nota em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -2469,172 +2236,17 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Questoes Ciencias Natureza com interpretacao de texto
+3. Pratique questoes mistas que combinam Como Calcular Sua Nota com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Questoes Ciencias Natureza
+- [ ] Revisei os conceitos fundamentais de Como Calcular Sua Nota
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
 - [ ] Estou familiarizado com o formato e o tempo da prova
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar — e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
-
-
-## O que os Candidatos Perguntam?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Estratégia Recomendada?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Dicas Práticas?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Resumo dos Principais Tópicos?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Como se Preparar?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Por que Isso Importa?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Como Aplicar no ENEM?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
 
 
 ## Continue Estudando?
@@ -2722,7 +2334,6 @@ Em provas tradicionais de vestibular, Física = calcular. No ENEM, Física = int
 - Refração: lei de Snell, índice de refração
 - Lentes: convergentes e divergentes, formação de imagem
 
-### 5. Mecânica. Dinâmica (7–9%)
 
 ## O que Você Precisa Saber?
 - Segunda lei de Newton: F = ma em situações variadas
@@ -2816,7 +2427,6 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 ## Como Funciona na Prática?
 | Area | Questoes/dia recomendadas | Foco principal |
@@ -2840,7 +2450,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Questoes Fisica em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Questões de Física em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -2851,32 +2461,17 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Questoes Fisica com interpretacao de texto
+3. Pratique questoes mistas que combinam Questões de Física com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Questoes Fisica
+- [ ] Revisei os conceitos fundamentais de Questões de Física
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
 - [ ] Estou familiarizado com o formato e o tempo da prova
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
-
-
-## Estratégia Recomendada?
-| Area | Questoes/dia recomendadas | Foco principal |
-|------|--------------------------|----------------|
-| Matematica | 5-8 | Logica e calculo |
-| Linguagens | 5-8 | Interpretacao |
-| Ciencias Natureza | 5-8 | Conceitos + aplicacao |
-| Ciencias Humanas | 5-8 | Contextualizacao historica |
-| Redacao | 1 texto/semana | Competencias 3 e 5 |
-
-### Por que Questoes Reais Superam Simulados Montados?
-
-Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
 
 
 ## Continue Estudando?
@@ -3394,7 +2989,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Como Estudar Para O em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Como Estudar em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -3405,12 +3000,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Como Estudar Para O com interpretacao de texto
+3. Pratique questoes mistas que combinam Como Estudar com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Como Estudar Para O
+- [ ] Revisei os conceitos fundamentais de Como Estudar
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -3418,55 +3012,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Pontos Mais Importantes?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Estratégia Recomendada?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
 ## Continue Estudando?
 
@@ -3767,7 +3312,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Dicas 2025 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de TRI em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -3778,12 +3323,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Dicas 2025 com interpretacao de texto
+3. Pratique questoes mistas que combinam TRI com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Dicas 2025
+- [ ] Revisei os conceitos fundamentais de TRI
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -3809,160 +3353,6 @@ O INEP divulga os resultados pelo site do INEP e pelo aplicativo oficial. O gaba
 Sim. Desde que seja dentro do prazo valido do SISU (normalmente 5 anos), voce pode usar notas de edicoes anteriores do ENEM. Mas atencao: o prazo de validade para o ProUni e o FIES pode ser diferente.
 
 ## Pontos Mais Importantes?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## O que os Candidatos Perguntam?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Estratégia Recomendada?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Dicas Práticas?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Resumo dos Principais Tópicos?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Como se Preparar?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Por que Isso Importa?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Como Aplicar no ENEM?
 ### Dados Oficiais do ENEM (INEP)
 
 | Aspecto | Informacao |
@@ -4139,7 +3529,6 @@ A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma 
 | Desenvolvimento 2 | Argumento secundario + evidencia | 7-9 linhas |
 | Conclusao | Retomada da tese + proposta completa | 5-7 linhas |
 
-### Os Erros Mais Comuns que Derrubam a Nota
 
 ## Como Funciona na Prática?
 1. Proposta de intervencao incompleta (sem agente ou modo/meio)
@@ -4157,7 +3546,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Redacao Como Tirar 1000 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Redação em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -4168,12 +3557,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Redacao Como Tirar 1000 com interpretacao de texto
+3. Pratique questoes mistas que combinam Redação com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Redacao Como Tirar 1000
+- [ ] Revisei os conceitos fundamentais de Redação
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -4181,50 +3569,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar — e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Estratégia Recomendada?
-**Competencia 4 — Coesao textual (200 pts)**
-Use conectivos variados e adequados. Evite repeticoes excessivas de palavras. Garanta que cada paragrafo se conecta ao anterior e prepara o seguinte.
-
-**Competencia 5 — Proposta de intervencao (200 pts)**
-A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma proposta generica como "o governo deve agir" perde pontos. Uma proposta especifica como "o Ministerio da Educacao deve implementar X, por meio de Y, com o objetivo de Z" pontua mais.
-
-### Estrutura Recomendada
-
-| Paragrafo | Conteudo | Extensao ideal |
-|-----------|---------|----------------|
-| Introducao | Contextualizacao + tese | 4-6 linhas |
-| Desenvolvimento 1 | Argumento principal + evidencia | 7-9 linhas |
-| Desenvolvimento 2 | Argumento secundario + evidencia | 7-9 linhas |
-| Conclusao | Retomada da tese + proposta completa | 5-7 linhas |
-
-### Os Erros Mais Comuns que Derrubam a Nota
-
-## Dicas Práticas?
-1. Proposta de intervencao incompleta (sem agente ou modo/meio)
-2. Argumentos sem desenvolvimento (apenas afirmar sem explicar)
-3. Repertorio socio-cultural desconexo do argumento
-4. Fogir do tema nos paragrafos de desenvolvimento
-5. Introducao que apenas repete os textos motivadores
-
-
-## Como se Preparar?
-**Competencia 4 — Coesao textual (200 pts)**
-Use conectivos variados e adequados. Evite repeticoes excessivas de palavras. Garanta que cada paragrafo se conecta ao anterior e prepara o seguinte.
-
-**Competencia 5 — Proposta de intervencao (200 pts)**
-A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma proposta generica como "o governo deve agir" perde pontos. Uma proposta especifica como "o Ministerio da Educacao deve implementar X, por meio de Y, com o objetivo de Z" pontua mais.
-
-### Estrutura Recomendada
-
-| Paragrafo | Conteudo | Extensao ideal |
-|-----------|---------|----------------|
-| Introducao | Contextualizacao + tese | 4-6 linhas |
-| Desenvolvimento 1 | Argumento principal + evidencia | 7-9 linhas |
-| Desenvolvimento 2 | Argumento secundario + evidencia | 7-9 linhas |
-| Conclusao | Retomada da tese + proposta completa | 5-7 linhas |
-
-### Os Erros Mais Comuns que Derrubam a Nota
 
 ## Continue Estudando?
 
@@ -4382,7 +3726,6 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 ## O que Você Precisa Saber?
 | Area | Questoes/dia recomendadas | Foco principal |
@@ -4406,7 +3749,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Simulado Gratis em contextos ineditos e situacoes reais
+- Aplicar o conteudo de ENEM 2026 em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -4417,12 +3760,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Simulado Gratis com interpretacao de texto
+3. Pratique questoes mistas que combinam ENEM 2026 com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Simulado Gratis
+- [ ] Revisei os conceitos fundamentais de ENEM 2026
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -4431,22 +3773,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
 
-## Pontos Mais Importantes?
-| Area | Questoes/dia recomendadas | Foco principal |
-|------|--------------------------|----------------|
-| Matematica | 5-8 | Logica e calculo |
-| Linguagens | 5-8 | Interpretacao |
-| Ciencias Natureza | 5-8 | Conceitos + aplicacao |
-| Ciencias Humanas | 5-8 | Contextualizacao historica |
-| Redacao | 1 texto/semana | Competencias 3 e 5 |
-
-### Por que Questoes Reais Superam Simulados Montados?
-
-Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
-
-
 ## O que os Candidatos Perguntam?
-- [ ] Revisei os conceitos fundamentais de Questoes Matematica 2023
+- [ ] Revisei os conceitos fundamentais de ENEM 2026
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -4472,81 +3800,6 @@ Estudar 2 horas todos os dias e mais eficiente do que estudar 8 horas no fim de 
 Inclua no cronograma dias especificos de revisao do conteudo estudado 7, 14 e 30 dias antes. Isso garante que o que voce aprendeu nao seja esquecido antes da prova.
 
 ## Estratégia Recomendada?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Dicas Práticas?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Resumo dos Principais Tópicos?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Como se Preparar?
 **4. Simulados semanais como termometro**
 Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
 
@@ -4738,7 +3991,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Sisu 2026 Como Funciona em contextos ineditos e situacoes reais
+- Aplicar o conteudo de SISU 2026 em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -4749,12 +4002,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Sisu 2026 Como Funciona com interpretacao de texto
+3. Pratique questoes mistas que combinam SISU 2026 com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Sisu 2026 Como Funciona
+- [ ] Revisei os conceitos fundamentais de SISU 2026
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -4762,48 +4014,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Estratégia Recomendada?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Dicas Práticas?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Como se Preparar?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
 
 ## Continue Estudando?
 
@@ -5007,177 +4217,8 @@ O INEP segue um padrão consistente nas questões de Ciencias Humanas:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Ciencias Humanas não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## Como Funciona na Prática?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ciencias Humanas
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Pontos Mais Importantes?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ciencias Humanas
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## O que os Candidatos Perguntam?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ciencias Humanas
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégia Recomendada?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ciencias Humanas
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Dicas Práticas?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ciencias Humanas
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Resumo dos Principais Tópicos?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ciencias Humanas
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como se Preparar?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ciencias Humanas
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Por que Isso Importa?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ciencias Humanas
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Aplicar no ENEM?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
 | Tópicos fundamentais | Alta (7-10 questões) | Médio |
@@ -5346,7 +4387,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Questoes Ciencias Natureza em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Matemática em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -5357,11 +4398,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Questoes Ciencias Natureza com interpretacao de texto
+3. Pratique questoes mistas que combinam Matemática com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Questoes Ciencias Natureza
+- [ ] Revisei os conceitos fundamentais de Matemática
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -5537,7 +4578,6 @@ O INEP segue um padrão consistente nas questões de Fisica:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Fisica não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 
 ## O que Você Precisa Saber?
@@ -5572,7 +4612,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Fisica em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Física em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -5583,14 +4623,13 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Fisica com interpretacao de texto
+3. Pratique questoes mistas que combinam Física com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 
 ## Como Funciona na Prática?
 
-- [ ] Revisei os conceitos fundamentais de Fisica
+- [ ] Revisei os conceitos fundamentais de Física
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -5954,7 +4993,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Sisu 2026 Como Funciona em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Biologia em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -5965,9 +5004,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Sisu 2026 Como Funciona com interpretacao de texto
+3. Pratique questoes mistas que combinam Biologia com interpretacao de texto
 
-### Checklis
 
 
 
@@ -5994,7 +5032,6 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 
 ## Pontos Mais Importantes?
@@ -6015,7 +5052,7 @@ Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e dist
 
 ## O que os Candidatos Perguntam?
 
-- [ ] Revisei os conceitos fundamentais de Questoes Ciencias Humanas
+- [ ] Revisei os conceitos fundamentais de Biologia
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -6023,7 +5060,7 @@ Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e dist
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.t de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Sisu 2026 Como Funciona
+- [ ] Revisei os conceitos fundamentais de Biologia
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -6034,24 +5071,6 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-
-## O que Voce Precisa Saber Sobre Tri Como Funciona?
-
-
-
-O ENEM acumula muitas informacoes tecnicamente complexas. sistema de notas, inscricao, modalidades de vaga, programas de acesso. Reunimos aqui os pontos mais importantes com base nas perguntas reais dos candidatos.
-
-### As Perguntas Mais Frequentes dos Candidatos
-
-**Qual a diferenca entre nota bruta e nota TRI?**
-A nota bruta seria simplesmente o numero de acertos. A nota TRI (Teoria de Resposta ao Item) leva em conta a dificuldade de cada questao e se o seu padrao de acertos e consistente. Uma questao dificil que voce acerta vale mais do que uma facil.
-
-**Como sao divulgados os resultados?**
-O INEP divulga os resultados pelo site do INEP e pelo aplicativo oficial. O gabarito preliminar sai no dia seguinte a aplicacao. Os resultados finais com as notas individuais saem aproximadamente 60 dias depois da prova.
-
-**Posso usar os resultados de anos anteriores?**
-Sim. Desde que seja dentro do prazo valido do SISU (normalmente 5 anos), voce pode usar notas de edicoes anteriores do ENEM. Mas atencao: o prazo de validade para o ProUni e o FIES pode ser diferente.
 
 
 ## Dicas Práticas?
@@ -6080,7 +5099,7 @@ O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os 
 
 ## Resumo dos Principais Tópicos?
 
-- [ ] Revisei os conceitos fundamentais de Tri Como Funciona
+- [ ] Revisei os conceitos fundamentais de Biologia
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -6107,7 +5126,6 @@ O INEP segue um padrão consistente nas questões de Biologia:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Biologia não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 
 ## Como se Preparar?
@@ -6131,48 +5149,6 @@ A maioria dos erros em Biologia não é por falta de conhecimento. é por interp
 
 Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
 
-
-
-## Por que Isso Importa?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Biologia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Aplicar no ENEM?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Biologia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
 
 
 ## Continue Estudando?
@@ -6336,7 +5312,6 @@ O INEP segue um padrão consistente nas questões de Historia:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Historia não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 
 ## O que Você Precisa Saber?
@@ -6360,74 +5335,6 @@ A maioria dos erros em Historia não é por falta de conhecimento. é por interp
 
 Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
 
-
-
-## Como Funciona na Prática?
-
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Historia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-
-## Pontos Mais Importantes?
-
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Historia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-
-## O que os Candidatos Perguntam?
-
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Historia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
 
 
 ## Continue Estudando?
@@ -6597,7 +5504,6 @@ O INEP segue um padrão consistente nas questões de Geografia:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Geografia não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 
 ## O que Você Precisa Saber?
@@ -6621,74 +5527,6 @@ A maioria dos erros em Geografia não é por falta de conhecimento. é por inter
 
 Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
 
-
-
-## Como Funciona na Prática?
-
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Geografia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-
-## Pontos Mais Importantes?
-
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Geografia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-
-## O que os Candidatos Perguntam?
-
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Geografia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
 
 
 ## Continue Estudando?
@@ -6854,7 +5692,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Quanto Tempo Estudar Para O em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Nota de Corte para Engenharia em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -6865,11 +5703,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Quanto Tempo Estudar Para O com interpretacao de texto
+3. Pratique questoes mistas que combinam Nota de Corte para Engenharia com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Quanto Tempo Estudar Para O
+- [ ] Revisei os conceitos fundamentais de Nota de Corte para Engenharia
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -6887,71 +5725,6 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 Estudantes que usam o ENEM Pro para simular sua nota e compará-la com as notas de corte históricas dos cursos desejados tomam decisões mais estratégicas na inscrição do SISU e do ProUni. Em nossa plataforma, o módulo de cálculo de nota é um dos mais acessados nos dias seguintes ao resultado do ENEM.
 
 
-## Estratégias Avançadas para Historia no ENEM?
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Historia?
-
-O INEP segue um padrão consistente nas questões de Historia:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Historia não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Historia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-## Revisao Rapida: Pontos-Chave para Fixar?
-
-Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina estes pontos essenciais:
-
-**O que voce deve ser capaz de fazer:**
-- Identificar o tema central de uma questao antes de calcular ou analisar
-- Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Historia em contextos ineditos e situacoes reais
-- Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
-
-**Sinais de que voce esta pronto:**
-- Acerta mais de 70% das questoes de nivel medio do ENEM
-- Consegue explicar por que cada alternativa errada esta errada
-- Termina a prova com tempo para revisao
-
-**O que fazer se ainda ha lacunas:**
-1. Volte aos topicos em que errou mais de 2 questoes seguidas
-2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Historia com interpretacao de texto
-
-### Checklist de Preparacao Final
-
-- [ ] Revisei os conceitos fundamentais de Historia
-- [ ] Pratiquei pelo menos 30 questoes de niveis variados
-- [ ] Analisei todos os erros e identifiquei as causas
-- [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
-- [ ] Estou familiarizado com o formato e o tempo da prova
-
-Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 ## Fontes e Referências?
 
 - [SISU. Sistema de Seleção Unificada](https://sisu.mec.gov.br). Vagas e notas de corte por curso
@@ -6972,42 +5745,6 @@ O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarit
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
 
 
-
-## Estratégias Avançadas para Ciencias Humanas no ENEM
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Ciencias Humanas?
-
-O INEP segue um padrão consistente nas questões de Ciencias Humanas:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Ciencias Humanas não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ciencias Humanas
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
 
 ## Como Praticar Questoes do ENEM de Forma Eficiente?
 
@@ -7189,28 +5926,6 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 
 
 
-## Estratégias Avançadas para Geografia no ENEM?
-
-
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Geografia?
-
-O INEP segue um padrão consistente nas questões de Geografia:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Geografia não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
-
-
 ## Pontos Mais Importantes?
 
 
@@ -7246,7 +5961,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Geografia em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Nota de Corte para Direito em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -7257,16 +5972,15 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Geografia com interpretacao de texto
+3. Pratique questoes mistas que combinam Nota de Corte para Direito com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 
 
 ## Estratégia Recomendada?
 
 
-- [ ] Revisei os conceitos fundamentais de Geografia
+- [ ] Revisei os conceitos fundamentais de Nota de Corte para Direito
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -7274,36 +5988,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-
-
-## Dicas Práticas?
-
-
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-
-
-## Como se Preparar?
-
-
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
 
 
@@ -7488,7 +6172,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Engenharia em contextos ineditos e situacoes reais
+- Aplicar o conteudo de ProUni 2026 em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -7499,12 +6183,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Engenharia com interpretacao de texto
+3. Pratique questoes mistas que combinam ProUni 2026 com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Engenharia
+- [ ] Revisei os conceitos fundamentais de ProUni 2026
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -7512,62 +6195,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Como Aumentar suas Chances de Passar em Prouni 2026 Como Funciona?
-
-
-A nota de corte é um alvo em movimento. muda todo semestre de acordo com a concorrência. Mas existem estratégias concretas para maximizar suas chances:
-
-**Conheça a concorrência real**
-A nota de corte divulgada é sempre da última vaga preenchida. geralmente a mais baixa entre os aprovados. Candidatos que chegam perto dessa nota correm risco. O ideal é ter uma margem de segurança de 20-30 pontos acima da nota histórica.
-
-**Escolha a modalidade certa**
-O SISU divide as vagas em ampla concorrência e cotas (L1, L2, L5, etc.). As notas de corte variam significativamente entre modalidades. Verifique se você se qualifica para cotas. isso pode aumentar muito suas chances com a mesma nota.
-
-**Acompanhe o SISU em tempo real**
-Durante o SISU, a nota de corte parcial é atualizada a cada hora. Monitore a concorrência no curso e instituição de interesse. Se a nota parcial estiver muito acima da sua, considere trocar de opção antes do prazo final.
-
-## Estratégia Recomendada?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Dicas Práticas?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Como se Preparar?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
 
 ## Continue Estudando?
 
@@ -7720,7 +6347,6 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 ## O que Você Precisa Saber?
 | Area | Questoes/dia recomendadas | Foco principal |
@@ -7744,7 +6370,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Questoes Linguagens em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Inglês em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -7755,12 +6381,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Questoes Linguagens com interpretacao de texto
+3. Pratique questoes mistas que combinam Inglês com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Questoes Linguagens
+- [ ] Revisei os conceitos fundamentais de Inglês
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -7845,33 +6470,8 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 
 
-## Estratégia Recomendada?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
 ## Dicas Práticas?
-- [ ] Revisei os conceitos fundamentais de Dicas 2025
+- [ ] Revisei os conceitos fundamentais de Inglês
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -8166,7 +6766,6 @@ A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma 
 | Desenvolvimento 2 | Argumento secundario + evidencia | 7-9 linhas |
 | Conclusao | Retomada da tese + proposta completa | 5-7 linhas |
 
-### Os Erros Mais Comuns que Derrubam a Nota
 
 ## Como Funciona na Prática?
 1. Proposta de intervencao incompleta (sem agente ou modo/meio)
@@ -8216,31 +6815,6 @@ Um simulado semanal nao e para aprender — e para medir. Analise os erros do si
 
 Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
-
-## Estratégia Recomendada?
-**Competencia 4 — Coesao textual (200 pts)**
-Use conectivos variados e adequados. Evite repeticoes excessivas de palavras. Garanta que cada paragrafo se conecta ao anterior e prepara o seguinte.
-
-**Competencia 5 — Proposta de intervencao (200 pts)**
-A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma proposta generica como "o governo deve agir" perde pontos. Uma proposta especifica como "o Ministerio da Educacao deve implementar X, por meio de Y, com o objetivo de Z" pontua mais.
-
-### Estrutura Recomendada
-
-| Paragrafo | Conteudo | Extensao ideal |
-|-----------|---------|----------------|
-| Introducao | Contextualizacao + tese | 4-6 linhas |
-| Desenvolvimento 1 | Argumento principal + evidencia | 7-9 linhas |
-| Desenvolvimento 2 | Argumento secundario + evidencia | 7-9 linhas |
-| Conclusao | Retomada da tese + proposta completa | 5-7 linhas |
-
-### Os Erros Mais Comuns que Derrubam a Nota
-
-## Dicas Práticas?
-1. Proposta de intervencao incompleta (sem agente ou modo/meio)
-2. Argumentos sem desenvolvimento (apenas afirmar sem explicar)
-3. Repertorio socio-cultural desconexo do argumento
-4. Fogir do tema nos paragrafos de desenvolvimento
-5. Introducao que apenas repete os textos motivadores
 
 ## Continue Estudando?
 
@@ -8435,7 +7009,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Ingles Dicas em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Filosofia e Sociologia em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -8446,12 +7020,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Ingles Dicas com interpretacao de texto
+3. Pratique questoes mistas que combinam Filosofia e Sociologia com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Ingles Dicas
+- [ ] Revisei os conceitos fundamentais de Filosofia e Sociologia
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -8476,156 +7049,8 @@ O INEP segue um padrão consistente nas questões de Filosofia Sociologia:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Filosofia Sociologia não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## Pontos Mais Importantes?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Filosofia Sociologia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## O que os Candidatos Perguntam?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Filosofia Sociologia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégia Recomendada?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Filosofia Sociologia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Dicas Práticas?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Filosofia Sociologia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Resumo dos Principais Tópicos?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Filosofia Sociologia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como se Preparar?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Filosofia Sociologia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Por que Isso Importa?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Filosofia Sociologia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Aplicar no ENEM?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
 | Tópicos fundamentais | Alta (7-10 questões) | Médio |
@@ -8930,24 +7355,6 @@ Pratique Ciências Humanas com questões reais ENEM 2009–2024 no ENEM Pro. 10 
 
 
 
-## Estratégias Avançadas para Biologia no ENEM?
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Biologia?
-
-O INEP segue um padrão consistente nas questões de Biologia:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Biologia não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
@@ -8977,7 +7384,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Biologia em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Como Estudar Ciências Humanas em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -8988,12 +7395,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Biologia com interpretacao de texto
+3. Pratique questoes mistas que combinam Como Estudar Ciências Humanas com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Biologia
+- [ ] Revisei os conceitos fundamentais de Como Estudar Ciências Humanas
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -9042,30 +7448,6 @@ Um simulado semanal nao e para aprender. e para medir. Analise os erros do simul
 
 Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
-
-## Estratégia Recomendada?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
 ## Continue Estudando?
 
@@ -9214,24 +7596,6 @@ Pratique Física, Química e Biologia com questões reais do ENEM no ENEM Pro. 1
 
 
 
-## Estratégias Avançadas para Historia no ENEM?
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Historia?
-
-O INEP segue um padrão consistente nas questões de Historia:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Historia não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
@@ -9263,7 +7627,6 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 ## Como Funciona na Prática?
 | Area | Questoes/dia recomendadas | Foco principal |
@@ -9287,7 +7650,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Questoes Matematica 2023 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Como Estudar Ciências da Natureza em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -9298,12 +7661,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Questoes Matematica 2023 com interpretacao de texto
+3. Pratique questoes mistas que combinam Como Estudar Ciências da Natureza com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Questoes Matematica 2023
+- [ ] Revisei os conceitos fundamentais de Como Estudar Ciências da Natureza
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -9326,7 +7688,7 @@ Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é
 
 
 ## Dicas Práticas?
-- [ ] Revisei os conceitos fundamentais de Historia
+- [ ] Revisei os conceitos fundamentais de Como Estudar Ciências da Natureza
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -9486,24 +7848,6 @@ Prepare-se com questões reais de Ciências Humanas e Linguagens no ENEM Pro.
 
 
 
-## Estratégias Avançadas para Geografia no ENEM?
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Geografia?
-
-O INEP segue um padrão consistente nas questões de Geografia:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Geografia não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
@@ -9533,7 +7877,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Geografia em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Nota de Corte para Psicologia em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -9544,12 +7888,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Geografia com interpretacao de texto
+3. Pratique questoes mistas que combinam Nota de Corte para Psicologia com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Geografia
+- [ ] Revisei os conceitos fundamentais de Nota de Corte para Psicologia
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -9557,22 +7900,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## O que Voce Precisa Saber Sobre Tri Como Funciona?
-
-
-O ENEM acumula muitas informacoes tecnicamente complexas. sistema de notas, inscricao, modalidades de vaga, programas de acesso. Reunimos aqui os pontos mais importantes com base nas perguntas reais dos candidatos.
-
-### As Perguntas Mais Frequentes dos Candidatos
-
-**Qual a diferenca entre nota bruta e nota TRI?**
-A nota bruta seria simplesmente o numero de acertos. A nota TRI (Teoria de Resposta ao Item) leva em conta a dificuldade de cada questao e se o seu padrao de acertos e consistente. Uma questao dificil que voce acerta vale mais do que uma facil.
-
-**Como sao divulgados os resultados?**
-O INEP divulga os resultados pelo site do INEP e pelo aplicativo oficial. O gabarito preliminar sai no dia seguinte a aplicacao. Os resultados finais com as notas individuais saem aproximadamente 60 dias depois da prova.
-
-**Posso usar os resultados de anos anteriores?**
-Sim. Desde que seja dentro do prazo valido do SISU (normalmente 5 anos), voce pode usar notas de edicoes anteriores do ENEM. Mas atencao: o prazo de validade para o ProUni e o FIES pode ser diferente.
 
 ## Pontos Mais Importantes?
 ### Dados Oficiais do ENEM (INEP)
@@ -9597,7 +7924,7 @@ O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os 
 
 
 ## Estratégia Recomendada?
-- [ ] Revisei os conceitos fundamentais de Tri Como Funciona
+- [ ] Revisei os conceitos fundamentais de Nota de Corte para Psicologia
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -9816,7 +8143,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Engenharia em contextos ineditos e situacoes reais
+- Aplicar o conteudo de ENEM Treineiro 2026 em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -9827,12 +8154,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Engenharia com interpretacao de texto
+3. Pratique questoes mistas que combinam ENEM Treineiro 2026 com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Engenharia
+- [ ] Revisei os conceitos fundamentais de ENEM Treineiro 2026
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -9861,138 +8187,6 @@ O INEP divulga os resultados pelo site do INEP e pelo aplicativo oficial. O gaba
 Sim. Desde que seja dentro do prazo valido do SISU (normalmente 5 anos), voce pode usar notas de edicoes anteriores do ENEM. Mas atencao: o prazo de validade para o ProUni e o FIES pode ser diferente.
 
 ## O que os Candidatos Perguntam?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Estratégia Recomendada?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Dicas Práticas?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Resumo dos Principais Tópicos?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Como se Preparar?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Por que Isso Importa?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Como Aplicar no ENEM?
 ### Dados Oficiais do ENEM (INEP)
 
 | Aspecto | Informacao |
@@ -10091,12 +8285,12 @@ Antes de comparar, defina o critério. Um bom aplicativo para o ENEM deve ter:
 
 | Plataforma | Questões INEP reais | Gratuito | Explicação IA | Preço Pro |
 |-----------|--------------------|---------|-----------|-----------
-| **ENEM Pro** | ✓ 2009–2024 | 10/dia | ✓ Por questão | R$14,90/mês |
-| Descomplica | Parcial | Limitado | ✗ | R$39–79/mês |
-| Stoodi | Parcial | Trial | ✗ | R$39/mês |
+| **ENEM Pro** | ✓ 2009–2024 | 10/dia | ✓ Por questão | R\$14,90/mês |
+| Descomplica | Parcial | Limitado | ✗ | R\$39–79/mês |
+| Stoodi | Parcial | Trial | ✗ | R\$39/mês |
 | Khan Academy | ✗ | ✓ Total | ✗ | Grátis |
 | QConcursos | ✓ | Limitado | ✗ | Pago |
-| Me Salva! | Parcial | Limitado | ✗ | R$29/mês |
+| Me Salva! | Parcial | Limitado | ✗ | R\$29/mês |
 
 
 
@@ -10117,7 +8311,7 @@ Khan Academy é a melhor opção totalmente gratuita para **reforçar conteúdo*
 O ENEM Pro usa exclusivamente questões do banco oficial do INEP (2009–2024). O diferencial é a **explicação de IA para cada questão errada**. não um gabarito genérico. uma análise do raciocínio específico daquela questão.
 
 **Versão gratuita:** 10 questões por dia. suficiente para manutenção consistente de estudos.
-**Pro (R$14,90/mês):** ilimitado + simulados completos + modo revisão de erros.
+**Pro (R\$14,90/mês):** ilimitado + simulados completos + modo revisão de erros.
 
 
 
@@ -10125,7 +8319,7 @@ O ENEM Pro usa exclusivamente questões do banco oficial do INEP (2009–2024). 
 
 
 
-Se você aprende melhor assistindo do que praticando, Descomplica e Stoodi têm grandes bibliotecas de videoaulas. O custo é maior (R$39–79/mês) e o foco é diferente: conteúdo, não prática.
+Se você aprende melhor assistindo do que praticando, Descomplica e Stoodi têm grandes bibliotecas de videoaulas. O custo é maior (R\$39–79/mês) e o foco é diferente: conteúdo, não prática.
 
 **Limitação:** videoaula não substitui prática com questões reais. Você pode entender tudo na teoria e errar na prova por falta de treino.
 
@@ -10198,7 +8392,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Melhor App Estudar Gratis em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Melhor Aplicativo para Estudar em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -10209,12 +8403,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Melhor App Estudar Gratis com interpretacao de texto
+3. Pratique questoes mistas que combinam Melhor Aplicativo para Estudar com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Melhor App Estudar Gratis
+- [ ] Revisei os conceitos fundamentais de Melhor Aplicativo para Estudar
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -10222,43 +8415,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Pontos Mais Importantes?
-**Elimine distratores, nao escolha a certa diretamente**
-Em questoes difíceis, e mais facil eliminar as 2-3 alternativas claramente erradas do que identificar imediatamente a certa. Reduzir para 2 opcoes aumenta muito a probabilidade de acerto.
-
-**Gerencie o tempo**
-Uma questao dificil que toma 8 minutos pode custar 3 questoes faceis que voce nao terminou. Se travar em uma questao, marque sua melhor hipotese e siga em frente. volte se sobrar tempo.
-
-### Principais Topicos de Melhor App Estudar Gratis nas Ultimas 5 Edicoes
-
-| Topico | Frequencia | Nivel de dificuldade tipico |
-|--------|------------|----------------------------|
-| Conceitos fundamentais | Alta | Facil-medio |
-| Aplicacoes praticas | Alta | Medio-alto |
-| Temas interdisciplinares | Media | Alto |
-| Contextualizacao atual | Media | Medio |
-
-Praticar com questoes reais do ENEM Pro, filtradas por tema e por nivel de dificuldade. e a forma mais eficiente de preparar para o que realmente cai.
-
-
-## Estratégia Recomendada?
-**Elimine distratores, nao escolha a certa diretamente**
-Em questoes difíceis, e mais facil eliminar as 2-3 alternativas claramente erradas do que identificar imediatamente a certa. Reduzir para 2 opcoes aumenta muito a probabilidade de acerto.
-
-**Gerencie o tempo**
-Uma questao dificil que toma 8 minutos pode custar 3 questoes faceis que voce nao terminou. Se travar em uma questao, marque sua melhor hipotese e siga em frente. volte se sobrar tempo.
-
-### Principais Topicos de Melhor App Estudar Gratis nas Ultimas 5 Edicoes
-
-| Topico | Frequencia | Nivel de dificuldade tipico |
-|--------|------------|----------------------------|
-| Conceitos fundamentais | Alta | Facil-medio |
-| Aplicacoes praticas | Alta | Medio-alto |
-| Temas interdisciplinares | Media | Alto |
-| Contextualizacao atual | Media | Medio |
-
-Praticar com questoes reais do ENEM Pro, filtradas por tema e por nivel de dificuldade. e a forma mais eficiente de preparar para o que realmente cai.
 
 ## Continue Estudando?
 
@@ -10310,7 +8466,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2026-05-22',
     readTime: 5,
     content: `
-O Descomplica cobra entre R$39 e R$79 por mês. o equivalente a quase R$1.000 por ano. Para muitos candidatos ao ENEM, esse valor é inviável. A boa notícia: existem alternativas gratuitas (ou muito mais baratas) que entregam o que mais importa na preparação.
+O Descomplica cobra entre R\$39 e R\$79 por mês. o equivalente a quase R\$1.000 por ano. Para muitos candidatos ao ENEM, esse valor é inviável. A boa notícia: existem alternativas gratuitas (ou muito mais baratas) que entregam o que mais importa na preparação.
 
 > **TL;DR:** Procurando alternativa gratuita ao Descomplica? Veja plataformas com questões reais INEP, explicação de IA e plano gratuito robusto para o ENEM 2026. [Pratique no ENEM Pro →](/questoes)
 
@@ -10339,7 +8495,7 @@ O diferencial: ao errar, a **IA explica o raciocínio específico** daquela ques
 | Questões INEP reais | Parcial | ✓ 2009–2024 |
 | Grátis por dia | Trial curto | 10 questões/dia |
 | IA por questão | ✗ | ✓ |
-| Preço Pro | R$39–79/mês | R$14,90/mês |
+| Preço Pro | R\$39–79/mês | R\$14,90/mês |
 
 ### 2. Khan Academy. Melhor para Conteúdo Base
 
@@ -10349,13 +8505,13 @@ Khan Academy é 100% gratuita e excelente para **entender o conteúdo** de Matem
 
 Canais como Ferretto Matemática, Biologia Total e Professor Noslen têm conteúdo gratuito de altíssima qualidade. Não substituem a prática. complementam bem.
 
-## Estratégia sem gastar R$79/mês?
+## Estratégia sem gastar R\$79/mês?
 
 1. **YouTube/Khan Academy** para entender o conteúdo (grátis)
 2. **ENEM Pro** para praticar com questões reais (10/dia grátis)
-3. **ENEM Pro Pro** se quiser ilimitado. R$14,90/mês vs R$79/mês do Descomplica
+3. **ENEM Pro Pro** se quiser ilimitado. R\$14,90/mês vs R\$79/mês do Descomplica
 
-Você economiza até R$772/ano mantendo a preparação focada no que realmente conta.
+Você economiza até R\$772/ano mantendo a preparação focada no que realmente conta.
 
 ---
 
@@ -10417,7 +8573,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Questoes Ciencias Humanas em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Alternativa Gratuita ao Descomplica em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -10428,11 +8584,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Questoes Ciencias Humanas com interpretacao de texto
+3. Pratique questoes mistas que combinam Alternativa Gratuita ao Descomplica com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Questoes Ciencias Humanas
+- [ ] Revisei os conceitos fundamentais de Alternativa Gratuita ao Descomplica
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -10534,42 +8690,6 @@ Acesse o banco completo de questões ENEM 2009–2024 no ENEM Pro. 10 por dia, g
 No ENEM Pro, estudantes que praticam questões reais — em vez de exercícios de apostila — identificam os padrões do INEP muito mais rápido. Após 30 dias de prática consistente de 10 questões diárias, a média de acerto dos usuários ativos sobe significativamente, especialmente em Matemática e Ciências da Natureza.
 
 
-## Estratégias Avançadas para Ciencias Humanas no ENEM?
-
-Dominar o conteúdo é necessário — mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Ciencias Humanas?
-
-O INEP segue um padrão consistente nas questões de Ciencias Humanas:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica — isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Ciencias Humanas não é por falta de conhecimento — é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ciencias Humanas
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
 ## Revisao Rapida: Pontos-Chave para Fixar?
 
 Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina estes pontos essenciais:
@@ -10577,7 +8697,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Ciencias Humanas em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Questões em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -10588,11 +8708,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Ciencias Humanas com interpretacao de texto
+3. Pratique questoes mistas que combinam Questões com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Ciencias Humanas
+- [ ] Revisei os conceitos fundamentais de Questões
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -10794,7 +8914,7 @@ Qualquer pessoa pode se inscrever no ENEM. não há limite de idade nem exigênc
 ## Como Pedir Isenção da Taxa?
 
 
-A taxa de inscrição do ENEM 2026 gira em torno de R$ 85 (valor histórico). Você pode pedir isenção se:
+A taxa de inscrição do ENEM 2026 gira em torno de R\$ 85 (valor histórico). Você pode pedir isenção se:
 
 - Cursou o Ensino Médio inteiramente em escola pública
 - É membro de família inscrita no CadÚnico com renda familiar de até 1,5 salário mínimo per capita
@@ -10874,30 +8994,6 @@ Um simulado semanal nao e para aprender. e para medir. Analise os erros do simul
 
 Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
-
-## Como Funciona na Prática?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
 ## Continue Estudando?
 
@@ -11039,7 +9135,7 @@ Após enviar o formulário, você recebe o boleto bancário ou as opções de pa
 - **PIX** — pagamento instantâneo
 - **Cartão de crédito** — parcelamento geralmente não disponível
 
-A taxa histórica é cerca de R$ 85. O pagamento não é reembolsável, então confirme todos os dados antes de pagar.
+A taxa histórica é cerca de R\$ 85. O pagamento não é reembolsável, então confirme todos os dados antes de pagar.
 
 
 ## Pedido de Isenção — Faça Antes das Inscrições?
@@ -11103,24 +9199,6 @@ Responda 10 questões por dia grátis. No plano Pro, a IA explica o raciocínio 
 ![Pratique agora: questoes de como se inscrever enem 2026](/imag
 
 
-## Estratégias Avançadas para Filosofia Sociologia no ENEM?
-
-
-Dominar o conteúdo é necessário — mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Filosofia Sociologia?
-
-O INEP segue um padrão consistente nas questões de Filosofia Sociologia:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica — isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Filosofia Sociologia não é por falta de conhecimento — é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
@@ -11150,7 +9228,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Filosofia Sociologia em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Como se Inscrever em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -11161,12 +9239,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Filosofia Sociologia com interpretacao de texto
+3. Pratique questoes mistas que combinam Como se Inscrever com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Filosofia Sociologia
+- [ ] Revisei os conceitos fundamentais de Como se Inscrever
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -11397,101 +9474,8 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em todas as áreas?
 
 ## Como Funciona na Prática?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Pontos Mais Importantes?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## O que os Candidatos Perguntam?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Estratégia Recomendada?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Dicas Práticas?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Resumo dos Principais Tópicos?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Como se Preparar?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Por que Isso Importa?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Como Aplicar no ENEM?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
@@ -11689,7 +9673,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Como Estudar Ciencias Natureza em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -11700,12 +9684,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Como Estudar Ciencias Natureza com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Como Estudar Ciencias Natureza
+- [ ] Revisei os conceitos fundamentais de Gabarito
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -11713,22 +9696,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## O que Voce Precisa Saber Sobre Enem Ppcs Pessoas Com Deficiencia?
-
-
-O ENEM acumula muitas informacoes tecnicamente complexas. sistema de notas, inscricao, modalidades de vaga, programas de acesso. Reunimos aqui os pontos mais importantes com base nas perguntas reais dos candidatos.
-
-### As Perguntas Mais Frequentes dos Candidatos
-
-**Qual a diferenca entre nota bruta e nota TRI?**
-A nota bruta seria simplesmente o numero de acertos. A nota TRI (Teoria de Resposta ao Item) leva em conta a dificuldade de cada questao e se o seu padrao de acertos e consistente. Uma questao dificil que voce acerta vale mais do que uma facil.
-
-**Como sao divulgados os resultados?**
-O INEP divulga os resultados pelo site do INEP e pelo aplicativo oficial. O gabarito preliminar sai no dia seguinte a aplicacao. Os resultados finais com as notas individuais saem aproximadamente 60 dias depois da prova.
-
-**Posso usar os resultados de anos anteriores?**
-Sim. Desde que seja dentro do prazo valido do SISU (normalmente 5 anos), voce pode usar notas de edicoes anteriores do ENEM. Mas atencao: o prazo de validade para o ProUni e o FIES pode ser diferente.
 
 ## Pontos Mais Importantes?
 ### Dados Oficiais do ENEM (INEP)
@@ -11753,7 +9720,7 @@ O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os 
 
 
 ## O que os Candidatos Perguntam?
-- [ ] Revisei os conceitos fundamentais de Enem Ppcs Pessoas Com Deficiencia
+- [ ] Revisei os conceitos fundamentais de Gabarito
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -11796,32 +9763,8 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em todas as áreas?
 
 ## Dicas Práticas?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Resumo dos Principais Tópicos?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Como se Preparar?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
@@ -12006,177 +9949,8 @@ O INEP segue um padrão consistente nas questões de Literatura:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Literatura não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## Como Funciona na Prática?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Literatura
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Pontos Mais Importantes?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Literatura
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## O que os Candidatos Perguntam?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Literatura
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégia Recomendada?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Literatura
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Dicas Práticas?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Literatura
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Resumo dos Principais Tópicos?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Literatura
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como se Preparar?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Literatura
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Por que Isso Importa?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Literatura
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Aplicar no ENEM?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
 | Tópicos fundamentais | Alta (7-10 questões) | Médio |
@@ -12233,7 +10007,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Enem 2026 O Que Estudar em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Literatura em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -12244,9 +10018,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Enem 2026 O Que Estudar com interpretacao de texto
+3. Pratique questoes mistas que combinam Literatura com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Fontes e Referências?
 
@@ -12430,7 +10203,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Administracao em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Nota de Corte para Administração em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -12441,12 +10214,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Administracao com interpretacao de texto
+3. Pratique questoes mistas que combinam Nota de Corte para Administração com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Administracao
+- [ ] Revisei os conceitos fundamentais de Nota de Corte para Administração
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -12454,71 +10226,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## O que os Candidatos Perguntam?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Estratégia Recomendada?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Dicas Práticas?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Resumo dos Principais Tópicos?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Como se Preparar?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
 
 ## Continue Estudando
 
@@ -12699,7 +10406,6 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 ## O que Você Precisa Saber?
 | Area | Questoes/dia recomendadas | Foco principal |
@@ -12723,7 +10429,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Questoes Linguagens em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Nota de Corte para Enfermagem em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -12734,12 +10440,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Questoes Linguagens com interpretacao de texto
+3. Pratique questoes mistas que combinam Nota de Corte para Enfermagem com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Questoes Linguagens
+- [ ] Revisei os conceitos fundamentais de Nota de Corte para Enfermagem
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -12782,7 +10487,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em todas as áreas?
 
 ## Estratégia Recomendada?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -13055,55 +10759,6 @@ Um simulado semanal nao e para aprender. e para medir. Analise os erros do simul
 Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
 
-## Como Funciona na Prática?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Pontos Mais Importantes?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
 ## Continue Estudando?
 
 
@@ -13274,7 +10929,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Administracao em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Nota de Corte para Farmácia em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -13285,12 +10940,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Administracao com interpretacao de texto
+3. Pratique questoes mistas que combinam Nota de Corte para Farmácia com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Administracao
+- [ ] Revisei os conceitos fundamentais de Nota de Corte para Farmácia
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -13298,85 +10952,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Como Aumentar suas Chances de Passar em Farmacia?
-
-
-A nota de corte é um alvo em movimento. muda todo semestre de acordo com a concorrência. Mas existem estratégias concretas para maximizar suas chances:
-
-**Conheça a concorrência real**
-A nota de corte divulgada é sempre da última vaga preenchida. geralmente a mais baixa entre os aprovados. Candidatos que chegam perto dessa nota correm risco. O ideal é ter uma margem de segurança de 20-30 pontos acima da nota histórica.
-
-**Escolha a modalidade certa**
-O SISU divide as vagas em ampla concorrência e cotas (L1, L2, L5, etc.). As notas de corte variam significativamente entre modalidades. Verifique se você se qualifica para cotas. isso pode aumentar muito suas chances com a mesma nota.
-
-**Acompanhe o SISU em tempo real**
-Durante o SISU, a nota de corte parcial é atualizada a cada hora. Monitore a concorrência no curso e instituição de interesse. Se a nota parcial estiver muito acima da sua, considere trocar de opção antes do prazo final.
-
-## O que os Candidatos Perguntam?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Estratégia Recomendada?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Dicas Práticas?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Resumo dos Principais Tópicos?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Como se Preparar?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
 
 ## Continue Estudando
 
@@ -13519,7 +11094,6 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 ## O que Você Precisa Saber?
 | Area | Questoes/dia recomendadas | Foco principal |
@@ -13543,7 +11117,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Questoes Matematica 2024 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Nota de Corte para Arquitetura e Urbanismo em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -13554,12 +11128,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Questoes Matematica 2024 com interpretacao de texto
+3. Pratique questoes mistas que combinam Nota de Corte para Arquitetura e Urbanismo com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Questoes Matematica 2024
+- [ ] Revisei os conceitos fundamentais de Nota de Corte para Arquitetura e Urbanismo
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -13604,28 +11177,6 @@ Os três programas usam a nota do ENEM. com finalidades diferentes:
 ## Estratégia Recomendada?
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
-
-## Dicas Práticas?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Como se Preparar?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
 ## Continue Estudando?
 
@@ -13828,48 +11379,6 @@ Os três programas usam a nota do ENEM. com finalidades diferentes:
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
 
-## Estratégia Recomendada?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Dicas Práticas?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Como se Preparar?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
 ## Continue Estudando?
 
 
@@ -14054,7 +11563,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Psicologia em contextos ineditos e situacoes reais
+- Aplicar o conteudo de ENEM Digital em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -14065,55 +11574,17 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Psicologia com interpretacao de texto
+3. Pratique questoes mistas que combinam ENEM Digital com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Psicologia
+- [ ] Revisei os conceitos fundamentais de ENEM Digital
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
 - [ ] Estou familiarizado com o formato e o tempo da prova
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
-
-
-## Como Aumentar suas Chances de Passar em Arquitetura?
-
-
-A nota de corte é um alvo em movimento. muda todo semestre de acordo com a concorrência. Mas existem estratégias concretas para maximizar suas chances:
-
-**Conheça a concorrência real**
-A nota de corte divulgada é sempre da última vaga preenchida. geralmente a mais baixa entre os aprovados. Candidatos que chegam perto dessa nota correm risco. O ideal é ter uma margem de segurança de 20-30 pontos acima da nota histórica.
-
-**Escolha a modalidade certa**
-O SISU divide as vagas em ampla concorrência e cotas (L1, L2, L5, etc.). As notas de corte variam significativamente entre modalidades. Verifique se você se qualifica para cotas. isso pode aumentar muito suas chances com a mesma nota.
-
-**Acompanhe o SISU em tempo real**
-Durante o SISU, a nota de corte parcial é atualizada a cada hora. Monitore a concorrência no curso e instituição de interesse. Se a nota parcial estiver muito acima da sua, considere trocar de opção antes do prazo final.
-
-## O que os Candidatos Perguntam?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Estratégia Recomendada?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
 
 ## O que Voce Precisa Saber Sobre Enem Digital Como Funciona?
@@ -14133,94 +11604,6 @@ O INEP divulga os resultados pelo site do INEP e pelo aplicativo oficial. O gaba
 Sim. Desde que seja dentro do prazo valido do SISU (normalmente 5 anos), voce pode usar notas de edicoes anteriores do ENEM. Mas atencao: o prazo de validade para o ProUni e o FIES pode ser diferente.
 
 ## Dicas Práticas?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Resumo dos Principais Tópicos?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Como se Preparar?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Por que Isso Importa?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Como Aplicar no ENEM?
 ### Dados Oficiais do ENEM (INEP)
 
 | Aspecto | Informacao |
@@ -14401,75 +11784,6 @@ Os três programas usam a nota do ENEM. com finalidades diferentes:
 - **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
 
 ## Como Funciona na Prática?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Pontos Mais Importantes?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## O que os Candidatos Perguntam?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Estratégia Recomendada?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Dicas Práticas?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Resumo dos Principais Tópicos?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Como se Preparar?
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
 
@@ -14730,7 +12044,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Fies 2026 Como Funciona em contextos ineditos e situacoes reais
+- Aplicar o conteudo de FIES 2026 em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -14741,16 +12055,15 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Fies 2026 Como Funciona com interpretacao de texto
+3. Pratique questoes mistas que combinam FIES 2026 com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 
 
 ## Pontos Mais Importantes?
 
 
-- [ ] Revisei os conceitos fundamentais de Fies 2026 Como Funciona
+- [ ] Revisei os conceitos fundamentais de FIES 2026
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -14758,36 +12071,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-
-
-## Estratégia Recomendada?
-
-
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-
-
-## Dicas Práticas?
-
-
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
 
 
@@ -14971,22 +12254,6 @@ Se você vai tentar novamente em 2026, o ENEM Pro tem todas as questões do ENEM
 Com base nas dúvidas mais frequentes registradas em nossa plataforma, nosso time mapeia anualmente as informações sobre o ENEM mais procuradas pelos candidatos. Isso nos permite atualizar o conteúdo com dados do INEP assim que são divulgados oficialmente, garantindo precisão para quem depende dessas informações.
 
 
-## O que Voce Precisa Saber Sobre Enem Digital Como Funciona?
-
-
-O ENEM acumula muitas informacoes tecnicamente complexas. sistema de notas, inscricao, modalidades de vaga, programas de acesso. Reunimos aqui os pontos mais importantes com base nas perguntas reais dos candidatos.
-
-### As Perguntas Mais Frequentes dos Candidatos
-
-**Qual a diferenca entre nota bruta e nota TRI?**
-A nota bruta seria simplesmente o numero de acertos. A nota TRI (Teoria de Resposta ao Item) leva em conta a dificuldade de cada questao e se o seu padrao de acertos e consistente. Uma questao dificil que voce acerta vale mais do que uma facil.
-
-**Como sao divulgados os resultados?**
-O INEP divulga os resultados pelo site do INEP e pelo aplicativo oficial. O gabarito preliminar sai no dia seguinte a aplicacao. Os resultados finais com as notas individuais saem aproximadamente 60 dias depois da prova.
-
-**Posso usar os resultados de anos anteriores?**
-Sim. Desde que seja dentro do prazo valido do SISU (normalmente 5 anos), voce pode usar notas de edicoes anteriores do ENEM. Mas atencao: o prazo de validade para o ProUni e o FIES pode ser diferente.
-
 ## O que Você Precisa Saber?
 ### Dados Oficiais do ENEM (INEP)
 
@@ -15049,30 +12316,6 @@ Um simulado semanal nao e para aprender. e para medir. Analise os erros do simul
 
 Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
-
-## Pontos Mais Importantes?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
 ## Continue Estudando?
 
@@ -15346,24 +12589,6 @@ O ENEM Pro tem todas as questões de Biologia, Química e Física de 2009 a 2024
 
 
 
-## Estratégias Avançadas para Linguagens no ENEM
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Linguagens?
-
-O INEP segue um padrão consistente nas questões de Linguagens:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Linguagens não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
@@ -15393,7 +12618,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Linguagens em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Nota de Corte para Odontologia em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -15404,12 +12629,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Linguagens com interpretacao de texto
+3. Pratique questoes mistas que combinam Nota de Corte para Odontologia com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Linguagens
+- [ ] Revisei os conceitos fundamentais de Nota de Corte para Odontologia
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -15452,52 +12676,6 @@ Os três programas usam a nota do ENEM. com finalidades diferentes:
 - **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
 
 ## O que os Candidatos Perguntam?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Estratégia Recomendada?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Dicas Práticas?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Resumo dos Principais Tópicos?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Como se Preparar?
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
 
@@ -15755,7 +12933,7 @@ Biologia e Química são determinantes. fisiologia vegetal, solos, genética e a
 
 
 - Mercado: agronegócio cresce continuamente no Brasil
-- Salário: R$ 5.000–15.000 para Engenheiro Agrônomo (CREA)
+- Salário: R\$ 5.000–15.000 para Engenheiro Agrônomo (CREA)
 - CREA: profissão regulamentada com anuidade e responsabilidade técnica
 - Diversificação: agroindústria, consultoria, pesquisa, fiscalização
 
@@ -15818,51 +12996,6 @@ Os três programas usam a nota do ENEM. com finalidades diferentes:
 ## Como Funciona na Prática?
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
-
-## Pontos Mais Importantes?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Estratégia Recomendada?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Dicas Práticas?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Como se Preparar?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
 ## Continue Estudando?
 
@@ -16331,7 +13464,6 @@ A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma 
 | Desenvolvimento 2 | Argumento secundario + evidencia | 7-9 linhas |
 | Conclusao | Retomada da tese + proposta completa | 5-7 linhas |
 
-### Os Erros Mais Comuns que Derrubam a Nota
 
 ## Como Funciona na Prática?
 1. Proposta de intervencao incompleta (sem agente ou modo/meio)
@@ -16340,57 +13472,6 @@ A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma 
 4. Fogir do tema nos paragrafos de desenvolvimento
 5. Introducao que apenas repete os textos motivadores
 
-
-## Pontos Mais Importantes?
-**Competencia 4 — Coesao textual (200 pts)**
-Use conectivos variados e adequados. Evite repeticoes excessivas de palavras. Garanta que cada paragrafo se conecta ao anterior e prepara o seguinte.
-
-**Competencia 5 — Proposta de intervencao (200 pts)**
-A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma proposta generica como "o governo deve agir" perde pontos. Uma proposta especifica como "o Ministerio da Educacao deve implementar X, por meio de Y, com o objetivo de Z" pontua mais.
-
-### Estrutura Recomendada
-
-| Paragrafo | Conteudo | Extensao ideal |
-|-----------|---------|----------------|
-| Introducao | Contextualizacao + tese | 4-6 linhas |
-| Desenvolvimento 1 | Argumento principal + evidencia | 7-9 linhas |
-| Desenvolvimento 2 | Argumento secundario + evidencia | 7-9 linhas |
-| Conclusao | Retomada da tese + proposta completa | 5-7 linhas |
-
-### Os Erros Mais Comuns que Derrubam a Nota
-
-## Estratégia Recomendada?
-1. Proposta de intervencao incompleta (sem agente ou modo/meio)
-2. Argumentos sem desenvolvimento (apenas afirmar sem explicar)
-3. Repertorio socio-cultural desconexo do argumento
-4. Fogir do tema nos paragrafos de desenvolvimento
-5. Introducao que apenas repete os textos motivadores
-
-
-## Dicas Práticas?
-**Competencia 4 — Coesao textual (200 pts)**
-Use conectivos variados e adequados. Evite repeticoes excessivas de palavras. Garanta que cada paragrafo se conecta ao anterior e prepara o seguinte.
-
-**Competencia 5 — Proposta de intervencao (200 pts)**
-A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma proposta generica como "o governo deve agir" perde pontos. Uma proposta especifica como "o Ministerio da Educacao deve implementar X, por meio de Y, com o objetivo de Z" pontua mais.
-
-### Estrutura Recomendada
-
-| Paragrafo | Conteudo | Extensao ideal |
-|-----------|---------|----------------|
-| Introducao | Contextualizacao + tese | 4-6 linhas |
-| Desenvolvimento 1 | Argumento principal + evidencia | 7-9 linhas |
-| Desenvolvimento 2 | Argumento secundario + evidencia | 7-9 linhas |
-| Conclusao | Retomada da tese + proposta completa | 5-7 linhas |
-
-### Os Erros Mais Comuns que Derrubam a Nota
-
-## Como se Preparar?
-1. Proposta de intervencao incompleta (sem agente ou modo/meio)
-2. Argumentos sem desenvolvimento (apenas afirmar sem explicar)
-3. Repertorio socio-cultural desconexo do argumento
-4. Fogir do tema nos paragrafos de desenvolvimento
-5. Introducao que apenas repete os textos motivadores
 
 ## Continue Estudando?
 
@@ -16580,80 +13661,6 @@ Um simulado semanal nao e para aprender. e para medir. Analise os erros do simul
 Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
 
-## Como Funciona na Prática?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Pontos Mais Importantes?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Estratégia Recomendada?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
 ## Continue Estudando?
 
 
@@ -16839,21 +13846,6 @@ Pratique com questões reais do ENEM. É a forma mais eficiente de aprender o es
 ![Pratique agora: questoes de como estudar fisica enem](/images/blog/como-estudar-fisica-enem-3.svg)
 
 
-## O que Voce Precisa Saber Sobre Enem Ppcs Pessoas Com Deficiencia?
-
-O ENEM acumula muitas informacoes tecnicamente complexas. sistema de notas, inscricao, modalidades de vaga, programas de acesso. Reunimos aqui os pontos mais importantes com base nas perguntas reais dos candidatos.
-
-### As Perguntas Mais Frequentes dos Candidatos
-
-**Qual a diferenca entre nota bruta e nota TRI?**
-A nota bruta seria simplesmente o numero de acertos. A nota TRI (Teoria de Resposta ao Item) leva em conta a dificuldade de cada questao e se o seu padrao de acertos e consistente. Uma questao dificil que voce acerta vale mais do que uma facil.
-
-**Como sao divulgados os resultados?**
-O INEP divulga os resultados pelo site do INEP e pelo aplicativo oficial. O gabarito preliminar sai no dia seguinte a aplicacao. Os resultados finais com as notas individuais saem aproximadamente 60 dias depois da prova.
-
-**Posso usar os resultados de anos anteriores?**
-Sim. Desde que seja dentro do prazo valido do SISU (normalmente 5 anos), voce pode usar notas de edicoes anteriores do ENEM. Mas atencao: o prazo de valid
-
 ## Como Montar um Plano de Estudos que Funciona para o ENEM?
 
 Estudar sem planejamento e como correr sem saber onde esta a linha de chegada. Um cronograma bem estruturado nao serve para encher o dia de tarefas. serve para garantir que voce chegue no ENEM sem lacunas criticas.
@@ -16905,7 +13897,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Computacao em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Como Estudar Física em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais
@@ -16954,11 +13946,11 @@ A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma 
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Computacao com interpretacao de texto
+3. Pratique questoes mistas que combinam Como Estudar Física com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Computacao
+- [ ] Revisei os conceitos fundamentais de Como Estudar Física
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -17301,7 +14293,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Veterinaria em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Como Estudar Biologia em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -17312,11 +14304,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Veterinaria com interpretacao de texto
+3. Pratique questoes mistas que combinam Como Estudar Biologia com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Veterinaria
+- [ ] Revisei os conceitos fundamentais de Como Estudar Biologia
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -17493,7 +14485,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Farmacia em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Como Estudar Química em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -17504,11 +14496,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Farmacia com interpretacao de texto
+3. Pratique questoes mistas que combinam Como Estudar Química com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Farmacia
+- [ ] Revisei os conceitos fundamentais de Como Estudar Química
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -17585,41 +14577,6 @@ A chave para Química no ENEM é praticar com questões reais do INEP. O estilo 
 
 ![Pratique agora: questoes de como estudar quimica enem](/images/blog/como-estudar-quimica-enem-3.svg)
 
-
-## O que Voce Precisa Saber Sobre Enem Treineiro 2026?
-
-O ENEM acumula muitas informacoes tecnicamente complexas. sistema de notas, inscricao, modalidades de vaga, programas de acesso. Reunimos aqui os pontos mais importantes com base nas perguntas reais dos candidatos.
-
-### As Perguntas Mais Frequentes dos Candidatos
-
-**Qual a diferenca entre nota bruta e nota TRI?**
-A nota bruta seria simplesmente o numero de acertos. A nota TRI (Teoria de Resposta ao Item) leva em conta a dificuldade de cada questao e se o seu padrao de acertos e consistente. Uma questao dificil que voce acerta vale mais do que uma facil.
-
-**Como sao divulgados os resultados?**
-O INEP divulga os resultados pelo site do INEP e pelo aplicativo oficial. O gabarito preliminar sai no dia seguinte a aplicacao. Os resultados finais com as notas individuais saem aproximadamente 60 dias depois da prova.
-
-**Posso usar os resultados de anos anteriores?**
-Sim. Desde que seja dentro do prazo valido do SISU (normalmente 5 anos), voce pode usar notas de edicoes anteriores do ENEM. Mas atencao: o prazo de validade para o ProUni e o FIES pode ser diferente.
-
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
 
 ## Continue Estudando?
 
@@ -18038,7 +14995,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Odontologia em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Interpretação de Texto em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -18049,11 +15006,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Odontologia com interpretacao de texto
+3. Pratique questoes mistas que combinam Interpretação de Texto com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Odontologia
+- [ ] Revisei os conceitos fundamentais de Interpretação de Texto
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -18317,198 +15274,8 @@ O INEP segue um padrão consistente nas questões de Estatistica:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Estatistica não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## O que Você Precisa Saber?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Estatistica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Funciona na Prática?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Estatistica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Pontos Mais Importantes?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Estatistica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## O que os Candidatos Perguntam?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Estatistica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégia Recomendada?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Estatistica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Dicas Práticas?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Estatistica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Resumo dos Principais Tópicos?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Estatistica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como se Preparar?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Estatistica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Por que Isso Importa?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Estatistica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Aplicar no ENEM?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
 | Tópicos fundamentais | Alta (7-10 questões) | Médio |
@@ -18589,7 +15356,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Enem Resultado Quando Sai 2026 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Estatística em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -18600,9 +15367,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Enem Resultado Quando Sai 2026 com interpretacao de texto
+3. Pratique questoes mistas que combinam Estatística com interpretacao de texto
 
-### Checklist de Preparacao Final
 `,
   },
   {
@@ -18680,7 +15446,7 @@ Investir em Ciências Contábeis vale a pena em 2026:
 - **Tecnologia contábil (conttech)**. novas oportunidades em fintechs e ERP
 - **Tributação no Brasil**. sistema complexo cria demanda permanente
 
-Salário médio inicial: R$2.500–3.500. Com CRC e especialização: R$5.000–12.000+.
+Salário médio inicial: R\$2.500–3.500. Com CRC e especialização: R\$5.000–12.000+.
 
 
 ## Diferença Entre Ciências Contábeis e Administração?
@@ -18783,7 +15549,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Contabilidade em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Nota de Corte Contabilidade em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -18794,12 +15560,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Contabilidade com interpretacao de texto
+3. Pratique questoes mistas que combinam Nota de Corte Contabilidade com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Contabilidade
+- [ ] Revisei os conceitos fundamentais de Nota de Corte Contabilidade
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -18807,48 +15572,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Estratégia Recomendada?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Dicas Práticas?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Como se Preparar?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
 
 ## Fontes e Referências?
 
@@ -18947,7 +15670,7 @@ A carreira pedagógica tem crescido em possibilidades além da sala de aula:
 - Gestão de projetos educacionais em ONGs e prefeituras
 - Educação especial e inclusiva
 
-**Concurso público:** A forma mais segura de carreira. Prefeituras e estados realizam concursos regularmente. Salário inicial: R$2.200–4.500 (varia por estado e nível).
+**Concurso público:** A forma mais segura de carreira. Prefeituras e estados realizam concursos regularmente. Salário inicial: R\$2.200–4.500 (varia por estado e nível).
 
 
 ## Pedagogia vs. Licenciaturas Específicas?
@@ -19048,28 +15771,6 @@ Os três programas usam a nota do ENEM. com finalidades diferentes:
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
 
-## Pontos Mais Importantes?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Estratégia Recomendada?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
 ## Continue Estudando?
 
 
@@ -19106,25 +15807,6 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 
 
-
-## Dicas Práticas?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
 
 ## Como se Preparar?
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
@@ -19349,7 +16031,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Computacao em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Como Estudar História em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -19360,11 +16042,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Computacao com interpretacao de texto
+3. Pratique questoes mistas que combinam Como Estudar História com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Computacao
+- [ ] Revisei os conceitos fundamentais de Como Estudar História
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -19596,7 +16278,6 @@ A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma 
 | Desenvolvimento 2 | Argumento secundario + evidencia | 7-9 linhas |
 | Conclusao | Retomada da tese + proposta completa | 5-7 linhas |
 
-### Os Erros Mais Comuns que Derrubam a Nota
 
 ## Como Funciona na Prática?
 1. Proposta de intervencao incompleta (sem agente ou modo/meio)
@@ -19646,30 +16327,6 @@ Um simulado semanal nao e para aprender. e para medir. Analise os erros do simul
 
 Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
-
-## Estratégia Recomendada?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
 ## Continue Estudando?
 
@@ -19912,7 +16569,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Enfermagem em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Como Estudar Português em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -19923,12 +16580,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Enfermagem com interpretacao de texto
+3. Pratique questoes mistas que combinam Como Estudar Português com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Estratégia Recomendada?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Enfermagem
+- [ ] Revisei os conceitos fundamentais de Como Estudar Português
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -20063,7 +16719,7 @@ Além dessas, aparecem funções no contexto de progressões (PA e PG) e relaç�
 
 **Como o ENEM cobra:**
 - Situações com velocidade constante, tarifas, custo fixo + variável
-- "A empresa cobra R$50 de taxa fixa mais R$2 por km" → f(x) = 2x + 50
+- "A empresa cobra R\$50 de taxa fixa mais R\$2 por km" → f(x) = 2x + 50
 - Interseção de duas retas (solução de sistemas lineares)
 - Função crescente ou decrescente em contexto
 
@@ -20221,198 +16877,8 @@ O INEP segue um padrão consistente nas questões de Funcoes Matematica:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Funcoes Matematica não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## O que Você Precisa Saber?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Funcoes Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Funciona na Prática?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Funcoes Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Pontos Mais Importantes?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Funcoes Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## O que os Candidatos Perguntam?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Funcoes Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégia Recomendada?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Funcoes Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Dicas Práticas?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Funcoes Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Resumo dos Principais Tópicos?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Funcoes Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como se Preparar?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Funcoes Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Por que Isso Importa?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Funcoes Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Aplicar no ENEM?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
 | Tópicos fundamentais | Alta (7-10 questões) | Médio |
@@ -20682,7 +17148,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Arquitetura em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Trigonometria em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -20693,12 +17159,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Arquitetura com interpretacao de texto
+3. Pratique questoes mistas que combinam Trigonometria com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Arquitetura
+- [ ] Revisei os conceitos fundamentais de Trigonometria
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -20706,24 +17171,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Estratégias Avançadas para Funcoes Matematica no ENEM?
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Funcoes Matematica?
-
-O INEP segue um padrão consistente nas questões de Funcoes Matematica:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Funcoes Matematica não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
 
 ## O que os Candidatos Perguntam?
 | Tema | Frequência no ENEM | Peso na TRI |
@@ -20762,114 +17209,8 @@ O INEP segue um padrão consistente nas questões de Trigonometria:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Trigonometria não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## Estratégia Recomendada?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Trigonometria
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Dicas Práticas?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Trigonometria
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Resumo dos Principais Tópicos?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Trigonometria
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como se Preparar?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Trigonometria
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Por que Isso Importa?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Trigonometria
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Aplicar no ENEM?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
 | Tópicos fundamentais | Alta (7-10 questões) | Médio |
@@ -20994,7 +17335,7 @@ A Fisioterapia tem diversas áreas de especialização:
 - Fisioterapia estética (drenagem linfática, Pilates clínico)
 - Telerreabilitação (pós-pandemia)
 
-Salário médio recém-formado: R$2.500–4.000. Com especialização e experiência: R$6.000–15.000+.
+Salário médio recém-formado: R\$2.500–4.000. Com especialização e experiência: R\$6.000–15.000+.
 
 
 ## Fisioterapia no Particular: ProUni e Mensalidades?
@@ -21004,7 +17345,7 @@ Para quem não passa no SISU, há boas opções no particular:
 
 **ProUni:** Fisioterapia é elegível. Com nota ENEM acima de 500–550, é possível conseguir bolsa integral em várias faculdades privadas bem avaliadas pelo MEC.
 
-**Mensalidades:** R$800–1.800/mês em boas faculdades particulares. Verifique o conceito do curso no e-MEC antes de escolher.
+**Mensalidades:** R\$800–1.800/mês em boas faculdades particulares. Verifique o conceito do curso no e-MEC antes de escolher.
 
 
 ## Como o ENEM Impacta o Acesso à Fisioterapia?
@@ -21031,11 +17372,11 @@ Verifique os pesos específicos de cada universidade no SISU antes de se inscrev
 
 | Curso | Nota de Corte Média (top federais) | Duração | Salário inicial |
 |-------|-----------------------------------|---------|----------------|
-| Medicina | 780–820 | 6 anos + residência | R$8.000–20.000 |
-| Odontologia | 700–750 | 5 anos | R$4.000–8.000 |
-| Fisioterapia | 640–700 | 5 anos | R$2.500–4.000 |
-| Enfermagem | 580–640 | 5 anos | R$2.000–3.500 |
-| Farmácia | 620–670 | 5 anos | R$3.000–5.000 |
+| Medicina | 780–820 | 6 anos + residência | R\$8.000–20.000 |
+| Odontologia | 700–750 | 5 anos | R\$4.000–8.000 |
+| Fisioterapia | 640–700 | 5 anos | R\$2.500–4.000 |
+| Enfermagem | 580–640 | 5 anos | R\$2.000–3.500 |
+| Farmácia | 620–670 | 5 anos | R\$3.000–5.000 |
 
 **[Calcular minha nota ENEM e comparar com cortes de Fisioterapia](/calcular-nota)**
 
@@ -21082,28 +17423,6 @@ Os três programas usam a nota do ENEM. com finalidades diferentes:
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
 
-## Pontos Mais Importantes?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Estratégia Recomendada?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
 ## Continue Estudando?
 
 
@@ -21141,24 +17460,6 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 
 
-## Estratégias Avançadas para Linguagens no ENEM?
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Linguagens?
-
-O INEP segue um padrão consistente nas questões de Linguagens:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Linguagens não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
 ## Dicas Práticas?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
@@ -21188,7 +17489,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Linguagens em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Nota de Corte Fisioterapia em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -21199,12 +17500,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Linguagens com interpretacao de texto
+3. Pratique questoes mistas que combinam Nota de Corte Fisioterapia com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como se Preparar?
-- [ ] Revisei os conceitos fundamentais de Linguagens
+- [ ] Revisei os conceitos fundamentais de Nota de Corte Fisioterapia
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -21287,7 +17587,7 @@ Economistas atuam em praticamente todos os setores:
 - Regulação e compliance em grandes empresas
 - Pesquisa e think tanks
 
-Salário médio inicial: R$3.500–6.000. Economistas de destaque em bancos ou Banco Central: R$15.000–40.000+.
+Salário médio inicial: R\$3.500–6.000. Economistas de destaque em bancos ou Banco Central: R\$15.000–40.000+.
 
 
 
@@ -21435,55 +17735,6 @@ Estudantes que usam o ENEM Pro para simular sua nota e compará-la com as notas 
 
 
 
-## Como Aumentar suas Chances de Passar em Veterinaria?
-
-
-
-
-A nota de corte é um alvo em movimento. muda todo semestre de acordo com a concorrência. Mas existem estratégias concretas para maximizar suas chances:
-
-**Conheça a concorrência real**
-A nota de corte divulgada é sempre da última vaga preenchida. geralmente a mais baixa entre os aprovados. Candidatos que chegam perto dessa nota correm risco. O ideal é ter uma margem de segurança de 20-30 pontos acima da nota histórica.
-
-**Escolha a modalidade certa**
-O SISU divide as vagas em ampla concorrência e cotas (L1, L2, L5, etc.). As notas de corte variam significativamente entre modalidades. Verifique se você se qualifica para cotas. isso pode aumentar muito suas chances com a mesma nota.
-
-**Acompanhe o SISU em tempo real**
-Durante o SISU, a nota de corte parcial é atualizada a cada hora. Monitore a concorrência no curso e instituição de interesse. Se a nota parcial estiver muito acima da sua, considere trocar de opção antes do prazo final.
-
-
-
-## Pontos Mais Importantes?
-
-
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-
-
-## Estratégia Recomendada?
-
-
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-
-
 ## Revisao Rapida: Pontos-Chave para Fixar?
 
 
@@ -21494,7 +17745,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Veterinaria em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Nota de Corte Economia em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -21505,16 +17756,15 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Veterinaria com interpretacao de texto
+3. Pratique questoes mistas que combinam Nota de Corte Economia com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 
 
 ## Dicas Práticas?
 
 
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Veterinaria
+- [ ] Revisei os conceitos fundamentais de Nota de Corte Economia
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -21627,7 +17877,7 @@ O mercado mudou muito desde 2015. O que está crescendo:
 - Jornais impressos e tevê aberta tradicionais
 - Jornalismo de redação grande
 
-Salário inicial: R$1.800–3.000 em redação. Assessoria de imprensa e comunicação corporativa: R$3.000–6.000+.
+Salário inicial: R\$1.800–3.000 em redação. Assessoria de imprensa e comunicação corporativa: R\$3.000–6.000+.
 
 
 
@@ -21746,67 +17996,6 @@ Os três programas usam a nota do ENEM. com finalidades diferentes:
 
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
-
-
-
-## Pontos Mais Importantes?
-
-
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-
-
-## Estratégia Recomendada?
-
-
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-
-
-## Dicas Práticas?
-
-
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-
-
-## Como se Preparar?
-
-
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
 
 
@@ -22340,7 +18529,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Odontologia em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Sociologia em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -22351,12 +18540,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Odontologia com interpretacao de texto
+3. Pratique questoes mistas que combinam Sociologia com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Odontologia
+- [ ] Revisei os conceitos fundamentais de Sociologia
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -22364,24 +18552,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de ap
 
-
-## Estratégias Avançadas para Funcoes Matematica no ENEM?
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Funcoes Matematica?
-
-O INEP segue um padrão consistente nas questões de Funcoes Matematica:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Funcoes Matematica não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
 
 ## O que os Candidatos Perguntam?
 | Tema | Frequência no ENEM | Peso na TRI |
@@ -22420,114 +18590,8 @@ O INEP segue um padrão consistente nas questões de Sociologia O Que Estudar:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Sociologia O Que Estudar não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## Estratégia Recomendada?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Sociologia O Que Estudar
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Dicas Práticas?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Sociologia O Que Estudar
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Resumo dos Principais Tópicos?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Sociologia O Que Estudar
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como se Preparar?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Sociologia O Que Estudar
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Por que Isso Importa?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Sociologia O Que Estudar
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Aplicar no ENEM?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
 | Tópicos fundamentais | Alta (7-10 questões) | Médio |
@@ -22686,7 +18750,7 @@ a₉ = 1 × 2^(9–1) = 2⁸ = **256 bactérias**
 | Operação entre termos | Adição/subtração | Multiplicação/divisão |
 | Razão | Diferença constante | Quociente constante |
 | Gráfico | Linha reta | Curva exponencial |
-| Exemplo | Salário + R$200/mês | Investimento × 1,05/mês |
+| Exemplo | Salário + R\$200/mês | Investimento × 1,05/mês |
 
 **Regra prática:** Se o problema envolve acréscimo/decréscimo em valor fixo → PA. Se envolve porcentagem ou multiplicação → PG.
 
@@ -22772,198 +18836,8 @@ O INEP segue um padrão consistente nas questões de Progressoes Matematica:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Progressoes Matematica não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## O que Você Precisa Saber?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Progressoes Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Funciona na Prática?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Progressoes Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Pontos Mais Importantes?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Progressoes Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## O que os Candidatos Perguntam?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Progressoes Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégia Recomendada?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Progressoes Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Dicas Práticas?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Progressoes Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Resumo dos Principais Tópicos?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Progressoes Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como se Preparar?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Progressoes Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Por que Isso Importa?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Progressoes Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Aplicar no ENEM?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
 | Tópicos fundamentais | Alta (7-10 questões) | Médio |
@@ -23205,7 +19079,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Agronomia em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Temas Prováveis da Redação em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -23216,12 +19090,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Agronomia com interpretacao de texto
+3. Pratique questoes mistas que combinam Temas Prováveis da Redação com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Estratégia Recomendada?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Agronomia
+- [ ] Revisei os conceitos fundamentais de Temas Prováveis da Redação
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -23280,7 +19153,6 @@ A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma 
 | Desenvolvimento 2 | Argumento secundario + evidencia | 7-9 linhas |
 | Conclusao | Retomada da tese + proposta completa | 5-7 linhas |
 
-### Os Erros Mais Comuns que Derrubam a Nota
 
 ## Resumo dos Principais Tópicos?
 1. Proposta de intervencao incompleta (sem agente ou modo/meio)
@@ -23289,50 +19161,6 @@ A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma 
 4. Fogir do tema nos paragrafos de desenvolvimento
 5. Introducao que apenas repete os textos motivadores
 
-
-## Como se Preparar?
-**Competencia 4 — Coesao textual (200 pts)**
-Use conectivos variados e adequados. Evite repeticoes excessivas de palavras. Garanta que cada paragrafo se conecta ao anterior e prepara o seguinte.
-
-**Competencia 5 — Proposta de intervencao (200 pts)**
-A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma proposta generica como "o governo deve agir" perde pontos. Uma proposta especifica como "o Ministerio da Educacao deve implementar X, por meio de Y, com o objetivo de Z" pontua mais.
-
-### Estrutura Recomendada
-
-| Paragrafo | Conteudo | Extensao ideal |
-|-----------|---------|----------------|
-| Introducao | Contextualizacao + tese | 4-6 linhas |
-| Desenvolvimento 1 | Argumento principal + evidencia | 7-9 linhas |
-| Desenvolvimento 2 | Argumento secundario + evidencia | 7-9 linhas |
-| Conclusao | Retomada da tese + proposta completa | 5-7 linhas |
-
-### Os Erros Mais Comuns que Derrubam a Nota
-
-## Por que Isso Importa?
-1. Proposta de intervencao incompleta (sem agente ou modo/meio)
-2. Argumentos sem desenvolvimento (apenas afirmar sem explicar)
-3. Repertorio socio-cultural desconexo do argumento
-4. Fogir do tema nos paragrafos de desenvolvimento
-5. Introducao que apenas repete os textos motivadores
-
-
-## Como Aplicar no ENEM?
-**Competencia 4 — Coesao textual (200 pts)**
-Use conectivos variados e adequados. Evite repeticoes excessivas de palavras. Garanta que cada paragrafo se conecta ao anterior e prepara o seguinte.
-
-**Competencia 5 — Proposta de intervencao (200 pts)**
-A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma proposta generica como "o governo deve agir" perde pontos. Uma proposta especifica como "o Ministerio da Educacao deve implementar X, por meio de Y, com o objetivo de Z" pontua mais.
-
-### Estrutura Recomendada
-
-| Paragrafo | Conteudo | Extensao ideal |
-|-----------|---------|----------------|
-| Introducao | Contextualizacao + tese | 4-6 linhas |
-| Desenvolvimento 1 | Argumento principal + evidencia | 7-9 linhas |
-| Desenvolvimento 2 | Argumento secundario + evidencia | 7-9 linhas |
-| Conclusao | Retomada da tese + proposta completa | 5-7 linhas |
-
-### Os Erros Mais Comuns que Derrubam a Nota
 
 ## Continue Estudando?
 
@@ -23370,24 +19198,6 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 
 
-
-## Estratégias Avançadas para Progressoes Matematica no ENEM?
-
-
-Dominar o conteúdo é necessário — mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Progressoes Matematica?
-
-O INEP segue um padrão consistente nas questões de Progressoes Matematica:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica — isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Progressoes Matematica não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
 `,
   },
   {
@@ -23556,39 +19366,6 @@ Os três programas usam a nota do ENEM. com finalidades diferentes:
 
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
-## Como Aumentar suas Chances de Passar em Nutricao?
-
-A nota de corte é um alvo em movimento. muda todo semestre de acordo com a concorrência. Mas existem estratégias concretas para maximizar suas chances:
-
-**Conheça a concorrência real**
-A nota de corte divulgada é sempre da última vaga preenchida. geralmente a mais baixa entre os aprovados. Candidatos que chegam perto dessa nota correm risco. O ideal é ter uma margem de segurança de 20-30 pontos acima da nota histórica.
-
-**Escolha a modalidade certa**
-O SISU divide as vagas em ampla concorrência e cotas (L1, L2, L5, etc.). As notas de corte variam significativamente entre modalidades. Verifique se você se qualifica para cotas. isso pode aumentar muito suas chances com a mesma nota.
-
-**Acompanhe o SISU em tempo real**
-Durante o SISU, a nota de corte parcial é atualizada a cada hora. Monitore a concorrência no curso e instituição de interesse. Se a nota parcial estiver muito acima da sua, considere trocar de opção antes do prazo final.
-
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
 ## Revisao Rapida: Pontos-Chave para Fixar
 
 Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina estes pontos essenciais:
@@ -23596,7 +19373,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Nutricao em contextos ineditos e situacoes reais
+- Aplicar o conteudo de ENEM 2026 em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -23607,11 +19384,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Nutricao com interpretacao de texto
+3. Pratique questoes mistas que combinam ENEM 2026 com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Nutricao
+- [ ] Revisei os conceitos fundamentais de ENEM 2026
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -24352,7 +20129,6 @@ O INEP segue um padrão consistente nas questões de Logaritmos Matematica:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Logaritmos Matematica não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## Como Funciona na Prática?
 | Tema | Frequência no ENEM | Peso na TRI |
@@ -24374,173 +20150,6 @@ A maioria dos erros em Logaritmos Matematica não é por falta de conhecimento. 
 
 Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
 
-
-## Pontos Mais Importantes?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Logaritmos Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## O que os Candidatos Perguntam?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Logaritmos Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégia Recomendada?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Logaritmos Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Dicas Práticas?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Logaritmos Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Resumo dos Principais Tópicos?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Logaritmos Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como se Preparar?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Logaritmos Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Por que Isso Importa?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Logaritmos Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Aplicar no ENEM?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Logaritmos Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
 
 ## Continue Estudando?
 
@@ -24968,198 +20577,8 @@ O INEP segue um padrão consistente nas questões de Matrizes Determinantes:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Matrizes Determinantes não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## O que Você Precisa Saber?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Matrizes Determinantes
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Funciona na Prática?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Matrizes Determinantes
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Pontos Mais Importantes?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Matrizes Determinantes
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## O que os Candidatos Perguntam?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Matrizes Determinantes
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégia Recomendada?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Matrizes Determinantes
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Dicas Práticas?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Matrizes Determinantes
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Resumo dos Principais Tópicos?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Matrizes Determinantes
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como se Preparar?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Matrizes Determinantes
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Por que Isso Importa?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Matrizes Determinantes
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Aplicar no ENEM?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
 | Tópicos fundamentais | Alta (7-10 questões) | Médio |
@@ -25272,7 +20691,7 @@ A maioria das universidades oferece:
 - Professor de Língua Portuguesa no Ensino Fundamental II e Médio
 - Professor de Língua Estrangeira
 - Concurso público municipal e estadual. vagas regulares
-- Salário inicial: R$2.200–4.500 (varia por estado e plano de carreira)
+- Salário inicial: R\$2.200–4.500 (varia por estado e plano de carreira)
 
 **Outras saídas profissionais:**
 - Revisão de textos e copywriting
@@ -25345,147 +20764,6 @@ Os três programas usam a nota do ENEM. com finalidades diferentes:
 
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
-## Estratégias Avançadas para Matrizes Determinantes no ENEM
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Matrizes Determinantes?
-
-O INEP segue um padrão consistente nas questões de Matrizes Determinantes:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Matrizes Determinantes não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Matrizes Determinantes
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-## Estratégias Avançadas para Logaritmos Matematica no ENEM?
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Logaritmos Matematica?
-
-O INEP segue um padrão consistente nas questões de Logaritmos Matematica:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Logaritmos Matematica não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Logaritmos Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-## Estratégias Avançadas para Progressoes Matematica no ENEM?
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Progressoes Matematica?
-
-O INEP segue um padrão consistente nas questões de Progressoes Matematica:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Progressoes Matematica não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Progressoes Matematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-## Como Aumentar suas Chances de Passar em Jornalismo?
-
-A nota de corte é um alvo em movimento. muda todo semestre de acordo com a concorrência. Mas existem estratégias concretas para maximizar suas chances:
-
-**Conheça a concorrência real**
-A nota de corte divulgada é sempre da última vaga preenchida. geralmente a mais baixa entre os aprovados. Candidatos que chegam perto dessa nota correm risco. O ideal é ter uma margem de segurança de 20-30 pontos acima da nota histórica.
-
-**Escolha a modalidade certa**
-O SISU divide as vagas em ampla concorrência e cotas (L1, L2, L5, etc.). As notas de corte variam significativamente entre modalidades. Verifique se você se qualifica para cotas. isso pode aumentar muito suas chances com a mesma nota.
-
-**Acompanhe o SISU em tempo real**
-Durante o SISU, a nota de corte parcial é atualizada a cada hora. Monitore a concorrência no curso e instituição de interesse. Se a nota parcial estiver muito acima da sua, considere trocar de opção antes do prazo final.
-
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
 ## Revisao Rapida: Pontos-Chave para Fixar
 
 Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina estes pontos essenciais:
@@ -25493,7 +20771,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Jornalismo em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Nota de Corte Letras em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -25504,11 +20782,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Jornalismo com interpretacao de texto
+3. Pratique questoes mistas que combinam Nota de Corte Letras com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Jornalismo
+- [ ] Revisei os conceitos fundamentais de Nota de Corte Letras
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -25919,55 +21197,6 @@ Um simulado semanal nao e para aprender. e para medir. Analise os erros do simul
 Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
 
-## Como Funciona na Prática?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Pontos Mais Importantes?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
 ## Continue Estudando?
 
 
@@ -26048,7 +21277,7 @@ O curso de História forma professores e pesquisadores, com boas opções no SIS
 **Professor de História (licenciatura):**
 - Ensino Fundamental II (6º ao 9º ano) e Ensino Médio
 - Concurso público estadual e municipal. vagas frequentes
-- Salário inicial: R$2.200–4.000 (varia por estado)
+- Salário inicial: R\$2.200–4.000 (varia por estado)
 - Progressão por titulação (especialização, mestrado, doutorado)
 
 ![Conceitos essenciais: nota de corte historia enem](/images/blog/nota-de-corte-historia-enem-2.svg)
@@ -26092,24 +21321,6 @@ Com cotas (L1. escola pública + baixa renda), as notas de corte caem 20–50 po
 ![Pratique agora: questoes de nota de corte historia enem](/images/blog/nota-de-corte-historia-enem-3.svg)
 
 
-
-## Estratégias Avançadas para Funcoes Matematica no ENEM?
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Funcoes Matematica?
-
-O INEP segue um padrão consistente nas questões de Funcoes Matematica:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Funcoes Matematica não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
 
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
@@ -26168,48 +21379,6 @@ Os três programas usam a nota do ENEM. com finalidades diferentes:
 ## Pontos Mais Importantes?
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
-
-## Estratégia Recomendada?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Dicas Práticas?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Como se Preparar?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
 
 ## Continue Estudando?
 
@@ -26306,7 +21475,7 @@ O curso de Matemática forma professores e pesquisadores, com boas perspectivas 
 **Licenciado (professor de Matemática):**
 - Professor de Matemática no Ensino Médio e Fundamental II
 - Concurso público estadual e municipal. alta demanda (falta de professores de Matemática é crônica no Brasil)
-- Salário inicial: R$2.400–4.500 (varia por estado)
+- Salário inicial: R\$2.400–4.500 (varia por estado)
 - Um dos concursos mais frequentes e com vagas garantidas
 
 **Bacharel:**
@@ -26389,7 +21558,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Servico Social em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Nota de Corte Matemática (Curso) em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -26400,12 +21569,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Servico Social com interpretacao de texto
+3. Pratique questoes mistas que combinam Nota de Corte Matemática (Curso) com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Servico Social
+- [ ] Revisei os conceitos fundamentais de Nota de Corte Matemática (Curso)
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -26413,85 +21581,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Como Aumentar suas Chances de Passar em Matematica Curso?
-
-
-A nota de corte é um alvo em movimento. muda todo semestre de acordo com a concorrência. Mas existem estratégias concretas para maximizar suas chances:
-
-**Conheça a concorrência real**
-A nota de corte divulgada é sempre da última vaga preenchida. geralmente a mais baixa entre os aprovados. Candidatos que chegam perto dessa nota correm risco. O ideal é ter uma margem de segurança de 20-30 pontos acima da nota histórica.
-
-**Escolha a modalidade certa**
-O SISU divide as vagas em ampla concorrência e cotas (L1, L2, L5, etc.). As notas de corte variam significativamente entre modalidades. Verifique se você se qualifica para cotas. isso pode aumentar muito suas chances com a mesma nota.
-
-**Acompanhe o SISU em tempo real**
-Durante o SISU, a nota de corte parcial é atualizada a cada hora. Monitore a concorrência no curso e instituição de interesse. Se a nota parcial estiver muito acima da sua, considere trocar de opção antes do prazo final.
-
-## O que os Candidatos Perguntam?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Estratégia Recomendada?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Dicas Práticas?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Resumo dos Principais Tópicos?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Como se Preparar?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
 
 ## Continue Estudando?
 
@@ -26726,14 +21815,14 @@ Química tem diversas saídas profissionais além da sala de aula. indústria qu
 **Licenciado:**
 - Professor de Química no Ensino Médio
 - Concurso público. demanda alta em todas as regiões
-- Salário inicial: R$2.400–4.000
+- Salário inicial: R\$2.400–4.000
 
 **Bacharel industrial:**
 - Indústria petroquímica (Petrobras, Braskem e similares)
 - Indústria farmacêutica e cosmética
 - Indústria de alimentos e bebidas
 - Controle de qualidade e regulatório
-- Salário inicial: R$3.500–6.000
+- Salário inicial: R\$3.500–6.000
 
 **Bacharel pesquisador:**
 - Institutos de pesquisa (FAPESP, CNPq, INPI)
@@ -26794,43 +21883,6 @@ Os três programas usam a nota do ENEM. com finalidades diferentes:
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
 
-## Como Aumentar suas Chances de Passar em Historia?
-
-
-A nota de corte é um alvo em movimento. muda todo semestre de acordo com a concorrência. Mas existem estratégias concretas para maximizar suas chances:
-
-**Conheça a concorrência real**
-A nota de corte divulgada é sempre da última vaga preenchida. geralmente a mais baixa entre os aprovados. Candidatos que chegam perto dessa nota correm risco. O ideal é ter uma margem de segurança de 20-30 pontos acima da nota histórica.
-
-**Escolha a modalidade certa**
-O SISU divide as vagas em ampla concorrência e cotas (L1, L2, L5, etc.). As notas de corte variam significativamente entre modalidades. Verifique se você se qualifica para cotas. isso pode aumentar muito suas chances com a mesma nota.
-
-**Acompanhe o SISU em tempo real**
-Durante o SISU, a nota de corte parcial é atualizada a cada hora. Monitore a concorrência no curso e instituição de interesse. Se a nota parcial estiver muito acima da sua, considere trocar de opção antes do prazo final.
-
-## Pontos Mais Importantes?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Estratégia Recomendada?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
 ## Revisao Rapida: Pontos-Chave para Fixar?
 
 
@@ -26839,7 +21891,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Historia em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Nota de Corte Química (Licenciatura/Bacharelado) em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -26850,12 +21902,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Historia com interpretacao de texto
+3. Pratique questoes mistas que combinam Nota de Corte Química (Licenciatura/Bacharelado) com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Dicas Práticas?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Historia
+- [ ] Revisei os conceitos fundamentais de Nota de Corte Química (Licenciatura/Bacharelado)
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -26863,25 +21914,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Como se Preparar?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
 
 ## Continue Estudando?
 
@@ -26984,7 +22016,7 @@ O FIES tem edital próprio, geralmente em fevereiro/março. Utilize a nota do EN
 ## Datas que Você NÃO Pode Perder?
 
 **1. Inscrição no ENEM (maio/junho 2026)**
-A inscrição é pelo site do INEP. Taxa de R$85 (isenção disponível para renda baixa). Prazo geralmente é de 3–4 semanas.
+A inscrição é pelo site do INEP. Taxa de R\$85 (isenção disponível para renda baixa). Prazo geralmente é de 3–4 semanas.
 
 **2. Solicitação de isenção de taxa**
 Para quem tem renda per capita baixa ou é de escola pública. Feita antes da inscrição regular.
@@ -27058,42 +22090,6 @@ Um simulado semanal nao e para aprender. e para medir. Analise os erros do simul
 
 Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
-## Estratégias Avançadas para Matrizes Determinantes no ENEM?
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Matrizes Determinantes?
-
-O INEP segue um padrão consistente nas questões de Matrizes Determinantes:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Matrizes Determinantes não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Matrizes Determinantes
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
 ## Como Aumentar suas Chances de Passar em Matematica Curso?
 
 A nota de corte é um alvo em movimento. muda todo semestre de acordo com a concorrência. Mas existem estratégias concretas para maximizar suas chances:
@@ -27134,7 +22130,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Matematica Curso em contextos ineditos e situacoes reais
+- Aplicar o conteudo de ENEM 2026 em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -27145,11 +22141,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Matematica Curso com interpretacao de texto
+3. Pratique questoes mistas que combinam ENEM 2026 com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Matematica Curso
+- [ ] Revisei os conceitos fundamentais de ENEM 2026
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -27166,39 +22162,6 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 
 No ENEM Pro, estudantes com cronograma estruturado. que usam nossa ferramenta de planejamento e praticam questões diariamente. apresentam taxa de consistência 3x maior do que estudantes sem planejamento formal. A prática diária de 10 questões supera sessões longas e esporádicas em termos de retenção e desempenho.
 
-
-## Como Aumentar suas Chances de Passar em Educacao Fisica?
-
-A nota de corte é um alvo em movimento. muda todo semestre de acordo com a concorrência. Mas existem estratégias concretas para maximizar suas chances:
-
-**Conheça a concorrência real**
-A nota de corte divulgada é sempre da última vaga preenchida. geralmente a mais baixa entre os aprovados. Candidatos que chegam perto dessa nota correm risco. O ideal é ter uma margem de segurança de 20-30 pontos acima da nota histórica.
-
-**Escolha a modalidade certa**
-O SISU divide as vagas em ampla concorrência e cotas (L1, L2, L5, etc.). As notas de corte variam significativamente entre modalidades. Verifique se você se qualifica para cotas. isso pode aumentar muito suas chances com a mesma nota.
-
-**Acompanhe o SISU em tempo real**
-Durante o SISU, a nota de corte parcial é atualizada a cada hora. Monitore a concorrência no curso e instituição de interesse. Se a nota parcial estiver muito acima da sua, considere trocar de opção antes do prazo final.
-
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
 ## Fontes e Referências?
 
@@ -27498,42 +22461,6 @@ Antes de passar para o gabarito (cartão-resposta da redação):
 ![Pratique agora: questoes de redacao enem nota zero como evitar](/images/blog/redacao-enem-nota-zero-como-evitar-3.svg)
 
 
-## Estratégias Avançadas para Sociologia O Que Estudar no ENEM
-
-Dominar o conteúdo é necessário — mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Sociologia O Que Estudar?
-
-O INEP segue um padrão consistente nas questões de Sociologia O Que Estudar:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica — isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Sociologia O Que Estudar não é por falta de conhecimento — é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Sociologia O Que Estudar
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
 ## Como Aumentar suas Chances de Passar em Ciencias Biologicas?
 
 A nota de corte é um alvo em movimento — muda todo semestre de acordo com a concorrência. Mas existem estratégias concretas para maximizar suas chances:
@@ -27574,7 +22501,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Ciencias Biologicas em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Redação em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -27585,11 +22512,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Ciencias Biologicas com interpretacao de texto
+3. Pratique questoes mistas que combinam Redação com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Ciencias Biologicas
+- [ ] Revisei os conceitos fundamentais de Redação
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -27702,7 +22629,6 @@ Matemática tem a maior variância de notas. candidatos vão de 400 a 1000. Para
 - **Filosofia:** os 8–10 filósofos mais cobrados, com profundidade
 - **Sociologia:** os 3 clássicos + Bourdieu + temas contemporâneos
 
-### Ciências da Natureza (meta: 750+)
 
 ## O que Você Precisa Saber?
 - **Não existe "pular" disciplina:** candidatos de 900+ não ignoram nem Física nem Biologia
@@ -27840,160 +22766,6 @@ O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os 
 Com base nas dúvidas mais frequentes registradas em nossa plataforma, nosso time mapeia anualmente as informações sobre o ENEM mais procuradas pelos candidatos. Isso nos permite atualizar o conteúdo com dados do INEP assim que são divulgados oficialmente, garantindo precisão para quem depende dessas informações.
 
 
-## O que os Candidatos Perguntam?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Estratégia Recomendada?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Dicas Práticas?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Resumo dos Principais Tópicos?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Como se Preparar?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Por que Isso Importa?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Como Aplicar no ENEM?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
 ## Continue Estudando?
 
 
@@ -28039,7 +22811,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     date: '2026-06-15',
     readTime: 4,
     content: `
-A taxa de inscrição do ENEM custa R$85. candidatos de baixa renda e escola pública podem se inscrever gratuitamente. Entenda quem tem direito e como garantir a isenção.
+A taxa de inscrição do ENEM custa R\$85. candidatos de baixa renda e escola pública podem se inscrever gratuitamente. Entenda quem tem direito e como garantir a isenção.
 
 > **TL;DR:** Saiba quem tem direito à isenção de taxa do ENEM 2026, como solicitar, os documentos necessários e os prazos. Escola pública e baixa renda podem se inscrever grátis. [Pratique no ENEM Pro →](/questoes)
 
@@ -28095,7 +22867,7 @@ A solicitação é feita **antes das inscrições regulares**, em período espec
 
 Se o INEP negar sua solicitação, você ainda pode:
 1. **Recorrer** dentro do prazo estabelecido (geralmente 5–7 dias após o resultado)
-2. **Pagar a taxa** na inscrição regular (R$85)
+2. **Pagar a taxa** na inscrição regular (R\$85)
 
 ## Atenção: Prazos São Diferentes?
 
@@ -28185,7 +22957,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Fisica Curso em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Isenção de Taxa em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -28196,11 +22968,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Fisica Curso com interpretacao de texto
+3. Pratique questoes mistas que combinam Isenção de Taxa com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Fisica Curso
+- [ ] Revisei os conceitos fundamentais de Isenção de Taxa
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -28208,40 +22980,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-## O que Voce Precisa Saber Sobre Enem Pontuacao Maxima Como Tirar 900?
-
-O ENEM acumula muitas informacoes tecnicamente complexas. sistema de notas, inscricao, modalidades de vaga, programas de acesso. Reunimos aqui os pontos mais importantes com base nas perguntas reais dos candidatos.
-
-### As Perguntas Mais Frequentes dos Candidatos
-
-**Qual a diferenca entre nota bruta e nota TRI?**
-A nota bruta seria simplesmente o numero de acertos. A nota TRI (Teoria de Resposta ao Item) leva em conta a dificuldade de cada questao e se o seu padrao de acertos e consistente. Uma questao dificil que voce acerta vale mais do que uma facil.
-
-**Como sao divulgados os resultados?**
-O INEP divulga os resultados pelo site do INEP e pelo aplicativo oficial. O gabarito preliminar sai no dia seguinte a aplicacao. Os resultados finais com as notas individuais saem aproximadamente 60 dias depois da prova.
-
-**Posso usar os resultados de anos anteriores?**
-Sim. Desde que seja dentro do prazo valido do SISU (normalmente 5 anos), voce pode usar notas de edicoes anteriores do ENEM. Mas atencao: o prazo de validade para o ProUni e o FIES pode ser diferente.
-
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
 ## Continue Estudando
 
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
@@ -28579,9 +23317,9 @@ O biomédico tem uma das atuações mais amplas entre as profissões de saúde:
 - Imunologia e Parasitologia
 
 **Salários médios (2025):**
-- Recém-formado: R$2.500–3.500
-- Especializado (análises clínicas): R$4.000–6.000
-- Saúde estética própria: R$6.000–12.000+
+- Recém-formado: R\$2.500–3.500
+- Especializado (análises clínicas): R\$4.000–6.000
+- Saúde estética própria: R\$6.000–12.000+
 
 
 ## Como Calcular Sua Nota Para Biomedicina?
@@ -28633,24 +23371,6 @@ Como Biomedicina exige Ciências da Natureza sólida:
 ![Pratique agora: questoes de nota de corte biomedicina enem](/images/blog/nota-de-corte-biomedicina-enem-3.svg)
 
 
-
-## Estratégias Avançadas para Progressoes Matematica no ENEM?
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Progressoes Matematica?
-
-O INEP segue um padrão consistente nas questões de Progressoes Matematica:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Progressoes Matematica não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
 
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
@@ -28709,48 +23429,6 @@ Os três programas usam a nota do ENEM. com finalidades diferentes:
 ## Pontos Mais Importantes?
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
-
-## Estratégia Recomendada?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Dicas Práticas?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Como se Preparar?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
 
 ## Continue Estudando?
 
@@ -29029,10 +23707,10 @@ Relações Internacionais é um dos cursos com maior diversidade de saída profi
 - Consultoria em geopolítica
 
 **Salários:**
-- Trainee multinacional: R$4.000–6.000
-- Analista de comércio exterior: R$5.000–8.000
-- Diplomata (após concurso): R$20.000–35.000
-- Consultor em organismo internacional: US$3.000–8.000/mês
+- Trainee multinacional: R\$4.000–6.000
+- Analista de comércio exterior: R\$5.000–8.000
+- Diplomata (após concurso): R\$20.000–35.000
+- Consultor em organismo internacional: US\$3.000–8.000/mês
 
 
 ## O Concurso do Itamaraty (CACD)?
@@ -29118,51 +23796,6 @@ Os três programas usam a nota do ENEM. com finalidades diferentes:
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
 
-## Pontos Mais Importantes?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Estratégia Recomendada?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Dicas Práticas?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Como se Preparar?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
 ## Continue Estudando?
 
 
@@ -29175,24 +23808,6 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 Estudantes que usam o ENEM Pro para simular sua nota e compará-la com as notas de corte históricas dos cursos desejados tomam decisões mais estratégicas na inscrição do SISU e do ProUni. Em nossa plataforma, o módulo de cálculo de nota é um dos mais acessados nos dias seguintes ao resultado do ENEM.
 
 
-
-## Estratégias Avançadas para Logaritmos Matematica no ENEM?
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Logaritmos Matematica?
-
-O INEP segue um padrão consistente nas questões de Logaritmos Matematica:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Logaritmos Matematica não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
 
 ## Fontes e Referências?
 
@@ -29303,11 +23918,11 @@ Exemplos de faculdades com ProUni em Design:
 
 
 **Salários médios (2025):**
-- Designer Gráfico júnior: R$2.500–3.500
-- Designer UX/UI pleno: R$6.000–10.000
-- Designer Produto sênior: R$8.000–14.000
-- Freelancer (especialista): R$80–200/hora
-- Diretor de Arte: R$10.000–20.000
+- Designer Gráfico júnior: R\$2.500–3.500
+- Designer UX/UI pleno: R\$6.000–10.000
+- Designer Produto sênior: R\$8.000–14.000
+- Freelancer (especialista): R\$80–200/hora
+- Diretor de Arte: R\$10.000–20.000
 
 O maior diferencial salarial em Design está em **especialização em UX/UI e produto digital**.
 
@@ -29379,7 +23994,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Matematica Curso em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Nota de Corte Design em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -29390,12 +24005,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Matematica Curso com interpretacao de texto
+3. Pratique questoes mistas que combinam Nota de Corte Design com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Matematica Curso
+- [ ] Revisei os conceitos fundamentais de Nota de Corte Design
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -29403,103 +24017,16 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Como Aumentar suas Chances de Passar em Servico Social?
-
-
-A nota de corte é um alvo em movimento. muda todo semestre de acordo com a concorrência. Mas existem estratégias concretas para maximizar suas chances:
-
-**Conheça a concorrência real**
-A nota de corte divulgada é sempre da última vaga preenchida. geralmente a mais baixa entre os aprovados. Candidatos que chegam perto dessa nota correm risco. O ideal é ter uma margem de segurança de 20-30 pontos acima da nota histórica.
-
-**Escolha a modalidade certa**
-O SISU divide as vagas em ampla concorrência e cotas (L1, L2, L5, etc.). As notas de corte variam significativamente entre modalidades. Verifique se você se qualifica para cotas. isso pode aumentar muito suas chances com a mesma nota.
-
-**Acompanhe o SISU em tempo real**
-Durante o SISU, a nota de corte parcial é atualizada a cada hora. Monitore a concorrência no curso e instituição de interesse. Se a nota parcial estiver muito acima da sua, considere trocar de opção antes do prazo final.
-
-## O que os Candidatos Perguntam?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Estratégia Recomendada?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Revisao Rapida: Pontos-Chave para Fixar
-
-
-Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina estes pontos essenciais:
-
-**O que voce deve ser capaz de fazer:**
-- Identificar o tema central de uma questao antes de calcular ou analisar
-- Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Servico Social em contextos ineditos e situacoes reais
-- Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
-
-**Sinais de que voce esta pronto:**
-- Acerta mais de 70% das questoes de nivel medio do ENEM
-- Consegue explicar por que cada alternativa errada esta errada
-- Termina a prova com tempo para revisao
-
-
-## Como Aumentar suas Chances de Passar em Relacoes Internacionais?
-
-
-A nota de corte é um alvo em movimento. muda todo semestre de acordo com a concorrência. Mas existem estratégias concretas para maximizar suas chances:
-
-**Conheça a concorrência real**
-A nota de corte divulgada é sempre da última vaga preenchida. geralmente a mais baixa entre os aprovados. Candidatos que chegam perto dessa nota correm risco. O ideal é ter uma margem de segurança de 20-30 pontos acima da nota histórica.
-
-**Escolha a modalidade certa**
-O SISU divide as vagas em ampla concorrência e cotas (L1, L2, L5, etc.). As notas de corte variam significativamente entre modalidades. Verifique se você se qualifica para cotas. isso pode aumentar muito suas chances com a mesma nota.
-
-**Acompanhe o SISU em tempo real**
-Durante o SISU, a nota de corte parcial é atualizada a cada hora. Monitore a concorrência no curso e instituição de interesse. Se a nota parcial estiver muito acima da sua, considere trocar de opção antes do prazo final.
-
-## Dicas Práticas?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
 
 ## Resumo dos Principais Tópicos?
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.**O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Servico Social com interpretacao de texto
+3. Pratique questoes mistas que combinam Nota de Corte Design com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Servico Social
+- [ ] Revisei os conceitos fundamentais de Nota de Corte Design
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -29507,53 +24034,6 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Como Aumentar suas Chances de Passar em Turismo?
-
-
-A nota de corte é um alvo em movimento. muda todo semestre de acordo com a concorrência. Mas existem estratégias concretas para maximizar suas chances:
-
-**Conheça a concorrência real**
-A nota de corte divulgada é sempre da última vaga preenchida. geralmente a mais baixa entre os aprovados. Candidatos que chegam perto dessa nota correm risco. O ideal é ter uma margem de segurança de 20-30 pontos acima da nota histórica.
-
-**Escolha a modalidade certa**
-O SISU divide as vagas em ampla concorrência e cotas (L1, L2, L5, etc.). As notas de corte variam significativamente entre modalidades. Verifique se você se qualifica para cotas. isso pode aumentar muito suas chances com a mesma nota.
-
-**Acompanhe o SISU em tempo real**
-Durante o SISU, a nota de corte parcial é atualizada a cada hora. Monitore a concorrência no curso e instituição de interesse. Se a nota parcial estiver muito acima da sua, considere trocar de opção antes do prazo final.
-
-## Como se Preparar?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Como Aumentar suas Chances de Passar em Design?
-
-
-A nota de corte é um alvo em movimento. muda todo semestre de acordo com a concorrência. Mas existem estratégias concretas para maximizar suas chances:
-
-**Conheça a concorrência real**
-A nota de corte divulgada é sempre da última vaga preenchida. geralmente a mais baixa entre os aprovados. Candidatos que chegam perto dessa nota correm risco. O ideal é ter uma margem de segurança de 20-30 pontos acima da nota histórica.
-
-**Escolha a modalidade certa**
-O SISU divide as vagas em ampla concorrência e cotas (L1, L2, L5, etc.). As notas de corte variam significativamente entre modalidades. Verifique se você se qualifica para cotas. isso pode aumentar muito suas chances com a mesma nota.
-
-**Acompanhe o SISU em tempo real**
-Durante o SISU, a nota de corte parcial é atualizada a cada hora. Monitore a concorrência no curso e instituição de interesse. Se a nota parcial estiver muito acima da sua, considere trocar de opção antes do prazo final.
 
 ## Continue Estudando?
 
@@ -29673,10 +24153,10 @@ Existe em duas modalidades: **Bacharelado** (pesquisa e análise) e **Licenciatu
 - Concurso público para educação
 
 **Salários:**
-- Professor de Sociologia (início): R$2.800–3.500
-- Pesquisador em institutos: R$4.000–6.000
-- Consultor em políticas públicas: R$5.000–9.000
-- Analista em ONG internacional: R$6.000–12.000
+- Professor de Sociologia (início): R\$2.800–3.500
+- Pesquisador em institutos: R\$4.000–6.000
+- Consultor em políticas públicas: R\$5.000–9.000
+- Analista em ONG internacional: R\$6.000–12.000
 
 
 ## Quais Matérias do ENEM São Mais Importantes Para Ciências Sociais?
@@ -29706,22 +24186,6 @@ Para a maioria das universidades que oferecem Ciências Sociais, o peso maior é
 ![Pratique agora: questoes de nota de corte ciencias sociais enem](/images/blog/nota-de-corte-ciencias-sociais-enem-3.svg)
 
 
-
-## O que Voce Precisa Saber Sobre Enem Pontuacao Maxima Como Tirar 900?
-
-
-O ENEM acumula muitas informacoes tecnicamente complexas. sistema de notas, inscricao, modalidades de vaga, programas de acesso. Reunimos aqui os pontos mais importantes com base nas perguntas reais dos candidatos.
-
-### As Perguntas Mais Frequentes dos Candidatos
-
-**Qual a diferenca entre nota bruta e nota TRI?**
-A nota bruta seria simplesmente o numero de acertos. A nota TRI (Teoria de Resposta ao Item) leva em conta a dificuldade de cada questao e se o seu padrao de acertos e consistente. Uma questao dificil que voce acerta vale mais do que uma facil.
-
-**Como sao divulgados os resultados?**
-O INEP divulga os resultados pelo site do INEP e pelo aplicativo oficial. O gabarito preliminar sai no dia seguinte a aplicacao. Os resultados finais com as notas individuais saem aproximadamente 60 dias depois da prova.
-
-**Posso usar os resultados de anos anteriores?**
-Sim. Desde que seja dentro do prazo valido do SISU (normalmente 5 anos), voce pode usar notas de edicoes anteriores do ENEM. Mas atencao: o prazo de validade para o ProUni e o FIES pode ser diferente.
 
 ## O que Você Precisa Saber?
 ### Dados Oficiais do ENEM (INEP)
@@ -29781,48 +24245,6 @@ Os três programas usam a nota do ENEM. com finalidades diferentes:
 ## Pontos Mais Importantes?
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
-
-## Estratégia Recomendada?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Dicas Práticas?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Como se Preparar?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
 
 ## Continue Estudando?
 
@@ -30001,7 +24423,6 @@ Este cronograma foi desenhado para quem tem **2 a 4 horas por dia** disponíveis
 - 6ª: Redação completa final
 - Sáb: Simulado completo 1 (dia inteiro)
 
-### Semana 11: Revisão Geral
 
 ## Pontos Mais Importantes?
 - 2ª: Revisão rápida de Matemática (erros mais comuns)
@@ -30109,7 +24530,6 @@ Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações 
 | Monitorar corte parcial | Médio | Durante o SISU |
 | Ter 2ª opção de curso | Médio | Antes do SISU |
 
-### SISU vs. ProUni vs. FIES: Qual usar?
 
 ## Dicas Práticas?
 Os três programas usam a nota do ENEM. com finalidades diferentes:
@@ -30171,7 +24591,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Design em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Cronograma de Estudos em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -30182,9 +24602,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Design com interpretacao de texto
+3. Pratique questoes mistas que combinam Cronograma de Estudos com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Continue Estudando?
 
@@ -30432,7 +24851,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Ciencias Sociais em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Dicas de Última Hora em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -30443,12 +24862,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Ciencias Sociais com interpretacao de texto
+3. Pratique questoes mistas que combinam Dicas de Última Hora com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Ciencias Sociais
+- [ ] Revisei os conceitos fundamentais de Dicas de Última Hora
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -30474,56 +24892,6 @@ Estudar 2 horas todos os dias e mais eficiente do que estudar 8 horas no fim de 
 Inclua no cronograma dias especificos de revisao do conteudo estudado 7, 14 e 30 dias antes. Isso garante que o que voce aprendeu nao seja esquecido antes da prova.
 
 ## Estratégia Recomendada?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## O que Você Precisa Saber?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Como Funciona na Prática?
 **4. Simulados semanais como termometro**
 Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
 
@@ -30725,32 +25093,8 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Matemática?
 
 ## Pontos Mais Importantes?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## O que os Candidatos Perguntam?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Matemática?
-
-## Estratégia Recomendada?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
@@ -30764,7 +25108,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Matematica 2024 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito de Matemática em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -30775,64 +25119,17 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Matematica 2024 com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito de Matemática com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Dicas Práticas?
-- [ ] Revisei os conceitos fundamentais de Gabarito Matematica 2024
+- [ ] Revisei os conceitos fundamentais de Gabarito de Matemática
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
 - [ ] Estou familiarizado com o formato e o tempo da prova
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
-
-
-## Resumo dos Principais Tópicos?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Matemática?
-
-## Como se Preparar?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Por que Isso Importa?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Matemática?
-
-## Como Aplicar no ENEM?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
 
 
 ## Continue Estudando?
@@ -31035,7 +25332,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Letras em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito de Ciências da Natureza em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -31046,12 +25343,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Letras com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito de Ciências da Natureza com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## O que os Candidatos Perguntam?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Letras
+- [ ] Revisei os conceitos fundamentais de Gabarito de Ciências da Natureza
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -31094,7 +25390,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Matemática?
 
 ## Dicas Práticas?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -31117,32 +25412,8 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Ciências da Natureza?
 
 ## Como se Preparar?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Por que Isso Importa?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências da Natureza?
-
-## Como Aplicar no ENEM?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
@@ -31344,7 +25615,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Fisica Curso em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito de Ciências Humanas em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -31352,45 +25623,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 - Consegue explicar por que cada alternativa er
 
 
-## Como Aumentar suas Chances de Passar em Ciencias Biologicas?
-
-
-A nota de corte é um alvo em movimento. muda todo semestre de acordo com a concorrência. Mas existem estratégias concretas para maximizar suas chances:
-
-**Conheça a concorrência real**
-A nota de corte divulgada é sempre da última vaga preenchida. geralmente a mais baixa entre os aprovados. Candidatos que chegam perto dessa nota correm risco. O ideal é ter uma margem de segurança de 20-30 pontos acima da nota histórica.
-
-**Escolha a modalidade certa**
-O SISU divide as vagas em ampla concorrência e cotas (L1, L2, L5, etc.). As notas de corte variam significativamente entre modalidades. Verifique se você se qualifica para cotas. isso pode aumentar muito suas chances com a mesma nota.
-
-**Acompanhe o SISU em tempo real**
-Durante o SISU, a nota de corte parcial é atualizada a cada hora. Monitore a concorrência no curso e instituição de interesse. Se a nota parcial estiver muito acima da sua, considere trocar de opção antes do prazo final.
-
-## O que os Candidatos Perguntam?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Estratégia Recomendada?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
 ## Dicas Práticas?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Ciencias Biologicas
+- [ ] Revisei os conceitos fundamentais de Gabarito de Ciências Humanas
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -31402,12 +25636,11 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Fisica Curso com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito de Ciências Humanas com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Resumo dos Principais Tópicos?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Fisica Curso
+- [ ] Revisei os conceitos fundamentais de Gabarito de Ciências Humanas
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -31450,7 +25683,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Ciências Humanas?
 
 ## Continue Estudando?
 
@@ -31657,7 +25889,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Educacao Fisica em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito de Linguagens em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -31668,12 +25900,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Educacao Fisica com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito de Linguagens com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## O que os Candidatos Perguntam?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Educacao Fisica
+- [ ] Revisei os conceitos fundamentais de Gabarito de Linguagens
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -31716,32 +25947,8 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Linguagens?
 
 ## Dicas Práticas?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Resumo dos Principais Tópicos?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Linguagens?
-
-## Como se Preparar?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
@@ -31921,101 +26128,8 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em todas as áreas?
 
 ## Como Funciona na Prática?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Pontos Mais Importantes?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## O que os Candidatos Perguntam?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Estratégia Recomendada?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Dicas Práticas?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Resumo dos Principais Tópicos?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Como se Preparar?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Por que Isso Importa?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Como Aplicar no ENEM?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
@@ -32064,7 +26178,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Matematica 2024 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -32075,9 +26189,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Matematica 2024 com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Fontes e Referências?
 
@@ -32268,7 +26381,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Turismo em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Questões de Química em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -32279,12 +26392,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Turismo com interpretacao de texto
+3. Pratique questoes mistas que combinam Questões de Química com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Estratégia Recomendada?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Turismo
+- [ ] Revisei os conceitos fundamentais de Questões de Química
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -32315,7 +26427,6 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 ## Dicas Práticas?
 | Area | Questoes/dia recomendadas | Foco principal |
@@ -32330,19 +26441,6 @@ A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as
 
 Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
 
-
-## Como se Preparar?
-| Area | Questoes/dia recomendadas | Foco principal |
-|------|--------------------------|----------------|
-| Matematica | 5-8 | Logica e calculo |
-| Linguagens | 5-8 | Interpretacao |
-| Ciencias Natureza | 5-8 | Conceitos + aplicacao |
-| Ciencias Humanas | 5-8 | Contextualizacao historica |
-| Redacao | 1 texto/semana | Competencias 3 e 5 |
-
-### Por que Questoes Reais Superam Simulados Montados?
-
-Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
 
 ## Continue Estudando?
 
@@ -32511,79 +26609,8 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 ## Pontos Mais Importantes?
-| Area | Questoes/dia recomendadas | Foco principal |
-|------|--------------------------|----------------|
-| Matematica | 5-8 | Logica e calculo |
-| Linguagens | 5-8 | Interpretacao |
-| Ciencias Natureza | 5-8 | Conceitos + aplicacao |
-| Ciencias Humanas | 5-8 | Contextualizacao historica |
-| Redacao | 1 texto/semana | Competencias 3 e 5 |
-
-### Por que Questoes Reais Superam Simulados Montados?
-
-Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
-
-
-## O que os Candidatos Perguntam?
-| Area | Questoes/dia recomendadas | Foco principal |
-|------|--------------------------|----------------|
-| Matematica | 5-8 | Logica e calculo |
-| Linguagens | 5-8 | Interpretacao |
-| Ciencias Natureza | 5-8 | Conceitos + aplicacao |
-| Ciencias Humanas | 5-8 | Contextualizacao historica |
-| Redacao | 1 texto/semana | Competencias 3 e 5 |
-
-### Por que Questoes Reais Superam Simulados Montados?
-
-Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
-
-
-## Estratégia Recomendada?
-| Area | Questoes/dia recomendadas | Foco principal |
-|------|--------------------------|----------------|
-| Matematica | 5-8 | Logica e calculo |
-| Linguagens | 5-8 | Interpretacao |
-| Ciencias Natureza | 5-8 | Conceitos + aplicacao |
-| Ciencias Humanas | 5-8 | Contextualizacao historica |
-| Redacao | 1 texto/semana | Competencias 3 e 5 |
-
-### Por que Questoes Reais Superam Simulados Montados?
-
-Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
-
-
-## Dicas Práticas?
-| Area | Questoes/dia recomendadas | Foco principal |
-|------|--------------------------|----------------|
-| Matematica | 5-8 | Logica e calculo |
-| Linguagens | 5-8 | Interpretacao |
-| Ciencias Natureza | 5-8 | Conceitos + aplicacao |
-| Ciencias Humanas | 5-8 | Contextualizacao historica |
-| Redacao | 1 texto/semana | Competencias 3 e 5 |
-
-### Por que Questoes Reais Superam Simulados Montados?
-
-Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
-
-
-## Resumo dos Principais Tópicos?
-| Area | Questoes/dia recomendadas | Foco principal |
-|------|--------------------------|----------------|
-| Matematica | 5-8 | Logica e calculo |
-| Linguagens | 5-8 | Interpretacao |
-| Ciencias Natureza | 5-8 | Conceitos + aplicacao |
-| Ciencias Humanas | 5-8 | Contextualizacao historica |
-| Redacao | 1 texto/semana | Competencias 3 e 5 |
-
-### Por que Questoes Reais Superam Simulados Montados?
-
-Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
-
-
-## Como se Preparar?
 | Area | Questoes/dia recomendadas | Foco principal |
 |------|--------------------------|----------------|
 | Matematica | 5-8 | Logica e calculo |
@@ -32618,7 +26645,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Questoes De Biologia em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Questões de Biologia em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -32629,9 +26656,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Questoes De Biologia com interpretacao de texto
+3. Pratique questoes mistas que combinam Questões de Biologia com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Fontes e Referências?
 
@@ -32795,7 +26821,6 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 ## O que Você Precisa Saber?
 | Area | Questoes/dia recomendadas | Foco principal |
@@ -32810,19 +26835,6 @@ A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as
 
 Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
 
-
-## Como Funciona na Prática?
-| Area | Questoes/dia recomendadas | Foco principal |
-|------|--------------------------|----------------|
-| Matematica | 5-8 | Logica e calculo |
-| Linguagens | 5-8 | Interpretacao |
-| Ciencias Natureza | 5-8 | Conceitos + aplicacao |
-| Ciencias Humanas | 5-8 | Contextualizacao historica |
-| Redacao | 1 texto/semana | Competencias 3 e 5 |
-
-### Por que Questoes Reais Superam Simulados Montados?
-
-Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
 
 ## Continue Estudando?
 
@@ -32905,7 +26917,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Ciencias Sociais em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Questões de Português em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -32916,9 +26928,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Ciencias Sociais com interpretacao de texto
+3. Pratique questoes mistas que combinam Questões de Português com interpretacao de texto
 
-### Checklist de Preparacao Final
 `,
   },
   {
@@ -33206,22 +27217,6 @@ O ENEM frequentemente traz:
 
 
 
-## O que Voce Precisa Saber Sobre Enem Pontuacao Maxima Como Tirar 900?
-
-
-O ENEM acumula muitas informacoes tecnicamente complexas. sistema de notas, inscricao, modalidades de vaga, programas de acesso. Reunimos aqui os pontos mais importantes com base nas perguntas reais dos candidatos.
-
-### As Perguntas Mais Frequentes dos Candidatos
-
-**Qual a diferenca entre nota bruta e nota TRI?**
-A nota bruta seria simplesmente o numero de acertos. A nota TRI (Teoria de Resposta ao Item) leva em conta a dificuldade de cada questao e se o seu padrao de acertos e consistente. Uma questao dificil que voce acerta vale mais do que uma facil.
-
-**Como sao divulgados os resultados?**
-O INEP divulga os resultados pelo site do INEP e pelo aplicativo oficial. O gabarito preliminar sai no dia seguinte a aplicacao. Os resultados finais com as notas individuais saem aproximadamente 60 dias depois da prova.
-
-**Posso usar os resultados de anos anteriores?**
-Sim. Desde que seja dentro do prazo valido do SISU (normalmente 5 anos), voce pode usar notas de edicoes anteriores do ENEM. Mas atencao: o prazo de validade para o ProUni e o FIES pode ser diferente.
-
 ## Pontos Mais Importantes?
 ### Dados Oficiais do ENEM (INEP)
 
@@ -33266,7 +27261,6 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 ## Estratégia Recomendada?
 | Area | Questoes/dia recomendadas | Foco principal |
@@ -33328,7 +27322,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em todas as áreas?
 
 ## Como se Preparar?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -33344,7 +27337,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito 2020 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Questões de Geografia em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -33355,9 +27348,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito 2020 com interpretacao de texto
+3. Pratique questoes mistas que combinam Questões de Geografia com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Fontes e Referências?
 
@@ -33543,198 +27535,8 @@ O INEP segue um padrão consistente nas questões de Genetica:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Genetica não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## O que Você Precisa Saber?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Genetica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Funciona na Prática?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Genetica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Pontos Mais Importantes?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Genetica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## O que os Candidatos Perguntam?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Genetica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégia Recomendada?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Genetica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Dicas Práticas?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Genetica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Resumo dos Principais Tópicos?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Genetica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como se Preparar?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Genetica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Por que Isso Importa?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Genetica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Aplicar no ENEM?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
 | Tópicos fundamentais | Alta (7-10 questões) | Médio |
@@ -33775,7 +27577,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Genetica em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Genética em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -33786,9 +27588,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Genetica com interpretacao de texto
+3. Pratique questoes mistas que combinam Genética com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Fontes e Referências?
 
@@ -34000,7 +27801,6 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 ## Como Funciona na Prática?
 | Area | Questoes/dia recomendadas | Foco principal |
@@ -34024,7 +27824,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Questoes De Biologia em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Química Orgânica em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -34035,12 +27835,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Questoes De Biologia com interpretacao de texto
+3. Pratique questoes mistas que combinam Química Orgânica com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Questoes De Biologia
+- [ ] Revisei os conceitos fundamentais de Química Orgânica
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -34200,7 +27999,6 @@ A nota final do ENEM considera todas as 4 provas objetivas e a redação, com pe
 - Ampla Concorrência: ~810 pontos
 - Cotas: ~780 pontos
 
-### Norte e Centro-Oeste
 
 ## O que Você Precisa Saber?
 **UnB. Brasília (DF)**
@@ -34307,71 +28105,6 @@ Os três programas usam a nota do ENEM. com finalidades diferentes:
 ## Pontos Mais Importantes?
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
-
-## O que os Candidatos Perguntam?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Estratégia Recomendada?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Dicas Práticas?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Resumo dos Principais Tópicos?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Como se Preparar?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
 
 ## Continue Estudando
 
@@ -34505,7 +28238,7 @@ Avalia a solução concreta que você propõe para o problema discutido.
 | Critério | IA (ENEM Pro) | Professor particular |
 |----------|---------------|---------------------|
 | Velocidade | Segundos | Dias |
-| Custo | Gratuito (10/mês) | R$30–R$100/redação |
+| Custo | Gratuito (10/mês) | R\$30–R\$100/redação |
 | Disponibilidade | 24/7 | Agenda do professor |
 | Consistência | Alta (sem variação de humor) | Variável |
 | Subjetividade | Baixa | Alta (depende do professor) |
@@ -34612,7 +28345,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Relacoes Internacionais em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Correção de Redação em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -34623,11 +28356,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Relacoes Internacionais com interpretacao de texto
+3. Pratique questoes mistas que combinam Correção de Redação com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Relacoes Internacionais
+- [ ] Revisei os conceitos fundamentais de Correção de Redação
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -34710,7 +28443,7 @@ O ENEM 2026 será mais um marco para milhões de estudantes que buscam uma vaga 
    - Situação escolar
    - Escolha de idioma da prova (inglês ou espanhol)
    - Necessidades especiais (se aplicável)
-4. **Pague a taxa de inscrição** (em torno de R$85. confirme o valor no edital)
+4. **Pague a taxa de inscrição** (em torno de R\$85. confirme o valor no edital)
 5. **Acompanhe o e-mail de confirmação**
 
 ### Quem Pode se Inscrever
@@ -34867,7 +28600,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Matematica 2024 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de ENEM 2026 em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -34878,11 +28611,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Matematica 2024 com interpretacao de texto
+3. Pratique questoes mistas que combinam ENEM 2026 com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Gabarito Matematica 2024
+- [ ] Revisei os conceitos fundamentais de ENEM 2026
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -35114,24 +28847,6 @@ No ENEM Pro, reunimos as questões de todas as provas anteriores com explicaçõ
 
 
 
-## Estratégias Avançadas para Genetica no ENEM?
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Genetica?
-
-O INEP segue um padrão consistente nas questões de Genetica:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Genetica não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
@@ -35228,78 +28943,8 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em todas as áreas?
 
 ## O que os Candidatos Perguntam?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Estratégia Recomendada?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Dicas Práticas?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Resumo dos Principais Tópicos?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Como se Preparar?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Por que Isso Importa?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Como Aplicar no ENEM?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
@@ -35460,24 +29105,6 @@ Pratique com questões reais do ENEM 2018 no ENEM Pro:
 
 
 
-## Estratégias Avançadas para Quimica Organica no ENEM?
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Quimica Organica?
-
-O INEP segue um padrão consistente nas questões de Quimica Organica:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Quimica Organica não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
@@ -35533,7 +29160,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Ciências Humanas?
 
 ## Pontos Mais Importantes?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -35612,53 +29238,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Resumo dos Principais Tópicos?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Como se Preparar?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Por que Isso Importa?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Como Aplicar no ENEM?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
 
 ## Continue Estudando?
 
@@ -35857,101 +29436,8 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em todas as áreas?
 
 ## Como Funciona na Prática?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Pontos Mais Importantes?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## O que os Candidatos Perguntam?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Estratégia Recomendada?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Dicas Práticas?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Resumo dos Principais Tópicos?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Como se Preparar?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Por que Isso Importa?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Como Aplicar no ENEM?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
@@ -36135,101 +29621,8 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Matemática?
 
 ## Como Funciona na Prática?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Pontos Mais Importantes?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Matemática?
-
-## O que os Candidatos Perguntam?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Estratégia Recomendada?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Matemática?
-
-## Dicas Práticas?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Resumo dos Principais Tópicos?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Matemática?
-
-## Como se Preparar?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Por que Isso Importa?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Matemática?
-
-## Como Aplicar no ENEM?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
@@ -36283,7 +29676,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Matematica 2023 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito de Matemática em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -36294,9 +29687,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Matematica 2023 com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito de Matemática com interpretacao de texto
 
-### Checklist de Preparacao Final
 `,
   },
   {
@@ -36587,7 +29979,6 @@ O ENEM 2023 trouxe uma questão sobre resistência quilombola que exigiu anális
 - Nietzsche: vontade de poder, além-do-homem
 - Filósofos contemporâneos: Foucault, Hannah Arendt
 
-### Sociologia ENEM 2023 (≈10 questões)
 
 ## O que Você Precisa Saber?
 **Conceitos cobrados:**
@@ -36662,7 +30053,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em todas as áreas?
 
 ## Pontos Mais Importantes?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -36678,7 +30068,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito 2020 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito Ciências Humanas em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -36689,12 +30079,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito 2020 com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito Ciências Humanas com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## O que os Candidatos Perguntam?
-- [ ] Revisei os conceitos fundamentais de Gabarito 2020
+- [ ] Revisei os conceitos fundamentais de Gabarito Ciências Humanas
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -36736,59 +30125,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Agrupar por tema | Prioriza a revisão |
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências Humanas?
-
-## Dicas Práticas?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Resumo dos Principais Tópicos?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências Humanas?
-
-## Como se Preparar?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Por que Isso Importa?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências Humanas?
-
-## Como Aplicar no ENEM?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
 
 
 ## Continue Estudando?
@@ -36892,7 +30228,6 @@ A seguir, análise do que foi cobrado em Língua Portuguesa, Literatura e Língu
 
 **Destaque:** A presença de Conceição Evaristo é uma tendência do ENEM pós-2020. literaturas afro-brasileiras e de minorias têm ganho mais espaço.
 
-### Língua Estrangeira ENEM 2023
 
 ## O que Você Precisa Saber?
 **Inglês:**
@@ -36974,99 +30309,12 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Linguagens?
 
 ## Pontos Mais Importantes?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
 
-
-## O que os Candidatos Perguntam?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Linguagens?
-
-## Estratégia Recomendada?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Dicas Práticas?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Linguagens?
-
-## Resumo dos Principais Tópicos?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Como se Preparar?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Linguagens?
-
-## Por que Isso Importa?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Como Aplicar no ENEM?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Linguagens?
 
 ## Continue Estudando?
 
@@ -37598,155 +30846,6 @@ Um simulado semanal nao e para aprender. e para medir. Analise os erros do simul
 Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
 
-## Como Funciona na Prática?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Pontos Mais Importantes?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## O que os Candidatos Perguntam?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Estratégia Recomendada?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Dicas Práticas?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Resumo dos Principais Tópicos?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
 ## Continue Estudando
 
 
@@ -37806,7 +30905,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Matematica 2023 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Cronograma em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -37817,9 +30916,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Matematica 2023 com interpretacao de texto
+3. Pratique questoes mistas que combinam Cronograma com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Interpretar o Gabarito do ENEM 2024?
 
@@ -38072,7 +31170,6 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 ## Como Funciona na Prática?
 | Area | Questoes/dia recomendadas | Foco principal |
@@ -38104,7 +31201,6 @@ O INEP segue um padrão consistente nas questões de Biologia Celular:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Biologia Celular não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## Pontos Mais Importantes?
 | Tema | Frequência no ENEM | Peso na TRI |
@@ -38126,152 +31222,6 @@ A maioria dos erros em Biologia Celular não é por falta de conhecimento. é po
 
 Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
 
-
-## O que os Candidatos Perguntam?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Biologia Celular
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégia Recomendada?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Biologia Celular
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Dicas Práticas?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Biologia Celular
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Resumo dos Principais Tópicos?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Biologia Celular
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como se Preparar?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Biologia Celular
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Por que Isso Importa?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Biologia Celular
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Aplicar no ENEM?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Biologia Celular
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
 
 ## Continue Estudando?
 
@@ -38367,7 +31317,6 @@ N = N₀ × (1/2)³ = N₀/8
 
 Restam **1/8 (12,5%)** da amostra original.
 
-### Aplicações da Radioatividade (ENEM ama contextualizar!)
 
 ## O que Você Precisa Saber?
 | Aplicação | Radiação usada | Detalhe |
@@ -38501,7 +31450,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Ciências Humanas?
 
 ## O que os Candidatos Perguntam?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -38543,13 +31491,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Dicas Práticas?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
 
 ## Estratégias Avançadas para Fisica Moderna no ENEM?
 
@@ -38567,72 +31508,8 @@ O INEP segue um padrão consistente nas questões de Fisica Moderna:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Fisica Moderna não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## Resumo dos Principais Tópicos?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Fisica Moderna
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como se Preparar?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Fisica Moderna
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Por que Isso Importa?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Fisica Moderna
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Aplicar no ENEM?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
 | Tópicos fundamentais | Alta (7-10 questões) | Médio |
@@ -38927,7 +31804,6 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 ## Pontos Mais Importantes?
 | Area | Questoes/dia recomendadas | Foco principal |
@@ -38959,135 +31835,8 @@ O INEP segue um padrão consistente nas questões de Ciencias Humanas Guia Avanc
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Ciencias Humanas Guia Avancado não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## O que os Candidatos Perguntam?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ciencias Humanas Guia Avancado
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégia Recomendada?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ciencias Humanas Guia Avancado
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Dicas Práticas?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ciencias Humanas Guia Avancado
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Resumo dos Principais Tópicos?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ciencias Humanas Guia Avancado
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como se Preparar?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ciencias Humanas Guia Avancado
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Por que Isso Importa?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ciencias Humanas Guia Avancado
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Aplicar no ENEM?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
 | Tópicos fundamentais | Alta (7-10 questões) | Médio |
@@ -39357,87 +32106,6 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 
 
 
-## Pontos Mais Importantes?
-
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-
-## O que os Candidatos Perguntam?
-
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-
-## Estratégia Recomendada?
-
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-
-## Dicas Práticas?
-
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-
-## Resumo dos Principais Tópicos?
-
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-
-## Como se Preparar?
-
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-
 ## Fontes e Referências?
 
 
@@ -39546,15 +32214,15 @@ Para Veterinária, os **pesos do SISU** normalmente são:
 
 | Área | Oportunidades | Salário médio inicial |
 |------|--------------|----------------------|
-| Clínica de pequenos animais | Alta demanda, crescimento constante | R$ 3.500–5.500 |
-| Medicina de grandes animais (bovinos, equinos) | Interior, agronegócio | R$ 4.500–8.000 |
-| Saúde pública / vigilância sanitária | Concursos públicos | R$ 5.000–9.000 |
-| Indústria de alimentos (inspeção) | Frigoríficos, laticínios | R$ 4.000–7.000 |
-| Pesquisa e docência | Pós-graduação necessária | R$ 5.000–10.000+ |
+| Clínica de pequenos animais | Alta demanda, crescimento constante | R\$ 3.500–5.500 |
+| Medicina de grandes animais (bovinos, equinos) | Interior, agronegócio | R\$ 4.500–8.000 |
+| Saúde pública / vigilância sanitária | Concursos públicos | R\$ 5.000–9.000 |
+| Indústria de alimentos (inspeção) | Frigoríficos, laticínios | R\$ 4.000–7.000 |
+| Pesquisa e docência | Pós-graduação necessária | R\$ 5.000–10.000+ |
 | Pet shop e banho/tosa (gestão) | Empreendedorismo | Variável |
 
 ### Mercado pet brasileiro
-O Brasil tem o **2º maior mercado pet do mundo** (atrás dos EUA). Em 2024, o setor movimentou mais de R$ 80 bilhões. A demanda por veterinários de pequenos animais nunca foi tão alta.
+O Brasil tem o **2º maior mercado pet do mundo** (atrás dos EUA). Em 2024, o setor movimentou mais de R\$ 80 bilhões. A demanda por veterinários de pequenos animais nunca foi tão alta.
 
 
 ## Veterinária vs Zootecnia vs Agronomia?
@@ -39638,7 +32306,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Veterinaria Universidades em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Nota de Corte para Veterinária nas Federais em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -39649,12 +32317,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Veterinaria Universidades com interpretacao de texto
+3. Pratique questoes mistas que combinam Nota de Corte para Veterinária nas Federais com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Veterinaria Universidades
+- [ ] Revisei os conceitos fundamentais de Nota de Corte para Veterinária nas Federais
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -39662,48 +32329,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Estratégia Recomendada?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Dicas Práticas?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Como se Preparar?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
 
 ## Fontes e Referências?
 
@@ -39855,7 +32480,6 @@ O ENEM é aplicado em **dois domingos consecutivos**, com provas diferentes em c
 **Por que mais tempo em Matemática?**
 Questões de Matemática exigem cálculos. alguns candidatos levam 5-8 minutos por questão. Gerencie o tempo: se uma questão está levando mais de 5 minutos, marque o que você acha e siga em frente. Volte no final.
 
-### Estratégia para o 2º Dia
 
 
 ## Pontos Mais Importantes?
@@ -39915,26 +32539,6 @@ Questões de Matemática exigem cálculos. alguns candidatos levam 5-8 minutos p
 Dúvidas sobre o funcionamento do ENEM são as mais frequentes entre os estudantes que chegam ao ENEM Pro. Por isso, reunimos as informações mais buscadas com base nas perguntas reais dos usuários da plataforma, filtrando apenas o que o INEP divulga oficialmente.
 
 
-
-
-## Estratégias Avançadas para Biologia Celular no ENEM?
-
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Biologia Celular?
-
-O INEP segue um padrão consistente nas questões de Biologia Celular:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Biologia Celular não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
 
 
 ## Estratégia Recomendada?
@@ -40048,7 +32652,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em todas as áreas?
 
 
 ## O que Voce Precisa Saber Sobre Enem Primeiro Ou Segundo Dia?
@@ -40068,28 +32671,6 @@ O INEP divulga os resultados pelo site do INEP e pelo aplicativo oficial. O gaba
 Sim. Desde que seja dentro do prazo valido do SISU (normalmente 5 anos), voce pode usar notas de edicoes anteriores do ENEM. Mas atencao: o prazo de validade para o ProUni e o FIES pode ser diferente.
 
 ## Por que Isso Importa?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Como Aplicar no ENEM?
 ### Dados Oficiais do ENEM (INEP)
 
 | Aspecto | Informacao |
@@ -40275,7 +32856,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em todas as áreas?
 
 ## Como Funciona na Prática?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -40291,7 +32871,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito 2018 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito de Matemática em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -40302,12 +32882,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito 2018 com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito de Matemática com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Gabarito 2018
+- [ ] Revisei os conceitos fundamentais de Gabarito de Matemática
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -40350,76 +32929,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Matemática?
-
-## Estratégia Recomendada?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Dicas Práticas?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Matemática?
-
-## Resumo dos Principais Tópicos?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Como se Preparar?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Matemática?
-
-## Por que Isso Importa?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Como Aplicar no ENEM?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Matemática?
 
 ## Continue Estudando?
 
@@ -40786,7 +33295,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Matematica 2022 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito Ciências Humanas em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -40797,12 +33306,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Matematica 2022 com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito Ciências Humanas com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Gabarito Matematica 2022
+- [ ] Revisei os conceitos fundamentais de Gabarito Ciências Humanas
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -40863,53 +33371,12 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Ciências Humanas?
 
 ## Resumo dos Principais Tópicos?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
 
-
-## Como se Preparar?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências Humanas?
-
-## Por que Isso Importa?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Como Aplicar no ENEM?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências Humanas?
 
 ## Continue Estudando?
 
@@ -41030,24 +33497,6 @@ Candidatos que leem o texto inteiro antes de olhar as alternativas erram menos d
 
 
 
-## Estratégias Avançadas para Fisica Moderna no ENEM?
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Fisica Moderna?
-
-O INEP segue um padrão consistente nas questões de Fisica Moderna:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Fisica Moderna não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
@@ -41103,35 +33552,12 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Linguagens?
 
 ## Pontos Mais Importantes?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
 
-
-## Estratégia Recomendada?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Linguagens?
-
-## Dicas Práticas?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
 
 ## Continue Estudando?
 
@@ -41184,7 +33610,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Ciências da Natureza?
 `,
   },
   {
@@ -41312,7 +33737,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Veterinaria Universidades em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito de Matemática em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -41323,12 +33748,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Veterinaria Universidades com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito de Matemática com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Veterinaria Universidades
+- [ ] Revisei os conceitos fundamentais de Gabarito de Matemática
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -41412,55 +33836,8 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Matemática?
 
 ## Dicas Práticas?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Resumo dos Principais Tópicos?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Matemática?
-
-## Como se Preparar?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Por que Isso Importa?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Matemática?
-
-## Como Aplicar no ENEM?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
@@ -41624,101 +34001,8 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Ciências da Natureza?
 
 ## Como Funciona na Prática?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Pontos Mais Importantes?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências da Natureza?
-
-## O que os Candidatos Perguntam?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Estratégia Recomendada?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências da Natureza?
-
-## Dicas Práticas?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Resumo dos Principais Tópicos?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências da Natureza?
-
-## Como se Preparar?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Por que Isso Importa?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências da Natureza?
-
-## Como Aplicar no ENEM?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
@@ -41881,120 +34165,8 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Ciências Humanas?
 
 ## Como Funciona na Prática?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Como Interpretar o Gabarito do ENEM 2021?
-
-
-Ter o gabarito em mãos é apenas o primeiro passo. Para extrair o máximo de aprendizado, siga esta sequência:
-
-**1. Confira seus acertos antes de ver o gabarito completo**
-Marque suas respostas sem olhar o gabarito e só depois compare. Isso treina a autocorreção e revela padrões de erro que você não perceberia de outra forma.
-
-**2. Analise cada erro com calma**
-Para cada questão errada, identifique:
-- Erro de conteúdo (não sabia o conceito)
-- Erro de interpretação (leu errado o enunciado)
-- Erro de distrator (foi induzido pela alternativa errada)
-
-Os três têm causas. e soluções. completamente diferentes.
-
-**3. Agrupe os erros por tema**
-Se errou 3 questões de Ciências Humanas com o mesmo tema, é um sinal de lacuna específica. não de despreparo geral. Uma revisão focada de 2 horas nesse tópico vale mais do que reler o caderno inteiro.
-
-## Pontos Mais Importantes?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências Humanas?
-
-## O que os Candidatos Perguntam?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Estratégia Recomendada?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências Humanas?
-
-## Dicas Práticas?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Resumo dos Principais Tópicos?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências Humanas?
-
-## Como se Preparar?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Por que Isso Importa?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências Humanas?
-
-## Como Aplicar no ENEM?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
@@ -42263,22 +34435,6 @@ A taxa de inscrição do ENEM é definida pelo MEC a cada edição. Candidatos c
 Com base nas dúvidas mais frequentes registradas em nossa plataforma, nosso time mapeia anualmente as informações sobre o ENEM mais procuradas pelos candidatos. Isso nos permite atualizar o conteúdo com dados do INEP assim que são divulgados oficialmente, garantindo precisão para quem depende dessas informações.
 
 
-## O que Voce Precisa Saber Sobre Enem Primeiro Ou Segundo Dia?
-
-
-O ENEM acumula muitas informacoes tecnicamente complexas. sistema de notas, inscricao, modalidades de vaga, programas de acesso. Reunimos aqui os pontos mais importantes com base nas perguntas reais dos candidatos.
-
-### As Perguntas Mais Frequentes dos Candidatos
-
-**Qual a diferenca entre nota bruta e nota TRI?**
-A nota bruta seria simplesmente o numero de acertos. A nota TRI (Teoria de Resposta ao Item) leva em conta a dificuldade de cada questao e se o seu padrao de acertos e consistente. Uma questao dificil que voce acerta vale mais do que uma facil.
-
-**Como sao divulgados os resultados?**
-O INEP divulga os resultados pelo site do INEP e pelo aplicativo oficial. O gabarito preliminar sai no dia seguinte a aplicacao. Os resultados finais com as notas individuais saem aproximadamente 60 dias depois da prova.
-
-**Posso usar os resultados de anos anteriores?**
-Sim. Desde que seja dentro do prazo valido do SISU (normalmente 5 anos), voce pode usar notas de edicoes anteriores do ENEM. Mas atencao: o prazo de validade para o ProUni e o FIES pode ser diferente.
-
 ## O que Você Precisa Saber?
 ### Dados Oficiais do ENEM (INEP)
 
@@ -42341,55 +34497,6 @@ Um simulado semanal nao e para aprender. e para medir. Analise os erros do simul
 
 Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
-
-## Pontos Mais Importantes?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Estratégia Recomendada?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
 ## Continue Estudando?
 
@@ -42756,7 +34863,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Quando Sai Resultado em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Quando Sai o Resultado em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -42767,14 +34874,13 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Quando Sai Resultado com interpretacao de texto
+3. Pratique questoes mistas que combinam Quando Sai o Resultado com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 
 ## Como Funciona na Prática?
 
-- [ ] Revisei os conceitos fundamentais de Quando Sai Resultado
+- [ ] Revisei os conceitos fundamentais de Quando Sai o Resultado
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -42782,59 +34888,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-
-## Pontos Mais Importantes?
-
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-
-## Estratégia Recomendada?
-
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
 
 ## Continue Estudando?
@@ -43019,7 +35072,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Sisu Como Funciona em contextos ineditos e situacoes reais
+- Aplicar o conteudo de SISU em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -43030,12 +35083,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Sisu Como Funciona com interpretacao de texto
+3. Pratique questoes mistas que combinam SISU com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Sisu Como Funciona
+- [ ] Revisei os conceitos fundamentais de SISU
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -43043,48 +35095,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Estratégia Recomendada?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Dicas Práticas?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Como se Preparar?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
 
 ## Continue Estudando?
 
@@ -43255,49 +35265,12 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Linguagens?
 
 ## Como Funciona na Prática?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que que
 
-
-## Como Interpretar o Gabarito do ENEM 2021?
-
-
-Ter o gabarito em mãos é apenas o primeiro passo. Para extrair o máximo de aprendizado, siga esta sequência:
-
-**1. Confira seus acertos antes de ver o gabarito completo**
-Marque suas respostas sem olhar o gabarito e só depois compare. Isso treina a autocorreção e revela padrões de erro que você não perceberia de outra forma.
-
-**2. Analise cada erro com calma**
-Para cada questão errada, identifique:
-- Erro de conteúdo (não sabia o conceito)
-- Erro de interpretação (leu errado o enunciado)
-- Erro de distrator (foi induzido pela alternativa errada)
-
-Os três têm causas. e soluções. completamente diferentes.
-
-**3. Agrupe os erros por tema**
-Se errou 3 questões de Linguagens com o mesmo tema, é um sinal de lacuna específica. não de despreparo geral. Uma revisão focada de 2 horas nesse tópico vale mais do que reler o caderno inteiro.
-
-## Pontos Mais Importantes?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Linguagens?
 
 ## O que os Candidatos Perguntam?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -43313,7 +35286,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Linguagens 2021 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de ENEM Treineiro em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -43324,12 +35297,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Linguagens 2021 com interpretacao de texto
+3. Pratique questoes mistas que combinam ENEM Treineiro com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Estratégia Recomendada?
-- [ ] Revisei os conceitos fundamentais de Gabarito Linguagens 2021
+- [ ] Revisei os conceitos fundamentais de ENEM Treineiro
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -43358,94 +35330,6 @@ O INEP divulga os resultados pelo site do INEP e pelo aplicativo oficial. O gaba
 Sim. Desde que seja dentro do prazo valido do SISU (normalmente 5 anos), voce pode usar notas de edicoes anteriores do ENEM. Mas atencao: o prazo de validade para o ProUni e o FIES pode ser diferente.
 
 ## Dicas Práticas?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Resumo dos Principais Tópicos?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Como se Preparar?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Por que Isso Importa?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Como Aplicar no ENEM?
 ### Dados Oficiais do ENEM (INEP)
 
 | Aspecto | Informacao |
@@ -43629,7 +35513,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Ciências da Natureza?
 
 ## Como Funciona na Prática?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -43645,7 +35528,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Ciencias Natureza 2021 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de ProUni em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -43656,12 +35539,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Ciencias Natureza 2021 com interpretacao de texto
+3. Pratique questoes mistas que combinam ProUni com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Gabarito Ciencias Natureza 2021
+- [ ] Revisei os conceitos fundamentais de ProUni
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -43706,25 +35588,6 @@ Os três programas usam a nota do ENEM. com finalidades diferentes:
 ## Dicas Práticas?
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
-
-## Como se Preparar?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
 
 ## Continue Estudando?
 
@@ -43919,7 +35782,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Ciências Humanas?
 
 ## Pontos Mais Importantes?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -43935,7 +35797,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Ciencias Humanas 2021 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Como Estudar Sociologia em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -43946,12 +35808,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Ciencias Humanas 2021 com interpretacao de texto
+3. Pratique questoes mistas que combinam Como Estudar Sociologia com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## O que os Candidatos Perguntam?
-- [ ] Revisei os conceitos fundamentais de Gabarito Ciencias Humanas 2021
+- [ ] Revisei os conceitos fundamentais de Como Estudar Sociologia
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -43977,131 +35838,6 @@ Estudar 2 horas todos os dias e mais eficiente do que estudar 8 horas no fim de 
 Inclua no cronograma dias especificos de revisao do conteudo estudado 7, 14 e 30 dias antes. Isso garante que o que voce aprendeu nao seja esquecido antes da prova.
 
 ## Estratégia Recomendada?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Dicas Práticas?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Resumo dos Principais Tópicos?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Como se Preparar?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Por que Isso Importa?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Como Aplicar no ENEM?
 **4. Simulados semanais como termometro**
 Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
 
@@ -44271,7 +36007,6 @@ A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma 
 | Desenvolvimento 2 | Argumento secundario + evidencia | 7-9 linhas |
 | Conclusao | Retomada da tese + proposta completa | 5-7 linhas |
 
-### Os Erros Mais Comuns que Derrubam a Nota
 
 ## Como Funciona na Prática?
 1. Proposta de intervencao incompleta (sem agente ou modo/meio)
@@ -44289,7 +36024,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Redacao 2024 Tema em contextos ineditos e situacoes reais
+- Aplicar o conteudo de ENEM Digital em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -44300,12 +36035,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Redacao 2024 Tema com interpretacao de texto
+3. Pratique questoes mistas que combinam ENEM Digital com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Redacao 2024 Tema
+- [ ] Revisei os conceitos fundamentais de ENEM Digital
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -44354,27 +36088,6 @@ O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os 
 - **FIES**: financiamento em universidades privadas
 - **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
 
-
-## Dicas Práticas?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
 
 ## Continue Estudando?
 
@@ -44450,8 +36163,8 @@ Porcentagem é base de tudo em Matemática Financeira.
 ![Conceitos essenciais: matematica financeira enem](/images/blog/matematica-financeira-enem-2.svg)
 
 
-Exemplo ENEM: "Um produto custava R$120. Sofreu aumento de 15%. Qual o novo preço?"
-→ 120 × 1,15 = **R$138**
+Exemplo ENEM: "Um produto custava R\$120. Sofreu aumento de 15%. Qual o novo preço?"
+→ 120 × 1,15 = **R\$138**
 
 **Aumento e desconto sucessivos:**
 "Produto com 20% de aumento e depois 20% de desconto."
@@ -44469,9 +36182,9 @@ Onde:
 - i = taxa (em decimal)
 - t = tempo (mesma unidade da taxa)
 
-Exemplo: R$2.000 aplicados a 3% ao mês por 4 meses:
-J = 2000 × 0,03 × 4 = **R$240**
-M = 2000 + 240 = **R$2.240**
+Exemplo: R\$2.000 aplicados a 3% ao mês por 4 meses:
+J = 2000 × 0,03 × 4 = **R\$240**
+M = 2000 + 240 = **R\$2.240**
 
 O ENEM raramente cobra juros simples puros. geralmente aparece como comparação com juros compostos ou em contexto de multa/mora.
 
@@ -44479,8 +36192,8 @@ O ENEM raramente cobra juros simples puros. geralmente aparece como comparação
 
 Fórmula: **M = C × (1 + i)ᵗ**
 
-Exemplo clássico ENEM: "Capital de R$5.000 aplicado a 10% ao ano por 2 anos em regime de juros compostos."
-M = 5000 × (1,10)² = 5000 × 1,21 = **R$6.050**
+Exemplo clássico ENEM: "Capital de R\$5.000 aplicado a 10% ao ano por 2 anos em regime de juros compostos."
+M = 5000 × (1,10)² = 5000 × 1,21 = **R\$6.050**
 
 **Dica:** No ENEM, valores de (1+i)ᵗ são dados na tabela da prova. Não precisa calcular potências difíceis. basta localizar o valor na tabela e multiplicar.
 
@@ -44501,9 +36214,9 @@ Fórmula da parcela: P = C × [i(1+i)ᵗ] / [(1+i)ᵗ − 1]
 Na prova, o valor de (1+i)ᵗ é fornecido. Você substitui e calcula.
 
 **2. Raciocínio simples de total pago:**
-"Financiou R$30.000 em 60 prestações de R$700. Quanto pagou de juros?"
-Total pago: 60 × 700 = R$42.000
-Juros: 42.000 − 30.000 = **R$12.000**
+"Financiou R\$30.000 em 60 prestações de R\$700. Quanto pagou de juros?"
+Total pago: 60 × 700 = R\$42.000
+Juros: 42.000 − 30.000 = **R\$12.000**
 
 ## Variação Percentual?
 
@@ -44511,7 +36224,7 @@ Muito cobrado em contexto de salários, inflação, e PIB.
 
 Fórmula: variação = (valor final − valor inicial) / valor inicial × 100
 
-"O salário passou de R$2.400 para R$2.880. Qual o aumento percentual?"
+"O salário passou de R\$2.400 para R\$2.880. Qual o aumento percentual?"
 (2.880 − 2.400) / 2.400 × 100 = **20%**
 
 ## Estratégia Para a Prova?
@@ -44578,7 +36291,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Linguagens 2022 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Matemática Financeira em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -44589,11 +36302,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Linguagens 2022 com interpretacao de texto
+3. Pratique questoes mistas que combinam Matemática Financeira com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Gabarito Linguagens 2022
+- [ ] Revisei os conceitos fundamentais de Matemática Financeira
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as c
 
@@ -44758,10 +36471,10 @@ P = V × i = R × i² = V² / R
 Energia elétrica: E = P × t (em watts e segundos → Joules)
 Na conta de luz: E = P × t em kWh (1 kWh = 3.600.000 J)
 
-**Questão tipo ENEM:** "Chuveiro de 5.400 W ligado 15 min/dia durante 30 dias. Quanto gasta se o kWh custa R$0,80?"
+**Questão tipo ENEM:** "Chuveiro de 5.400 W ligado 15 min/dia durante 30 dias. Quanto gasta se o kWh custa R\$0,80?"
 P = 5,4 kW | t = 0,25 h/dia × 30 = 7,5 h
 E = 5,4 × 7,5 = 40,5 kWh
-Custo = 40,5 × 0,80 = **R$32,40**
+Custo = 40,5 × 0,80 = **R\$32,40**
 
 
 ## Estratégia de Estudo?
@@ -44802,7 +36515,6 @@ O INEP segue um padrão consistente nas questões de Eletricidade:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Eletricidade não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
@@ -44824,68 +36536,6 @@ A maioria dos erros em Eletricidade não é por falta de conhecimento. é por in
 
 Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
 
-
-## Como Funciona na Prática?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Eletricidade
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Pontos Mais Importantes?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Eletricidade
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## O que os Candidatos Perguntam?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Eletricidade
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
 
 ## Continue Estudando?
 
@@ -45068,42 +36718,6 @@ O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os 
 - **ProUni**: bolsas em universidades priv
 
 
-## O que Voce Precisa Saber Sobre Enem Treineiro?
-
-
-O ENEM acumula muitas informacoes tecnicamente complexas. sistema de notas, inscricao, modalidades de vaga, programas de acesso. Reunimos aqui os pontos mais importantes com base nas perguntas reais dos candidatos.
-
-### As Perguntas Mais Frequentes dos Candidatos
-
-**Qual a diferenca entre nota bruta e nota TRI?**
-A nota bruta seria simplesmente o numero de acertos. A nota TRI (Teoria de Resposta ao Item) leva em conta a dificuldade de cada questao e se o seu pa
-
-
-## Estratégias Avançadas para Eletricidade no ENEM?
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Eletricidade?
-
-O INEP segue um padrão consistente nas questões de Eletricidade:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Eletricidade não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Bai
-
-
 ## Como Montar um Plano de Estudos que Funciona para o ENEM?
 
 
@@ -45167,7 +36781,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Eletricidade em contextos ineditos e situacoes reais
+- Aplicar o conteudo de ENEM em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -45178,12 +36792,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Eletricidade com interpretacao de texto
+3. Pratique questoes mistas que combinam ENEM com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## O que os Candidatos Perguntam?
-- [ ] Revisei os conceitos fundamentais de Eletricidade
+- [ ] Revisei os conceitos fundamentais de ENEM
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -45221,7 +36834,7 @@ O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os 
 
 
 ## Resumo dos Principais Tópicos?
-- [ ] Revisei os conceitos fundamentais de Enem Treineiro
+- [ ] Revisei os conceitos fundamentais de ENEM
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -45230,22 +36843,6 @@ O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.adas
 - **FIES**: financiame
 
-
-## O que Voce Precisa Saber Sobre Enem Digital Prova Computador?
-
-
-O ENEM acumula muitas informacoes tecnicamente complexas. sistema de notas, inscricao, modalidades de vaga, programas de acesso. Reunimos aqui os pontos mais importantes com base nas perguntas reais dos candidatos.
-
-### As Perguntas Mais Frequentes dos Candidatos
-
-**Qual a diferenca entre nota bruta e nota TRI?**
-A nota bruta seria simplesmente o numero de acertos. A nota TRI (Teoria de Resposta ao Item) leva em conta a dificuldade de cada questao e se o seu padrao de acertos e consistente. Uma questao dificil que voce acerta vale mais do que uma facil.
-
-**Como sao divulgados os resultados?**
-O INEP divulga os resultados pelo site do INEP e pelo aplicativo oficial. O gabarito preliminar sai no dia seguinte a aplicacao. Os resultados finais com as notas individuais saem aproximadamente 60 dias depois da prova.
-
-**Posso usar os resultados de anos anteriores?**
-Sim. Desde que seja dentro do prazo valido do SISU (normalmente 5 anos), voce pode usar notas de edicoes anteriores do ENEM. Mas atencao: o prazo de validade para o ProUni e o FIES pode ser diferente.
 
 ## Como se Preparar?
 ### Dados Oficiais do ENEM (INEP)
@@ -45270,35 +36867,13 @@ O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os 
 
 
 ## Por que Isso Importa?
-- [ ] Revisei os conceitos fundamentais de Enem Digital Prova Computador
+- [ ] Revisei os conceitos fundamentais de ENEM
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
 - [ ] Estou familiarizado com o formato e o tempo da prova
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.nto em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
-
-
-## Como Aplicar no ENEM?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
 - **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
 
 
@@ -45598,28 +37173,6 @@ Os três programas usam a nota do ENEM. com finalidades diferentes:
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
 
-## Pontos Mais Importantes?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Estratégia Recomendada?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
 ## Fontes e Referências?
 
 
@@ -45683,7 +37236,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Linguagens?
 
 ## Como se Preparar?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -45699,7 +37251,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Linguagens 2021 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Nota em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -45710,9 +37262,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Linguagens 2021 com interpretacao de texto
+3. Pratique questoes mistas que combinam Nota com interpretacao de texto
 
-### Checklist de Preparacao Final
 `,
   },
   {
@@ -45839,7 +37390,6 @@ O INEP segue um padrão consistente nas questões de Texto Dissertativo Argument
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Texto Dissertativo Argumentativo não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## Como Funciona na Prática?
 | Tema | Frequência no ENEM | Peso na TRI |
@@ -45860,23 +37410,6 @@ A maioria dos erros em Texto Dissertativo Argumentativo não é por falta de con
 **Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
 
 Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégias Avançadas para Matematica Financeira no ENEM?
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Matematica Financeira?
-
-O INEP segue um padrão consistente nas questões de Matematica Financeira:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Matematica Financeira não é por falta de conhecimento. é por interpretar errado o q
 
 
 ## Como Interpretar o Gabarito do ENEM 2021?
@@ -45913,7 +37446,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Matemática?
 
 ## O que os Candidatos Perguntam?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -45929,7 +37461,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Matematica 2021 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Texto Dissertativo-Argumentativo em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -45976,21 +37508,20 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em todas as áreas?
 
 ## Resumo dos Principais Tópicos?
-- [ ] Revisei os conceitos fundamentais de Gabarito 2016
+- [ ] Revisei os conceitos fundamentais de Texto Dissertativo-Argumentativo
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
 - [ ] Estou familiarizado com o formato e o tempo da prova
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Matematica 2021 com interpretacao de texto
+3. Pratique questoes mistas que combinam Texto Dissertativo-Argumentativo com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Gabarito Matematica 2021
+- [ ] Revisei os conceitos fundamentais de Texto Dissertativo-Argumentativo
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -46023,7 +37554,7 @@ Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é
 
 
 ## Como Aplicar no ENEM?
-- [ ] Revisei os conceitos fundamentais de Matematica Financeira
+- [ ] Revisei os conceitos fundamentais de Texto Dissertativo-Argumentativo
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -46283,22 +37814,6 @@ No ENEM Pro, estudantes que praticam questões reais. em vez de exercícios de a
 Com base nas dúvidas mais frequentes registradas em nossa plataforma, nosso time mapeia anualmente as informações sobre o ENEM mais procuradas pelos candidatos. Isso nos permite atualizar o conteúdo com dados do INEP assim que são divulgados oficialmente, garantindo precisão para quem depende dessas informações.
 
 
-## O que Voce Precisa Saber Sobre Enem Segunda Aplicacao 2026?
-
-
-O ENEM acumula muitas informacoes tecnicamente complexas. sistema de notas, inscricao, modalidades de vaga, programas de acesso. Reunimos aqui os pontos mais importantes com base nas perguntas reais dos candidatos.
-
-### As Perguntas Mais Frequentes dos Candidatos
-
-**Qual a diferenca entre nota bruta e nota TRI?**
-A nota bruta seria simplesmente o numero de acertos. A nota TRI (Teoria de Resposta ao Item) leva em conta a dificuldade de cada questao e se o seu padrao de acertos e consistente. Uma questao dificil que voce acerta vale mais do que uma facil.
-
-**Como sao divulgados os resultados?**
-O INEP divulga os resultados pelo site do INEP e pelo aplicativo oficial. O gabarito preliminar sai no dia seguinte a aplicacao. Os resultados finais com as notas individuais saem aproximadamente 60 dias depois da prova.
-
-**Posso usar os resultados de anos anteriores?**
-Sim. Desde que seja dentro do prazo valido do SISU (normalmente 5 anos), voce pode usar notas de edicoes anteriores do ENEM. Mas atencao: o prazo de validade para o ProUni e o FIES pode ser diferente.
-
 ## O que Você Precisa Saber?
 ### Dados Oficiais do ENEM (INEP)
 
@@ -46329,7 +37844,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Enem Segunda Aplicacao 2026 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Banco de Questões em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -46340,12 +37855,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Enem Segunda Aplicacao 2026 com interpretacao de texto
+3. Pratique questoes mistas que combinam Banco de Questões com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Enem Segunda Aplicacao 2026
+- [ ] Revisei os conceitos fundamentais de Banco de Questões
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -46376,7 +37890,6 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 ## Pontos Mais Importantes?
 | Area | Questoes/dia recomendadas | Foco principal |
@@ -46391,33 +37904,6 @@ A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as
 
 Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
 
-
-## Estratégia Recomendada?
-| Area | Questoes/dia recomendadas | Foco principal |
-|------|--------------------------|----------------|
-| Matematica | 5-8 | Logica e calculo |
-| Linguagens | 5-8 | Interpretacao |
-| Ciencias Natureza | 5-8 | Conceitos + aplicacao |
-| Ciencias Humanas | 5-8 | Contextualizacao historica |
-| Redacao | 1 texto/semana | Competencias 3 e 5 |
-
-### Por que Questoes Reais Superam Simulados Montados?
-
-Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
-
-
-## Dicas Práticas?
-| Area | Questoes/dia recomendadas | Foco principal |
-|------|--------------------------|----------------|
-| Matematica | 5-8 | Logica e calculo |
-| Linguagens | 5-8 | Interpretacao |
-| Ciencias Natureza | 5-8 | Conceitos + aplicacao |
-| Ciencias Humanas | 5-8 | Contextualizacao historica |
-| Redacao | 1 texto/semana | Competencias 3 e 5 |
-
-### Por que Questoes Reais Superam Simulados Montados?
-
-Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
 
 ## Fontes e Referências?
 
@@ -46535,24 +38021,6 @@ Dúvidas sobre o funcionamento do ENEM são as mais frequentes entre os estudant
 
 
 
-## Estratégias Avançadas para Eletricidade no ENEM?
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Eletricidade?
-
-O INEP segue um padrão consistente nas questões de Eletricidade:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Eletricidade não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
@@ -46604,7 +38072,6 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 ## Como Funciona na Prática?
 | Area | Questoes/dia recomendadas | Foco principal |
@@ -46620,31 +38087,8 @@ A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as
 Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
 
 
-## Revisao Rapida: Pontos-Chave para Fixar
-
-
-Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina estes pontos essenciais:
-
-**O que voce deve ser capaz de fazer:**
-- Identificar o tema central de uma questao antes de calcular ou analisar
-- Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Banco De Questoes Gratis em contextos ineditos e situacoes reais
-- Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
-
-**Sinais de que voce esta pronto:**
-- Acerta mais de 70% das questoes de nivel medio do ENEM
-- Consegue explicar por que cada alternativa errada esta errada
-- Termina a prova com tempo para revisao
-
-**O que fazer se ainda ha lacunas:**
-1. Volte aos topicos em que errou mais de 2 questoes seguidas
-2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Banco De Questoes Gratis com interpretacao de texto
-
-### Checklist de Preparacao Final
-
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Banco De Questoes Gratis
+- [ ] Revisei os conceitos fundamentais de ENEM vs Vestibular
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -46653,7 +38097,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.az de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Eletricidade em contextos ineditos e situacoes reais
+- Aplicar o conteudo de ENEM vs Vestibular em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -46665,11 +38109,11 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Eletricidade com interpretacao de texto
+3. Pratique questoes mistas que combinam ENEM vs Vestibular com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Eletricidade
+- [ ] Revisei os conceitos fundamentais de ENEM vs Vestibular
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -46726,7 +38170,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Ciências Humanas?
 
 ## Dicas Práticas?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -46735,7 +38178,7 @@ Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apen
 
 
 ## Resumo dos Principais Tópicos?
-- [ ] Revisei os conceitos fundamentais de Gabarito Ciencias Humanas 2022
+- [ ] Revisei os conceitos fundamentais de ENEM vs Vestibular
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -46749,7 +38192,6 @@ Inclua no cronograma dias especificos de revisao do conteudo estudado 7, 14 e 30
 **4. Simulados semanais como termometro**
 Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
 
-### Distribuicao Recomendada de Tempo por Area
 
 ## Como se Preparar?
 | Area do ENEM | % do tempo de estudo | Justificativa |
@@ -46988,17 +38430,6 @@ A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma 
 Com base nas dúvidas mais frequentes registradas em nossa plataforma, nosso time mapeia anualmente as informações sobre o ENEM mais procuradas pelos candidatos. Isso nos permite atualizar o conteúdo com dados do INEP assim que são divulgados oficialmente, garantindo precisão para quem depende dessas informações.
 
 
-## O que Voce Precisa Saber Sobre Enem Vs Vestibular Diferenca?
-
-
-O ENEM acumula muitas informacoes tecnicamente complexas — sistema de notas, inscricao, modalidades de vaga, programas de acesso. Reunimos aqui os pontos mais importantes com base nas perguntas reais dos candidatos.
-
-### As Perguntas Mais Frequentes dos Candidatos
-
-**Qual a diferenca entre nota bruta e nota TRI?**
-A nota bruta seria simplesmente o numero de acertos. A nota TRI (Teoria de Resposta ao Item) leva em conta a dificu
-
-
 ## Como Interpretar o Gabarito do ENEM 2021?
 
 
@@ -47033,7 +38464,6 @@ O ENEM não usa pontuação bruta — usa a TRI (Teoria de Resposta ao Item). Um
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Ciências da Natureza?
 
 ## Estratégia Recomendada?
 As questões do ENEM não testam memorização — testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -47049,7 +38479,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Ciencias Natureza 2021 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Introdução da Redação em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -47060,12 +38490,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Ciencias Natureza 2021 com interpretacao de texto
+3. Pratique questoes mistas que combinam Introdução da Redação com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Dicas Práticas?
-- [ ] Revisei os conceitos fundamentais de Gabarito Ciencias Natureza 2021
+- [ ] Revisei os conceitos fundamentais de Introdução da Redação
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -47293,22 +38722,6 @@ O ENEM adora cobrar interpretação de gráficos:
 
 
 
-## O que Voce Precisa Saber Sobre Enem Digital Prova Computador?
-
-
-O ENEM acumula muitas informacoes tecnicamente complexas. sistema de notas, inscricao, modalidades de vaga, programas de acesso. Reunimos aqui os pontos mais importantes com base nas perguntas reais dos candidatos.
-
-### As Perguntas Mais Frequentes dos Candidatos
-
-**Qual a diferenca entre nota bruta e nota TRI?**
-A nota bruta seria simplesmente o numero de acertos. A nota TRI (Teoria de Resposta ao Item) leva em conta a dificuldade de cada questao e se o seu padrao de acertos e consistente. Uma questao dificil que voce acerta vale mais do que uma facil.
-
-**Como sao divulgados os resultados?**
-O INEP divulga os resultados pelo site do INEP e pelo aplicativo oficial. O gabarito preliminar sai no dia seguinte a aplicacao. Os resultados finais com as notas individuais saem aproximadamente 60 dias depois da prova.
-
-**Posso usar os resultados de anos anteriores?**
-Sim. Desde que seja dentro do prazo valido do SISU (normalmente 5 anos), voce pode usar notas de edicoes anteriores do ENEM. Mas atencao: o prazo de validade para o ProUni e o FIES pode ser diferente.
-
 ## O que Você Precisa Saber?
 ### Dados Oficiais do ENEM (INEP)
 
@@ -47339,7 +38752,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Enem Digital Prova Computador em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Cinemática em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -47350,12 +38763,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Enem Digital Prova Computador com interpretacao de texto
+3. Pratique questoes mistas que combinam Cinemática com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Enem Digital Prova Computador
+- [ ] Revisei os conceitos fundamentais de Cinemática
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -47380,156 +38792,8 @@ O INEP segue um padrão consistente nas questões de Cinematica:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Cinematica não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## Pontos Mais Importantes?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Cinematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## O que os Candidatos Perguntam?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Cinematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégia Recomendada?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Cinematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Dicas Práticas?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Cinematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Resumo dos Principais Tópicos?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Cinematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como se Preparar?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Cinematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Por que Isso Importa?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Cinematica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Aplicar no ENEM?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
 | Tópicos fundamentais | Alta (7-10 questões) | Médio |
@@ -47690,22 +38954,6 @@ O ENEM cobra principalmente em contexto de engenharia civil (fendas em trilhos, 
 
 
 
-## O que Voce Precisa Saber Sobre Enem Segunda Aplicacao 2026?
-
-
-O ENEM acumula muitas informacoes tecnicamente complexas. sistema de notas, inscricao, modalidades de vaga, programas de acesso. Reunimos aqui os pontos mais importantes com base nas perguntas reais dos candidatos.
-
-### As Perguntas Mais Frequentes dos Candidatos
-
-**Qual a diferenca entre nota bruta e nota TRI?**
-A nota bruta seria simplesmente o numero de acertos. A nota TRI (Teoria de Resposta ao Item) leva em conta a dificuldade de cada questao e se o seu padrao de acertos e consistente. Uma questao dificil que voce acerta vale mais do que uma facil.
-
-**Como sao divulgados os resultados?**
-O INEP divulga os resultados pelo site do INEP e pelo aplicativo oficial. O gabarito preliminar sai no dia seguinte a aplicacao. Os resultados finais com as notas individuais saem aproximadamente 60 dias depois da prova.
-
-**Posso usar os resultados de anos anteriores?**
-Sim. Desde que seja dentro do prazo valido do SISU (normalmente 5 anos), voce pode usar notas de edicoes anteriores do ENEM. Mas atencao: o prazo de validade para o ProUni e o FIES pode ser diferente.
-
 ## O que Você Precisa Saber?
 ### Dados Oficiais do ENEM (INEP)
 
@@ -47736,7 +38984,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Enem Segunda Aplicacao 2026 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Termodinâmica em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -47747,12 +38995,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Enem Segunda Aplicacao 2026 com interpretacao de texto
+3. Pratique questoes mistas que combinam Termodinâmica com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Enem Segunda Aplicacao 2026
+- [ ] Revisei os conceitos fundamentais de Termodinâmica
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -47795,7 +39042,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em todas as áreas?
 
 ## O que os Candidatos Perguntam?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -47804,7 +39050,7 @@ Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apen
 
 
 ## Estratégia Recomendada?
-- [ ] Revisei os conceitos fundamentais de Gabarito 2016
+- [ ] Revisei os conceitos fundamentais de Termodinâmica
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -47829,93 +39075,8 @@ O INEP segue um padrão consistente nas questões de Termodinamica:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Termodinamica não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## Dicas Práticas?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Termodinamica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Resumo dos Principais Tópicos?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Termodinamica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como se Preparar?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Termodinamica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Por que Isso Importa?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Termodinamica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Aplicar no ENEM?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
 | Tópicos fundamentais | Alta (7-10 questões) | Médio |
@@ -48100,7 +39261,6 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 ## O que Você Precisa Saber?
 | Area | Questoes/dia recomendadas | Foco principal |
@@ -48124,7 +39284,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Banco De Questoes Gratis em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Ecologia em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -48135,12 +39295,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Banco De Questoes Gratis com interpretacao de texto
+3. Pratique questoes mistas que combinam Ecologia com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Banco De Questoes Gratis
+- [ ] Revisei os conceitos fundamentais de Ecologia
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -48165,156 +39324,8 @@ O INEP segue um padrão consistente nas questões de Ecologia:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Ecologia não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## Pontos Mais Importantes?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ecologia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## O que os Candidatos Perguntam?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ecologia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégia Recomendada?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ecologia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Dicas Práticas?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ecologia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Resumo dos Principais Tópicos?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ecologia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como se Preparar?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ecologia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Por que Isso Importa?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Ecologia
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Aplicar no ENEM?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
 | Tópicos fundamentais | Alta (7-10 questões) | Médio |
@@ -48492,198 +39503,8 @@ O INEP segue um padrão consistente nas questões de Tabela Periodica:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Tabela Periodica não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## O que Você Precisa Saber?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Tabela Periodica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Funciona na Prática?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Tabela Periodica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Pontos Mais Importantes?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Tabela Periodica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## O que os Candidatos Perguntam?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Tabela Periodica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégia Recomendada?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Tabela Periodica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Dicas Práticas?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Tabela Periodica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Resumo dos Principais Tópicos?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Tabela Periodica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como se Preparar?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Tabela Periodica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Por que Isso Importa?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Tabela Periodica
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Aplicar no ENEM?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
 | Tópicos fundamentais | Alta (7-10 questões) | Médio |
@@ -48869,198 +39690,8 @@ O INEP segue um padrão consistente nas questões de Reacoes Quimicas:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Reacoes Quimicas não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## O que Você Precisa Saber?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Reacoes Quimicas
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Funciona na Prática?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Reacoes Quimicas
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Pontos Mais Importantes?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Reacoes Quimicas
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## O que os Candidatos Perguntam?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Reacoes Quimicas
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégia Recomendada?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Reacoes Quimicas
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Dicas Práticas?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Reacoes Quimicas
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Resumo dos Principais Tópicos?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Reacoes Quimicas
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como se Preparar?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Reacoes Quimicas
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Por que Isso Importa?
-| Tema | Frequência no ENEM | Peso na TRI |
-|------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
-
-### Plano de Revisão em 30 Dias para Reacoes Quimicas
-
-**Semana 1:** Mapa mental dos principais temas. Identifique onde estão suas lacunas com 20 questões diagnósticas.
-
-**Semana 2:** Foque nos temas com mais questões no ENEM (alta frequência). Pratique 10 questões por tema.
-
-**Semana 3:** Avance para aplicações práticas e questões interdisciplinares. Simule a pressão do tempo (45 min para 10 questões).
-
-**Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
-
-Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Como Aplicar no ENEM?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
 | Tópicos fundamentais | Alta (7-10 questões) | Médio |
@@ -49124,7 +39755,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Reacoes Quimicas em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Reações Químicas em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -49135,9 +39766,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Reacoes Quimicas com interpretacao de texto
+3. Pratique questoes mistas que combinam Reações Químicas com interpretacao de texto
 
-### Checklist de Preparacao Final
 `,
   },
   {
@@ -49270,7 +39900,6 @@ A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma 
 | Desenvolvimento 2 | Argumento secundario + evidencia | 7-9 linhas |
 | Conclusao | Retomada da tese + proposta completa | 5-7 linhas |
 
-### Os Erros Mais Comuns que Derrubam a Nota
 
 ## Como Funciona na Prática?
 1. Proposta de intervencao incompleta (sem agente ou modo/meio)
@@ -49279,24 +39908,6 @@ A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma 
 4. Fogir do tema nos paragrafos de desenvolvimento
 5. Introducao que apenas repete os textos motivadores
 
-
-## Estratégias Avançadas para Termodinamica no ENEM?
-
-
-Dominar o conteúdo é necessário — mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Termodinamica?
-
-O INEP segue um padrão consistente nas questões de Termodinamica:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica — isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Termodinamica não é por falta de conhecimento — é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
 
 ## Pontos Mais Importantes?
 | Tema | Frequência no ENEM | Peso na TRI |
@@ -49312,24 +39923,6 @@ A maioria dos erros em Termodinamica não é por falta de conhecimento — é po
 
 **Semana 2:** Foque nos temas com mais questões no ENEM
 
-
-## Estratégias Avançadas para Tabela Periodica no ENEM?
-
-
-Dominar o conteúdo é necessário — mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Tabela Periodica?
-
-O INEP segue um padrão consistente nas questões de Tabela Periodica:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica — isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Tabela Periodica não é por falta de conhecimento — é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
 
 ## O que os Candidatos Perguntam?
 | Tema | Frequência no ENEM | Peso na TRI |
@@ -49360,7 +39953,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Tabela Periodica em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Quanto Vale a Redação em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -49371,12 +39964,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Tabela Periodica com interpretacao de texto
+3. Pratique questoes mistas que combinam Quanto Vale a Redação com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Estratégia Recomendada?
-- [ ] Revisei os conceitos fundamentais de Tabela Periodica
+- [ ] Revisei os conceitos fundamentais de Quanto Vale a Redação
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -49392,65 +39984,13 @@ Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é
 
 
 ## Dicas Práticas?
-- [ ] Revisei os conceitos fundamentais de Termodinamica
+- [ ] Revisei os conceitos fundamentais de Quanto Vale a Redação
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
 - [ ] Estou familiarizado com o formato e o tempo da prova
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar — e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
-
-
-## Resumo dos Principais Tópicos?
-**Competencia 4 — Coesao textual (200 pts)**
-Use conectivos variados e adequados. Evite repeticoes excessivas de palavras. Garanta que cada paragrafo se conecta ao anterior e prepara o seguinte.
-
-**Competencia 5 — Proposta de intervencao (200 pts)**
-A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma proposta generica como "o governo deve agir" perde pontos. Uma proposta especifica como "o Ministerio da Educacao deve implementar X, por meio de Y, com o objetivo de Z" pontua mais.
-
-### Estrutura Recomendada
-
-| Paragrafo | Conteudo | Extensao ideal |
-|-----------|---------|----------------|
-| Introducao | Contextualizacao + tese | 4-6 linhas |
-| Desenvolvimento 1 | Argumento principal + evidencia | 7-9 linhas |
-| Desenvolvimento 2 | Argumento secundario + evidencia | 7-9 linhas |
-| Conclusao | Retomada da tese + proposta completa | 5-7 linhas |
-
-### Os Erros Mais Comuns que Derrubam a Nota
-
-## Como se Preparar?
-1. Proposta de intervencao incompleta (sem agente ou modo/meio)
-2. Argumentos sem desenvolvimento (apenas afirmar sem explicar)
-3. Repertorio socio-cultural desconexo do argumento
-4. Fogir do tema nos paragrafos de desenvolvimento
-5. Introducao que apenas repete os textos motivadores
-
-
-## Por que Isso Importa?
-**Competencia 4 — Coesao textual (200 pts)**
-Use conectivos variados e adequados. Evite repeticoes excessivas de palavras. Garanta que cada paragrafo se conecta ao anterior e prepara o seguinte.
-
-**Competencia 5 — Proposta de intervencao (200 pts)**
-A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma proposta generica como "o governo deve agir" perde pontos. Uma proposta especifica como "o Ministerio da Educacao deve implementar X, por meio de Y, com o objetivo de Z" pontua mais.
-
-### Estrutura Recomendada
-
-| Paragrafo | Conteudo | Extensao ideal |
-|-----------|---------|----------------|
-| Introducao | Contextualizacao + tese | 4-6 linhas |
-| Desenvolvimento 1 | Argumento principal + evidencia | 7-9 linhas |
-| Desenvolvimento 2 | Argumento secundario + evidencia | 7-9 linhas |
-| Conclusao | Retomada da tese + proposta completa | 5-7 linhas |
-
-### Os Erros Mais Comuns que Derrubam a Nota
-
-## Como Aplicar no ENEM?
-1. Proposta de intervencao incompleta (sem agente ou modo/meio)
-2. Argumentos sem desenvolvimento (apenas afirmar sem explicar)
-3. Repertorio socio-cultural desconexo do argumento
-4. Fogir do tema nos paragrafos de desenvolvimento
-5. Introducao que apenas repete os textos motivadores
 
 
 ## Fontes e Referências?
@@ -49724,7 +40264,6 @@ O INEP segue um padrão consistente nas questões de Como Calcular Media:
 **Leia o enunciado duas vezes antes de calcular ou escolher**
 A maioria dos erros em Como Calcular Media não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
 
-### Distribuição Típica de Questões por Tema
 
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
@@ -49745,18 +40284,6 @@ A maioria dos erros em Como Calcular Media não é por falta de conhecimento. é
 **Semana 4:** Revisão geral com questões das últimas 3 edições do ENEM. Priorize questões que você errou nas semanas anteriores.
 
 Praticar com questões reais do ENEM Pro, organizadas por tema e dificuldade, é a forma mais eficiente de implementar esse plano.
-
-
-## Estratégias Avançadas para Cinematica no ENEM?
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Cinematica?
-
-O INEP segue um padrão consistente nas questões de Cinematica:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico
 
 
 ## Como Montar um Plano de Estudos que Funciona para o ENEM?
@@ -49808,7 +40335,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Enem 2026 O Que Mudou em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Como Calcular a Média em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -49819,12 +40346,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Enem 2026 O Que Mudou com interpretacao de texto
+3. Pratique questoes mistas que combinam Como Calcular a Média com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Enem 2026 O Que Mudou
+- [ ] Revisei os conceitos fundamentais de Como Calcular a Média
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -49984,7 +40510,6 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 ## O que Você Precisa Saber?
 | Area | Questoes/dia recomendadas | Foco principal |
@@ -50008,7 +40533,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Questoes De Matematica em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Questões de Matemática em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -50019,12 +40544,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Questoes De Matematica com interpretacao de texto
+3. Pratique questoes mistas que combinam Questões de Matemática com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Questoes De Matematica
+- [ ] Revisei os conceitos fundamentais de Questões de Matemática
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -50032,47 +40556,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Pontos Mais Importantes?
-| Area | Questoes/dia recomendadas | Foco principal |
-|------|--------------------------|----------------|
-| Matematica | 5-8 | Logica e calculo |
-| Linguagens | 5-8 | Interpretacao |
-| Ciencias Natureza | 5-8 | Conceitos + aplicacao |
-| Ciencias Humanas | 5-8 | Contextualizacao historica |
-| Redacao | 1 texto/semana | Competencias 3 e 5 |
-
-### Por que Questoes Reais Superam Simulados Montados?
-
-Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
-
-
-## Estratégia Recomendada?
-| Area | Questoes/dia recomendadas | Foco principal |
-|------|--------------------------|----------------|
-| Matematica | 5-8 | Logica e calculo |
-| Linguagens | 5-8 | Interpretacao |
-| Ciencias Natureza | 5-8 | Conceitos + aplicacao |
-| Ciencias Humanas | 5-8 | Contextualizacao historica |
-| Redacao | 1 texto/semana | Competencias 3 e 5 |
-
-### Por que Questoes Reais Superam Simulados Montados?
-
-Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
-
-
-## Dicas Práticas?
-| Area | Questoes/dia recomendadas | Foco principal |
-|------|--------------------------|----------------|
-| Matematica | 5-8 | Logica e calculo |
-| Linguagens | 5-8 | Interpretacao |
-| Ciencias Natureza | 5-8 | Conceitos + aplicacao |
-| Ciencias Humanas | 5-8 | Contextualizacao historica |
-| Redacao | 1 texto/semana | Competencias 3 e 5 |
-
-### Por que Questoes Reais Superam Simulados Montados?
-
-Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
 
 ## Fontes e Referências?
 
@@ -50195,24 +40678,6 @@ Em nossa plataforma, analisamos quais tópicos geram mais dúvidas e erros entre
 
 
 
-## Estratégias Avançadas para Ecologia no ENEM?
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Ecologia?
-
-O INEP segue um padrão consistente nas questões de Ecologia:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Ecologia não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
-
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
@@ -50242,7 +40707,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Ecologia em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Questões de Física em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -50253,12 +40718,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Ecologia com interpretacao de texto
+3. Pratique questoes mistas que combinam Questões de Física com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Ecologia
+- [ ] Revisei os conceitos fundamentais de Questões de Física
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -50289,79 +40753,8 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 ## Pontos Mais Importantes?
-| Area | Questoes/dia recomendadas | Foco principal |
-|------|--------------------------|----------------|
-| Matematica | 5-8 | Logica e calculo |
-| Linguagens | 5-8 | Interpretacao |
-| Ciencias Natureza | 5-8 | Conceitos + aplicacao |
-| Ciencias Humanas | 5-8 | Contextualizacao historica |
-| Redacao | 1 texto/semana | Competencias 3 e 5 |
-
-### Por que Questoes Reais Superam Simulados Montados?
-
-Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
-
-
-## O que os Candidatos Perguntam?
-| Area | Questoes/dia recomendadas | Foco principal |
-|------|--------------------------|----------------|
-| Matematica | 5-8 | Logica e calculo |
-| Linguagens | 5-8 | Interpretacao |
-| Ciencias Natureza | 5-8 | Conceitos + aplicacao |
-| Ciencias Humanas | 5-8 | Contextualizacao historica |
-| Redacao | 1 texto/semana | Competencias 3 e 5 |
-
-### Por que Questoes Reais Superam Simulados Montados?
-
-Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
-
-
-## Estratégia Recomendada?
-| Area | Questoes/dia recomendadas | Foco principal |
-|------|--------------------------|----------------|
-| Matematica | 5-8 | Logica e calculo |
-| Linguagens | 5-8 | Interpretacao |
-| Ciencias Natureza | 5-8 | Conceitos + aplicacao |
-| Ciencias Humanas | 5-8 | Contextualizacao historica |
-| Redacao | 1 texto/semana | Competencias 3 e 5 |
-
-### Por que Questoes Reais Superam Simulados Montados?
-
-Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
-
-
-## Dicas Práticas?
-| Area | Questoes/dia recomendadas | Foco principal |
-|------|--------------------------|----------------|
-| Matematica | 5-8 | Logica e calculo |
-| Linguagens | 5-8 | Interpretacao |
-| Ciencias Natureza | 5-8 | Conceitos + aplicacao |
-| Ciencias Humanas | 5-8 | Contextualizacao historica |
-| Redacao | 1 texto/semana | Competencias 3 e 5 |
-
-### Por que Questoes Reais Superam Simulados Montados?
-
-Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
-
-
-## Resumo dos Principais Tópicos?
-| Area | Questoes/dia recomendadas | Foco principal |
-|------|--------------------------|----------------|
-| Matematica | 5-8 | Logica e calculo |
-| Linguagens | 5-8 | Interpretacao |
-| Ciencias Natureza | 5-8 | Conceitos + aplicacao |
-| Ciencias Humanas | 5-8 | Contextualizacao historica |
-| Redacao | 1 texto/semana | Competencias 3 e 5 |
-
-### Por que Questoes Reais Superam Simulados Montados?
-
-Questoes do INEP seguem um padrao especifico de escrita, contextualizacao e distratores que simulados de apostila nao replicam perfeitamente. Treinar com questoes reais de edicoes anteriores e a preparacao mais fiel possivel ao que voce vai encontrar no dia da prova.
-
-
-## Como se Preparar?
 | Area | Questoes/dia recomendadas | Foco principal |
 |------|--------------------------|----------------|
 | Matematica | 5-8 | Logica e calculo |
@@ -50421,24 +40814,6 @@ Estudar 2 horas todos os dias e mais eficiente do que estudar 8 horas no fim de 
 
 **3. Revisao espacada obrigatoria**
 Inclua no cronograma dias especificos de revisao do conteudo estudado 7, 14 e 30 dias antes. Isso garante que o que voce aprendeu nao seja esquecido antes da prova.
-
-## Estratégias Avançadas para Tabela Periodica no ENEM?
-
-
-Dominar o conteúdo é necessário. mas não suficiente. O ENEM testa habilidades de aplicação, e quem treina o formato da prova tem uma vantagem real sobre quem apenas estuda teoria.
-
-### Como o ENEM Estrutura as Questões de Tabela Periodica?
-
-O INEP segue um padrão consistente nas questões de Tabela Periodica:
-
-- **Contextualização obrigatória**: toda questão apresenta uma situação real (texto, gráfico, dado estatístico ou problema aplicado) antes de fazer a pergunta
-- **4 distratores plausíveis**: as alternativas erradas foram escolhidas para confundir quem tem conhecimento superficial
-- **Competências e habilidades da BNCC**: cada questão está mapeada a uma habilidade específica. isso determina o que pode cair
-
-**Leia o enunciado duas vezes antes de calcular ou escolher**
-A maioria dos erros em Tabela Periodica não é por falta de conhecimento. é por interpretar errado o que foi pedido. Identifique: o que a questão está fornecendo? O que ela pede exatamente?
-
-### Distribuição Típica de Questões por Tema
 `,
   },
   {
@@ -50596,7 +40971,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em todas as áreas?
 
 ## Pontos Mais Importantes?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -50612,7 +40986,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito 2015 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -50623,87 +40997,17 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito 2015 com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## O que os Candidatos Perguntam?
-- [ ] Revisei os conceitos fundamentais de Gabarito 2015
+- [ ] Revisei os conceitos fundamentais de Gabarito
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
 - [ ] Estou familiarizado com o formato e o tempo da prova
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
-
-
-## Estratégia Recomendada?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Dicas Práticas?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Resumo dos Principais Tópicos?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Como se Preparar?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Por que Isso Importa?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em todas as áreas?
-
-## Como Aplicar no ENEM?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
 
 
 ## Fontes e Referências?
@@ -50857,99 +41161,12 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Matemática?
 
 ## Pontos Mais Importantes?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
 
-
-## O que os Candidatos Perguntam?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Matemática?
-
-## Estratégia Recomendada?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Dicas Práticas?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Matemática?
-
-## Resumo dos Principais Tópicos?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Como se Preparar?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Matemática?
-
-## Por que Isso Importa?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Como Aplicar no ENEM?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Matemática?
 
 ## Fontes e Referências?
 
@@ -50987,7 +41204,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Matematica 2020 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito de Matemática em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -50998,9 +41215,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Matematica 2020 com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito de Matemática com interpretacao de texto
 
-### Checklist de Preparacao Final
 `,
   },
   {
@@ -51142,99 +41358,12 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Ciências da Natureza?
 
 ## Pontos Mais Importantes?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
 
-
-## O que os Candidatos Perguntam?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências da Natureza?
-
-## Estratégia Recomendada?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Dicas Práticas?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências da Natureza?
-
-## Resumo dos Principais Tópicos?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Como se Preparar?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências da Natureza?
-
-## Por que Isso Importa?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Como Aplicar no ENEM?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências da Natureza?
 
 ## Continue Estudando?
 
@@ -51291,7 +41420,6 @@ Para cada questao errada:
 **4. Refaca a questao 7 dias depois**
 A revisao espacada e a tecnica mais eficiente para fixar aprendizado. Coloque as questoes erradas em um ciclo de revisao.
 
-### Distribuicao de Tempo por Area
 
 ## Revisao Rapida: Pontos-Chave para Fixar?
 
@@ -51301,7 +41429,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Questoes De Fisica em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito de Ciências da Natureza em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -51312,9 +41440,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Questoes De Fisica com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito de Ciências da Natureza com interpretacao de texto
 
-### Checklist de Preparacao Final
 `,
   },
   {
@@ -51467,7 +41594,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Matematica 2020 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito de Ciências Humanas em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -51478,12 +41605,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Matematica 2020 com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito de Ciências Humanas com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## O que os Candidatos Perguntam?
-- [ ] Revisei os conceitos fundamentais de Gabarito Matematica 2020
+- [ ] Revisei os conceitos fundamentais de Gabarito de Ciências Humanas
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -51507,55 +41633,8 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Ciências Humanas?
 
 ## Dicas Práticas?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Resumo dos Principais Tópicos?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências Humanas?
-
-## Como se Preparar?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Por que Isso Importa?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências Humanas?
-
-## Como Aplicar no ENEM?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
@@ -51724,99 +41803,12 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Linguagens?
 
 ## Pontos Mais Importantes?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
 
-
-## O que os Candidatos Perguntam?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Linguagens?
-
-## Estratégia Recomendada?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Dicas Práticas?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Linguagens?
-
-## Resumo dos Principais Tópicos?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Como se Preparar?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Linguagens?
-
-## Por que Isso Importa?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Como Aplicar no ENEM?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Linguagens?
 
 ## Fontes e Referências?
 
@@ -51854,7 +41846,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Linguagens 2020 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito de Linguagens em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -51865,9 +41857,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Linguagens 2020 com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito de Linguagens com interpretacao de texto
 
-### Checklist de Preparacao Final
 `,
   },
   {
@@ -52150,7 +42141,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Ciencias Natureza 2020 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Conclusão da Redação em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -52161,11 +42152,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Ciencias Natureza 2020 com interpretacao de texto
+3. Pratique questoes mistas que combinam Conclusão da Redação com interpretacao de texto
 
 ### Checklist de Preparacao Final
 
-- [ ] Revisei os conceitos fundamentais de Gabarito Ciencias Natureza 2020
+- [ ] Revisei os conceitos fundamentais de Conclusão da Redação
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -52189,36 +42180,6 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 3. Repertorio socio-cultural desconexo do argumento
 4. Fogir do tema nos paragrafos de desenvolvimento
 5. Introducao que apenas repete os textos motivadores
-
-## Revisao Rapida: Pontos-Chave para Fixar?
-
-Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina estes pontos essenciais:
-
-**O que voce deve ser capaz de fazer:**
-- Identificar o tema central de uma questao antes de calcular ou analisar
-- Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Redacao Conclusao Como Fazer em contextos ineditos e situacoes reais
-- Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
-
-**Sinais de que voce esta pronto:**
-- Acerta mais de 70% das questoes de nivel medio do ENEM
-- Consegue explicar por que cada alternativa errada esta errada
-- Termina a prova com tempo para revisao
-
-**O que fazer se ainda ha lacunas:**
-1. Volte aos topicos em que errou mais de 2 questoes seguidas
-2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Redacao Conclusao Como Fazer com interpretacao de texto
-
-### Checklist de Preparacao Final
-
-- [ ] Revisei os conceitos fundamentais de Redacao Conclusao Como Fazer
-- [ ] Pratiquei pelo menos 30 questoes de niveis variados
-- [ ] Analisei todos os erros e identifiquei as causas
-- [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
-- [ ] Estou familiarizado com o formato e o tempo da prova
-
-Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
 ## Fontes e Referências?
 
@@ -52378,7 +42339,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Ciências Humanas?
 
 ## Como Funciona na Prática?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -52394,7 +42354,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Ciencias Humanas 2020 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Caderno de Questões em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -52405,12 +42365,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Ciencias Humanas 2020 com interpretacao de texto
+3. Pratique questoes mistas que combinam Caderno de Questões com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Gabarito Ciencias Humanas 2020
+- [ ] Revisei os conceitos fundamentais de Caderno de Questões
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -52459,27 +42418,6 @@ O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os 
 - **FIES**: financiamento em universidades privadas
 - **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
 
-
-## Dicas Práticas?
-### Dados Oficiais do ENEM (INEP)
-
-| Aspecto | Informacao |
-|---------|-----------|
-| Aplicacao | Novembro (2 finais de semana consecutivos) |
-| Areas avaliadas | Linguagens, Humanas, Natureza, Matematica e Redacao |
-| Total de questoes | 180 objetivas + 1 redacao |
-| Duracao dia 1 | 5h30 (Humanas + Linguagens) |
-| Duracao dia 2 | 5h30 (Natureza + Matematica + Redacao) |
-| Pontuacao maxima | 1000 por area + 1000 na redacao |
-
-### Como Usar o ENEM para Acesso a Universidades?
-
-O ENEM e aceito por mais de 1.000 instituicoes de ensino superior no Brasil. Os principais programas de acesso sao:
-
-- **SISU**: universidades publicas federais e estaduais
-- **ProUni**: bolsas em universidades privadas
-- **FIES**: financiamento em universidades privadas
-- **Inscricao direta**: muitas universidades particulares aceitam o ENEM como vestibular
 
 ## Continue Estudando?
 
@@ -52639,7 +42577,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Matemática?
 
 ## Pontos Mais Importantes?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -52655,7 +42592,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Matematica 2025 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito de Matemática em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -52666,87 +42603,17 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Matematica 2025 com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito de Matemática com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## O que os Candidatos Perguntam?
-- [ ] Revisei os conceitos fundamentais de Gabarito Matematica 2025
+- [ ] Revisei os conceitos fundamentais de Gabarito de Matemática
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
 - [ ] Estou familiarizado com o formato e o tempo da prova
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
-
-
-## Estratégia Recomendada?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Matemática?
-
-## Dicas Práticas?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Resumo dos Principais Tópicos?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Matemática?
-
-## Como se Preparar?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Por que Isso Importa?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Matemática?
-
-## Como Aplicar no ENEM?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
 
 
 ## Fontes e Referências?
@@ -52833,7 +42700,6 @@ Temas cobrados com maior frequência:
 
 **Destaque 2025:** Química verde e sustentabilidade (biocombustíveis, descarte de pilhas, processos menos poluentes).
 
-### Biologia. ENEM 2025
 
 ## O que Você Precisa Saber?
 - **Ecologia:** cadeias alimentares, biomas e impacto ambiental
@@ -52901,7 +42767,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Matemática?
 
 ## Pontos Mais Importantes?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -52910,22 +42775,6 @@ Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apen
 
 Com base nas dúvidas mais frequentes registradas em nossa plataforma, nosso time mapeia anualmente as informações sobre o ENEM mais procuradas pelos candidatos. Isso nos permite atualizar o conteúdo com dados do INEP assim que são divulgados oficialmente, garantindo precisão para quem depende dessas informações.
 
-
-## O que Voce Precisa Saber Sobre Enem Caderno De Questoes Cores?
-
-
-O ENEM acumula muitas informacoes tecnicamente complexas. sistema de notas, inscricao, modalidades de vaga, programas de acesso. Reunimos aqui os pontos mais importantes com base nas perguntas reais dos candidatos.
-
-### As Perguntas Mais Frequentes dos Candidatos
-
-**Qual a diferenca entre nota bruta e nota TRI?**
-A nota bruta seria simplesmente o numero de acertos. A nota TRI (Teoria de Resposta ao Item) leva em conta a dificuldade de cada questao e se o seu padrao de acertos e consistente. Uma questao dificil que voce acerta vale mais do que uma facil.
-
-**Como sao divulgados os resultados?**
-O INEP divulga os resultados pelo site do INEP e pelo aplicativo oficial. O gabarito preliminar sai no dia seguinte a aplicacao. Os resultados finais com as notas individuais saem aproximadamente 60 dias depois da prova.
-
-**Posso usar os resultados de anos anteriores?**
-Sim. Desde que seja dentro do prazo valido do SISU (normalmente 5 anos), voce pode usar notas de edicoes anteriores do ENEM. Mas atencao: o prazo de validade para o ProUni e o FIES pode ser diferente.
 
 ## O que os Candidatos Perguntam?
 ### Dados Oficiais do ENEM (INEP)
@@ -52957,7 +42806,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Enem Caderno De Questoes Cores em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito de Ciências da Natureza em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -52968,12 +42817,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Enem Caderno De Questoes Cores com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito de Ciências da Natureza com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Estratégia Recomendada?
-- [ ] Revisei os conceitos fundamentais de Enem Caderno De Questoes Cores
+- [ ] Revisei os conceitos fundamentais de Gabarito de Ciências da Natureza
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -52983,7 +42831,7 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 
 
 ## Dicas Práticas?
-- [ ] Revisei os conceitos fundamentais de Gabarito Matematica 2025
+- [ ] Revisei os conceitos fundamentais de Gabarito de Ciências da Natureza
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -53007,32 +42855,8 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Ciências da Natureza?
 
 ## Como se Preparar?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Por que Isso Importa?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências da Natureza?
-
-## Como Aplicar no ENEM?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
@@ -53139,7 +42963,6 @@ Disponível no portal INEP (enem.inep.gov.br) por cor de caderno.
 
 **Destaque 2025:** Questões sobre verdade, desinformação e o papel da ciência na sociedade.
 
-### Sociologia. ENEM 2025
 
 ## O que Você Precisa Saber?
 - **Desigualdade social:** classe, raça e gênero no Brasil
@@ -53197,99 +43020,12 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Ciências Humanas?
 
 ## Pontos Mais Importantes?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
 
-
-## O que os Candidatos Perguntam?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências Humanas?
-
-## Estratégia Recomendada?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Dicas Práticas?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências Humanas?
-
-## Resumo dos Principais Tópicos?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Como se Preparar?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências Humanas?
-
-## Por que Isso Importa?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Como Aplicar no ENEM?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Ciências Humanas?
 
 ## Continue Estudando?
 
@@ -53332,7 +43068,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Ciencias Humanas 2025 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito de Ciências Humanas em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -53343,9 +43079,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Ciencias Humanas 2025 com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito de Ciências Humanas com interpretacao de texto
 
-### Checklist de Preparacao Final
 `,
   },
   {
@@ -53474,7 +43209,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Ciências da Natureza?
 
 ## Como Funciona na Prática?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
@@ -53490,7 +43224,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Ciencias Natureza 2025 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Gabarito de Linguagens em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -53501,12 +43235,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Ciencias Natureza 2025 com interpretacao de texto
+3. Pratique questoes mistas que combinam Gabarito de Linguagens com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Gabarito Ciencias Natureza 2025
+- [ ] Revisei os conceitos fundamentais de Gabarito de Linguagens
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -53530,76 +43263,6 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Linguagens?
-
-## Estratégia Recomendada?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Dicas Práticas?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Linguagens?
-
-## Resumo dos Principais Tópicos?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Como se Preparar?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Linguagens?
-
-## Por que Isso Importa?
-As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
-
-Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
-
-
-## Como Aplicar no ENEM?
-**4. Refaça as questões erradas sem o gabarito**
-Depois de revisar o conteúdo, refaça as questões erradas. Se acertar dessa vez, o erro foi pontual. Se errar novamente, a lacuna é mais profunda e exige reforço.
-
-**5. Use o gabarito para simular seu TRI**
-O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma questão difícil vale mais do que uma fácil. Use a calculadora de nota do ENEM Pro para estimar sua pontuação real.
-
-| Sequência de revisão | O que faz |
-|---------------------|-----------|
-| Conferir sem gabarito | Identifica padrões de erro |
-| Analisar cada erro | Classifica a causa |
-| Agrupar por tema | Prioriza a revisão |
-| Refazer questões | Confirma aprendizado |
-| Simular TRI | Estima nota real |
-
-### O que o ENEM Mais Cobra em Linguagens?
 
 ## Continue Estudando?
 
@@ -53775,7 +43438,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Sisu 2026 Inscricoes Datas em contextos ineditos e situacoes reais
+- Aplicar o conteudo de SISU 2026 em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -53786,12 +43449,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Sisu 2026 Inscricoes Datas com interpretacao de texto
+3. Pratique questoes mistas que combinam SISU 2026 com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Sisu 2026 Inscricoes Datas
+- [ ] Revisei os conceitos fundamentais de SISU 2026
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -53799,48 +43461,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Estratégia Recomendada?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Dicas Práticas?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Como se Preparar?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
 
 ## Fontes e Referências?
 
@@ -53930,7 +43550,6 @@ As notas abaixo são referências históricas (ENEM 2023/2024) e servem como bas
 | Engenharia Mecânica | 670-710 |
 | Engenharia de Produção | 660-700 |
 
-### Direito
 
 ## O que Você Precisa Saber?
 | Instituição | Nota Estimada |
@@ -54035,7 +43654,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Nota De Corte Sisu 2026 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Nota de Corte SISU 2026 em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -54046,12 +43665,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Nota De Corte Sisu 2026 com interpretacao de texto
+3. Pratique questoes mistas que combinam Nota de Corte SISU 2026 com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## O que os Candidatos Perguntam?
-- [ ] Revisei os conceitos fundamentais de Nota De Corte Sisu 2026
+- [ ] Revisei os conceitos fundamentais de Nota de Corte SISU 2026
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -54117,36 +43735,12 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 | Refazer questões | Confirma aprendizado |
 | Simular TRI | Estima nota real |
 
-### O que o ENEM Mais Cobra em Ciências Humanas?
 
 ## Como se Preparar?
 As questões do ENEM não testam memorização. testam a capacidade de aplicar conhecimento em situações reais e inéditas. As questões de maior peso na TRI são aquelas que combinam dois ou mais conteúdos em um único enunciado contextualizado.
 
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
 
-
-## Revisao Rapida: Pontos-Chave para Fixar
-
-
-Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina estes pontos essenciais:
-
-**O que voce deve ser capaz de fazer:**
-- Identificar o tema central de uma questao antes de calcular ou analisar
-- Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Gabarito Ciencias Humanas 2025 em contextos ineditos e situacoes reais
-- Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
-
-**Sinais de que voce esta pronto:**
-- Acerta mais de 70% das questoes de nivel medio do ENEM
-- Consegue explicar por que cada alternativa errada esta errada
-- Termina a prova com tempo para revisao
-
-**O que fazer se ainda ha lacunas:**
-1. Volte aos topicos em que errou mais de 2 questoes seguidas
-2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Gabarito Ciencias Humanas 2025 com interpretacao de texto
-
-### Checklist de Preparacao Final
 
 ## Fontes e Referências
 
@@ -54314,7 +43908,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Resultado 2025 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Resultado em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -54325,12 +43919,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Resultado 2025 com interpretacao de texto
+3. Pratique questoes mistas que combinam Resultado com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Resultado 2025
+- [ ] Revisei os conceitos fundamentais de Resultado
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -54338,55 +43931,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Pontos Mais Importantes?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Estratégia Recomendada?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
 ## Fontes e Referências?
 
@@ -54575,7 +44119,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Resultado 2025 em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Análise em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -54586,168 +44130,17 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Resultado 2025 com interpretacao de texto
+3. Pratique questoes mistas que combinam Análise com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Resultado 2025
+- [ ] Revisei os conceitos fundamentais de Análise
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
 - [ ] Estou familiarizado com o formato e o tempo da prova
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
-
-
-## Pontos Mais Importantes?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## O que os Candidatos Perguntam?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Estratégia Recomendada?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Dicas Práticas?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Resumo dos Principais Tópicos?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Como se Preparar?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
 
 ## Fontes e Referências
@@ -54924,7 +44317,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Enem 2025 Analise Prova em contextos ineditos e situacoes reais
+- Aplicar o conteudo de ProUni 2026 em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -54935,12 +44328,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Enem 2025 Analise Prova com interpretacao de texto
+3. Pratique questoes mistas que combinam ProUni 2026 com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Como Funciona na Prática?
-- [ ] Revisei os conceitos fundamentais de Enem 2025 Analise Prova
+- [ ] Revisei os conceitos fundamentais de ProUni 2026
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -54983,75 +44375,6 @@ Os três programas usam a nota do ENEM. com finalidades diferentes:
 - **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
 
 ## O que os Candidatos Perguntam?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Estratégia Recomendada?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Dicas Práticas?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Resumo dos Principais Tópicos?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Como se Preparar?
-Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
-
-
-## Por que Isso Importa?
-**Calcule diferentes cenários**
-Use a calculadora do ENEM Pro para simular sua nota em diferentes combinações de acertos. Identifique quais áreas têm maior impacto na sua nota total. e foque a revisão nelas.
-
-| Estratégia | Impacto | Prazo |
-|-----------|---------|-------|
-| Focar nas áreas com mais peso | Alto | Antes do ENEM |
-| Analisar vagas por modalidade | Alto | Antes do SISU |
-| Monitorar corte parcial | Médio | Durante o SISU |
-| Ter 2ª opção de curso | Médio | Antes do SISU |
-
-### SISU vs. ProUni vs. FIES: Qual usar?
-
-Os três programas usam a nota do ENEM. com finalidades diferentes:
-
-- **SISU**: vagas em universidades federais e estaduais públicas. sem mensalidade
-- **ProUni**: bolsas em faculdades privadas (integral ou parcial). critério de renda
-- **FIES**: financiamento para faculdades privadas. precisa reembolsar depois
-
-## Como Aplicar no ENEM?
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 
 
@@ -55160,7 +44483,6 @@ Antes de montar o cronograma, faça um diagnóstico:
 
 **Meta do Mês 2:** 500 questões acumuladas + 8 redações
 
-### Mês 3. Simulados e Revisão (Semanas 9-12)
 
 ## O que Você Precisa Saber?
 **Objetivo:** testar, identificar falhas, revisar e construir resistência
@@ -55261,7 +44583,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que voce deve ser capaz de fazer:**
 - Identificar o tema central de uma questao antes de calcular ou analisar
 - Distinguir os distratores plausíveis da alternativa correta
-- Aplicar o conteudo de Como Estudar Para Em 3 Meses em contextos ineditos e situacoes reais
+- Aplicar o conteudo de Como Estudar em contextos ineditos e situacoes reais
 - Gerenciar o tempo: maximo de 3-4 minutos por questao objetiva
 
 **Sinais de que voce esta pronto:**
@@ -55272,12 +44594,11 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 **O que fazer se ainda ha lacunas:**
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
-3. Pratique questoes mistas que combinam Como Estudar Para Em 3 Meses com interpretacao de texto
+3. Pratique questoes mistas que combinam Como Estudar com interpretacao de texto
 
-### Checklist de Preparacao Final
 
 ## Pontos Mais Importantes?
-- [ ] Revisei os conceitos fundamentais de Como Estudar Para Em 3 Meses
+- [ ] Revisei os conceitos fundamentais de Como Estudar
 - [ ] Pratiquei pelo menos 30 questoes de niveis variados
 - [ ] Analisei todos os erros e identifiquei as causas
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
@@ -55285,55 +44606,6 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 
-
-## Estratégia Recomendada?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
-
-
-## Dicas Práticas?
-**4. Simulados semanais como termometro**
-Um simulado semanal nao e para aprender. e para medir. Analise os erros do simulado para ajustar o foco do cronograma da semana seguinte.
-
-### Distribuicao Recomendada de Tempo por Area
-
-| Area do ENEM | % do tempo de estudo | Justificativa |
-|-------------|---------------------|---------------|
-| Matematica | 25-30% | Maior impacto na nota TRI |
-| Ciencias da Natureza | 20-25% | Volume de conteudo alto |
-| Linguagens | 15-20% | Requer pratica regular |
-| Ciencias Humanas | 15-20% | Muito contextualizacao |
-| Redacao | 10-15% | Ganho rapido com pratica |
-
-### Rotina Diaria de Estudo Eficiente
-
-**Manha (1h30):** Conteudo novo. estude 1 topico especifico com foco total.
-
-**Tarde (1h):** Pratica com questoes. 10-15 questoes do tema estudado de manha.
-
-**Noite (30min):** Revisao rapida do dia anterior + leitura de contexto historico/atualidades.
-
-Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.
 
 ## Fontes e Referências?
 

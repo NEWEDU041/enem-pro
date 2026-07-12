@@ -39,7 +39,8 @@ const readTime = Math.max(1, Math.ceil(content.split(/\s+/).length / 200))
 const blogDataPath = path.join(__dirname, '../lib/blog-data.ts')
 let blogData = fs.readFileSync(blogDataPath, 'utf8')
 
-const entryRegex = new RegExp(`\\{\\s*slug:\\s*'${publishedSlug}'[^}]+content:\\s*\`[^\`]*\`[^}]*\\}`)
+// (?:[^\`\\]|\\.)* evita truncar no primeiro backtick ESCAPADO dentro do conteúdo antigo
+const entryRegex = new RegExp(`\\{\\s*slug:\\s*'${publishedSlug}'[^}]+content:\\s*\`(?:[^\`\\\\]|\\\\.)*\`[^}]*\\}`)
 if (!entryRegex.test(blogData)) {
   console.error(`❌ Entrada não encontrada em blog-data.ts para slug: ${publishedSlug}`)
   process.exit(1)
@@ -47,6 +48,8 @@ if (!entryRegex.test(blogData)) {
 
 const replacement = `{ slug: '${publishedSlug}', title: ${JSON.stringify(data.title)}, description: ${JSON.stringify(data.description)}, date: '${data.date}', readTime: ${readTime}, content: \`${escapedContent}\` }`
 
-blogData = blogData.replace(entryRegex, replacement)
+// função como 2º argumento evita que replace() reinterprete "$1", "$4" etc. dentro do
+// próprio conteúdo (ex: preço "R\$4,90") como referência de grupo capturado
+blogData = blogData.replace(entryRegex, () => replacement)
 fs.writeFileSync(blogDataPath, blogData)
 console.log(`✅ Post '${publishedSlug}' atualizado com o conteúdo de app/blog/posts/${fileSlug}.md`)
