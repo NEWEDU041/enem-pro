@@ -52430,7 +52430,7 @@ Questões de anos anteriores combinadas com Khan Academy Matemática. Matemátic
 Questões de anos anteriores estão entre os recursos mais eficazes para ganho de pontuação. Cronograma ideal é 6 meses, 3-4 horas/dia: revisão (meses 1-2), aprofundamento (3-4) e simulados (5-6). Combinação de livros didáticos com plataformas digitais supera qualquer um dos modelos isoladamente. Redação requer feedback especializado, mínimo 1 redação por semana. Preparação eficaz não depende de investimento financeiro, mas de dedicação consistente.
 
 ---` },
-  { slug: 'dia-enem-dicas-preparacao', title: "Dia do ENEM 2026: Dicas, O Que Levar e Como Se Preparar", description: "Chegou o dia do ENEM 2026.", date: '2026-07-11', readTime: 6, content: `# Dia do ENEM 2026: Dicas, O Que Levar e Como Se Preparar
+  { slug: 'dia-enem-dicas-preparacao', title: "Dia do ENEM 2026: Dicas, O Que Levar e Como Se Preparar", description: "O que levar no dia do ENEM 2026, horários de portão, documentos obrigatórios e dicas para chegar preparado e sem ansiedade na hora da prova.", date: '2026-07-11', readTime: 6, content: `# Dia do ENEM 2026: Dicas, O Que Levar e Como Se Preparar
 
 > **Key Takeaways**
 > - Chegar 30-45 minutos antes do horário de abertura do portão
@@ -52556,7 +52556,7 @@ Não há câmeras nas salas de prova. Há fiscalização humana. Monitoramento �
 Dia do ENEM requer preparação minuciosa: chegar 30-45 minutos antes, levar Comprovante + ID + caneta (2) + lápis HB, usar roupas confortáveis, evitar eletrônicos, comer leve, hidratação constante. Preparação não termina no dia anterior: também inclui rotina nos primeiros momentos do dia. Chegar cedo reduz ansiedade significativamente.
 
 ---` },
-  { slug: 'usar-nota-enem-universidade', title: "Como Usar Sua Nota ENEM em Universidades 2026: Guia Completo", description: "Use nota ENEM para Sisu, ProUni ou Fies em 2027.", date: '2026-07-11', readTime: 6, content: `# Como Usar Sua Nota ENEM em Universidades 2026: Guia Completo
+  { slug: 'usar-nota-enem-universidade', title: "Como Usar Sua Nota ENEM em Universidades 2026: Guia Completo", description: "Como usar sua nota do ENEM no Sisu, ProUni e Fies: prazos, nota mínima, como escolher entre os programas e o que fazer após receber o resultado.", date: '2026-07-11', readTime: 6, content: `# Como Usar Sua Nota ENEM em Universidades 2026: Guia Completo
 
 > **Key Takeaways**
 > - Três programas principais: Sisu (público), ProUni (privado com bolsa), Fies (financiamento)
