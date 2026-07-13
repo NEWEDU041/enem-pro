@@ -5,6 +5,7 @@ import Link from 'next/link'
 import { useSearchParams } from 'next/navigation'
 import { Question } from '@/lib/types'
 import { YEARS, DISCIPLINES } from '@/lib/enem-api'
+import { previewText } from '@/lib/text-preview'
 
 const SLUG_TO_DISCIPLINE: Record<string, string> = {
   'matematica': 'Matemática',
@@ -99,7 +100,9 @@ function QuestoesContent() {
           <>
             <p className="text-sm text-zinc-500 mb-4">{total} questões encontradas</p>
             <div className="space-y-3">
-              {questions.map((q, i) => (
+              {questions.map((q, i) => {
+                const preview = previewText(q.alternativesIntroduction) || previewText(q.context)
+                return (
                 <Link
                   key={q.id}
                   href={`/questoes/${q.id}?year=${year}`}
@@ -112,13 +115,14 @@ function QuestoesContent() {
                         <span className="text-xs text-zinc-400">ENEM {q.year} — Questão {((page - 1) * 20) + i + 1}</span>
                       </div>
                       <p className="text-sm text-zinc-700 line-clamp-2 leading-relaxed">
-                        {q.title || 'Ver questão completa'}
+                        {preview || 'Questão com imagem — ver completa'}
                       </p>
                     </div>
                     <span className="text-zinc-300 text-lg shrink-0">→</span>
                   </div>
                 </Link>
-              ))}
+                )
+              })}
             </div>
 
             {/* Pagination */}

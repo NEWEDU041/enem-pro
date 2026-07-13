@@ -274,7 +274,7 @@ function QuestionContent() {
             <span className="text-xs text-zinc-400">ENEM {question.year}</span>
             <button
               onClick={() => {
-                const next = toggleFavorito({ id: question.id, year: question.year, discipline: question.discipline, title: question.title })
+                const next = toggleFavorito({ id: question.id, year: question.year, discipline: question.discipline, title: question.alternativesIntroduction || question.title })
                 setStarred(next)
               }}
               title={starred ? 'Remover dos favoritos' : 'Salvar nos favoritos'}

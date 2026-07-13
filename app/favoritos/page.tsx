@@ -101,6 +101,7 @@ function FavoritosContent() {
                 <div className="divide-y divide-zinc-100">
                   {filtered.map((f) => {
                     const shortDisc = f.discipline.split(',')[0].replace('e suas Tecnologias', '').trim()
+                    const realTitle = f.title && !/^Questão \d+ - ENEM \d+$/.test(f.title) ? f.title : ''
                     return (
                       <div key={f.id} className="flex items-center gap-4 px-6 py-4 hover:bg-zinc-50 transition-colors">
                         <div className="text-amber-400 text-lg shrink-0">⭐</div>
@@ -109,7 +110,7 @@ function FavoritosContent() {
                           className="flex-1 min-w-0 group"
                         >
                           <div className="text-sm font-medium text-zinc-900 group-hover:text-indigo-600 truncate">
-                            {f.title ? f.title.slice(0, 80) + (f.title.length > 80 ? '…' : '') : `${shortDisc} — ENEM ${f.year}`}
+                            {realTitle ? realTitle.slice(0, 80) + (realTitle.length > 80 ? '…' : '') : `${shortDisc} — ENEM ${f.year}`}
                           </div>
                           <div className="text-xs text-zinc-400 mt-0.5">
                             {shortDisc} · ENEM {f.year} · Salvo em {formatDate(f.savedAt)}

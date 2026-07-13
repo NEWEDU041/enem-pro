@@ -462,10 +462,7 @@ function ActiveScreen({
             <QuestionText text={question.context} />
           </div>
         )}
-        {question.alternativesIntroduction && (
-          <p className="text-sm text-zinc-600 mb-3 italic">{question.alternativesIntroduction}</p>
-        )}
-        {question.title && <QuestionText text={question.title} />}
+        <QuestionText text={question.alternativesIntroduction || question.title} />
       </div>
 
       <div className="space-y-3 mb-6">
