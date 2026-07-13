@@ -126,25 +126,28 @@ export default async function SEOQuestoesPage({ params }: { params: Promise<{ di
         {/* Question list */}
         {questions.length > 0 ? (
           <div className="space-y-3 mb-10">
-            {questions.map((q, i) => (
-              <Link
-                key={q.id}
-                href={`/questoes/${q.id}?year=${year}`}
-                className="block bg-white rounded-xl border border-zinc-200 px-6 py-4 hover:border-indigo-400 hover:shadow-sm transition-all"
-              >
-                <div className="flex items-start justify-between gap-4">
-                  <div className="flex-1 min-w-0">
-                    <div className="flex items-center gap-2 mb-1">
-                      <span className="text-xs text-zinc-400">Questão {i + 1}</span>
+            {questions.map((q, i) => {
+              const preview = q.alternativesIntroduction || q.context || q.title
+              return (
+                <Link
+                  key={q.id}
+                  href={`/questoes/${q.id}?year=${year}`}
+                  className="block bg-white rounded-xl border border-zinc-200 px-6 py-4 hover:border-indigo-400 hover:shadow-sm transition-all"
+                >
+                  <div className="flex items-start justify-between gap-4">
+                    <div className="flex-1 min-w-0">
+                      <div className="flex items-center gap-2 mb-1">
+                        <span className="text-xs text-zinc-400">Questão {i + 1}</span>
+                      </div>
+                      <p className="text-sm text-zinc-700 line-clamp-2 leading-relaxed">
+                        {preview || 'Ver questão completa'}
+                      </p>
                     </div>
-                    <p className="text-sm text-zinc-700 line-clamp-2 leading-relaxed">
-                      {q.title || 'Ver questão completa'}
-                    </p>
+                    <span className="text-zinc-300 shrink-0">→</span>
                   </div>
-                  <span className="text-zinc-300 shrink-0">→</span>
-                </div>
-              </Link>
-            ))}
+                </Link>
+              )
+            })}
           </div>
         ) : (
           <div className="bg-white rounded-2xl border border-zinc-200 p-8 text-center text-zinc-400 mb-10">

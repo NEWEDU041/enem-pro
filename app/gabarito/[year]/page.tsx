@@ -169,29 +169,37 @@ export default async function GabaritoYearPage({ params }: { params: Promise<{ y
                     </Link>
                   </div>
                   <div className="bg-white rounded-2xl border border-zinc-200 overflow-hidden">
-                    <div className="grid grid-cols-[3rem_1fr_3.5rem] text-xs font-semibold text-zinc-400 uppercase tracking-wide px-4 py-3 border-b border-zinc-100 bg-zinc-50">
+                    <div className="grid grid-cols-[3rem_1fr] text-xs font-semibold text-zinc-400 uppercase tracking-wide px-4 py-3 border-b border-zinc-100 bg-zinc-50">
                       <span>Nº</span>
-                      <span>Enunciado</span>
-                      <span className="text-center">Gabarito</span>
+                      <span>Enunciado e resposta</span>
                     </div>
                     <div className="divide-y divide-zinc-100">
-                      {items.map(({ q, globalIndex }) => (
-                        <Link
-                          key={q.id}
-                          href={`/questoes/${q.id}?year=${year}`}
-                          className="grid grid-cols-[3rem_1fr_3.5rem] items-center px-4 py-3.5 hover:bg-indigo-50 transition-colors group"
-                        >
-                          <span className="text-sm font-mono text-zinc-400">{globalIndex}</span>
-                          <span className="text-sm text-zinc-700 truncate pr-4 group-hover:text-indigo-700">
-                            {q.title ? q.title.slice(0, 90) + (q.title.length > 90 ? '…' : '') : 'Ver questão completa'}
-                          </span>
-                          <span className="text-center">
-                            <span className="inline-flex items-center justify-center w-8 h-8 rounded-full bg-green-100 text-green-700 font-bold text-sm">
-                              {q.correctAlternative}
+                      {items.map(({ q, globalIndex }) => {
+                        const correctAlt = q.alternatives?.find((a) => a.letter === q.correctAlternative)
+                        const preview = q.alternativesIntroduction || q.context || ''
+                        return (
+                          <Link
+                            key={q.id}
+                            href={`/questoes/${q.id}?year=${year}`}
+                            className="grid grid-cols-[3rem_1fr] items-start px-4 py-3.5 hover:bg-indigo-50 transition-colors group"
+                          >
+                            <span className="text-sm font-mono text-zinc-400 pt-0.5">{globalIndex}</span>
+                            <span>
+                              <span className="block text-sm text-zinc-700 pr-4 group-hover:text-indigo-700">
+                                {preview ? preview.slice(0, 140) + (preview.length > 140 ? '…' : '') : 'Ver questão completa'}
+                              </span>
+                              <span className="mt-1.5 flex items-start gap-2">
+                                <span className="shrink-0 inline-flex items-center justify-center w-6 h-6 rounded-full bg-green-100 text-green-700 font-bold text-xs">
+                                  {q.correctAlternative}
+                                </span>
+                                <span className="text-sm text-green-700 leading-snug pt-0.5">
+                                  {correctAlt?.text || (correctAlt?.file ? 'Alternativa em imagem — ver questão completa' : 'Resposta correta')}
+                                </span>
+                              </span>
                             </span>
-                          </span>
-                        </Link>
-                      ))}
+                          </Link>
+                        )
+                      })}
                     </div>
                   </div>
                 </section>

@@ -3,15 +3,14 @@ import Link from 'next/link'
 import { SITE_URL } from '@/lib/site-config'
 
 export const metadata: Metadata = {
-  title: 'Gabarito ENEM — Todas as Edições 2009 a 2024',
-  description: 'Gabarito oficial do ENEM de todas as edições de 2009 a 2024. Matemática, Linguagens, Ciências Humanas e Ciências da Natureza com respostas corretas.',
+  title: 'Gabarito ENEM — Todas as Edições 2009 a 2023',
+  description: 'Gabarito oficial do ENEM de todas as edições de 2009 a 2023. Matemática, Linguagens, Ciências Humanas e Ciências da Natureza com respostas corretas.',
   alternates: { canonical: `${SITE_URL}/gabarito` },
 }
 
-const YEARS = [2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
+const YEARS = [2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
 
 const YEAR_INFO: Record<number, { candidates: string; highlight: string }> = {
-  2024: { candidates: '4,3 milhões', highlight: 'Maior edição dos últimos anos' },
   2023: { candidates: '3,9 milhões', highlight: 'Retomada pós-pandemia' },
   2022: { candidates: '3,4 milhões', highlight: 'Edição híbrida de recuperação' },
   2021: { candidates: '3,1 milhões', highlight: 'Edição especial pós-pandemia' },
@@ -33,7 +32,7 @@ const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'ItemList',
   name: 'Gabarito ENEM — Todas as Edições',
-  description: 'Gabarito oficial do ENEM de 2009 a 2024',
+  description: 'Gabarito oficial do ENEM de 2009 a 2023',
   url: `${SITE_URL}/gabarito`,
   itemListElement: YEARS.map((y, i) => ({
     '@type': 'ListItem',
@@ -80,7 +79,7 @@ export default function GabaritoIndexPage() {
         <div className="mb-10">
           <h1 className="text-4xl font-bold text-zinc-900 mb-3">Gabarito ENEM — Todas as Edições</h1>
           <p className="text-xl text-zinc-500 max-w-2xl">
-            Gabarito oficial do ENEM de 2009 a 2024. Veja as respostas corretas de Matemática, Linguagens, Ciências Humanas e Ciências da Natureza.
+            Gabarito oficial do ENEM de 2009 a 2023. Veja as respostas corretas de Matemática, Linguagens, Ciências Humanas e Ciências da Natureza.
           </p>
         </div>
 
@@ -128,7 +127,7 @@ export default function GabaritoIndexPage() {
               { q: 'Quando sai o gabarito do ENEM?', a: 'O gabarito oficial do ENEM é divulgado pelo INEP no dia seguinte à aplicação da segunda prova, normalmente em novembro.' },
               { q: 'O gabarito do ENEM é o mesmo para todos os cadernos?', a: 'As questões são as mesmas, mas a ordem das alternativas muda entre os cadernos de cores diferentes. O gabarito oficial do INEP corresponde ao caderno amarelo.' },
               { q: 'Como calcular minha nota no ENEM?', a: 'A nota do ENEM usa a Teoria de Resposta ao Item (TRI), que considera a dificuldade de cada questão. Acertar questões difíceis pesa mais do que acertar questões fáceis.' },
-              { q: 'Posso praticar com questões de gabaritos anteriores?', a: 'Sim! O ENEM Pro reúne todas as questões oficiais de 2009 a 2024. Você pode praticar por ano e disciplina, e o plano Pro inclui explicação de IA para cada questão.' },
+              { q: 'Posso praticar com questões de gabaritos anteriores?', a: 'Sim! O ENEM Pro reúne todas as questões oficiais de 2009 a 2023. Você pode praticar por ano e disciplina, e o plano Pro inclui explicação de IA para cada questão.' },
             ].map(({ q, a }) => (
               <div key={q}>
                 <h3 className="font-semibold text-zinc-900 mb-2">{q}</h3>

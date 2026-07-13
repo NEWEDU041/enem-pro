@@ -300,11 +300,8 @@ function QuestionContent() {
               className="text-sm text-zinc-600 leading-relaxed mb-6 pb-6 border-b border-zinc-100"
             />
           )}
-          {question.alternativesIntroduction && (
-            <p className="text-sm text-zinc-600 mb-4 italic">{question.alternativesIntroduction}</p>
-          )}
           <MarkdownText
-            text={question.title}
+            text={question.alternativesIntroduction || question.title}
             className="text-zinc-900 leading-relaxed font-medium mb-8"
           />
 
