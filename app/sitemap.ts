@@ -1,6 +1,8 @@
 import type { MetadataRoute } from 'next'
 import { getAllPostsLight as getAllPosts } from '@/lib/blog-index'
 import { SITE_URL } from '@/lib/site-config'
+import { fetchQuestionsByYearCached } from '@/lib/questions-cache'
+import { disciplineToSlug } from '@/lib/enem-api'
 
 const base = SITE_URL
 
@@ -10,7 +12,32 @@ const YEARS = [2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,
 // Static dates — only change when the page content actually changes
 const D = (s: string) => new Date(s)
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export const revalidate = 86400
+
+async function getQuestionPages(): Promise<MetadataRoute.Sitemap> {
+  const pages: MetadataRoute.Sitemap = []
+  for (const year of YEARS) {
+    let questions: Awaited<ReturnType<typeof fetchQuestionsByYearCached>> = []
+    try {
+      questions = await fetchQuestionsByYearCached(year)
+    } catch {
+      continue
+    }
+    for (const q of questions) {
+      const slug = disciplineToSlug(q.discipline)
+      if (!slug) continue
+      pages.push({
+        url: `${base}/questoes/${slug}/${year}/${q.id.split('-')[1]}`,
+        lastModified: D(`${year}-12-01`),
+        changeFrequency: 'yearly' as const,
+        priority: year >= 2022 ? 0.6 : 0.5,
+      })
+    }
+  }
+  return pages
+}
+
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const MATERIAS_SLUGS = ['fisica','quimica','biologia','historia','geografia','filosofia','sociologia','portugues','literatura','matematica','ingles']
   const VS_SLUGS = ['descomplica','stoodi','estuda-com','me-salva','khan-academy','poliedro','gauss','prepara-enem','estrategia']
 
@@ -102,5 +129,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
   ]
 
-  return [...corePages, ...gabaritoPages, ...disciplinaLandingPages, ...disciplinePages, ...blogPages, ...vsPages]
+  const questionPages = await getQuestionPages()
+
+  return [...corePages, ...gabaritoPages, ...disciplinaLandingPages, ...disciplinePages, ...questionPages, ...blogPages, ...vsPages]
 }

@@ -4,14 +4,13 @@ import { useEffect, useState, Suspense } from 'react'
 import Link from 'next/link'
 import { useSearchParams } from 'next/navigation'
 import { Question } from '@/lib/types'
-import { YEARS, DISCIPLINES } from '@/lib/enem-api'
+import { YEARS, DISCIPLINES, SLUG_TO_DISCIPLINE as CANONICAL_SLUGS, disciplineToSlug } from '@/lib/enem-api'
 import { previewText } from '@/lib/text-preview'
 
+// Accepts an older alternate slug spelling on incoming query params; outgoing
+// links always use the canonical slug from disciplineToSlug().
 const SLUG_TO_DISCIPLINE: Record<string, string> = {
-  'matematica': 'Matemática',
-  'linguagens': 'Linguagens, Códigos e suas Tecnologias',
-  'ciencias-humanas': 'Ciências Humanas e suas Tecnologias',
-  'ciencias-natureza': 'Ciências da Natureza e suas Tecnologias',
+  ...CANONICAL_SLUGS,
   'ciencias-da-natureza': 'Ciências da Natureza e suas Tecnologias',
 }
 
@@ -102,10 +101,11 @@ function QuestoesContent() {
             <div className="space-y-3">
               {questions.map((q, i) => {
                 const preview = previewText(q.alternativesIntroduction) || previewText(q.context)
+                const discSlug = disciplineToSlug(q.discipline)
                 return (
                 <Link
                   key={q.id}
-                  href={`/questoes/${q.id}?year=${year}`}
+                  href={discSlug ? `/questoes/${discSlug}/${q.year}/${q.id.split('-')[1]}` : `/gabarito/${q.year}`}
                   className="block bg-white rounded-xl border border-zinc-200 px-6 py-4 hover:border-indigo-400 hover:shadow-sm transition-all"
                 >
                   <div className="flex items-start justify-between gap-4">

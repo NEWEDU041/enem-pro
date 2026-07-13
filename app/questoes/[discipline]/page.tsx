@@ -3,6 +3,7 @@
 import { useEffect, useState, useCallback, Suspense } from 'react'
 import Link from 'next/link'
 import { useRouter, useParams, useSearchParams } from 'next/navigation'
+import { motion, AnimatePresence } from 'framer-motion'
 import { createBrowserClient } from '@/lib/supabase'
 import { Question } from '@/lib/types'
 import { ENEM_DATE, daysUntil } from '@/lib/utils'
@@ -235,19 +236,19 @@ function QuestionContent() {
               </div>
             )}
 
-            <div className="bg-indigo-50 rounded-xl p-4 mb-6 text-left">
-              <p className="text-sm font-semibold text-indigo-900 mb-2">Com o Pro você teria recebido:</p>
-              <ul className="space-y-1 text-sm text-indigo-700">
+            <div className="bg-gold-100 rounded-xl p-4 mb-6 text-left">
+              <p className="text-sm font-semibold text-ink-900 mb-2">Com o Pro você teria recebido:</p>
+              <ul className="space-y-1 text-sm text-ink-700">
                 <li>✓ Explicação da IA para cada questão que errou</li>
                 <li>✓ Questões ilimitadas — sem parar no limite</li>
                 <li>✓ Menos que 1 aula particular por mês</li>
               </ul>
             </div>
 
-            <Link href="/planos" className="block w-full bg-indigo-600 text-white px-6 py-3.5 rounded-xl font-semibold hover:bg-indigo-700 transition-colors mb-3">
+            <Link href="/planos" className="block w-full bg-gold-500 text-ink-950 px-6 py-3.5 rounded-xl font-semibold hover:bg-gold-400 transition-colors mb-3">
               Assinar Pro — R$14,90/mês
             </Link>
-            <Link href="/planos" className="block w-full border border-indigo-200 text-indigo-600 px-6 py-3 rounded-xl text-sm font-medium hover:bg-indigo-50 transition-colors mb-4">
+            <Link href="/planos" className="block w-full border border-gold-400 text-ink-900 px-6 py-3 rounded-xl text-sm font-medium hover:bg-gold-100 transition-colors mb-4">
               Plano anual — R$99/ano (economize 45%)
             </Link>
             <p className="text-xs text-zinc-400">Garantia de 30 dias. Cancele quando quiser.</p>
@@ -267,10 +268,10 @@ function QuestionContent() {
     <div className="min-h-screen bg-zinc-50">
       <header className="bg-white border-b border-zinc-200 px-6 py-4">
         <div className="max-w-3xl mx-auto flex items-center justify-between">
-          <Link href="/dashboard" className="text-xl font-bold text-indigo-600">ENEM Pro</Link>
+          <Link href="/dashboard" className="font-display text-xl font-bold text-ink-900">ENEM Pro</Link>
           <div className="flex items-center gap-4">
             <span className="text-xs font-mono text-zinc-400">{mm}:{ss}</span>
-            <span className="text-xs bg-indigo-50 text-indigo-700 px-3 py-1 rounded-full">{question.discipline.split(',')[0]}</span>
+            <span className="text-xs bg-gold-100 text-ink-900 px-3 py-1 rounded-full">{question.discipline.split(',')[0]}</span>
             <span className="text-xs text-zinc-400">ENEM {question.year}</span>
             <button
               onClick={() => {
@@ -306,14 +307,19 @@ function QuestionContent() {
           />
 
           {/* Alternatives */}
-          <div className="space-y-3">
+          <motion.div
+            className="space-y-3"
+            initial="hidden"
+            animate="show"
+            variants={{ hidden: {}, show: { transition: { staggerChildren: 0.06 } } }}
+          >
             {question.alternatives.map((alt) => {
               const isSelected = selected === alt.letter
               const isCorrectAlt = alt.letter === question.correctAlternative
 
-              let cls = 'w-full flex items-start gap-4 p-4 rounded-xl border text-left transition-all '
+              let cls = 'w-full flex items-start gap-4 p-4 rounded-xl border text-left transition-colors '
               if (status === 'idle') {
-                cls += 'border-zinc-200 hover:border-indigo-400 hover:bg-indigo-50 cursor-pointer'
+                cls += 'border-zinc-200 hover:border-gold-500 hover:bg-gold-100 cursor-pointer'
               } else if (isCorrectAlt) {
                 cls += 'border-green-400 bg-green-50'
               } else if (isSelected && !isCorrectAlt) {
@@ -323,13 +329,18 @@ function QuestionContent() {
               }
 
               return (
-                <button
+                <motion.button
                   key={alt.letter}
+                  variants={{ hidden: { opacity: 0, y: 10 }, show: { opacity: 1, y: 0 } }}
+                  animate={isSelected && status !== 'idle' && !isCorrectAlt ? { x: [0, -6, 6, -4, 4, 0] } : undefined}
+                  transition={isSelected && status !== 'idle' && !isCorrectAlt ? { duration: 0.4 } : undefined}
+                  whileHover={status === 'idle' ? { scale: 1.01 } : undefined}
+                  whileTap={status === 'idle' ? { scale: 0.99 } : undefined}
                   onClick={() => handleAnswer(alt.letter)}
                   disabled={status !== 'idle'}
                   className={cls}
                 >
-                  <span className={`shrink-0 w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold ${
+                  <span className={`shrink-0 w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold transition-colors ${
                     status !== 'idle' && isCorrectAlt
                       ? 'bg-green-500 text-white'
                       : status !== 'idle' && isSelected && !isCorrectAlt
@@ -356,17 +367,29 @@ function QuestionContent() {
                   {status !== 'idle' && isSelected && !isCorrectAlt && (
                     <span className="ml-auto shrink-0 text-red-400 text-lg">✗</span>
                   )}
-                </button>
+                </motion.button>
               )
             })}
-          </div>
+          </motion.div>
         </div>
 
         {/* Result + Explanation */}
         {status === 'answered' && (
-          <div className={`rounded-2xl border p-6 mb-6 ${isCorrect ? 'bg-green-50 border-green-200' : 'bg-red-50 border-red-200'}`}>
+          <motion.div
+            initial={{ opacity: 0, y: 12, scale: 0.98 }}
+            animate={{ opacity: 1, y: 0, scale: 1 }}
+            transition={{ duration: 0.3, ease: 'easeOut' }}
+            className={`rounded-2xl border p-6 mb-6 ${isCorrect ? 'bg-green-50 border-green-200' : 'bg-red-50 border-red-200'}`}
+          >
             <div className="flex items-center gap-3 mb-3">
-              <span className="text-2xl">{isCorrect ? '🎉' : '😅'}</span>
+              <motion.span
+                className="text-2xl"
+                initial={{ scale: 0 }}
+                animate={{ scale: 1 }}
+                transition={{ delay: 0.15, type: 'spring', stiffness: 300, damping: 15 }}
+              >
+                {isCorrect ? '🎉' : '😅'}
+              </motion.span>
               <h3 className={`text-lg font-bold ${isCorrect ? 'text-green-700' : 'text-red-700'}`}>
                 {isCorrect ? 'Resposta correta!' : `Errou — a correta era ${question.correctAlternative}`}
               </h3>
@@ -378,7 +401,7 @@ function QuestionContent() {
             ) : isPro ? (
               <button
                 onClick={handleExplain}
-                className="mt-3 bg-indigo-600 text-white px-6 py-2.5 rounded-lg text-sm font-semibold hover:bg-indigo-700 transition-colors"
+                className="mt-3 bg-gold-500 text-ink-950 px-6 py-2.5 rounded-lg text-sm font-semibold hover:bg-gold-400 transition-colors"
               >
                 Ver explicação completa (IA)
               </button>
@@ -386,42 +409,72 @@ function QuestionContent() {
               <div className="mt-3">
                 <button
                   onClick={handleExplain}
-                  className="w-full bg-indigo-600 text-white px-6 py-2.5 rounded-lg text-sm font-semibold hover:bg-indigo-700 transition-colors"
+                  className="w-full bg-gold-500 text-ink-950 px-6 py-2.5 rounded-lg text-sm font-semibold hover:bg-gold-400 transition-colors"
                 >
                   Ver explicação grátis (1x por dia)
                 </button>
                 <p className="text-xs text-zinc-400 mt-1.5 text-center">Pro: ilimitado — R$14,90/mês</p>
               </div>
             ) : (
-              <div className="mt-3 bg-white border border-dashed border-indigo-300 rounded-xl p-4 text-center">
+              <div className="mt-3 bg-white border border-dashed border-gold-400 rounded-xl p-4 text-center">
                 <p className="text-sm text-zinc-600 mb-1 font-medium">Gostou da explicação?</p>
                 <p className="text-xs text-zinc-400 mb-3">Pro: IA explica todas as questões, sem limite diário.</p>
                 <Link
                   href="/planos"
-                  className="inline-block bg-indigo-600 text-white px-5 py-2 rounded-lg text-sm font-semibold hover:bg-indigo-700 transition-colors"
+                  className="inline-block bg-gold-500 text-ink-950 px-5 py-2 rounded-lg text-sm font-semibold hover:bg-gold-400 transition-colors"
                 >
                   Assinar Pro — R$14,90/mês
                 </Link>
               </div>
             )}
-          </div>
+          </motion.div>
         )}
 
         {status === 'explaining' && (
-          <div className="bg-white border border-zinc-200 rounded-2xl p-6 mb-6 text-center text-zinc-400 text-sm">
-            A IA está gerando a explicação...
-          </div>
+          <motion.div
+            initial={{ opacity: 0, y: 8 }}
+            animate={{ opacity: 1, y: 0 }}
+            className="bg-white border border-gold-100 rounded-2xl p-6 mb-6 text-center"
+          >
+            <div className="inline-flex items-center gap-2 text-sm text-ink-900 font-medium">
+              <span className="flex gap-1">
+                {[0, 1, 2].map((i) => (
+                  <motion.span
+                    key={i}
+                    className="w-1.5 h-1.5 rounded-full bg-gold-500"
+                    animate={{ y: [0, -5, 0] }}
+                    transition={{ duration: 0.6, repeat: Infinity, delay: i * 0.15 }}
+                  />
+                ))}
+              </span>
+              A IA está analisando a questão...
+            </div>
+          </motion.div>
         )}
 
-        {status === 'explained' && explanation && (
-          <div className="bg-white border border-indigo-100 rounded-2xl p-6 mb-6">
-            <div className="flex items-center gap-2 mb-4">
-              <span className="text-lg">🤖</span>
-              <h3 className="font-semibold text-zinc-900">Explicação da IA</h3>
-            </div>
-            <p className="text-zinc-700 leading-relaxed text-sm whitespace-pre-wrap">{explanation}</p>
-          </div>
-        )}
+        <AnimatePresence>
+          {status === 'explained' && explanation && (
+            <motion.div
+              initial={{ opacity: 0, y: 16 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.4, ease: 'easeOut' }}
+              className="relative rounded-2xl p-[1px] bg-gradient-to-br from-gold-400 via-gold-500 to-gold-600 mb-6 shadow-lg shadow-gold-100"
+            >
+              <div className="bg-white rounded-2xl p-6">
+                <div className="flex items-center gap-3 mb-4">
+                  <span className="shrink-0 w-9 h-9 rounded-full bg-gradient-to-br from-gold-400 to-gold-600 text-ink-950 flex items-center justify-center text-base">
+                    ✦
+                  </span>
+                  <div>
+                    <h3 className="font-semibold text-zinc-900">Explicação da IA</h3>
+                    <p className="text-xs text-zinc-400">Por que a alternativa correta é a {question.correctAlternative}</p>
+                  </div>
+                </div>
+                <p className="text-zinc-700 leading-relaxed text-sm whitespace-pre-wrap">{explanation}</p>
+              </div>
+            </motion.div>
+          )}
+        </AnimatePresence>
 
         {/* Navigation */}
         {status !== 'idle' && (
@@ -438,9 +491,9 @@ function QuestionContent() {
                 const nextNum = parseInt(parts[1]) + 1
                 router.push(`/questoes/${parts[0]}-${nextNum}?year=${year}`)
               }}
-              className="flex-1 bg-indigo-600 text-white py-3 rounded-xl font-medium hover:bg-indigo-700 transition-colors text-sm"
+              className="flex-1 bg-ink-900 text-white py-3 rounded-xl font-medium hover:bg-ink-800 transition-colors text-sm"
             >
-              Próxima questão → <span className="text-indigo-300 text-xs ml-1">[Enter]</span>
+              Próxima questão → <span className="text-white/40 text-xs ml-1">[Enter]</span>
             </button>
           </div>
         )}

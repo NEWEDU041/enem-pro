@@ -1,6 +1,8 @@
 import { JWT } from 'google-auth-library'
 import { getAllSlugsLight as getAllSlugs } from '@/lib/blog-index'
 import { SITE_URL } from '@/lib/site-config'
+import { YEARS as ENEM_YEARS, SLUG_TO_DISCIPLINE, disciplineToSlug } from '@/lib/enem-api'
+import { fetchQuestionsByYearCached } from '@/lib/questions-cache'
 
 const INDEXING_API = 'https://indexing.googleapis.com/v3/urlNotifications:publish'
 const SCOPES = ['https://www.googleapis.com/auth/indexing']
@@ -122,6 +124,63 @@ export async function submitGscSitemap(): Promise<{ ok: boolean; status?: number
   } catch (e) {
     return { ok: false, error: String(e) }
   }
+}
+
+const QUESTION_DAILY_LIMIT = 20
+
+// Pool de URLs de questões: listagens (não confirmadas indexadas) primeiro,
+// depois a cauda longa de páginas individuais por questão.
+async function buildQuestionUrlPool(): Promise<string[]> {
+  const urls: string[] = []
+
+  for (const slug of Object.keys(SLUG_TO_DISCIPLINE)) {
+    for (const year of ENEM_YEARS) {
+      urls.push(`${SITE_URL}/questoes/${slug}/${year}`)
+    }
+  }
+  for (const year of ENEM_YEARS) {
+    urls.push(`${SITE_URL}/gabarito/${year}`)
+  }
+
+  for (const year of ENEM_YEARS) {
+    try {
+      const questions = await fetchQuestionsByYearCached(year)
+      for (const q of questions) {
+        const slug = disciplineToSlug(q.discipline)
+        if (!slug) continue
+        urls.push(`${SITE_URL}/questoes/${slug}/${year}/${q.id.split('-')[1]}`)
+      }
+    } catch {
+      // pula o ano se o fetch falhar — tenta de novo no próximo drip
+    }
+  }
+
+  return urls
+}
+
+// Janela do dia, com offset próprio pra não ciclar em sincronia com o drip de blog.
+function questionDailyWindow(urls: string[]): string[] {
+  const dayIndex = Math.floor(Date.now() / 86_400_000) + 1000
+  const windows = Math.ceil(urls.length / QUESTION_DAILY_LIMIT)
+  if (windows === 0) return []
+  const w = dayIndex % windows
+  return urls.slice(w * QUESTION_DAILY_LIMIT, w * QUESTION_DAILY_LIMIT + QUESTION_DAILY_LIMIT)
+}
+
+// Drip diário de indexação para páginas de questões (listagens + individuais):
+// 20 URLs/dia em rotação, listagens não-indexadas primeiro.
+export async function dripDailyQuestionIndex() {
+  if (!process.env.GOOGLE_SERVICE_ACCOUNT_KEY) {
+    return { error: 'GOOGLE_SERVICE_ACCOUNT_KEY não configurada', total: 0, indexed: 0, fail: 0, urls: [] as string[] }
+  }
+
+  const pool = await buildQuestionUrlPool()
+  const urls = questionDailyWindow(pool)
+
+  const results = await notifyGoogleBatch(urls)
+  const indexed = results.filter(r => r.status === 200).length
+
+  return { total: urls.length, indexed, fail: urls.length - indexed, urls }
 }
 
 // Drip diário de indexação: 10 posts/dia em rotação, prioritários primeiro.

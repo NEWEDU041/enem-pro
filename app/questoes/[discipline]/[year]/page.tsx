@@ -3,15 +3,9 @@ import Link from 'next/link'
 import { fetchQuestionsByYearCached } from '@/lib/questions-cache'
 import { SITE_URL } from '@/lib/site-config'
 import { previewText } from '@/lib/text-preview'
+import { SLUG_TO_DISCIPLINE } from '@/lib/enem-api'
 
 export const dynamic = 'force-dynamic'
-
-const SLUG_TO_DISCIPLINE: Record<string, string> = {
-  'matematica': 'Matemática',
-  'linguagens': 'Linguagens, Códigos e suas Tecnologias',
-  'ciencias-humanas': 'Ciências Humanas e suas Tecnologias',
-  'ciencias-natureza': 'Ciências da Natureza e suas Tecnologias',
-}
 
 const VALID_YEARS = [2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
 
@@ -132,7 +126,7 @@ export default async function SEOQuestoesPage({ params }: { params: Promise<{ di
               return (
                 <Link
                   key={q.id}
-                  href={`/questoes/${q.id}?year=${year}`}
+                  href={`/questoes/${discipline}/${year}/${q.id.split('-')[1]}`}
                   className="block bg-white rounded-xl border border-zinc-200 px-6 py-4 hover:border-indigo-400 hover:shadow-sm transition-all"
                 >
                   <div className="flex items-start justify-between gap-4">

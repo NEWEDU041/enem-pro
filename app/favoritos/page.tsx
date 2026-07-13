@@ -5,6 +5,7 @@ import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
 import { getFavoritos, clearFavoritos, removeFavorito, type Favorito } from '@/lib/favoritos'
+import { disciplineToSlug } from '@/lib/enem-api'
 
 const supabase = createBrowserClient()
 
@@ -102,11 +103,13 @@ function FavoritosContent() {
                   {filtered.map((f) => {
                     const shortDisc = f.discipline.split(',')[0].replace('e suas Tecnologias', '').trim()
                     const realTitle = f.title && !/^Questão \d+ - ENEM \d+$/.test(f.title) ? f.title : ''
+                    const discSlug = disciplineToSlug(f.discipline)
+                    const href = discSlug ? `/questoes/${discSlug}/${f.year}/${f.id.split('-')[1]}` : `/gabarito/${f.year}`
                     return (
                       <div key={f.id} className="flex items-center gap-4 px-6 py-4 hover:bg-zinc-50 transition-colors">
                         <div className="text-amber-400 text-lg shrink-0">⭐</div>
                         <Link
-                          href={`/questoes/${f.id}?year=${f.year}`}
+                          href={href}
                           className="flex-1 min-w-0 group"
                         >
                           <div className="text-sm font-medium text-zinc-900 group-hover:text-indigo-600 truncate">
@@ -117,7 +120,7 @@ function FavoritosContent() {
                           </div>
                         </Link>
                         <div className="flex items-center gap-3 shrink-0">
-                          <Link href={`/questoes/${f.id}?year=${f.year}`} className="text-xs text-indigo-500 font-semibold hover:underline">
+                          <Link href={href} className="text-xs text-indigo-500 font-semibold hover:underline">
                             Abrir
                           </Link>
                           <button

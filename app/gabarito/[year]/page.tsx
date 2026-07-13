@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation'
 import { fetchQuestionsByYearCached } from '@/lib/questions-cache'
 import { SITE_URL } from '@/lib/site-config'
 import { previewText } from '@/lib/text-preview'
+import { disciplineToSlug } from '@/lib/enem-api'
 
 // API enem.dev only provides data for years up to 2023
 const VALID_YEARS = [2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
@@ -37,12 +38,6 @@ const DISC_SHORT: Record<string, string> = {
   'Matemática': 'Matemática',
 }
 
-const DISC_SLUG: Record<string, string> = {
-  'Linguagens, Códigos e suas Tecnologias': 'linguagens',
-  'Ciências Humanas e suas Tecnologias': 'ciencias-humanas',
-  'Ciências da Natureza e suas Tecnologias': 'ciencias-natureza',
-  'Matemática': 'matematica',
-}
 
 export default async function GabaritoYearPage({ params }: { params: Promise<{ year: string }> }) {
   const { year } = await params
@@ -130,7 +125,7 @@ export default async function GabaritoYearPage({ params }: { params: Promise<{ y
             {disciplines.map((d) => (
               <a
                 key={d}
-                href={`#${DISC_SLUG[d]}`}
+                href={`#${disciplineToSlug(d)}`}
                 className="px-4 py-2 bg-white border border-zinc-200 rounded-xl text-sm font-medium text-zinc-700 hover:border-indigo-400 hover:text-indigo-600 transition-colors"
               >
                 {DISC_SHORT[d]} ({byDisc[d].length})
@@ -158,12 +153,13 @@ export default async function GabaritoYearPage({ params }: { params: Promise<{ y
           <div className="space-y-8">
             {disciplines.map((disc) => {
               const items = byDisc[disc] || []
+              const discSlug = disciplineToSlug(disc) || ''
               return (
-                <section key={disc} id={DISC_SLUG[disc]}>
+                <section key={disc} id={discSlug}>
                   <div className="flex items-center justify-between mb-4">
                     <h2 className="text-xl font-bold text-zinc-900">{DISC_SHORT[disc]}</h2>
                     <Link
-                      href={`/questoes/${DISC_SLUG[disc]}/${year}`}
+                      href={`/questoes/${discSlug}/${year}`}
                       className="text-xs text-indigo-600 font-semibold hover:underline"
                     >
                       Praticar {DISC_SHORT[disc]} {year} →
@@ -181,7 +177,7 @@ export default async function GabaritoYearPage({ params }: { params: Promise<{ y
                         return (
                           <Link
                             key={q.id}
-                            href={`/questoes/${q.id}?year=${year}`}
+                            href={`/questoes/${discSlug}/${year}/${q.id.split('-')[1]}`}
                             className="grid grid-cols-[3rem_1fr] items-start px-4 py-3.5 hover:bg-indigo-50 transition-colors group"
                           >
                             <span className="text-sm font-mono text-zinc-400 pt-0.5">{globalIndex}</span>
