@@ -139,7 +139,7 @@ export async function fetchSingleQuestion(year: number, index: number): Promise<
     return {
       id: `${year}-${index}`,
       year,
-      discipline: q.discipline || 'Geral',
+      discipline: normalizeDiscipline(q.discipline),
       title: q.title || '',
       context: q.context || '',
       alternativesIntroduction: q.alternativesIntroduction || '',

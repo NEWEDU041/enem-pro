@@ -61,8 +61,11 @@ export async function fetchQuestionsByYearCached(year: number): Promise<Question
   try {
     // 2. Fetch from external API
     const questions = await fetchQuestionsByYear(year)
-    // 3. Store async (non-blocking)
-    setCachedYear(year, questions).catch(() => {})
+    // 3. Store — awaited so the write survives serverless function teardown
+    // (a fire-and-forget promise here was routinely killed before landing,
+    // leaving the cache permanently empty and every request hitting the
+    // live API instead of Supabase)
+    await setCachedYear(year, questions)
     return questions
   } catch (err) {
     // 4. API failed — serve stale cache rather than error
