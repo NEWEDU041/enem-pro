@@ -2,6 +2,7 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 import { fetchQuestionsByYearCached } from '@/lib/questions-cache'
 import { SITE_URL } from '@/lib/site-config'
+import { previewText } from '@/lib/text-preview'
 
 export const dynamic = 'force-dynamic'
 
@@ -127,7 +128,7 @@ export default async function SEOQuestoesPage({ params }: { params: Promise<{ di
         {questions.length > 0 ? (
           <div className="space-y-3 mb-10">
             {questions.map((q, i) => {
-              const preview = q.alternativesIntroduction || q.context || q.title
+              const preview = previewText(q.alternativesIntroduction) || previewText(q.context)
               return (
                 <Link
                   key={q.id}
@@ -140,7 +141,7 @@ export default async function SEOQuestoesPage({ params }: { params: Promise<{ di
                         <span className="text-xs text-zinc-400">Questão {i + 1}</span>
                       </div>
                       <p className="text-sm text-zinc-700 line-clamp-2 leading-relaxed">
-                        {preview || 'Ver questão completa'}
+                        {preview || 'Questão com imagem — ver completa'}
                       </p>
                     </div>
                     <span className="text-zinc-300 shrink-0">→</span>

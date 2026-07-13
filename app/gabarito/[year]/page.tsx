@@ -3,6 +3,7 @@ import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { fetchQuestionsByYearCached } from '@/lib/questions-cache'
 import { SITE_URL } from '@/lib/site-config'
+import { previewText } from '@/lib/text-preview'
 
 // API enem.dev only provides data for years up to 2023
 const VALID_YEARS = [2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
@@ -176,7 +177,7 @@ export default async function GabaritoYearPage({ params }: { params: Promise<{ y
                     <div className="divide-y divide-zinc-100">
                       {items.map(({ q, globalIndex }) => {
                         const correctAlt = q.alternatives?.find((a) => a.letter === q.correctAlternative)
-                        const preview = q.alternativesIntroduction || q.context || ''
+                        const preview = previewText(q.alternativesIntroduction) || previewText(q.context)
                         return (
                           <Link
                             key={q.id}
@@ -186,14 +187,14 @@ export default async function GabaritoYearPage({ params }: { params: Promise<{ y
                             <span className="text-sm font-mono text-zinc-400 pt-0.5">{globalIndex}</span>
                             <span>
                               <span className="block text-sm text-zinc-700 pr-4 group-hover:text-indigo-700">
-                                {preview ? preview.slice(0, 140) + (preview.length > 140 ? '…' : '') : 'Ver questão completa'}
+                                {preview ? preview.slice(0, 140) + (preview.length > 140 ? '…' : '') : 'Questão com imagem — ver completa'}
                               </span>
                               <span className="mt-1.5 flex items-start gap-2">
                                 <span className="shrink-0 inline-flex items-center justify-center w-6 h-6 rounded-full bg-green-100 text-green-700 font-bold text-xs">
                                   {q.correctAlternative}
                                 </span>
                                 <span className="text-sm text-green-700 leading-snug pt-0.5">
-                                  {correctAlt?.text || (correctAlt?.file ? 'Alternativa em imagem — ver questão completa' : 'Resposta correta')}
+                                  {previewText(correctAlt?.text) || (correctAlt?.file ? 'Alternativa em imagem — ver questão completa' : 'Resposta correta')}
                                 </span>
                               </span>
                             </span>
