@@ -47,6 +47,7 @@ interface RawAlternative {
   letra?: string
   text?: string
   texto?: string
+  file?: string | null
   isCorrect?: boolean
 }
 
@@ -74,6 +75,7 @@ function mapQuestion(q: RawQuestion, year: number, fallbackIndex: number): Quest
   const alternatives = (q.alternatives || q.alternativas || []).map((a) => ({
     letter: a.letter || a.letra || '',
     text: a.text || a.texto || '',
+    file: a.file || null,
     isCorrect: a.isCorrect || false,
   }))
 
@@ -126,6 +128,7 @@ export async function fetchSingleQuestion(year: number, index: number): Promise<
     const alternatives = (q.alternatives || []).map((a) => ({
       letter: a.letter || '',
       text: a.text || '',
+      file: a.file || null,
       isCorrect: a.isCorrect || false,
     }))
 
