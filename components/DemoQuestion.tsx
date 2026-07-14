@@ -2,6 +2,8 @@
 
 import { useEffect, useState } from 'react'
 import Link from 'next/link'
+import { motion, AnimatePresence } from 'framer-motion'
+import QuestionText from '@/components/QuestionText'
 
 interface Alt { letter: string; text: string; isCorrect?: boolean }
 interface Q {
@@ -98,29 +100,36 @@ export default function DemoQuestion() {
       {/* Header */}
       <div className="flex items-center justify-between mb-4">
         <div className="flex items-center gap-2">
-          <span className="text-xs font-bold text-indigo-600 bg-indigo-50 px-2.5 py-1 rounded-full">Questão do Dia</span>
+          <span className="text-xs font-bold text-ink-900 bg-gold-100 px-2.5 py-1 rounded-full">Questão do Dia</span>
           <span className="text-xs text-zinc-400">{today}</span>
         </div>
         <span className="text-xs text-zinc-400">ENEM {q.year} · {q.discipline.split(',')[0]}</span>
       </div>
 
-      {revealed && (
-        <div className={`rounded-xl px-5 py-3 mb-4 flex items-center gap-3 border ${isCorrect ? 'bg-green-50 border-green-200' : 'bg-red-50 border-red-200'}`}>
-          <span className="text-xl">{isCorrect ? '🎉' : '😅'}</span>
-          <span className={`font-semibold text-sm ${isCorrect ? 'text-green-700' : 'text-red-700'}`}>
-            {isCorrect ? 'Correto! Você acertou.' : `Errou — a correta era ${q.correctAlternative}`}
-          </span>
-        </div>
-      )}
+      <AnimatePresence>
+        {revealed && (
+          <motion.div
+            initial={{ opacity: 0, y: 8, scale: 0.98 }}
+            animate={{ opacity: 1, y: 0, scale: 1 }}
+            transition={{ duration: 0.25, ease: 'easeOut' }}
+            className={`rounded-xl px-5 py-3 mb-4 flex items-center gap-3 border ${isCorrect ? 'bg-green-50 border-green-200' : 'bg-red-50 border-red-200'}`}
+          >
+            <span className="text-xl">{isCorrect ? '🎉' : '😅'}</span>
+            <span className={`font-semibold text-sm ${isCorrect ? 'text-green-700' : 'text-red-700'}`}>
+              {isCorrect ? 'Correto! Você acertou.' : `Errou — a correta era ${q.correctAlternative}`}
+            </span>
+          </motion.div>
+        )}
+      </AnimatePresence>
 
       {q.context && (
-        <div className="text-zinc-700 bg-zinc-50 p-4 rounded-xl mb-4 text-sm whitespace-pre-wrap leading-relaxed">
-          {q.context}
+        <div className="text-zinc-700 bg-zinc-50 p-4 rounded-xl mb-4 leading-relaxed">
+          <QuestionText text={q.context} />
         </div>
       )}
 
       <div className="bg-zinc-50 rounded-xl p-4 mb-4">
-        <p className="text-sm text-zinc-800 leading-relaxed">{q.alternativesIntroduction}</p>
+        <QuestionText text={q.alternativesIntroduction} />
       </div>
 
       <div className="space-y-2 mb-5">
@@ -135,12 +144,12 @@ export default function DemoQuestion() {
               className={`w-full text-left px-4 py-3 rounded-xl border text-sm transition-all ${
                 right ? 'bg-green-50 border-green-400 text-green-800' :
                 wrong ? 'bg-red-50 border-red-400 text-red-800' :
-                selected === alt.letter ? 'bg-indigo-50 border-indigo-400' :
-                'bg-white border-zinc-200 hover:border-indigo-300 disabled:cursor-default'
+                selected === alt.letter ? 'bg-gold-100 border-gold-500' :
+                'bg-white border-ink-100 hover:border-gold-400 disabled:cursor-default'
               }`}
             >
               <div className="flex gap-3">
-                <span className={`font-bold w-5 shrink-0 ${right ? 'text-green-600' : wrong ? 'text-red-500' : 'text-indigo-600'}`}>
+                <span className={`font-bold w-5 shrink-0 ${right ? 'text-green-600' : wrong ? 'text-red-500' : 'text-ink-900'}`}>
                   {alt.letter}
                 </span>
                 <span className="flex-1 text-sm">{alt.text}</span>
@@ -152,21 +161,33 @@ export default function DemoQuestion() {
         })}
       </div>
 
-      {revealed && (
-        <div className="bg-indigo-50 border border-indigo-100 rounded-xl p-5">
-          <p className="text-sm font-semibold text-indigo-900 mb-1.5">No Pro, a IA explica o raciocínio completo:</p>
-          <p className="text-sm text-indigo-700 italic mb-4 leading-relaxed">
-            {isCorrect
-              ? `"A alternativa ${q.correctAlternative} é correta porque... [a IA detalha passo a passo para cada questão que você responder]"`
-              : `"A alternativa ${q.correctAlternative} é a correta. Você errou porque... [a IA identifica o gap e explica como não repetir o erro]"`}
-          </p>
-          <Link href="/auth/register"
-            className="block text-center bg-indigo-600 text-white py-3 rounded-xl font-semibold hover:bg-indigo-700 text-sm transition-colors">
-            Criar conta grátis — 10 questões/dia
-          </Link>
-          <p className="text-xs text-center text-indigo-400 mt-2">Nova questão do dia amanhã. Sem cartão de crédito.</p>
-        </div>
-      )}
+      <AnimatePresence>
+        {revealed && (
+          <motion.div
+            initial={{ opacity: 0, y: 12 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.3, delay: 0.1, ease: 'easeOut' }}
+            className="relative rounded-xl p-[1px] bg-gradient-to-br from-gold-500 to-gold-600"
+          >
+            <div className="bg-ink-950 rounded-xl p-5">
+              <div className="flex items-center gap-2 mb-1.5">
+                <span className="w-6 h-6 rounded-full bg-gradient-to-br from-gold-400 to-gold-600 text-ink-950 flex items-center justify-center text-xs shrink-0">✦</span>
+                <p className="text-sm font-semibold text-white">No Pro, a IA explica o raciocínio completo:</p>
+              </div>
+              <p className="text-sm text-ink-200 italic mb-4 leading-relaxed">
+                {isCorrect
+                  ? `"A alternativa ${q.correctAlternative} é correta porque... [a IA detalha passo a passo para cada questão que você responder]"`
+                  : `"A alternativa ${q.correctAlternative} é a correta. Você errou porque... [a IA identifica o gap e explica como não repetir o erro]"`}
+              </p>
+              <Link href="/auth/register"
+                className="block text-center bg-gold-500 text-ink-950 py-3 rounded-xl font-semibold hover:bg-gold-400 text-sm transition-colors">
+                Criar conta grátis — 10 questões/dia
+              </Link>
+              <p className="text-xs text-center text-ink-500 mt-2">Nova questão do dia amanhã. Sem cartão de crédito.</p>
+            </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
 
       {!revealed && (
         <p className="text-xs text-center text-zinc-400 mt-2">Selecione uma alternativa para ver o gabarito</p>
