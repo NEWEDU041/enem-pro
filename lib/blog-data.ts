@@ -5597,9 +5597,10 @@ A aprovação no curso de Direito exige planejamento estratégico e dedicação 
 
 
 
+*USP não participa do Sisu (seleciona por Fuvest) — a tabela abaixo cobre só universidades que usam o Sisu.*
+
 | Universidade | Turno | Nota de Corte Estimada |
 |-------------|-------|----------------------|
-| USP (diurno) | Manhã | 730–760 |
 | UFMG | Manhã | 710–740 |
 | UFRJ | Manhã | 695–720 |
 | UFPR | Manhã | 680–710 |
@@ -54622,7 +54623,386 @@ R: Causas similares: dívida, desigualdade, ideias novas. Americana (1776) influ
 ` },
 ]
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13, ...EXTRA_POSTS_14, ...EXTRA_POSTS_15, ...EXTRA_POSTS_16, ...EXTRA_POSTS_17, ...EXTRA_POSTS_18, ...EXTRA_POSTS_19, ...EXTRA_POSTS_20, ...EXTRA_POSTS_21, ...EXTRA_POSTS_22]
+const EXTRA_POSTS_23: BlogPost[] = [
+  { slug: 'questoes-linguagens-enem-2023-resolvidas', title: "7 Questões de Linguagens do ENEM 2023 Resolvidas — Gabarito Comentado", description: "7 questões reais de Linguagens do ENEM 2023, selecionadas e resolvidas com gabarito oficial e explicação passo a passo de cada resposta correta. Pratique grátis.", date: '2026-07-13', readTime: 5, content: `Reunimos 7 questões oficiais de Linguagens do ENEM 2023 que costumam gerar mais dúvida na hora da resolução. Cada uma vem com o enunciado, a resposta correta e a explicação de por que essa é a alternativa certa — para você entender o raciocínio, não só decorar a letra.
+
+> **Key Takeaways**
+> - 7 questões reais do ENEM 2023 de Linguagens, com gabarito oficial confirmado
+> - Cada questão tem explicação de por que a alternativa correta é a certa e por que as outras erram
+> - Todas as questões têm página própria com o enunciado completo — [pratique cada uma no ENEM Pro](/questoes/linguagens/2023)
+
+## As questões
+
+### 1. Questão 1
+
+> O filme Como estrellas en la tierra aborda o tema da dislexia. Relacionando o cartaz do filme com a sinopse, constata-se que o(a)...
+
+**Resposta certa:** alternativa A) Olhar diferenciado para com o outro gera mudanças.
+
+**Por quê:** A alternativa A é a correta porque o filme "Como estrelas na terra" mostra exatamente que um olhar diferenciado — o do professor Ram Shankar Nikumbh — transforma completamente a vida de Ishaan. O professor percebe que o menino tem dislexia e, em vez de puni-lo, enxerga seu potencial artístico.
+
+[Ver questão completa e praticar →](/questoes/linguagens/2023/1)
+
+### 2. Questão 9
+
+> A propagação sistemática de informações é um fenômeno recorrente na história e no desenvolvimento das sociedades. No texto, a eficácia dessa propagação está diretamente relacionada ao (à)...
+
+**Resposta certa:** alternativa E) Diversidade dos meios disponíveis em uma época histórica.
+
+**Por quê:** O texto compara a propagação de notícias na Idade Média com os fenômenos contemporâneos. A eficácia da propagação está diretamente ligada às redes e tecnologias de comunicação disponíveis em cada época — alternativa E.
+
+[Ver questão completa e praticar →](/questoes/linguagens/2023/9)
+
+### 3. Questão 15
+
+> A perda dos registros linguísticos no incêndio do Museu Nacional tem impacto potencializado, uma vez que...
+
+**Resposta certa:** alternativa B) Representa danos irreparáveis à memória e à identidade nacionais.
+
+**Por quê:** Os registros linguísticos indígenas perdidos no incêndio do Museu Nacional eram únicos e irrecuperáveis, representando parte da memória e identidade cultural brasileira. As demais alternativas exageram ou distorcem o impacto descrito.
+
+[Ver questão completa e praticar →](/questoes/linguagens/2023/15)
+
+### 4. Questão 20
+
+> No princípio era o verbo. A frase que abre o primeiro capítulo do Evangelho de João e remete à criação do mundo, assim como também faz o Gênesis, é a mais famosa da Bíblia. A ideia de que o mundo é criado pela palavra, p...
+
+**Resposta certa:** alternativa E) Criticar o obstáculo promovido pelos usos especializa- dos da linguagem.
+
+**Por quê:** A frase "No princípio era o verbo" é usada como intertexto com o Evangelho de João e o Gênesis bíblico. A questão explora como essa referência bíblica conecta linguagem e criação.
+
+[Ver questão completa e praticar →](/questoes/linguagens/2023/20)
+
+### 5. Questão 27
+
+> E assim as coisas continuaram acontecendo entre os dois, em quase sustos, um grande por acaso com cacoetes de gestos definitivos. Com o Nunca Mais se oferecendo o tempo todo, bastaria dizer foi um prazer ter te conhecido...
+
+**Resposta certa:** alternativa A) Repetição do pronome indefinido "todos".
+
+**Por quê:** O trecho apresenta uma relação amorosa descrita com ambiguidade e indeterminação. "Nunca Mais" se oferecendo o tempo todo sugere que a ruptura está sempre presente mas nunca concretizada.
+
+[Ver questão completa e praticar →](/questoes/linguagens/2023/27)
+
+### 6. Questão 32
+
+> O sol começa a descer por trás da vegetação da Ilha da Restinga, na outra margem do rio Paraíba, colorindo o céu de amarelo, laranja e lilás. Então se ouvem as primeiras notas do Bolero, do compositor francês Maurice Rav...
+
+**Resposta certa:** alternativa A) Inter-relação de referenciais estéticos aparentemente distanciados.
+
+**Por quê:** O texto descreve uma cena ao entardecer com paisagem e música (Bolero de Ravel). A alternativa A identifica que a fusão de elementos visuais (céu colorido) e sonoros (música) cria uma experiência sinestésica que intensifica a atmosfera emocional da cena.
+
+[Ver questão completa e praticar →](/questoes/linguagens/2023/32)
+
+### 7. Questão 38
+
+> A notícia trata da mudança ocorrida em um dicionário da língua portuguesa. Segundo o texto, essa mudança foi impulsionada pela...
+
+**Resposta certa:** alternativa C) Utilização pública da petição pelos cidadãos.
+
+**Por quê:** A mudança na definição de "casamento" no dicionário Michaelis foi impulsionada pela pressão social organizada — uma petição online com apoio de cidadãos.
+
+[Ver questão completa e praticar →](/questoes/linguagens/2023/38)
+
+## FAQ
+
+**Essas questões são as mesmas que caíram no ENEM 2023 de verdade?**
+
+Sim. São questões oficiais aplicadas no ENEM 2023, com o gabarito divulgado pelo INEP. Não são simulações nem questões inéditas.
+
+**Como funciona a explicação de cada resposta?**
+
+Cada questão tem uma explicação gerada especificamente para justificar por que a alternativa correta está certa e, quando relevante, por que as demais alternativas erram — disponível na íntegra na página de cada questão.
+
+**Posso praticar mais questões de Linguagens além dessas 7?**
+
+Sim, o ENEM Pro tem todas as questões de Linguagens do ENEM 2023 (e de 2009 a 2023) organizadas por ano — [veja a lista completa](/questoes/linguagens/2023).
+
+` },
+  { slug: 'questoes-ciencias-humanas-enem-2023-resolvidas', title: "7 Questões de Ciências Humanas do ENEM 2023 Resolvidas — Gabarito Comentado", description: "7 questões reais de Ciências Humanas do ENEM 2023, selecionadas e resolvidas com gabarito oficial e explicação passo a passo de cada resposta correta. Pratique grátis.", date: '2026-07-13', readTime: 4, content: `Reunimos 7 questões oficiais de Ciências Humanas do ENEM 2023 que costumam gerar mais dúvida na hora da resolução. Cada uma vem com o enunciado, a resposta correta e a explicação de por que essa é a alternativa certa — para você entender o raciocínio, não só decorar a letra.
+
+> **Key Takeaways**
+> - 7 questões reais do ENEM 2023 de Ciências Humanas, com gabarito oficial confirmado
+> - Cada questão tem explicação de por que a alternativa correta é a certa e por que as outras erram
+> - Todas as questões têm página própria com o enunciado completo — [pratique cada uma no ENEM Pro](/questoes/ciencias-humanas/2023)
+
+## As questões
+
+### 1. Questão 30
+
+> Enquanto estivemos entretidos com os urubus outras coisas andaram acontecendo na cidade. A Companhia baixou novas proibições, umas inteiramente bobocas, só pelo prazer de proibir (ninguém podia cuspir pra cima, nem carre...
+
+**Resposta certa:** alternativa A) Culto ao medo, infiltrado em situações do cotidiano.
+
+**Por quê:** O trecho literário descreve um regime de controle autoritário ("a Companhia") que impõe proibições arbitrárias enquanto a população está distraída.
+
+[Ver questão completa e praticar →](/questoes/ciencias-humanas/2023/30)
+
+### 2. Questão 48
+
+> TEXTO I Com uma população de 25 milhões de habitantes (cerca de 60% de minorias muçulmanas, principalmente da etnia Uigur), Xinjiang é uma região estratégica para a China. Faz fronteira com oito países, é uma artéria cru...
+
+**Resposta certa:** alternativa E) Assegurar a integridade territorial.
+
+**Por quê:** O texto sobre Xinjiang descreve políticas do governo chinês sobre a população Uigur. A alternativa E identifica o caso como exemplo de etnocídio cultural — supressão sistemática de cultura, língua e religião de uma minoria étnica pelo Estado, mesmo sem extermínio físico direto.
+
+[Ver questão completa e praticar →](/questoes/ciencias-humanas/2023/48)
+
+### 3. Questão 52
+
+> Escrito durante a Primeira Guerra Mundial, o seguinte trecho faz parte da carta enviada pelo secretário do exterior britânico, Sir Arthur James Balfour, ao banqueiro Lord Rotschild, presidente da Liga Sionista, em 2 de n...
+
+**Resposta certa:** alternativa C) Mediar os conflitos territoriais.
+
+**Por quê:** A Declaração Balfour (1917) foi uma carta do governo britânico apoiando o estabelecimento de um lar nacional para o povo judeu na Palestina.
+
+[Ver questão completa e praticar →](/questoes/ciencias-humanas/2023/52)
+
+### 4. Questão 58
+
+> Quem se mete pelo caminho do pedido de perdão deve estar pronto a escutar uma palavra de recusa. Entrar na atmosfera do perdão é aceitar medir-se com a possibilidade sempre aberta do imperdoável. Perdão pedido não é perd...
+
+**Resposta certa:** alternativa E) Relações interpessoais medidas pela autonomia dos indivíduos.
+
+**Por quê:** O texto filosófico sobre o perdão afirma que perdoar exige estar disposto a receber uma recusa. A alternativa E identifica que o perdão autêntico não é um ato unilateral garantido, mas um encontro que pode ser rejeitado — o que respeita a liberdade do ofendido.
+
+[Ver questão completa e praticar →](/questoes/ciencias-humanas/2023/58)
+
+### 5. Questão 69
+
+> O masseiro, a mulher, e quatro filhos, dormindo numa tapera de quatro paredes de caixão, coberta de zinco. A água do mangue, na maré cheia, ia dentro de casa. Os maruins de noite encalombavam o corpo dos meninos. O mangu...
+
+**Resposta certa:** alternativa C) Interferência do espaço geográfico.
+
+**Por quê:** O texto descreve uma família vivendo em condições precárias, com a maré invadindo a casa de caixão coberta de zinco.
+
+[Ver questão completa e praticar →](/questoes/ciencias-humanas/2023/69)
+
+### 6. Questão 80
+
+> A postura determinista adotada pelo personagem Gerineldo contrasta com a ideia existencialista contida no pensamento filosófico de Sartre porque...
+
+**Resposta certa:** alternativa B) Nega a possibilidade de transcendência.
+
+**Por quê:** Gerineldo é determinista: aceita passivamente que o mundo é fixo e previsível. Sartre, existencialista, afirma que "a existência precede a essência" — o ser humano se define pelas suas escolhas, não por uma essência predeterminada.
+
+[Ver questão completa e praticar →](/questoes/ciencias-humanas/2023/80)
+
+### 7. Questão 89
+
+> De acordo com a diferenciação feita pelo autor, que prática econômica é considerada moralmente condenável?
+
+**Resposta certa:** alternativa A) Adoção do dumping comercial.
+
+**Por quê:** O autor diferencia concorrência (competição com regras) de competição predatória (sem limites éticos).
+
+[Ver questão completa e praticar →](/questoes/ciencias-humanas/2023/89)
+
+## FAQ
+
+**Essas questões são as mesmas que caíram no ENEM 2023 de verdade?**
+
+Sim. São questões oficiais aplicadas no ENEM 2023, com o gabarito divulgado pelo INEP. Não são simulações nem questões inéditas.
+
+**Como funciona a explicação de cada resposta?**
+
+Cada questão tem uma explicação gerada especificamente para justificar por que a alternativa correta está certa e, quando relevante, por que as demais alternativas erram — disponível na íntegra na página de cada questão.
+
+**Posso praticar mais questões de Ciências Humanas além dessas 7?**
+
+Sim, o ENEM Pro tem todas as questões de Ciências Humanas do ENEM 2023 (e de 2009 a 2023) organizadas por ano — [veja a lista completa](/questoes/ciencias-humanas/2023).
+
+` },
+  { slug: 'questoes-ciencias-natureza-enem-2023-resolvidas', title: "7 Questões de Ciências da Natureza do ENEM 2023 Resolvidas — Gabarito Comentado", description: "7 questões reais de Ciências da Natureza do ENEM 2023, selecionadas e resolvidas com gabarito oficial e explicação passo a passo de cada resposta correta. Pratique grátis.", date: '2026-07-13', readTime: 5, content: `Reunimos 7 questões oficiais de Ciências da Natureza do ENEM 2023 que costumam gerar mais dúvida na hora da resolução. Cada uma vem com o enunciado, a resposta correta e a explicação de por que essa é a alternativa certa — para você entender o raciocínio, não só decorar a letra.
+
+> **Key Takeaways**
+> - 7 questões reais do ENEM 2023 de Ciências da Natureza, com gabarito oficial confirmado
+> - Cada questão tem explicação de por que a alternativa correta é a certa e por que as outras erram
+> - Todas as questões têm página própria com o enunciado completo — [pratique cada uma no ENEM Pro](/questoes/ciencias-natureza/2023)
+
+## As questões
+
+### 1. Questão 96
+
+> As aves apresentam dois tipos de músculos em seus corpos: vermelhos e brancos. Aves migratórias como garças, gansos e patos selvagens têm os músculos vermelhos bem desenvolvidos, com ampla rede de vasos sanguíneos. Nas v...
+
+**Resposta certa:** alternativa B) Metabolismo corpóreo elevado.
+
+**Por quê:** Aves migratórias têm músculos vermelhos predominantes porque fazem voos longos e contínuos. Os músculos vermelhos são ricos em mioglobina e mitocôndrias, usando metabolismo aeróbico (oxidação de gorduras) — ideal para resistência.
+
+[Ver questão completa e praticar →](/questoes/ciencias-natureza/2023/96)
+
+### 2. Questão 101
+
+> Ele solicita aos alunos que analisem as grandezas cinemáticas no instante em que a esfera atinge a altura máxima, escolhendo uma combinação para os módulos e sentidos da velocidade e da aceleração. A escolha que correspo...
+
+**Resposta certa:** alternativa C) V = 0 e a ≠ 0 para baixo.
+
+**Por quê:** A alternativa C é a correta porque no ponto mais alto de um lançamento vertical, a velocidade é zero (o objeto para instantaneamente antes de voltar), mas a aceleração gravitacional continua atuando para baixo (≠0). Isso é fundamental: a gravidade nunca cessa, mesmo quando a velocidade é nula.
+
+[Ver questão completa e praticar →](/questoes/ciencias-natureza/2023/101)
+
+### 3. Questão 103
+
+> As cetonas fazem parte de famílias olfativas encontradas em muitos alimentos. A molécula de hexan-3-ona é um exemplo desses compostos voláteis responsáveis pelo aroma, podendo ser obtida por processos energéticos realiza...
+
+**Resposta certa:** alternativa C) Hexan-3-ol.
+
+**Por quê:** A alternativa C é a correta porque para produzir hexan-3-ona (cetona), é preciso oxidar um álcool secundário na posição 3 da cadeia carbônica — o hexan-3-ol. A oxidação de álcoois secundários gera cetonas.
+
+[Ver questão completa e praticar →](/questoes/ciencias-natureza/2023/103)
+
+### 4. Questão 105
+
+> Caso esse suplemento seja acondicionado em embalagem desse tipo de vidro, o risco de contaminação por alumínio será maior se o(a)...
+
+**Resposta certa:** alternativa B) Concentração de gluconato de cálcio for alta.
+
+**Por quê:** A alternativa B é a correta porque a concentração alta de gluconato de cálcio (solução ácida ou com pH alterado) aumenta a corrosão do vidro com alumínio na composição, liberando esse metal para o suplemento. Soluções mais concentradas reagem mais intensamente com a superfície do vidro.
+
+[Ver questão completa e praticar →](/questoes/ciencias-natureza/2023/105)
+
+### 5. Questão 109
+
+> O fogão por indução funciona a partir do surgimento de uma corrente elétrica induzida no fundo da panela, com consequente transformação de energia elétrica em calor por efeito Joule. A principal vantagem desses fogões é ...
+
+**Resposta certa:** alternativa D) Campo magnético variável.
+
+**Por quê:** A alternativa D é a correta porque o fogão de indução baseia-se na Lei de Faraday: uma corrente elétrica é induzida em um condutor quando ele está sujeito a um campo magnético variável.
+
+[Ver questão completa e praticar →](/questoes/ciencias-natureza/2023/109)
+
+### 6. Questão 113
+
+> Informações digitais — dados — são gravadas em discos ópticos, como CD e DVD, na forma de cavidades microscópicas. A gravação e a leitura óptica dessas informações são realizadas por um laser (fonte de luz monocromática)...
+
+**Resposta certa:** alternativa A) Violeta.
+
+**Por quê:** A alternativa A é a correta porque para armazenar mais dados em um disco óptico (menor difração = menores cavidades legíveis), é preciso um laser com comprimento de onda menor.
+
+[Ver questão completa e praticar →](/questoes/ciencias-natureza/2023/113)
+
+### 7. Questão 116
+
+> A biorremediação designa tratamentos que usam organismos para reduzir a quantidade de substâncias tóxicas no ambiente ou degradá-las em substâncias não tóxicas ou de menor toxicidade. Uma planta aquática, o aguapé, tem s...
+
+**Resposta certa:** alternativa B) Acumulados nos tecidos.
+
+**Por quê:** A alternativa B é a correta porque o aguapé absorve metais pesados da água por acumulação nos próprios tecidos vegetais — é o princípio da fitoacumulação. Os metais são captados pelas raízes e armazenados no vacúolo das células, sem serem digeridos ou metabolizados.
+
+[Ver questão completa e praticar →](/questoes/ciencias-natureza/2023/116)
+
+## FAQ
+
+**Essas questões são as mesmas que caíram no ENEM 2023 de verdade?**
+
+Sim. São questões oficiais aplicadas no ENEM 2023, com o gabarito divulgado pelo INEP. Não são simulações nem questões inéditas.
+
+**Como funciona a explicação de cada resposta?**
+
+Cada questão tem uma explicação gerada especificamente para justificar por que a alternativa correta está certa e, quando relevante, por que as demais alternativas erram — disponível na íntegra na página de cada questão.
+
+**Posso praticar mais questões de Ciências da Natureza além dessas 7?**
+
+Sim, o ENEM Pro tem todas as questões de Ciências da Natureza do ENEM 2023 (e de 2009 a 2023) organizadas por ano — [veja a lista completa](/questoes/ciencias-natureza/2023).
+
+` },
+  { slug: 'questoes-matematica-enem-2023-resolvidas', title: "7 Questões de Matemática do ENEM 2023 Resolvidas — Gabarito Comentado", description: "7 questões reais de Matemática do ENEM 2023, selecionadas e resolvidas com gabarito oficial e explicação passo a passo de cada resposta correta. Pratique grátis.", date: '2026-07-13', readTime: 4, content: `Reunimos 7 questões oficiais de Matemática do ENEM 2023 que costumam gerar mais dúvida na hora da resolução. Cada uma vem com o enunciado, a resposta correta e a explicação de por que essa é a alternativa certa — para você entender o raciocínio, não só decorar a letra.
+
+> **Key Takeaways**
+> - 7 questões reais do ENEM 2023 de Matemática, com gabarito oficial confirmado
+> - Cada questão tem explicação de por que a alternativa correta é a certa e por que as outras erram
+> - Todas as questões têm página própria com o enunciado completo — [pratique cada uma no ENEM Pro](/questoes/matematica/2023)
+
+## As questões
+
+### 1. Questão 129
+
+> Essa interferência poderá ocorrer somente se as ondas emitidas pelo celular e as recebidas pelo rádio do avião...
+
+**Resposta certa:** alternativa C) Tiverem a mesma frequência.
+
+**Por quê:** A alternativa C é a correta porque interferência entre ondas (construtiva ou destrutiva) só ocorre quando as ondas têm a mesma frequência — condição de coerência. Se as ondas do celular e do rádio da aeronave tiverem a mesma frequência, os sinais se sobrepõem e podem causar interferência prejudicial.
+
+[Ver questão completa e praticar →](/questoes/matematica/2023/129)
+
+### 2. Questão 141
+
+> Comparando os valores da média, da mediana e da moda da distribuição das quantidades de viagens realizadas pelos motoristas cadastrados nessa empresa, obtém-se...
+
+**Resposta certa:** alternativa E) Moda < mediana < média.
+
+**Por quê:** A alternativa E é a correta porque a distribuição de viagens dos motoristas é assimétrica positiva (cauda para a direita), com poucos motoristas fazendo muitas viagens.
+
+[Ver questão completa e praticar →](/questoes/matematica/2023/141)
+
+### 3. Questão 147
+
+> Considere que os números colocados nos vértices do triângulo estejam em progressão aritmética de razão igual a 2. Nas condições propostas, quais as possíveis soluções para as somas dos números que formam os lados do triâ...
+
+**Resposta certa:** alternativa E) Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 10 e outra em que as somas são iguais a 11.
+
+**Por quê:** Em uma PA de razão 2 nos vértices de um triângulo, os termos são (n, n+2, n+4). Analisando todas as disposições possíveis nos vértices, há exatamente duas soluções para as somas dos lados: 10 ou 11 — alternativa E.
+
+[Ver questão completa e praticar →](/questoes/matematica/2023/147)
+
+### 4. Questão 151
+
+> Nessas condições, ao final da primeira hora após a ingestão da quantidade q de álcool, a concentração C dessa substância no sangue é expressa algebricamente por...
+
+**Resposta certa:** alternativa A) C = 0,9q
+
+**Por quê:** Se o corpo elimina 10% do álcool por hora, então 90% permanece após a primeira hora. Se q é a quantidade ingerida, C = 0,9q — alternativa A.
+
+[Ver questão completa e praticar →](/questoes/matematica/2023/151)
+
+### 5. Questão 158
+
+> Qual é o percentual de estudantes dessa amostra com massa corporal abaixo da média e altura acima da média?
+
+**Resposta certa:** alternativa B) 20
+
+**Por quê:** O professor avalia dois critérios simultaneamente: massa abaixo da média E altura acima da média. Contando apenas os alunos que satisfazem ambas as condições e calculando o percentual em relação ao total da amostra, o resultado é 20% — alternativa B.
+
+[Ver questão completa e praticar →](/questoes/matematica/2023/158)
+
+### 6. Questão 161
+
+> Nessas condições, o tipo de senha que apresenta a menor probabilidade de ser descoberta ao acaso, na primeira tentativa, é o...
+
+**Resposta certa:** alternativa A) Tipo I, pois p1 < p2 < p3.
+
+**Por quê:** O Tipo I combina letras maiúsculas, minúsculas e dígitos, criando espaço amostral muito maior que os demais tipos.
+
+[Ver questão completa e praticar →](/questoes/matematica/2023/161)
+
+### 7. Questão 165
+
+> De acordo com o gráfico, entre as demais categorias, a que está mais exposta ao vírus da gripe A-H1N1 é a categoria de...
+
+**Resposta certa:** alternativa D) Adultos entre 20 e 29 anos.
+
+**Por quê:** Analisando o gráfico de categorias em processo de imunização contra H1N1, excluindo os trabalhadores da saúde (já imunizados), verifica-se qual categoria tem maior percentual ainda não imunizado e portanto mais exposta.
+
+[Ver questão completa e praticar →](/questoes/matematica/2023/165)
+
+## FAQ
+
+**Essas questões são as mesmas que caíram no ENEM 2023 de verdade?**
+
+Sim. São questões oficiais aplicadas no ENEM 2023, com o gabarito divulgado pelo INEP. Não são simulações nem questões inéditas.
+
+**Como funciona a explicação de cada resposta?**
+
+Cada questão tem uma explicação gerada especificamente para justificar por que a alternativa correta está certa e, quando relevante, por que as demais alternativas erram — disponível na íntegra na página de cada questão.
+
+**Posso praticar mais questões de Matemática além dessas 7?**
+
+Sim, o ENEM Pro tem todas as questões de Matemática do ENEM 2023 (e de 2009 a 2023) organizadas por ano — [veja a lista completa](/questoes/matematica/2023).
+
+` },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13, ...EXTRA_POSTS_14, ...EXTRA_POSTS_15, ...EXTRA_POSTS_16, ...EXTRA_POSTS_17, ...EXTRA_POSTS_18, ...EXTRA_POSTS_19, ...EXTRA_POSTS_20, ...EXTRA_POSTS_21, ...EXTRA_POSTS_22, ...EXTRA_POSTS_23]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)
