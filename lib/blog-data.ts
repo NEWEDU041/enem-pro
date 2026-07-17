@@ -55002,7 +55002,147 @@ Sim, o ENEM Pro tem todas as questões de Matemática do ENEM 2023 (e de 2009 a 
 ` },
 ]
 
-const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13, ...EXTRA_POSTS_14, ...EXTRA_POSTS_15, ...EXTRA_POSTS_16, ...EXTRA_POSTS_17, ...EXTRA_POSTS_18, ...EXTRA_POSTS_19, ...EXTRA_POSTS_20, ...EXTRA_POSTS_21, ...EXTRA_POSTS_22, ...EXTRA_POSTS_23]
+const EXTRA_POSTS_24: BlogPost[] = [
+  {
+    slug: 'repertorio-sociocultural-redacao-enem',
+    title: 'Repertório Sociocultural: Guia Completo para a Redação do ENEM',
+    description: 'Repertório sociocultural pronto para a redação do ENEM: tipos, exemplos por tema e como aplicar sem só citar a fonte. Em 2025, só 10 redações tiraram nota 1000.',
+    date: '2026-07-16',
+    readTime: 9,
+    content: `
+No Enem 2025, apenas 10 redações tiraram nota 1000 — a menor marca da história da prova, segundo o Jornal de Brasília ([Enem 2025 tem dez redações nota mil, menor marca da história da prova](https://jornaldebrasilia.com.br/noticias/concursos-e-carreiras/enem-2025-tem-dez-redacoes-nota-mil-menor-marca-da-historia-da-prova/), 2026). O principal motivo, segundo especialistas, foi o rigor maior na Competência 2 — exatamente a competência que avalia o repertório sociocultural, um dos fatores que mais [pesa no cálculo final da nota de redação](/blog/quanto-vale-redacao-enem).
+
+> **TL;DR:** Repertório sociocultural é qualquer dado, lei, obra ou fato histórico usado pra fundamentar sua tese na redação do ENEM. Em 2025, a nota média da Competência 2 caiu 11,1% e só 10 candidatos tiraram 1000 — sinal de que a banca ficou mais dura com quem só cita fonte sem argumentar. [Pratique redação e questões de Linguagens no ENEM Pro →](/questoes)
+
+
+![Repertório sociocultural para a redação do ENEM](/images/blog/repertorio-sociocultural-redacao-enem-hero.svg)
+
+
+## O Que É Repertório Sociocultural na Redação do ENEM?
+
+Repertório sociocultural é toda informação externa ao senso comum — dado estatístico, lei, obra literária, filme, teoria filosófica ou fato histórico — que você usa pra sustentar um argumento. A Cartilha do Participante define isso como conhecimento "adquirido ao longo da formação escolar e da vivência social" (INEP, [A Redação no Enem 2025](https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2025_cartilha_do_participante.pdf), 2026).
+
+Não é qualquer citação que conta como repertório de verdade. A banca distingue entre dois tipos:
+
+- **Repertório legitimado**: tem fonte identificável e pertinência clara com o tema — dado do IBGE, lei federal, autor reconhecido.
+- **Repertório baseado no senso comum**: frases feitas, "dizem que", opinião pessoal sem embasamento. Não pontua na Competência 2, mesmo bem escrito.
+
+Isso está detalhado no [Módulo de Competência 2 do INEP](https://download.inep.gov.br/educacao_basica/enem/downloads/2020/Competencia_2.pdf), que também define os cinco níveis da escala — do Nível 1 (0-40 pontos, domínio muito precário) ao Nível 5 (161-200 pontos, "repertório sociocultural produtivo e articulado à discussão").
+
+
+## Por Que Isso Está Pesando Cada Vez Mais na Nota?
+
+A Competência 2 liderou o rigor da correção em 2025, com recuo de 11,1% na nota média em relação a 2024 (CNN Brasil, [Levantamento indica queda de 6% nas notas de redação do Enem em 2025](https://www.cnnbrasil.com.br/educacao/levantamento-indica-queda-de-6-nas-notas-de-redacao-do-enem-em-2025/), 2026). A queda não foi só na C2: a média geral da redação recuou 6% em 2025, com impacto maior nas escolas públicas (-6,8%) do que nas privadas (-4,33%).
+
+O resultado mais visível veio das notas máximas. Em 2024, 12 candidatos tiraram 1000 na redação. Em 2025, foram só 10 — a menor marca desde a criação do exame, com correções mais rígidas sobre repertório raso e argumentação superficial (Jornal de Brasília, 2026). Vale a pena estudar o que aproxima uma redação da [nota 1000](/blog/redacao-enem-nota-1000): não dá pra tratar repertório como "decoreba de frase pronta" — a banca está penalizando exatamente isso.
+
+Esse endurecimento conversa direto com o que já vale nota máxima nas [5 competências da redação](/blog/redacao-enem-competencias): repertório é só uma delas, mas puxa a média pra baixo quando falha sozinha.
+
+
+## Quais Tipos de Repertório Você Pode Usar?
+
+Existem seis famílias de repertório aceitas pela banca, e misturar duas ou três no mesmo texto costuma valer mais do que usar cinco exemplos da mesma família.
+
+1. **Dados estatísticos** — IBGE, INEP, OMS, Ipea. Ex.: taxa de analfabetismo funcional, expectativa de vida, índice de Gini.
+2. **Legislação** — Constituição Federal, ECA, Estatuto do Idoso, LGPD, Marco Civil da Internet.
+3. **Fatos históricos** — Revolução Industrial, Era Vargas, redemocratização, Diretas Já.
+4. **Filosofia e sociologia** — conceitos de Bauman (modernidade líquida), Foucault (biopoder), Marx (alienação), Hannah Arendt (banalidade do mal).
+5. **Literatura, cinema e música** — obras que dialogam com temas sociais: "1984" (vigilância), "Vidas Secas" (seca e desigualdade), documentários.
+6. **Atualidades e casos concretos** — reportagens recentes, políticas públicas em vigor, dados de pesquisas do ano corrente.
+
+![Tipos de repertório sociocultural aceitos na redação do ENEM](/images/blog/repertorio-sociocultural-redacao-enem-2.svg)
+
+O tema do Enem 2025, "Perspectivas acerca do envelhecimento na sociedade brasileira", é um bom exemplo de como misturar famílias: dado do IBGE sobre expectativa de vida + o Estatuto do Idoso + um conceito sociológico sobre etarismo formam um parágrafo de Competência 2 muito mais forte do que qualquer um dos três sozinho.
+
+
+## Como Aplicar o Repertório Sem Só Citar a Fonte?
+
+O erro mais comum é encaixar um repertório só pra "decorar" o parágrafo, sem conectá-lo à tese. A correção do INEP recompensa quem desenvolve o argumento em cima da fonte — mostrando como ela sustenta especificamente a discussão proposta, não qualquer discussão parecida.
+
+Um repertório bem aplicado segue três passos:
+
+1. **Cite a fonte com precisão** — não "estudos dizem", mas "segundo o IBGE" ou "conforme a Constituição Federal, artigo X".
+2. **Explique a relação com o tema** — uma frase conectando o dado ao recorte específico da proposta.
+3. **Puxe pra sua tese** — feche o parágrafo mostrando por que aquele repertório reforça exatamente o argumento que você está defendendo, não um argumento genérico sobre o assunto.
+
+Repertório sem os passos 2 e 3 vira "repertório decorativo" — a banca reconhece e não pontua na faixa alta da escala. Isso é o mesmo princípio que estrutura toda a [introdução da redação](/blog/redacao-enem-introducao-como-fazer): repertório também abre parágrafo, mas só quando conectado à tese que vem em seguida. Vale revisar a [estrutura completa da redação](/blog/estrutura-redacao-enem) pra ver onde cada repertório entra no texto.
+
+
+## Quais Repertórios Prontos Você Pode Usar por Tema?
+
+Ter 2 ou 3 repertórios preparados para os eixos temáticos mais recorrentes evita ficar sem argumento no dia da prova. Veja uma base por eixo:
+
+| Eixo temático | Repertório pronto |
+|---|---|
+| Educação | Dados do Ideb sobre desigualdade regional de aprendizagem; LDB (Lei de Diretrizes e Bases) |
+| Saúde mental | Levantamentos da OMS sobre ansiedade e depressão entre jovens; conceito de "sociedade do cansaço" (Byung-Chul Han) |
+| Tecnologia e IA | Marco Civil da Internet; LGPD; debates sobre desinformação e algoritmos |
+| Meio ambiente | Acordo de Paris; dados do INPE sobre desmatamento; conceito de "modernidade líquida" aplicado ao consumo |
+| Desigualdade social | Índice de Gini; PNAD Contínua (IBGE); Estatuto da Igualdade Racial |
+| Envelhecimento | Estatuto do Idoso; projeções do IBGE sobre expectativa de vida; etarismo no mercado de trabalho |
+
+O objetivo não é decorar um repertório fixo por tema, mas ter 2-3 exemplos versáteis o suficiente pra se adaptar a recortes diferentes do mesmo eixo — a prova quase nunca repete o ângulo exato de anos anteriores. Cruzar essa tabela com os [temas prováveis da redação para 2026](/blog/redacao-enem-temas-provaveis-2026) ajuda a decidir quais eixos priorizar na reta final.
+
+
+## Quais Erros Mais Derrubam a Nota na Competência 2?
+
+Cerca de 211 mil redações do Enem 2025 tiraram nota zero — perto de 6% dos aproximadamente 3,5 milhões de participantes (Vestibulando Web, com base em microdados do INEP, [Enem 2025 teve mais de 211 mil redações com nota zero](https://www.vestibulandoweb.com.br/enem/enem-2025-teve-mais-de-211-mil-redacoes-com-nota-zero-veja-os-motivos/), 2026). A maior parte desses zeros nasce de erros que também drenam pontos da Competência 2 mesmo quando não zeram o texto inteiro:
+
+- **Fuga total ao tema**: discutir um assunto diferente do recorte pedido. Em 2025, quem escreveu sobre "terceira idade" de forma genérica, sem tratar do recorte "sociedade brasileira", perdeu pontos mesmo citando repertório relevante.
+- **Repertório sem conexão com o tema**: citar Foucault ou o IBGE só porque "soa bem", sem ligar o dado ao argumento específico.
+- **Cópia dos textos motivadores**: reproduzir trechos da coletânea sem reformular ou agregar informação nova zera a Competência 2 nesse trecho.
+- **Repertório único repetido**: usar o mesmo dado ou autor nos dois parágrafos de desenvolvimento, sem diversificar.
+
+Isso se conecta direto com os critérios que detalhamos em [como evitar nota zero na redação do ENEM](/blog/redacao-enem-nota-zero-como-evitar) — vale revisar antes da prova.
+
+
+## Como Montar Seu Banco de Repertórios Sem Decorar Tudo?
+
+Um banco de repertórios funciona melhor organizado por eixo temático, não por tema específico — já que o Enem não repete temas, mas repete eixos (desigualdade, sustentabilidade, tecnologia, saúde). Um método simples:
+
+1. **Separe 5-6 eixos temáticos** recorrentes (os da tabela acima cobrem a maioria).
+2. **Para cada eixo, anote 2-3 repertórios de famílias diferentes** — um dado, uma lei, um conceito teórico.
+3. **Treine a conexão, não a memorização** — escreva um parágrafo por semana aplicando um repertório do banco a um tema diferente. É mais eficiente que só ler teoria.
+4. **Releia a proposta de intervenção** depois de escrever — muita gente prepara bem o repertório, mas esquece de fechar a [conclusão com a fórmula completa do INEP](/blog/redacao-enem-conclusao-como-fazer).
+
+Esse hábito de praticar toda semana é o que mais aparece nas orientações de professores de redação: quem escreve uma redação por semana internaliza repertório e estrutura junto, ao invés de tratá-los como blocos separados. Se você ainda está inseguro sobre a ordem das etapas, o [passo a passo completo da redação do ENEM](/blog/como-fazer-redacao-enem-passo-a-passo) mostra onde o banco de repertórios entra em cada parágrafo.
+
+![Como organizar repertório por eixo temático para a redação do ENEM](/images/blog/repertorio-sociocultural-redacao-enem-3.svg)
+
+
+## Perguntas Frequentes?
+
+
+### Repertório sociocultural é obrigatório na redação do ENEM?
+
+Não é obrigatório citar uma fonte externa formal, mas sem repertório reconhecível a Competência 2 fica limitada aos níveis mais baixos da escala (até 80 pontos). Pra alcançar os níveis 4 e 5 (acima de 120 pontos), o repertório precisa aparecer e estar conectado ao argumento.
+
+### Quantos repertórios devo usar em uma redação do ENEM?
+
+Não existe número fixo, mas 2 a 3 repertórios bem aplicados — um por parágrafo de desenvolvimento, mais um na introdução ou conclusão — costumam valer mais do que 5 repertórios citados sem profundidade. Qualidade da conexão pesa mais que quantidade.
+
+### Posso usar repertório sem saber o autor ou nome exato da lei?
+
+Pode, desde que a referência seja clara o suficiente pra banca identificar do que se trata — "uma lei brasileira que garante direitos ao idoso" já sinaliza o Estatuto do Idoso mesmo sem citar o número exato. Mas citar corretamente pontua mais.
+
+### Repertório de atualidades vale menos que repertório histórico ou filosófico?
+
+Não. A Cartilha do INEP não hierarquiza tipos de repertório — o que importa é a pertinência ao tema e a profundidade da conexão com o argumento, não a "sofisticação" aparente da referência escolhida.
+
+
+## Fontes e Referências?
+
+
+- [INEP. A Redação no Enem 2025 — Cartilha do Participante](https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2025_cartilha_do_participante.pdf). Critérios oficiais de avaliação
+- [INEP. Módulo Competência 2](https://download.inep.gov.br/educacao_basica/enem/downloads/2020/Competencia_2.pdf). Escala de níveis da Competência 2
+- [CNN Brasil. Levantamento indica queda de 6% nas notas de redação do Enem em 2025](https://www.cnnbrasil.com.br/educacao/levantamento-indica-queda-de-6-nas-notas-de-redacao-do-enem-em-2025/). Dados de queda por competência
+- [Jornal de Brasília. Enem 2025 tem dez redações nota mil, menor marca da história da prova](https://jornaldebrasilia.com.br/noticias/concursos-e-carreiras/enem-2025-tem-dez-redacoes-nota-mil-menor-marca-da-historia-da-prova/). Histórico de notas máximas
+- [Vestibulando Web. Enem 2025 teve mais de 211 mil redações com nota zero](https://www.vestibulandoweb.com.br/enem/enem-2025-teve-mais-de-211-mil-redacoes-com-nota-zero-veja-os-motivos/). Motivos de nota zero
+- [Portal MEC. Enem 2025: divulgado espelho da redação](https://www.gov.br/mec/pt-br/assuntos/noticias/2026/marco/enem-2025-divulgado-espelho-da-redacao). Divulgação oficial dos resultados
+` },
+]
+
+const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13, ...EXTRA_POSTS_14, ...EXTRA_POSTS_15, ...EXTRA_POSTS_16, ...EXTRA_POSTS_17, ...EXTRA_POSTS_18, ...EXTRA_POSTS_19, ...EXTRA_POSTS_20, ...EXTRA_POSTS_21, ...EXTRA_POSTS_22, ...EXTRA_POSTS_23, ...EXTRA_POSTS_24]
 
 export function getPost(slug: string): BlogPost | undefined {
   return ALL_POSTS.find(p => p.slug === slug)
