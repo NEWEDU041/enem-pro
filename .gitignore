@@ -63,3 +63,6 @@ scripts/score_dist.py
 scripts/populate_explanations.py
 scripts/update_alt_images.py
 .audit-extract/
+
+# blog-memory: estado local (SQLite) por projeto, não versionar
+.blog-memory/
