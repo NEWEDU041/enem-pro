@@ -3,6 +3,9 @@ import Script from 'next/script'
 import DemoQuestion from '@/components/DemoQuestion'
 import { createServerClient } from '@/lib/supabase'
 import { SITE_URL } from '@/lib/site-config'
+import { Reveal, RevealGroup, RevealItem } from '@/components/ui/Reveal'
+import { LinkButton } from '@/components/ui/Button'
+import { Badge } from '@/components/ui/Badge'
 
 async function getLiveStats() {
   try {
@@ -85,142 +88,148 @@ export default async function LandingPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
       />
       {/* Nav */}
-      <nav className="sticky top-0 z-50 bg-white border-b border-zinc-200 px-6 py-4">
+      <nav className="sticky top-0 z-50 bg-white/90 backdrop-blur border-b border-ink-100 px-6 py-4">
         <div className="max-w-6xl mx-auto flex items-center justify-between">
-          <span className="text-xl font-bold text-indigo-600">ENEM Pro</span>
+          <span className="font-display text-xl font-bold text-ink-900">ENEM Pro</span>
           <div className="flex items-center gap-4">
-            <Link href="/ferramentas" className="text-sm text-zinc-600 hover:text-zinc-900 hidden md:inline">Ferramentas</Link>
-            <Link href="/calcular-nota" className="text-sm text-zinc-600 hover:text-zinc-900 hidden sm:inline">Calcular nota</Link>
-            <Link href="/planos" className="text-sm text-zinc-600 hover:text-zinc-900">Planos</Link>
-            <Link href="/auth/login" className="text-sm text-zinc-600 hover:text-zinc-900">Entrar</Link>
-            <Link
-              href="/auth/register"
-              className="text-sm bg-indigo-600 text-white px-4 py-2 rounded-lg hover:bg-indigo-700 transition-colors"
-            >
-              Começar grátis
-            </Link>
+            <Link href="/ferramentas" className="text-sm text-ink-500 hover:text-ink-900 hidden md:inline">Ferramentas</Link>
+            <Link href="/calcular-nota" className="text-sm text-ink-500 hover:text-ink-900 hidden sm:inline">Calcular nota</Link>
+            <Link href="/planos" className="text-sm text-ink-500 hover:text-ink-900">Planos</Link>
+            <Link href="/auth/login" className="text-sm text-ink-500 hover:text-ink-900">Entrar</Link>
+            <LinkButton href="/auth/register" size="sm">Começar grátis</LinkButton>
           </div>
         </div>
       </nav>
 
       <main id="main-content">
-      {/* Hero */}
-      <section className="flex-1 flex flex-col items-center justify-center px-6 py-24 text-center">
-        <div className="inline-flex items-center gap-2 bg-indigo-50 text-indigo-700 text-sm font-medium px-4 py-2 rounded-full mb-8">
-          <span>✦</span>
-          <span>ENEM 2026 — questões reais do INEP com IA</span>
+      {/* Hero + stats — bloco navy único */}
+      <section className="relative bg-ink-950 overflow-hidden">
+        <div
+          className="pointer-events-none absolute inset-0 opacity-[0.07]"
+          style={{ backgroundImage: 'radial-gradient(circle at 1px 1px, white 1px, transparent 0)', backgroundSize: '32px 32px' }}
+        />
+        <div className="relative flex flex-col items-center justify-center px-6 pt-24 pb-16 text-center">
+          <Badge color="onDark" className="mb-8 px-4 py-2 text-sm gap-2">
+            <span className="text-gold-400">✦</span>
+            <span>ENEM 2026 — questões reais do INEP com IA</span>
+          </Badge>
+          <h1 className="font-display text-5xl sm:text-6xl font-bold tracking-tight text-white max-w-3xl mb-6 leading-[1.05]">
+            Medicina, Direito, Engenharia na federal.<br />
+            <span className="text-gold-400">Começa com a questão certa.</span>
+          </h1>
+          <p className="text-xl text-ink-200 max-w-xl mb-10">
+            3.600+ questões reais do INEP de 2009 a 2024. Erre uma — a IA explica o raciocínio completo em 30 segundos. Para quem quer aprovação, não só treino.
+          </p>
+          <div className="flex flex-col sm:flex-row gap-4">
+            <LinkButton href="/auth/register" size="lg">Começar grátis agora</LinkButton>
+            <LinkButton href="/planos" variant="secondary" size="lg" className="!bg-white/5 !text-white !border-white/15 hover:!bg-white/10">Ver Pro — R$8,25/mês</LinkButton>
+          </div>
+          <p className="text-sm text-ink-500 mt-4">Sem cartão de crédito. 10 questões/dia grátis para sempre.</p>
+          <p className="text-xs text-ink-500 mt-2">30 dias de garantia · Cancele quando quiser · Sem cartão para começar</p>
         </div>
-        <h1 className="text-5xl font-bold tracking-tight text-zinc-900 max-w-3xl mb-6 leading-tight">
-          Medicina, Direito, Engenharia na federal.<br />
-          <span className="text-indigo-600">Começa com a questão certa.</span>
-        </h1>
-        <p className="text-xl text-zinc-500 max-w-xl mb-10">
-          3.600+ questões reais do INEP de 2009 a 2024. Erre uma — a IA explica o raciocínio completo em 30 segundos. Para quem quer aprovação, não só treino.
-        </p>
-        <div className="flex flex-col sm:flex-row gap-4">
-          <Link
-            href="/auth/register"
-            className="bg-indigo-600 text-white px-8 py-4 rounded-xl text-lg font-semibold hover:bg-indigo-700 transition-colors"
-          >
-            Começar grátis agora
-          </Link>
-          <Link
-            href="/planos"
-            className="bg-white text-zinc-900 border border-zinc-300 px-8 py-4 rounded-xl text-lg font-semibold hover:bg-zinc-50 transition-colors"
-          >
-            Ver Pro — R$8,25/mês
-          </Link>
-        </div>
-        <p className="text-sm text-zinc-400 mt-4">Sem cartão de crédito. 10 questões/dia grátis para sempre.</p>
-        <p className="text-xs text-zinc-400 mt-2">🛡️ 30 dias de garantia · Cancele quando quiser · Sem cartão para começar</p>
-      </section>
 
-      {/* Stats bar */}
-      <section className="bg-zinc-900 py-10 px-6">
-        <div className="max-w-4xl mx-auto grid grid-cols-4 gap-6 text-center">
-          <div>
-            <div className="text-3xl font-bold text-white mb-1">3.600+</div>
-            <div className="text-zinc-400 text-sm">Questões reais INEP</div>
-          </div>
-          <div>
-            <div className="text-3xl font-bold text-white mb-1">16 anos</div>
-            <div className="text-zinc-400 text-sm">2009 a 2024</div>
-          </div>
-          <div>
-            <div className="text-3xl font-bold text-white mb-1">
+        {/* Stats bar */}
+        <RevealGroup className="relative max-w-4xl mx-auto grid grid-cols-4 gap-6 text-center border-t border-white/10 py-10 px-6">
+          <RevealItem>
+            <div className="font-display text-3xl font-bold text-white mb-1">3.600+</div>
+            <div className="text-ink-500 text-sm">Questões reais INEP</div>
+          </RevealItem>
+          <RevealItem>
+            <div className="font-display text-3xl font-bold text-white mb-1">16 anos</div>
+            <div className="text-ink-500 text-sm">2009 a 2024</div>
+          </RevealItem>
+          <RevealItem>
+            <div className="font-display text-3xl font-bold text-white mb-1">
               {stats.totalAnswers > 50 ? stats.totalAnswers.toLocaleString('pt-BR') + '+' : '30 seg'}
             </div>
-            <div className="text-zinc-400 text-sm">
+            <div className="text-ink-500 text-sm">
               {stats.totalAnswers > 50 ? 'Questões respondidas' : 'Para a IA explicar'}
             </div>
-          </div>
-          <div>
-            <div className="text-3xl font-bold text-white mb-1">R$0</div>
-            <div className="text-zinc-400 text-sm">Para começar</div>
-          </div>
-        </div>
+          </RevealItem>
+          <RevealItem>
+            <div className="font-display text-3xl font-bold text-gold-400 mb-1">R$0</div>
+            <div className="text-ink-500 text-sm">Para começar</div>
+          </RevealItem>
+        </RevealGroup>
       </section>
 
       {/* Demo interativo — questão real do INEP */}
       <section className="py-20 px-6 bg-zinc-50">
         <div className="max-w-2xl mx-auto">
-          <div className="text-center mb-10">
+          <Reveal className="text-center mb-10">
             <div className="inline-flex items-center gap-2 bg-green-50 text-green-700 text-xs font-semibold px-3 py-1 rounded-full mb-4">
               Questão do Dia — nova todo dia
             </div>
-            <h2 className="text-3xl font-bold mb-3">Teste antes de criar conta</h2>
+            <h2 className="font-display text-3xl font-bold mb-3 text-ink-900">Teste antes de criar conta</h2>
             <p className="text-zinc-500 max-w-md mx-auto">Uma questão real do INEP por dia. Rotaciona disciplinas e anos automaticamente.</p>
-          </div>
-          <div className="bg-white rounded-2xl border border-zinc-200 p-6 shadow-sm">
+          </Reveal>
+          <Reveal delay={0.1} className="bg-white rounded-2xl border border-zinc-200 p-6 shadow-sm">
             <DemoQuestion />
-          </div>
+          </Reveal>
         </div>
       </section>
 
       {/* Como funciona */}
       <section className="py-20 px-6 bg-white">
         <div className="max-w-4xl mx-auto">
-          <h2 className="text-3xl font-bold text-center mb-4">Como funciona</h2>
-          <p className="text-zinc-500 text-center mb-14 max-w-md mx-auto">Três passos. Resultado em semanas.</p>
-          <div className="grid md:grid-cols-3 gap-8">
+          <Reveal>
+            <h2 className="font-display text-3xl font-bold text-center mb-4 text-ink-900">Como funciona</h2>
+            <p className="text-ink-500 text-center mb-14 max-w-md mx-auto">Três passos. Resultado em semanas.</p>
+          </Reveal>
+          <RevealGroup className="grid md:grid-cols-3 gap-8">
             {steps.map((s, i) => (
-              <div key={s.title} className="text-center">
-                <div className="w-12 h-12 rounded-full bg-indigo-600 text-white text-xl font-bold flex items-center justify-center mx-auto mb-4">
+              <RevealItem key={s.title} className="text-center">
+                <div className="font-display w-12 h-12 rounded-full bg-ink-900 text-gold-400 text-xl font-bold flex items-center justify-center mx-auto mb-4">
                   {i + 1}
                 </div>
-                <h3 className="font-semibold mb-2">{s.title}</h3>
-                <p className="text-zinc-500 text-sm leading-relaxed">{s.desc}</p>
-              </div>
+                <h3 className="font-semibold mb-2 text-ink-900">{s.title}</h3>
+                <p className="text-ink-500 text-sm leading-relaxed">{s.desc}</p>
+              </RevealItem>
             ))}
-          </div>
+          </RevealGroup>
         </div>
       </section>
 
       {/* Features */}
-      <section className="bg-zinc-50 py-20 px-6">
+      <section className="bg-ink-50 py-20 px-6">
         <div className="max-w-6xl mx-auto">
-          <h2 className="text-3xl font-bold text-center mb-4">Por que o ENEM Pro?</h2>
-          <p className="text-zinc-500 text-center mb-14 max-w-xl mx-auto">
-            Outros apps mostram o gabarito. O ENEM Pro explica o raciocínio por trás de cada alternativa.
-          </p>
-          <div className="grid md:grid-cols-3 gap-8">
-            {features.map((f) => (
-              <div key={f.title} className="p-6 rounded-2xl border border-zinc-100 bg-zinc-50">
-                <div className="text-3xl mb-4">{f.icon}</div>
-                <h3 className="text-lg font-semibold mb-2">{f.title}</h3>
-                <p className="text-zinc-500 text-sm leading-relaxed">{f.desc}</p>
-              </div>
+          <Reveal>
+            <h2 className="font-display text-3xl font-bold text-center mb-4 text-ink-900">Por que o ENEM Pro?</h2>
+            <p className="text-ink-500 text-center mb-14 max-w-xl mx-auto">
+              Outros apps mostram o gabarito. O ENEM Pro explica o raciocínio por trás de cada alternativa.
+            </p>
+          </Reveal>
+          <RevealGroup className="grid md:grid-cols-3 gap-8">
+            {features.map((f, i) => (
+              <RevealItem
+                key={f.title}
+                className={`p-8 rounded-2xl border transition-transform hover:-translate-y-1 ${
+                  i === 1
+                    ? 'bg-ink-900 border-ink-900 text-white shadow-lg shadow-ink-200'
+                    : 'bg-white border-ink-100 shadow-sm'
+                }`}
+              >
+                <div className={`w-14 h-14 rounded-xl flex items-center justify-center text-2xl mb-5 ${
+                  i === 1 ? 'bg-gold-500/15' : 'bg-gold-100'
+                }`}>
+                  {f.icon}
+                </div>
+                <h3 className={`font-display text-lg font-semibold mb-2 ${i === 1 ? 'text-white' : 'text-ink-900'}`}>{f.title}</h3>
+                <p className={`text-sm leading-relaxed ${i === 1 ? 'text-ink-200' : 'text-ink-500'}`}>{f.desc}</p>
+              </RevealItem>
             ))}
-          </div>
+          </RevealGroup>
         </div>
       </section>
 
       {/* Pricing */}
-      <section className="py-20 px-6 bg-zinc-50">
+      <section className="py-20 px-6 bg-white">
         <div className="max-w-3xl mx-auto text-center">
-          <h2 className="text-3xl font-bold mb-4">Preços simples</h2>
-          <p className="text-zinc-500 mb-14">Comece grátis. Evolua quando quiser.</p>
-          <div className="grid md:grid-cols-2 gap-6">
+          <Reveal>
+            <h2 className="font-display text-3xl font-bold mb-4 text-ink-900">Preços simples</h2>
+            <p className="text-ink-500 mb-14">Comece grátis. Evolua quando quiser.</p>
+          </Reveal>
+          <RevealGroup className="grid md:grid-cols-2 gap-6">
             <PricingCard
               name="Grátis"
               price="R$0"
@@ -251,60 +260,64 @@ export default async function LandingPage() {
               href="/planos"
               highlighted={true}
             />
-          </div>
+          </RevealGroup>
         </div>
       </section>
 
       {/* Garantia */}
-      <section className="bg-white py-16 px-6">
-        <div className="max-w-2xl mx-auto text-center">
-          <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-green-100 mb-6">
+      <section className="bg-ink-50 py-16 px-6">
+        <Reveal className="max-w-2xl mx-auto text-center">
+          <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-gold-100 mb-6">
             <span className="text-3xl">🛡️</span>
           </div>
-          <h2 className="text-2xl font-bold mb-4">Garantia de 30 dias</h2>
-          <p className="text-zinc-500 leading-relaxed">
+          <h2 className="font-display text-2xl font-bold mb-4 text-ink-900">Garantia de 30 dias</h2>
+          <p className="text-ink-500 leading-relaxed">
             Estude 30 questões por dia durante 30 dias com o Pro. Se você não sentir que está mais preparado para o ENEM, devolvemos 100% do seu dinheiro — sem perguntas.
           </p>
-        </div>
+        </Reveal>
       </section>
 
       {/* Proof section */}
-      <section className="bg-zinc-50 py-16 px-6 border-t border-zinc-100">
+      <section className="bg-white py-16 px-6 border-t border-ink-100">
         <div className="max-w-4xl mx-auto text-center">
-          <p className="text-zinc-400 text-sm uppercase tracking-widest mb-8">Por que o ENEM Pro é diferente</p>
-          <div className="grid md:grid-cols-3 gap-6">
-            <div className="bg-white rounded-2xl p-6 text-left border border-zinc-100">
+          <Reveal>
+            <p className="text-ink-500 text-sm uppercase tracking-widest mb-8">Por que o ENEM Pro é diferente</p>
+          </Reveal>
+          <RevealGroup className="grid md:grid-cols-3 gap-6">
+            <RevealItem className="bg-ink-50 rounded-2xl p-6 text-left border border-ink-100 hover:shadow-md transition-shadow">
               <div className="text-3xl mb-3">📋</div>
-              <h3 className="font-semibold text-zinc-900 mb-2">Questões reais do INEP</h3>
-              <p className="text-zinc-500 text-sm leading-relaxed">3.600+ questões oficiais do ENEM de 2009 a 2024. Disponibilizadas publicamente pelo INEP. Nenhuma questão inventada.</p>
-            </div>
-            <div className="bg-white rounded-2xl p-6 text-left border border-zinc-100">
+              <h3 className="font-semibold text-ink-900 mb-2">Questões reais do INEP</h3>
+              <p className="text-ink-500 text-sm leading-relaxed">3.600+ questões oficiais do ENEM de 2009 a 2024. Disponibilizadas publicamente pelo INEP. Nenhuma questão inventada.</p>
+            </RevealItem>
+            <RevealItem className="bg-ink-50 rounded-2xl p-6 text-left border border-ink-100 hover:shadow-md transition-shadow">
               <div className="text-3xl mb-3">🤖</div>
-              <h3 className="font-semibold text-zinc-900 mb-2">IA treinada para o ENEM</h3>
-              <p className="text-zinc-500 text-sm leading-relaxed">Cada explicação é gerada no momento, para aquela questão específica. Não é gabarito genérico — é análise do raciocínio por trás da alternativa correta.</p>
-            </div>
-            <div className="bg-white rounded-2xl p-6 text-left border border-zinc-100">
+              <h3 className="font-semibold text-ink-900 mb-2">IA treinada para o ENEM</h3>
+              <p className="text-ink-500 text-sm leading-relaxed">Cada explicação é gerada no momento, para aquela questão específica. Não é gabarito genérico — é análise do raciocínio por trás da alternativa correta.</p>
+            </RevealItem>
+            <RevealItem className="bg-ink-50 rounded-2xl p-6 text-left border border-ink-100 hover:shadow-md transition-shadow">
               <div className="text-3xl mb-3">🛡️</div>
-              <h3 className="font-semibold text-zinc-900 mb-2">Risco zero por 30 dias</h3>
-              <p className="text-zinc-500 text-sm leading-relaxed">Estude 30 questões por dia durante 30 dias. Se não sentir evolução, devolvemos 100% — sem formulário, sem pergunta, sem enrolação.</p>
-            </div>
-          </div>
+              <h3 className="font-semibold text-ink-900 mb-2">Risco zero por 30 dias</h3>
+              <p className="text-ink-500 text-sm leading-relaxed">Estude 30 questões por dia durante 30 dias. Se não sentir evolução, devolvemos 100% — sem formulário, sem pergunta, sem enrolação.</p>
+            </RevealItem>
+          </RevealGroup>
         </div>
       </section>
 
       {/* FAQ */}
-      <section className="py-20 px-6 bg-white border-t border-zinc-100">
+      <section className="py-20 px-6 bg-ink-50 border-t border-ink-100">
         <div className="max-w-3xl mx-auto">
-          <h2 className="text-3xl font-bold text-center mb-4">Perguntas frequentes</h2>
-          <p className="text-zinc-500 text-center mb-12 max-w-lg mx-auto">Tudo que você precisa saber antes de começar.</p>
+          <Reveal>
+            <h2 className="font-display text-3xl font-bold text-center mb-4 text-ink-900">Perguntas frequentes</h2>
+            <p className="text-ink-500 text-center mb-12 max-w-lg mx-auto">Tudo que você precisa saber antes de começar.</p>
+          </Reveal>
           <div className="space-y-4">
             {faqItems.map(({ q, a }) => (
-              <details key={q} className="group bg-zinc-50 rounded-2xl border border-zinc-200 px-6 py-4">
-                <summary className="flex items-center justify-between cursor-pointer list-none font-semibold text-zinc-900 text-sm gap-4">
+              <details key={q} className="group bg-white rounded-2xl border border-ink-100 px-6 py-4">
+                <summary className="flex items-center justify-between cursor-pointer list-none font-semibold text-ink-900 text-sm gap-4">
                   {q}
-                  <span className="text-indigo-500 shrink-0 text-lg group-open:rotate-45 transition-transform">+</span>
+                  <span className="text-gold-600 shrink-0 text-lg group-open:rotate-45 transition-transform">+</span>
                 </summary>
-                <p className="mt-4 text-zinc-500 text-sm leading-relaxed">{a}</p>
+                <p className="mt-4 text-ink-500 text-sm leading-relaxed">{a}</p>
               </details>
             ))}
           </div>
@@ -312,20 +325,22 @@ export default async function LandingPage() {
       </section>
 
       {/* CTA final */}
-      <section className="bg-indigo-600 py-20 px-6 text-center text-white">
-        <h2 className="text-3xl font-bold mb-4">O ENEM 2026 não espera.</h2>
-        <p className="text-indigo-200 mb-2">Cada dia sem treino é um dia a menos de preparação.</p>
-        <p className="text-indigo-300 text-sm mb-8">Comece agora — grátis, sem cartão de crédito.</p>
-        <Link
-          href="/auth/register"
-          className="bg-white text-indigo-600 px-8 py-4 rounded-xl text-lg font-semibold hover:bg-indigo-50 transition-colors"
-        >
-          Criar conta grátis
-        </Link>
+      <section className="bg-ink-950 py-20 px-6 text-center text-white">
+        <Reveal>
+          <h2 className="font-display text-3xl font-bold mb-4">O ENEM 2026 não espera.</h2>
+          <p className="text-ink-200 mb-2">Cada dia sem treino é um dia a menos de preparação.</p>
+          <p className="text-ink-500 text-sm mb-8">Comece agora — grátis, sem cartão de crédito.</p>
+          <Link
+            href="/auth/register"
+            className="bg-gold-500 text-ink-950 px-8 py-4 rounded-xl text-lg font-semibold hover:bg-gold-400 transition-colors inline-block"
+          >
+            Criar conta grátis
+          </Link>
+        </Reveal>
       </section>
 
       </main>
-      <footer className="bg-zinc-900 text-zinc-400 text-sm py-12 px-6">
+      <footer className="bg-ink-950 text-ink-500 text-sm py-12 px-6">
         <div className="max-w-6xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 mb-10">
           <div>
             <p className="text-white font-semibold mb-3">Questões ENEM</p>
@@ -424,19 +439,19 @@ function PricingCard({
   highlighted: boolean
 }) {
   return (
-    <div className={`rounded-2xl p-8 text-left ${highlighted ? 'bg-indigo-600 text-white' : 'bg-white border border-zinc-200 text-zinc-900'}`}>
+    <div className={`rounded-2xl p-8 text-left ${highlighted ? 'bg-ink-950 text-white ring-1 ring-gold-500/40' : 'bg-white border border-ink-100 text-ink-900'}`}>
       <div className="mb-6">
-        <h3 className={`text-lg font-semibold mb-1 ${highlighted ? 'text-white' : ''}`}>{name}</h3>
-        <p className={`text-sm ${highlighted ? 'text-indigo-200' : 'text-zinc-500'}`}>{desc}</p>
+        <h3 className={`font-display text-lg font-semibold mb-1 ${highlighted ? 'text-white' : ''}`}>{name}</h3>
+        <p className={`text-sm ${highlighted ? 'text-ink-300' : 'text-ink-500'}`}>{desc}</p>
       </div>
       <div className="mb-8">
-        <span className="text-4xl font-bold">{price}</span>
-        {period && <span className={`text-sm ${highlighted ? 'text-indigo-200' : 'text-zinc-500'}`}>{period}</span>}
+        <span className="font-display text-4xl font-bold">{price}</span>
+        {period && <span className={`text-sm ${highlighted ? 'text-ink-300' : 'text-ink-500'}`}>{period}</span>}
       </div>
       <ul className="space-y-3 mb-8">
         {features.map((f) => (
           <li key={f} className="flex items-center gap-2 text-sm">
-            <span className={highlighted ? 'text-indigo-200' : 'text-indigo-500'}>✓</span>
+            <span className={highlighted ? 'text-gold-400' : 'text-gold-600'}>✓</span>
             <span>{f}</span>
           </li>
         ))}
@@ -445,8 +460,8 @@ function PricingCard({
         href={href}
         className={`block text-center py-3 rounded-xl font-semibold transition-colors ${
           highlighted
-            ? 'bg-white text-indigo-600 hover:bg-indigo-50'
-            : 'bg-indigo-600 text-white hover:bg-indigo-700'
+            ? 'bg-gold-500 text-ink-950 hover:bg-gold-400'
+            : 'bg-ink-900 text-white hover:bg-ink-800'
         }`}
       >
         {cta}

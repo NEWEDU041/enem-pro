@@ -2,7 +2,7 @@
 
 import { useState, useEffect, Suspense } from 'react'
 import Link from 'next/link'
-import { DISCIPLINES } from '@/lib/enem-api'
+import { DISCIPLINES } from '@/lib/enem-constants'
 import { ENEM_DATE, daysUntil } from '@/lib/utils'
 
 const DISC_SHORT: Record<string, string> = {

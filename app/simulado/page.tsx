@@ -4,7 +4,7 @@ import { useCallback, useEffect, useRef, useState } from 'react'
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
-import { DISCIPLINES, YEARS } from '@/lib/enem-api'
+import { DISCIPLINES, YEARS } from '@/lib/enem-constants'
 import { isPro, FREE_DAILY_LIMIT } from '@/lib/utils'
 import QuestionText from '@/components/QuestionText'
 

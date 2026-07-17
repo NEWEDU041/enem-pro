@@ -4,7 +4,7 @@ import { useEffect, useMemo, useState, Suspense } from 'react'
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
-import { DISCIPLINES, YEARS } from '@/lib/enem-api'
+import { DISCIPLINES, YEARS } from '@/lib/enem-constants'
 
 const supabase = createBrowserClient()
 

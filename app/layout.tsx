@@ -1,11 +1,17 @@
 import type { Metadata, Viewport } from 'next'
-import { Inter } from 'next/font/google'
+import { Inter, Space_Grotesk } from 'next/font/google'
 import Script from 'next/script'
 import './globals.css'
 import ServiceWorkerRegistrar from '@/components/ServiceWorkerRegistrar'
 import { SITE_URL } from '@/lib/site-config'
 
 const inter = Inter({ subsets: ['latin'], display: 'optional' })
+const spaceGrotesk = Space_Grotesk({
+  subsets: ['latin'],
+  display: 'optional',
+  variable: '--font-space-grotesk',
+  weight: ['500', '600', '700'],
+})
 
 const siteUrl = SITE_URL
 
@@ -110,7 +116,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           ` }} />
         )}
       </head>
-      <body className={`${inter.className} min-h-full bg-zinc-50 text-zinc-900 antialiased`}>
+      <body className={`${inter.className} ${spaceGrotesk.variable} min-h-full bg-zinc-50 text-zinc-900 antialiased`}>
         <Script
           id="educational-org-schema"
           type="application/ld+json"

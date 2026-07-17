@@ -3,12 +3,13 @@
 import { useEffect, useState, Suspense } from 'react'
 import Link from 'next/link'
 import { useRouter, useSearchParams } from 'next/navigation'
+import { motion } from 'framer-motion'
 import { createBrowserClient } from '@/lib/supabase'
 import PushSubscribeButton from '@/components/PushSubscribeButton'
 import { trackPurchase } from '@/lib/analytics'
 
 const supabase = createBrowserClient()
-import { DISCIPLINES, YEARS } from '@/lib/enem-api'
+import { DISCIPLINES, YEARS } from '@/lib/enem-constants'
 import { FREE_DAILY_LIMIT } from '@/lib/utils'
 
 export default function DashboardPage() {
@@ -192,10 +193,10 @@ function DashboardContent() {
       {/* Header */}
       <header className="bg-white border-b border-zinc-200 px-6 py-4">
         <div className="max-w-5xl mx-auto flex items-center justify-between">
-          <Link href="/dashboard" className="text-xl font-bold text-indigo-600">ENEM Pro</Link>
+          <Link href="/dashboard" className="font-display text-xl font-bold text-ink-900">ENEM Pro</Link>
           <div className="flex items-center gap-4">
             {!isPro && (
-              <Link href="/planos" className="text-sm bg-indigo-600 text-white px-4 py-2 rounded-lg hover:bg-indigo-700">
+              <Link href="/planos" className="text-sm bg-gold-500 text-ink-950 px-4 py-2 rounded-lg hover:bg-gold-400">
                 Upgrade Pro
               </Link>
             )}
@@ -214,8 +215,8 @@ function DashboardContent() {
         )}
         {/* Pro banner */}
         {isPro && (
-          <div className="bg-indigo-600 text-white rounded-2xl px-6 py-4 mb-8 flex items-center justify-between">
-            <span className="font-semibold">✦ Plano Pro ativo — questões ilimitadas + IA</span>
+          <div className="bg-ink-950 text-white rounded-2xl px-6 py-4 mb-8 flex items-center justify-between">
+            <span className="font-semibold text-gold-400">✦ Plano Pro ativo — questões ilimitadas + IA</span>
             <ManageSubscriptionButton />
           </div>
         )}
@@ -226,17 +227,40 @@ function DashboardContent() {
           </div>
         )}
 
+        {/* Empty state — primeira visita */}
+        {stats.total === 0 && (
+          <motion.div
+            initial={{ opacity: 0, y: 10 }}
+            animate={{ opacity: 1, y: 0 }}
+            className="relative overflow-hidden rounded-2xl bg-ink-950 text-white px-6 py-8 mb-8 text-center"
+          >
+            <div className="text-4xl mb-3">👋</div>
+            <h2 className="font-display text-xl font-bold mb-1">Sua primeira questão está a um clique</h2>
+            <p className="text-ink-200 text-sm mb-5 max-w-md mx-auto">
+              Escolha ano e disciplina abaixo — a resposta certa e a explicação da IA aparecem em segundos.
+            </p>
+            <a href="#estudar-agora" className="inline-block bg-gold-500 text-ink-950 px-6 py-2.5 rounded-xl font-semibold text-sm hover:bg-gold-400 transition-colors">
+              Começar agora ↓
+            </a>
+          </motion.div>
+        )}
+
         {/* Stats */}
-        <div className="grid grid-cols-4 gap-4 mb-10">
-          <StatCard label="Respondidas" value={stats.total.toString()} />
-          <StatCard label="Taxa de acerto" value={`${accuracy}%`} />
-          <StatCard label="Hoje" value={isPro ? `${stats.today}` : `${stats.today}/${FREE_DAILY_LIMIT}`} />
-          <StatCard label="Sequência" value={stats.streak > 0 ? `${stats.streak}d` : '—'} highlight={stats.streak >= 3} />
-        </div>
+        <motion.div
+          className="grid grid-cols-4 gap-4 mb-10"
+          initial="hidden"
+          animate="show"
+          variants={{ hidden: {}, show: { transition: { staggerChildren: 0.06 } } }}
+        >
+          <StatCard icon="📝" label="Respondidas" value={stats.total.toString()} />
+          <StatCard icon="🎯" label="Taxa de acerto" value={`${accuracy}%`} />
+          <StatCard icon="⚡" label="Hoje" value={isPro ? `${stats.today}` : `${stats.today}/${FREE_DAILY_LIMIT}`} />
+          <StatCard icon="🔥" label="Sequência" value={stats.streak > 0 ? `${stats.streak}d` : '—'} highlight={stats.streak >= 3} />
+        </motion.div>
 
         {/* Quick access — Simulado, Redação, Revisão, Histórico */}
         <div className="grid md:grid-cols-2 gap-4 mb-8">
-          <Link href="/simulado" className="bg-white rounded-2xl border border-zinc-200 p-6 hover:border-indigo-400 hover:shadow-sm transition-all flex items-center gap-4">
+          <Link href="/simulado" className="bg-white rounded-2xl border border-zinc-200 p-6 hover:border-gold-500 hover:shadow-sm transition-all flex items-center gap-4">
             <div className="text-3xl">⏱</div>
             <div className="min-w-0">
               <div className="font-bold text-zinc-900">Modo Simulado</div>
@@ -244,7 +268,7 @@ function DashboardContent() {
             </div>
             <span className="ml-auto text-zinc-300 text-lg shrink-0">→</span>
           </Link>
-          <Link href="/redacao" className="bg-white rounded-2xl border border-zinc-200 p-6 hover:border-indigo-400 hover:shadow-sm transition-all flex items-center gap-4">
+          <Link href="/redacao" className="bg-white rounded-2xl border border-zinc-200 p-6 hover:border-gold-500 hover:shadow-sm transition-all flex items-center gap-4">
             <div className="text-3xl">📝</div>
             <div className="min-w-0">
               <div className="font-bold text-zinc-900">Correção de Redação IA</div>
@@ -260,7 +284,7 @@ function DashboardContent() {
             </div>
             <span className="ml-auto text-zinc-300 text-lg shrink-0">→</span>
           </Link>
-          <Link href="/historico" className="bg-white rounded-2xl border border-zinc-200 p-6 hover:border-indigo-400 hover:shadow-sm transition-all flex items-center gap-4">
+          <Link href="/historico" className="bg-white rounded-2xl border border-zinc-200 p-6 hover:border-gold-500 hover:shadow-sm transition-all flex items-center gap-4">
             <div className="text-3xl">📋</div>
             <div className="min-w-0">
               <div className="font-bold text-zinc-900">Histórico completo</div>
@@ -287,7 +311,7 @@ function DashboardContent() {
         </div>
 
         {/* Quick start */}
-        <div className="bg-white rounded-2xl border border-zinc-200 p-8 mb-8">
+        <div id="estudar-agora" className="bg-white rounded-2xl border border-zinc-200 p-8 mb-8 scroll-mt-20">
           <h2 className="text-xl font-bold mb-6">Estudar agora</h2>
           <div className="grid md:grid-cols-2 gap-6">
             <div>
@@ -295,7 +319,7 @@ function DashboardContent() {
               <select
                 value={selectedYear}
                 onChange={(e) => setSelectedYear(e.target.value)}
-                className="w-full border border-zinc-300 rounded-lg px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500"
+                className="w-full border border-zinc-300 rounded-lg px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-gold-500"
               >
                 {YEARS.map((y) => <option key={y} value={y}>{y}</option>)}
               </select>
@@ -305,7 +329,7 @@ function DashboardContent() {
               <select
                 value={selectedDisc}
                 onChange={(e) => setSelectedDisc(e.target.value)}
-                className="w-full border border-zinc-300 rounded-lg px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500"
+                className="w-full border border-zinc-300 rounded-lg px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-gold-500"
               >
                 <option value="">Todas</option>
                 {DISCIPLINES.map((d) => <option key={d} value={d}>{d}</option>)}
@@ -351,16 +375,16 @@ function DashboardContent() {
           <div className="bg-white rounded-2xl border border-zinc-200 p-6 mb-6">
             <div className="flex items-center justify-between mb-4">
               <h2 className="text-lg font-bold">Últimos erros</h2>
-              <Link href="/revisao" className="text-xs text-indigo-600 font-semibold hover:underline">
+              <Link href="/revisao" className="text-xs text-ink-900 font-semibold hover:underline">
                 Ver todos →
               </Link>
             </div>
             <div className="space-y-2">
               {recentWrong.map((w) => (
                 <Link key={`${w.question_id}-${w.answered_at}`} href={`/questoes/${encodeURIComponent(w.discipline)}/${w.year}`}
-                  className="flex items-center justify-between px-4 py-3 rounded-xl border border-zinc-100 hover:border-indigo-300 hover:bg-indigo-50 transition-all text-sm">
+                  className="flex items-center justify-between px-4 py-3 rounded-xl border border-zinc-100 hover:border-gold-400 hover:bg-gold-100 transition-all text-sm">
                   <span className="text-zinc-700">{w.discipline.split(',')[0]} — ENEM {w.year}</span>
-                  <span className="text-indigo-500 text-xs">Revisar →</span>
+                  <span className="text-gold-600 text-xs">Revisar →</span>
                 </Link>
               ))}
             </div>
@@ -382,7 +406,7 @@ function DashboardContent() {
                   <div>
                     <label className="block text-xs font-medium text-zinc-600 mb-1">Curso</label>
                     <select name="course" defaultValue={goal?.course || ''} required
-                      className="w-full border border-zinc-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500">
+                      className="w-full border border-zinc-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-gold-500">
                       <option value="">Selecione</option>
                       {['Medicina','Direito','Engenharia','Odontologia','Psicologia','Administração','Arquitetura','Enfermagem','Farmácia','Pedagogia','Outro'].map(c => (
                         <option key={c} value={c}>{c}</option>
@@ -393,24 +417,24 @@ function DashboardContent() {
                     <label className="block text-xs font-medium text-zinc-600 mb-1">Universidade</label>
                     <input type="text" name="university" defaultValue={goal?.university || ''}
                       placeholder="ex: USP, UFMG, UNICAMP..."
-                      className="w-full border border-zinc-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500" />
+                      className="w-full border border-zinc-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-gold-500" />
                   </div>
                 </div>
                 <div>
                   <label className="block text-xs font-medium text-zinc-600 mb-1">
-                    Nota alvo (média das 5 provas): <strong className="text-indigo-600">{goalScore}</strong>
+                    Nota alvo (média das 5 provas): <strong className="text-gold-600">{goalScore}</strong>
                   </label>
                   <input type="range" name="score" min={500} max={950} step={10}
                     value={goalScore}
                     onChange={e => setGoalScore(Number(e.target.value))}
-                    className="w-full accent-indigo-600" />
+                    className="w-full accent-gold-500" />
                   <div className="flex justify-between text-xs text-zinc-400 mt-1">
                     <span>500</span><span>700</span><span>950</span>
                   </div>
                 </div>
                 <div className="flex gap-2">
                   <button type="submit"
-                    className="bg-indigo-600 text-white px-5 py-2 rounded-lg text-sm font-semibold hover:bg-indigo-700">
+                    className="bg-ink-900 text-white px-5 py-2 rounded-lg text-sm font-semibold hover:bg-ink-800">
                     Salvar meta
                   </button>
                   {goal && (
@@ -430,7 +454,7 @@ function DashboardContent() {
                   {goal.course}{goal.university ? ` — ${goal.university}` : ''}
                 </div>
                 <div className="text-zinc-500 text-sm mt-0.5">
-                  Nota alvo: <span className="font-semibold text-indigo-600">{goal.score} pts</span>
+                  Nota alvo: <span className="font-semibold text-gold-600">{goal.score} pts</span>
                   {stats.total > 0 && (
                     <span className="ml-2 text-zinc-400">
                       · Taxa atual: {Math.round((stats.correct / stats.total) * 1000)}pts TRI estimado
@@ -448,20 +472,20 @@ function DashboardContent() {
 
         {/* Gap 12 — Referral */}
         {referralCode && (
-          <div className="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 rounded-2xl p-6 mb-6">
+          <div className="bg-gold-100 border border-gold-100 rounded-2xl p-6 mb-6">
             <div className="flex items-start justify-between gap-4">
               <div className="flex-1 min-w-0">
                 <h2 className="font-bold text-zinc-900 mb-1">Indique um amigo — ambos ganham 7 dias Pro</h2>
                 <p className="text-zinc-500 text-sm mb-3">
                   Compartilhe seu link. Quando o amigo criar conta, você ganha 7 dias de Pro grátis.
-                  {referralCount > 0 && <span className="ml-1 text-indigo-600 font-semibold">{referralCount} indicados até agora.</span>}
+                  {referralCount > 0 && <span className="ml-1 text-ink-900 font-semibold">{referralCount} indicados até agora.</span>}
                 </p>
                 <div className="flex items-center gap-2 bg-white border border-zinc-200 rounded-lg px-3 py-2 max-w-sm">
                   <span className="text-xs text-zinc-600 truncate flex-1">
                     {typeof window !== 'undefined' ? window.location.origin : 'https://questoesenem.pro'}/r/{referralCode}
                   </span>
                   <button onClick={copyReferral}
-                    className="shrink-0 text-xs font-semibold text-indigo-600 hover:text-indigo-800">
+                    className="shrink-0 text-xs font-semibold text-gold-700 hover:text-gold-600">
                     {copied ? 'Copiado!' : 'Copiar'}
                   </button>
                 </div>
@@ -476,7 +500,7 @@ function DashboardContent() {
         </div>
 
         {/* Bottom links */}
-        <div className="flex flex-wrap justify-center gap-6 text-sm text-indigo-600">
+        <div className="flex flex-wrap justify-center gap-6 text-sm text-ink-900">
           <Link href="/questoes" className="hover:underline">Questões por ano →</Link>
           <Link href="/revisao" className="hover:underline">Modo revisão →</Link>
           <Link href="/historico" className="hover:underline">Histórico completo →</Link>
@@ -520,7 +544,7 @@ function DashboardSkeleton() {
             <div className="h-12 bg-zinc-100 rounded-lg" />
             <div className="h-12 bg-zinc-100 rounded-lg" />
           </div>
-          <div className="h-14 bg-indigo-100 rounded-xl mt-6" />
+          <div className="h-14 bg-gold-100 rounded-xl mt-6" />
         </div>
         <div className="bg-white rounded-2xl border border-zinc-200 p-6">
           <div className="h-6 w-48 bg-zinc-200 rounded mb-4" />
@@ -556,13 +580,17 @@ function WorstDisciplineCard({ discStats, year }: { discStats: DiscStat[]; year:
   )
 }
 
-function StatCard({ label, value, highlight }: { label: string; value: string; highlight?: boolean }) {
+function StatCard({ icon, label, value, highlight }: { icon: string; label: string; value: string; highlight?: boolean }) {
   return (
-    <div className={`rounded-2xl border p-6 text-center ${highlight ? 'bg-amber-50 border-amber-200' : 'bg-white border-zinc-200'}`}>
-      <div className={`text-3xl font-bold mb-1 ${highlight ? 'text-amber-600' : 'text-indigo-600'}`}>{value}</div>
+    <motion.div
+      variants={{ hidden: { opacity: 0, y: 10 }, show: { opacity: 1, y: 0 } }}
+      className={`rounded-2xl border p-6 text-center ${highlight ? 'bg-amber-50 border-amber-200' : 'bg-white border-zinc-200'}`}
+    >
+      <div className="text-xl mb-1">{icon}</div>
+      <div className={`font-display text-3xl font-bold mb-1 ${highlight ? 'text-amber-600' : 'text-ink-900'}`}>{value}</div>
       <div className="text-sm text-zinc-500">{label}</div>
       {highlight && <div className="text-xs text-amber-500 mt-1">em chamas!</div>}
-    </div>
+    </motion.div>
   )
 }
 
@@ -585,7 +613,7 @@ function ManageSubscriptionButton() {
   }
   return (
     <button onClick={handlePortal} disabled={loading}
-      className="text-xs text-indigo-200 hover:text-white underline disabled:opacity-50">
+      className="text-xs text-white/60 hover:text-white underline disabled:opacity-50">
       {loading ? 'Aguarde...' : 'Gerenciar assinatura →'}
     </button>
   )
@@ -602,7 +630,7 @@ function StartButton({ isPro, remaining, year, discipline }: { isPro: boolean; r
     return (
       <div className="mt-6 text-center">
         <p className="text-sm text-zinc-500 mb-3">Limite diário atingido. Volta amanhã ou assine o Pro.</p>
-        <a href="/planos" className="bg-indigo-600 text-white px-8 py-3 rounded-xl font-semibold hover:bg-indigo-700 transition-colors inline-block">
+        <a href="/planos" className="bg-gold-500 text-ink-950 px-8 py-3 rounded-xl font-semibold hover:bg-gold-400 transition-colors inline-block">
           Ver plano Pro
         </a>
       </div>
@@ -612,7 +640,7 @@ function StartButton({ isPro, remaining, year, discipline }: { isPro: boolean; r
   return (
     <button
       onClick={handleStart}
-      className="mt-6 w-full bg-indigo-600 text-white py-4 rounded-xl font-semibold hover:bg-indigo-700 transition-colors"
+      className="mt-6 w-full bg-gold-500 text-ink-950 py-4 rounded-xl font-semibold hover:bg-gold-400 transition-colors"
     >
       Começar a estudar
     </button>

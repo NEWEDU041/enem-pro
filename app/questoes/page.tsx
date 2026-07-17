@@ -4,7 +4,7 @@ import { useEffect, useState, Suspense } from 'react'
 import Link from 'next/link'
 import { useSearchParams } from 'next/navigation'
 import { Question } from '@/lib/types'
-import { YEARS, DISCIPLINES, SLUG_TO_DISCIPLINE as CANONICAL_SLUGS, disciplineToSlug } from '@/lib/enem-api'
+import { YEARS, DISCIPLINES, SLUG_TO_DISCIPLINE as CANONICAL_SLUGS, disciplineToSlug } from '@/lib/enem-constants'
 import { previewText } from '@/lib/text-preview'
 
 // Accepts an older alternate slug spelling on incoming query params; outgoing

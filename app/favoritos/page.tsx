@@ -5,7 +5,7 @@ import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
 import { getFavoritos, clearFavoritos, removeFavorito, type Favorito } from '@/lib/favoritos'
-import { disciplineToSlug } from '@/lib/enem-api'
+import { disciplineToSlug } from '@/lib/enem-constants'
 
 const supabase = createBrowserClient()
 

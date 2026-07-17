@@ -4,11 +4,9 @@ import { notFound, redirect } from 'next/navigation'
 import { fetchSingleQuestionCached } from '@/lib/questions-cache'
 import { SITE_URL } from '@/lib/site-config'
 import { previewText } from '@/lib/text-preview'
-import { SLUG_TO_DISCIPLINE, disciplineToSlug } from '@/lib/enem-api'
+import { SLUG_TO_DISCIPLINE, disciplineToSlug, YEARS as VALID_YEARS } from '@/lib/enem-api'
 import { createServerClient } from '@/lib/supabase'
 import QuestionText from '@/components/QuestionText'
-
-const VALID_YEARS = [2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
 
 export const revalidate = 86400
 

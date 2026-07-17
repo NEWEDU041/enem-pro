@@ -3,11 +3,9 @@ import Link from 'next/link'
 import { fetchQuestionsByYearCached } from '@/lib/questions-cache'
 import { SITE_URL } from '@/lib/site-config'
 import { previewText } from '@/lib/text-preview'
-import { SLUG_TO_DISCIPLINE } from '@/lib/enem-api'
+import { SLUG_TO_DISCIPLINE, YEARS as VALID_YEARS } from '@/lib/enem-api'
 
 export const dynamic = 'force-dynamic'
-
-const VALID_YEARS = [2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
 
 export async function generateMetadata({ params }: { params: Promise<{ discipline: string; year: string }> }): Promise<Metadata> {
   const { discipline, year } = await params
