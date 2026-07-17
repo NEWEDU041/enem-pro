@@ -2,12 +2,11 @@ import type { MetadataRoute } from 'next'
 import { getAllPostsLight as getAllPosts } from '@/lib/blog-index'
 import { SITE_URL } from '@/lib/site-config'
 import { fetchQuestionsByYearCached } from '@/lib/questions-cache'
-import { disciplineToSlug } from '@/lib/enem-api'
+import { disciplineToSlug, YEARS } from '@/lib/enem-api'
 
 const base = SITE_URL
 
 const DISCIPLINES = ['matematica', 'linguagens', 'ciencias-humanas', 'ciencias-natureza']
-const YEARS = [2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
 
 // Static dates — only change when the page content actually changes
 const D = (s: string) => new Date(s)
@@ -115,7 +114,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }
   })
 
-  const gabaritoPages: MetadataRoute.Sitemap = [2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009].map(year => ({
+  const gabaritoPages: MetadataRoute.Sitemap = YEARS.map(year => ({
     url: `${base}/gabarito/${year}`,
     lastModified: D(`${year}-12-01`),
     changeFrequency: 'yearly' as const,

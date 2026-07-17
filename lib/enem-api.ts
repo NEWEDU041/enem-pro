@@ -1,27 +1,28 @@
+import * as fs from 'fs'
+import * as path from 'path'
 import { Question } from './types'
+import { DISCIPLINES, YEARS, SLUG_TO_DISCIPLINE, disciplineToSlug } from './enem-constants'
+
+export { DISCIPLINES, YEARS, SLUG_TO_DISCIPLINE, disciplineToSlug }
 
 const BASE_URL = 'https://api.enem.dev/v1'
 
-export const DISCIPLINES = [
-  'Matemática',
-  'Linguagens, Códigos e suas Tecnologias',
-  'Ciências Humanas e suas Tecnologias',
-  'Ciências da Natureza e suas Tecnologias',
-]
-
-// API returns years only up to 2023
-export const YEARS = [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009]
-
-export const SLUG_TO_DISCIPLINE: Record<string, string> = {
-  'matematica': 'Matemática',
-  'linguagens': 'Linguagens, Códigos e suas Tecnologias',
-  'ciencias-humanas': 'Ciências Humanas e suas Tecnologias',
-  'ciencias-natureza': 'Ciências da Natureza e suas Tecnologias',
+// api.enem.dev has no 2024 data yet — served from a local dataset instead
+// (adapted from huggingface.co/datasets/maritaca-ai/enem, Apache 2.0).
+const LOCAL_DATASET_YEARS: Record<number, string> = {
+  2024: 'enem-2024.json',
 }
 
-export function disciplineToSlug(discipline: string): string | null {
-  const entry = Object.entries(SLUG_TO_DISCIPLINE).find(([, name]) => name === discipline)
-  return entry ? entry[0] : null
+let localDatasetCache: Record<number, Question[]> = {}
+
+function loadLocalDataset(year: number): Question[] | null {
+  const filename = LOCAL_DATASET_YEARS[year]
+  if (!filename) return null
+  if (localDatasetCache[year]) return localDatasetCache[year]
+  const filePath = path.join(process.cwd(), 'data', filename)
+  const questions: Question[] = JSON.parse(fs.readFileSync(filePath, 'utf8'))
+  localDatasetCache[year] = questions
+  return questions
 }
 
 const DISCIPLINE_MAP: Record<string, string> = {
@@ -101,6 +102,9 @@ function mapQuestion(q: RawQuestion, year: number, fallbackIndex: number): Quest
 }
 
 export async function fetchQuestionsByYear(year: number): Promise<Question[]> {
+  const local = loadLocalDataset(year)
+  if (local) return local
+
   const all: Question[] = []
 
   for (let page = 0; page < MAX_PAGES; page++) {
@@ -120,6 +124,9 @@ export async function fetchQuestionsByYear(year: number): Promise<Question[]> {
 }
 
 export async function fetchSingleQuestion(year: number, index: number): Promise<Question | null> {
+  const local = loadLocalDataset(year)
+  if (local) return local.find(q => q.id === `${year}-${index}`) ?? null
+
   try {
     const res = await fetch(`${BASE_URL}/exams/${year}/questions/${index}`)
     if (!res.ok) return null

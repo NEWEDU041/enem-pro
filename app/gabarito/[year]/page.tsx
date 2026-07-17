@@ -4,10 +4,7 @@ import { notFound } from 'next/navigation'
 import { fetchQuestionsByYearCached } from '@/lib/questions-cache'
 import { SITE_URL } from '@/lib/site-config'
 import { previewText } from '@/lib/text-preview'
-import { disciplineToSlug } from '@/lib/enem-api'
-
-// API enem.dev only provides data for years up to 2023
-const VALID_YEARS = [2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
+import { disciplineToSlug, YEARS as VALID_YEARS } from '@/lib/enem-api'
 
 export const revalidate = 86400
 
