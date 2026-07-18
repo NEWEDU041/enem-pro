@@ -6,6 +6,7 @@ export function previewText(raw?: string): string {
     .replace(/!\[[^\]]*\]\([^)]+\)/g, '')
     .replace(/\*\*([^*]+)\*\*/g, '$1')
     .replace(/\*([^*]+)\*/g, '$1')
+    .replace(/^#{1,6}\s+/gm, '')
     .replace(/\s+/g, ' ')
     .trim()
 }
