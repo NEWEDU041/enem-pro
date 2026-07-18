@@ -16,7 +16,7 @@ const SLUG_TO_DISCIPLINE: Record<string, string> = {
 
 function QuestoesContent() {
   const params = useSearchParams()
-  const [year, setYear] = useState(params?.get('year') || '2023')
+  const [year, setYear] = useState(params?.get('year') || '2024')
   const rawDisc = params?.get('discipline') || params?.get('disciplina') || ''
   const [discipline, setDiscipline] = useState((SLUG_TO_DISCIPLINE[rawDisc] ?? rawDisc) || 'Matemática')
   const [questions, setQuestions] = useState<Question[]>([])

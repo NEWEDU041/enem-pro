@@ -61,7 +61,7 @@ export default function SimuladoPage() {
 
   // Setup state
   const [qCount, setQCount] = useState<10 | 20 | 45>(20)
-  const [year, setYear] = useState(2023)
+  const [year, setYear] = useState(2024)
   const [discipline, setDiscipline] = useState('')
 
   // Simulado state
