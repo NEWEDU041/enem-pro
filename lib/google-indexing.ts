@@ -161,12 +161,17 @@ async function buildQuestionLongTail(): Promise<string[]> {
   return urls
 }
 
-// Janela do dia, com offset próprio pra não ciclar em sincronia com o drip de blog.
+// Janela do dia. `urls` já vem ordenada do ano mais recente para o mais antigo
+// (buildQuestionLongTail segue ENEM_YEARS). Conta os dias a partir de uma data
+// de referência fixa para que o rodízio sempre comece pelos anos mais recentes
+// e desça em ordem — em vez de saltar para uma janela pseudo-aleatória do dia.
+const QUESTION_INDEX_REFERENCE_DATE = new Date('2026-07-19T00:00:00Z').getTime()
+
 function questionDailyWindow(urls: string[]): string[] {
-  const dayIndex = Math.floor(Date.now() / 86_400_000) + 1000
   const windows = Math.ceil(urls.length / QUESTION_LONGTAIL_DAILY_LIMIT)
   if (windows === 0) return []
-  const w = dayIndex % windows
+  const daysSinceReference = Math.floor((Date.now() - QUESTION_INDEX_REFERENCE_DATE) / 86_400_000)
+  const w = ((daysSinceReference % windows) + windows) % windows
   return urls.slice(w * QUESTION_LONGTAIL_DAILY_LIMIT, w * QUESTION_LONGTAIL_DAILY_LIMIT + QUESTION_LONGTAIL_DAILY_LIMIT)
 }
 
