@@ -126,7 +126,7 @@ export async function submitGscSitemap(): Promise<{ ok: boolean; status?: number
   }
 }
 
-const QUESTION_LONGTAIL_DAILY_LIMIT = 20
+const QUESTION_LONGTAIL_DAILY_LIMIT = 60
 
 // Listagens por disciplina/ano + gabaritos por ano (75 URLs) — reenviadas
 // inteiras a cada drip, bem abaixo da quota diária da Indexing API.
