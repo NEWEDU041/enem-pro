@@ -168,7 +168,7 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 ## Continue Estudando?
 
 
-- [Calcular Nota ENEM](/calcular-nota). Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes). Estime sua pontuação pelo TRI
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -202,7 +202,7 @@ As questões de maior dificuldade foram nas áreas de Matemática (geometria esp
   {
     slug: 'gabarito-enem-2023',
     title: 'Gabarito ENEM 2023 — Questões e Resoluções por Disciplina',
-    description: 'Gabarito do ENEM 2023 com resolução comentada. Acesse todas as questões de Matemática, Ciências da Natureza, Humanas e Linguagens. Saiba mais e prepare-se.',
+    description: 'Gabarito do ENEM 2023 com resolução comentada. Acesse todas as questões de Matemática, Ciências da Natureza, Humanas e Linguagens.',
     date: '2023-11-12',
     readTime: 7,
     content: `
@@ -352,7 +352,7 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 ## Continue Estudando?
 
 
-- [Calcular Nota ENEM](/calcular-nota). Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes). Estime sua pontuação pelo TRI
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -390,7 +390,7 @@ A média geral ficou próxima de 510 pontos. Notas acima de 650 já são conside
   {
     slug: 'questoes-matematica-enem-2023',
     title: 'Questões de Matemática ENEM 2023 — Gabarito e Resolução',
-    description: 'Todas as questões de Matemática do ENEM 2023 com gabarito oficial e resolução passo a passo. Treine grátis no ENEM Pro. Saiba mais e prepare-se Questões coment.',
+    description: 'Todas as questões de Matemática do ENEM 2023 com gabarito oficial e resolução passo a passo. Treine grátis no ENEM Pro.',
     date: '2023-11-15',
     readTime: 10,
     content: `
@@ -526,7 +526,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -536,7 +536,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'questoes-matematica-enem-2024',
     title: 'Questões de Matemática ENEM 2024 — Gabarito e Análise',
-    description: 'Questões de Matemática do ENEM 2024 com gabarito oficial. Resolução comentada e análise dos temas mais cobrados. Saiba mais e prepare-se Questões comentadas e.',
+    description: 'Questões de Matemática do ENEM 2024 com gabarito oficial. Resolução comentada e análise dos temas mais cobrados nas duas aplicações. Acesse grátis.',
     date: '2024-11-13',
     readTime: 9,
     content: `
@@ -667,7 +667,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -891,7 +891,7 @@ Todas as 5 áreas têm peso igual na média do SISU. Porém, alguns cursos aplic
   {
     slug: 'simulado-enem-gratis',
     title: 'Simulado ENEM Grátis — Pratique com Questões Reais do INEP',
-    description: 'Simulado ENEM grátis com questões reais do INEP de 2009 a 2024. Pratique por disciplina, veja o gabarito e treine para o ENEM 2025. Saiba mais e prepare-se.',
+    description: 'Simulado ENEM grátis com questões reais do INEP de 2009 a 2024. Pratique por disciplina, veja o gabarito e treine para o ENEM 2025.',
     date: '2026-02-01',
     readTime: 6,
     content: `
@@ -1006,7 +1006,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -1016,7 +1016,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'redacao-enem-tema',
     title: 'Redação ENEM — Como Tirar 1000 Pontos em Qualquer Tema',
-    description: 'Guia completo de redação ENEM: estrutura, competências do INEP, exemplos de introdução e conclusão. Aprenda a tirar nota máxima. Saiba mais e prepare-se.',
+    description: 'Guia completo de redação ENEM: estrutura, competências do INEP, exemplos de introdução e conclusão. Aprenda a tirar nota máxima.',
     date: '2026-02-15',
     readTime: 11,
     content: `
@@ -1240,7 +1240,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -1249,7 +1249,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'dicas-enem-2025',
-    title: '10 Dicas de Ouro para o ENEM 2025 — Do Estudo ao Dia da',
+    title: '10 Dicas de Ouro para o ENEM 2025 — Do Estudo ao Dia da Prova',
     description: '10 estratégias comprovadas para melhorar sua nota no ENEM 2025: gestão de tempo, temas prioritários, redação e o que fazer na semana da prova. Acesse grátis.',
     date: '2026-01-20',
     readTime: 8,
@@ -1546,7 +1546,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -1701,7 +1701,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -1711,7 +1711,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'questoes-ciencias-humanas-enem',
     title: 'Questões de Ciências Humanas ENEM — Estratégia e Temas',
-    description: 'Ciências Humanas no ENEM: o que cai em História, Geografia, Filosofia e Sociologia. Temas mais cobrados de 2009 a 2024. Saiba mais e prepare-se Questões coment.',
+    description: 'Ciências Humanas no ENEM: o que cai em História, Geografia, Filosofia e Sociologia. Temas mais cobrados de 2009 a 2024.',
     date: '2026-02-08',
     readTime: 8,
     content: `
@@ -1846,7 +1846,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -1856,7 +1856,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'cronograma-estudos-enem-2025',
     title: 'Cronograma de Estudos para o ENEM 2025 — Semana a Semana',
-    description: 'Cronograma completo de estudos para o ENEM 2025. Planejamento semana a semana, por disciplina, com metas de questões e revisão. Saiba mais e prepare-se.',
+    description: 'Cronograma completo de estudos para o ENEM 2025. Planejamento semana a semana, por disciplina, com metas de questões e revisão.',
     date: '2026-01-15',
     readTime: 10,
     content: `
@@ -2014,7 +2014,7 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 ## Continue Estudando?
 
 
-- [Questão do Dia](/questao-do-dia). 1 questão diária para manter o ritmo
+- [Questão do Dia](/questoes). 1 questão diária para manter o ritmo
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -2252,7 +2252,7 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar — e sobre desenvolve
 ## Continue Estudando?
 
 
-- [Calculadora de Nota ENEM](/calcular-nota) — TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes) — TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes) — Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado) — Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma) — Monte seu plano personalizado até o ENEM
@@ -2283,7 +2283,7 @@ O SISU usa a média das 5 notas do ENEM, podendo aplicar pesos diferentes por di
   {
     slug: 'questoes-fisica-enem',
     title: 'Questões de Física no ENEM — Os 10 Temas Mais Cobrados',
-    description: 'Os 10 temas de Física mais cobrados no ENEM de 2009 a 2024. Estratégia, exemplos de questões e como resolver sem decorar fórmulas. Saiba mais e prepare-se.',
+    description: 'Os 10 temas de Física mais cobrados no ENEM de 2009 a 2024. Estratégia, exemplos de questões e como resolver sem decorar fórmulas.',
     date: '2026-02-20',
     readTime: 9,
     content: `
@@ -2506,7 +2506,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -2516,7 +2516,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'quanto-tempo-estudar-para-o-enem',
     title: 'Quanto Tempo Estudar para o ENEM? A Resposta Honesta',
-    description: 'Quanto tempo de estudo é necessário para passar no ENEM? A resposta depende de onde você está agora e onde quer chegar. Descubra aqui. Saiba mais e prepare-se.',
+    description: 'Quanto tempo de estudo é necessário para passar no ENEM? A resposta depende de onde você está agora e onde quer chegar. Veja como calcular o seu.',
     date: '2026-01-30',
     readTime: 7,
     content: `
@@ -2672,7 +2672,7 @@ Priorize consistência sobre volume: 1h de estudo focado todo dia rende mais do 
   },
   {
     slug: 'questoes-linguagens-enem',
-    title: 'Questões de Linguagens ENEM — Português, Literatura e',
+    title: 'Questões de Linguagens ENEM — Português, Literatura e Idiomas',
     description: 'Guia de Linguagens no ENEM: interpretação textual, gramática contextualizada, literatura e inglês/espanhol. Temas mais cobrados de 2009 a 2024. Acesse grátis.',
     date: '2026-02-05',
     readTime: 8,
@@ -2828,7 +2828,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -3049,7 +3049,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -3059,7 +3059,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'nota-de-corte-medicina-enem',
     title: 'Nota de Corte Medicina ENEM 2026 — Federal, Unifesp e Mais',
-    description: 'Notas de corte para Medicina via SISU nas principais federais. Saiba qual nota você precisa e como calcular sua chance de aprovação. Saiba mais e prepare-se.',
+    description: 'Notas de corte para Medicina via SISU nas principais federais. Saiba qual nota você precisa e como calcular sua chance de aprovação.',
     date: '2026-01-20',
     readTime: 8,
     content: `
@@ -3151,7 +3151,7 @@ Os três programas usam a nota do ENEM. com finalidades diferentes:
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 ## Continue Estudando?
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -3185,7 +3185,7 @@ A nota de redação entra na média do SISU com o mesmo peso das outras áreas. 
   {
     slug: 'tri-enem-como-funciona',
     title: 'TRI ENEM — O Que É e Como Isso Afeta Sua Nota',
-    description: 'Entenda como funciona a TRI (Teoria de Resposta ao Item) do ENEM e como usar esse conhecimento a seu favor na hora da prova. Saiba mais e prepare-se Conteúdo a.',
+    description: 'Entenda como funciona a TRI (Teoria de Resposta ao Item) do ENEM e como usar esse conhecimento a seu favor na hora da prova. Acesse grátis.',
     date: '2026-02-01',
     readTime: 7,
     content: `
@@ -3610,7 +3610,7 @@ A proposta de intervenção (Competência 5) precisa ter 5 elementos: agente (qu
   {
     slug: 'enem-2026-o-que-estudar',
     title: 'ENEM 2026 — O Que Estudar em Cada Disciplina',
-    description: 'Guia de prioridades para o ENEM 2026: os temas mais cobrados por disciplina, o que cai mais e onde focar para maximizar sua nota. Saiba mais e prepare-se.',
+    description: 'Guia de prioridades para o ENEM 2026: os temas mais cobrados por disciplina, o que cai mais e onde focar para maximizar sua nota.',
     date: '2026-03-01',
     readTime: 9,
     content: `
@@ -3855,7 +3855,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -3864,8 +3864,8 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'sisu-2026-como-funciona',
-    title: 'SISU 2026 — Como Funciona, Notas de Corte e Como se',
-    description: 'Tudo sobre o SISU 2026: regras de inscrição, como as notas de corte funcionam, estratégias para escolher curso e universidade. Saiba mais e prepare-se.',
+    title: 'SISU 2026 — Como Funciona, Notas de Corte e Como se Inscrever',
+    description: 'Tudo sobre o SISU 2026: regras de inscrição, como as notas de corte funcionam, estratégias para escolher curso e universidade com mais chance de aprovação.',
     date: '2026-03-15',
     readTime: 8,
     content: `
@@ -3926,7 +3926,7 @@ Cotas podem aumentar significativamente suas chances. a concorrência é menor.
 
 ---
 
-Aumente sua nota no ENEM 2026 com o ENEM Pro. 3.600+ questões reais do INEP, grátis para começar.
+Aumente sua nota no ENEM 2026 com o ENEM Pro. 2.900+ questões reais do INEP, grátis para começar.
 
 
 
@@ -4018,7 +4018,7 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 ## Continue Estudando?
 
 
-- [Calcular Nota para o SISU](/calcular-nota). Veja se sua nota é competitiva
+- [Calcular Nota para o SISU](/questoes). Veja se sua nota é competitiva
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -4047,7 +4047,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -4270,7 +4270,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -4280,7 +4280,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'matematica-enem-dicas-estrategias',
     title: 'Matemática no ENEM — Dicas e Estratégias para Não Ter Medo',
-    description: 'Como enfrentar a prova de Matemática do ENEM sem pânico. Estratégias de resolução, temas mais cobrados e como usar o tempo da prova. Saiba mais e prepare-se.',
+    description: 'Como enfrentar a prova de Matemática do ENEM sem pânico. Estratégias de resolução, temas mais cobrados e como usar o tempo da prova.',
     date: '2026-04-15',
     readTime: 8,
     content: `
@@ -4436,7 +4436,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -4446,7 +4446,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'fisica-enem-o-que-cai',
     title: 'Física no ENEM — O que Cai, Temas e Estratégia 2026',
-    description: 'Descubra o que cai em Física no ENEM: mecânica, eletricidade, termodinâmica, óptica e física moderna. Estratégia completa para 2026. Saiba mais e prepare-se.',
+    description: 'Descubra o que cai em Física no ENEM: mecânica, eletricidade, termodinâmica, óptica e física moderna. Estratégia completa para 2026.',
     date: '2026-03-10',
     readTime: 8,
     content: `
@@ -4676,7 +4676,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -4686,7 +4686,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'quimica-enem-o-que-cai',
     title: 'Química no ENEM — O que Cai, Temas e Estratégia 2026',
-    description: 'O que cai em Química no ENEM: química orgânica, estequiometria, soluções, termoquímica e eletroquímica. Guia completo com estratégia. Saiba mais e prepare-se.',
+    description: 'O que cai em Química no ENEM: química orgânica, estequiometria, soluções, termoquímica e eletroquímica. Guia completo com os temas mais cobrados.',
     date: '2026-03-12',
     readTime: 8,
     content: `
@@ -4832,7 +4832,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -5188,7 +5188,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -5198,7 +5198,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'historia-enem-o-que-cai',
     title: 'História no ENEM — O que Cai, Temas e Estratégia 2026',
-    description: 'O que cai em História no ENEM: Brasil República, ditadura militar, guerras mundiais, Revolução Francesa e história contemporânea. Saiba mais e prepare-se.',
+    description: 'O que cai em História no ENEM: Brasil República, ditadura militar, guerras mundiais, Revolução Francesa e história contemporânea.',
     date: '2026-03-16',
     readTime: 7,
     content: `
@@ -5374,7 +5374,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -5384,7 +5384,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'geografia-enem-o-que-cai',
     title: 'Geografia no ENEM — O que Cai, Temas e Estratégia 2026',
-    description: 'O que cai em Geografia no ENEM: biomas, cartografia, urbanização, geopolítica, globalização e questões ambientais. Guia 2026. Saiba mais e prepare-se.',
+    description: 'O que cai em Geografia no ENEM: biomas, cartografia, urbanização, geopolítica, globalização e questões ambientais. Guia 2026 com os temas mais cobrados.',
     date: '2026-03-18',
     readTime: 7,
     content: `
@@ -5566,7 +5566,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -5575,8 +5575,8 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-direito-enem',
-    title: 'Nota de Corte para Direito no ENEM — SISU 2026 por',
-    description: 'Nota de corte para Direito pelo SISU 2026. Veja as médias por universidade federal, pesos das disciplinas e como aumentar sua nota. Saiba mais e prepare-se.',
+    title: 'Nota de Corte para Direito no ENEM — SISU 2026 por Universidade',
+    description: 'Nota de corte para Direito pelo SISU 2026. Veja as médias por universidade federal, pesos das disciplinas e como aumentar sua nota até a prova.',
     date: '2026-04-07',
     readTime: 6,
     content: `
@@ -5788,7 +5788,7 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 
 
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -5825,7 +5825,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -5835,7 +5835,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'prouni-2026-como-funciona',
     title: 'ProUni 2026 — Como Funciona, Nota Mínima e Como se Inscrever',
-    description: 'Entenda como funciona o ProUni 2026: quem tem direito, nota mínima de 450 pontos, bolsa integral e parcial, e como se inscrever. Saiba mais e prepare-se.',
+    description: 'Entenda como funciona o ProUni 2026: quem tem direito, nota mínima de 450 pontos, bolsa integral e parcial, e como se inscrever.',
     date: '2026-01-20',
     readTime: 7,
     content: `
@@ -5991,7 +5991,7 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 ## Continue Estudando?
 
 
-- [Calcular Nota para o ProUni](/calcular-nota). Bolsas parciais e integrais
+- [Calcular Nota para o ProUni](/questoes). Bolsas parciais e integrais
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -6020,7 +6020,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -6029,8 +6029,8 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'ingles-enem-dicas',
-    title: 'Inglês no ENEM — O que Cai e Como Passar Mesmo Sem Ser',
-    description: 'Como ir bem em Inglês no ENEM sem ser fluente. O que cai, estratégia de leitura e dicas para interpretar textos em inglês na prova. Saiba mais e prepare-se.',
+    title: 'Inglês no ENEM — O que Cai e Como Passar Mesmo Sem Ser Fluente',
+    description: 'Como ir bem em Inglês no ENEM sem ser fluente. O que cai, estratégia de leitura e dicas para interpretar textos em inglês direto na prova.',
     date: '2026-03-20',
     readTime: 6,
     content: `
@@ -6257,7 +6257,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 
@@ -6277,7 +6277,7 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
   {
     slug: 'enem-segunda-chance',
     title: 'Reprovei no ENEM — O que Fazer? Guia para a Segunda Chance',
-    description: 'Não foi bem no ENEM? Saiba o que fazer: como analisar seus erros, montar um plano de estudos e aumentar sua nota no próximo ENEM. Saiba mais e prepare-se.',
+    description: 'Não foi bem no ENEM? Saiba o que fazer: como analisar seus erros, montar um plano de estudos e aumentar sua nota no próximo ENEM.',
     date: '2026-02-15',
     readTime: 7,
     content: `
@@ -6407,7 +6407,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -6416,8 +6416,8 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'redacao-enem-competencias',
-    title: 'As 5 Competências da Redação do ENEM — Guia Completo para',
-    description: 'Entenda as 5 competências avaliadas na redação do ENEM: domínio da língua, compreensão da proposta, organização argumentativa, mecanismos linguísticos e.',
+    title: 'As 5 Competências da Redação do ENEM — Guia Completo para Nota 1000',
+    description: 'Entenda as 5 competências avaliadas na redação do ENEM: domínio da língua, compreensão da proposta, organização argumentativa, mecanismos linguísticos e proposta de intervenção.',
     date: '2026-04-15',
     readTime: 9,
     content: `
@@ -6649,7 +6649,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -6659,7 +6659,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'filosofia-sociologia-enem',
     title: 'Filosofia e Sociologia no ENEM — O que Cai e Como Estudar',
-    description: 'O que cai em Filosofia e Sociologia no ENEM: Durkheim, Weber, Marx, Platão, Kant, ética política. Estratégia para Ciências Humanas. Saiba mais e prepare-se.',
+    description: 'O que cai em Filosofia e Sociologia no ENEM: Durkheim, Weber, Marx, Platão, Kant, ética política. Estratégia para Ciências Humanas.',
     date: '2026-03-22',
     readTime: 7,
     content: `
@@ -6895,7 +6895,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -7046,7 +7046,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -7272,7 +7272,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -7560,7 +7560,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -7569,8 +7569,8 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-psicologia-enem',
-    title: 'Nota de Corte para Psicologia no ENEM — SISU 2026 por',
-    description: 'Nota de corte para Psicologia pelo SISU 2026 nas principais universidades federais. Saiba o que o curso exige e como se preparar. Saiba mais e prepare-se.',
+    title: 'Nota de Corte para Psicologia no ENEM — SISU 2026 por Universidade',
+    description: 'Nota de corte para Psicologia pelo SISU 2026 nas principais universidades federais. Saiba o que o curso exige e como aumentar sua nota até a prova.',
     date: '2026-04-10',
     readTime: 5,
     content: `
@@ -7764,7 +7764,7 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 ## Continue Estudando?
 
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -7793,7 +7793,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -7839,12 +7839,12 @@ Antes de comparar, defina o critério. Um bom aplicativo para o ENEM deve ter:
 
 | Plataforma | Questões INEP reais | Gratuito | Explicação IA | Preço Pro |
 |-----------|--------------------|---------|-----------|-----------
-| **ENEM Pro** | ✓ 2009–2024 | 10/dia | ✓ Por questão | R\$14,90/mês |
-| Descomplica | Parcial | Limitado | ✗ | R\$39–79/mês |
-| Stoodi | Parcial | Trial | ✗ | R\$39/mês |
+| **ENEM Pro** | ✓ 2009–2024 | 10/dia | ✓ Por questão | R\$29,90/mês |
+| Descomplica | Parcial | Limitado | ✗ | R\$39,90–119,90/mês |
+| Stoodi | Parcial | Trial | ✗ | R\$13,90–39,90/mês |
 | Khan Academy | ✗ | ✓ Total | ✗ | Grátis |
 | QConcursos | ✓ | Limitado | ✗ | Pago |
-| Me Salva! | Parcial | Limitado | ✗ | R\$29/mês |
+| Me Salva! | Parcial | Limitado | ✗ | até R\$49,90/mês |
 
 
 
@@ -7865,7 +7865,7 @@ Khan Academy é a melhor opção totalmente gratuita para **reforçar conteúdo*
 O ENEM Pro usa exclusivamente questões do banco oficial do INEP (2009–2024). O diferencial é a **explicação de IA para cada questão errada**. não um gabarito genérico. uma análise do raciocínio específico daquela questão.
 
 **Versão gratuita:** 10 questões por dia. suficiente para manutenção consistente de estudos.
-**Pro (R\$14,90/mês):** ilimitado + simulados completos + modo revisão de erros.
+**Pro (R\$29,90/mês):** ilimitado + simulados completos + modo revisão de erros.
 
 
 
@@ -8006,7 +8006,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -8049,7 +8049,7 @@ O diferencial: ao errar, a **IA explica o raciocínio específico** daquela ques
 | Questões INEP reais | Parcial | ✓ 2009–2024 |
 | Grátis por dia | Trial curto | 10 questões/dia |
 | IA por questão | ✗ | ✓ |
-| Preço Pro | R\$39–79/mês | R\$14,90/mês |
+| Preço Pro | R\$39,90–119,90/mês | R\$29,90/mês |
 
 ### 2. Khan Academy. Melhor para Conteúdo Base
 
@@ -8063,9 +8063,9 @@ Canais como Ferretto Matemática, Biologia Total e Professor Noslen têm conteú
 
 1. **YouTube/Khan Academy** para entender o conteúdo (grátis)
 2. **ENEM Pro** para praticar com questões reais (10/dia grátis)
-3. **ENEM Pro Pro** se quiser ilimitado. R\$14,90/mês vs R\$79/mês do Descomplica
+3. **ENEM Pro Pro** se quiser ilimitado. R\$29,90/mês vs R\$79/mês do Descomplica
 
-Você economiza até R\$772/ano mantendo a preparação focada no que realmente conta.
+Você economiza até R\$589/ano mantendo a preparação focada no que realmente conta.
 
 ---
 
@@ -8166,7 +8166,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -8176,7 +8176,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'questoes-enem-online-gratis',
     title: 'Questões ENEM Online Grátis — Banco Completo 2009 a 2024',
-    description: 'Pratique questões reais do ENEM online e grátis. Banco completo de 2009 a 2024 com gabarito imediato e explicação de IA. Matemática, Humanas, Natureza e.',
+    description: 'Pratique questões reais do ENEM online e grátis. Banco completo de 2009 a 2024 com gabarito imediato e explicação de IA. Matemática, Humanas, Natureza e Linguagens.',
     date: '2026-05-25',
     readTime: 5,
     content: `
@@ -8203,10 +8203,10 @@ O INEP disponibiliza os PDFs das provas antigas em seu site (gov.br/enem). São 
 ### Questões por Disciplina no ENEM Pro
 
 O banco do ENEM Pro é filtrado por disciplina e ano:
-- [Questões de Matemática →](/questoes/matematica)
-- [Questões de Ciências da Natureza →](/questoes/ciencias-natureza)
-- [Questões de Ciências Humanas →](/questoes/ciencias-humanas)
-- [Questões de Linguagens →](/questoes/linguagens)
+- [Questões de Matemática →](/questoes/matematica/2024)
+- [Questões de Ciências da Natureza →](/questoes/ciencias-natureza/2024)
+- [Questões de Ciências Humanas →](/questoes/ciencias-humanas/2024)
+- [Questões de Linguagens →](/questoes/linguagens/2024)
 
 ## Como usar as questões ENEM online de forma eficaz?
 
@@ -8290,7 +8290,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 
@@ -8384,7 +8384,7 @@ O ENEM Pro reúne todas as questões de ${d.label} do ENEM ${year} e de 2009 a 2
 
 - [Questões de ${d.label} ENEM](/questoes?disciplina=${d.slug})
 - [Questões do ENEM por Disciplina](/questoes) — Pratique com questões reais
-- [Calcular Nota ENEM](/calcular-nota) — Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes) — Estime sua pontuação pelo TRI
 
 ## Fontes
 
@@ -8408,7 +8408,7 @@ const EXTRA_POSTS: BlogPost[] = [
   {
     slug: 'enem-2026-data-inscricao',
     title: 'ENEM 2026: Data da Prova, Inscrição e Tudo que Você Precisa',
-    description: 'Datas, cronograma de inscrição, locais de prova e o que mudou no ENEM 2026. Tudo que você precisa saber para não perder nenhum prazo. Saiba mais e prepare-se.',
+    description: 'Datas, cronograma de inscrição, locais de prova e o que mudou no ENEM 2026. Tudo que você precisa saber para não perder nenhum prazo.',
     date: '2026-01-15',
     readTime: 6,
     content: `
@@ -8496,7 +8496,7 @@ Se você vai fazer o ENEM 2026 em novembro, tem entre **6 e 10 meses** de prepar
 ## Como o ENEM Pro Pode Ajudar?
 
 
-O ENEM Pro reúne todas as questões do ENEM de 2009 a 2024. mais de 3.600 questões reais do INEP. Você filtra por ano, disciplina e dificuldade, e recebe explicação gerada por IA para cada questão errada.
+O ENEM Pro reúne todas as questões do ENEM de 2009 a 2024. mais de 2.900 questões reais do INEP. Você filtra por ano, disciplina e dificuldade, e recebe explicação gerada por IA para cada questão errada.
 
 Estudar com questões reais de provas anteriores é a forma mais eficiente de se preparar para o ENEM 2026. Você aprende o padrão de cobrança, o tipo de raciocínio exigido e identifica seus pontos fracos antes da prova.
 
@@ -8580,7 +8580,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 
@@ -8731,7 +8731,7 @@ Para solicitar:
 ## Pratique Antes da Prova?
 
 
-Inscrição feita, hora de estudar. O ENEM Pro tem todas as questões do ENEM de 2009 a 2024 — mais de 3.600 questões reais do INEP, organizadas por disciplina e ano.
+Inscrição feita, hora de estudar. O ENEM Pro tem todas as questões do ENEM de 2009 a 2024 — mais de 2.900 questões reais do INEP, organizadas por disciplina e ano.
 
 Responda 10 questões por dia grátis. No plano Pro, a IA explica o raciocínio de cada resposta, ajudando você a entender onde está errando e como corrigir.
 
@@ -8878,7 +8878,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -9038,7 +9038,7 @@ Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apen
 ## Continue Estudando?
 
 
-- [Calcular Nota ENEM](/calcular-nota). Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes). Estime sua pontuação pelo TRI
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -9076,7 +9076,7 @@ Sim. A ordem das questões varia por cor de caderno (amarelo, azul, cinza, rosa 
   {
     slug: 'gabarito-enem-2021',
     title: 'Gabarito ENEM 2021 — Questões e Análise por Disciplina',
-    description: 'Gabarito e análise do ENEM 2021. Saiba o que caiu em cada área, dificuldade da prova e notas de corte do SISU 2022. Saiba mais e prepare-se Gabarito completo.',
+    description: 'Gabarito e análise do ENEM 2021. Saiba o que caiu em cada área, dificuldade da prova e notas de corte do SISU 2022.',
     date: '2021-11-21',
     readTime: 7,
     content: `
@@ -9327,7 +9327,7 @@ Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apen
 ## Continue Estudando
 
 
-- [Calcular Nota ENEM](/calcular-nota). Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes). Estime sua pontuação pelo TRI
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -9356,7 +9356,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -9595,7 +9595,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -9784,7 +9784,7 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 ## Continue Estudando
 
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -9813,7 +9813,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -10087,7 +10087,7 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 ## Continue Estudando?
 
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -10116,7 +10116,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -10345,7 +10345,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -10355,7 +10355,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'nota-de-corte-farmacia-enem',
     title: 'Nota de Corte para Farmácia no ENEM — SISU 2026',
-    description: 'Nota de corte para Farmácia nas universidades federais via SISU. Veja quanto você precisa tirar no ENEM para entrar em Farmácia. Saiba mais e prepare-se.',
+    description: 'Nota de corte para Farmácia nas universidades federais via SISU. Veja quanto você precisa tirar no ENEM para entrar em Farmácia e como planejar sua nota.',
     date: '2026-03-01',
     readTime: 5,
     content: `
@@ -10510,7 +10510,7 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 ## Continue Estudando
 
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -10539,7 +10539,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -10549,7 +10549,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'nota-de-corte-arquitetura-enem',
     title: 'Nota de Corte para Arquitetura e Urbanismo no ENEM',
-    description: 'Nota de corte para Arquitetura e Urbanismo nas federais via SISU. Saiba quanto você precisa tirar no ENEM para entrar em Arquitetura. Saiba mais e prepare-se.',
+    description: 'Nota de corte para Arquitetura e Urbanismo nas federais via SISU. Saiba quanto você precisa tirar no ENEM para entrar em Arquitetura e como planejar.',
     date: '2026-03-05',
     readTime: 5,
     content: `
@@ -10735,7 +10735,7 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 ## Continue Estudando?
 
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -10764,7 +10764,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -10774,7 +10774,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'nota-de-corte-nutricao-enem',
     title: 'Nota de Corte para Nutrição no ENEM — SISU 2026',
-    description: 'Nota de corte para Nutrição nas universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Nutrição. Saiba mais e prepare-se Notas por c.',
+    description: 'Nota de corte para Nutrição nas universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Nutrição.',
     date: '2026-03-08',
     readTime: 5,
     content: `
@@ -10936,7 +10936,7 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 ## Continue Estudando?
 
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -10965,7 +10965,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -11210,7 +11210,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -11344,7 +11344,7 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 ## Continue Estudando?
 
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -11373,7 +11373,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -11674,7 +11674,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -11684,7 +11684,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'enem-2025-gabarito-resultado',
     title: 'ENEM 2025 — Gabarito, Resultado e Notas de Corte',
-    description: 'Gabarito e resultado do ENEM 2025. Veja as notas por disciplina, análise das questões mais difíceis e notas de corte para o SISU 2026. Saiba mais e prepare-se.',
+    description: 'Gabarito e resultado do ENEM 2025. Veja as notas por disciplina, análise das questões mais difíceis e notas de corte para o SISU 2026.',
     date: '2025-11-10',
     readTime: 7,
     content: `
@@ -11874,7 +11874,7 @@ Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e sufici
 ## Continue Estudando?
 
 
-- [Calcular Nota ENEM](/calcular-nota). Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes). Estime sua pontuação pelo TRI
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -11903,7 +11903,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -11913,7 +11913,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'como-passar-no-sisu',
     title: 'Como Passar no SISU 2026 — Estratégia, Notas e Dicas',
-    description: 'Guia completo do SISU 2026: como funciona a seleção, como escolher a opção certa, diferença entre ampla concorrência e cotas e estratégias para maximizar suas.',
+    description: 'Guia completo do SISU 2026: como funciona a seleção, como escolher a opção certa, diferença entre ampla concorrência e cotas e estratégias para maximizar suas chances.',
     date: '2026-01-20',
     readTime: 8,
     content: `
@@ -12016,7 +12016,7 @@ Cada ponto na nota do ENEM pode ser a diferença entre aprovação e reprovaçã
 
 ## Continue Estudando
 
-- [Calcular Nota para o SISU](/calcular-nota) — Veja se sua nota é competitiva
+- [Calcular Nota para o SISU](/questoes) — Veja se sua nota é competitiva
 - [Questões do ENEM por Disciplina](/questoes) — Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado) — Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma) — Monte seu plano personalizado até o ENEM
@@ -12041,7 +12041,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -12236,7 +12236,7 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 ## Continue Estudando?
 
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -12265,7 +12265,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -12389,7 +12389,7 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 
 ## Continue Estudando
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -12414,7 +12414,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -12554,7 +12554,7 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 ## Continue Estudando?
 
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -12603,7 +12603,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -12857,7 +12857,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -13059,7 +13059,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -13379,7 +13379,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -13616,7 +13616,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 
@@ -13688,7 +13688,7 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
   },
   {
     slug: 'como-estudar-quimica-enem',
-    title: 'Como Estudar Química para o ENEM: Temas que Mais Caem e',
+    title: 'Como Estudar Química para o ENEM: Temas que Mais Caem e Como Revisar',
     description: 'Guia de estudo de Química para o ENEM 2026. Os temas mais cobrados, estratégia por fase, dicas para questões contextualizadas e como resolver a banca INEP.',
     date: '2026-06-14',
     readTime: 7,
@@ -13972,7 +13972,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -14161,7 +14161,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -14170,7 +14170,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'interpretacao-de-texto-enem',
-    title: 'Interpretação de Texto no ENEM: Como Não Errar Questões de',
+    title: 'Interpretação de Texto no ENEM: Como Não Errar Questões de Linguagens',
     description: 'Como melhorar a interpretação de texto no ENEM 2026. Estratégias para questões de Linguagens, tipos de texto cobrados e os erros mais comuns dos candidatos.',
     date: '2026-06-14',
     readTime: 7,
@@ -14448,7 +14448,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -14694,7 +14694,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 
@@ -14853,7 +14853,7 @@ Sua nota no SISU é a média ponderada das 5 notas:
 
 Cada curso define os pesos. Para Contabilidade, os pesos variam mas geralmente Matemática tem peso maior.
 
-Use a **[Calculadora de Nota ENEM Pro](/calcular-nota)** para estimar sua pontuação.
+Use a **[Calculadora de Nota ENEM Pro](/questoes)** para estimar sua pontuação.
 
 
 ## Estratégia para Quem Mira Contabilidade?
@@ -14864,7 +14864,7 @@ Use a **[Calculadora de Nota ENEM Pro](/calcular-nota)** para estimar sua pontua
 3. **Pesquise a universidade antes**. notas e pesos variam por instituição
 4. **Considere o turno noturno**. notas menores, ideal para quem já trabalha
 
-**[Calcular minha nota ENEM e comparar com cortes do SISU](/calcular-nota)**
+**[Calcular minha nota ENEM e comparar com cortes do SISU](/questoes)**
 
 
 Estudantes que usam o ENEM Pro para simular sua nota e compará-la com as notas de corte históricas dos cursos desejados tomam decisões mais estratégicas na inscrição do SISU e do ProUni. Em nossa plataforma, o módulo de cálculo de nota é um dos mais acessados nos dias seguintes ao resultado do ENEM.
@@ -14960,7 +14960,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 
@@ -15093,7 +15093,7 @@ A estratégia mais comum é:
 1. Colocar a universidade desejada na 1ª opção
 2. Uma universidade mais acessível (mesma carreira) na 2ª opção
 
-**[Calcular minha nota ENEM e planejar candidatura ao SISU](/calcular-nota)**
+**[Calcular minha nota ENEM e planejar candidatura ao SISU](/questoes)**
 
 
 
@@ -15141,7 +15141,7 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 ## Continue Estudando?
 
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -15170,7 +15170,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 
@@ -15447,7 +15447,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -15727,7 +15727,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -15736,8 +15736,8 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'como-estudar-portugues-enem',
-    title: 'Como Estudar Português para o ENEM: Gramática',
-    description: 'Guia de Português para o ENEM 2026. O que cai em gramática, interpretação de texto e redação, estratégia de estudo por fase e os erros mais comuns dos.',
+    title: 'Como Estudar Português para o ENEM: Gramática, Interpretação e Redação',
+    description: 'Guia de Português para o ENEM 2026. O que cai em gramática, interpretação de texto e redação, estratégia de estudo por fase e os erros mais comuns dos candidatos.',
     date: '2026-06-14',
     readTime: 8,
     content: `
@@ -16031,7 +16031,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -16040,7 +16040,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'funcoes-matematica-enem',
-    title: 'Funções no ENEM: 1º Grau, 2º Grau, Exponencial e',
+    title: 'Funções no ENEM: 1º Grau, 2º Grau, Exponencial e Logarítmica',
     description: 'Funções no ENEM 2026: o que cai de função do 1º grau, 2º grau, exponencial e logarítmica. Fórmulas, gráficos e como resolver questões da banca INEP. Grátis.',
     date: '2026-06-14',
     readTime: 7,
@@ -16298,7 +16298,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -16308,7 +16308,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'trigonometria-enem-o-que-cai',
     title: 'Trigonometria no ENEM: O que Cai e Como Resolver 2026',
-    description: 'Trigonometria no ENEM 2026: seno, cosseno, tangente, lei dos senos e cossenos. O que estudar, tabela de valores e como resolver questões contextualizadas da.',
+    description: 'Trigonometria no ENEM 2026: seno, cosseno, tangente, lei dos senos e cossenos. O que estudar, tabela de valores e como resolver questões contextualizadas da prova.',
     date: '2026-06-14',
     readTime: 6,
     content: `
@@ -16629,7 +16629,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -16745,7 +16745,7 @@ Verifique os pesos específicos de cada universidade no SISU antes de se inscrev
 | Enfermagem | 580–640 | 5 anos | R\$2.000–3.500 |
 | Farmácia | 620–670 | 5 anos | R\$3.000–5.000 |
 
-**[Calcular minha nota ENEM e comparar com cortes de Fisioterapia](/calcular-nota)**
+**[Calcular minha nota ENEM e comparar com cortes de Fisioterapia](/questoes)**
 
 
 
@@ -16793,7 +16793,7 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 ## Continue Estudando?
 
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -16822,7 +16822,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 
@@ -16884,7 +16884,7 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
   },
   {
     slug: 'nota-de-corte-economia-enem',
-    title: 'Nota de Corte Economia ENEM 2025 — SISU, Universidades e',
+    title: 'Nota de Corte Economia ENEM 2025 — SISU, Universidades e Mercado de Trabalho',
     description: 'Nota de corte para Ciências Econômicas no SISU 2025. Veja as notas nas principais federais, FGV e USP, e como planejar sua candidatura para o ENEM 2026.',
     date: '2026-06-14',
     readTime: 5,
@@ -17027,7 +17027,7 @@ Sim. a qualidade das federais brasileiras em Economia é alta. UFMG, UFRJ, UnB e
 
 A diferença de nota de corte entre USP (740+) e UFRJ (700+) é de 40 pontos. que podem ser conquistados com bom estudo de Matemática e Redação.
 
-**[Calcular minha nota ENEM e ver onde estou para Economia](/calcular-nota)**
+**[Calcular minha nota ENEM e ver onde estou para Economia](/questoes)**
 
 
 
@@ -17090,7 +17090,7 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 
 
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -17167,7 +17167,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -17176,7 +17176,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-jornalismo-enem',
-    title: 'Nota de Corte Jornalismo ENEM 2025 — SISU e Perspectivas de',
+    title: 'Nota de Corte Jornalismo ENEM 2025 — SISU e Perspectivas de Carreira',
     description: 'Nota de corte para Jornalismo no SISU 2025. Veja as notas nas federais, mercado de trabalho em 2026, diferença entre Jornalismo e Comunicação Social. Grátis.',
     date: '2026-06-14',
     readTime: 5,
@@ -17307,7 +17307,7 @@ O mercado de comunicação valoriza profissionais com:
 
 Cursos livres complementam a formação durante a graduação. comece cedo.
 
-**[Calcular minha nota e verificar notas de corte no SISU](/calcular-nota)**
+**[Calcular minha nota e verificar notas de corte no SISU](/questoes)**
 
 
 
@@ -17371,7 +17371,7 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 
 
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -17408,7 +17408,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -17685,7 +17685,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -18011,7 +18011,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -18257,7 +18257,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -18398,7 +18398,7 @@ A redação representa 1/5 da nota total do ENEM. Candidatos que investem tempo 
 - 800–899 pontos: coesão excelente + repertório diversificado
 - 900–1000 pontos: domínio total das 5 competências
 
-**[Ver temas da Redação ENEM 2009–2024 com análise completa](/temas-redacao)**
+**[Ver temas da Redação ENEM 2009–2024 com análise completa](/redacao)**
 
 
 ## Como Aumentar suas Chances de Passar em Agronomia?
@@ -18561,7 +18561,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 
@@ -18690,7 +18690,7 @@ O gabarito oficial do ENEM 2026 será divulgado pelo INEP dias após a prova (ge
 
 Guarde o número de inscrição para consultar o resultado.
 
-**[Calculadora de Nota ENEM. estime sua nota com os acertos](/calcular-nota)**
+**[Calculadora de Nota ENEM. estime sua nota com os acertos](/questoes)**
 
 
 
@@ -18788,7 +18788,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -18797,7 +18797,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-servico-social-enem',
-    title: 'Nota de Corte Serviço Social ENEM 2025 — SISU e',
+    title: 'Nota de Corte Serviço Social ENEM 2025 — SISU e Mercado de Trabalho',
     description: 'Nota de corte para Serviço Social no SISU 2025. As notas nas principais federais, campo de trabalho e como planejar a candidatura para 2026. Acesse grátis.',
     date: '2026-06-14',
     readTime: 4,
@@ -18865,7 +18865,7 @@ Com cotas (L1. escola pública + baixa renda), as notas de corte caem significat
 
 Serviço Social tem ampla disponibilidade de bolsas ProUni no particular, com notas a partir de 400–450 pontos para bolsa integral.
 
-**[Ver minha nota e comparar com cortes](/calcular-nota)**
+**[Ver minha nota e comparar com cortes](/questoes)**
 
 
 
@@ -18907,7 +18907,7 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 
 ## Continue Estudando
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -18932,7 +18932,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -18941,7 +18941,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-educacao-fisica-enem',
-    title: 'Nota de Corte Educação Física ENEM 2025 — SISU e Mercado de',
+    title: 'Nota de Corte Educação Física ENEM 2025 — SISU e Mercado de Trabalho',
     description: 'Nota de corte para Educação Física no SISU 2025. Veja as notas nas federais, diferença entre licenciatura e bacharelado, e as perspectivas de carreira.',
     date: '2026-06-14',
     readTime: 4,
@@ -19015,7 +19015,7 @@ O mercado de Educação Física cresceu muito nos últimos anos:
 - Ciências da Natureza (especialmente Biologia) é relevante para o conteúdo do curso
 - Turno noturno nas federais tem notas menores. boa opção para quem já trabalha
 
-**[Calcular minha nota ENEM](/calcular-nota)**
+**[Calcular minha nota ENEM](/questoes)**
 
 
 
@@ -19082,7 +19082,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -19259,7 +19259,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -19550,7 +19550,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -19759,7 +19759,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -19997,7 +19997,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 
@@ -20005,7 +20005,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-letras-enem',
-    title: 'Nota de Corte Letras ENEM 2025 — SISU, Universidades e',
+    title: 'Nota de Corte Letras ENEM 2025 — SISU, Universidades e Mercado de Trabalho',
     description: 'Nota de corte para Letras no SISU 2025. Veja as notas nas principais universidades federais, diferença entre Letras Português e Letras Inglês, e perspectivas.',
     date: '2026-06-14',
     readTime: 5,
@@ -20091,7 +20091,7 @@ A narrativa de que "Letras não tem mercado" está desatualizada:
 - Professores de inglês são escassos em todas as regiões do Brasil
 - Revisão e edição de livros, roteiros e conteúdo corporativo têm demanda crescente
 
-**[Calcular minha nota ENEM e planejar candidatura](/calcular-nota)**
+**[Calcular minha nota ENEM e planejar candidatura](/questoes)**
 
 
 
@@ -20162,7 +20162,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 ## Continue Estudando?
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -20187,7 +20187,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -20197,7 +20197,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'nota-de-corte-ciencias-biologicas-enem',
     title: 'Nota de Corte Ciências Biológicas ENEM 2025',
-    description: 'Nota de corte para Ciências Biológicas no SISU 2025. Veja as notas nas federais, diferença entre licenciatura e bacharelado, e as perspectivas do biólogo em.',
+    description: 'Nota de corte para Ciências Biológicas no SISU 2025. Veja as notas nas federais, diferença entre licenciatura e bacharelado, e as perspectivas do biólogo no mercado de trabalho.',
     date: '2026-06-14',
     readTime: 4,
     content: `
@@ -20270,7 +20270,7 @@ O mercado ambiental está em crescimento acelerado:
 - **Considere o bacharelado** se tiver interesse em pesquisa ou meio ambiente. mercado crescendo
 - **Considere o turno noturno** na licenciatura se trabalha. notas menores, mesma qualidade
 
-**[Calcular minha nota ENEM e ver onde estou para Biologia](/calcular-nota)**
+**[Calcular minha nota ENEM e ver onde estou para Biologia](/questoes)**
 
 
 
@@ -20312,7 +20312,7 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 
 ## Continue Estudando?
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -20337,7 +20337,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -20346,8 +20346,8 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'tecnicas-de-estudo-enem',
-    title: 'Técnicas de Estudo para o ENEM: Métodos que Funcionam em',
-    description: 'As melhores técnicas de estudo para o ENEM: repetição espaçada, active recall, Pomodoro, mapas mentais e como aplicá-las para maximizar a retenção antes da.',
+    title: 'Técnicas de Estudo para o ENEM: Métodos que Funcionam em 2026',
+    description: 'As melhores técnicas de estudo para o ENEM: repetição espaçada, active recall, Pomodoro, mapas mentais e como aplicá-las para maximizar a retenção antes da prova.',
     date: '2026-06-14',
     readTime: 7,
     content: `
@@ -20595,7 +20595,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -20681,7 +20681,7 @@ O bacharelado é mais nichado. cresce com a valorização da preservação hist�
 
 Com cotas (L1. escola pública + baixa renda), as notas de corte caem 20–50 pontos nas principais federais. Em campi do interior (UFPE Caruaru, UFRN Caicó, etc.), as notas são significativamente menores.
 
-**[Calcular minha nota ENEM e ver possibilidades para História](/calcular-nota)**
+**[Calcular minha nota ENEM e ver possibilidades para História](/questoes)**
 
 
 
@@ -20779,7 +20779,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -20872,7 +20872,7 @@ Matematicamente, os cursos de Matemática nas federais dão peso maior para:
 
 Candidatos com nota excepcional em Matemática têm vantagem enorme.
 
-**[Calcular minha nota e ver possibilidades para Matemática](/calcular-nota)**
+**[Calcular minha nota e ver possibilidades para Matemática](/questoes)**
 
 
 
@@ -20981,7 +20981,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -21053,7 +21053,7 @@ A maioria das federais dá peso maior para:
 
 Candidatos com boa nota em Matemática têm vantagem significativa.
 
-**[Calcular minha nota ENEM para o curso de Física](/calcular-nota)**
+**[Calcular minha nota ENEM para o curso de Física](/questoes)**
 
 
 
@@ -21120,7 +21120,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -21205,7 +21205,7 @@ O Brasil tem um dos maiores setores petroquímicos do mundo. Químicos bacharéi
 - Bons salários no setor privado comparado com licenciaturas
 - Oportunidades em startups de biotecnologia e materiais avançados
 
-**[Calcular minha nota ENEM para Química](/calcular-nota)**
+**[Calcular minha nota ENEM para Química](/questoes)**
 
 
 
@@ -21314,7 +21314,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -21521,7 +21521,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 ## Continue Estudando?
 
-- [Questão do Dia](/questao-do-dia). 1 questão diária para manter o ritmo
+- [Questão do Dia](/questoes). 1 questão diária para manter o ritmo
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -21547,7 +21547,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -21556,7 +21556,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'como-passar-no-prouni-dicas',
-    title: 'Como Passar no ProUni 2026: Nota Mínima, Documentos e',
+    title: 'Como Passar no ProUni 2026: Nota Mínima, Documentos e Passo a Passo',
     description: 'Guia completo para conseguir bolsa ProUni 2026. Nota mínima, critérios de renda, documentos necessários, como escolher o curso e dicas para aumentar as chances.',
     date: '2026-06-15',
     readTime: 6,
@@ -21654,7 +21654,7 @@ O ProUni abre inscrições em 2 edições anuais:
 
 Acompanhe o site oficial: prouni.mec.gov.br
 
-**[Calcular minha nota ENEM e verificar elegibilidade para bolsas](/calcular-nota)**
+**[Calcular minha nota ENEM e verificar elegibilidade para bolsas](/questoes)**
 
 
 ## Notas de Corte — Variável (SISU/INEP)?
@@ -21672,7 +21672,7 @@ Acompanhe o site oficial: prouni.mec.gov.br
 
 ## Continue Estudando
 
-- [Calcular Nota para o ProUni](/calcular-nota) — Bolsas parciais e integrais
+- [Calcular Nota para o ProUni](/questoes) — Bolsas parciais e integrais
 - [Questões do ENEM por Disciplina](/questoes) — Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado) — Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma) — Monte seu plano personalizado até o ENEM
@@ -21697,7 +21697,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -21809,7 +21809,7 @@ Antes de passar para o gabarito (cartão-resposta da redação):
 - [ ] Não escrevi meu nome ou qualquer identificação?
 - [ ] O texto está legível?
 
-**[Ver todos os temas de Redação do ENEM 2009–2024](/temas-redacao)**
+**[Ver todos os temas de Redação do ENEM 2009–2024](/redacao)**
 
 
 ## As 5 Competências da Redação ENEM (INEP)?
@@ -21917,7 +21917,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -22164,7 +22164,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -22414,7 +22414,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -22565,7 +22565,7 @@ Simulados genéricos têm nível diferente do ENEM real. Pratique sempre com pro
 - Gabaritos oficiais com comentários
 
 **Pago:**
-- ENEM Pro: 3.600+ questões reais do INEP com explicação de IA por tema → [Praticar questões de Matemática no ENEM Pro](/questoes/matematica)
+- ENEM Pro: 2.900+ questões reais do INEP com explicação de IA por tema → [Praticar questões de Matemática no ENEM Pro](/questoes/matematica/2024)
 
 ## A Matemática do ENEM é Difícil?
 
@@ -22573,7 +22573,7 @@ Depende da perspectiva. O nível técnico é de ensino médio — mas a interpre
 
 **Com 90 dias, método certo e questões reais do INEP, 650+ é acessível para qualquer candidato comprometido.**
 
-[Comece com 10 questões de Matemática grátis no ENEM Pro](/questoes/matematica)
+[Comece com 10 questões de Matemática grátis no ENEM Pro](/questoes/matematica/2024)
 
 
 Em nossa plataforma, analisamos quais tópicos geram mais dúvidas e erros entre os estudantes. Questões que combinam interpretação de texto com cálculo ou conceito científico — o estilo favorito do INEP — são as que mais reprovam candidatos bem preparados em conteúdo, mas mal treinados no formato da prova.
@@ -22595,7 +22595,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 
@@ -22731,7 +22731,7 @@ Como Biomedicina exige Ciências da Natureza sólida:
 - Linguagens: 620+
 - Humanas: 620+
 
-[Pratique questões de Ciências da Natureza no ENEM Pro. 10 grátis por dia](/questoes/ciencias-da-natureza)
+[Pratique questões de Ciências da Natureza no ENEM Pro. 10 grátis por dia](/questoes/ciencias-natureza/2024)
 
 
 
@@ -22800,7 +22800,7 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 ## Continue Estudando?
 
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -22829,7 +22829,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -22839,7 +22839,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'nota-de-corte-turismo-enem',
     title: 'Nota de Corte Turismo ENEM 2025: SISU, ProUni e Mercado',
-    description: 'Nota de corte para Turismo no SISU 2025. Veja universidades, notas por modalidade, mercado de trabalho e como se preparar para o ENEM. Saiba mais e prepare-se.',
+    description: 'Nota de corte para Turismo no SISU 2025. Veja universidades, notas por modalidade, mercado de trabalho e como se preparar para o ENEM.',
     date: '2026-06-15',
     readTime: 6,
     content: `
@@ -22929,7 +22929,7 @@ Como Turismo exige nota equilibrada (sem área dominante):
 - Humanas: geografia e história do turismo
 - Não negligencie Matemática e Ciências
 
-[Comece a praticar questões do ENEM gratuitamente. 10 por dia no ENEM Pro](/questoes/ciencias-humanas)
+[Comece a praticar questões do ENEM gratuitamente. 10 por dia no ENEM Pro](/questoes/ciencias-humanas/2024)
 
 
 
@@ -22971,7 +22971,7 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 
 ## Continue Estudando
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -22996,7 +22996,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -23006,7 +23006,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'nota-de-corte-relacoes-internacionais-enem',
     title: 'Nota de Corte Relações Internacionais ENEM 2025',
-    description: 'Nota de corte para Relações Internacionais no SISU 2025. Veja universidades, notas por cota, mercado de trabalho e dicas para o ENEM. Saiba mais e prepare-se.',
+    description: 'Nota de corte para Relações Internacionais no SISU 2025. Veja universidades, notas por cota, mercado de trabalho e dicas para o ENEM.',
     date: '2026-06-15',
     readTime: 7,
     content: `
@@ -23118,7 +23118,7 @@ Para ser competitivo em RI nas federais:
 
 **Média ponderada alvo: 680–720**
 
-[Pratique questões de Ciências Humanas no ENEM Pro. 10 grátis por dia](/questoes/ciencias-humanas)
+[Pratique questões de Ciências Humanas no ENEM Pro. 10 grátis por dia](/questoes/ciencias-humanas/2024)
 
 
 
@@ -23166,7 +23166,7 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 ## Continue Estudando?
 
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -23196,7 +23196,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -23206,7 +23206,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'nota-de-corte-design-enem',
     title: 'Nota de Corte Design ENEM 2025: SISU, ProUni e Mercado',
-    description: 'Nota de corte para Design no SISU 2025. Veja notas por universidade, modalidades de cota, mercado de trabalho e como se preparar. Saiba mais e prepare-se.',
+    description: 'Nota de corte para Design no SISU 2025. Veja notas por universidade, modalidades de cota, mercado de trabalho e como se preparar.',
     date: '2026-06-15',
     readTime: 6,
     content: `
@@ -23308,7 +23308,7 @@ Design exige nota balanceada. Foque em:
 - Para federais top (UFRJ, UFRGS): 630–650
 - ProUni: 480–530
 
-[Pratique questões do ENEM por área no ENEM Pro. 10 grátis por dia](/questoes/linguagens)
+[Pratique questões do ENEM por área no ENEM Pro. 10 grátis por dia](/questoes/linguagens/2024)
 
 
 
@@ -23405,7 +23405,7 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 ## Continue Estudando?
 
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -23434,7 +23434,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -23546,7 +23546,7 @@ Para a maioria das universidades que oferecem Ciências Sociais, o peso maior é
 
 **Média ponderada alvo:** 620–650
 
-[Pratique questões de Ciências Humanas no ENEM Pro. 10 grátis por dia](/questoes/ciencias-humanas)
+[Pratique questões de Ciências Humanas no ENEM Pro. 10 grátis por dia](/questoes/ciencias-humanas/2024)
 
 
 
@@ -23616,7 +23616,7 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 ## Continue Estudando?
 
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -23645,7 +23645,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -23828,7 +23828,7 @@ Este cronograma foi desenhado para quem tem **2 a 4 horas por dia** disponíveis
 2. **Provas comentadas**. entender o raciocínio dos gabaritos
 3. **ENEM Pro**. questões organizadas por tema com explicação de IA em 30s
 
-[Comece com 10 questões por dia grátis no ENEM Pro. sem cartão de crédito](/questoes/matematica)
+[Comece com 10 questões por dia grátis no ENEM Pro. sem cartão de crédito](/questoes/matematica/2024)
 
 
 
@@ -23975,7 +23975,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 ## Continue Estudando?
 
 
-- [Questão do Dia](/questao-do-dia). 1 questão diária para manter o ritmo
+- [Questão do Dia](/questoes). 1 questão diária para manter o ritmo
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -24004,7 +24004,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -24013,7 +24013,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'dicas-ultima-hora-enem',
-    title: 'Dicas de Última Hora Para o ENEM: O Que Fazer na Semana da',
+    title: 'Dicas de Última Hora Para o ENEM: O Que Fazer na Semana da Prova',
     description: 'O que fazer (e o que evitar) na semana do ENEM. Dicas práticas de revisão, alimentação, logística e como chegar no dia da prova no seu melhor. Acesse grátis.',
     date: '2026-06-15',
     readTime: 7,
@@ -24165,7 +24165,7 @@ Estudos sobre performance em testes mostram que:
 
 Você estudou. Agora é hora de entregar.
 
-**[Faça um simulado rápido antes da prova. 10 questões grátis no ENEM Pro](/questoes/matematica)**
+**[Faça um simulado rápido antes da prova. 10 questões grátis no ENEM Pro](/questoes/matematica/2024)**
 
 
 
@@ -24314,7 +24314,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -24323,7 +24323,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'gabarito-matematica-enem-2024',
-    title: 'Gabarito de Matemática ENEM 2024: Questões Comentadas (1ª e',
+    title: 'Gabarito de Matemática ENEM 2024: Questões Comentadas (1ª e 2ª Aplicação)',
     description: 'Gabarito oficial de Matemática do ENEM 2024 com comentários das questões mais cobradas. Confira as respostas da 1ª e 2ª aplicação e entenda como a TRI funciona.',
     date: '2025-01-15',
     readTime: 8,
@@ -24418,7 +24418,7 @@ O ENEM não usa acertos simples. A **Teoria de Resposta ao Item (TRI)** atribui 
 3. Para cada erro, volte ao conteúdo e resolva questões similares
 4. Use o ENEM Pro para praticar questões filtradas por tema e ano
 
-**[Pratique questões de Matemática do ENEM 2024 gratuitamente →](/questoes/matematica)**
+**[Pratique questões de Matemática do ENEM 2024 gratuitamente →](/questoes/matematica/2024)**
 
 
 
@@ -24531,7 +24531,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -24646,7 +24646,7 @@ Organelas celulares, metabolismo (fotossíntese e respiração celular), fisiolo
 3. Revise o conteúdo e resolva questões anteriores sobre esses temas
 4. Volte ao gabarito de 2024 e releia as questões que errou
 
-**[Pratique questões de Ciências da Natureza do ENEM →](/questoes/ciencias-da-natureza)**
+**[Pratique questões de Ciências da Natureza do ENEM →](/questoes/ciencias-natureza/2024)**
 
 
 
@@ -24789,7 +24789,7 @@ Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apen
 ## Continue Estudando?
 
 
-- [Calcular Nota ENEM](/calcular-nota). Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes). Estime sua pontuação pelo TRI
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -24818,7 +24818,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -24929,7 +24929,7 @@ Conceitos de Durkheim (fato social, anomia), Weber (ação social, burocracia), 
 - Em Humanas, a maioria das respostas está **no texto da questão**. treinar interpretação vale mais que decorar conteúdo
 - Monte um mapa mental dos períodos históricos para conectar eventos
 
-**[Pratique questões de Ciências Humanas do ENEM →](/questoes/ciencias-humanas)**
+**[Pratique questões de Ciências Humanas do ENEM →](/questoes/ciencias-humanas/2024)**
 
 
 
@@ -25054,7 +25054,7 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 ## Continue Estudando?
 
 
-- [Calcular Nota ENEM](/calcular-nota). Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes). Estime sua pontuação pelo TRI
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -25083,7 +25083,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -25203,7 +25203,7 @@ São 5 questões de inglês ou espanhol. O nível é básico a intermediário. o
 3. Para erros de literatura: pesquise o autor/movimento citado
 4. Para erros de gramática: veja se o erro foi de regra ou de interpretação
 
-**[Pratique questões de Linguagens do ENEM →](/questoes/linguagens)**
+**[Pratique questões de Linguagens do ENEM →](/questoes/linguagens/2024)**
 
 
 
@@ -25353,7 +25353,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -25505,7 +25505,7 @@ Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apen
 ## Continue Estudando?
 
 
-- [Calcular Nota ENEM](/calcular-nota). Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes). Estime sua pontuação pelo TRI
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -25579,7 +25579,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 
@@ -25603,7 +25603,7 @@ Inclua no cronograma dias especificos de revisao do conteudo estudado 7, 14 e 30
   },
   {
     slug: 'questoes-de-quimica-enem',
-    title: 'Questões de Química no ENEM: Temas Mais Cobrados e Como',
+    title: 'Questões de Química no ENEM: Temas Mais Cobrados e Como Estudar',
     description: 'Descubra os 10 temas de Química que mais caem no ENEM, com dicas de resolução e exercícios comentados de provas anteriores. Prepare-se de forma eficiente.',
     date: '2026-06-15',
     readTime: 9,
@@ -25681,7 +25681,7 @@ Tipos de radiação (alfa, beta, gama), meia-vida, fissão e fusão nuclear. Con
 - 1 mol N2 → 2 mol NH3
 - 2 mol NH3 x 17 g/mol = **34 g de NH3**
 
-**[Pratique centenas de questões de Química do ENEM →](/questoes/ciencias-da-natureza)**
+**[Pratique centenas de questões de Química do ENEM →](/questoes/ciencias-natureza/2024)**
 
 
 
@@ -25841,7 +25841,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -25946,7 +25946,7 @@ DNA recombinante, transgênicos, clonagem, terapia gênica e CRISPR aparecem cad
 | 6 | Botânica + biotecnologia |
 | 7 | Revisão + questões ENEM anteriores |
 
-**[Resolva questões de Biologia do ENEM e veja explicações →](/questoes/ciencias-da-natureza)**
+**[Resolva questões de Biologia do ENEM e veja explicações →](/questoes/ciencias-natureza/2024)**
 
 
 
@@ -26046,7 +26046,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -26055,7 +26055,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'questoes-de-portugues-enem',
-    title: 'Questões de Português no ENEM: Interpretação Textual e',
+    title: 'Questões de Português no ENEM: Interpretação Textual e Gramática',
     description: 'Como o Português cai no ENEM: interpretação de textos, gêneros textuais, gramática contextualizada e figuras de linguagem. Dicas práticas para gabaritar.',
     date: '2026-06-15',
     readTime: 9,
@@ -26144,7 +26144,7 @@ Não é para decorar definições. é para **identificar o efeito** no texto:
 
 **Pratique com cronômetro.** A prova de Linguagens é longa (45 questões + redação no mesmo dia). Gestão de tempo é fundamental.
 
-**[Pratique interpretação textual com questões do ENEM →](/questoes/linguagens)**
+**[Pratique interpretação textual com questões do ENEM →](/questoes/linguagens/2024)**
 
 
 
@@ -26234,7 +26234,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 
@@ -26387,7 +26387,7 @@ Ditadura Militar (1964-1985) → AI-5 → Milagre → Abertura → Diretas Já
 
 Nova República (1985-hoje) → Constituição 1988 → Collor → FHC → Lula → ...
 
-**[Pratique questões de História do ENEM com comentários →](/questoes/ciencias-humanas)**
+**[Pratique questões de História do ENEM com comentários →](/questoes/ciencias-humanas/2024)**
 
 
 ## Tópicos Mais Cobrados (ENEM. INEP)?
@@ -26468,7 +26468,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -26477,7 +26477,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'questoes-de-geografia-enem',
-    title: 'Questões de Geografia no ENEM: Biomas, Geopolítica e',
+    title: 'Questões de Geografia no ENEM: Biomas, Geopolítica e Meio Ambiente',
     description: 'Temas de Geografia mais cobrados no ENEM: biomas brasileiros, urbanização, geopolítica mundial e problemas ambientais. Como interpretar mapas e gráficos.',
     date: '2026-06-15',
     readTime: 9,
@@ -26576,7 +26576,7 @@ O ENEM frequentemente traz:
 3. **Relacione biomas com problemas ambientais**. não estude separado
 4. **Pratique leitura de gráficos e tabelas**. IBGE e IPEA têm dados gratuitos
 
-**[Pratique questões de Geografia do ENEM →](/questoes/ciencias-humanas)**
+**[Pratique questões de Geografia do ENEM →](/questoes/ciencias-humanas/2024)**
 
 
 
@@ -26738,7 +26738,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -26747,7 +26747,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'genetica-enem-o-que-cai',
-    title: 'Genética no ENEM: O que Cai, Exercícios Resolvidos e Como',
+    title: 'Genética no ENEM: O que Cai, Exercícios Resolvidos e Como Estudar',
     description: 'Guia completo de Genética para o ENEM: herança mendeliana, grupos sanguíneos, herança ligada ao sexo, probabilidade e biotecnologia. Com exercícios resolvidos.',
     date: '2026-06-15',
     readTime: 10,
@@ -26878,7 +26878,7 @@ O ENEM aborda genética molecular em contextos de biotecnologia:
 4. Combine genética com probabilidade. resolva dihíbridos
 5. Leia textos de divulgação científica sobre biotecnologia (CRISPR, transgênicos)
 
-**[Resolva questões de Genética do ENEM com gabarito comentado →](/questoes/ciencias-da-natureza)**
+**[Resolva questões de Genética do ENEM com gabarito comentado →](/questoes/ciencias-natureza/2024)**
 
 
 
@@ -26978,7 +26978,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -27126,7 +27126,7 @@ O ENEM adora combustíveis como contexto de Química Orgânica:
 
 **Resposta:** ácido carboxílico e éster.
 
-**[Pratique questões de Química Orgânica do ENEM →](/questoes/ciencias-da-natureza)**
+**[Pratique questões de Química Orgânica do ENEM →](/questoes/ciencias-natureza/2024)**
 
 
 
@@ -27268,7 +27268,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -27476,7 +27476,7 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 ## Continue Estudando
 
 
-- [Calculadora de Nota ENEM](/calcular-nota). TRI + nota por área
+- [Calculadora de Nota ENEM](/questoes). TRI + nota por área
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -27505,7 +27505,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -27514,8 +27514,8 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'redacao-enem-correcao-online',
-    title: 'Correção de Redação ENEM Online com IA: Como Funciona e',
-    description: 'Saiba como funciona a correção de redação ENEM online com IA no ENEM Pro. Feedback nas 5 competências, exemplos de nota alta e baixa, e como melhorar sua.',
+    title: 'Correção de Redação ENEM Online com IA: Como Funciona e Vale a Pena',
+    description: 'Saiba como funciona a correção de redação ENEM online com IA no ENEM Pro. Feedback nas 5 competências, exemplos de nota alta e baixa, e como melhorar sua nota.',
     date: '2026-06-15',
     readTime: 8,
     content: `
@@ -27751,7 +27751,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 
@@ -27764,8 +27764,8 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'enem-2026',
-    title: 'ENEM 2026: Datas, Inscrição, Cronograma e Tudo que Você',
-    description: 'Tudo sobre o ENEM 2026: datas previstas, como se inscrever, isenção de taxa, o que levar na prova, temas prováveis de redação e como se preparar com meses de.',
+    title: 'ENEM 2026: Datas, Inscrição, Cronograma e Tudo que Você Precisa Saber',
+    description: 'Tudo sobre o ENEM 2026: datas previstas, como se inscrever, isenção de taxa, o que levar na prova, temas prováveis de redação e como se preparar com meses de antecedência.',
     date: '2026-06-15',
     readTime: 11,
     content: `
@@ -28053,7 +28053,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -28065,7 +28065,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 const EXTRA_POSTS_11: BlogPost[] = [
   {
     slug: 'gabarito-enem-2019',
-    title: 'Gabarito ENEM 2019 — Respostas Oficiais por Disciplina e',
+    title: 'Gabarito ENEM 2019 — Respostas Oficiais por Disciplina e Cor da Prova',
     description: 'Gabarito oficial do ENEM 2019 com respostas de Matemática, Ciências da Natureza, Ciências Humanas e Linguagens. Baixe o gabarito PDF e calcule sua nota.',
     date: '2025-01-10',
     readTime: 7,
@@ -28165,7 +28165,7 @@ A nota do ENEM é calculada pela **Teoria de Resposta ao Item (TRI)**, não pela
 | 14–21 | 350–499 |
 | 0–13 | 0–349 |
 
-*Use nossa [calculadora de nota ENEM](/calcular-nota) para uma estimativa mais precisa.*
+*Use nossa [calculadora de nota ENEM](/questoes) para uma estimativa mais precisa.*
 
 
 ## Notas de Corte SISU 2020 (baseadas no ENEM 2019)?
@@ -28337,7 +28337,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 
@@ -28609,7 +28609,7 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 ## Continue Estudando?
 
 
-- [Calcular Nota ENEM](/calcular-nota). Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes). Estime sua pontuação pelo TRI
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -28638,7 +28638,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -28813,7 +28813,7 @@ Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apen
 ## Continue Estudando?
 
 
-- [Calcular Nota ENEM](/calcular-nota). Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes). Estime sua pontuação pelo TRI
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -28842,7 +28842,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -29030,7 +29030,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 
@@ -29247,7 +29247,7 @@ As questões do ENEM não testam memorização. testam a capacidade de aplicar c
 Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apenas acerta as questões fáceis. Por isso, praticar com as questões de maior dificuldade do ENEM Pro é a estratégia mais eficiente para quem quer superar 700 pontos.
 ## Continue Estudando
 
-- [Calcular Nota ENEM](/calcular-nota). Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes). Estime sua pontuação pelo TRI
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -29272,7 +29272,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -29282,7 +29282,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   {
     slug: 'gabarito-ciencias-humanas-enem-2023',
     title: 'Gabarito Ciências Humanas ENEM 2023 — Respostas e Análise',
-    description: 'Gabarito de Ciências Humanas do ENEM 2023 com respostas de todas as 45 questões. História, Geografia, Filosofia e Sociologia: o que foi cobrado em novembro de.',
+    description: 'Gabarito de Ciências Humanas do ENEM 2023 com respostas de todas as 45 questões. História, Geografia, Filosofia e Sociologia: o que foi cobrado em novembro de 2023.',
     date: '2025-02-06',
     readTime: 7,
     content: `
@@ -29497,7 +29497,7 @@ O ENEM não usa pontuação bruta. usa a TRI (Teoria de Resposta ao Item). Uma q
 ## Continue Estudando?
 
 
-- [Calcular Nota ENEM](/calcular-nota). Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes). Estime sua pontuação pelo TRI
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -29526,7 +29526,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -29535,8 +29535,8 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'gabarito-linguagens-enem-2023',
-    title: 'Gabarito de Linguagens ENEM 2023 — Respostas e Análise das',
-    description: 'Gabarito oficial de Linguagens do ENEM 2023 com respostas de Língua Portuguesa e Inglês/Espanhol. O que foi cobrado, questões mais difíceis e dicas de.',
+    title: 'Gabarito de Linguagens ENEM 2023 — Respostas e Análise das Questões',
+    description: 'Gabarito oficial de Linguagens do ENEM 2023 com respostas de Língua Portuguesa e Inglês/Espanhol. O que foi cobrado, questões mais difíceis e dicas de correção.',
     date: '2025-02-04',
     readTime: 7,
     content: `
@@ -29715,7 +29715,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -29952,7 +29952,7 @@ Monitorando o progresso dos usuários ativos no ENEM Pro, nosso time identificou
 
 ## Continue Estudando
 
-- [Questão do Dia](/questao-do-dia). 1 questão diária para manter o ritmo
+- [Questão do Dia](/questoes). 1 questão diária para manter o ritmo
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -29977,7 +29977,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -30216,7 +30216,7 @@ Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e sufici
 ## Continue Estudando
 
 
-- [Questão do Dia](/questao-do-dia). 1 questão diária para manter o ritmo
+- [Questão do Dia](/questoes). 1 questão diária para manter o ritmo
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -30328,7 +30328,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -30622,7 +30622,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -30929,7 +30929,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 ---
@@ -31255,7 +31255,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 
@@ -31420,7 +31420,7 @@ Nota final = (CN×1,5 + CH×1 + LC×1 + MT×2 + Redação×1,5) / 7
 
 
 
-**[Calcular minha nota estimada no ENEM →](/calcular-nota)**
+**[Calcular minha nota estimada no ENEM →](/questoes)**
 
 **[Ver notas de corte de todos os cursos →](/blog/nota-de-corte-medicina-federal-por-estado)**
 
@@ -31496,7 +31496,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 
@@ -31619,7 +31619,7 @@ O Brasil tem o **2º maior mercado pet do mundo** (atrás dos EUA). Em 2024, o s
 ## Calcule sua Nota e Compare com o Corte?
 
 
-**[Calcular minha nota estimada no ENEM →](/calcular-nota)**
+**[Calcular minha nota estimada no ENEM →](/questoes)**
 
 **[Ver notas de corte de outros cursos →](/blog)**
 
@@ -31717,7 +31717,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 
@@ -31730,8 +31730,8 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'enem-primeiro-ou-segundo-dia',
-    title: 'ENEM Primeiro ou Segundo Dia — O Que Cai em Cada Dia da',
-    description: 'O que é cobrado no 1º e 2º dia do ENEM? Linguagens, Humanas e Redação no primeiro dia; Ciências da Natureza e Matemática no segundo. Duração, horários e.',
+    title: 'ENEM Primeiro ou Segundo Dia — O Que Cai em Cada Dia da Prova',
+    description: 'O que é cobrado no 1º e 2º dia do ENEM? Linguagens, Humanas e Redação no primeiro dia; Ciências da Natureza e Matemática no segundo. Duração, horários e o que levar.',
     date: '2025-05-01',
     readTime: 8,
     content: `
@@ -32082,7 +32082,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
 
 
 
@@ -32490,7 +32490,7 @@ Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apen
 
 ## Continue Estudando
 
-- [Calcular Nota ENEM](/calcular-nota). Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes). Estime sua pontuação pelo TRI
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -32748,7 +32748,7 @@ Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apen
 ## Continue Estudando?
 
 
-- [Calcular Nota ENEM](/calcular-nota). Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes). Estime sua pontuação pelo TRI
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -33378,7 +33378,7 @@ Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apen
 ## Continue Estudando?
 
 
-- [Calcular Nota ENEM](/calcular-nota). Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes). Estime sua pontuação pelo TRI
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -33413,7 +33413,7 @@ No site do INEP (gov.br/inep) para download das provas completas. No ENEM Pro, v
   {
     slug: 'gabarito-ciencias-humanas-enem-2021',
     title: 'Gabarito Ciências Humanas ENEM 2021 — História, Geografia',
-    description: 'Gabarito oficial de Ciências Humanas do ENEM 2021 com análise por disciplina, temas de maior incidência e estratégia de estudo. Saiba mais e prepare-se.',
+    description: 'Gabarito oficial de Ciências Humanas do ENEM 2021 com análise por disciplina, temas de maior incidência e estratégia de estudo.',
     date: '2026-06-17',
     readTime: 7,
     content: `
@@ -33542,7 +33542,7 @@ Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apen
 ## Continue Estudando?
 
 
-- [Calcular Nota ENEM](/calcular-nota). Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes). Estime sua pontuação pelo TRI
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -33577,7 +33577,7 @@ Foque nos filósofos e sociólogos clássicos que o ENEM sempre cita: Locke, Hob
   {
     slug: 'gabarito-linguagens-enem-2021',
     title: 'Gabarito Linguagens ENEM 2021 — Português',
-    description: 'Gabarito oficial de Linguagens e Códigos do ENEM 2021 com análise dos temas de Língua Portuguesa, Literatura, Inglês/Espanhol e Artes. Saiba mais e prepare-se.',
+    description: 'Gabarito oficial de Linguagens e Códigos do ENEM 2021 com análise dos temas de Língua Portuguesa, Literatura, Inglês/Espanhol e Artes.',
     date: '2026-06-17',
     readTime: 7,
     content: `
@@ -33905,7 +33905,7 @@ Candidatos que cursaram todo o ensino médio em escola pública, ou que comprova
   {
     slug: 'redacao-enem-2024-tema',
     title: 'Tema da Redação ENEM 2024 — Análise Completa e Como Deveria',
-    description: 'Qual foi o tema da redação do ENEM 2024, como o INEP esperava que fosse abordado e o que diferencou as redações nota 1000 das demais. Saiba mais e prepare-se.',
+    description: 'Qual foi o tema da redação do ENEM 2024, como o INEP esperava que fosse abordado e o que diferencou as redações nota 1000 das demais.',
     date: '2026-06-17',
     readTime: 9,
     content: `
@@ -34235,7 +34235,7 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 ## Continue Estudando?
 
 
-- [Calcular Nota para o SISU](/calcular-nota). Veja se sua nota é competitiva
+- [Calcular Nota para o SISU](/questoes). Veja se sua nota é competitiva
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -34728,7 +34728,7 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 ## Continue Estudando?
 
 
-- [Calcular Nota para o ProUni](/calcular-nota). Bolsas parciais e integrais
+- [Calcular Nota para o ProUni](/questoes). Bolsas parciais e integrais
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -35038,7 +35038,7 @@ Aproximadamente 7 a 10 questões por edição, dentro das 45 de Ciências Humana
   },
   {
     slug: 'enem-digital-prova-computador',
-    title: 'ENEM Digital — Prova no Computador, Quem Pode Fazer e',
+    title: 'ENEM Digital — Prova no Computador, Quem Pode Fazer e Como Funciona',
     description: 'O ENEM Digital é a versão em computador do exame. Saiba quem pode participar, como funciona a prova, as diferenças do impresso e como se preparar. Grátis.',
     date: '2026-06-22',
     readTime: 6,
@@ -35267,7 +35267,7 @@ Não. O conteúdo é exatamente o mesmo. mesmas questões, mesma Matriz de Refer
 const EXTRA_POSTS_14: BlogPost[] = [
   {
     slug: 'matematica-financeira-enem',
-    title: 'Matemática Financeira no ENEM — Juros, Porcentagem e o Que',
+    title: 'Matemática Financeira no ENEM — Juros, Porcentagem e o Que Mais Cai',
     description: 'Guia completo de Matemática Financeira para o ENEM: juros simples e compostos, porcentagem, desconto, prestações e as questões mais cobradas de 2015 a 2024.',
     date: '2026-06-18',
     readTime: 9,
@@ -36104,7 +36104,7 @@ Resolver provas antigas é uma das estratégias mais eficientes para o ENEM. o e
 
 Se quiser simular sua nota na escala do TRI com base no gabarito, use a calculadora do ENEM Pro:
 
-**[Calcular minha nota no ENEM →](/calcular-nota)**
+**[Calcular minha nota no ENEM →](/questoes)**
 
 ---
 
@@ -36182,7 +36182,7 @@ Sim. Cada cor de prova (Amarela, Azul, Rosa, Branca) tem uma sequência diferent
   },
   {
     slug: 'nota-enem-medicina-particular',
-    title: 'Nota do ENEM para Medicina Particular — Quanto Precisa para',
+    title: 'Nota do ENEM para Medicina Particular — Quanto Precisa para Cada Faculdade',
     description: 'Qual nota no ENEM é necessária para entrar em medicina em faculdades particulares? ProUni, FIES e vestibular próprio — veja as notas mínimas e como se preparar.',
     date: '2026-06-18',
     readTime: 7,
@@ -36263,7 +36263,7 @@ Para medicina, seja federal ou particular via ProUni, você precisa de nota acim
 2. Matemática. questões com contexto científico
 3. Redação. não pode ser negligenciada
 
-**[Simular minha nota e distância para medicina →](/calcular-nota)**
+**[Simular minha nota e distância para medicina →](/questoes)**
 
 **[Ver notas de corte para medicina federal →](/blog/nota-de-corte-medicina-federal-por-estado)**
 
@@ -36502,7 +36502,7 @@ Exemplo de conclusão bem estruturada:
 3. **Evite primeira pessoa.** "Acredito que", "Em minha opinião" não combinam com dissertação formal.
 4. **Leia e corrija.** Reserve 5 minutos para revisar concordância, acentuação e pontuação.
 
-**[Praticar temas de redação do ENEM →](/temas-redacao)**
+**[Praticar temas de redação do ENEM →](/redacao)**
 **[Como tirar 1000 na redação →](/blog/redacao-enem-como-tirar-1000)**
 
 
@@ -36740,8 +36740,8 @@ São 5 competências, cada uma valendo até 200 pontos, totalizando 1000 pontos.
   },
   {
     slug: 'enem-segunda-aplicacao-2026',
-    title: 'ENEM 2ª Aplicação 2026 — Data, Quem Pode Fazer e Como',
-    description: 'O que é a segunda aplicação do ENEM 2026, quem tem direito, como solicitar, datas e o que fazer se você perdeu a primeira prova. Saiba mais e prepare-se.',
+    title: 'ENEM 2ª Aplicação 2026 — Data, Quem Pode Fazer e Como Solicitar',
+    description: 'O que é a segunda aplicação do ENEM 2026, quem tem direito, como solicitar, datas e o que fazer se você perdeu a primeira prova por justificativa.',
     date: '2026-06-18',
     readTime: 5,
     content: `
@@ -36878,7 +36878,7 @@ Candidatos não fazem as duas aplicações na mesma edição — a 2ª aplicaç�
   },
   {
     slug: 'banco-de-questoes-enem-gratis',
-    title: 'Banco de Questões do ENEM Grátis — Como Praticar Online Sem',
+    title: 'Banco de Questões do ENEM Grátis — Como Praticar Online Sem Pagar Nada',
     description: 'Os melhores bancos de questões do ENEM grátis online: onde encontrar questões de 2009 a 2024 por disciplina, com gabarito e explicações. Acesse grátis.',
     date: '2026-06-18',
     readTime: 5,
@@ -37075,7 +37075,7 @@ Para o ENEM regular (impresso), muitos candidatos preferem simular no papel para
   },
   {
     slug: 'enem-vs-vestibular-diferenca',
-    title: 'ENEM vs Vestibular — Diferenças, Qual Fazer Primeiro e Como',
+    title: 'ENEM vs Vestibular — Diferenças, Qual Fazer Primeiro e Como Conciliar',
     description: 'ENEM ou vestibular tradicional: quais são as diferenças, quando vale mais a pena focar em um ou outro, e como conciliar os dois sem perder rendimento.',
     date: '2026-06-18',
     readTime: 6,
@@ -37150,7 +37150,7 @@ Se precisa de ambos, a estratégia é:
 O ENEM abre acesso a muito mais vagas no total. mas as universidades mais concorridas (ITA, IME, UNICAMP) exigem vestibular próprio.
 
 **[Ver cronograma de estudos para o ENEM →](/blog/cronograma-enem-6-meses)**
-**[Simular minha nota →](/calcular-nota)**
+**[Simular minha nota →](/questoes)**
 
 
 Dúvidas sobre o funcionamento do ENEM são as mais frequentes entre os estudantes que chegam ao ENEM Pro. Por isso, reunimos as informações mais buscadas com base nas perguntas reais dos usuários da plataforma, filtrando apenas o que o INEP divulga oficialmente.
@@ -37432,8 +37432,8 @@ Esta e a competencia que mais diferencia redacoes medianas de redacoes excelente
   },
   {
     slug: 'redacao-enem-introducao-como-fazer',
-    title: 'Introdução da Redação ENEM — Como Fazer e Modelos que',
-    description: 'Como escrever a introdução perfeita da redação do ENEM: modelos prontos, o que evitar, como apresentar a tese e exemplos de abertura que pontuam nas 5.',
+    title: 'Introdução da Redação ENEM — Como Fazer e Modelos que Pontuam',
+    description: 'Como escrever a introdução perfeita da redação do ENEM: modelos prontos, o que evitar, como apresentar a tese e exemplos de abertura que pontuam nas 5 competências.',
     date: '2026-06-18',
     readTime: 7,
     content: `
@@ -38908,7 +38908,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
   },
   {
     slug: 'quanto-vale-redacao-enem',
-    title: 'Quanto Vale a Redação no ENEM — Peso, Nota e Impacto no',
+    title: 'Quanto Vale a Redação no ENEM — Peso, Nota e Impacto no SISU',
     description: 'Qual o peso da redação no ENEM? Como a nota da redação afeta a média, o que é a nota de 1000, e quanto a redação impacta a aprovação no SISU e ProUni.',
     date: '2026-06-18',
     readTime: 5,
@@ -39149,7 +39149,7 @@ Não zera o ENEM — você ainda tem as 4 notas das provas objetivas. Mas zera a
 Tecnicamente sim, se as outras notas compensarem. Mas para cursos concorridos (medicina, direito nas melhores federais), a diferença de 400 pontos na redação representa 80 pontos na média — o que geralmente é a distância entre ser aprovado ou não.
 
 **[Como tirar 1000 na redação →](/blog/redacao-enem-como-tirar-1000)**
-**[Temas de redação para praticar →](/temas-redacao)**
+**[Temas de redação para praticar →](/redacao)**
 
 
 
@@ -39362,7 +39362,7 @@ Use a calculadora do ENEM Pro para:
 - Comparar com as notas de corte dos cursos de interesse
 - Entender quantos pontos a mais você precisa em cada área
 
-**[Calcular minha nota agora →](/calcular-nota)**
+**[Calcular minha nota agora →](/questoes)**
 
 
 Analisando o desempenho dos estudantes que usam o ENEM Pro, identificamos que a prática consistente com questões reais do ENEM é o fator que mais diferencia candidatos com notas acima de 700 dos demais. independente do tempo total de estudo. Qualidade e regularidade superam volume.
@@ -39549,7 +39549,7 @@ Cada curso define seus pesos no edital do SISU. Cursos da área de saúde geralm
 const EXTRA_POSTS_16: BlogPost[] = [
   {
     slug: 'questoes-de-matematica-enem',
-    title: 'Questões de Matemática do ENEM — Banco com Gabarito e',
+    title: 'Questões de Matemática do ENEM — Banco com Gabarito e Resolução',
     description: 'Pratique com questões reais de Matemática do ENEM. Funções, geometria, probabilidade, estatística e muito mais, com gabarito comentado. Acesse grátis.',
     date: '2026-06-19',
     readTime: 6,
@@ -39712,7 +39712,7 @@ Não. Calculadoras não são permitidas no ENEM. Por isso, as questões são ela
 ### Qual é a média de Matemática para passar no SISU?
 Depende do curso e da universidade. Para cursos de Engenharia nas federais mais concorridas, a nota de corte em Matemática costuma ficar acima de 700 pontos. Para cursos de humanas, o impacto de Matemática é menor dependendo do peso aplicado pelo curso.
 
-**[Calcular minha nota estimada →](/calcular-nota)**
+**[Calcular minha nota estimada →](/questoes)**
 
 
 
@@ -39726,7 +39726,7 @@ Depende do curso e da universidade. Para cursos de Engenharia nas federais mais 
   {
     slug: 'questoes-de-fisica-enem',
     title: 'Questões de Física do ENEM — Banco com Gabarito e Resolução',
-    description: 'Pratique com questões reais de Física do ENEM. Mecânica, termodinâmica, eletricidade, ótica e ondas, com gabarito comentado. Saiba mais e prepare-se Questões c.',
+    description: 'Pratique com questões reais de Física do ENEM. Mecânica, termodinâmica, eletricidade, ótica e ondas, com gabarito comentado.',
     date: '2026-06-19',
     readTime: 6,
     content: `
@@ -40177,7 +40177,7 @@ O tema foi "A persistência da violência contra a mulher na sociedade brasileir
   {
     slug: 'gabarito-matematica-enem-2020',
     title: 'Gabarito de Matemática ENEM 2020 — Resolução e Análise',
-    description: 'Gabarito completo de Matemática do ENEM 2020 com análise das questões, temas cobrados e resolução comentada. Saiba mais e prepare-se Gabarito completo, grátis.',
+    description: 'Gabarito completo de Matemática do ENEM 2020 com análise das questões, temas cobrados e resolução comentada.',
     date: '2026-06-19',
     readTime: 6,
     content: `
@@ -40358,7 +40358,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
   {
     slug: 'gabarito-ciencias-natureza-enem-2020',
     title: 'Gabarito de Ciências da Natureza ENEM 2020',
-    description: 'Gabarito de Ciências da Natureza do ENEM 2020 com análise de Física, Química e Biologia. Edição adiada pela pandemia de COVID-19. Saiba mais e prepare-se.',
+    description: 'Gabarito de Ciências da Natureza do ENEM 2020 com análise de Física, Química e Biologia. Edição adiada pela pandemia de COVID-19.',
     date: '2026-06-19',
     readTime: 6,
     content: `
@@ -40504,7 +40504,7 @@ Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apen
 ## Continue Estudando?
 
 
-- [Calcular Nota ENEM](/calcular-nota). Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes). Estime sua pontuação pelo TRI
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -40779,7 +40779,7 @@ Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apen
 ## Continue Estudando?
 
 
-- [Calcular Nota ENEM](/calcular-nota). Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes). Estime sua pontuação pelo TRI
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -40814,7 +40814,7 @@ Ciências Humanas 2020 abordou temas como desigualdade econômica agravada pela 
   {
     slug: 'gabarito-linguagens-enem-2020',
     title: 'Gabarito de Linguagens ENEM 2020 — Português, Literatura',
-    description: 'Gabarito de Linguagens e Códigos do ENEM 2020 com análise de Língua Portuguesa, Literatura, Inglês e temas de comunicação e artes. Saiba mais e prepare-se.',
+    description: 'Gabarito de Linguagens e Códigos do ENEM 2020 com análise de Língua Portuguesa, Literatura, Inglês e temas de comunicação e artes.',
     date: '2026-06-19',
     readTime: 6,
     content: `
@@ -41130,7 +41130,7 @@ Pule a questão. Circule o número no caderno e na folha de respostas (ou anote 
   },
   {
     slug: 'redacao-enem-conclusao-como-fazer',
-    title: 'Conclusão da Redação ENEM — Como Fazer a Proposta de',
+    title: 'Conclusão da Redação ENEM — Como Fazer a Proposta de Intervenção',
     description: 'Como fazer a conclusão perfeita na redação do ENEM com proposta de intervenção completa. Os 5 elementos obrigatórios e exemplos práticos. Acesse grátis.',
     date: '2026-06-19',
     readTime: 8,
@@ -41348,7 +41348,7 @@ Não há regra fixa. o recomendado é entre 5 e 8 linhas. Uma conclusão muito c
   {
     slug: 'enem-caderno-de-questoes-cores',
     title: 'Caderno de Questões do ENEM — Cores, Versões e O Que Muda',
-    description: 'Entenda o sistema de cadernos coloridos do ENEM: amarelo, azul, rosa e cinza. O que muda entre cada cor, por que existem versões diferentes e como usar o.',
+    description: 'Entenda o sistema de cadernos coloridos do ENEM: amarelo, azul, rosa e cinza. O que muda entre cada cor, por que existem versões diferentes e como usar o caderno a seu favor.',
     date: '2026-06-19',
     readTime: 5,
     content: `
@@ -41672,7 +41672,7 @@ Historicamente, a média de Matemática no ENEM fica entre **480 e 560 pontos** 
 3. **Calcule** quantas acertou por bloco temático
 4. **Priorize** os temas com mais erros nas próximas semanas
 
-**[Calcular sua nota estimada de Matemática →](/calcular-nota)**
+**[Calcular sua nota estimada de Matemática →](/questoes)**
 
 
 No ENEM Pro, reunimos as questões de todas as provas anteriores com explicações geradas por IA. Ao analisar os padrões de acerto e erro dos estudantes em nossa plataforma, identificamos que questões de gabaritos anteriores são as mais acessadas para revisão. reforçando que praticar com provas reais é a estratégia mais eficiente.
@@ -42001,7 +42001,7 @@ Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apen
 ## Continue Estudando?
 
 
-- [Calcular Nota ENEM](/calcular-nota). Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes). Estime sua pontuação pelo TRI
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -42166,7 +42166,7 @@ Quem acerta essas questões "difíceis" sobe muito mais na nota do que quem apen
 ## Continue Estudando?
 
 
-- [Calcular Nota ENEM](/calcular-nota). Estime sua pontuação pelo TRI
+- [Calcular Nota ENEM](/questoes). Estime sua pontuação pelo TRI
 - [Questões do ENEM por Disciplina](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
@@ -42516,7 +42516,7 @@ A nota de corte é dinâmica durante as inscrições e muda a cada dia. A nota f
 - Compare sua nota com a nota do último colocado em tempo real
 - Use o simulador do SISU para testar cenários
 
-**[Calcular sua nota e comparar com notas de corte →](/calcular-nota)**
+**[Calcular sua nota e comparar com notas de corte →](/questoes)**
 
 
 ## Universidades no SISU 2026?
@@ -42631,7 +42631,7 @@ Candidatos não selecionados na chamada regular entram automaticamente na lista 
   {
     slug: 'nota-de-corte-sisu-2026',
     title: 'Nota de Corte SISU 2026 — Por Curso e Universidade com ENEM',
-    description: 'Notas de corte do SISU 2026 por curso e universidade federal. Medicina, Engenharia, Direito, Psicologia e mais, com base no ENEM 2025. Saiba mais e prepare-se.',
+    description: 'Notas de corte do SISU 2026 por curso e universidade federal. Medicina, Engenharia, Direito, Psicologia e mais, com base no ENEM 2025.',
     date: '2026-06-20',
     readTime: 8,
     content: `
@@ -42722,7 +42722,7 @@ A nota do SISU é uma **média ponderada** das 5 áreas do ENEM (incluindo Reda�
 3. Some e divida pela soma dos pesos
 4. Compare com a nota de corte histórica
 
-**[Usar calculadora de nota para simular →](/calcular-nota)**
+**[Usar calculadora de nota para simular →](/questoes)**
 
 
 ## Estratégias para o SISU 2026?
@@ -42910,7 +42910,7 @@ Sim. Você escolhe a 1ª opção (curso A na universidade X) e a 2ª opção (cu
   },
   {
     slug: 'resultado-enem-2025',
-    title: 'Resultado do ENEM 2025 — Quando Sai e Como Consultar sua',
+    title: 'Resultado do ENEM 2025 — Quando Sai e Como Consultar sua Nota',
     description: 'Quando sai o resultado do ENEM 2025, como consultar sua nota no site do INEP, o que fazer com a nota e próximos passos para SISU, ProUni e FIES. Acesse grátis.',
     date: '2026-06-20',
     readTime: 5,
@@ -42985,7 +42985,7 @@ O boletim mostra sua nota em cada uma das 5 áreas:
 - O ENEM pode ser feito novamente. cada nova tentativa substitui ou complementa a anterior
 - Use as melhores notas de edições diferentes para o SISU (verificar regras)
 
-**[Calcular minha nota e simular SISU →](/calcular-nota)**
+**[Calcular minha nota e simular SISU →](/questoes)**
 
 
 No ENEM Pro, estudantes com cronograma estruturado. que usam nossa ferramenta de planejamento e praticam questões diariamente. apresentam taxa de consistência 3x maior do que estudantes sem planejamento formal. A prática diária de 10 questões supera sessões longas e esporádicas em termos de retenção e desempenho.
@@ -43100,7 +43100,7 @@ Sim. O INEP abre um período de recurso após a divulgação dos resultados. O c
   },
   {
     slug: 'enem-2025-analise-prova',
-    title: 'Análise do ENEM 2025 — Dificuldade, Temas e Destaques da',
+    title: 'Análise do ENEM 2025 — Dificuldade, Temas e Destaques da Prova',
     description: 'Análise completa do ENEM 2025: nível de dificuldade por área, temas mais cobrados, surpresas da prova e o que esperar para o ENEM 2026. Acesse grátis.',
     date: '2026-06-20',
     readTime: 7,
@@ -43311,7 +43311,7 @@ Os resultados do ENEM 2025 (divulgados em janeiro de 2026) são a base para o SI
   },
   {
     slug: 'prouni-2026-inscricoes',
-    title: 'ProUni 2026 — Datas de Inscrição, Quem Pode e Como se',
+    title: 'ProUni 2026 — Datas de Inscrição, Quem Pode e Como se Inscrever',
     description: 'Guia completo do ProUni 2026: quem tem direito à bolsa, datas de inscrição, como se inscrever e quais faculdades participam do programa. Acesse grátis.',
     date: '2026-06-20',
     readTime: 6,
@@ -43534,7 +43534,7 @@ A bolsa integral cobre apenas a mensalidade (100%). Material didático, transpor
 A nota mínima obrigatória é de 450 pontos em cada uma das 4 provas objetivas e não ter zerado na redação. Mas para cursos mais concorridos como Medicina, a nota de corte real fica bem acima de 700-750 pontos.
 
 **[Ver como funciona o ProUni →](/blog/prouni-como-funciona)**
-**[Calcular minha nota →](/calcular-nota)**
+**[Calcular minha nota →](/questoes)**
 
 
 
@@ -43783,7 +43783,7 @@ Nos 3 primeiros meses: priorize as matérias mais fracas nas áreas que têm mai
     content: `
 A prova de Matemática do ENEM 2022 trouxe 45 questões com foco em aplicação prática dos conteúdos. Funções, geometria e estatística dominaram o caderno. Neste guia, você entende o que foi cobrado e como se preparar com questões reais.
 
-> **TL;DR:** Gabarito e análise das questões de Matemática do ENEM 2022. Pratique com questões reais e explicação por IA. [Pratique no ENEM Pro →](/questoes/matematica)
+> **TL;DR:** Gabarito e análise das questões de Matemática do ENEM 2022. Pratique com questões reais e explicação por IA. [Pratique no ENEM Pro →](/questoes/matematica/2024)
 
 ## O que Caiu em Matemática no ENEM 2022?
 
@@ -43851,7 +43851,7 @@ Praticar questões reais do ENEM é mais eficiente do que resolver listas genér
 
 O ENEM Pro reúne questões reais organizadas por disciplina, tópico e nível de dificuldade. Você resolve, vê o gabarito e recebe explicação gerada por IA em segundos.
 
-[Praticar questões de Matemática →](/questoes/matematica)
+[Praticar questões de Matemática →](/questoes/matematica/2024)
 
 **10 questões por dia grátis, sem cartão de crédito.**
 
@@ -43933,7 +43933,7 @@ A nota necessária em Matemática varia de acordo com a universidade e o curso. 
 
 Essas faixas são estimativas com base nos resultados do SiSU. O peso de Matemática também depende do curso: cursos de exatas costumam aplicar peso maior para Matemática e Ciências da Natureza.
 
-Use a [calculadora de nota do ENEM Pro](/calcular-nota) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
+Use a [calculadora de nota do ENEM Pro](/questoes) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
 
 ## Gabarito Oficial de Matemática ENEM 2022?
 
@@ -43997,7 +43997,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
     `,
   },
   {
@@ -44009,7 +44009,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     content: `
 O ENEM 2021 foi aplicado em janeiro de 2022 por causa da pandemia. A prova de Matemática manteve o padrão de anos anteriores, com 45 questões contextualizadas. Entender o que foi cobrado nessa edição ajuda a identificar padrões recorrentes.
 
-> **TL;DR:** Análise completa das questões de Matemática do ENEM 2021 com os temas mais cobrados e dicas de estudo. [Pratique no ENEM Pro →](/questoes/matematica)
+> **TL;DR:** Análise completa das questões de Matemática do ENEM 2021 com os temas mais cobrados e dicas de estudo. [Pratique no ENEM Pro →](/questoes/matematica/2024)
 
 ## O que Caiu em Matemática no ENEM 2021?
 
@@ -44072,7 +44072,7 @@ Questões de anos anteriores são a melhor fonte de treino porque o INEP mantém
 
 Treinar com questões oficiais do ENEM é a forma mais direta de se preparar. O ENEM Pro organiza as questões por disciplina e tópico, com gabarito e explicação por IA.
 
-[Resolver questões de Matemática do ENEM →](/questoes/matematica)
+[Resolver questões de Matemática do ENEM →](/questoes/matematica/2024)
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM.*
@@ -44152,7 +44152,7 @@ A nota necessária em Matemática varia de acordo com a universidade e o curso. 
 
 Essas faixas são estimativas com base nos resultados do SiSU. O peso de Matemática também depende do curso: cursos de exatas costumam aplicar peso maior para Matemática e Ciências da Natureza.
 
-Use a [calculadora de nota do ENEM Pro](/calcular-nota) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
+Use a [calculadora de nota do ENEM Pro](/questoes) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
 
 ## Gabarito Oficial de Matemática ENEM 2021?
 
@@ -44216,7 +44216,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
     `,
   },
   {
@@ -44228,7 +44228,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     content: `
 A prova de Matemática do ENEM 2020 (aplicada em janeiro de 2021) é considerada uma das mais equilibradas dos últimos anos, com boa distribuição entre funções, geometria e estatística. Analisar essa edição revela padrões que se repetem nas provas mais recentes.
 
-> **TL;DR:** Gabarito e análise das questões de Matemática do ENEM 2020. Veja os temas mais cobrados e treine com questões reais. [Pratique no ENEM Pro →](/questoes/matematica)
+> **TL;DR:** Gabarito e análise das questões de Matemática do ENEM 2020. Veja os temas mais cobrados e treine com questões reais. [Pratique no ENEM Pro →](/questoes/matematica/2024)
 
 ## O que Caiu em Matemática no ENEM 2020?
 
@@ -44291,7 +44291,7 @@ Quem vai bem em Matemática no ENEM não necessariamente sabe mais conteúdo. Sa
 
 O banco de questões do ENEM Pro inclui as questões de 2020 organizadas por tópico. Você resolve no ritmo que quiser, vê o gabarito imediato e recebe explicação detalhada por IA.
 
-[Praticar questões de Matemática →](/questoes/matematica)
+[Praticar questões de Matemática →](/questoes/matematica/2024)
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM.*
@@ -44371,7 +44371,7 @@ A nota necessária em Matemática varia de acordo com a universidade e o curso. 
 
 Essas faixas são estimativas com base nos resultados do SiSU. O peso de Matemática também depende do curso: cursos de exatas costumam aplicar peso maior para Matemática e Ciências da Natureza.
 
-Use a [calculadora de nota do ENEM Pro](/calcular-nota) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
+Use a [calculadora de nota do ENEM Pro](/questoes) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
 
 ## Gabarito Oficial de Matemática ENEM 2020?
 
@@ -44435,7 +44435,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
     `,
   },
   {
@@ -44447,7 +44447,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     content: `
 A prova de Ciências da Natureza do ENEM 2022 reuniu 45 questões distribuídas entre Física, Química e Biologia. O INEP manteve o padrão de contextualização ambiental e tecnológica, com destaque para ecologia, eletromagnetismo e reações orgânicas.
 
-> **TL;DR:** Gabarito e análise das questões de Ciências da Natureza do ENEM 2022, com os temas mais cobrados em Física, Química e Biologia. [Pratique no ENEM Pro →](/questoes/ciencias-natureza)
+> **TL;DR:** Gabarito e análise das questões de Ciências da Natureza do ENEM 2022, com os temas mais cobrados em Física, Química e Biologia. [Pratique no ENEM Pro →](/questoes/ciencias-natureza/2024)
 
 ## O que Caiu em Ciências da Natureza no ENEM 2022?
 
@@ -44505,7 +44505,7 @@ Conservação de energia, trabalho e potência foram cobrados em situações de 
 
 O ENEM Pro organiza as questões de Ciências da Natureza por disciplina e subtópico. Você pratica no ritmo certo, vê o gabarito e recebe explicação por IA que conecta o conceito ao contexto da questão.
 
-[Resolver questões de Ciências da Natureza →](/questoes/ciencias-natureza)
+[Resolver questões de Ciências da Natureza →](/questoes/ciencias-natureza/2024)
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM.*
@@ -44585,7 +44585,7 @@ A nota necessária em Ciências da Natureza varia de acordo com a universidade e
 
 Essas faixas são estimativas com base nos resultados do SiSU. O peso de Ciências da Natureza também depende do curso: cursos de exatas costumam aplicar peso maior para Matemática e Ciências da Natureza.
 
-Use a [calculadora de nota do ENEM Pro](/calcular-nota) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
+Use a [calculadora de nota do ENEM Pro](/questoes) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
 
 ## Gabarito Oficial de Ciências da Natureza ENEM 2022?
 
@@ -44648,7 +44648,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
     `,
   },
   {
@@ -44660,7 +44660,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     content: `
 O ENEM 2021 foi marcado pelo contexto da pandemia, e isso se refletiu diretamente na prova de Ciências da Natureza. Questões sobre vírus, imunidade, epidemiologia e saúde pública apareceram em Biologia, enquanto Química e Física mantiveram seus padrões habituais.
 
-> **TL;DR:** Análise completa das questões de Ciências da Natureza do ENEM 2021, com temas de Física, Química e Biologia. [Pratique no ENEM Pro →](/questoes/ciencias-natureza)
+> **TL;DR:** Análise completa das questões de Ciências da Natureza do ENEM 2021, com temas de Física, Química e Biologia. [Pratique no ENEM Pro →](/questoes/ciencias-natureza/2024)
 
 ## O que Caiu em Ciências da Natureza no ENEM 2021?
 
@@ -44716,7 +44716,7 @@ Leis de Newton, conservação de energia e trabalho continuaram sendo cobrados. 
 
 Estudar as questões do ENEM 2021 é preparar-se para os padrões que o INEP repete. O ENEM Pro oferece as questões organizadas por disciplina e tópico, com gabarito e explicação por IA.
 
-[Resolver questões de Ciências da Natureza →](/questoes/ciencias-natureza)
+[Resolver questões de Ciências da Natureza →](/questoes/ciencias-natureza/2024)
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM.*
@@ -44796,7 +44796,7 @@ A nota necessária em Ciências da Natureza varia de acordo com a universidade e
 
 Essas faixas são estimativas com base nos resultados do SiSU. O peso de Ciências da Natureza também depende do curso: cursos de exatas costumam aplicar peso maior para Matemática e Ciências da Natureza.
 
-Use a [calculadora de nota do ENEM Pro](/calcular-nota) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
+Use a [calculadora de nota do ENEM Pro](/questoes) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
 
 ## Gabarito Oficial de Ciências da Natureza ENEM 2021?
 
@@ -44859,7 +44859,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
     `,
   },
   {
@@ -44871,7 +44871,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     content: `
 A prova de Ciências da Natureza do ENEM 2020 apresentou 45 questões com forte enfoque em aplicações tecnológicas e ambientais. Biologia, Química e Física foram exploradas com situações reais, exigindo muito mais compreensão de conceitos do que memorização de fórmulas.
 
-> **TL;DR:** Gabarito e análise de Ciências da Natureza do ENEM 2020. Temas de Biologia, Química e Física explicados com dicas de estudo. [Pratique no ENEM Pro →](/questoes/ciencias-natureza)
+> **TL;DR:** Gabarito e análise de Ciências da Natureza do ENEM 2020. Temas de Biologia, Química e Física explicados com dicas de estudo. [Pratique no ENEM Pro →](/questoes/ciencias-natureza/2024)
 
 ## O que Caiu em Ciências da Natureza no ENEM 2020?
 
@@ -44933,7 +44933,7 @@ Ciências da Natureza exige um equilíbrio entre as três disciplinas. Candidato
 - Pratique questões integradas (que combinam física, química ou biologia com contexto real)
 - Resolva simulados cronometrados para treinar o ritmo das 45 questões
 
-[Resolver questões de Ciências da Natureza →](/questoes/ciencias-natureza)
+[Resolver questões de Ciências da Natureza →](/questoes/ciencias-natureza/2024)
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM.*
@@ -45013,7 +45013,7 @@ A nota necessária em Ciências da Natureza varia de acordo com a universidade e
 
 Essas faixas são estimativas com base nos resultados do SiSU. O peso de Ciências da Natureza também depende do curso: cursos de exatas costumam aplicar peso maior para Matemática e Ciências da Natureza.
 
-Use a [calculadora de nota do ENEM Pro](/calcular-nota) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
+Use a [calculadora de nota do ENEM Pro](/questoes) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
 
 ## Gabarito Oficial de Ciências da Natureza ENEM 2020?
 
@@ -45076,7 +45076,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
     `,
   },
   {
@@ -45088,7 +45088,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     content: `
 A prova de Ciências Humanas do ENEM 2022 cobrou 45 questões distribuídas entre História, Geografia, Filosofia e Sociologia. O padrão do INEP de contextualizar com atualidades e exigir interpretação crítica foi ainda mais evidente nessa edição.
 
-> **TL;DR:** Análise das questões de Ciências Humanas do ENEM 2022, com os temas mais cobrados em História, Geografia, Filosofia e Sociologia. [Pratique no ENEM Pro →](/questoes/ciencias-humanas)
+> **TL;DR:** Análise das questões de Ciências Humanas do ENEM 2022, com os temas mais cobrados em História, Geografia, Filosofia e Sociologia. [Pratique no ENEM Pro →](/questoes/ciencias-humanas/2024)
 
 ## O que Caiu em Ciências Humanas no ENEM 2022?
 
@@ -45151,7 +45151,7 @@ Ciências Humanas é a área onde a leitura atenta faz mais diferença. Quem int
 - Elimine alternativas que contradizem o texto-base
 - Nas questões de mapa, leia a legenda antes de olhar o mapa
 
-[Resolver questões de Ciências Humanas →](/questoes/ciencias-humanas)
+[Resolver questões de Ciências Humanas →](/questoes/ciencias-humanas/2024)
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM.*
@@ -45231,7 +45231,7 @@ A nota necessária em Ciências Humanas varia de acordo com a universidade e o c
 
 Essas faixas são estimativas com base nos resultados do SiSU. O peso de Ciências Humanas também depende do curso: cursos de exatas costumam aplicar peso maior para Matemática e Ciências da Natureza.
 
-Use a [calculadora de nota do ENEM Pro](/calcular-nota) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
+Use a [calculadora de nota do ENEM Pro](/questoes) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
 
 ## Gabarito Oficial de Ciências Humanas ENEM 2022?
 
@@ -45294,7 +45294,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
     `,
   },
   {
@@ -45306,7 +45306,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     content: `
 A prova de Ciências Humanas do ENEM 2021 trouxe questões com forte contexto contemporâneo, refletindo as tensões sociais e políticas do período. O padrão do INEP de exigir interpretação crítica de fontes foi mais evidente do que nunca.
 
-> **TL;DR:** Análise das questões de Ciências Humanas do ENEM 2021. Temas de História, Geografia, Filosofia e Sociologia com dicas de estudo. [Pratique no ENEM Pro →](/questoes/ciencias-humanas)
+> **TL;DR:** Análise das questões de Ciências Humanas do ENEM 2021. Temas de História, Geografia, Filosofia e Sociologia com dicas de estudo. [Pratique no ENEM Pro →](/questoes/ciencias-humanas/2024)
 
 ## O que Caiu em Ciências Humanas no ENEM 2021?
 
@@ -45369,7 +45369,7 @@ O erro mais comum em Ciências Humanas é tentar memorizar tudo. O ENEM não tes
 - Para mapas: sempre leia a legenda, o título e a fonte antes de responder
 - Para filosofia: identifique o autor e o período histórico antes de interpretar o fragmento
 
-[Resolver questões de Ciências Humanas →](/questoes/ciencias-humanas)
+[Resolver questões de Ciências Humanas →](/questoes/ciencias-humanas/2024)
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM.*
@@ -45449,7 +45449,7 @@ A nota necessária em Ciências Humanas varia de acordo com a universidade e o c
 
 Essas faixas são estimativas com base nos resultados do SiSU. O peso de Ciências Humanas também depende do curso: cursos de exatas costumam aplicar peso maior para Matemática e Ciências da Natureza.
 
-Use a [calculadora de nota do ENEM Pro](/calcular-nota) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
+Use a [calculadora de nota do ENEM Pro](/questoes) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
 
 ## Gabarito Oficial de Ciências Humanas ENEM 2021?
 
@@ -45512,7 +45512,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
     `,
   },
   {
@@ -45524,7 +45524,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     content: `
 A prova de Ciências Humanas do ENEM 2020 é considerada uma das mais exigentes em termos de interpretação textual dos últimos anos. O INEP usou fontes diversas, incluindo textos filosóficos, mapas temáticos, gráficos e imagens históricas, em 45 questões distribuídas entre as quatro disciplinas da área.
 
-> **TL;DR:** Gabarito e análise das questões de Ciências Humanas do ENEM 2020. Temas de História, Geografia, Filosofia e Sociologia explicados. [Pratique no ENEM Pro →](/questoes/ciencias-humanas)
+> **TL;DR:** Gabarito e análise das questões de Ciências Humanas do ENEM 2020. Temas de História, Geografia, Filosofia e Sociologia explicados. [Pratique no ENEM Pro →](/questoes/ciencias-humanas/2024)
 
 ## O que Caiu em Ciências Humanas no ENEM 2020?
 
@@ -45587,7 +45587,7 @@ A melhor preparação para Ciências Humanas combina leitura de fontes diversas 
 - Fragmentos de textos filosóficos clássicos (boas antologias comentadas)
 - Questões reais do ENEM por disciplina e tema
 
-[Resolver questões de Ciências Humanas →](/questoes/ciencias-humanas)
+[Resolver questões de Ciências Humanas →](/questoes/ciencias-humanas/2024)
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM.*
@@ -45667,7 +45667,7 @@ A nota necessária em Ciências Humanas varia de acordo com a universidade e o c
 
 Essas faixas são estimativas com base nos resultados do SiSU. O peso de Ciências Humanas também depende do curso: cursos de exatas costumam aplicar peso maior para Matemática e Ciências da Natureza.
 
-Use a [calculadora de nota do ENEM Pro](/calcular-nota) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
+Use a [calculadora de nota do ENEM Pro](/questoes) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
 
 ## Gabarito Oficial de Ciências Humanas ENEM 2020?
 
@@ -45730,7 +45730,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
     `,
   },
   {
@@ -45742,7 +45742,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     content: `
 A prova de Linguagens do ENEM 2022 cobrou 45 questões com foco em interpretação de textos multimodais, literatura brasileira e gramática contextualizada. O inglês/espanhol aparece integrado nas últimas questões, mas o peso maior é de Língua Portuguesa e Literatura.
 
-> **TL;DR:** Análise das questões de Linguagens do ENEM 2022 com os temas mais cobrados em Português, Literatura, Artes e Língua Estrangeira. [Pratique no ENEM Pro →](/questoes/linguagens)
+> **TL;DR:** Análise das questões de Linguagens do ENEM 2022 com os temas mais cobrados em Português, Literatura, Artes e Língua Estrangeira. [Pratique no ENEM Pro →](/questoes/linguagens/2024)
 
 ## O que Caiu em Linguagens no ENEM 2022?
 
@@ -45805,7 +45805,7 @@ Linguagens é a área em que uma boa leitura resolve a maioria das questões. A 
 - Para gramática: pratique questões que pedem análise de efeito de sentido
 - Para inglês/espanhol: treino de vocabulário e inferência de significado pelo contexto
 
-[Resolver questões de Linguagens do ENEM →](/questoes/linguagens)
+[Resolver questões de Linguagens do ENEM →](/questoes/linguagens/2024)
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM.*
@@ -45885,7 +45885,7 @@ A nota necessária em Linguagens varia de acordo com a universidade e o curso. N
 
 Essas faixas são estimativas com base nos resultados do SiSU. O peso de Linguagens também depende do curso: cursos de exatas costumam aplicar peso maior para Matemática e Ciências da Natureza.
 
-Use a [calculadora de nota do ENEM Pro](/calcular-nota) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
+Use a [calculadora de nota do ENEM Pro](/questoes) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
 
 ## Gabarito Oficial de Linguagens ENEM 2022?
 
@@ -45949,7 +45949,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
     `,
   },
   {
@@ -45961,7 +45961,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     content: `
 A prova de Linguagens do ENEM 2021 teve como marca a diversidade de textos e a exigência de leitura em múltiplas linguagens. Questões com charges, memes, letras de música e textos jornalísticos foram usadas para avaliar compreensão textual e literária.
 
-> **TL;DR:** Análise das questões de Linguagens do ENEM 2021. Português, Literatura, Artes e Inglês com dicas de estudo e prática grátis. [Pratique no ENEM Pro →](/questoes/linguagens)
+> **TL;DR:** Análise das questões de Linguagens do ENEM 2021. Português, Literatura, Artes e Inglês com dicas de estudo e prática grátis. [Pratique no ENEM Pro →](/questoes/linguagens/2024)
 
 ## O que Caiu em Linguagens no ENEM 2021?
 
@@ -46023,7 +46023,7 @@ Candidatos que leem bastante têm vantagem natural em Linguagens. Mas praticar q
 - Fragmentos literários com análise de movimento e recursos estilísticos
 - Questões de língua estrangeira com foco em vocabulário e inferência
 
-[Resolver questões de Linguagens do ENEM →](/questoes/linguagens)
+[Resolver questões de Linguagens do ENEM →](/questoes/linguagens/2024)
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM.*
@@ -46103,7 +46103,7 @@ A nota necessária em Linguagens varia de acordo com a universidade e o curso. N
 
 Essas faixas são estimativas com base nos resultados do SiSU. O peso de Linguagens também depende do curso: cursos de exatas costumam aplicar peso maior para Matemática e Ciências da Natureza.
 
-Use a [calculadora de nota do ENEM Pro](/calcular-nota) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
+Use a [calculadora de nota do ENEM Pro](/questoes) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
 
 ## Gabarito Oficial de Linguagens ENEM 2021?
 
@@ -46167,7 +46167,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
     `,
   },
   {
@@ -46179,7 +46179,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     content: `
 A prova de Linguagens do ENEM 2020 é considerada uma das mais diversificadas em termos de tipos textuais dos últimos anos. O INEP incluiu textos de gêneros muito diferentes, desde poesia clássica até publicidade contemporânea, em 45 questões que exigiram leitura atenta e análise crítica.
 
-> **TL;DR:** Gabarito e análise completa das questões de Linguagens do ENEM 2020. Português, Literatura, Artes e Língua Estrangeira com dicas práticas. [Pratique no ENEM Pro →](/questoes/linguagens)
+> **TL;DR:** Gabarito e análise completa das questões de Linguagens do ENEM 2020. Português, Literatura, Artes e Língua Estrangeira com dicas práticas. [Pratique no ENEM Pro →](/questoes/linguagens/2024)
 
 ## O que Caiu em Linguagens no ENEM 2020?
 
@@ -46242,7 +46242,7 @@ A grande vantagem de Linguagens é que o texto-base sempre dá as pistas para a 
 - Para literatura: identifique o período e o estilo antes de analisar o fragmento
 - Para publicidade e artes: descreva o que você vê antes de interpretar
 
-[Resolver questões de Linguagens do ENEM →](/questoes/linguagens)
+[Resolver questões de Linguagens do ENEM →](/questoes/linguagens/2024)
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM.*
@@ -46322,7 +46322,7 @@ A nota necessária em Linguagens varia de acordo com a universidade e o curso. N
 
 Essas faixas são estimativas com base nos resultados do SiSU. O peso de Linguagens também depende do curso: cursos de exatas costumam aplicar peso maior para Matemática e Ciências da Natureza.
 
-Use a [calculadora de nota do ENEM Pro](/calcular-nota) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
+Use a [calculadora de nota do ENEM Pro](/questoes) para simular diferentes cenários e descobrir qual pontuação você precisa atingir em cada área para alcançar sua meta.
 
 ## Gabarito Oficial de Linguagens ENEM 2020?
 
@@ -46386,7 +46386,7 @@ A inscrição é feita exclusivamente no site do INEP durante o período de insc
 O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
-O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/calcular-nota) do ENEM Pro para estimar sua pontuação.
+O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
     `,
   },
   {
@@ -46398,7 +46398,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     content: `
 Medicina é o curso mais concorrido do Brasil no SiSU. A nota de corte varia por instituição, turno e modalidade de concorrência, mas a referência histórica mostra que candidatos competitivos precisam de **750 a 830 pontos** em todas as áreas.
 
-> **TL;DR:** A nota de corte para medicina via ENEM depende da universidade e do SiSU. A média geral das federais fica entre 750 e 800 pontos. [Simule sua nota →](/calcular-nota)
+> **TL;DR:** A nota de corte para medicina via ENEM depende da universidade e do SiSU. A média geral das federais fica entre 750 e 800 pontos. [Simule sua nota →](/questoes)
 
 
 ![Guia completo: medicina enem nota de corte para o ENEM](/images/blog/medicina-enem-nota-de-corte-hero.svg)
@@ -46471,7 +46471,7 @@ Nossa experiência com preparação mostra que a maioria dos candidatos subestim
 ### Redação (meta: 900+)
 - Estrutura: introdução (tese) → 2 desenvolvimentos com argumentos → conclusão com proposta
 - Pratique pelo menos 20 redações antes da prova
-- Leia o [tema da redação](/temas-redacao) dos últimos anos
+- Leia o [tema da redação](/redacao) dos últimos anos
 
 ## Cronograma para Nota de Medicina
 
@@ -46493,7 +46493,7 @@ Se você se enquadra em alguma modalidade de cota, verifique sua elegibilidade n
 
 O ENEM Pro organiza as questões por área e dificuldade. Para quem mira medicina, foque nas questões de Ciências da Natureza com gabarito e explicação por IA.
 
-[Praticar questões de Ciências da Natureza →](/questoes/ciencias-natureza)
+[Praticar questões de Ciências da Natureza →](/questoes/ciencias-natureza/2024)
 
 
 ## Como Aumentar sua Nota para Medicina
@@ -46532,10 +46532,10 @@ Em Física, óptica geométrica e eletricidade aparecem com mais frequência. Me
 
 ## Continue Estudando
 
-- [Calcular Nota ENEM](/calcular-nota) — Simule sua média ponderada por universidade
-- [Questões de Ciências da Natureza](/questoes/ciencias-natureza) — Pratique Física, Química e Biologia
-- [Temas de Redação ENEM](/temas-redacao) — Os temas mais prováveis para 2026
-- [Nota de Corte Direito ENEM](/blog/direito-nota-de-corte-enem) — Compare com outras áreas
+- [Calcular Nota ENEM](/questoes) — Simule sua média ponderada por universidade
+- [Questões de Ciências da Natureza](/questoes/ciencias-natureza/2024) — Pratique Física, Química e Biologia
+- [Temas de Redação ENEM](/redacao) — Os temas mais prováveis para 2026
+- [Nota de Corte Direito ENEM](/blog/nota-de-corte-direito-enem) — Compare com outras áreas
 
 ## Perguntas Frequentes
 
@@ -46684,7 +46684,7 @@ Os temas do ENEM são selecionados com base em pautas nacionais e debates contem
 - Saúde mental entre jovens brasileiros
 - Transição energética e sustentabilidade
 
-Veja todos os [temas de redação do ENEM](/temas-redacao) por ano para identificar os padrões.
+Veja todos os [temas de redação do ENEM](/redacao) por ano para identificar os padrões.
 
 
 ## Como Treinar para a Redação Nota 1000
@@ -46729,7 +46729,7 @@ Em nossa plataforma, observamos que candidatos que escrevem pelo menos 20 redaç
 
 - [Redação ENEM: Introdução](/blog/redacao-enem-introducao-como-fazer) — Como começar com tese forte
 - [Redação ENEM: Conclusão](/blog/redacao-enem-conclusao-como-fazer) — Como fechar com proposta de intervenção
-- [Temas de Redação ENEM](/temas-redacao) — Os temas mais cobrados por ano
+- [Temas de Redação ENEM](/redacao) — Os temas mais cobrados por ano
 - [Texto Dissertativo-Argumentativo](/blog/texto-dissertativo-argumentativo-enem) — Estrutura completa
 
 ## Perguntas Frequentes
@@ -46914,7 +46914,7 @@ Em nossa plataforma, identificamos que candidatos que fazem essa revisão final 
 - [Redação ENEM Nota 1000](/blog/redacao-enem-nota-1000) — O que diferencia as melhores redações
 - [Como Fazer a Introdução](/blog/redacao-enem-introducao-como-fazer) — Passo a passo
 - [Como Fazer a Conclusão](/blog/redacao-enem-conclusao-como-fazer) — A proposta de intervenção
-- [Temas de Redação ENEM](/temas-redacao) — Os temas mais prováveis para 2026
+- [Temas de Redação ENEM](/redacao) — Os temas mais prováveis para 2026
 
 ## Perguntas Frequentes
 
@@ -46941,7 +46941,7 @@ Sim. O INEP espera que cada parágrafo comece com recuo (entrada de linha). É u
     content: `
 Engenharia é um dos cursos mais buscados no SiSU. A nota de corte varia bastante por modalidade: Engenharia de Computação e Elétrica costumam ter corte mais alto que Civil e Ambiental.
 
-> **TL;DR:** A nota de corte para engenharia via ENEM fica entre 620 e 750 pontos, dependendo da universidade e modalidade. [Simule sua nota →](/calcular-nota)
+> **TL;DR:** A nota de corte para engenharia via ENEM fica entre 620 e 750 pontos, dependendo da universidade e modalidade. [Simule sua nota →](/questoes)
 
 
 ![Guia completo: engenharia enem nota de corte para o ENEM](/images/blog/engenharia-nota-de-corte-enem-hero.svg)
@@ -46992,7 +46992,7 @@ Nossa experiência com preparação mostra que candidatos que praticam 30 quest�
 - Progressões e matrizes
 - Probabilidade e estatística
 
-[Praticar questões de Matemática →](/questoes/matematica)
+[Praticar questões de Matemática →](/questoes/matematica/2024)
 
 ## Notas por Universidade Federal
 
@@ -47070,10 +47070,10 @@ Os critérios de cota seguem a [Lei de Cotas](https://www.gov.br/mec/pt-br) do M
 
 ## Continue Estudando
 
-- [Calcular Nota ENEM](/calcular-nota) — Simule sua média por universidade
-- [Questões de Matemática ENEM](/questoes/matematica) — Pratique o tema mais pesado
+- [Calcular Nota ENEM](/questoes) — Simule sua média por universidade
+- [Questões de Matemática ENEM](/questoes/matematica/2024) — Pratique o tema mais pesado
 - [Nota de Corte Medicina ENEM](/blog/medicina-enem-nota-de-corte) — Compare com medicina
-- [Nota de Corte Direito ENEM](/blog/direito-nota-de-corte-enem) — Compare com direito
+- [Nota de Corte Direito ENEM](/blog/nota-de-corte-direito-enem) — Compare com direito
 
 ## Perguntas Frequentes
 
@@ -47097,7 +47097,7 @@ Ambas têm altas notas de corte, mas são cursos diferentes. Computação é mai
     content: `
 A nota máxima no ENEM é 1000 pontos por área objetiva e 1000 na redação. Nenhum candidato jamais tirou 1000 em todas as cinco provas simultaneamente — mas atingir 950+ em todas as áreas é alcançável com planejamento.
 
-> **TL;DR:** Nota máxima no ENEM exige acertar 90%+ das questões e redação nota 960+. A estratégia começa com identificar sua área mais fraca. [Calcule sua nota →](/calcular-nota)
+> **TL;DR:** Nota máxima no ENEM exige acertar 90%+ das questões e redação nota 960+. A estratégia começa com identificar sua área mais fraca. [Calcule sua nota →](/questoes)
 
 
 ![Guia completo: enem nota maxima para o ENEM](/images/blog/enem-nota-maxima-hero.svg)
@@ -47121,7 +47121,7 @@ Na prática, a pontuação mais alta registrada nas provas objetivas do ENEM foi
 | 35/45 questões | 78% | 730–770 |
 | 30/45 questões | 67% | 620–660 |
 
-*Estimativas baseadas em análise histórica das calibrações TRI do ENEM. Use a [calculadora de nota](/calcular-nota) para simular diferentes cenários.*
+*Estimativas baseadas em análise histórica das calibrações TRI do ENEM. Use a [calculadora de nota](/questoes) para simular diferentes cenários.*
 
 ## Quantas Pessoas Tiram Nota Máxima no ENEM?
 
@@ -47256,7 +47256,7 @@ Em nossa análise de candidatos que atingiram nota acima de 900, identificamos q
 
 ## Continue Estudando
 
-- [Calcular Nota ENEM](/calcular-nota) — Simule diferentes cenários de acerto
+- [Calcular Nota ENEM](/questoes) — Simule diferentes cenários de acerto
 - [Simulado ENEM Completo](/simulado) — Treine com cronômetro real
 - [Questões por Disciplina](/questoes) — Pratique área por área
 - [Cronograma de Estudos](/cronograma) — Monte seu plano personalizado
@@ -47273,7 +47273,7 @@ Sim. Vários candidatos com nota máxima estudaram de forma autônoma. O que dif
 Candidatos que atingem 900+ em média estudam entre 4 e 6 horas por dia por pelo menos 6 meses. Qualidade importa mais que quantidade: 4 horas focadas superam 8 horas desatentas.
 
 ### O que é o TRI do ENEM?
-A Teoria de Resposta ao Item (TRI) é o método de cálculo de nota do ENEM. Ela pondera as questões pela dificuldade e consistência de resposta, não apenas pelo número de acertos. Use a [calculadora de nota](/calcular-nota) para simular.
+A Teoria de Resposta ao Item (TRI) é o método de cálculo de nota do ENEM. Ela pondera as questões pela dificuldade e consistência de resposta, não apenas pelo número de acertos. Use a [calculadora de nota](/questoes) para simular.
     `,
   },
 
@@ -47354,8 +47354,8 @@ Para candidatos que trabalham ou moram longe de grandes centros, o cursinho onli
 
 | Plataforma | Versão Gratuita | Versão Paga |
 |---|---|---|
-| ENEM Pro | 10 questões/dia | R$14,90/mês |
-| Descomplica | Parcial | R$49–89/mês |
+| ENEM Pro | 10 questões/dia | R$29,90/mês |
+| Descomplica | Parcial | R$39,90–119,90/mês |
 | Me Salva! | Parcial | R$39–79/mês |
 | Stoodi | Parcial | R$49–99/mês |
 | Khan Academy | Gratuito total | — |
@@ -47472,10 +47472,10 @@ Nossa experiência mostra que candidatos que resolvem ao menos 500 questões de 
 
 | Plataforma | Preço/mês | Questões reais | Simulados | Redação | IA/Feedback |
 |---|---|---|---|---|---|
-| ENEM Pro | R$14,90 | ✅ (15 anos) | ✅ | ✅ | ✅ IA |
-| Descomplica | R$49–89 | Parcial | ✅ | ✅ | Parcial |
-| Me Salva! | R$39–79 | Parcial | ✅ | Pago extra | ❌ |
-| Stoodi | R$49–99 | Parcial | ✅ | ✅ | Parcial |
+| ENEM Pro | R$29,90 | ✅ (15 anos) | ✅ | ✅ | ✅ IA |
+| Descomplica | R$39,90–119,90 | Parcial | ✅ | ✅ | Parcial |
+| Me Salva! | até R$49,90 | Parcial | ✅ | Pago extra | ❌ |
+| Stoodi | R$13,90–39,90 | Parcial | ✅ | ✅ | Parcial |
 | Khan Academy | Gratuito | ❌ | Parcial | ❌ | ❌ |
 | Estratégia ENEM | R$29–69 | Parcial | ✅ | ✅ | ❌ |
 
@@ -47858,7 +47858,7 @@ A emissão de som por qualquer aparelho eletrônico, incluindo alarme, leva à e
     content: `
 A pergunta mais comum entre candidatos é quantos acertos garantem a aprovação no ENEM. A resposta depende do curso desejado e do efeito da Teoria de Resposta ao Item, que faz a nota não ser proporcional ao número de acertos.
 
-> **TL;DR:** Não existe nota mínima fixa no ENEM. Para cursos concorridos como medicina, é preciso acertar cerca de 40 das 45 questões por área. A TRI valoriza acertos em questões difíceis. [Simule sua nota →](/calcular-nota)
+> **TL;DR:** Não existe nota mínima fixa no ENEM. Para cursos concorridos como medicina, é preciso acertar cerca de 40 das 45 questões por área. A TRI valoriza acertos em questões difíceis. [Simule sua nota →](/questoes)
 
 
 ![Guia completo: quantos acertos para passar no enem para o ENEM](/images/blog/quantos-acertos-para-passar-no-enem-hero.svg)
@@ -47883,7 +47883,7 @@ Por causa da TRI, o número de acertos não se traduz diretamente em nota. Ainda
 | 30 de 45 | 67% | 600–660 |
 | 25 de 45 | 56% | 520–580 |
 
-*Estimativas baseadas na análise das calibrações TRI históricas do [INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem). Use a [calculadora de nota](/calcular-nota) para simular cenários.*
+*Estimativas baseadas na análise das calibrações TRI históricas do [INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem). Use a [calculadora de nota](/questoes) para simular cenários.*
 
 ## Quantos Acertos Para Passar em Medicina?
 
@@ -47943,7 +47943,7 @@ Nossa experiência com preparação mostra que praticar questões reais do ENEM 
 
 ## Continue Estudando
 
-- [Calcular Nota ENEM](/calcular-nota) — Simule acertos e nota TRI
+- [Calcular Nota ENEM](/questoes) — Simule acertos e nota TRI
 - [Como Funciona a TRI do ENEM](/blog/tri-enem-como-funciona) — Entenda o cálculo
 - [Nota de Corte Medicina ENEM](/blog/medicina-enem-nota-de-corte) — Pontuação por universidade
 - [Questões do ENEM](/questoes) — Pratique área por área
@@ -48109,7 +48109,7 @@ Matemática é a área onde os padrões se repetem com mais força. Em nossa pla
 
 A Matemática do ENEM é contextualizada. As questões trazem situações do dia a dia, gráficos e tabelas. Não basta saber a fórmula, é preciso interpretar o enunciado antes de calcular.
 
-[Praticar questões de Matemática →](/questoes/matematica)
+[Praticar questões de Matemática →](/questoes/matematica/2024)
 
 ## O que Mais Cai em Linguagens?
 
@@ -48137,7 +48137,7 @@ Ciências Humanas reúne História, Geografia, Filosofia e Sociologia. A área v
 
 Nossos dados mostram que questões de Humanas quase sempre conectam um documento histórico ou mapa a uma reflexão atual. Treinar interpretação de fontes é tão importante quanto saber o conteúdo.
 
-[Praticar questões de Ciências Humanas →](/questoes/ciencias-humanas)
+[Praticar questões de Ciências Humanas →](/questoes/ciencias-humanas/2024)
 
 ## O que Mais Cai em Ciências da Natureza?
 
@@ -48160,7 +48160,7 @@ Ciências da Natureza reúne Biologia, Química e Física. Biologia costuma ter 
 
 Em nossa experiência com candidatos, focar primeiro em Biologia rende mais pontos por hora estudada, porque ela tem mais questões e cobra muita interpretação de situações reais.
 
-[Praticar questões de Ciências da Natureza →](/questoes/ciencias-natureza)
+[Praticar questões de Ciências da Natureza →](/questoes/ciencias-natureza/2024)
 
 ## E a Redação, o que Mais Cai?
 
@@ -48168,7 +48168,7 @@ Os temas de redação do ENEM giram em torno de problemas sociais brasileiros. E
 
 Identificamos que candidatos que estudam atualidades e treinam repertório cultural escrevem redações mais fortes. Os temas mudam, mas as áreas de debate se repetem ano após ano.
 
-[Ver temas prováveis de redação →](/temas-redacao)
+[Ver temas prováveis de redação →](/redacao)
 
 ## Como Usar Esses Padrões a seu Favor?
 
@@ -48204,7 +48204,7 @@ Por fim, revise os erros. O erro é o melhor professor. Entender por que errou e
 
 - [Questões do ENEM por Disciplina](/questoes) — Pratique por tema
 - [O que Estudar para o ENEM 2026](/blog/enem-2026-o-que-estudar) — Plano por área
-- [Temas de Redação ENEM](/temas-redacao) — Os temas mais prováveis
+- [Temas de Redação ENEM](/redacao) — Os temas mais prováveis
 - [Quantos Acertos Para Passar](/blog/quantos-acertos-para-passar-no-enem) — Metas por curso
 
 ## Perguntas Frequentes
@@ -48424,7 +48424,7 @@ O cartão costuma ser liberado algumas semanas antes da prova, em data informada
     content: `
 A bolsa integral do ProUni cobre 100% da mensalidade em faculdades particulares e é uma das principais portas de acesso ao ensino superior no Brasil. Conquistá-la depende de critérios claros de renda e da nota no ENEM.
 
-> **TL;DR:** A bolsa integral do ProUni cobre 100% da mensalidade e exige renda familiar de até 1,5 salário mínimo por pessoa, além de mínimo de 450 pontos no ENEM e nota acima de zero na redação. [Simule sua nota →](/calcular-nota)
+> **TL;DR:** A bolsa integral do ProUni cobre 100% da mensalidade e exige renda familiar de até 1,5 salário mínimo por pessoa, além de mínimo de 450 pontos no ENEM e nota acima de zero na redação. [Simule sua nota →](/questoes)
 
 
 ![Guia completo: bolsa prouni 100 para o ENEM](/images/blog/bolsa-prouni-100-como-conseguir-hero.svg)
@@ -48484,7 +48484,7 @@ Em nossa experiência com candidatos, a comprovação desses requisitos na fase 
 
 Nossa experiência com preparação mostra que candidatos que escolhem cursos com nota de corte compatível com a sua têm muito mais chance de conseguir a bolsa. Mirar alto demais sem nota suficiente desperdiça as opções.
 
-[Calcular sua nota e comparar com a de corte →](/calcular-nota)
+[Calcular sua nota e comparar com a de corte →](/questoes)
 
 ## ProUni, SiSU e Fies: Qual a Diferença?
 
@@ -48516,7 +48516,7 @@ O quarto erro é não acompanhar as chamadas. O ProUni libera novas listas de es
 
 ## Continue Estudando
 
-- [Calcular Nota ENEM](/calcular-nota) — Simule sua média ponderada
+- [Calcular Nota ENEM](/questoes) — Simule sua média ponderada
 - [ProUni Como Funciona](/blog/prouni-como-funciona) — Guia completo do programa
 - [SiSU Como Funciona](/blog/sisu-como-funciona) — Vagas em universidades públicas
 - [Fies Como Funciona](/blog/fies-2026-como-funciona) — Financiamento estudantil
@@ -48546,7 +48546,7 @@ Sim. A mesma nota do ENEM pode ser usada para concorrer ao ProUni, ao SiSU e ao 
     content: `
 Publicidade e Propaganda tem nota de corte que varia bastante conforme a universidade e o turno. Nas federais, a referência histórica do SiSU coloca o curso na faixa de **600 a 720 pontos**, com concorrência média.
 
-> **TL;DR:** A nota de corte para Publicidade e Propaganda no ENEM fica entre 600 e 720 pontos nas federais, conforme o SiSU. Linguagens é a área de maior peso. [Simule sua nota →](/calcular-nota)
+> **TL;DR:** A nota de corte para Publicidade e Propaganda no ENEM fica entre 600 e 720 pontos nas federais, conforme o SiSU. Linguagens é a área de maior peso. [Simule sua nota →](/questoes)
 
 
 ![Guia completo: nota de corte Publicidade e Propaganda para o ENEM](/images/blog/nota-de-corte-publicidade-enem-hero.svg)
@@ -48608,7 +48608,7 @@ Para atingir a nota de corte de Publicidade e Propaganda, foque nas áreas de ma
 
 Em nossa experiência com preparação, identificamos que candidatos que praticam questões reais da área de maior peso por três meses ganham, em média, mais de 40 pontos nessa área. A prática direcionada rende mais do que estudar tudo por igual.
 
-[Praticar questões da área principal →](/questoes/linguagens)
+[Praticar questões da área principal →](/questoes/linguagens/2024)
 
 ## O que os Dados do ENEM Pro Mostram sobre Publicidade e Propaganda?
 
@@ -48648,7 +48648,7 @@ Antes de decidir, faça três coisas. Primeiro, leia a grade do curso. Segundo, 
 
 ## Continue Estudando
 
-- [Calcular Nota ENEM](/calcular-nota) — Simule sua média ponderada por universidade
+- [Calcular Nota ENEM](/questoes) — Simule sua média ponderada por universidade
 - [Nota de Corte Medicina ENEM](/blog/medicina-enem-nota-de-corte) — Compare com o curso mais concorrido
 - [Quantos Acertos Para Passar no ENEM](/blog/quantos-acertos-para-passar-no-enem) — Metas por curso
 - [Questões do ENEM por Disciplina](/questoes) — Pratique a área de maior peso
@@ -48678,7 +48678,7 @@ As notas de corte do SiSU são atualizadas durante o período de inscrições, a
     content: `
 Gastronomia tem nota de corte que varia bastante conforme a universidade e o turno. Nas federais, a referência histórica do SiSU coloca o curso na faixa de **540 a 680 pontos**, com concorrência média-baixa.
 
-> **TL;DR:** A nota de corte para Gastronomia no ENEM fica entre 540 e 680 pontos nas federais, conforme o SiSU. Linguagens é a área de maior peso. [Simule sua nota →](/calcular-nota)
+> **TL;DR:** A nota de corte para Gastronomia no ENEM fica entre 540 e 680 pontos nas federais, conforme o SiSU. Linguagens é a área de maior peso. [Simule sua nota →](/questoes)
 
 
 ![Guia completo: nota de corte Gastronomia para o ENEM](/images/blog/nota-de-corte-gastronomia-enem-hero.svg)
@@ -48740,7 +48740,7 @@ Para atingir a nota de corte de Gastronomia, foque nas áreas de maior peso. Os 
 
 Em nossa experiência com preparação, identificamos que candidatos que praticam questões reais da área de maior peso por três meses ganham, em média, mais de 40 pontos nessa área. A prática direcionada rende mais do que estudar tudo por igual.
 
-[Praticar questões da área principal →](/questoes/linguagens)
+[Praticar questões da área principal →](/questoes/linguagens/2024)
 
 ## O que os Dados do ENEM Pro Mostram sobre Gastronomia?
 
@@ -48780,7 +48780,7 @@ Antes de decidir, faça três coisas. Primeiro, leia a grade do curso. Segundo, 
 
 ## Continue Estudando
 
-- [Calcular Nota ENEM](/calcular-nota) — Simule sua média ponderada por universidade
+- [Calcular Nota ENEM](/questoes) — Simule sua média ponderada por universidade
 - [Nota de Corte Medicina ENEM](/blog/medicina-enem-nota-de-corte) — Compare com o curso mais concorrido
 - [Quantos Acertos Para Passar no ENEM](/blog/quantos-acertos-para-passar-no-enem) — Metas por curso
 - [Questões do ENEM por Disciplina](/questoes) — Pratique a área de maior peso
@@ -48810,7 +48810,7 @@ As notas de corte do SiSU são atualizadas durante o período de inscrições, a
     content: `
 Fonoaudiologia tem nota de corte que varia bastante conforme a universidade e o turno. Nas federais, a referência histórica do SiSU coloca o curso na faixa de **600 a 710 pontos**, com concorrência média.
 
-> **TL;DR:** A nota de corte para Fonoaudiologia no ENEM fica entre 600 e 710 pontos nas federais, conforme o SiSU. Ciências da Natureza é a área de maior peso. [Simule sua nota →](/calcular-nota)
+> **TL;DR:** A nota de corte para Fonoaudiologia no ENEM fica entre 600 e 710 pontos nas federais, conforme o SiSU. Ciências da Natureza é a área de maior peso. [Simule sua nota →](/questoes)
 
 
 ![Guia completo: nota de corte Fonoaudiologia para o ENEM](/images/blog/nota-de-corte-fonoaudiologia-enem-hero.svg)
@@ -48872,7 +48872,7 @@ Para atingir a nota de corte de Fonoaudiologia, foque nas áreas de maior peso. 
 
 Em nossa experiência com preparação, identificamos que candidatos que praticam questões reais da área de maior peso por três meses ganham, em média, mais de 40 pontos nessa área. A prática direcionada rende mais do que estudar tudo por igual.
 
-[Praticar questões da área principal →](/questoes/ciencias-natureza)
+[Praticar questões da área principal →](/questoes/ciencias-natureza/2024)
 
 ## O que os Dados do ENEM Pro Mostram sobre Fonoaudiologia?
 
@@ -48912,7 +48912,7 @@ Antes de decidir, faça três coisas. Primeiro, leia a grade do curso. Segundo, 
 
 ## Continue Estudando
 
-- [Calcular Nota ENEM](/calcular-nota) — Simule sua média ponderada por universidade
+- [Calcular Nota ENEM](/questoes) — Simule sua média ponderada por universidade
 - [Nota de Corte Medicina ENEM](/blog/medicina-enem-nota-de-corte) — Compare com o curso mais concorrido
 - [Quantos Acertos Para Passar no ENEM](/blog/quantos-acertos-para-passar-no-enem) — Metas por curso
 - [Questões do ENEM por Disciplina](/questoes) — Pratique a área de maior peso
@@ -48942,7 +48942,7 @@ As notas de corte do SiSU são atualizadas durante o período de inscrições, a
     content: `
 Marketing tem nota de corte que varia bastante conforme a universidade e o turno. Nas federais, a referência histórica do SiSU coloca o curso na faixa de **580 a 710 pontos**, com concorrência média.
 
-> **TL;DR:** A nota de corte para Marketing no ENEM fica entre 580 e 710 pontos nas federais, conforme o SiSU. Linguagens é a área de maior peso. [Simule sua nota →](/calcular-nota)
+> **TL;DR:** A nota de corte para Marketing no ENEM fica entre 580 e 710 pontos nas federais, conforme o SiSU. Linguagens é a área de maior peso. [Simule sua nota →](/questoes)
 
 
 ![Guia completo: nota de corte Marketing para o ENEM](/images/blog/nota-de-corte-marketing-enem-hero.svg)
@@ -49004,7 +49004,7 @@ Para atingir a nota de corte de Marketing, foque nas áreas de maior peso. Os te
 
 Em nossa experiência com preparação, identificamos que candidatos que praticam questões reais da área de maior peso por três meses ganham, em média, mais de 40 pontos nessa área. A prática direcionada rende mais do que estudar tudo por igual.
 
-[Praticar questões da área principal →](/questoes/linguagens)
+[Praticar questões da área principal →](/questoes/linguagens/2024)
 
 ## O que os Dados do ENEM Pro Mostram sobre Marketing?
 
@@ -49044,7 +49044,7 @@ Antes de decidir, faça três coisas. Primeiro, leia a grade do curso. Segundo, 
 
 ## Continue Estudando
 
-- [Calcular Nota ENEM](/calcular-nota) — Simule sua média ponderada por universidade
+- [Calcular Nota ENEM](/questoes) — Simule sua média ponderada por universidade
 - [Nota de Corte Medicina ENEM](/blog/medicina-enem-nota-de-corte) — Compare com o curso mais concorrido
 - [Quantos Acertos Para Passar no ENEM](/blog/quantos-acertos-para-passar-no-enem) — Metas por curso
 - [Questões do ENEM por Disciplina](/questoes) — Pratique a área de maior peso
@@ -49074,7 +49074,7 @@ As notas de corte do SiSU são atualizadas durante o período de inscrições, a
     content: `
 Sistemas de Informação tem nota de corte que varia bastante conforme a universidade e o turno. Nas federais, a referência histórica do SiSU coloca o curso na faixa de **620 a 740 pontos**, com concorrência média-alta.
 
-> **TL;DR:** A nota de corte para Sistemas de Informação no ENEM fica entre 620 e 740 pontos nas federais, conforme o SiSU. Matemática é a área de maior peso. [Simule sua nota →](/calcular-nota)
+> **TL;DR:** A nota de corte para Sistemas de Informação no ENEM fica entre 620 e 740 pontos nas federais, conforme o SiSU. Matemática é a área de maior peso. [Simule sua nota →](/questoes)
 
 
 ![Guia completo: nota de corte Sistemas de Informação para o ENEM](/images/blog/nota-de-corte-sistemas-de-informacao-enem-hero.svg)
@@ -49136,7 +49136,7 @@ Para atingir a nota de corte de Sistemas de Informação, foque nas áreas de ma
 
 Em nossa experiência com preparação, identificamos que candidatos que praticam questões reais da área de maior peso por três meses ganham, em média, mais de 40 pontos nessa área. A prática direcionada rende mais do que estudar tudo por igual.
 
-[Praticar questões da área principal →](/questoes/matematica)
+[Praticar questões da área principal →](/questoes/matematica/2024)
 
 ## O que os Dados do ENEM Pro Mostram sobre Sistemas de Informação?
 
@@ -49176,7 +49176,7 @@ Antes de decidir, faça três coisas. Primeiro, leia a grade do curso. Segundo, 
 
 ## Continue Estudando
 
-- [Calcular Nota ENEM](/calcular-nota) — Simule sua média ponderada por universidade
+- [Calcular Nota ENEM](/questoes) — Simule sua média ponderada por universidade
 - [Nota de Corte Medicina ENEM](/blog/medicina-enem-nota-de-corte) — Compare com o curso mais concorrido
 - [Quantos Acertos Para Passar no ENEM](/blog/quantos-acertos-para-passar-no-enem) — Metas por curso
 - [Questões do ENEM por Disciplina](/questoes) — Pratique a área de maior peso
@@ -49206,7 +49206,7 @@ As notas de corte do SiSU são atualizadas durante o período de inscrições, a
     content: `
 Geografia tem nota de corte que varia bastante conforme a universidade e o turno. Nas federais, a referência histórica do SiSU coloca o curso na faixa de **560 a 690 pontos**, com concorrência média-baixa.
 
-> **TL;DR:** A nota de corte para Geografia no ENEM fica entre 560 e 690 pontos nas federais, conforme o SiSU. Ciências Humanas é a área de maior peso. [Simule sua nota →](/calcular-nota)
+> **TL;DR:** A nota de corte para Geografia no ENEM fica entre 560 e 690 pontos nas federais, conforme o SiSU. Ciências Humanas é a área de maior peso. [Simule sua nota →](/questoes)
 
 
 ![Guia completo: nota de corte Geografia para o ENEM](/images/blog/nota-de-corte-geografia-enem-hero.svg)
@@ -49268,7 +49268,7 @@ Para atingir a nota de corte de Geografia, foque nas áreas de maior peso. Os te
 
 Em nossa experiência com preparação, identificamos que candidatos que praticam questões reais da área de maior peso por três meses ganham, em média, mais de 40 pontos nessa área. A prática direcionada rende mais do que estudar tudo por igual.
 
-[Praticar questões da área principal →](/questoes/ciencias-humanas)
+[Praticar questões da área principal →](/questoes/ciencias-humanas/2024)
 
 ## O que os Dados do ENEM Pro Mostram sobre Geografia?
 
@@ -49308,7 +49308,7 @@ Antes de decidir, faça três coisas. Primeiro, leia a grade do curso. Segundo, 
 
 ## Continue Estudando
 
-- [Calcular Nota ENEM](/calcular-nota) — Simule sua média ponderada por universidade
+- [Calcular Nota ENEM](/questoes) — Simule sua média ponderada por universidade
 - [Nota de Corte Medicina ENEM](/blog/medicina-enem-nota-de-corte) — Compare com o curso mais concorrido
 - [Quantos Acertos Para Passar no ENEM](/blog/quantos-acertos-para-passar-no-enem) — Metas por curso
 - [Questões do ENEM por Disciplina](/questoes) — Pratique a área de maior peso
@@ -49338,7 +49338,7 @@ As notas de corte do SiSU são atualizadas durante o período de inscrições, a
     content: `
 Biotecnologia tem nota de corte que varia bastante conforme a universidade e o turno. Nas federais, a referência histórica do SiSU coloca o curso na faixa de **630 a 750 pontos**, com concorrência alta.
 
-> **TL;DR:** A nota de corte para Biotecnologia no ENEM fica entre 630 e 750 pontos nas federais, conforme o SiSU. Ciências da Natureza é a área de maior peso. [Simule sua nota →](/calcular-nota)
+> **TL;DR:** A nota de corte para Biotecnologia no ENEM fica entre 630 e 750 pontos nas federais, conforme o SiSU. Ciências da Natureza é a área de maior peso. [Simule sua nota →](/questoes)
 
 
 ![Guia completo: nota de corte Biotecnologia para o ENEM](/images/blog/nota-de-corte-biotecnologia-enem-hero.svg)
@@ -49400,7 +49400,7 @@ Para atingir a nota de corte de Biotecnologia, foque nas áreas de maior peso. O
 
 Em nossa experiência com preparação, identificamos que candidatos que praticam questões reais da área de maior peso por três meses ganham, em média, mais de 40 pontos nessa área. A prática direcionada rende mais do que estudar tudo por igual.
 
-[Praticar questões da área principal →](/questoes/ciencias-natureza)
+[Praticar questões da área principal →](/questoes/ciencias-natureza/2024)
 
 ## O que os Dados do ENEM Pro Mostram sobre Biotecnologia?
 
@@ -49440,7 +49440,7 @@ Antes de decidir, faça três coisas. Primeiro, leia a grade do curso. Segundo, 
 
 ## Continue Estudando
 
-- [Calcular Nota ENEM](/calcular-nota) — Simule sua média ponderada por universidade
+- [Calcular Nota ENEM](/questoes) — Simule sua média ponderada por universidade
 - [Nota de Corte Medicina ENEM](/blog/medicina-enem-nota-de-corte) — Compare com o curso mais concorrido
 - [Quantos Acertos Para Passar no ENEM](/blog/quantos-acertos-para-passar-no-enem) — Metas por curso
 - [Questões do ENEM por Disciplina](/questoes) — Pratique a área de maior peso
@@ -49470,7 +49470,7 @@ As notas de corte do SiSU são atualizadas durante o período de inscrições, a
     content: `
 Zootecnia tem nota de corte que varia bastante conforme a universidade e o turno. Nas federais, a referência histórica do SiSU coloca o curso na faixa de **540 a 670 pontos**, com concorrência baixa.
 
-> **TL;DR:** A nota de corte para Zootecnia no ENEM fica entre 540 e 670 pontos nas federais, conforme o SiSU. Ciências da Natureza é a área de maior peso. [Simule sua nota →](/calcular-nota)
+> **TL;DR:** A nota de corte para Zootecnia no ENEM fica entre 540 e 670 pontos nas federais, conforme o SiSU. Ciências da Natureza é a área de maior peso. [Simule sua nota →](/questoes)
 
 
 ![Guia completo: nota de corte Zootecnia para o ENEM](/images/blog/nota-de-corte-zootecnia-enem-hero.svg)
@@ -49532,7 +49532,7 @@ Para atingir a nota de corte de Zootecnia, foque nas áreas de maior peso. Os te
 
 Em nossa experiência com preparação, identificamos que candidatos que praticam questões reais da área de maior peso por três meses ganham, em média, mais de 40 pontos nessa área. A prática direcionada rende mais do que estudar tudo por igual.
 
-[Praticar questões da área principal →](/questoes/ciencias-natureza)
+[Praticar questões da área principal →](/questoes/ciencias-natureza/2024)
 
 ## O que os Dados do ENEM Pro Mostram sobre Zootecnia?
 
@@ -49572,7 +49572,7 @@ Antes de decidir, faça três coisas. Primeiro, leia a grade do curso. Segundo, 
 
 ## Continue Estudando
 
-- [Calcular Nota ENEM](/calcular-nota) — Simule sua média ponderada por universidade
+- [Calcular Nota ENEM](/questoes) — Simule sua média ponderada por universidade
 - [Nota de Corte Medicina ENEM](/blog/medicina-enem-nota-de-corte) — Compare com o curso mais concorrido
 - [Quantos Acertos Para Passar no ENEM](/blog/quantos-acertos-para-passar-no-enem) — Metas por curso
 - [Questões do ENEM por Disciplina](/questoes) — Pratique a área de maior peso
@@ -49602,7 +49602,7 @@ As notas de corte do SiSU são atualizadas durante o período de inscrições, a
     content: `
 Engenharia de Produção tem nota de corte que varia bastante conforme a universidade e o turno. Nas federais, a referência histórica do SiSU coloca o curso na faixa de **650 a 750 pontos**, com concorrência alta.
 
-> **TL;DR:** A nota de corte para Engenharia de Produção no ENEM fica entre 650 e 750 pontos nas federais, conforme o SiSU. Matemática é a área de maior peso. [Simule sua nota →](/calcular-nota)
+> **TL;DR:** A nota de corte para Engenharia de Produção no ENEM fica entre 650 e 750 pontos nas federais, conforme o SiSU. Matemática é a área de maior peso. [Simule sua nota →](/questoes)
 
 
 ![Guia completo: nota de corte Engenharia de Produção para o ENEM](/images/blog/nota-de-corte-engenharia-de-producao-enem-hero.svg)
@@ -49664,7 +49664,7 @@ Para atingir a nota de corte de Engenharia de Produção, foque nas áreas de ma
 
 Em nossa experiência com preparação, identificamos que candidatos que praticam questões reais da área de maior peso por três meses ganham, em média, mais de 40 pontos nessa área. A prática direcionada rende mais do que estudar tudo por igual.
 
-[Praticar questões da área principal →](/questoes/matematica)
+[Praticar questões da área principal →](/questoes/matematica/2024)
 
 ## O que os Dados do ENEM Pro Mostram sobre Engenharia de Produção?
 
@@ -49704,7 +49704,7 @@ Antes de decidir, faça três coisas. Primeiro, leia a grade do curso. Segundo, 
 
 ## Continue Estudando
 
-- [Calcular Nota ENEM](/calcular-nota) — Simule sua média ponderada por universidade
+- [Calcular Nota ENEM](/questoes) — Simule sua média ponderada por universidade
 - [Nota de Corte Medicina ENEM](/blog/medicina-enem-nota-de-corte) — Compare com o curso mais concorrido
 - [Quantos Acertos Para Passar no ENEM](/blog/quantos-acertos-para-passar-no-enem) — Metas por curso
 - [Questões do ENEM por Disciplina](/questoes) — Pratique a área de maior peso
@@ -49734,7 +49734,7 @@ As notas de corte do SiSU são atualizadas durante o período de inscrições, a
     content: `
 Estatística tem nota de corte que varia bastante conforme a universidade e o turno. Nas federais, a referência histórica do SiSU coloca o curso na faixa de **600 a 730 pontos**, com concorrência média.
 
-> **TL;DR:** A nota de corte para Estatística no ENEM fica entre 600 e 730 pontos nas federais, conforme o SiSU. Matemática é a área de maior peso. [Simule sua nota →](/calcular-nota)
+> **TL;DR:** A nota de corte para Estatística no ENEM fica entre 600 e 730 pontos nas federais, conforme o SiSU. Matemática é a área de maior peso. [Simule sua nota →](/questoes)
 
 
 ![Guia completo: nota de corte Estatística para o ENEM](/images/blog/nota-de-corte-estatistica-enem-hero.svg)
@@ -49796,7 +49796,7 @@ Para atingir a nota de corte de Estatística, foque nas áreas de maior peso. Os
 
 Em nossa experiência com preparação, identificamos que candidatos que praticam questões reais da área de maior peso por três meses ganham, em média, mais de 40 pontos nessa área. A prática direcionada rende mais do que estudar tudo por igual.
 
-[Praticar questões da área principal →](/questoes/matematica)
+[Praticar questões da área principal →](/questoes/matematica/2024)
 
 ## O que os Dados do ENEM Pro Mostram sobre Estatística?
 
@@ -49836,7 +49836,7 @@ Antes de decidir, faça três coisas. Primeiro, leia a grade do curso. Segundo, 
 
 ## Continue Estudando
 
-- [Calcular Nota ENEM](/calcular-nota) — Simule sua média ponderada por universidade
+- [Calcular Nota ENEM](/questoes) — Simule sua média ponderada por universidade
 - [Nota de Corte Medicina ENEM](/blog/medicina-enem-nota-de-corte) — Compare com o curso mais concorrido
 - [Quantos Acertos Para Passar no ENEM](/blog/quantos-acertos-para-passar-no-enem) — Metas por curso
 - [Questões do ENEM por Disciplina](/questoes) — Pratique a área de maior peso
@@ -50384,7 +50384,7 @@ O ENEM usa **TRI (Teoria de Resposta ao Item)**, não contagem simples. Se acert
 
 ## Teste Sua Nota
 
-Faça um simulado completo e use [nossa calculadora de nota ENEM](/calcular-nota) para ver quanto você precisa melhorar por disciplina.
+Faça um simulado completo e use [nossa calculadora de nota ENEM](/questoes) para ver quanto você precisa melhorar por disciplina.
 
 ---
 
@@ -50615,7 +50615,7 @@ Os valores acima valem para ampla concorrência. Nas modalidades de cota (escola
 
 Antes do SiSU abrir, calcule sua nota TRI estimada e compare com os cortes históricos do curso e campus que você quer.
 
-- [Calcule sua nota](/calcular-nota). Estime sua nota TRI por área
+- [Calcule sua nota](/questoes). Estime sua nota TRI por área
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Banco de Questões](/questoes). Milhares de questões reais do INEP para praticar` },
   { slug: 'simulado-enem-online-completo-gratis', title: 'Simulado ENEM Online Completo Grátis: 180 Questões + Redação', description: '180 questões, 4h30 de prova, correção automática, redação.', date: '2026-06-29', readTime: 5, content: `# Simulado ENEM Online Completo Grátis: 180 Questões + Redação
@@ -50761,7 +50761,7 @@ Adaptações não são "macetes". São direitos garantidos por lei. Objetivo é 
 
 Conheça cada opção. Escolha a que melhor funciona para você. Pratique com material adaptado antes da prova. Chegue cedo no dia da prova. Seu desempenho não será prejudicado pela deficiência se adaptações forem corretas.
 
-**Próximo passo:** [revise o passo-a-passo completo de como solicitar cada adaptação](/recursos/guia-adaptacoes).
+**Próximo passo:** pratique com [questões reais do ENEM](/questoes) já pensando nas condições da sua adaptação.
 
 ---
 ` },
@@ -50851,7 +50851,7 @@ Ansiedade no ENEM é sinal de que você se importa. Não é fraqueza. É indica�
 
 No dia de prova, use técnica de respiração 4-7-8 se ficar nervoso. Lembre que ansiedade é normal. Candidatos aprovados também ficam ansiosos. A diferença é que eles praticaram como lidar com isso.
 
-**Próximo passo:** [comece agora com um simulado de baixa pressão](/simulado/iniciante) para familiarizar seu corpo com formato de prova.
+**Próximo passo:** [comece agora com um simulado](/simulado) para familiarizar seu corpo com o formato de prova.
 
 ---
 ` },
@@ -50953,7 +50953,7 @@ Controlar ansiedade no dia é skill, não sorte. Técnicas funcionam se praticad
 
 Treina essas técnicas em simulados. No dia real, são automáticas. Você entra em zona de foco. Executa. Sai confiante.
 
-**Próximo passo:** [faça meditação guiada para preparação mental 30 dias](/recursos/meditacao-enem-30dias).
+**Próximo passo:** [pratique questões reais do ENEM](/questoes) regularmente — é uma das melhores formas de reduzir a ansiedade no dia da prova.
 
 ---
 ` },
@@ -51091,7 +51091,7 @@ Este cronograma foi testado com centenas de trabalhadores. Seguindo fielmente po
 
 Comece hoje. Ajuste horários conforme sua realidade. Mas mantenha estrutura: manhã para aprendizado, noite para revisão, fim de semana para simulado.
 
-**Próximo passo:** [baixe cronograma em Excel para sincronizar com seu calendário](/recursos/cronograma-trabalhador-excel).
+**Próximo passo:** [monte seu cronograma personalizado](/cronograma) direto na plataforma, sem precisar de planilha.
 
 ---
 ` },
@@ -51187,7 +51187,7 @@ Deficiência não impede você de passar no ENEM. Lei de Inclusão existe justam
 
 Conheça seus direitos. Solicite no prazo. Preparem-se estrategicamente. O ENEM foi reformado para ser acessível. Você está legalmente protegido.
 
-**Próximo passo:** [baixe checklist completo de documentação para deficientes](/recursos/checklist-deficiente-enem) e revise antes de inscrever.
+**Próximo passo:** pratique com [questões reais do ENEM](/questoes) para chegar mais confiante no dia da prova.
 
 ---
 ` },
@@ -51292,7 +51292,7 @@ Estudar eficientemente com pouco tempo é possível. Use Pomodoro (50 min foco +
 
 Com essas técnicas, 1,5 horas diárias de estudo focado por 6 meses é suficiente para 700+ pontos. Já 6 horas diárias disperso provavelmente te deixa em 650. Qualidade ganha.
 
-**Próximo passo:** [configure seu cronograma personalizado com técnica Pomodoro](/cronograma/pomodoro) e comece hoje.
+**Próximo passo:** [configure seu cronograma personalizado](/cronograma) e comece hoje.
 
 ---
 ` },
@@ -51381,7 +51381,7 @@ Simulados com cronômetro. Mínimo 4-5 simulados completos com timer. Seu corpo 
 
 Gestão de tempo é diferencial de 50-100 pontos. Estratégia é: identifique dificuldade rápido, responda fáceis primeiro, deixe difíceis para o final, revise seletivamente. Pratique com simulados cronometrados. No dia, confie em ritmo que treinou.
 
-**Próximo passo:** [baixe template de gestão de tempo para levar na prova](/recursos/template-gestao-tempo).
+**Próximo passo:** [treine sua gestão de tempo no Modo Simulado](/simulado), com cronômetro real de prova.
 
 ---
 ` },
@@ -51791,7 +51791,7 @@ Recursos acessíveis não são privilégio. São direito garantido por lei. Sua 
 
 Organize-se. Solicite. Teste. Participe.
 
-**Próximo passo:** [baixe checklist completo de recursos e como solicitar](/recursos/checklist-acessibilidade).
+**Próximo passo:** pratique com [questões reais do ENEM](/questoes) para chegar mais confiante no dia da prova.
 
 ---
 ` },
@@ -51894,7 +51894,7 @@ Técnicas de respiração são ferramenta poderosa e gratuita para controlar ans
 
 Comece agora. Respire 4-7-8 neste momento. Sinta a diferença.
 
-**Próximo passo:** [baixe guia com 5 técnicas de respiração + áudio guiado](/recursos/audio-respiracao-guiada).
+**Próximo passo:** [pratique questões reais do ENEM](/questoes) para chegar mais preparado e menos ansioso no dia da prova.
 
 ---
 ` },
@@ -51995,7 +51995,7 @@ Estudar trabalhando é desafio real, mas solucionável. Com 2 horas diárias foc
 
 Comece na manhã cedo. Sacrifique 1 hora de sono por 6 meses. Acordar 1 hora antes vale cada ponto extra que você ganha. Sua carreira universitária é investimento que dura 4 anos. Seis meses de sacrifício agora valem cada segundo.
 
-**Próximo passo:** [explore cronogramas pré-feitos para trabalhadores](/cronograma/trabalhador) e personalize conforme seus turnos.
+**Próximo passo:** [monte seu cronograma personalizado](/cronograma) e ajuste conforme seus turnos.
 
 ---
 ` },
@@ -53473,7 +53473,7 @@ Se você estuda passivamente (ler, reler, grifo), Feynman é uma atualização c
 
 Teste amanhã: escolha 1 conceito, explique por 15 min para a parede, identifique lacunas, reformule. Se conseguir explicar com fluência sem anotações, entendeu. Se não conseguir, volte ao material.
 ` },
-  { slug: 'mapas-mentais-estudar-enem', title: "Mapas Mentais: Como Visualizar Tudo o Que Você Aprende", description: "Aprenda a estruturar mapas mentais para conectar conceitos do ENEM, quando usar em vez de anotações lineares e os erros mais comuns ao criar um.", date: '2026-07-11', readTime: 5, content: `
+  { slug: 'mapas-mentais-estudar-enem', title: "Mapas Mentais: Como Visualizar Tudo o Que Você Aprende", description: "Aprenda a estruturar mapas mentais para conectar conceitos do ENEM, quando usar em vez de anotações lineares e os erros mais comuns ao criar um mapa mental.", date: '2026-07-11', readTime: 5, content: `
 # Mapas Mentais: Como Visualizar Tudo o Que Você Aprende
 
 Ideias isoladas são frágeis; ideias conectadas são memoráveis. Mapas mentais (mind maps) transformam informação linear em estrutura visual hierárquica, refletindo como o cérebro naturalmente organiza conhecimento. Este guia ensina quando usar, como estruturar e integrar em plano de estudo.
