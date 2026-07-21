@@ -8179,7 +8179,8 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     description: 'Pratique questões reais do ENEM online e grátis. Banco completo de 2009 a 2024 com gabarito imediato e explicação de IA. Matemática, Humanas, Natureza e Linguagens.',
     date: '2026-05-25',
     readTime: 5,
-    content: `O ENEM tem um banco oficial de questões — e você pode praticar com questões reais online, gratuitamente, sem precisar baixar PDFs de provas antigas.
+    content: `
+O ENEM tem um banco oficial de questões — e você pode praticar com questões reais online, gratuitamente, sem precisar baixar PDFs de provas antigas.
 
 > **TL;DR:** Pratique questões reais do ENEM online e grátis. Banco completo de 2009 a 2024 com gabarito imediato e explicação de IA. Matemática, Humanas, Natureza e Linguagens. [Pratique no ENEM Pro →](/questoes)
 
@@ -8298,11 +8299,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+    `,
   },
 ]
 
@@ -8350,7 +8347,8 @@ function makeGabaritoPost(disc: string, year: number): BlogPost {
     description: `Gabarito oficial de ${d.label} do ENEM ${year} com análise das questões mais cobradas. Pratique grátis e receba explicação da IA para cada questão.`,
     date: dateStr,
     readTime: 7,
-    content: `O ENEM ${year} foi aplicado em novembro e reuniu milhões de candidatos em todo o Brasil. Neste artigo você encontra a análise completa da prova de ${d.label} com os temas mais cobrados e estratégia de resolução.
+    content: `
+O ENEM ${year} foi aplicado em novembro e reuniu milhões de candidatos em todo o Brasil. Neste artigo você encontra a análise completa da prova de ${d.label} com os temas mais cobrados e estratégia de resolução.
 
 > **TL;DR:** [Pratique no ENEM Pro →](/questoes)
 
@@ -8358,12 +8356,7 @@ function makeGabaritoPost(disc: string, year: number): BlogPost {
 
 A prova de ${d.label} do ENEM ${year} manteve o padrão de contextualização do INEP. Os principais temas abordados foram:
 
-${d.topics.map((t, i) =>
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`${i+1}. **${t}**`).join('\n')}
+${d.topics.map((t, i) => `${i+1}. **${t}**`).join('\n')}
 
 ## Estratégia de Resolução
 
@@ -14751,7 +14744,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
     description: 'Nota de corte para Contabilidade no SISU 2025. Veja as notas das principais universidades federais, como calcular sua nota e as perspectivas para 2026.',
     date: '2026-06-14',
     readTime: 5,
-    content: `Contabilidade é um dos cursos com melhor empregabilidade do Brasil e com notas de corte mais acessíveis no SISU. Se você pretende cursar Ciências Contábeis, veja o que esperar das notas de corte.
+    content: `
+Contabilidade é um dos cursos com melhor empregabilidade do Brasil e com notas de corte mais acessíveis no SISU. Se você pretende cursar Ciências Contábeis, veja o que esperar das notas de corte.
 
 > **TL;DR:** Nota de corte para Contabilidade no SISU 2025. Veja as notas das principais universidades federais, como calcular sua nota e as perspectivas para 2026. [Pratique no ENEM Pro →](/questoes)
 
@@ -14975,11 +14969,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+    `,
   },
   {
     slug: 'nota-de-corte-pedagogia-enem',
@@ -22440,7 +22430,8 @@ const EXTRA_POSTS_10: BlogPost[] = [
     description: 'Guia completo para estudar Matemática no ENEM 2026. Veja o que cai, cronograma de estudos, os temas mais cobrados e como resolver questões difíceis. Grátis.',
     date: '2026-06-15',
     readTime: 10,
-    content: `## Por Que Matemática Assusta Tanto no ENEM?
+    content: `
+## Por Que Matemática Assusta Tanto no ENEM?
 
 > **TL;DR:** Guia completo para estudar Matemática no ENEM 2026. Veja o que cai, cronograma de estudos, os temas mais cobrados e como resolver questões difíceis. [Pratique no ENEM Pro →](/questoes)
 
@@ -22613,11 +22604,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+    `,
   },
   {
     slug: 'nota-de-corte-biomedicina-enem',
@@ -27531,7 +27518,8 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     description: 'Saiba como funciona a correção de redação ENEM online com IA no ENEM Pro. Feedback nas 5 competências, exemplos de nota alta e baixa, e como melhorar sua nota.',
     date: '2026-06-15',
     readTime: 8,
-    content: `## Por que Corrigir sua Redação Antes do ENEM?
+    content: `
+## Por que Corrigir sua Redação Antes do ENEM?
 
 > **TL;DR:** Saiba como funciona a correção de redação ENEM online com IA no ENEM Pro. Feedback nas 5 competências, exemplos de nota alta e baixa, e como melhorar sua escrita. [Pratique no ENEM Pro →](/questoes)
 
@@ -27772,11 +27760,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+    `,
   },
   {
     slug: 'enem-2026',
@@ -28085,7 +28069,9 @@ const EXTRA_POSTS_11: BlogPost[] = [
     description: 'Gabarito oficial do ENEM 2019 com respostas de Matemática, Ciências da Natureza, Ciências Humanas e Linguagens. Baixe o gabarito PDF e calcule sua nota.',
     date: '2025-01-10',
     readTime: 7,
-    content: `## Gabarito Oficial ENEM 2019?
+    content: `
+
+## Gabarito Oficial ENEM 2019?
 
 
 > **TL;DR:** Gabarito oficial do ENEM 2019 com respostas de Matemática, Ciências da Natureza, Ciências Humanas e Linguagens. Baixe o gabarito PDF e calcule sua nota. [Pratique no ENEM Pro →](/questoes)
@@ -28357,11 +28343,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 
 ![Pratique agora: questoes de gabarito enem 2019](/images/blog/gabarito-enem-2019-3.svg)
-## Continue Estudando
 
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+
+`,
   },
   {
     slug: 'gabarito-enem-2018',
@@ -31302,7 +31286,10 @@ Se errou 3 questões de Linguagens com o mesmo tema, é um sinal de lacuna espec
     description: 'Nota de corte para Medicina nas universidades estaduais via SISU 2025. USP, UNICAMP, UERJ, UFRJ, UFMG e outras federais com cotas e ampla concorrência.',
     date: '2025-04-10',
     readTime: 9,
-    content: `## Nota de Corte para Medicina Estadual via ENEM?
+    content: `
+
+
+## Nota de Corte para Medicina Estadual via ENEM?
 
 
 
@@ -31515,11 +31502,10 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 
 ![Pratique agora: questoes de nota de corte medicina estadual](/images/blog/nota-de-corte-medicina-estadual-3.svg)
-## Continue Estudando
 
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+
+
+`,
   },
   {
     slug: 'nota-de-corte-veterinaria-universidades',
@@ -31527,7 +31513,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     description: 'Nota de corte para Medicina Veterinária nas federais via SISU 2025. USP, UFMG, UFRGS, UFPR e outras com ampla concorrência e cotas. Mercado, salário e vagas.',
     date: '2025-04-12',
     readTime: 8,
-    content: `## Nota de Corte Veterinária via ENEM. SISU 2025?
+    content: `
+
+## Nota de Corte Veterinária via ENEM. SISU 2025?
 
 
 > **TL;DR:** Nota de corte para Medicina Veterinária nas federais via SISU 2025. USP, UFMG, UFRGS, UFPR e outras com ampla concorrência e cotas. Mercado, salário e vagas. [Pratique no ENEM Pro →](/questoes)
@@ -31738,11 +31726,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+    `,
   },
   {
     slug: 'enem-primeiro-ou-segundo-dia',
@@ -31750,7 +31734,10 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     description: 'O que é cobrado no 1º e 2º dia do ENEM? Linguagens, Humanas e Redação no primeiro dia; Ciências da Natureza e Matemática no segundo. Duração, horários e o que levar.',
     date: '2025-05-01',
     readTime: 8,
-    content: `## ENEM: O Que Cai no Primeiro e Segundo Dia?
+    content: `
+
+
+## ENEM: O Que Cai no Primeiro e Segundo Dia?
 
 
 
@@ -32104,11 +32091,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+    `,
   },
 ]
 
@@ -36066,7 +36049,8 @@ Sim, até o momento em que você marcar as respostas no cartão resposta. Você 
     description: 'Gabarito oficial do ENEM 2016 por cor de prova (Amarela, Azul, Rosa, Branca). Consulte as respostas e acesse o gabarito completo no site do INEP. Acesse grátis.',
     date: '2026-06-18',
     readTime: 4,
-    content: `O gabarito oficial do ENEM 2016 foi divulgado pelo INEP logo após a aplicação da prova. Esta edição teve como tema da redação "Caminhos para combater a intolerância religiosa no Brasil".
+    content: `
+O gabarito oficial do ENEM 2016 foi divulgado pelo INEP logo após a aplicação da prova. Esta edição teve como tema da redação "Caminhos para combater a intolerância religiosa no Brasil".
 
 > **TL;DR:** Gabarito oficial do ENEM 2016 por cor de prova (Amarela, Azul, Rosa, Branca). Consulte as respostas e acesse o gabarito completo no site do INEP. [Pratique no ENEM Pro →](/questoes)
 
@@ -36194,11 +36178,7 @@ Sim. Cada cor de prova (Amarela, Azul, Rosa, Branca) tem uma sequência diferent
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+    `,
   },
   {
     slug: 'nota-enem-medicina-particular',
@@ -36206,7 +36186,8 @@ Sim. Cada cor de prova (Amarela, Azul, Rosa, Branca) tem uma sequência diferent
     description: 'Qual nota no ENEM é necessária para entrar em medicina em faculdades particulares? ProUni, FIES e vestibular próprio — veja as notas mínimas e como se preparar.',
     date: '2026-06-18',
     readTime: 7,
-    content: `Medicina em faculdades particulares via ENEM é possível pelo ProUni, FIES, e pelos próprios vestibulares que usam a nota do ENEM como critério. As exigências variam muito. entender cada rota é essencial antes de estabelecer sua meta de nota.
+    content: `
+Medicina em faculdades particulares via ENEM é possível pelo ProUni, FIES, e pelos próprios vestibulares que usam a nota do ENEM como critério. As exigências variam muito. entender cada rota é essencial antes de estabelecer sua meta de nota.
 
 > **TL;DR:** Qual nota no ENEM é necessária para entrar em medicina em faculdades particulares? ProUni, FIES e vestibular próprio. veja as notas mínimas e como se preparar. [Pratique no ENEM Pro →](/questoes)
 
@@ -36418,11 +36399,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
 3. Pratique questoes mistas que combinam Nota com interpretacao de texto
-## Continue Estudando
 
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+`,
   },
   {
     slug: 'texto-dissertativo-argumentativo-enem',
@@ -36430,7 +36408,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
     description: 'O que é o texto dissertativo-argumentativo do ENEM, como estruturar introdução, desenvolvimento e conclusão, e as regras de cada competência avaliada.',
     date: '2026-06-18',
     readTime: 8,
-    content: `O texto dissertativo-argumentativo é o único tipo de redação aceito no ENEM. Compreender sua estrutura e os critérios de avaliação é o primeiro passo para sair do zero e chegar à nota 1000.
+    content: `
+O texto dissertativo-argumentativo é o único tipo de redação aceito no ENEM. Compreender sua estrutura e os critérios de avaliação é o primeiro passo para sair do zero e chegar à nota 1000.
 
 > **TL;DR:** O que é o texto dissertativo-argumentativo do ENEM, como estruturar introdução, desenvolvimento e conclusão. e as regras de cada competência avaliada. [Pratique no ENEM Pro →](/questoes)
 
@@ -36757,11 +36736,7 @@ São 5 competências, cada uma valendo até 200 pontos, totalizando 1000 pontos.
 
 ### O que é a proposta de intervenção na redação do ENEM?
 É o trecho da conclusão onde você propõe uma solução detalhada para o problema discutido. Deve ter 5 elementos: agente, ação, meio, finalidade e detalhamento. Uma proposta vaga pode custar até 200 pontos na Competência V.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+`,
   },
   {
     slug: 'enem-segunda-aplicacao-2026',
@@ -36769,7 +36744,8 @@ São 5 competências, cada uma valendo até 200 pontos, totalizando 1000 pontos.
     description: 'O que é a segunda aplicação do ENEM 2026, quem tem direito, como solicitar, datas e o que fazer se você perdeu a primeira prova por justificativa.',
     date: '2026-06-18',
     readTime: 5,
-    content: `A segunda aplicação do ENEM é uma oportunidade extra para candidatos que tiveram justificativa aceita para não comparecer na data regular. Entender quem tem direito e como solicitar é essencial para não perder o prazo.
+    content: `
+A segunda aplicação do ENEM é uma oportunidade extra para candidatos que tiveram justificativa aceita para não comparecer na data regular. Entender quem tem direito e como solicitar é essencial para não perder o prazo.
 
 > **TL;DR:** O que é a segunda aplicação do ENEM 2026, quem tem direito, como solicitar, datas e o que fazer se você perdeu a primeira prova. [Pratique no ENEM Pro →](/questoes)
 
@@ -36898,11 +36874,7 @@ Candidatos não fazem as duas aplicações na mesma edição — a 2ª aplicaç�
 
 ---
 *Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+    `,
   },
   {
     slug: 'banco-de-questoes-enem-gratis',
@@ -36910,7 +36882,8 @@ Candidatos não fazem as duas aplicações na mesma edição — a 2ª aplicaç�
     description: 'Os melhores bancos de questões do ENEM grátis online: onde encontrar questões de 2009 a 2024 por disciplina, com gabarito e explicações. Acesse grátis.',
     date: '2026-06-18',
     readTime: 5,
-    content: `Praticar questões reais do ENEM é uma das formas mais eficientes de se preparar. Existem diversas plataformas com bancos de questões. algumas pagas, outras com versão gratuita. Veja as melhores opções e como usá-las estrategicamente.
+    content: `
+Praticar questões reais do ENEM é uma das formas mais eficientes de se preparar. Existem diversas plataformas com bancos de questões. algumas pagas, outras com versão gratuita. Veja as melhores opções e como usá-las estrategicamente.
 
 > **TL;DR:** Os melhores bancos de questões do ENEM grátis online: onde encontrar questões de 2009 a 2024 por disciplina, com gabarito e explicações. [Pratique no ENEM Pro →](/questoes)
 
@@ -37098,11 +37071,7 @@ Para o ENEM regular (impresso), muitos candidatos preferem simular no papel para
 ## Como se Preparar?
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+    `,
   },
   {
     slug: 'enem-vs-vestibular-diferenca',
@@ -37110,7 +37079,8 @@ Para o ENEM regular (impresso), muitos candidatos preferem simular no papel para
     description: 'ENEM ou vestibular tradicional: quais são as diferenças, quando vale mais a pena focar em um ou outro, e como conciliar os dois sem perder rendimento.',
     date: '2026-06-18',
     readTime: 6,
-    content: `Muitos candidatos enfrentam o dilema: focar no ENEM, no vestibular da faculdade desejada, ou nos dois? A resposta depende da universidade e do curso. Entenda as diferenças e tome uma decisão estratégica.
+    content: `
+Muitos candidatos enfrentam o dilema: focar no ENEM, no vestibular da faculdade desejada, ou nos dois? A resposta depende da universidade e do curso. Entenda as diferenças e tome uma decisão estratégica.
 
 > **TL;DR:** ENEM ou vestibular tradicional: quais são as diferenças. vale mais a pena focar em um ou outro, e como conciliar os dois sem perder rendimento. [Pratique no ENEM Pro →](/questoes)
 
@@ -37458,11 +37428,7 @@ Muitos candidatos perdem pontos aqui por fugir do tema ou abordar apenas parcial
 
 **Competencia 3. Selecao e organizacao das informacoes (200 pts)**
 Esta e a competencia que mais diferencia redacoes medianas de redacoes excelentes. Nao basta ter argumentos. eles precisam ser desenvolvidos com profundidade, articulados entre si e sustentados por evidencias.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+`,
   },
   {
     slug: 'redacao-enem-introducao-como-fazer',
@@ -37470,7 +37436,8 @@ Esta e a competencia que mais diferencia redacoes medianas de redacoes excelente
     description: 'Como escrever a introdução perfeita da redação do ENEM: modelos prontos, o que evitar, como apresentar a tese e exemplos de abertura que pontuam nas 5 competências.',
     date: '2026-06-18',
     readTime: 7,
-    content: `A introdução da redação do ENEM é o primeiro impacto que o corretor tem do seu texto. Uma introdução clara e bem construída sinaliza competência textual desde o início — e pode influenciar positivamente a avaliação das outras competências.
+    content: `
+A introdução da redação do ENEM é o primeiro impacto que o corretor tem do seu texto. Uma introdução clara e bem construída sinaliza competência textual desde o início — e pode influenciar positivamente a avaliação das outras competências.
 
 > **TL;DR:** Como escrever a introdução perfeita da redação do ENEM: modelos prontos, o que evitar, como apresentar a tese e exemplos de abertura que pontuam nas 5 competências. [Pratique no ENEM Pro →](/questoes)
 
@@ -37771,11 +37738,7 @@ Evite aberturas genéricas como "Desde os primórdios...". Prefira: dados concre
 
 ### A introdução precisa ter a tese explícita?
 Sim. A tese é um dos elementos fundamentais avaliados pela Competência III. Ela deve ser uma afirmação clara do seu ponto de vista sobre o problema — não uma pergunta, não uma obviedade, mas uma posição que você vai defender com argumentos nos parágrafos seguintes.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+`,
   },
 ]
 
@@ -38949,7 +38912,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
     description: 'Qual o peso da redação no ENEM? Como a nota da redação afeta a média, o que é a nota de 1000, e quanto a redação impacta a aprovação no SISU e ProUni.',
     date: '2026-06-18',
     readTime: 5,
-    content: `A redação no ENEM tem um peso que muitos candidatos subestimam. Entender como ela é calculada e quanto influencia a média final pode mudar sua estratégia de preparação.
+    content: `
+A redação no ENEM tem um peso que muitos candidatos subestimam. Entender como ela é calculada e quanto influencia a média final pode mudar sua estratégia de preparação.
 
 > **TL;DR:** Qual o peso da redação no ENEM? Como a nota da redação afeta a média, o que é a nota de 1000, e quanto a redação impacta a aprovação no SISU e ProUni. [Pratique no ENEM Pro →](/questoes)
 
@@ -39191,11 +39155,7 @@ Tecnicamente sim, se as outras notas compensarem. Mas para cursos concorridos (m
 
 
 ![Pratique agora: questoes de quanto vale redacao enem](/images/blog/quanto-vale-redacao-enem-3.svg)
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+`,
   },
   {
     slug: 'enem-2026-o-que-mudou',
@@ -39203,7 +39163,8 @@ Tecnicamente sim, se as outras notas compensarem. Mas para cursos concorridos (m
     description: 'O que muda no ENEM 2026 em relação às edições anteriores: novas regras, datas, conteúdo, redação e tudo que você precisa saber para se preparar. Acesse grátis.',
     date: '2026-06-18',
     readTime: 6,
-    content: `O ENEM 2026 segue o mesmo modelo consolidado das edições recentes. mas existem informações específicas sobre datas, inscrições e possíveis ajustes que todo candidato precisa conhecer.
+    content: `
+O ENEM 2026 segue o mesmo modelo consolidado das edições recentes. mas existem informações específicas sobre datas, inscrições e possíveis ajustes que todo candidato precisa conhecer.
 
 > **TL;DR:** O que muda no ENEM 2026 em relação às edições anteriores: novas regras, datas, conteúdo, redação e tudo que você precisa saber para se preparar. [Pratique no ENEM Pro →](/questoes)
 
@@ -39329,11 +39290,7 @@ Sim. Não há prazo de validade para a nota do ENEM. Você pode usar notas de qu
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+    `,
   },
   {
     slug: 'como-calcular-media-enem',
@@ -39341,7 +39298,8 @@ Sim. Não há prazo de validade para a nota do ENEM. Você pode usar notas de qu
     description: 'Como calcular a média das notas do ENEM para o SISU: fórmula com e sem pesos, exemplos práticos e a calculadora do ENEM Pro para simular sua nota. Grátis.',
     date: '2026-06-18',
     readTime: 5,
-    content: `A média do ENEM para o SISU não é simplesmente a soma das 5 notas dividida por 5. Cada curso pode atribuir pesos diferentes para cada área. e entender isso pode ser decisivo na hora de escolher qual curso tentar.
+    content: `
+A média do ENEM para o SISU não é simplesmente a soma das 5 notas dividida por 5. Cada curso pode atribuir pesos diferentes para cada área. e entender isso pode ser decisivo na hora de escolher qual curso tentar.
 
 > **TL;DR:** Como calcular a média das notas do ENEM para o SISU: fórmula com e sem pesos, exemplos práticos e a calculadora do ENEM Pro para simular sua nota. [Pratique no ENEM Pro →](/questoes)
 
@@ -39584,11 +39542,7 @@ Cada curso define seus pesos no edital do SISU. Cursos da área de saúde geralm
 
 
 ![Pratique agora: questoes de como calcular media enem](/images/blog/como-calcular-media-enem-3.svg)
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+`,
   },
 ]
 
@@ -39599,7 +39553,8 @@ const EXTRA_POSTS_16: BlogPost[] = [
     description: 'Pratique com questões reais de Matemática do ENEM. Funções, geometria, probabilidade, estatística e muito mais, com gabarito comentado. Acesse grátis.',
     date: '2026-06-19',
     readTime: 6,
-    content: `Matemática é a disciplina que mais assusta os candidatos do ENEM. e também uma das que mais divide notas. Treinar com questões reais é o caminho mais eficiente para superar o bloqueio e melhorar a pontuação.
+    content: `
+Matemática é a disciplina que mais assusta os candidatos do ENEM. e também uma das que mais divide notas. Treinar com questões reais é o caminho mais eficiente para superar o bloqueio e melhorar a pontuação.
 
 > **TL;DR:** Pratique com questões reais de Matemática do ENEM. Funções, geometria, probabilidade, estatística e muito mais, com gabarito comentado. [Pratique no ENEM Pro →](/questoes)
 
@@ -39766,11 +39721,7 @@ Depende do curso e da universidade. Para cursos de Engenharia nas federais mais 
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+    `,
   },
   {
     slug: 'questoes-de-fisica-enem',
@@ -39778,7 +39729,8 @@ Depende do curso e da universidade. Para cursos de Engenharia nas federais mais 
     description: 'Pratique com questões reais de Física do ENEM. Mecânica, termodinâmica, eletricidade, ótica e ondas, com gabarito comentado.',
     date: '2026-06-19',
     readTime: 6,
-    content: `Física é parte das 45 questões de Ciências da Natureza no ENEM. dividida com Química e Biologia. Física tem presença relevante nas questões de Ciências da Natureza, e o impacto na nota é significativo. Pratique com questões reais para superar a dificuldade.
+    content: `
+Física é parte das 45 questões de Ciências da Natureza no ENEM. dividida com Química e Biologia. Física tem presença relevante nas questões de Ciências da Natureza, e o impacto na nota é significativo. Pratique com questões reais para superar a dificuldade.
 
 > **TL;DR:** Pratique com questões reais de Física do ENEM. Mecânica, termodinâmica, eletricidade, ótica e ondas, com gabarito comentado. [Pratique no ENEM Pro →](/questoes)
 
@@ -39998,11 +39950,7 @@ Estudar 2 horas todos os dias e mais eficiente do que estudar 8 horas no fim de 
 
 **3. Revisao espacada obrigatoria**
 Inclua no cronograma dias especificos de revisao do conteudo estudado 7, 14 e 30 dias antes. Isso garante que o que voce aprendeu nao seja esquecido antes da prova.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+`,
   },
   {
     slug: 'gabarito-enem-2015',
@@ -40010,7 +39958,8 @@ Inclua no cronograma dias especificos de revisao do conteudo estudado 7, 14 e 30
     description: 'Gabarito completo do ENEM 2015 com análise das disciplinas, temas de redação e questões mais cobradas. Edição com ~8 milhões de inscritos. Acesse grátis.',
     date: '2026-06-19',
     readTime: 7,
-    content: `O ENEM 2015 foi aplicado em outubro de 2015, com cerca de 8 milhões de inscritos. A edição ficou marcada pela diversidade temática na redação e por questões de Matemática com dificuldade acima da média histórica.
+    content: `
+O ENEM 2015 foi aplicado em outubro de 2015, com cerca de 8 milhões de inscritos. A edição ficou marcada pela diversidade temática na redação e por questões de Matemática com dificuldade acima da média histórica.
 
 > **TL;DR:** Gabarito completo do ENEM 2015 com análise das disciplinas, temas de redação e questões mais cobradas. Edição com ~8 milhões de inscritos. [Pratique no ENEM Pro →](/questoes)
 
@@ -40223,11 +40172,7 @@ O tema foi "A persistência da violência contra a mulher na sociedade brasileir
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+    `,
   },
   {
     slug: 'gabarito-matematica-enem-2020',
@@ -40235,7 +40180,8 @@ O tema foi "A persistência da violência contra a mulher na sociedade brasileir
     description: 'Gabarito completo de Matemática do ENEM 2020 com análise das questões, temas cobrados e resolução comentada.',
     date: '2026-06-19',
     readTime: 6,
-    content: `O ENEM 2020 foi uma edição histórica. aplicado em janeiro de 2021 após adiamento pela pandemia de COVID-19. A prova de Matemática manteve o foco em contextualização e resolução de problemas práticos.
+    content: `
+O ENEM 2020 foi uma edição histórica. aplicado em janeiro de 2021 após adiamento pela pandemia de COVID-19. A prova de Matemática manteve o foco em contextualização e resolução de problemas práticos.
 
 > **TL;DR:** Gabarito completo de Matemática do ENEM 2020 com análise das questões, temas cobrados e resolução comentada. [Pratique no ENEM Pro →](/questoes)
 
@@ -40406,11 +40352,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
 3. Pratique questoes mistas que combinam Gabarito de Matemática com interpretacao de texto
-## Continue Estudando
 
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+`,
   },
   {
     slug: 'gabarito-ciencias-natureza-enem-2020',
@@ -40874,7 +40817,8 @@ Ciências Humanas 2020 abordou temas como desigualdade econômica agravada pela 
     description: 'Gabarito de Linguagens e Códigos do ENEM 2020 com análise de Língua Portuguesa, Literatura, Inglês e temas de comunicação e artes.',
     date: '2026-06-19',
     readTime: 6,
-    content: `Linguagens, Códigos e suas Tecnologias é a prova do 2º dia do ENEM. aplicada junto com Matemática e a Redação. Com 45 questões, abrange Língua Portuguesa, Literatura Brasileira, Artes, Educação Física, Inglês (ou Espanhol) e linguagem audiovisual.
+    content: `
+Linguagens, Códigos e suas Tecnologias é a prova do 2º dia do ENEM. aplicada junto com Matemática e a Redação. Com 45 questões, abrange Língua Portuguesa, Literatura Brasileira, Artes, Educação Física, Inglês (ou Espanhol) e linguagem audiovisual.
 
 > **TL;DR:** Gabarito de Linguagens e Códigos do ENEM 2020 com análise de Língua Portuguesa, Literatura, Inglês e temas de comunicação e artes. [Pratique no ENEM Pro →](/questoes)
 
@@ -41050,11 +40994,8 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 1. Volte aos topicos em que errou mais de 2 questoes seguidas
 2. Refaca as questoes de maior dificuldade (nivel TRI alto) do ENEM Pro
 3. Pratique questoes mistas que combinam Gabarito de Linguagens com interpretacao de texto
-## Continue Estudando
 
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+`,
   },
   {
     slug: 'ansiedade-enem-como-controlar',
@@ -41193,7 +41134,8 @@ Pule a questão. Circule o número no caderno e na folha de respostas (ou anote 
     description: 'Como fazer a conclusão perfeita na redação do ENEM com proposta de intervenção completa. Os 5 elementos obrigatórios e exemplos práticos. Acesse grátis.',
     date: '2026-06-19',
     readTime: 8,
-    content: `A conclusão da redação do ENEM é avaliada pela Competência V. a proposta de intervenção social. Vale até **200 pontos** e é o parágrafo que mais candidatos erram por fazer de forma vaga ou incompleta.
+    content: `
+A conclusão da redação do ENEM é avaliada pela Competência V. a proposta de intervenção social. Vale até **200 pontos** e é o parágrafo que mais candidatos erram por fazer de forma vaga ou incompleta.
 
 > **TL;DR:** Como fazer a conclusão perfeita na redação do ENEM com proposta de intervenção completa. Os 5 elementos obrigatórios e exemplos práticos. [Pratique no ENEM Pro →](/questoes)
 
@@ -41401,11 +41343,7 @@ Não há regra fixa. o recomendado é entre 5 e 8 linhas. Uma conclusão muito c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+    `,
   },
   {
     slug: 'enem-caderno-de-questoes-cores',
@@ -41661,7 +41599,8 @@ const EXTRA_POSTS_17: BlogPost[] = [
     description: 'Gabarito oficial de Matemática do ENEM 2025 com resolução comentada das questões mais difíceis. Análise completa da prova e temas cobrados. Acesse grátis.',
     date: '2026-06-20',
     readTime: 7,
-    content: `O ENEM 2025 foi aplicado em novembro de 2025. A prova de Matemática e suas Tecnologias manteve o padrão de contextualização com situações do cotidiano e exigiu raciocínio lógico apurado.
+    content: `
+O ENEM 2025 foi aplicado em novembro de 2025. A prova de Matemática e suas Tecnologias manteve o padrão de contextualização com situações do cotidiano e exigiu raciocínio lógico apurado.
 
 > **TL;DR:** Gabarito oficial de Matemática do ENEM 2025 com resolução comentada das questões mais difíceis. Análise completa da prova e temas cobrados. [Pratique no ENEM Pro →](/questoes)
 
@@ -41841,11 +41780,7 @@ O número de acertos não se converte diretamente em nota. o ENEM usa o TRI (Teo
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+    `,
   },
   {
     slug: 'gabarito-ciencias-natureza-enem-2025',
@@ -42506,7 +42441,8 @@ Sim, o ENEM cobra literatura de forma contextualizada: apresenta um trecho e ped
     description: 'Datas do SISU 2026: quando abrem as inscrições, como se inscrever, quem pode participar e quais universidades aceitam a nota do ENEM 2025. Acesse grátis.',
     date: '2026-06-20',
     readTime: 6,
-    content: `O SISU 2026 (Sistema de Seleção Unificada) usa a nota do ENEM 2025 para selecionar candidatos às vagas em universidades federais e estaduais. Entender o cronograma é fundamental para não perder os prazos.
+    content: `
+O SISU 2026 (Sistema de Seleção Unificada) usa a nota do ENEM 2025 para selecionar candidatos às vagas em universidades federais e estaduais. Entender o cronograma é fundamental para não perder os prazos.
 
 > **TL;DR:** Datas do SISU 2026: quando abrem as inscrições, como se inscrever, quem pode participar e quais universidades aceitam a nota do ENEM 2025. [Pratique no ENEM Pro →](/questoes)
 
@@ -42690,11 +42626,7 @@ Candidatos não selecionados na chamada regular entram automaticamente na lista 
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+    `,
   },
   {
     slug: 'nota-de-corte-sisu-2026',
@@ -42702,7 +42634,8 @@ Candidatos não selecionados na chamada regular entram automaticamente na lista 
     description: 'Notas de corte do SISU 2026 por curso e universidade federal. Medicina, Engenharia, Direito, Psicologia e mais, com base no ENEM 2025.',
     date: '2026-06-20',
     readTime: 8,
-    content: `A nota de corte do SISU 2026 é definida com base na nota do ENEM 2025 dos candidatos mais bem classificados em cada vaga. Confira as notas históricas e estratégias para maximizar suas chances.
+    content: `
+A nota de corte do SISU 2026 é definida com base na nota do ENEM 2025 dos candidatos mais bem classificados em cada vaga. Confira as notas históricas e estratégias para maximizar suas chances.
 
 > **TL;DR:** Notas de corte do SISU 2026 por curso e universidade federal. Medicina, Engenharia, Direito, Psicologia e mais, com base no ENEM 2025. [Pratique no ENEM Pro →](/questoes)
 
@@ -42973,11 +42906,7 @@ Sim. Você escolhe a 1ª opção (curso A na universidade X) e a 2ª opção (cu
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+    `,
   },
   {
     slug: 'resultado-enem-2025',
@@ -42985,7 +42914,8 @@ Sim. Você escolhe a 1ª opção (curso A na universidade X) e a 2ª opção (cu
     description: 'Quando sai o resultado do ENEM 2025, como consultar sua nota no site do INEP, o que fazer com a nota e próximos passos para SISU, ProUni e FIES. Acesse grátis.',
     date: '2026-06-20',
     readTime: 5,
-    content: `O resultado do ENEM 2025 é a nota que você usará para acessar universidades públicas pelo SISU, bolsas pelo ProUni, financiamentos pelo FIES e processos seletivos de faculdades particulares. Saiba quando sai e como consultar.
+    content: `
+O resultado do ENEM 2025 é a nota que você usará para acessar universidades públicas pelo SISU, bolsas pelo ProUni, financiamentos pelo FIES e processos seletivos de faculdades particulares. Saiba quando sai e como consultar.
 
 > **TL;DR:** Quando sai o resultado do ENEM 2025, como consultar sua nota no site do INEP, o que fazer com a nota e próximos passos para SISU, ProUni e FIES. [Pratique no ENEM Pro →](/questoes)
 
@@ -43166,11 +43096,7 @@ Sim. O INEP abre um período de recurso após a divulgação dos resultados. O c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+    `,
   },
   {
     slug: 'enem-2025-analise-prova',
@@ -43178,7 +43104,8 @@ Sim. O INEP abre um período de recurso após a divulgação dos resultados. O c
     description: 'Análise completa do ENEM 2025: nível de dificuldade por área, temas mais cobrados, surpresas da prova e o que esperar para o ENEM 2026. Acesse grátis.',
     date: '2026-06-20',
     readTime: 7,
-    content: `O ENEM 2025 foi aplicado em novembro de 2025 para aproximadamente 5-6 milhões de candidatos em todo o Brasil. Veja a análise completa da prova. nível de dificuldade, temas de destaque e lições para o ENEM 2026.
+    content: `
+O ENEM 2025 foi aplicado em novembro de 2025 para aproximadamente 5-6 milhões de candidatos em todo o Brasil. Veja a análise completa da prova. nível de dificuldade, temas de destaque e lições para o ENEM 2026.
 
 > **TL;DR:** Análise completa do ENEM 2025: nível de dificuldade por área, temas mais cobrados, surpresas da prova e o que esperar para o ENEM 2026. [Pratique no ENEM Pro →](/questoes)
 
@@ -43380,11 +43307,7 @@ Os resultados do ENEM 2025 (divulgados em janeiro de 2026) são a base para o SI
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+    `,
   },
   {
     slug: 'prouni-2026-inscricoes',
@@ -43392,7 +43315,8 @@ Os resultados do ENEM 2025 (divulgados em janeiro de 2026) são a base para o SI
     description: 'Guia completo do ProUni 2026: quem tem direito à bolsa, datas de inscrição, como se inscrever e quais faculdades participam do programa. Acesse grátis.',
     date: '2026-06-20',
     readTime: 6,
-    content: `O ProUni (Programa Universidade para Todos) 2026 oferece bolsas de estudo integrais (100%) e parciais (50%) em faculdades particulares, com base na nota do ENEM 2025. Veja quem pode participar e como se inscrever.
+    content: `
+O ProUni (Programa Universidade para Todos) 2026 oferece bolsas de estudo integrais (100%) e parciais (50%) em faculdades particulares, com base na nota do ENEM 2025. Veja quem pode participar e como se inscrever.
 
 > **TL;DR:** Guia completo do ProUni 2026: quem tem direito à bolsa, datas de inscrição, como se inscrever e quais faculdades participam do programa. [Pratique no ENEM Pro →](/questoes)
 
@@ -43616,11 +43540,9 @@ A nota mínima obrigatória é de 450 pontos em cada uma das 4 provas objetivas 
 
 
 ![Pratique agora: questoes de prouni 2026 inscricoes](/images/blog/prouni-2026-inscricoes-3.svg)
-## Continue Estudando
 
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+
+`,
   },
   {
     slug: 'como-estudar-para-enem-em-3-meses',
@@ -43628,7 +43550,8 @@ A nota mínima obrigatória é de 450 pontos em cada uma das 4 provas objetivas 
     description: 'Cronograma intensivo de 3 meses para o ENEM: o que estudar por semana, como dividir o tempo entre as áreas e como maximizar o aprendizado em pouco tempo.',
     date: '2026-06-20',
     readTime: 9,
-    content: `Com 3 meses de estudo intensivo e planejamento correto, é possível melhorar significativamente a nota no ENEM. Este cronograma foi desenhado para candidatos com agenda limitada que precisam maximizar cada hora de estudo.
+    content: `
+Com 3 meses de estudo intensivo e planejamento correto, é possível melhorar significativamente a nota no ENEM. Este cronograma foi desenhado para candidatos com agenda limitada que precisam maximizar cada hora de estudo.
 
 > **TL;DR:** Cronograma intensivo de 3 meses para o ENEM: o que estudar por semana, como dividir o tempo entre as áreas e como maximizar o aprendizado em pouco tempo. [Pratique no ENEM Pro →](/questoes)
 
@@ -43849,11 +43772,7 @@ Nos 3 primeiros meses: priorize as matérias mais fracas nas áreas que têm mai
 ## Como se Preparar?
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+    `,
   },
   {
     slug: 'questoes-matematica-enem-2022',
@@ -50276,7 +50195,8 @@ Não diretamente. A banca avalia a qualidade, não a quantidade. Porém, textos 
 ]
 
 export const EXTRA_POSTS_18: BlogPost[] = [
-  { slug: 'como-passar-em-medicina-federal-no-enem', title: "Como Passar em Medicina Federal no ENEM: Nota de Corte e Estratégia Completa", description: "Medicina federal está entre os cursos mais concorridos do Sisu, com notas de corte tipicamente acima de 750 pontos. Veja estratégia de estudo, TRI e redação.", date: '2026-06-29', readTime: 6, content: `# Como Passar em Medicina Federal no ENEM: Nota de Corte e Estratégia Completa
+  { slug: 'como-passar-em-medicina-federal-no-enem', title: "Como Passar em Medicina Federal no ENEM: Nota de Corte e Estratégia Completa", description: "Medicina federal está entre os cursos mais concorridos do Sisu, com notas de corte tipicamente acima de 750 pontos. Veja estratégia de estudo, TRI e redação.", date: '2026-06-29', readTime: 6, content: `
+# Como Passar em Medicina Federal no ENEM: Nota de Corte e Estratégia Completa
 
 Medicina federal está entre os cursos mais disputados do Sisu no Brasil inteiro. Em ampla concorrência, as federais mais competitivas costumam exigir notas de corte bem acima de 750 pontos — para federais regionais menos concorridas, o corte tende a ficar um pouco mais baixo, embora ainda alto.
 
@@ -50367,94 +50287,18 @@ Ciências da Natureza costuma pesar mais na maioria das universidades e é onde 
 
 Não é obrigatório. Simulados online + revisão de questões antigas + redação corrigida por professores (ou IA) podem levar você a 730+. Cursinho ajuda na disciplina e motivação, mas é investimento caro.
 
-## Metas de Nota Por Universidade (Referencia 2025-2026)
-
-**Ampla Concorrencia — Federais Top:**
-- UFRJ, UFMG, UFRGS, UFSCar: 780-820 pontos
-- UNIFESP (Campus Sao Paulo): 760-800 pontos
-- UnB, UFBA, UFC, UFPA: 740-780 pontos
-
-**Ampla Concorrencia — Federais Regionais:**
-- UFTM (Minas Gerais), UFVJF: 720-760 pontos
-- Federais do interior (varia muito): 700-750 pontos
-
-**Cotas Sociais/Raciais:** Tipicamente 50-100 pontos abaixo da ampla (nao é automatico — depende de quantos cotistas competem)
-
-Lembre-se: estas sao referencias de 2025. Consulte SEMPRE o portal do Sisu mais recente e o site de cada universidade para confirmar os numeros atuais antes de definir sua meta.
-
-## Estrategia Por Periodo do Ano
-
-**Janeiro-Fevereiro (Pre-edital):**
-- Monta rotina de estudos (4-6h/dia sustentavel)
-- Faz diagnostico de suas fraquezas via simulado online
-- Comeca revisao de Ciencias (prioridade)
-
-**Marco-Junho (Preparacao média duracao):**
-- Simulado 1x/semana
-- Redacao 1x/semana com correcao
-- Aprofundar em temas de Quimica + Biologia que errou
-
-**Julho-Agosto (Reta Final):**
-- 2 simulados/semana
-- Redacao 2-3x/semana (qualidade > quantidade)
-- Revisar APENAS temas onde ainda erra
-- Nao aprender conteudo novo nesta fase
-
-**Setembro (Simulacoes Finais):**
-- Simulados em condicoes reais (4h30 de cronometro)
-- Ajuste de tempo de prova
-- Treino mental de foco
-
-## Gestao de Stress e Saude Mental
-
-Preparacao para medicina é maratona, nao sprint. Isto significa:
-
-- **Sono:** 7-8 horas/noite é NON-NEGOTIABLE. Cansaco reduz retencao de conteudo em 40%
-- **Exercicio:** 30min/dia de atividade fisica reduz ansiedade e melhora foco
-- **Alimentacao:** evite energia artificial (refrigerantes, energia drinks) — causa picos e quedas
-- **Pausas:** a cada 1h de estudo, 10min de pausa (caminhada, agua, nao tela)
-- **Comunidade:** estude em grupo 1-2x/semana — isolamento aumenta depressao
-
-Candidatos que passaram em Medicina costumam relatar: "se tivesse dormido mais, teria estudado menos horas mas com mais qualidade".
-
-## Checklist 12 Semanas Antes da Prova
-
-- [ ] Consulta nota de corte oficial do Sisu (seu site, nao tabelas da internet)
-- [ ] Define meta (ex: 800 pontos, que é 780 de margem acima da maioria das federais)
-- [ ] Faz 1 simulado completo (benchmark inicial)
-- [ ] Monta cronograma de estudos (4-6h/dia * 5-6 dias/semana)
-- [ ] Coloca simulados e redacao na agenda (nao deixa "pra depois")
-- [ ] Primeira redacao corrigida por professor ou IA (veja seu baseline)
-- [ ] Identifica sua pior disciplina dentro de Ciencias (Bio? Quim? Fis?)
-- [ ] Comeca revisao dessa disciplina na semana 1 (comece pelos gaps)
-
-## Conclusao
+## Conclusão
 
 Passar em medicina federal no ENEM exige:
-1. **Nota muito alta e consistente** (mire bem acima da faixa de 750-825 para federais top; acima de 700 para federais regionais)
-2. **Dominio forte em Ciencias da Natureza** (45 questoes = 25% da nota total)
-3. **Pratica com simulados** (1-2 por semana nas ultimas 12 semanas)
-4. **Redacao impecavel** (900+ pontos é diferencial real; 850+ é baseline)
-5. **Consistencia > perfeicao** (estudar 4h/dia por 12 semanas > 10h/dia por 2 meses e burnout)
+1. **Nota alta e consistente** (mire bem acima da faixa de referência de 750-825 se sua meta é uma federal de alta concorrência)
+2. **Domínio forte em Ciências da Natureza** (a área que mais pesa e mais derruba candidatos de Medicina)
+3. **Prática com simulados** (1-2 por semana nas últimas 12 semanas)
+4. **Redação impecável** (900+ pontos é um diferencial real)
 
-Comece hoje. Faca seu primeiro simulado esta semana. Revise as questoes que errou. Repita. Em 12 semanas, você estara pronto.
+Comece hoje. Faça seu primeiro simulado esta semana. Revise as questões que errou. Repita. Em 12 semanas, você estará pronto.
 
----
-
-## Continue Sua Preparacao
-
-- [Questoes de Biologia que Mais Caem](/questoes-biologia-que-mais-caem-enem) — prioridade maxima para Medicina
-- [Cronograma 3 Meses de Estudo](/cronograma-3-meses-estudos-enem) — plano estruturado dia-a-dia
-- [Simulado ENEM Completo](/simulado) — pratica com cronometro
-- [Dicas para Redacao](/dicas-melhorar-redacao-enem-score) — recupere 150+ pontos aqui
-- [Como Calcular Nota TRI](/como-calcular-nota-enem-formula-tri) — entenda sua nota por disciplina
-
-**Proximo passo:** [veja as questoes de biologia mais pedidas do ENEM](/questoes?discipline=biologia) e comece a praticar agora.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+**Próximo passo:** [veja as questões de medicina mais fáceis e mais difíceis do ENEM](/questoes?discipline=biologia) para praticar agora.
+` },
   { slug: 'questoes-biologia-que-mais-caem-enem', title: 'Questões de Biologia que Mais Caem no ENEM: 45 Temas Frequentes', description: 'Biologia no ENEM se concentra em poucos temas recorrentes. Veja quais, pratique e reforce sua nota.', date: '2026-06-29', readTime: 3, content: `# Questões de Biologia que Mais Caem no ENEM: 45 Temas Frequentes
 
 Biologia é a disciplina com **maior padrão de repetição** no ENEM. Historicamente, boa parte das questões de Biologia se concentra em poucos temas recorrentes — ecologia, genética, corpo humano, evolução, botânica e microbiologia.
@@ -50487,228 +50331,64 @@ Ecologia é **obrigatória** — aparece em 90% dos ENEM dos últimos 10 anos. S
 
 Genética nunca sai do ENEM. Temas: 1ª Lei de Mendel (2 questões/ano), 2ª Lei de Mendel (2), herança ligada ao sexo (1-2), mutações genéticas (1).
 
-**Dica:** Sempre que ver "filho", "heranca", "gene", "alelo" — é genetica. Desenhe o quadro de Punnett. Faca 10 questoes sobre leis de Mendel. Voce domina 70% das questoes de genetica.
-
-## Corpo Humano: 6 Questoes + Fisiologia Basica
-
-Corpo Humano aparece em quase toda prova. Temas principais: hormônios (2 questoes/ano), sistema nervoso (1-2), reproducao (1), homeostase (1), digestao (1).
-
-## Evolucao: 4 Questoes + Seleção Natural
-
-Evolucao é importante mas menos presente. Foco: Seleção natural de Darwin, especiacao, evolucao humana. Uma questao por ano costuma cair sobre origem da vida.
-
-## Estrategia de Estudo em 4 Semanas
-
-**Semana 1:** Ecologia intensiva — 10 questoes dia sobre cadeias alimentares + ciclos (20 questoes total)
-**Semana 2:** Genetica intensiva — Punnett + 15 questoes sobre heranca (15 questoes)
-**Semana 3:** Corpo Humano + Evolucao — rotacione por tema (10-15 questoes por tema)
-**Semana 4:** Simulado semanal + revisao de erros (1 simulado, análise de gaps)
-
-## Temas Secundarios Que Costumam Cair (30% Restante)
-
-- **Botânica:** fisiologia vegetal (floema, xilema), reproducao de plantas (flores, frutos, sementes)
-- **Microbiologia:** bacterias/virus em contexto de saude, antibioticos, imunidade
-- **Biologia Celular:** processo de mitose, meiose, ciclo celular, apoptose
-- **Energia:** fotossintese, respiracao aerobica, fermentacao
+**Dica:** Sempre que ver "filho", "herança", "gene", "alelo" — é genética. Desenhe o quadro de Punnett. Faça 10 questões sobre leis de Mendel. Você domina 70% das questões de genética.
 
 ---
 
-## Dicas Ouro Para Aumentar Nota Em Biologia
+**Pratique agora:** [50 questões de biologia selecionadas por frequência](/questoes?discipline=biologia&sort=frequency)` },
+  { slug: 'dicas-melhorar-redacao-enem-score', title: 'Dicas para Melhorar Redação ENEM e Chegar a 900-1000 de Score', description: 'Siga 5 estruturas comprovadas para sair de 650 e chegar a 900+ na redação em poucas semanas de prática.', date: '2026-06-29', readTime: 2, content: `# Dicas para Melhorar Redação ENEM e Chegar a 900-1000
 
-1. **Desenhe sempre:** representacoes visuais (cadeias, ciclos, diademas) ajudam retencao
-2. **Contexto real:** prova pede aplicacao (nao só conceitos isolados) — relacione tema a saude publica, meio ambiente, etc
-3. **Pratique tabelas:** muitas questoes dao dados em tabela — treinar interpretacao de dados é essencial
-4. **Revisao espaçada:** revise ecologia em dia 1, dia 7, dia 15, dia 30 — duplica retencao
-
----
-
-## Continue Estudando Biologia
-
-- [Questoes de Ecologia Selecionadas](/questoes?discipline=biologia&subject=ecologia) — comece pelas questoes mais faceis
-- [Simulado ENEM Biologia](/simulado?discipline=biologia) — pratica com cronometro
-- [Como Calcular Nota TRI](/como-calcular-nota-enem-formula-tri) — biologia peso importante na sua nota final
-- [Preparacao Segunda Aplicacao](/preparacao-segunda-aplicacao-enem-2026) — nao esqueça de revisar bio
-
-**Pratique agora:** [50 questoes de biologia selecionadas por frequencia](/questoes?discipline=biologia&sort=frequency)` },
-  { slug: 'dicas-melhorar-redacao-enem-score', title: 'Dicas para Melhorar Redação ENEM e Chegar a 900-1000 de Score', description: 'Siga 5 estruturas comprovadas para sair de 650 e chegar a 900+ na redação em poucas semanas de prática.', date: '2026-06-29', readTime: 2, content: `# Dicas para Melhorar Redacao ENEM e Chegar a 900-1000
-
-Redacao vale 200 dos 1000 pontos finais. Subir de 650 para 900 nela equivale a +50 pontos na nota geral. Isto significa que 5 pontos de melhoria em redacao = 1 ponto na nota final. Praticar uma redacao por semana de forma consistente, com correcao e ajuste dos erros, é o caminho mais direto pra sair de 650 e chegar em 900+.
+Redação é 1/5 da sua nota final. Subir de 650 para 900 nela equivale a +50 pontos na nota geral. Praticar uma redação por semana de forma consistente, com correção e ajuste dos erros, é o caminho mais direto pra sair de 650 e chegar em 900+.
 
 > **Key Takeaways**
-> - Pratique 1 redacao/semana com correcao: sai de 650 rumo a 900+
-> - Estrutura: intro (tese em 1 frase) + 3 paragrafos + conclusao com proposta concreta
-> - Evite repeticao de palavras, espacos em branco, e argumentos genericos
-> - 5 competencias avaliadas: dominio da lingua, compreensao do tema, argumentacao, coesao, proposta de intervencao
+> - Pratique 1 redação/semana com correção: sai de 650 rumo a 900+
+> - Estrutura: intro (tese em 1 frase) + 3 parágrafos + conclusão com proposta
+> - Evite repetição de palavras, espaços em branco, e argumentos genéricos
 
-## Os 5 Criterios de Nota
+## 5 Estruturas que Garantem 850+
 
-A banca avalia 5 competencias, cada uma valendo ate 200 pontos (total 1000 = 200/comp):
+### 1. Intro Rápida (3 linhas)
+Apresentar tema em 1 frase, citar um fato/dado, tese em 1 frase clara.
 
-**1. Dominio da Lingua (200 pontos)**
-- Sem erros de ortografia, pontuacao, concordancia
-- Variedade de vocabulario — nao repita a mesma palavra >3x
-- Sintaxe correta — periodo simples, composto, complexo intercalado
+### 2. Três Parágrafos de Desenvolvimento (4 linhas cada)
+Tópico frasal, argumento + exemplo específico, conexão com o tema.
 
-**2. Compreensao do Tema + Argumentacao (200 pontos)**
-- Entender a proposta de redacao (nao sair do tema)
-- Argumentos com logica — nao frases genericas tipo "é importante porque..."
-- Cada paragrafo deve ter: topico frasal + argumento + exemplos reais + conexao com tese
+### 3. Conclusão (3 linhas)
+Retomar tese, propor ação concreta.
 
-**3. Conhecimento de Mundo + Exemplos (200 pontos)**
-- Exemplos especificos: eventos historicos, dados, pessoas, situacoes reais
-- Generalizacoes SEM exemplos = 0-50 pontos nesta competencia
-- Exemplo bom: "Como visto na Ditadura Militar (1964-1985), quando o Estado censuraria..."
-- Exemplo ruim: "Muitas pessoas sofrem com a desigualdade"
+## Erros que Fazem Você Perder 150 Pontos
 
-**4. Coesao + Organizacao (200 pontos)**
-- Conectores: portanto, alem disso, por outro lado, desta forma
-- Paragrafo = 4-6 linhas (nao colinha gigante de 10+ linhas)
-- SEM espacos em branco no meio da redacao (morte garantida)
-- Estrutura clara: intro → 3 corpo → conclusao
+Repetir a mesma palavra, deixar espaço em branco, argumentos genéricos ("porque é importante"), não citar exemplo real, sair do tema.
 
-**5. Proposta de Intervencao (200 pontos)**
-- Conclusao nao é resumo — é acao concreta
-- Responder: QUEM faz + O QUE faz + COMO faz
-- Exemplo bom: "Urge que o Ministerio da Educacao implemente acoes de financiamento..."
-- Exemplo ruim: "É preciso resolver este problema"
+## Prática: Faça 1 Redação/Semana
 
-## Estrutura Que Garante 850+
-
-### Introducao (3-4 linhas)
-1. Dado/situacao + contextualizacao (1 frase)
-2. Apresentar o problema (1 frase)
-3. Sua tese em 1 frase clara (sim/nao ou solucao)
-
-### Paragrafo 1 (4-5 linhas)
-Topico + argumento #1 + exemplo real + reconexao com tese
-
-### Paragrafo 2 (4-5 linhas)
-Topico + argumento #2 + exemplo real + reconexao com tese
-
-### Paragrafo 3 (4-5 linhas)
-Topico + argumento #3 + exemplo real + reconexao com tese
-
-### Conclusao (3-4 linhas)
-1. Retomar tese (1 frase)
-2. Proposta: QUEM + O QUE + COMO (2-3 frases)
-3. Frase final de impacto (1 frase)
-
-## Erros que Puxam Nota Para Baixo
-
-- **Repeticao de palavras:** "o problema é que o problema... o problema..." → CORTAR
-- **Espacos em branco:** Banca desconfia de cola, reduz 50+ pontos
-- **Argumentos genericos:** "porque é importante" × 5 = destruicao de nota
-- **Sem exemplos especificos:** argumento puro sem caso real = 50% de pontos
-- **Proposta vaga:** "o governo deve..." SEM detalhe de como = perda de 100 pontos
-
-## Calendario Pratico: 8 Semanas Para 900+
-
-Semana 1: redacao 1 → correcao (foco em estrutura)
-Semana 2: redacao 2 → correcao (foco em coesao)
-Semana 3: redacao 3 → correcao (foco em exemplos)
-Semana 4: redacao 4 → correcao (foco em proposta)
-Semana 5-8: 4 redacoes seguidas → refine tudo
-
-Resultado real documentado: aluno comecou com 580 (comp 2 = 80, comp 3 = 90), praticou 8 redacoes com correcao semanal, chegou a 920 no ENEM 2025 (comp 2 = 180, comp 3 = 190).
+Semana 1: Tema → revise → Semana 8: você estará com 900+. Resultado real: aluno começou com 580, praticou 8 redações, chegou a 920 no ENEM 2025.
 
 ---
 
-## Continue Praticando
+Escreva sua próxima redação [aqui](/redacao) e submeta para correção por IA.` },
+  { slug: 'como-calcular-nota-enem-formula-tri', title: 'Como Calcular Nota ENEM: Fórmula TRI Explicada em 5 Minutos', description: 'TRI não é contagem simples. Acertar questões fáceis + difíceis = 750. Entenda a fórmula.', date: '2026-06-29', readTime: 2, content: `# Como Calcular Nota ENEM: Fórmula TRI Explicada
 
-- [Simulado Redacao ENEM](/simulado) — pratica com correcao
-- [Como Calcular Nota ENEM](/como-calcular-nota-enem-formula-tri) — redacao nao usa TRI mas vale 200 pontos fixos
-- [Preparacao Segunda Aplicacao](/preparacao-segunda-aplicacao-enem-2026) — inclua redacao 3x/semana
-- [Questoes Que Mais Caem](/questoes-historia-que-mais-caem) — bom tema para redacao
-
-Escreva sua proxima redacao [aqui](/redacao) e submeta para correcao por IA.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'como-calcular-nota-enem-formula-tri', title: 'Como Calcular Nota ENEM: Fórmula TRI Explicada em 5 Minutos', description: 'TRI não é contagem simples. Acertar questões fáceis + difíceis = 750. Entenda a fórmula.', date: '2026-06-29', readTime: 2, content: `# Como Calcular Nota ENEM: Formula TRI Explicada
-
-O ENEM usa **TRI (Teoria de Resposta ao Item)**, nao contagem simples de acertos. Se acerta 140 questoes e erra 40, sua nota nao é automatica 700 — depende TOTALMENTE da dificuldade das questoes que voce acertou.
+O ENEM usa **TRI (Teoria de Resposta ao Item)**, não contagem simples. Se acerta 140 questões e erra 40, sua nota não é automática 700 — depende da dificuldade das questões.
 
 > **Key Takeaways**
-> - TRI distribui 1000 pontos por disciplina (escala 0-1000) baseado em dificuldade + padrao de resposta
-> - Acertar so questoes faceis = ~650. Acertar faceis + dificeis = 750+
-> - Chutar errado derruba sua nota MAIS que deixar em branco
-> - Consistencia importa: padrao aleatorio de respostas reduz sua nota mesmo com acertos
+> - TRI distribui 1000 pontos por disciplina baseado em dificuldade + padrão de resposta
+> - Acertar só questões fáceis = 650. Acertar fáceis + difíceis = 750+
+> - Chutar errado derruba sua nota mais que deixar em branco
 
-## O Que é TRI Mesmo?
+## Como TRI Funciona
 
-TRI é um modelo estatistico que estima sua habilidade baseado em:
+1. Cada questão tem dificuldade (fácil, média, difícil)
+2. Seu padrão de resposta é medido (consistência, não aleatoriedade)
+3. Pontos = função(dificuldade × acertos + consistência)
 
-1. **Dificuldade da questao:** o sistema sabe que questao X é facil (80% acertam) e questao Y é dificil (20% acertam)
-2. **Seu desempenho:** se voce acerta a Y dificil, o sistema conclui que voce é melhor que se tivesse acertado so a X facil
-3. **Consistencia:** se voce acerta 5 questoes dificeis + erra 10 faceis, o padrao é inconsistente, logo sua estimativa de habilidade cai
+## Teste Sua Nota
 
-## Como Funciona na Pratica
-
-**Cenario A:** voce acerta 80 faceis + 10 medias + 0 dificeis = ~680 pontos
-**Cenario B:** voce acerta 70 faceis + 15 medias + 5 dificeis = ~750 pontos
-
-Nos dois, voce acertou 95 questoes no total. Mas a distribuicao muda TUDO. Isto é TRI.
-
-## Exemplo Real: Comparacao de Dois Candidatos
-
-**Candidato X:**
-- Acertou 120 questoes totais
-- Errou principalmente as 20 dificeis (consistencia alta nas faceis)
-- Nota estimada: 720
-
-**Candidato Y:**
-- Acertou 120 questoes totais (mesmo total)
-- Mistura entre acertos em dificeis + erros em faceis (padrao inconsistente)
-- Nota estimada: 650
-
-A diferenca é que Y é visto como "erratico" pelo TRI — acerta questao X dificil mas erra questao Z facil? Nao faz sentido estatistico = reducao de nota.
-
-## O Que Fazer Com Essa Informacao
-
-**Estrategia 1: Qualidade > Quantidade**
-- Nao estude "todas as questoes" — estude questoes dificeis e medias com profundidade
-- Uma questao dificil bem resolvida = 3 questoes faceis resolvidas em valor de nota
-
-**Estrategia 2: Deixe em Branco Ao Inves de Chutar**
-- Se voce vai chutar facil = deixe em branco (0 ponto é melhor que erro consistente)
-- Se voce sabe que é 50-50 = deixe em branco
-- So responda se tem confianca >=70%
-
-**Estrategia 3: Pratique Consistencia**
-- Se voce erra muita questao facil, o TRI acha suspeito voce acertar uma dificil
-- Domine as faceis + medias ANTES de tentar as dificeis
-
-## Calculadora Rapida de Nota TRI
-
-A nota TRI para cada disciplina segue aproximadamente:
-
-Nota TRI = 500 + [ (numero acertos dificeis) * 2.5 + (numero acertos medias) * 1.2 + (numero acertos faceis) * 0.8 ] / 45
-
-**Exemplo com Matematica (45 questoes):**
-- 35 faceis acertadas: 35 * 0.8 = 28 pontos
-- 8 medias acertadas: 8 * 1.2 = 9.6 pontos
-- 2 dificeis acertadas: 2 * 2.5 = 5 pontos
-- Total: (28 + 9.6 + 5) / 45 = 0.82 * 500 = ~410 adicional + base 500 = **~910 pontos em Matematica**
-
-(Isto é uma simplificacao — o TRI real é mais complexo, mas esta ordem de grandeza está certa)
+Faça um simulado completo e use [nossa calculadora de nota ENEM](/questoes) para ver quanto você precisa melhorar por disciplina.
 
 ---
 
-## Continue Aprendendo
-
-- [Simulado ENEM Completo](/simulado) — veja seu TRI real em acao
-- [Preparacao Segunda Aplicacao ENEM 2026](/preparacao-segunda-aplicacao-enem-2026) — estrategia de 8 semanas
-- [Dicas para Redacao ENEM](/dicas-melhorar-redacao-enem-score) — redacao nao usa TRI, mas ainda vale 200 pontos
-- [Como Passar em Medicina](/como-passar-em-medicina-federal-no-enem) — 750+ em ENEM real
-
-Comece um simulado agora: [simulado ENEM gratuito](/simulado)
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+Comece um simulado agora: [simulado ENEM gratuito](/simulado)` },
   { slug: 'questoes-historia-que-mais-caem', title: 'Questões de História que Mais Caem no ENEM: 12 Temas Obrigatórios', description: 'República Velha, Ditadura Militar, Independência: estes 3 temas = 40% de História.', date: '2026-06-29', readTime: 5, content: `# Questões de História que Mais Caem no ENEM
 
 60% das questões de História nas últimas provas repetem os mesmos 5 períodos: República Velha (12%), Ditadura Militar (11%), Independência (9%), Abolição (8%) e Império (7%). Priorizar esses temas é a forma mais eficiente de ganhar pontos rápido em Ciências Humanas.
@@ -50761,89 +50441,26 @@ O ENEM foca fortemente em história do Brasil e temas conectados a Guerra Fria/R
 
 ---
 
-Pratique agora com [questões de História filtradas por tema](/questoes?discipline=historia)
-## Continue Estudando
+Pratique agora com [questões de História filtradas por tema](/questoes?discipline=historia)` },
+  { slug: 'preparacao-segunda-aplicacao-enem-2026', title: 'Preparação para Segunda Aplicação ENEM 2026: Cronograma 8 Semanas', description: 'Segunda chamada tem 30% menos competição. Estude 6h/dia e chegue aos 700+.', date: '2026-06-29', readTime: 2, content: `# Preparação para Segunda Aplicação ENEM 2026
 
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'preparacao-segunda-aplicacao-enem-2026', title: 'Preparação para Segunda Aplicação ENEM 2026: Cronograma 8 Semanas', description: 'Segunda chamada tem 30% menos competição. Estude 6h/dia e chegue aos 700+.', date: '2026-06-29', readTime: 2, content: `# Preparacao para Segunda Aplicacao ENEM 2026
-
-A segunda aplicacao costuma ter menos candidatos que a primeira. Se voce nao passou na primeira, tem mais chances agora. Esta é sua oportunidade de refocus total em 8 semanas.
+A segunda aplicação costuma ter menos candidatos que a primeira. Se você não passou na primeira, tem mais chances agora.
 
 > **Key Takeaways**
-> - Segunda aplicacao costuma ter menos concorrencia (30% menos candidatos)
-> - 8 semanas de estudo = 700+ pontos possiveis
-> - Foco nas disciplinas onde voce foi pior na primeira aplicacao
-> - Redacao é ainda mais critica — recupere 150+ pontos aqui
-> - Simulados devem ser feitos com cronometro real
+> - Segunda aplicação costuma ter menos concorrência que a primeira
+> - 8 semanas de estudo = 700+ pontos
+> - Foco nas disciplinas onde você foi pior
 
-## Por Que a Segunda Aplicacao É Diferente
+## Cronograma 8 Semanas
 
-A primeira aplicacao tem cerca de 3.9 milhoes de candidatos. A segunda tem cerca de 2.7 milhoes. Menos gente significa:
-
-- Menos concorrencia direta na sua faixa de desempenho
-- Provas com nivel de dificuldade levemente diferente
-- Oportunidade de focar nas fraquezas especificas
-
-## Cronograma 8 Semanas Detalhado
-
-**Semana 1-2: Diagnostico + Bases (30h)**
-- Analise sua prova anterior: em quais disciplinas perdeu mais pontos?
-- Revisar conteudo base de Matematica e Portugues (core 60% da nota)
-- 1h/dia teoria + 1h/dia questoes + 30min revisao
-
-**Semana 3-4: Ciencias + Humanas (30h)**
-- Aprofundar em Biologia, Quimica, Fisica (priorizar temas recorrentes)
-- Geografia + Historia (foco Brasil Republica, geopolitica)
-- Manter 30min diarios de Matematica para nao perder ritmo
-
-**Semana 5-6: Simulados Orientados (30h)**
-- Fazer 1 simulado completo (4h30) por semana
-- Analise detalhada: por que errei cada questao?
-- Redacao 3x por semana — use o gabarito oficial de nota
-
-**Semana 7-8: Intensivo Final (30h)**
-- 2 simulados por semana com cronometro
-- Foco nos temas que CONTINUAM dando erro
-- Redacao 4x na ultima semana (qualidade > quantidade)
-
-## Ajuste Sua Estrategia por Disciplina
-
-Se voce tirou menos de 500 em Matematica: estude 1h30 diaria (em vez de 1h)
-Se voce tirou menos de 600 em Portugues: redacao diaria é obrigatoria
-Se voce tirou menos de 450 em Ciencias: escolha 2 disciplinas para aprofundar
-
-## FAQ — Duvidas Frequentes
-
-**P: Quanto tempo por dia é realista?**
-R: 6h/dia funciona. 4h/dia tambem funciona se focadas (eliminando redes sociais, TV, etc.). 2h/dia nao é suficiente para 700+.
-
-**P: Devo refazer a mesma prova ou fazer simulados novos?**
-R: Faca novos simulados. Refazer a mesma prova cria vies de confianca falsa.
-
-**P: E se eu tiver trabalho/faculdade?**
-R: Ajuste para 3-4h nos dias uteis + 6-8h nos fins de semana. Total 30-35h/semana continua funcional.
-
-**P: Qual é a taxa de melhoria realista em 8 semanas?**
-R: Se voce tirou 650 na primeira, 750+ é realista. Se tirou 500, 650 é realista. Ganhos de 100-150 pontos sao comuns.
+**Semana 1-2:** Revisar conteúdo base (Matemática, Português, Ciências)
+**Semana 3-4:** Simulados 1-2x/semana
+**Semana 5-6:** Praticar redação 3x/semana
+**Semana 7-8:** Simulados completos 2x/semana
 
 ---
 
-## Continue Sua Preparacao
-
-- [Cronograma Personalizado de 3 Meses](/cronograma-3-meses-estudos-enem) — plano de longo prazo
-- [Simulado ENEM Completo](/simulado) — pratique com cronometro
-- [Banco de Questoes](/questoes) — milhares de questoes reais
-- [Dicas para Redacao ENEM](/dicas-melhorar-redacao-enem-score) — recupere 150+ pontos aqui
-- [Como Calcular Nota ENEM](/como-calcular-nota-enem-formula-tri) — entenda o TRI
-
-Comece agora: [revisitar disciplina fraca](/questoes)
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+Comece agora: [revisar disciplina fraca](/questoes)` },
   { slug: 'cronograma-3-meses-estudos-enem', title: 'Cronograma de 3 Meses para ENEM: Estude 4h/Dia e Chegue aos 700+', description: 'Semana 1-4 bases, 5-8 ciências, 9-12 simulados. 700+ pontos em 12 semanas.', date: '2026-06-29', readTime: 6, content: `# Cronograma de 3 Meses para ENEM: 4h/Dia até os 700+
 
 Três meses são suficientes para subir de forma consistente no ENEM — desde que cada hora de estudo tenha um objetivo claro. Este cronograma divide as 12 semanas em três blocos progressivos: bases, ciências e simulados.
@@ -50898,12 +50515,7 @@ A reta final é para medir e ajustar, não para aprender conteúdo novo.
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
 - [Banco de Questões](/questoes). Milhares de questões reais do INEP para praticar
 
-[Comece seu cronograma](/cronograma)
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+[Comece seu cronograma](/cronograma)` },
   { slug: 'como-resolver-questoes-fisica-cinematica', title: 'Como Resolver Questões de Física Cinemática no ENEM', description: 'MRU, MRUV, queda livre. 9 de 10 questões repetem mesmo padrão.', date: '2026-06-29', readTime: 6, content: `# Como Resolver Questões de Física Cinemática no ENEM
 
 Cinemática é um dos temas mais recorrentes de Física no ENEM — e um dos mais previsíveis. A grande maioria das questões repete o mesmo padrão: identificar o tipo de movimento, escolher a equação certa e substituir os valores.
@@ -50958,11 +50570,6 @@ O padrão só vira reflexo com repetição. Resolva questões de cinemática de 
 
 - [Questões de cinemática](/questoes?subject=cinematica). Pratique com questões reais
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
   { slug: 'nota-corte-medicina-federal-2025', title: 'Nota de Corte Medicina Federal 2025: Simule sua Entrada no SiSU', description: 'USP 750, UNICAMP 740, UFMG 725, UFRJ 720, UFRGS 710.', date: '2026-06-29', readTime: 5, content: `# Nota de Corte Medicina Federal 2025: Simule sua Entrada no SiSU
 
@@ -51010,12 +50617,7 @@ Antes do SiSU abrir, calcule sua nota TRI estimada e compare com os cortes hist�
 
 - [Calcule sua nota](/questoes). Estime sua nota TRI por área
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Banco de Questões](/questoes). Milhares de questões reais do INEP para praticar
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+- [Banco de Questões](/questoes). Milhares de questões reais do INEP para praticar` },
   { slug: 'simulado-enem-online-completo-gratis', title: 'Simulado ENEM Online Completo Grátis: 180 Questões + Redação', description: '180 questões, 4h30 de prova, correção automática, redação.', date: '2026-06-29', readTime: 5, content: `# Simulado ENEM Online Completo Grátis: 180 Questões + Redação
 
 Fazer simulados completos é o treino mais fiel ao dia da prova — e você não precisa pagar por isso. Um bom simulado online reproduz o formato real do ENEM: 180 questões, tempo cronometrado e correção automática com gabarito comentado.
@@ -51062,16 +50664,12 @@ O simulado do ENEM Pro usa questões reais do INEP, cronômetro no formato ofici
 
 - [Faça seu simulado agora](/simulado). 180 questões com cronômetro e gabarito
 - [Banco de Questões](/questoes). Pratique por matéria com questões reais
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
 ]
 
 const EXTRA_POSTS_19: BlogPost[] = [
-  { slug: 'adaptacoes-prova-deficiente-enem', title: "Adaptações Específicas na Prova para Pessoa com Deficiência", description: "Pessoa com deficiência tem direito a tempo extra, prova ampliada ou braile. Conheça cada adaptação disponível e como solicitar.", date: '2026-07-09', readTime: 6, content: `# Adaptações Específicas na Prova para Pessoa com Deficiência
+  { slug: 'adaptacoes-prova-deficiente-enem', title: "Adaptações Específicas na Prova para Pessoa com Deficiência", description: "Pessoa com deficiência tem direito a tempo extra, prova ampliada ou braile. Conheça cada adaptação disponível e como solicitar.", date: '2026-07-09', readTime: 6, content: `
+# Adaptações Específicas na Prova para Pessoa com Deficiência
 
 Lei 13.146/2015 garante que pessoa com deficiência receba adaptações razoáveis para participar igualmente de provas. Adaptação "razoável" significa modificação que não desequilibra a prova, apenas remove barreira que impede igual participação. Se você tem deficiência, conhecer cada adaptação disponível ajuda escolher qual solicitar no formulário de inscrição.
 
@@ -51166,12 +50764,9 @@ Conheça cada opção. Escolha a que melhor funciona para você. Pratique com ma
 **Próximo passo:** pratique com [questões reais do ENEM](/questoes) já pensando nas condições da sua adaptação.
 
 ---
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'ansiedade-enem-gestao-emocional', title: "Ansiedade no ENEM: Estratégias de Gestão Emocional e Foco", description: "Veja 5 técnicas comprovadas para controlar ansiedade e manter foco.", date: '2026-07-09', readTime: 6, content: `# Ansiedade no ENEM: Estratégias de Gestão Emocional e Foco
+` },
+  { slug: 'ansiedade-enem-gestao-emocional', title: "Ansiedade no ENEM: Estratégias de Gestão Emocional e Foco", description: "Veja 5 técnicas comprovadas para controlar ansiedade e manter foco.", date: '2026-07-09', readTime: 6, content: `
+# Ansiedade no ENEM: Estratégias de Gestão Emocional e Foco
 
 Ansiedade antes do ENEM é universal. A questão não é eliminar ansiedade. É canalizá-la para foco produtivo.
 
@@ -51259,12 +50854,9 @@ No dia de prova, use técnica de respiração 4-7-8 se ficar nervoso. Lembre que
 **Próximo passo:** [comece agora com um simulado](/simulado) para familiarizar seu corpo com o formato de prova.
 
 ---
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'controle-ansiedade-dia-prova', title: "Como Controlar Ansiedade Durante a Prova do ENEM", description: "Pânico no dia da prova reduz nota em 50-100 pontos. 5 estratégias para manter foco e calma durante os 4,5 horas.", date: '2026-07-09', readTime: 4, content: `# Como Controlar Ansiedade Durante a Prova do ENEM
+` },
+  { slug: 'controle-ansiedade-dia-prova', title: "Como Controlar Ansiedade Durante a Prova do ENEM", description: "Pânico no dia da prova reduz nota em 50-100 pontos. 5 estratégias para manter foco e calma durante os 4,5 horas.", date: '2026-07-09', readTime: 4, content: `
+# Como Controlar Ansiedade Durante a Prova do ENEM
 
 Pânico no dia reduz nota drasticamente. Ansiedade não é problema se você tiver técnicas. Cinco estratégias funcionam: respiração profunda, pensamento lógico (não emocional), movimento físico, foco na questão atual, e auto-compaixão.
 
@@ -51364,12 +50956,9 @@ Treina essas técnicas em simulados. No dia real, são automáticas. Você entra
 **Próximo passo:** [pratique questões reais do ENEM](/questoes) regularmente — é uma das melhores formas de reduzir a ansiedade no dia da prova.
 
 ---
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'cronograma-trabalhador-enem', title: "Cronograma Pronto para Trabalhador Estudar para ENEM", description: "Estude 2h/dia trabalhando. Cronograma de 24 semanas pronto para seguir, com horários fixos e distribuição de conteúdo.", date: '2026-07-09', readTime: 4, content: `# Cronograma Pronto para Trabalhador Estudar para ENEM
+` },
+  { slug: 'cronograma-trabalhador-enem', title: "Cronograma Pronto para Trabalhador Estudar para ENEM", description: "Estude 2h/dia trabalhando. Cronograma de 24 semanas pronto para seguir, com horários fixos e distribuição de conteúdo.", date: '2026-07-09', readTime: 4, content: `
+# Cronograma Pronto para Trabalhador Estudar para ENEM
 
 Trabalhador que estuda enquanto trabalha precisa de cronograma ultra-específico. Improviso não funciona. Este cronograma é pronto para seguir, com 2h diárias focadas (1,5h manhã + 30min noite) por 24 semanas. Resultados: 700+ pontos (comprovado com 300+ trabalhadores no ENEM Pro, 2024).
 
@@ -51505,12 +51094,9 @@ Comece hoje. Ajuste horários conforme sua realidade. Mas mantenha estrutura: ma
 **Próximo passo:** [monte seu cronograma personalizado](/cronograma) direto na plataforma, sem precisar de planilha.
 
 ---
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'deficiente-enem-direitos-recursos', title: "Deficiente no ENEM: Direitos, Recursos e Procedimentos", description: "18.000 candidatos com deficiência fizeram ENEM 2024. Conheça seus direitos, adaptações disponíveis e como solicitar.", date: '2026-07-09', readTime: 6, content: `# Deficiente no ENEM: Direitos, Recursos e Procedimentos
+` },
+  { slug: 'deficiente-enem-direitos-recursos', title: "Deficiente no ENEM: Direitos, Recursos e Procedimentos", description: "18.000 candidatos com deficiência fizeram ENEM 2024. Conheça seus direitos, adaptações disponíveis e como solicitar.", date: '2026-07-09', readTime: 6, content: `
+# Deficiente no ENEM: Direitos, Recursos e Procedimentos
 
 Candidato com deficiência tem direitos específicos garantidos por lei. Em 2024, 18.000 candidatos com deficiência físicas, sensoriais ou cognitivas fizeram ENEM. O ENEM é obrigado a oferecer adaptações razoáveis: tempo extra, prova ampliada, transcrição em braile, leitura de prova, acesso sem barreiras. Conhecer seus direitos é passo um. Solicitar corretamente é passo dois.
 
@@ -51604,12 +51190,9 @@ Conheça seus direitos. Solicite no prazo. Preparem-se estrategicamente. O ENEM 
 **Próximo passo:** pratique com [questões reais do ENEM](/questoes) para chegar mais confiante no dia da prova.
 
 ---
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'estudo-eficiente-pouco-tempo', title: "Estudo Eficiente com Pouco Tempo: Técnicas Comprovadas", description: "Qualidade > quantidade. 1 hora de estudo focado > 4 horas disperso. Veja 5 técnicas para maximizar eficiência de estudo.", date: '2026-07-09', readTime: 5, content: `# Estudo Eficiente com Pouco Tempo: Técnicas Comprovadas
+` },
+  { slug: 'estudo-eficiente-pouco-tempo', title: "Estudo Eficiente com Pouco Tempo: Técnicas Comprovadas", description: "Qualidade > quantidade. 1 hora de estudo focado > 4 horas disperso. Veja 5 técnicas para maximizar eficiência de estudo.", date: '2026-07-09', readTime: 5, content: `
+# Estudo Eficiente com Pouco Tempo: Técnicas Comprovadas
 
 Mito: você precisa 4-6 horas diárias para passar no ENEM. Realidade: 1 hora de estudo altamente focado vale mais que 4 horas disperso. Qualidade importa mais que volume.
 
@@ -51712,12 +51295,9 @@ Com essas técnicas, 1,5 horas diárias de estudo focado por 6 meses é suficien
 **Próximo passo:** [configure seu cronograma personalizado](/cronograma) e comece hoje.
 
 ---
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'gestao-tempo-prova-enem', title: "Gestão de Tempo na Prova do ENEM: Estratégia por Disciplina", description: "ENEM tem 180 questões em 9 horas. Média 3 minutos por questão. Aprenda estratégia comprovada de gestão de tempo.", date: '2026-07-09', readTime: 4, content: `# Gestão de Tempo na Prova do ENEM: Estratégia por Disciplina
+` },
+  { slug: 'gestao-tempo-prova-enem', title: "Gestão de Tempo na Prova do ENEM: Estratégia por Disciplina", description: "ENEM tem 180 questões em 9 horas. Média 3 minutos por questão. Aprenda estratégia comprovada de gestão de tempo.", date: '2026-07-09', readTime: 4, content: `
+# Gestão de Tempo na Prova do ENEM: Estratégia por Disciplina
 
 ENEM aloca 4h30 para 90 questões cada dia (2 dias). Isso dá média de 3 minutos por questão. Mas questões não têm peso igual. Algumas fáceis (2 min), outras difíceis (5 min). Candidatos que dominam gestão de tempo conseguem revisar no final. Candidatos que não, ficam sem tempo e começam a chutar.
 
@@ -51804,12 +51384,9 @@ Gestão de tempo é diferencial de 50-100 pontos. Estratégia é: identifique di
 **Próximo passo:** [treine sua gestão de tempo no Modo Simulado](/simulado), com cronômetro real de prova.
 
 ---
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'perfil-candidato-aprovado-enem', title: "Perfil do Candidato que Passa no ENEM: Características e Hábitos", description: "Descubra o perfil dos candidatos aprovados e como você se compara.", date: '2026-07-09', readTime: 6, content: `# Perfil do Candidato que Passa no ENEM: Características e Hábitos
+` },
+  { slug: 'perfil-candidato-aprovado-enem', title: "Perfil do Candidato que Passa no ENEM: Características e Hábitos", description: "Descubra o perfil dos candidatos aprovados e como você se compara.", date: '2026-07-09', readTime: 6, content: `
+# Perfil do Candidato que Passa no ENEM: Características e Hábitos
 
 Quem passa no ENEM tem algo em comum: não é talento, é consistência. Candidatos aprovados costumam manter uma rotina diária estruturada de estudo em vez de sessões longas e esporádicas. O perfil do candidato aprovado segue padrões claros de comportamento, rotina e foco.
 
@@ -51896,12 +51473,9 @@ Comece hoje. Escolha uma hora de estudo consistente. Durma 7 horas. Refaça uma 
 **Próximo passo:** [teste seu nível atual com um simulado gratuito](/simulado) e receba diagnóstico personalizado.
 
 ---
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'problemas-cotidiano-enem', title: "Problemas do Dia a Dia que Aparecem no ENEM: Exemplos Reais", description: "ENEM cobre temas como saneamento, saúde, energia, educação. Veja 10 problemas reais que viram questões e como se preparar.", date: '2026-07-09', readTime: 6, content: `# Problemas do Dia a Dia que Aparecem no ENEM: Exemplos Reais
+` },
+  { slug: 'problemas-cotidiano-enem', title: "Problemas do Dia a Dia que Aparecem no ENEM: Exemplos Reais", description: "ENEM cobre temas como saneamento, saúde, energia, educação. Veja 10 problemas reais que viram questões e como se preparar.", date: '2026-07-09', readTime: 6, content: `
+# Problemas do Dia a Dia que Aparecem no ENEM: Exemplos Reais
 
 ENEM adora cobrar problemas reais que impactam vida de brasileiros. Crise hídrica? Vira questão de Química (desalinização), Geografia (clima), Biologia (ecossistemas aquáticos). Pandemia de COVID? Virou questão de Biologia (vírus), Saúde Pública (epidemiologia), Filosofia (ética). Questões nascem de problemas que você vive ou vê na notícia.
 
@@ -51987,12 +51561,9 @@ Leia notícias. Conecte a conceitos que estuda. Pratique questões sobre temas r
 **Próximo passo:** [explore questões sobre temas problemáticos atuais](/questoes?filter=tema-social) e veja como conceitos se aplicam.
 
 ---
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'questoes-contextualizadas-enem', title: "Questões Contextualizadas no ENEM: Como o Exame Cobra Conteúdo", description: "Veja padrão de como ENEM cria questões e como resolver.", date: '2026-07-09', readTime: 6, content: `# Questões Contextualizadas no ENEM: Como o Exame Cobra Conteúdo
+` },
+  { slug: 'questoes-contextualizadas-enem', title: "Questões Contextualizadas no ENEM: Como o Exame Cobra Conteúdo", description: "Veja padrão de como ENEM cria questões e como resolver.", date: '2026-07-09', readTime: 6, content: `
+# Questões Contextualizadas no ENEM: Como o Exame Cobra Conteúdo
 
 ENEM não cobra memorização. Cobra aplicação de conhecimento em situações reais. Uma questão simples seria: "Quanto é 2+2?". Uma questão ENEM é: "Pedro tem 2 maçãs. Compra mais 2. Quantas maçãs Pedro tem? Se Pedro comer 1 maçã e dar 2 maçãs para Maria, quantas ele terá?". A segunda cobre exatamente mesma operação matemática, mas exige interpretação de texto e aplicação em contexto.
 
@@ -52078,12 +51649,9 @@ Estude conteúdo. Depois, pratique questões reais do ENEM. Analise como cada co
 **Próximo passo:** [explore banco de questões contextualizadas por disciplina](/questoes?filter=contextualizada) e pratique agora.
 
 ---
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'recursos-acessiveis-deficiente-enem', title: "Recursos Acessíveis Disponíveis para Deficientes no ENEM", description: "INEP oferece software de leitura, prova em formato acessível, acompanhante. Conheça todos recursos disponíveis gratuitamente.", date: '2026-07-09', readTime: 4, content: `# Recursos Acessíveis Disponíveis para Deficientes no ENEM
+` },
+  { slug: 'recursos-acessiveis-deficiente-enem', title: "Recursos Acessíveis Disponíveis para Deficientes no ENEM", description: "INEP oferece software de leitura, prova em formato acessível, acompanhante. Conheça todos recursos disponíveis gratuitamente.", date: '2026-07-09', readTime: 4, content: `
+# Recursos Acessíveis Disponíveis para Deficientes no ENEM
 
 INEP oferece recursos gratuitos para deficientes participarem igualmente. Software de leitura de tela, prova em braile, intérprete, ledor, acesso sem barreiras, redução de ruído. Conhecer todos recursos disponíveis ajuda escolher qual solicitar no formulário. Lei 13.146/2015 garante tudo isso como direito.
 
@@ -52226,12 +51794,9 @@ Organize-se. Solicite. Teste. Participe.
 **Próximo passo:** pratique com [questões reais do ENEM](/questoes) para chegar mais confiante no dia da prova.
 
 ---
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'tecnicas-respiracao-ansiedade-enem', title: "Técnicas de Respiração para Controlar Ansiedade no ENEM", description: "Aprenda 3 técnicas de respiração (4-7-8, Caixa e Abdominal) para controlar ansiedade no ENEM, quando usar cada uma e como treinar antes da prova.", date: '2026-07-09', readTime: 4, content: `# Técnicas de Respiração para Controlar Ansiedade no ENEM
+` },
+  { slug: 'tecnicas-respiracao-ansiedade-enem', title: "Técnicas de Respiração para Controlar Ansiedade no ENEM", description: "Aprenda 3 técnicas de respiração (4-7-8, Caixa e Abdominal) para controlar ansiedade no ENEM, quando usar cada uma e como treinar antes da prova.", date: '2026-07-09', readTime: 4, content: `
+# Técnicas de Respiração para Controlar Ansiedade no ENEM
 
 Ansiedade dispara durante prova. Coração acelerado, respiração superficial, mente acelerada. Resultado: você não consegue pensar direito. Solução é controlar respiração. Respiração profunda ativa sistema nervoso parassimpático, que acalma corpo.
 
@@ -52332,12 +51897,9 @@ Comece agora. Respire 4-7-8 neste momento. Sinta a diferença.
 **Próximo passo:** [pratique questões reais do ENEM](/questoes) para chegar mais preparado e menos ansioso no dia da prova.
 
 ---
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'trabalhador-enem-estudar-trabalhando', title: "Como Estudar para o ENEM Trabalhando: Cronograma e Estratégia", description: "Veja cronograma realista de 2h/dia e estratégia de alta eficiência.", date: '2026-07-09', readTime: 6, content: `# Como Estudar para o ENEM Trabalhando: Cronograma e Estratégia
+` },
+  { slug: 'trabalhador-enem-estudar-trabalhando', title: "Como Estudar para o ENEM Trabalhando: Cronograma e Estratégia", description: "Veja cronograma realista de 2h/dia e estratégia de alta eficiência.", date: '2026-07-09', readTime: 6, content: `
+# Como Estudar para o ENEM Trabalhando: Cronograma e Estratégia
 
 Estudar para o ENEM trabalhando é desafio real. O mito é que você precisa 4-6 horas diárias de estudo. A realidade é que trabalhador consegue passar com 1,5-2 horas diárias se estudar com foco extremo. A qualidade substitui quantidade quando tempo é escasso.
 
@@ -52436,11 +51998,7 @@ Comece na manhã cedo. Sacrifique 1 hora de sono por 6 meses. Acordar 1 hora ant
 **Próximo passo:** [monte seu cronograma personalizado](/cronograma) e ajuste conforme seus turnos.
 
 ---
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+` },
 ]
 
 const EXTRA_POSTS_20: BlogPost[] = [
@@ -52545,12 +52103,7 @@ Processo completo leva aproximadamente 4 meses: resultado em janeiro, Sisu em ja
 
 O cronograma ENEM 2026 segue padrão estabelecido pelo INEP com inscrições em maio, provas em novembro e resultado até janeiro de 2027. Conhecer cada data impede perda de prazos críticos em isenção, inscrição, recurso e utilização da nota. Recomenda-se acessar o portal oficial do INEP em maio para datas exatas confirmadas. Marque os prazos em calendário e avise sua família para não perder oportunidade de participação.
 
----
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+---` },
   { slug: 'taxa-inscricao-enem-2026', title: "Taxa de Inscrição ENEM 2026: Quanto Custa e Como Conseguir Isenção", description: "Taxa ENEM 2026 custa cerca de 85 a 100 reais. Saiba como solicitar isenção.", date: '2026-07-11', readTime: 6, content: `# Taxa de Inscrição ENEM 2026: Quanto Custa e Como Conseguir Isenção
 
 > **Key Takeaways**
@@ -52663,12 +52216,7 @@ Não. ENEM não oferece descontos para candidatos que já participaram antes. Ca
 
 A taxa de inscrição ENEM 2026 custa aproximadamente 85-100 reais, confirmado em abril de 2026. Candidatos de baixa renda (até 1,5 salário mínimo por pessoa) podem solicitar isenção da taxa. Pagamento para candidatos sem isenção deve ocorrer em 7 dias via boleto, débito em conta ou cartão. Solicite isenção antes do período regular de inscrições para maximizar chances de aprovação.
 
----
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+---` },
   { slug: 'quando-sai-resultado-enem-2026', title: "Quando Sai o Resultado do ENEM 2026: Datas Oficiais e Como Consultar", description: "Resultado ENEM 2026 sai até 60 dias após provas (estimado janeiro 2027). Saiba como acessar.", date: '2026-07-11', readTime: 6, content: `# Quando Sai o Resultado do ENEM 2026: Datas Oficiais e Como Consultar
 
 > **Key Takeaways**
@@ -52780,12 +52328,7 @@ Muitas universidades privadas aceitam nota ENEM para bolsas via ProUni. Outras a
 
 Resultado ENEM 2026 é divulgado até 60 dias após provas, estimado para janeiro 2027. Boletim contém pontuação por área de conhecimento e nota de redação. Resultado permanece válido 10 anos para Sisu, ProUni e Fies. Após receber resultado, próximos passos incluem participar de Sisu, ProUni ou Fies para ingresso em universidade. Recomenda-se baixar cópia em PDF do boletim como backup.
 
----
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+---` },
   { slug: 'melhores-recursos-estudar-enem', title: "Melhores Recursos para Estudar ENEM 2026: Guia com Plataformas e Dicas Gratuitas", description: "Descubra as melhores plataformas gratuitas e pagas para estudar ENEM 2026, de Khan Academy a questões de anos anteriores.", date: '2026-07-11', readTime: 5, content: `# Melhores Recursos para Estudar ENEM 2026: Guia com Plataformas e Dicas Gratuitas
 
 > **Key Takeaways**
@@ -52887,12 +52430,7 @@ Questões de anos anteriores combinadas com Khan Academy Matemática. Matemátic
 
 Questões de anos anteriores estão entre os recursos mais eficazes para ganho de pontuação. Cronograma ideal é 6 meses, 3-4 horas/dia: revisão (meses 1-2), aprofundamento (3-4) e simulados (5-6). Combinação de livros didáticos com plataformas digitais supera qualquer um dos modelos isoladamente. Redação requer feedback especializado, mínimo 1 redação por semana. Preparação eficaz não depende de investimento financeiro, mas de dedicação consistente.
 
----
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+---` },
   { slug: 'dia-enem-dicas-preparacao', title: "Dia do ENEM 2026: Dicas, O Que Levar e Como Se Preparar", description: "O que levar no dia do ENEM 2026, horários de portão, documentos obrigatórios e dicas para chegar preparado e sem ansiedade na hora da prova.", date: '2026-07-11', readTime: 6, content: `# Dia do ENEM 2026: Dicas, O Que Levar e Como Se Preparar
 
 > **Key Takeaways**
@@ -53018,12 +52556,7 @@ Não há câmeras nas salas de prova. Há fiscalização humana. Monitoramento �
 
 Dia do ENEM requer preparação minuciosa: chegar 30-45 minutos antes, levar Comprovante + ID + caneta (2) + lápis HB, usar roupas confortáveis, evitar eletrônicos, comer leve, hidratação constante. Preparação não termina no dia anterior: também inclui rotina nos primeiros momentos do dia. Chegar cedo reduz ansiedade significativamente.
 
----
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+---` },
   { slug: 'usar-nota-enem-universidade', title: "Como Usar Sua Nota ENEM em Universidades 2026: Guia Completo", description: "Como usar sua nota do ENEM no Sisu, ProUni e Fies: prazos, nota mínima, como escolher entre os programas e o que fazer após receber o resultado.", date: '2026-07-11', readTime: 6, content: `# Como Usar Sua Nota ENEM em Universidades 2026: Guia Completo
 
 > **Key Takeaways**
@@ -53131,12 +52664,7 @@ Fila 1 significa que há candidatos à frente. Você é chamado em 2ª ou 3ª ch
 
 Após receber nota ENEM 2026, você pode usar em 3 programas principais: Sisu (universidades públicas, 250 mil vagas), ProUni (bolsas privadas, 230 mil bolsas), Fies (financiamento privado, 480 mil contratos). Nota mínima é 450 pontos para qualquer programa. Inscrição ocorre janeiro-fevereiro 2027. Escolha entre programas depende: renda familiar, nota ENEM, preferência por público/privado. Todas três opções são viáveis e válidas. Recomenda-se inscrever em múltiplos programas para maximizar chances de aprovação.
 
----
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+---` },
   { slug: 'erros-comuns-inscricao-enem', title: "Erros Comuns na Inscrição ENEM 2026: Como Evitar as 10 Armadilhas Principais", description: "Os 10 erros mais comuns na inscrição do ENEM 2026 e como evitá-los, de dados inconsistentes a prazos perdidos de isenção.", date: '2026-07-11', readTime: 6, content: `# Erros Comuns na Inscrição ENEM 2026: Como Evitar as 10 Armadilhas Principais
 
 > **Key Takeaways**
@@ -53263,12 +52791,7 @@ Não. INEP não oferece extensão de prazos. Prazos são rígidos. Recomenda-se 
 
 Recomenda-se seguir passo-a-passo correto, anotar datas, configurar lembretes e revisar tudo antes de confirmar. Preparação adequada durante inscrição evita meses de frustração.
 
----
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+---` },
   { slug: 'prazos-enem-nao-perca-datas', title: "Prazos ENEM 2026: Não Perca Essas Datas Críticas de Maio a Janeiro", description: "Cronograma de prazos ENEM 2026: isenção abril, inscrição maio, provas novembro, resultado janeiro. Datas confirmadas e lembretes.", date: '2026-07-11', readTime: 7, content: `# Prazos ENEM 2026: Não Perca Essas Datas Críticas de Maio a Janeiro
 
 > **Key Takeaways**
@@ -53359,12 +52882,7 @@ O cronograma de prazos ENEM 2026 é rigoroso e não oferece flexibilidade. Este 
 
 ## Calendário Completo Visual: Timeline de Todos os Prazos
 
-\
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`\`\`
+\`\`\`
 ABRIL 2026
 ├─ Isenção solicitada (7-10 dias úteis)
 │
@@ -53596,16 +53114,12 @@ Matemática e Ciências da Natureza (Física especificamente) tendem a ter quest
 
 O novo ENEM 2024+ mantém estrutura de 180 questões (45 por área) + Redação com 5 competências. Foco é em competências gerais (interpretação, raciocínio crítico, análise) em vez memorização pura. Dia 1 avalia Linguagens, Redação e Natureza. Dia 2 avalia Matemática e Humanas. Distribuição de questões varia ligeiramente por disciplina. Média nacional é 500-520 pontos. Preparação eficaz requer prática em questões contextualizadas, leitura ampla e domínio conceitual. Modelo 2024+ é mais estruturado que ENEM pré-2020 e favorece candidatos com raciocínio crítico desenvolvido. 2,1 milhões participam anualmente. 
 
----
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+---` },
 ]
 
 const EXTRA_POSTS_21: BlogPost[] = [
-  { slug: 'tecnica-pomodoro-enem', title: "Técnica Pomodoro: Como Estudar com Mais Foco e Menos Cansaço", description: "Aprenda a Técnica Pomodoro para estudar com blocos de 25 minutos focados e pausas estratégicas, aumentando retenção e reduzindo fadiga mental no ENEM.", date: '2026-07-11', readTime: 4, content: `# Técnica Pomodoro: Como Estudar com Mais Foco e Menos Cansaço
+  { slug: 'tecnica-pomodoro-enem', title: "Técnica Pomodoro: Como Estudar com Mais Foco e Menos Cansaço", description: "Aprenda a Técnica Pomodoro para estudar com blocos de 25 minutos focados e pausas estratégicas, aumentando retenção e reduzindo fadiga mental no ENEM.", date: '2026-07-11', readTime: 4, content: `
+# Técnica Pomodoro: Como Estudar com Mais Foco e Menos Cansaço
 
 Estudar por horas sem parar é contraproducente. A Técnica Pomodoro, desenvolvida por Francesco Cirillo em 1987, resolve isso dividindo o tempo em blocos de 25 minutos concentrado + 5 minutos de pausa. Este guia ensina como implementar a técnica e maximizar seus resultados.
 
@@ -53683,12 +53197,9 @@ Be Focused, Forest e Focus Keeper têm bom design. Mas um simples cronômetro de
 A chave é: tarefas claras, sem distrações, pausas reais, e disciplina nos 25 minutos. Se você estuda 4 horas por dia, implementar Pomodoro pode equivaler a ganhar 1 hora de estudo de qualidade sem estudar mais tempo.
 
 Comece amanhã: escolha uma tarefa, configure 25 minutos, estude intensamente, pausa verdadeira. Faça isso por 5 dias consecutivos. Se a retenção melhorar, mantém. Técnicas que funcionam se tornam hábitos.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'metodo-cornell-anotacoes-enem', title: "Método Cornell: A Melhor Forma de Organizar Seus Cadernos", description: "Aprenda o Método Cornell para organizar anotações em 3 zonas (notas, palavras-chave, resumo) e transformar cadernos bagunçados em ferramenta de revisão eficaz.", date: '2026-07-11', readTime: 4, content: `# Método Cornell: A Melhor Forma de Organizar Seus Cadernos
+` },
+  { slug: 'metodo-cornell-anotacoes-enem', title: "Método Cornell: A Melhor Forma de Organizar Seus Cadernos", description: "Aprenda o Método Cornell para organizar anotações em 3 zonas (notas, palavras-chave, resumo) e transformar cadernos bagunçados em ferramenta de revisão eficaz.", date: '2026-07-11', readTime: 4, content: `
+# Método Cornell: A Melhor Forma de Organizar Seus Cadernos
 
 Anotações desorganizadas são informação perdida. O Método Cornell, criado na Universidade de Cornell por Walter Pauk em 1949, divide a página em 3 zonas: notas, palavras-chave e resumo. Este guia ensina estrutura, implementação e como converter anotações Cornell em revisão eficaz.
 
@@ -53776,12 +53287,9 @@ Funciona, mas menos. Revisar logo depois da aula tende a aumentar bastante a ret
 Se você estuda há anos com anotações lineares, experimentar Cornell por 2 semanas (5-6 disciplinas) deve converter você.
 
 Comece amanhã em 1 matéria. Estruture página Cornell. Revise 24h depois. Veja diferença.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'flashcards-repeticao-espacada-enem', title: "Flashcards e Repetição Espaçada: Como Memorizar Sem Esforço Infinito", description: "Entenda como flashcards e repetição espaçada exploram a curva do esquecimento para memorizar mais em menos tempo, com comparativo de apps para o ENEM.", date: '2026-07-11', readTime: 5, content: `# Flashcards e Repetição Espaçada: Como Memorizar Sem Esforço Infinito
+` },
+  { slug: 'flashcards-repeticao-espacada-enem', title: "Flashcards e Repetição Espaçada: Como Memorizar Sem Esforço Infinito", description: "Entenda como flashcards e repetição espaçada exploram a curva do esquecimento para memorizar mais em menos tempo, com comparativo de apps para o ENEM.", date: '2026-07-11', readTime: 5, content: `
+# Flashcards e Repetição Espaçada: Como Memorizar Sem Esforço Infinito
 
 Memorizar é processo, não talento inato. Flashcards combinados com repetição espaçada (spaced repetition) exploram a curva do esquecimento descoberta por Hermann Ebbinghaus em 1885. Este guia ensina a ciência por trás, implementação prática e como escolher apps.
 
@@ -53870,12 +53378,9 @@ Anki permite manter cards indefinidamente em "suspensão" (pausada). Alguns estu
 Se você passou a vida inteira revendo tudo de novo toda semana, spaced repetition será uma revelação. O algoritmo faz o trabalho pesado; você só revisa no momento certo.
 
 Comece com 1 deck de 30 cards em Anki. Revise consistentemente por 20 dias. Compare a retenção com o período em que estudava sem repetição espaçada.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'tecnica-feynman-estudar-enem', title: "Técnica Feynman: Como Aprender Qualquer Coisa Ensinando", description: "Conheça os 4 passos da Técnica Feynman para expor lacunas no seu entendimento explicando conceitos em linguagem simples, e como combiná-la com Pomodoro.", date: '2026-07-11', readTime: 5, content: `# Técnica Feynman: Como Aprender Qualquer Coisa Ensinando
+` },
+  { slug: 'tecnica-feynman-estudar-enem', title: "Técnica Feynman: Como Aprender Qualquer Coisa Ensinando", description: "Conheça os 4 passos da Técnica Feynman para expor lacunas no seu entendimento explicando conceitos em linguagem simples, e como combiná-la com Pomodoro.", date: '2026-07-11', readTime: 5, content: `
+# Técnica Feynman: Como Aprender Qualquer Coisa Ensinando
 
 A melhor forma de expor lacunas no seu entendimento é tentar explicar para outra pessoa. A Técnica Feynman, nomeada em homenagem ao físico Richard Feynman (1918-1988), força você a quebrar conceitos complexos em linguagem simples. Este guia ensina os 4 passos de Feynman e como integrar em rotina de estudo.
 
@@ -53967,12 +53472,9 @@ Sim. Ouça 1-2 dias depois. Você vai se surpreender com lacunas que criou — �
 Se você estuda passivamente (ler, reler, grifo), Feynman é uma atualização crítica. A técnica força seu cérebro a sair do "reconhecimento" (leitura) para a "recuperação" (explicação), uma mudança poderosa para o aprendizado durável.
 
 Teste amanhã: escolha 1 conceito, explique por 15 min para a parede, identifique lacunas, reformule. Se conseguir explicar com fluência sem anotações, entendeu. Se não conseguir, volte ao material.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'mapas-mentais-estudar-enem', title: "Mapas Mentais: Como Visualizar Tudo o Que Você Aprende", description: "Aprenda a estruturar mapas mentais para conectar conceitos do ENEM, quando usar em vez de anotações lineares e os erros mais comuns ao criar um mapa mental.", date: '2026-07-11', readTime: 5, content: `# Mapas Mentais: Como Visualizar Tudo o Que Você Aprende
+` },
+  { slug: 'mapas-mentais-estudar-enem', title: "Mapas Mentais: Como Visualizar Tudo o Que Você Aprende", description: "Aprenda a estruturar mapas mentais para conectar conceitos do ENEM, quando usar em vez de anotações lineares e os erros mais comuns ao criar um mapa mental.", date: '2026-07-11', readTime: 5, content: `
+# Mapas Mentais: Como Visualizar Tudo o Que Você Aprende
 
 Ideias isoladas são frágeis; ideias conectadas são memoráveis. Mapas mentais (mind maps) transformam informação linear em estrutura visual hierárquica, refletindo como o cérebro naturalmente organiza conhecimento. Este guia ensina quando usar, como estruturar e integrar em plano de estudo.
 
@@ -54079,12 +53581,9 @@ Protocolo: revisar 1 dia depois, 1 semana depois, e na semana anterior à prova.
 Se você estuda matérias com muitas conexões conceituais (História, Biologia, Química), mapas mentais transformam fragmentação em coerência. A técnica força síntese ativa e cria um documento visual reutilizável para revisão.
 
 Teste em 1 matéria esta semana: complete a aula/capítulo, faça um mapa mental colorido em 20 minutos, revise 1 semana depois. Compare a retenção com sua rotina anterior.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'active-recall-vs-revisao-passiva-enem', title: "Active Recall vs Revisão Passiva: Por que Reler é a Maneira Mais Lenta de Aprender", description: "Descubra a diferença entre active recall e revisão passiva, por que reler cria uma ilusão de competência, e como aplicar recuperação ativa na rotina de estudo.", date: '2026-07-11', readTime: 5, content: `# Active Recall vs Revisão Passiva: Por que Reler é a Maneira Mais Lenta de Aprender
+` },
+  { slug: 'active-recall-vs-revisao-passiva-enem', title: "Active Recall vs Revisão Passiva: Por que Reler é a Maneira Mais Lenta de Aprender", description: "Descubra a diferença entre active recall e revisão passiva, por que reler cria uma ilusão de competência, e como aplicar recuperação ativa na rotina de estudo.", date: '2026-07-11', readTime: 5, content: `
+# Active Recall vs Revisão Passiva: Por que Reler é a Maneira Mais Lenta de Aprender
 
 Reler é confortável, mas ilusório. Seu cérebro reconhece palavras e cria sensação de entendimento sem aprendizado real. Active recall (recuperação ativa) força seu cérebro a recuperar informação de memória, processo neurologicamente diferente de reconhecer. Este guia diferencia ambos e ensina como implementar active recall em rotina.
 
@@ -54166,12 +53665,9 @@ Falhar é desconfortável. Mas falhar em estudo (baixo risco) é melhor que falh
 Revisão passiva é confortável. Seu cérebro evita active recall naturalmente. Se você escolhe conforto agora, paga em desempenho depois.
 
 Teste esta semana: substitua metade das suas sessões de releitura por testes de active recall e compare sua confiança e retenção com o período anterior.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'leitura-estrategica-sq3r-enem', title: "Leitura Estratégica: Como Ler Livros e Artigos Mais Rápido", description: "Conheça os 4 tipos de leitura e o sistema SQ3R (Survey, Question, Read, Recite, Review) para ganhar velocidade de leitura sem perder compreensão no ENEM.", date: '2026-07-11', readTime: 5, content: `# Leitura Estratégica: Como Ler Livros e Artigos Mais Rápido
+` },
+  { slug: 'leitura-estrategica-sq3r-enem', title: "Leitura Estratégica: Como Ler Livros e Artigos Mais Rápido", description: "Conheça os 4 tipos de leitura e o sistema SQ3R (Survey, Question, Read, Recite, Review) para ganhar velocidade de leitura sem perder compreensão no ENEM.", date: '2026-07-11', readTime: 5, content: `
+# Leitura Estratégica: Como Ler Livros e Artigos Mais Rápido
 
 Ler todo livro da mesma forma é ineficiente. Leitura estratégica varia velocidade, profundidade e propósito conforme o material. O sistema SQ3R (Survey, Question, Read, Recite, Review), desenvolvido por Francis Robinson em 1946, aumenta compreensão e velocidade simultaneamente. Este guia ensina os tipos de leitura e como aplicar o SQ3R.
 
@@ -54274,12 +53770,9 @@ Existem apps de leitura rápida, mas eles tendem a comprometer a compreensão no
 Velocidade de leitura é treinável. SQ3R é uma ferramenta testada há décadas. Investindo algumas semanas em aplicação consistente, você ganha velocidade real sem perder compreensão.
 
 Comece amanhã: escolha um capítulo ou artigo, aplique S-Q-R-R-R, compare o tempo e a compreensão com sua leitura normal.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'resumos-eficientes-enem', title: "Resumos Eficientes: Síntese Que Consolida Aprendizado", description: "Aprenda o protocolo de 4 passos para fazer resumos que realmente consolidam aprendizado, a diferença entre resumo bom e ruim, e quando vale a pena resumir.", date: '2026-07-11', readTime: 4, content: `# Resumos Eficientes: Síntese Que Consolida Aprendizado
+` },
+  { slug: 'resumos-eficientes-enem', title: "Resumos Eficientes: Síntese Que Consolida Aprendizado", description: "Aprenda o protocolo de 4 passos para fazer resumos que realmente consolidam aprendizado, a diferença entre resumo bom e ruim, e quando vale a pena resumir.", date: '2026-07-11', readTime: 4, content: `
+# Resumos Eficientes: Síntese Que Consolida Aprendizado
 
 Resumir é compressão de informação, não cópia compactada. Este guia ensina a diferença entre resumo bom e ruim e um protocolo de síntese em 4 passos.
 
@@ -54382,12 +53875,9 @@ Um livro de 300 páginas costuma ficar bem resumido em 30-45 páginas. Se ficar 
 Resumo eficiente exige disciplina: ler completo, atrasar a escrita, hierarquizar rigorosamente, revisar. O retorno é claro: um documento compacto e reutilizável que consolida o aprendizado.
 
 Teste no próximo capítulo: aplique o protocolo de 4 passos, revise 24h depois, e compare a retenção com quando você apenas relê.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'grifo-inteligente-enem', title: "Grifo Inteligente: Como Destacar Sem Encher a Página de Neon", description: "Aprenda quando o grifo ajuda e quando atrapalha a retenção, o protocolo de grifo em 4 passos e como combinar cores para hierarquizar informação.", date: '2026-07-11', readTime: 4, content: `# Grifo Inteligente: Como Destacar Sem Encher a Página de Neon
+` },
+  { slug: 'grifo-inteligente-enem', title: "Grifo Inteligente: Como Destacar Sem Encher a Página de Neon", description: "Aprenda quando o grifo ajuda e quando atrapalha a retenção, o protocolo de grifo em 4 passos e como combinar cores para hierarquizar informação.", date: '2026-07-11', readTime: 4, content: `
+# Grifo Inteligente: Como Destacar Sem Encher a Página de Neon
 
 Este guia ensina quando o grifo ajuda e quando atrapalha o aprendizado.
 
@@ -54474,12 +53964,9 @@ Grifo é uma ferramenta sua, não para mostrar ao professor. Se o critério de a
 Grifo inteligente, usado com moderação e depois de ler o texto completo, cria um documento eficiente para revisão sem overhead.
 
 Aplique o protocolo de 4 passos no próximo capítulo. Compare sua retenção com o sistema anterior de grifar tudo durante a primeira leitura.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'revisao-espacada-calendario-enem', title: "Revisão Espaçada: O Calendário Científico Para Nunca Mais Esquecer", description: "Conheça o calendário de revisão espaçada (1-3-7-14-30 dias) baseado na curva de esquecimento de Ebbinghaus e como aplicá-lo sem apps no ENEM.", date: '2026-07-11', readTime: 5, content: `# Revisão Espaçada: O Calendário Científico Para Nunca Mais Esquecer
+` },
+  { slug: 'revisao-espacada-calendario-enem', title: "Revisão Espaçada: O Calendário Científico Para Nunca Mais Esquecer", description: "Conheça o calendário de revisão espaçada (1-3-7-14-30 dias) baseado na curva de esquecimento de Ebbinghaus e como aplicá-lo sem apps no ENEM.", date: '2026-07-11', readTime: 5, content: `
+# Revisão Espaçada: O Calendário Científico Para Nunca Mais Esquecer
 
 Esquecimento é uma curva, não um precipício. Hermann Ebbinghaus (1885) descobriu que a retenção cai de forma acelerada sem revisão. Mas revisão estratégica em intervalos crescentes inverte essa curva. Este guia ensina um calendário prático e como implementar sem apps.
 
@@ -54580,15 +54067,12 @@ Sim. Um Pomodoro (25 min) é um bom bloco para revisar um lote de cards ou um co
 Um calendário simples (1-3-7-14-30 dias) já entrega a maior parte do ganho de retenção que a repetição espaçada promete.
 
 Implemente a partir de segunda-feira: aprenda um conceito no dia 1, coloque lembretes no calendário para os dias 2, 4, 7, 14 e 30. Revise com disciplina e compare sua retenção depois de um mês.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+` },
 ]
 
 const EXTRA_POSTS_22: BlogPost[] = [
-  { slug: 'analise-combinatoria-enem', title: "Análise Combinatória no ENEM: Guia Completo para Arranjos, Permutações e Combinações", description: "Descubra as estratégias para dominar análise combinatória no ENEM.", date: '2026-07-11', readTime: 3, content: `# Análise Combinatória no ENEM: Guia Completo para Arranjos, Permutações e Combinações
+  { slug: 'analise-combinatoria-enem', title: "Análise Combinatória no ENEM: Guia Completo para Arranjos, Permutações e Combinações", description: "Descubra as estratégias para dominar análise combinatória no ENEM.", date: '2026-07-11', readTime: 3, content: `
+# Análise Combinatória no ENEM: Guia Completo para Arranjos, Permutações e Combinações
 
 ## Introdução
 Análise combinatória assusta muitos candidatos, mas é previsível no ENEM. Cerca de 2-3 questões por ano cobram este tópico, representando até 6 pontos na prova de Matemática. A boa notícia: os padrões se repetem. Este guia te ensina exatamente o que cai.
@@ -54634,60 +54118,10 @@ R: Sempre. Fatorial é a base de todas as três fórmulas (arranjo, combinação
 R: Sim. Sempre divida por k! depois de calcular arranjo. Uma forma: escreva C(n,k) = A(n,k) / k!. Isto te lembra que combinação é arranjo "encolhido" pela divisão.
 
 **P: Análise combinatória aparece em qual área da prova?**
-R: Apenas em Matematica. Aparece em algumas questoes a cada prova. Raramente aparece na Redacao ou outras disciplinas. Dominar bem o topico ajuda a garantir esses pontos com consistencia.
-
-## 5 Exemplos Reais de Questões ENEM de Combinatória
-
-**Exemplo 1 (Combinacao simples):**
-"De quantas formas uma comissão de 3 pessoas pode ser escolhida entre 8 candidatos?"
-Resposta: C(8,3) = 8!/(3!*5!) = 56
-
-**Exemplo 2 (Arranjo simples):**
-"Quantas senhas de 4 algarismos podem ser formadas com algarismos 1-9 (sem repeticao)?"
-Resposta: A(9,4) = 9!/(9-4)! = 3024
-
-**Exemplo 3 (Permutação com restricao):**
-"De quantas formas 4 pessoas podem ficar em fila se a pessoa A nao pode ser primeira?"
-Resposta: P(4) - P(3) = 24 - 6 = 18
-
-**Exemplo 4 (Combinacao com restricao):**
-"Quantas comissoes de 5 pessoas podem ser formadas se devem incluir exatamente 2 mulheres de 6 disponíveis e 3 homens de 9?"
-Resposta: C(6,2) * C(9,3) = 15 * 84 = 1260
-
-**Exemplo 5 (Principio multiplicativo):**
-"Quantas pizzas diferentes podem ser feitas escolhendo 3 sabores diferentes entre 10 opcoes?"
-Resposta: C(10,3) = 120
-
-## Planilha de Formulas Rapida
-
-| Conceito | Formula | Quando Usar | Exemplo |
-|---|---|---|---|
-| Permutacao | P(n) = n! | Todos elementos, ordem importa | Fila de 4 pessoas |
-| Arranjo | A(n,k) = n!/(n-k)! | Seleciona k de n, ordem importa | Escolher presidente e vice |
-| Combinacao | C(n,k) = n!/(k!(n-k)!) | Seleciona k de n, ordem nao importa | Equipe de 3 de 10 |
-
-## Dicas de Ouro Para a Prova
-
-1. **Leia a palavra-chave:** "fila, senha, código" = arranjo. "Grupo, comissao, time" = combinacao
-2. **Procure restricoes:** "nao pode" ou "deve ser" = problema se divide em casos
-3. **Teste sua resposta:** se A e B trocados geram resultado novo, é arranjo; senao, combinacao
-4. **Tempo de prova:** combinatoria tipo 2-3 questoes por prova. Se errar uma, acerte outras
-
----
-
-## Continue Praticando Combinatoria
-
-- [Simulado Matematica ENEM](/simulado?discipline=matematica) — veja questoes de combinatoria em contexto real
-- [Qual é a Melhor Estrategia de Estudo Matematica](/preparacao-segunda-aplicacao-enem-2026) — combinatoria aparece aqui
-- [Banco de Questoes Matematica](/questoes?discipline=matematica&subject=combinatoria) — 50+ questoes de combinatoria
-
-Faca 5 questoes de combinatoria hoje. Sua nota em Matematica vai subir!
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'juros-compostos-enem', title: "Juros Compostos no ENEM: Fórmulas, Exemplos e Estratégias de Resolução", description: "Domine juros compostos no ENEM com fórmulas práticas. Aprenda passo a passo como calcular e ganhar pontos.", date: '2026-07-11', readTime: 3, content: `# Juros Compostos no ENEM: Fórmulas, Exemplos e Estratégias de Resolução
+R: Apenas em Matemática. Aparece em algumas questões a cada prova. Raramente aparece na Redação ou outras disciplinas. Dominar bem o tópico ajuda a garantir esses pontos com consistência.
+` },
+  { slug: 'juros-compostos-enem', title: "Juros Compostos no ENEM: Fórmulas, Exemplos e Estratégias de Resolução", description: "Domine juros compostos no ENEM com fórmulas práticas. Aprenda passo a passo como calcular e ganhar pontos.", date: '2026-07-11', readTime: 3, content: `
+# Juros Compostos no ENEM: Fórmulas, Exemplos e Estratégias de Resolução
 
 ## Introdução
 Juros compostos aparece com frequência nas provas de Matemática do ENEM. A fórmula é simples, mas o medo de exponenciais assusta candidatos. Este post mostra que juros é apenas multiplicação repetida. Você consegue. Vamos descomplicar o tópico que mais gera insegurança.
@@ -54731,46 +54165,10 @@ R: Raramente. Se aparecer, a questão pede apenas aplicar fórmula com logaritmo
 R: Leia o enunciado. Se diz "Juros capitalizados mensalmente", use i mensal e conte tempo em meses. Se diz "ao ano", use i anual e tempo em anos. O ENEM sempre deixa isto claro.
 
 **P: Quanto tempo devo gastar resolvendo problemas de juros?**
-R: Cada questao: 4-6 minutos (incluindo leitura e calculo). Se levar mais, provavelmente está se perdendo em conversao de taxa ou decimal.
-
-## 4 Exemplos de Juros Compostos no ENEM Real
-
-**Exemplo 1:** Capital = 1000, taxa = 10% a.a., tempo = 2 anos. M = 1000 × (1,10)² = 1210.
-
-**Exemplo 2:** Capital = 500, taxa = 5% a.m., tempo = 3 meses. M = 500 × (1,05)³ = 578,81.
-
-**Exemplo 3 (Com conversao):** Capital = 2000, taxa = 12% a.a. (1% a.m.), tempo = 12 meses. M = 2000 × (1,01)¹² = 2254.
-
-**Exemplo 4 (Comparacao):** Investir em A (6% a.a., 2 anos) vs B (7% a.a., 1 ano). A: M = 1000 × 1,06² = 1123,60. B: M = 1000 × 1,07 = 1070. A rende mais.
-
-## Tabela Rapida de Conversao de Taxa
-
-| De | Para | Formula |
-|---|---|---|
-| Anual | Mensal | i_m = (1 + i_a)^(1/12) - 1 |
-| Anual | Trimestral | i_t = (1 + i_a)^(1/4) - 1 |
-| Mensal | Anual | i_a = (1 + i_m)^12 - 1 |
-
-## Dicas Ouro Para Prova
-
-1. **Identifique M (montante), nao confunda com Juros:** J = M - C
-2. **Alinhe período e taxa:** antes de calcular, verifique unidades
-3. **Use calculadora com cuidado:** expoentes fraçionários sao comuns (x^(1/12))
-4. **Redondo ou não:** ENEM geralmente deixa resposta "redonda" — se seu valor é 1253,67489, talvez esteja errado
-
-## Continue Praticando Juros Compostos
-
-- [Simulado Matematica ENEM](/simulado?discipline=matematica) — juros é 2-3 questoes por prova
-- [Banco de Questoes Matematica Financeira](/questoes?discipline=matematica&subject=juros) — 40+ questoes reais
-- [Cronograma de Estudo Matematica](/preparacao-segunda-aplicacao-enem-2026) — juros é essencial
-
-Domine juros hoje. Sua prova de matematica vai agradecer!
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'redacao-competencia-1-gramatica-enem', title: "Redação ENEM Competência 1: Como Não Perder Pontos em Gramática e Norma Culta", description: "Domine a Competência 1 da redação ENEM (gramática e norma culta). Entenda os 10 erros que tiram 80 pontos. Score máximo começa aqui.", date: '2026-07-11', readTime: 3, content: `# Redação ENEM Competência 1: Como Não Perder Pontos em Gramática e Norma Culta
+R: Cada questão: 4-6 minutos (incluindo leitura e cálculo). Se levar mais, provavelmente está se perdendo em conversão de taxa ou decimal.
+` },
+  { slug: 'redacao-competencia-1-gramatica-enem', title: "Redação ENEM Competência 1: Como Não Perder Pontos em Gramática e Norma Culta", description: "Domine a Competência 1 da redação ENEM (gramática e norma culta). Entenda os 10 erros que tiram 80 pontos. Score máximo começa aqui.", date: '2026-07-11', readTime: 3, content: `
+# Redação ENEM Competência 1: Como Não Perder Pontos em Gramática e Norma Culta
 
 ## Introdução
 Competência 1 (gramática e norma culta) vale até 200 pontos da redação ENEM. Este post mostra os 10 erros mais comuns e como evitá-los. Dominar gramática não é difícil, apenas precisa de método claro.
@@ -54809,62 +54207,11 @@ R: Sim. Competência 1 inclui norma culta, que envolve acentuação. Regra: grav
 **P: Pronome relativo "que" e "qual" têm diferenças?**
 R: Sim. "Que" é para informações essenciais; "qual" para informações adicionais (entre vírgulas). Exemplo: "O livro que você leu" (essencial) vs "O livro, o qual você adorou, está aqui" (adicional). Ignorar essa diferença compromete a clareza do texto.
 
-**P: Como treinar gramatica para redacao ENEM?**
-R: Leia 1 redacao aprovada (score 1.000) por dia. Identifique construcoes gramaticais. Depois, escreva 2-3 paragrafos usando estas construcoes. Isto treina o olho para estruturas corretas. Apos 15 dias, sua redacao ficara naturalmente mais gramatical.
-
-## 5 Erros Que Mais Custam Pontos
-
-**Erro #1: Concordancia verbal ("A maioria... estudam")**
-- Errado: "A maioria dos alunos estuda matematica, mas erram calculos"
-- Correto: "A maioria dos alunos estuda matematica, mas erram calculos" (sujeito "maioria" = singular, verbo "estuda")
-- Custo: -30 pontos em competencia 1
-
-**Erro #2: Colocacao de pronome em inicio de frase**
-- Errado: "Me ensinou que educacao é importante"
-- Correto: "Ensinou-me que educacao é importante" (ou: "Ela me ensinou...")
-- Custo: -20 pontos
-
-**Erro #3: "A gente" em lugar de "nós"**
-- Errado: "A gente precisa mudar nossa sociedade" (mistura de A GENTE + nossa)
-- Correto: "Precisamos mudar nossa sociedade" ou "A gente precisa mudar a gente mesma"
-- Custo: -15 pontos
-
-**Erro #4: Redundancia de conectores**
-- Errado: "Portanto, desta forma, em conclusao, devemos agir"
-- Correto: "Portanto, devemos agir" ou "Desta forma, devemos agir"
-- Custo: -10 pontos (mostra falta de clareza)
-
-**Erro #5: Tempos verbais misturados**
-- Errado: "O problema é grave. As pessoas sofrem todos os dias. No futuro, será diferente se agimos"
-- Correto: "O problema é grave. As pessoas sofrem todos os dias. No futuro, será diferente se agirmos" (mesmo tempo verbal)
-- Custo: -25 pontos
-
-## Checklist Ouro Antes de Entregar Redacao
-
-- [ ] Reli cada paragrafo? (identifique sujeito e verbo)
-- [ ] Todos os verbos concordam com seus sujeitos?
-- [ ] Sem pronomes duplicados ("me ensinou-me")?
-- [ ] Conectores sao precisos (nao redundancia)?
-- [ ] Tempos verbais coerentes ao longo do texto?
-- [ ] Acentuacao grafica revisada?
-- [ ] Regencia verbal correta (insisto EM, persisto EM)?
-- [ ] Sem espacos em branco?
-- [ ] Leia em voz alta — seus ouvidos pegam erros que os olhos perdem
-
-## Continue Dominando Redacao
-
-- [Dicas para Redacao 900-1000](/dicas-melhorar-redacao-enem-score) — revisao completa de 5 competencias
-- [Competencia 5: Proposta de Intervencao](/redacao-competencia-5-proposta-intervencao-enem) — complete sua nota
-- [Simulado de Redacao ENEM](/simulado) — pratica com feedback
-- [Preparacao Segunda Aplicacao](/preparacao-segunda-aplicacao-enem-2026) — 1 redacao/semana por 8 semanas
-
-Revise sua ultima redacao. Encontre 3 erros de concordancia. Corrija. Pronto — você já é melhor que ontem!
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'redacao-competencia-5-proposta-intervencao-enem', title: "Competência 5 da Redação ENEM: Proposta de Intervenção com Ação, Objetivo e Finalidade", description: "Redação ENEM Competência 5: como escrever uma proposta de intervenção que ganhe 200 pontos. 5 critérios que avaliam sua solução. Score máximo.", date: '2026-07-11', readTime: 3, content: `# Competência 5 da Redação ENEM: Proposta de Intervenção com Ação, Objetivo e Finalidade
+**P: Como treinar gramática para redação ENEM?**
+R: Leia 1 redação aprovada (score 1.000) por dia. Identifique construções gramaticais. Depois, escreva 2-3 parágrafos usando estas construções. Isto treina o olho para estruturas corretas. Após 15 dias, sua redação ficará naturalmente mais gramatical.
+` },
+  { slug: 'redacao-competencia-5-proposta-intervencao-enem', title: "Competência 5 da Redação ENEM: Proposta de Intervenção com Ação, Objetivo e Finalidade", description: "Redação ENEM Competência 5: como escrever uma proposta de intervenção que ganhe 200 pontos. 5 critérios que avaliam sua solução. Score máximo.", date: '2026-07-11', readTime: 3, content: `
+# Competência 5 da Redação ENEM: Proposta de Intervenção com Ação, Objetivo e Finalidade
 
 ## Introdução
 Competência 5 é a mais desafiadora e a mais valorizada: vale até 200 pontos. Uma proposta de intervenção excelente deixa claro quem age, qual a ação, qual o objetivo e qual a finalidade. Este guia mostra os 5 critérios que avaliam sua proposta.
@@ -54903,12 +54250,9 @@ R: Não recomendado. Focar em uma ação com detalhes profundos rende uma nota b
 
 **P: Como ligar a proposta com o tema da redação?**
 R: A proposta deve resolver o problema identificado na análise (argumentação). Se tema é "impacto das redes sociais na saúde mental", proposta deve solucionar este problema específico. Isto demonstra leitura completa e coerência argumentativa.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'equacoes-1-2-grau-enem', title: "Equações de 1º e 2º Grau no ENEM: Fórmulas, Técnicas e Exemplos Resolvidos", description: "Domine equações de 1º e 2º grau no ENEM. Aprenda Bhaskara, fatoração e aplicações. Guia prático passo a passo.", date: '2026-07-11', readTime: 3, content: `# Equações de 1º e 2º Grau no ENEM: Fórmulas, Técnicas e Exemplos Resolvidos
+` },
+  { slug: 'equacoes-1-2-grau-enem', title: "Equações de 1º e 2º Grau no ENEM: Fórmulas, Técnicas e Exemplos Resolvidos", description: "Domine equações de 1º e 2º grau no ENEM. Aprenda Bhaskara, fatoração e aplicações. Guia prático passo a passo.", date: '2026-07-11', readTime: 3, content: `
+# Equações de 1º e 2º Grau no ENEM: Fórmulas, Técnicas e Exemplos Resolvidos
 
 ## Introdução
 Equações do primeiro e segundo grau aparecem com frequência nas questões de Matemática do ENEM. Este post mostra passo a passo como dominar.
@@ -54947,12 +54291,9 @@ R: Sim. Se há fração, multiplique toda equação pelo denominador comum prime
 
 **P: Equações paramétricas (com incógnita em outro lugar) caem no ENEM?**
 R: Raramente como questão direta. Aparecem em problemas de aplicação ("qual x torna isto verdadeiro?").
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'geometria-plana-enem', title: "Geometria Plana no ENEM: Fórmulas de Perímetro, Área e Propriedades de Figuras", description: "Geometria plana ENEM: domine triângulos, quadriláteros, círculos. Fórmulas de perímetro e área. Passo a passo.", date: '2026-07-11', readTime: 3, content: `# Geometria Plana no ENEM: Fórmulas de Perímetro, Área e Propriedades de Figuras
+` },
+  { slug: 'geometria-plana-enem', title: "Geometria Plana no ENEM: Fórmulas de Perímetro, Área e Propriedades de Figuras", description: "Geometria plana ENEM: domine triângulos, quadriláteros, círculos. Fórmulas de perímetro e área. Passo a passo.", date: '2026-07-11', readTime: 3, content: `
+# Geometria Plana no ENEM: Fórmulas de Perímetro, Área e Propriedades de Figuras
 
 ## Introdução
 Geometria plana aparece com frequência nas questões de Matemática no ENEM. Candidatos frequentemente confundem fórmulas e perdem tempo desenhando.
@@ -54991,12 +54332,9 @@ R: Use método de associação. Círculo tem "r²" porque é redondo. Triângulo
 
 **P: Figuras com π precisam de calculadora?**
 R: Não obrigatório. Se π está na resposta, deixe como π (ex: 16π cm²). Se pede valor numérico, use π ≈ 3,14. Isto economiza 30 segundos por questão.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'estatistica-enem', title: "Estatística no ENEM: Como Calcular Média, Mediana, Moda e Interpretar Dados", description: "Estatística ENEM: domine média, mediana, moda. Entenda distribuição e desvio padrão. Técnicas de cálculo rápido.", date: '2026-07-11', readTime: 3, content: `# Estatística no ENEM: Como Calcular Média, Mediana, Moda e Interpretar Dados
+` },
+  { slug: 'estatistica-enem', title: "Estatística no ENEM: Como Calcular Média, Mediana, Moda e Interpretar Dados", description: "Estatística ENEM: domine média, mediana, moda. Entenda distribuição e desvio padrão. Técnicas de cálculo rápido.", date: '2026-07-11', readTime: 3, content: `
+# Estatística no ENEM: Como Calcular Média, Mediana, Moda e Interpretar Dados
 
 ## Introdução
 Estatística aparece com frequência nas questões de Matemática no ENEM. Muitos candidatos memorizam definições mas erram aplicação. Este post mostra quando usar cada uma.
@@ -55035,12 +54373,9 @@ R: Use papel rascunho. Ordene valores em coluna. Marque central com caneta. Leia
 
 **P: Média, mediana, moda podem ser iguais?**
 R: Sim, em distribuição perfeitamente simétrica (ex: {1, 2, 3, 2, 1}). Mas isto é raro no ENEM. Quando aparecem iguais, questão explora entendimento de simetria.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'probabilidade-enem', title: "Probabilidade no ENEM: Fórmula Básica, Eventos Independentes e Aplicações Práticas", description: "Probabilidade ENEM: fórmula P = favoráveis/totais. Eventos independentes e dependentes. Aprenda técnicas rápidas.", date: '2026-07-11', readTime: 3, content: `# Probabilidade no ENEM: Fórmula Básica, Eventos Independentes e Aplicações Práticas
+` },
+  { slug: 'probabilidade-enem', title: "Probabilidade no ENEM: Fórmula Básica, Eventos Independentes e Aplicações Práticas", description: "Probabilidade ENEM: fórmula P = favoráveis/totais. Eventos independentes e dependentes. Aprenda técnicas rápidas.", date: '2026-07-11', readTime: 3, content: `
+# Probabilidade no ENEM: Fórmula Básica, Eventos Independentes e Aplicações Práticas
 
 ## Introdução
 Probabilidade aparece com frequência nas questões de Matemática no ENEM. Este post descomplicar probabilidade passo a passo.
@@ -55079,12 +54414,9 @@ R: Probabilidade é decimal ou fração (0-1). Chance é razão (1 em 6, ou 1:6)
 
 **P: Como diferenciar entre permutação e probabilidade em questões mistas?**
 R: Permutação conta arranjos. Probabilidade calcula chance. Se pergunta "de quantas formas", use permutação/combinação. Se pergunta "qual é a chance/probabilidade", use fórmula de probabilidade.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'trigonometria-enem', title: "Trigonometria no ENEM: Seno, Cosseno, Tangente, Ciclo Trigonométrico e Ângulos Notáveis", description: "Trigonometria ENEM: domine seno, cosseno, tangente. Ciclo trigonométrico. Identidades e ângulos notáveis.", date: '2026-07-11', readTime: 3, content: `# Trigonometria no ENEM: Seno, Cosseno, Tangente, Ciclo Trigonométrico e Ângulos Notáveis
+` },
+  { slug: 'trigonometria-enem', title: "Trigonometria no ENEM: Seno, Cosseno, Tangente, Ciclo Trigonométrico e Ângulos Notáveis", description: "Trigonometria ENEM: domine seno, cosseno, tangente. Ciclo trigonométrico. Identidades e ângulos notáveis.", date: '2026-07-11', readTime: 3, content: `
+# Trigonometria no ENEM: Seno, Cosseno, Tangente, Ciclo Trigonométrico e Ângulos Notáveis
 
 ## Introdução
 Trigonometria aparece com frequência nas questões de Matemática no ENEM. Candidatos frequentemente memorizam fórmulas mas não entendem origem. Este post ensina a origem e aplicação correta.
@@ -55123,12 +54455,9 @@ R: Enunciado explica sempre. Se não há símbolo °, é radiano (π múltiplos)
 
 **P: Qual é a sequência para resolver trigonometria: desenho primeiro ou fórmula?**
 R: Desenho primeiro (30 segundos). Depois identifique qual lado é dado, qual é procurado. Depois escolha fórmula.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'genetica-mendeliana-enem', title: "Genética Mendeliana no ENEM: Leis de Mendel, Herança Dominante e Recessiva, Cruzamentos Práticos", description: "Genética ENEM: domine leis de Mendel, dominância, recessividade e probabilidade. Cruzamentos e proporções.", date: '2026-07-11', readTime: 3, content: `# Genética Mendeliana no ENEM: Leis de Mendel, Herança Dominante e Recessiva, Cruzamentos Práticos
+` },
+  { slug: 'genetica-mendeliana-enem', title: "Genética Mendeliana no ENEM: Leis de Mendel, Herança Dominante e Recessiva, Cruzamentos Práticos", description: "Genética ENEM: domine leis de Mendel, dominância, recessividade e probabilidade. Cruzamentos e proporções.", date: '2026-07-11', readTime: 3, content: `
+# Genética Mendeliana no ENEM: Leis de Mendel, Herança Dominante e Recessiva, Cruzamentos Práticos
 
 ## Introdução
 Genética aparece com frequência nas questões de Biologia no ENEM. Candidatos memorizam definições mas erram em cruzamentos genéticos. Este post mostra método passo a passo.
@@ -55168,12 +54497,9 @@ R: Dominância completa: heterozigoto parece homozigoto dominante (Aa = AA fenó
 
 **P: Mutação e herança aparecem juntas no ENEM?**
 R: Raramente. Mutação é questão separada (Biologia Molecular). Herança genética é sobre transmissão de alelos já existentes.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'ecologia-teias-alimentares-enem', title: "Ecologia no ENEM: Cadeias e Teias Alimentares, Fluxo de Energia e Níveis Tróficos", description: "Ecologia ENEM: teias alimentares, cadeias, fluxo de energia. Produtores, consumidores, decompositores. Conceitos essenciais.", date: '2026-07-11', readTime: 3, content: `# Ecologia no ENEM: Cadeias e Teias Alimentares, Fluxo de Energia e Níveis Tróficos
+` },
+  { slug: 'ecologia-teias-alimentares-enem', title: "Ecologia no ENEM: Cadeias e Teias Alimentares, Fluxo de Energia e Níveis Tróficos", description: "Ecologia ENEM: teias alimentares, cadeias, fluxo de energia. Produtores, consumidores, decompositores. Conceitos essenciais.", date: '2026-07-11', readTime: 3, content: `
+# Ecologia no ENEM: Cadeias e Teias Alimentares, Fluxo de Energia e Níveis Tróficos
 
 ## Introdução
 Ecologia aparece com frequência nas questões de Biologia no ENEM. Candidatos confundem cadeia e teia alimentar. Este post mostra como ler diagramas corretamente.
@@ -55214,12 +54540,9 @@ R: Estão separados. Decompositores não comem vivos; comem mortos. Sua função
 
 **P: Qual é a diferença entre fluxo de energia e ciclo de nutrientes?**
 R: Fluxo é unidirecional (entra e não volta: energy apenas passa). Ciclo é cíclico (nutrientes circulam: C, N, P voltam ao solo). No ENEM, ambas aparecem. Energia flui; nutrientes reciclam.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'mecanica-fisica-enem', title: "Mecânica Clássica no ENEM: Leis de Newton, Movimento, Força e Aceleração Prática", description: "Mecânica ENEM: leis de Newton, movimento, força, aceleração. Cinemática e dinâmica. Fórmulas essenciais.", date: '2026-07-11', readTime: 3, content: `# Mecânica Clássica no ENEM: Leis de Newton, Movimento, Força e Aceleração Prática
+` },
+  { slug: 'mecanica-fisica-enem', title: "Mecânica Clássica no ENEM: Leis de Newton, Movimento, Força e Aceleração Prática", description: "Mecânica ENEM: leis de Newton, movimento, força, aceleração. Cinemática e dinâmica. Fórmulas essenciais.", date: '2026-07-11', readTime: 3, content: `
+# Mecânica Clássica no ENEM: Leis de Newton, Movimento, Força e Aceleração Prática
 
 ## Introdução
 Mecânica aparece com frequência nas questões de Física no ENEM. Candidatos frequentemente confundem força, aceleração e velocidade. Este post descomplicar as três leis.
@@ -55258,12 +54581,9 @@ R: Atrito é força que reduz movimento. F atrito = μ × N (μ é coeficiente, 
 
 **P: Trabalho e energia aparecem em mecânica?**
 R: Sim. Trabalho = F × d (força × distância). Energia cinética = m × v² / 2. Estes aparecem em 2-3 questões extras de "energia e trabalho". Dominar F = m × a e cinemática (v, a, t) resolve base; depois aprende trabalho.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
-  { slug: 'revolucao-francesa-enem', title: "Revolução Francesa 1789 no ENEM: Contexto, Ideais Iluministas, Direitos Humanos e Impacto Histórico", description: "Revolução Francesa ENEM 1789: causas econômicas, ideais iluministas, Declaração Direitos. Contexto e consequências.", date: '2026-07-11', readTime: 3, content: `# Revolução Francesa 1789 no ENEM: Contexto, Ideais Iluministas, Direitos Humanos e Impacto Histórico
+` },
+  { slug: 'revolucao-francesa-enem', title: "Revolução Francesa 1789 no ENEM: Contexto, Ideais Iluministas, Direitos Humanos e Impacto Histórico", description: "Revolução Francesa ENEM 1789: causas econômicas, ideais iluministas, Declaração Direitos. Contexto e consequências.", date: '2026-07-11', readTime: 3, content: `
+# Revolução Francesa 1789 no ENEM: Contexto, Ideais Iluministas, Direitos Humanos e Impacto Histórico
 
 ## Introdução
 Revolução Francesa aparece com frequência nas questões de História no ENEM. Candidatos frequentemente confundem causas econômicas com ideológicas. Este post mostra narrativa clara: causa → evento → resultado.
@@ -55300,11 +54620,7 @@ R: Ambas. Napoleão subiu ao poder em caos revolucionário (1799). Consolidou ga
 
 **P: Como relacionar Revolução Francesa com outras revoluções (Americana, Russa)?**
 R: Causas similares: dívida, desigualdade, ideias novas. Americana (1776) influenciou Francesa. Russa (1917) radicalizou ideias francesas. No ENEM, comparação entre duas aparece em 1-2 questões de "qual foi mais radical?" ou "qual influenciou qual?". Conhecer ordem temporal e ideais distintos responde isto.
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+` },
 ]
 
 const EXTRA_POSTS_23: BlogPost[] = [
@@ -55400,11 +54716,8 @@ Cada questão tem uma explicação gerada especificamente para justificar por qu
 **Posso praticar mais questões de Linguagens além dessas 7?**
 
 Sim, o ENEM Pro tem todas as questões de Linguagens do ENEM 2023 (e de 2009 a 2023) organizadas por ano — [veja a lista completa](/questoes/linguagens/2023).
-## Continue Estudando
 
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+` },
   { slug: 'questoes-ciencias-humanas-enem-2023-resolvidas', title: "7 Questões de Ciências Humanas do ENEM 2023 Resolvidas — Gabarito Comentado", description: "7 questões reais de Ciências Humanas do ENEM 2023, selecionadas e resolvidas com gabarito oficial e explicação passo a passo de cada resposta correta. Pratique grátis.", date: '2026-07-13', readTime: 4, content: `Reunimos 7 questões oficiais de Ciências Humanas do ENEM 2023 que costumam gerar mais dúvida na hora da resolução. Cada uma vem com o enunciado, a resposta correta e a explicação de por que essa é a alternativa certa — para você entender o raciocínio, não só decorar a letra.
 
 > **Key Takeaways**
@@ -55497,11 +54810,8 @@ Cada questão tem uma explicação gerada especificamente para justificar por qu
 **Posso praticar mais questões de Ciências Humanas além dessas 7?**
 
 Sim, o ENEM Pro tem todas as questões de Ciências Humanas do ENEM 2023 (e de 2009 a 2023) organizadas por ano — [veja a lista completa](/questoes/ciencias-humanas/2023).
-## Continue Estudando
 
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+` },
   { slug: 'questoes-ciencias-natureza-enem-2023-resolvidas', title: "7 Questões de Ciências da Natureza do ENEM 2023 Resolvidas — Gabarito Comentado", description: "7 questões reais de Ciências da Natureza do ENEM 2023, selecionadas e resolvidas com gabarito oficial e explicação passo a passo de cada resposta correta. Pratique grátis.", date: '2026-07-13', readTime: 5, content: `Reunimos 7 questões oficiais de Ciências da Natureza do ENEM 2023 que costumam gerar mais dúvida na hora da resolução. Cada uma vem com o enunciado, a resposta correta e a explicação de por que essa é a alternativa certa — para você entender o raciocínio, não só decorar a letra.
 
 > **Key Takeaways**
@@ -55594,11 +54904,8 @@ Cada questão tem uma explicação gerada especificamente para justificar por qu
 **Posso praticar mais questões de Ciências da Natureza além dessas 7?**
 
 Sim, o ENEM Pro tem todas as questões de Ciências da Natureza do ENEM 2023 (e de 2009 a 2023) organizadas por ano — [veja a lista completa](/questoes/ciencias-natureza/2023).
-## Continue Estudando
 
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+` },
   { slug: 'questoes-matematica-enem-2023-resolvidas', title: "7 Questões de Matemática do ENEM 2023 Resolvidas — Gabarito Comentado", description: "7 questões reais de Matemática do ENEM 2023, selecionadas e resolvidas com gabarito oficial e explicação passo a passo de cada resposta correta. Pratique grátis.", date: '2026-07-13', readTime: 4, content: `Reunimos 7 questões oficiais de Matemática do ENEM 2023 que costumam gerar mais dúvida na hora da resolução. Cada uma vem com o enunciado, a resposta correta e a explicação de por que essa é a alternativa certa — para você entender o raciocínio, não só decorar a letra.
 
 > **Key Takeaways**
@@ -55691,11 +54998,8 @@ Cada questão tem uma explicação gerada especificamente para justificar por qu
 **Posso praticar mais questões de Matemática além dessas 7?**
 
 Sim, o ENEM Pro tem todas as questões de Matemática do ENEM 2023 (e de 2009 a 2023) organizadas por ano — [veja a lista completa](/questoes/matematica/2023).
-## Continue Estudando
 
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+` },
 ]
 
 const EXTRA_POSTS_24: BlogPost[] = [
@@ -55705,7 +55009,8 @@ const EXTRA_POSTS_24: BlogPost[] = [
     description: 'Repertório sociocultural pronto para a redação do ENEM: tipos, exemplos por tema e como aplicar sem só citar a fonte. Em 2025, só 10 redações tiraram nota 1000.',
     date: '2026-07-16',
     readTime: 9,
-    content: `No Enem 2025, apenas 10 redações tiraram nota 1000 — a menor marca da história da prova, segundo o Jornal de Brasília ([Enem 2025 tem dez redações nota mil, menor marca da história da prova](https://jornaldebrasilia.com.br/noticias/concursos-e-carreiras/enem-2025-tem-dez-redacoes-nota-mil-menor-marca-da-historia-da-prova/), 2026). O principal motivo, segundo especialistas, foi o rigor maior na Competência 2 — exatamente a competência que avalia o repertório sociocultural, um dos fatores que mais [pesa no cálculo final da nota de redação](/blog/quanto-vale-redacao-enem).
+    content: `
+No Enem 2025, apenas 10 redações tiraram nota 1000 — a menor marca da história da prova, segundo o Jornal de Brasília ([Enem 2025 tem dez redações nota mil, menor marca da história da prova](https://jornaldebrasilia.com.br/noticias/concursos-e-carreiras/enem-2025-tem-dez-redacoes-nota-mil-menor-marca-da-historia-da-prova/), 2026). O principal motivo, segundo especialistas, foi o rigor maior na Competência 2 — exatamente a competência que avalia o repertório sociocultural, um dos fatores que mais [pesa no cálculo final da nota de redação](/blog/quanto-vale-redacao-enem).
 
 > **TL;DR:** Repertório sociocultural é qualquer dado, lei, obra ou fato histórico usado pra fundamentar sua tese na redação do ENEM. Em 2025, a nota média da Competência 2 caiu 11,1% e só 10 candidatos tiraram 1000 — sinal de que a banca ficou mais dura com quem só cita fonte sem argumentar. [Pratique redação e questões de Linguagens no ENEM Pro →](/questoes)
 
@@ -55834,11 +55139,7 @@ Não. A Cartilha do INEP não hierarquiza tipos de repertório — o que importa
 - [Jornal de Brasília. Enem 2025 tem dez redações nota mil, menor marca da história da prova](https://jornaldebrasilia.com.br/noticias/concursos-e-carreiras/enem-2025-tem-dez-redacoes-nota-mil-menor-marca-da-historia-da-prova/). Histórico de notas máximas
 - [Vestibulando Web. Enem 2025 teve mais de 211 mil redações com nota zero](https://www.vestibulandoweb.com.br/enem/enem-2025-teve-mais-de-211-mil-redacoes-com-nota-zero-veja-os-motivos/). Motivos de nota zero
 - [Portal MEC. Enem 2025: divulgado espelho da redação](https://www.gov.br/mec/pt-br/assuntos/noticias/2026/marco/enem-2025-divulgado-espelho-da-redacao). Divulgação oficial dos resultados
-## Continue Estudando
-
-- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
-- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
+` },
 ]
 
 const ALL_POSTS = [...BLOG_POSTS, ...AUTO_POSTS, ...EXTRA_POSTS, ...EXTRA_POSTS_2, ...EXTRA_POSTS_3, ...EXTRA_POSTS_4, ...EXTRA_POSTS_5, ...EXTRA_POSTS_6, ...EXTRA_POSTS_7, ...EXTRA_POSTS_8, ...EXTRA_POSTS_9, ...EXTRA_POSTS_10, ...EXTRA_POSTS_11, ...EXTRA_POSTS_12, ...EXTRA_POSTS_13, ...EXTRA_POSTS_14, ...EXTRA_POSTS_15, ...EXTRA_POSTS_16, ...EXTRA_POSTS_17, ...EXTRA_POSTS_18, ...EXTRA_POSTS_19, ...EXTRA_POSTS_20, ...EXTRA_POSTS_21, ...EXTRA_POSTS_22, ...EXTRA_POSTS_23, ...EXTRA_POSTS_24]
