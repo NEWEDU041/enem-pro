@@ -50697,7 +50697,13 @@ Faça um simulado completo e use [nossa calculadora de nota ENEM](/questoes) par
 
 ---
 
-Comece um simulado agora: [simulado ENEM gratuito](/simulado)` },
+Comece um simulado agora: [simulado ENEM gratuito](/simulado)
+
+## Continue Estudando
+
+- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
+- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
+- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
   { slug: 'questoes-historia-que-mais-caem', title: 'Questões de História que Mais Caem no ENEM: 12 Temas Obrigatórios', description: 'República Velha, Ditadura Militar, Independência: estes 3 temas = 40% de História.', date: '2026-06-29', readTime: 5, content: `# Questões de História que Mais Caem no ENEM
 
 60% das questões de História nas últimas provas repetem os mesmos 5 períodos: República Velha (12%), Ditadura Militar (11%), Independência (9%), Abolição (8%) e Império (7%). Priorizar esses temas é a forma mais eficiente de ganhar pontos rápido em Ciências Humanas.
@@ -54764,7 +54770,12 @@ R: Enunciado explica sempre. Se não há símbolo °, é radiano (π múltiplos)
 
 **P: Qual é a sequência para resolver trigonometria: desenho primeiro ou fórmula?**
 R: Desenho primeiro (30 segundos). Depois identifique qual lado é dado, qual é procurado. Depois escolha fórmula.
-` },
+
+## Continue Estudando
+
+- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
+- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
+- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
   { slug: 'genetica-mendeliana-enem', title: "Genética Mendeliana no ENEM: Leis de Mendel, Herança Dominante e Recessiva, Cruzamentos Práticos", description: "Genética ENEM: domine leis de Mendel, dominância, recessividade e probabilidade. Cruzamentos e proporções.", date: '2026-07-11', readTime: 3, content: `
 # Genética Mendeliana no ENEM: Leis de Mendel, Herança Dominante e Recessiva, Cruzamentos Práticos
 
@@ -54890,7 +54901,12 @@ R: Atrito é força que reduz movimento. F atrito = μ × N (μ é coeficiente, 
 
 **P: Trabalho e energia aparecem em mecânica?**
 R: Sim. Trabalho = F × d (força × distância). Energia cinética = m × v² / 2. Estes aparecem em 2-3 questões extras de "energia e trabalho". Dominar F = m × a e cinemática (v, a, t) resolve base; depois aprende trabalho.
-` },
+
+## Continue Estudando
+
+- [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
+- [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
+- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM` },
   { slug: 'revolucao-francesa-enem', title: "Revolução Francesa 1789 no ENEM: Contexto, Ideais Iluministas, Direitos Humanos e Impacto Histórico", description: "Revolução Francesa ENEM 1789: causas econômicas, ideais iluministas, Declaração Direitos. Contexto e consequências.", date: '2026-07-11', readTime: 3, content: `
 # Revolução Francesa 1789 no ENEM: Contexto, Ideais Iluministas, Direitos Humanos e Impacto Histórico
 
