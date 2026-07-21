@@ -25,11 +25,11 @@ async function getLiveStats() {
 const faqItems = [
   {
     q: 'O ENEM Pro é grátis?',
-    a: 'Sim. O plano gratuito permite responder até 10 questões por dia sem necessidade de cartão de crédito. O plano Pro (R$8,25/mês no plano anual, ou R$14,90/mês no mensal) libera questões ilimitadas e as explicações geradas por IA.',
+    a: 'Sim. O plano gratuito permite responder até 10 questões por dia sem necessidade de cartão de crédito. O plano Pro (R$8,25/mês no plano anual, ou R$29,90/mês no mensal) libera questões ilimitadas e as explicações geradas por IA.',
   },
   {
     q: 'Quantas questões do ENEM estão disponíveis?',
-    a: 'O ENEM Pro reúne mais de 3.600 questões oficiais do INEP de 2009 a 2024, organizadas por ano, disciplina e área de conhecimento.',
+    a: 'O ENEM Pro reúne mais de 2.900 questões oficiais do INEP de 2009 a 2024, organizadas por ano, disciplina e área de conhecimento.',
   },
   {
     q: 'O ENEM Pro tem questões de todas as disciplinas?',
@@ -59,7 +59,7 @@ const jsonLd = {
   offers: [
     { '@type': 'Offer', price: '0', priceCurrency: 'BRL', name: 'Plano Grátis' },
     { '@type': 'Offer', price: '99', priceCurrency: 'BRL', name: 'Plano Pro Anual' },
-    { '@type': 'Offer', price: '14.90', priceCurrency: 'BRL', name: 'Plano Pro Mensal' },
+    { '@type': 'Offer', price: '29.90', priceCurrency: 'BRL', name: 'Plano Pro Mensal' },
   ],
 }
 
@@ -89,14 +89,14 @@ export default async function LandingPage() {
       />
       {/* Nav */}
       <nav className="sticky top-0 z-50 bg-white/90 backdrop-blur border-b border-ink-100 px-6 py-4">
-        <div className="max-w-6xl mx-auto flex items-center justify-between">
-          <span className="font-display text-xl font-bold text-ink-900">ENEM Pro</span>
-          <div className="flex items-center gap-4">
+        <div className="max-w-6xl mx-auto flex items-center justify-between gap-3">
+          <span className="font-display text-xl font-bold text-ink-900 shrink-0 whitespace-nowrap">ENEM Pro</span>
+          <div className="flex items-center gap-2 sm:gap-4">
             <Link href="/ferramentas" className="text-sm text-ink-500 hover:text-ink-900 hidden md:inline">Ferramentas</Link>
             <Link href="/calcular-nota" className="text-sm text-ink-500 hover:text-ink-900 hidden sm:inline">Calcular nota</Link>
-            <Link href="/planos" className="text-sm text-ink-500 hover:text-ink-900">Planos</Link>
+            <Link href="/planos" className="text-sm text-ink-500 hover:text-ink-900 hidden sm:inline">Planos</Link>
             <Link href="/auth/login" className="text-sm text-ink-500 hover:text-ink-900">Entrar</Link>
-            <LinkButton href="/auth/register" size="sm">Começar grátis</LinkButton>
+            <LinkButton href="/auth/register" size="sm" className="whitespace-nowrap">Começar grátis</LinkButton>
           </div>
         </div>
       </nav>
@@ -118,7 +118,7 @@ export default async function LandingPage() {
             <span className="text-gold-400">Começa com a questão certa.</span>
           </h1>
           <p className="text-xl text-ink-200 max-w-xl mb-10">
-            3.600+ questões reais do INEP de 2009 a 2024. Erre uma — a IA explica o raciocínio completo em 30 segundos. Para quem quer aprovação, não só treino.
+            2.900+ questões reais do INEP de 2009 a 2024. Erre uma — a IA explica o raciocínio completo em 30 segundos. Para quem quer aprovação, não só treino.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <LinkButton href="/auth/register" size="lg">Começar grátis agora</LinkButton>
@@ -131,7 +131,7 @@ export default async function LandingPage() {
         {/* Stats bar */}
         <RevealGroup className="relative max-w-4xl mx-auto grid grid-cols-4 gap-6 text-center border-t border-white/10 py-10 px-6">
           <RevealItem>
-            <div className="font-display text-3xl font-bold text-white mb-1">3.600+</div>
+            <div className="font-display text-3xl font-bold text-white mb-1">2.900+</div>
             <div className="text-ink-500 text-sm">Questões reais INEP</div>
           </RevealItem>
           <RevealItem>
@@ -287,7 +287,7 @@ export default async function LandingPage() {
             <RevealItem className="bg-ink-50 rounded-2xl p-6 text-left border border-ink-100 hover:shadow-md transition-shadow">
               <div className="text-3xl mb-3">📋</div>
               <h3 className="font-semibold text-ink-900 mb-2">Questões reais do INEP</h3>
-              <p className="text-ink-500 text-sm leading-relaxed">3.600+ questões oficiais do ENEM de 2009 a 2024. Disponibilizadas publicamente pelo INEP. Nenhuma questão inventada.</p>
+              <p className="text-ink-500 text-sm leading-relaxed">2.900+ questões oficiais do ENEM de 2009 a 2024. Disponibilizadas publicamente pelo INEP. Nenhuma questão inventada.</p>
             </RevealItem>
             <RevealItem className="bg-ink-50 rounded-2xl p-6 text-left border border-ink-100 hover:shadow-md transition-shadow">
               <div className="text-3xl mb-3">🤖</div>
@@ -411,7 +411,7 @@ const features = [
   {
     icon: '📚',
     title: 'Questões reais do ENEM',
-    desc: 'Todas as questões oficiais de 2009 a 2024. Mais de 3.600 questões organizadas por ano, disciplina e dificuldade.',
+    desc: 'Todas as questões oficiais de 2009 a 2024. Mais de 2.900 questões organizadas por ano, disciplina e dificuldade.',
   },
   {
     icon: '🤖',

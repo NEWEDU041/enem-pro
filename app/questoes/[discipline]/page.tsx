@@ -2,12 +2,13 @@
 
 import { useEffect, useState, useCallback, Suspense } from 'react'
 import Link from 'next/link'
-import { useRouter, useParams, useSearchParams } from 'next/navigation'
+import { useRouter, useParams, useSearchParams, usePathname } from 'next/navigation'
 import { motion, AnimatePresence } from 'framer-motion'
 import { createBrowserClient } from '@/lib/supabase'
 import { Question } from '@/lib/types'
 import { ENEM_DATE, daysUntil } from '@/lib/utils'
 import { toggleFavorito, isFavorito } from '@/lib/favoritos'
+import { SLUG_TO_DISCIPLINE } from '@/lib/enem-constants'
 
 function MarkdownText({ text, className }: { text: string; className?: string }) {
   const TOKEN = /(\*\*[^*]+\*\*|\*[^*]+\*|!\[[^\]]*\]\([^)]+\))/g
@@ -66,6 +67,12 @@ function QuestionContent() {
   const searchParams = useSearchParams()
   const year = searchParams?.get('year') || id.split('-')[0]
   const router = useRouter()
+  const pathname = usePathname()
+  const isBareDisciplineSlug = id in SLUG_TO_DISCIPLINE
+
+  useEffect(() => {
+    if (isBareDisciplineSlug) router.replace(`/questoes/${id}/2024`)
+  }, [isBareDisciplineSlug, id, router])
 
   const [question, setQuestion] = useState<Question | null>(null)
   const [user, setUser] = useState<{ id: string } | null>(null)
@@ -82,9 +89,10 @@ function QuestionContent() {
   const [starred, setStarred] = useState(false)
 
   useEffect(() => {
+    if (isBareDisciplineSlug) return
     async function load() {
       const { data: { user } } = await supabase.auth.getUser()
-      if (!user) { router.push('/auth/login'); return }
+      if (!user) { router.push(`/auth/login?next=${encodeURIComponent(pathname)}`); return }
       setUser(user)
 
       const [qRes, subRes] = await Promise.all([
@@ -111,7 +119,7 @@ function QuestionContent() {
       setLoading(false)
     }
     load()
-  }, [id, year, router])
+  }, [id, year, router, isBareDisciplineSlug])
 
   // Timer
   useEffect(() => {
@@ -246,7 +254,7 @@ function QuestionContent() {
             </div>
 
             <Link href="/planos" className="block w-full bg-gold-500 text-ink-950 px-6 py-3.5 rounded-xl font-semibold hover:bg-gold-400 transition-colors mb-3">
-              Assinar Pro — R$14,90/mês
+              Assinar Pro — R$29,90/mês
             </Link>
             <Link href="/planos" className="block w-full border border-gold-400 text-ink-900 px-6 py-3 rounded-xl text-sm font-medium hover:bg-gold-100 transition-colors mb-4">
               Plano anual — R$99/ano (economize 45%)
@@ -413,7 +421,7 @@ function QuestionContent() {
                 >
                   Ver explicação grátis (1x por dia)
                 </button>
-                <p className="text-xs text-zinc-400 mt-1.5 text-center">Pro: ilimitado — R$14,90/mês</p>
+                <p className="text-xs text-zinc-400 mt-1.5 text-center">Pro: ilimitado — R$29,90/mês</p>
               </div>
             ) : (
               <div className="mt-3 bg-white border border-dashed border-gold-400 rounded-xl p-4 text-center">
@@ -423,7 +431,7 @@ function QuestionContent() {
                   href="/planos"
                   className="inline-block bg-gold-500 text-ink-950 px-5 py-2 rounded-lg text-sm font-semibold hover:bg-gold-400 transition-colors"
                 >
-                  Assinar Pro — R$14,90/mês
+                  Assinar Pro — R$29,90/mês
                 </Link>
               </div>
             )}

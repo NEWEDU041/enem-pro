@@ -3,11 +3,11 @@ import { SITE_URL } from '@/lib/site-config'
 
 export const metadata: Metadata = {
   title: 'Questões ENEM 2009–2024 — Todas as Disciplinas',
-  description: 'Pratique com mais de 3.600 questões reais do ENEM de 2009 a 2024. Filtre por ano e disciplina. Gabarito imediato e explicação por IA no Plano Pro.',
+  description: 'Pratique com mais de 2.900 questões reais do ENEM de 2009 a 2024. Filtre por ano e disciplina. Gabarito imediato e explicação por IA no Plano Pro.',
   alternates: { canonical: `${SITE_URL}/questoes` },
   openGraph: {
     title: 'Questões ENEM 2009–2024 | ENEM Pro',
-    description: '3.600+ questões oficiais do INEP por ano e disciplina. Com gabarito e IA.',
+    description: '2.900+ questões oficiais do INEP por ano e disciplina. Com gabarito e IA.',
     type: 'website',
     siteName: 'ENEM Pro',
     locale: 'pt_BR',
@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Questões ENEM 2009–2024 | ENEM Pro',
-    description: '3.600+ questões oficiais do INEP por ano e disciplina.',
+    description: '2.900+ questões oficiais do INEP por ano e disciplina.',
   },
 }
 

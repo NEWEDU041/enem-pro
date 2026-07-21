@@ -2,7 +2,7 @@
 
 import { useEffect, useState, Suspense } from 'react'
 import Link from 'next/link'
-import { useRouter } from 'next/navigation'
+import { useRouter, usePathname } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
 import { getFavoritos, clearFavoritos, removeFavorito, type Favorito } from '@/lib/favoritos'
 import { disciplineToSlug } from '@/lib/enem-constants'
@@ -11,6 +11,7 @@ const supabase = createBrowserClient()
 
 function FavoritosContent() {
   const router = useRouter()
+  const pathname = usePathname()
   const [loading, setLoading] = useState(true)
   const [favs, setFavs] = useState<Favorito[]>([])
   const [filter, setFilter] = useState('')
@@ -18,7 +19,7 @@ function FavoritosContent() {
   useEffect(() => {
     async function check() {
       const { data: { user } } = await supabase.auth.getUser()
-      if (!user) { router.push('/auth/login'); return }
+      if (!user) { router.push(`/auth/login?next=${encodeURIComponent(pathname)}`); return }
       setFavs(getFavoritos())
       setLoading(false)
     }
@@ -59,7 +60,7 @@ function FavoritosContent() {
         <div className="flex items-center justify-between mb-6">
           <div>
             <h1 className="text-2xl font-bold text-zinc-900 mb-1">Questões salvas</h1>
-            <p className="text-zinc-500 text-sm">{favs.length} questão{favs.length !== 1 ? 'ões' : ''} marcada{favs.length !== 1 ? 's' : ''} como favorita</p>
+            <p className="text-zinc-500 text-sm">{favs.length} {favs.length === 1 ? 'questão' : 'questões'} marcada{favs.length !== 1 ? 's' : ''} como favorita</p>
           </div>
           {favs.length > 0 && (
             <button onClick={clearAll} className="text-xs text-red-400 hover:text-red-600 underline">

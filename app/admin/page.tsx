@@ -125,8 +125,8 @@ export default function AdminPage() {
               <StatBox label="Pro ativos" value={stats.pro.active} color="indigo" />
               <StatBox
                 label="Receita estimada"
-                value={`R$${(stats.pro.active * 14.90).toFixed(0)}`}
-                sub="mensal (R$14,90/Pro)"
+                value={`R$${(stats.pro.active * 29.90).toFixed(0)}`}
+                sub="mensal (R$29,90/Pro)"
                 color="green"
               />
             </div>
@@ -201,9 +201,9 @@ export default function AdminPage() {
                   onChange={(e) => setMonths(e.target.value)}
                   className="w-full border border-zinc-300 rounded-lg px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500"
                 >
-                  <option value="1">1 mês — R$14,90</option>
-                  <option value="3">3 meses — R$44,70</option>
-                  <option value="6">6 meses — R$89,40</option>
+                  <option value="1">1 mês — R$29,90</option>
+                  <option value="3">3 meses — R$89,70</option>
+                  <option value="6">6 meses — R$179,40</option>
                   <option value="12">12 meses — R$99,00 (anual)</option>
                 </select>
               </div>

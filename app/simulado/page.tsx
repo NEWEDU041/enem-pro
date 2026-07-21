@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useRef, useState } from 'react'
 import Link from 'next/link'
-import { useRouter } from 'next/navigation'
+import { useRouter, usePathname } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
 import { DISCIPLINES, YEARS } from '@/lib/enem-constants'
 import { isPro, FREE_DAILY_LIMIT } from '@/lib/utils'
@@ -55,9 +55,11 @@ function formatTime(seconds: number): string {
 
 export default function SimuladoPage() {
   const router = useRouter()
+  const pathname = usePathname()
   const [token, setToken] = useState<string | null>(null)
   const [authLoading, setAuthLoading] = useState(true)
   const [limitHit, setLimitHit] = useState(false)
+  const [startError, setStartError] = useState(false)
 
   // Setup state
   const [qCount, setQCount] = useState<10 | 20 | 45>(20)
@@ -86,7 +88,7 @@ export default function SimuladoPage() {
 
   useEffect(() => {
     supabase.auth.getSession().then(({ data: { session } }) => {
-      if (!session) { router.push('/auth/login'); return }
+      if (!session) { router.push(`/auth/login?next=${encodeURIComponent(pathname)}`); return }
       setToken(session.access_token)
       setAuthLoading(false)
     })
@@ -130,6 +132,7 @@ export default function SimuladoPage() {
     }
 
     setState('loading')
+    setStartError(false)
     answersRef.current = []
     try {
       const params = new URLSearchParams({ year: String(year), limit: String(qCount) })
@@ -138,6 +141,11 @@ export default function SimuladoPage() {
       const data = await res.json()
       const all: Question[] = data.questions || []
       const picked = shuffle(all).slice(0, qCount)
+      if (picked.length === 0) {
+        setStartError(true)
+        setState('setup')
+        return
+      }
       setQuestions(picked)
       setCurrent(0)
       setSelected(null)
@@ -146,6 +154,7 @@ export default function SimuladoPage() {
       questionStartRef.current = Date.now()
       setState('active')
     } catch {
+      setStartError(true)
       setState('setup')
     }
   }
@@ -236,6 +245,7 @@ export default function SimuladoPage() {
             discipline={discipline} setDiscipline={setDiscipline}
             onStart={startSimulado}
             limitHit={limitHit}
+            startError={startError}
           />
         )}
 
@@ -276,7 +286,7 @@ export default function SimuladoPage() {
 }
 
 function SetupScreen({
-  qCount, setQCount, year, setYear, discipline, setDiscipline, onStart, limitHit,
+  qCount, setQCount, year, setYear, discipline, setDiscipline, onStart, limitHit, startError,
 }: {
   qCount: 10 | 20 | 45
   setQCount: (n: 10 | 20 | 45) => void
@@ -286,11 +296,24 @@ function SetupScreen({
   setDiscipline: (d: string) => void
   onStart: () => void
   limitHit: boolean
+  startError: boolean
 }) {
   return (
     <div>
       <h1 className="text-2xl font-bold text-zinc-900 mb-2">Modo Simulado</h1>
       <p className="text-zinc-500 mb-8">Pratique com timer, veja seu desempenho e nota estimada.</p>
+
+      {startError && (
+        <div className="mb-6 bg-red-50 border border-red-200 rounded-2xl px-6 py-4 flex items-start gap-3">
+          <span className="text-red-500 text-lg shrink-0">⚠</span>
+          <div>
+            <p className="text-red-900 font-semibold text-sm">Não foi possível carregar as questões</p>
+            <p className="text-red-700 text-sm mt-0.5">
+              Tente outra combinação de ano/disciplina ou tente novamente em instantes.
+            </p>
+          </div>
+        </div>
+      )}
 
       {limitHit && (
         <div className="mb-6 bg-amber-50 border border-amber-200 rounded-2xl px-6 py-4 flex items-start gap-3">

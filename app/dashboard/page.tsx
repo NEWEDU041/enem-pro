@@ -9,7 +9,7 @@ import PushSubscribeButton from '@/components/PushSubscribeButton'
 import { trackPurchase } from '@/lib/analytics'
 
 const supabase = createBrowserClient()
-import { DISCIPLINES, YEARS } from '@/lib/enem-constants'
+import { DISCIPLINES, YEARS, disciplineToSlug } from '@/lib/enem-constants'
 import { FREE_DAILY_LIMIT } from '@/lib/utils'
 
 export default function DashboardPage() {
@@ -38,7 +38,7 @@ function DashboardContent() {
 
   useEffect(() => {
     if (!upgradeSuccess || !user) return
-    const price = upgradePlan === 'monthly' ? 14.90 : 99
+    const price = upgradePlan === 'monthly' ? 29.90 : 99
     trackPurchase(price, 'BRL', 'pro')
     // Webhook takes 1-3s to process after Stripe redirect — retry sub check
     const timer = setTimeout(async () => {
@@ -380,13 +380,17 @@ function DashboardContent() {
               </Link>
             </div>
             <div className="space-y-2">
-              {recentWrong.map((w) => (
-                <Link key={`${w.question_id}-${w.answered_at}`} href={`/questoes/${encodeURIComponent(w.discipline)}/${w.year}`}
-                  className="flex items-center justify-between px-4 py-3 rounded-xl border border-zinc-100 hover:border-gold-400 hover:bg-gold-100 transition-all text-sm">
-                  <span className="text-zinc-700">{w.discipline.split(',')[0]} — ENEM {w.year}</span>
-                  <span className="text-gold-600 text-xs">Revisar →</span>
-                </Link>
-              ))}
+              {recentWrong.map((w) => {
+                const discSlug = disciplineToSlug(w.discipline)
+                const href = discSlug ? `/questoes/${discSlug}/${w.year}/${w.question_id.split('-')[1]}` : `/gabarito/${w.year}`
+                return (
+                  <Link key={`${w.question_id}-${w.answered_at}`} href={href}
+                    className="flex items-center justify-between px-4 py-3 rounded-xl border border-zinc-100 hover:border-gold-400 hover:bg-gold-100 transition-all text-sm">
+                    <span className="text-zinc-700">{w.discipline.split(',')[0]} — ENEM {w.year}</span>
+                    <span className="text-gold-600 text-xs">Revisar →</span>
+                  </Link>
+                )
+              })}
             </div>
           </div>
         )}

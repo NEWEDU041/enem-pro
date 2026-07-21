@@ -90,8 +90,9 @@ function buildCronograma(
 }
 
 function CronogramaContent() {
-  const daysLeft = daysUntil(ENEM_DATE)
-  const weeksLeft = Math.floor(daysLeft / 7)
+  const [daysLeft, setDaysLeft] = useState<number | null>(null)
+  useEffect(() => { setDaysLeft(daysUntil(ENEM_DATE)) }, [])
+  const weeksLeft = daysLeft !== null ? Math.floor(daysLeft / 7) : 0
 
   const [selectedDays, setSelectedDays] = useState([1, 2, 3, 4, 5]) // Seg-Sex default
   const [sessionsPerDay, setSessionsPerDay] = useState(2)
@@ -145,14 +146,14 @@ function CronogramaContent() {
         <div className="mb-8">
           <h1 className="text-2xl font-bold text-zinc-900 mb-1">Cronograma de Estudos ENEM 2026</h1>
           <p className="text-zinc-500 text-sm">
-            {daysLeft > 0
+            {daysLeft !== null && daysLeft > 0
               ? `Faltam ${daysLeft} dias (${weeksLeft} semanas) para o ENEM 2026. Monte seu plano agora.`
               : 'Monte seu cronograma de estudos personalizado.'}
           </p>
         </div>
 
         {/* Countdown */}
-        {daysLeft > 0 && (
+        {daysLeft !== null && daysLeft > 0 && (
           <div className="bg-white border border-amber-200 rounded-2xl px-6 py-4 mb-8 flex items-center gap-4">
             <div className="text-3xl">⏰</div>
             <div>

@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react'
 import Link from 'next/link'
-import { useRouter } from 'next/navigation'
+import { useRouter, usePathname } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
 
 const supabase = createBrowserClient()
@@ -46,6 +46,7 @@ function totalColor(total: number): string {
 
 export default function RedacaoPage() {
   const router = useRouter()
+  const pathname = usePathname()
   const [token, setToken] = useState<string | null>(null)
   const [isPro, setIsPro] = useState(false)
   const [freeUsed, setFreeUsed] = useState(false)
@@ -63,7 +64,7 @@ export default function RedacaoPage() {
   useEffect(() => {
     async function load() {
       const { data: { session } } = await supabase.auth.getSession()
-      if (!session) { router.push('/auth/login'); return }
+      if (!session) { router.push(`/auth/login?next=${encodeURIComponent(pathname)}`); return }
       setToken(session.access_token)
 
       const [subRes, countRes] = await Promise.all([
@@ -123,7 +124,10 @@ export default function RedacaoPage() {
       setScores(parsed)
       setResult(cleanText(full))
     } catch (err: unknown) {
-      if (err instanceof Error && err.name !== 'AbortError') setError(err.message)
+      if (err instanceof Error && err.name !== 'AbortError') {
+        const isNetworkError = /fetch|network/i.test(err.message)
+        setError(isNetworkError ? 'Erro de conexão. Verifique sua internet e tente novamente.' : err.message)
+      }
     } finally {
       setStreaming(false)
       setSubmitting(false)
@@ -172,7 +176,7 @@ export default function RedacaoPage() {
             <h3 className="font-bold text-amber-900 mb-1">Você usou sua correção gratuita</h3>
             <p className="text-amber-700 text-sm mb-4">Assine o Pro para correções ilimitadas com IA + análise detalhada.</p>
             <Link href="/planos" className="bg-indigo-600 text-white px-6 py-3 rounded-xl font-semibold hover:bg-indigo-700 inline-block">
-              Ver Plano Pro — R$14,90/mês
+              Ver Plano Pro — R$29,90/mês
             </Link>
           </div>
         )}

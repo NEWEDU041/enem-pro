@@ -24,7 +24,7 @@ const educationalOrgSchema = {
   sameAs: [siteUrl],
   offers: [
     { '@type': 'Offer', price: '0', priceCurrency: 'BRL', name: 'Plano Grátis — 10 questões/dia' },
-    { '@type': 'Offer', price: '14.90', priceCurrency: 'BRL', name: 'Plano Pro — questões ilimitadas + IA' },
+    { '@type': 'Offer', price: '29.90', priceCurrency: 'BRL', name: 'Plano Pro — questões ilimitadas + IA' },
   ],
 }
 
@@ -51,11 +51,11 @@ export const metadata: Metadata = {
     default: 'ENEM Pro — Questões reais + IA que explica cada resposta',
     template: '%s | ENEM Pro',
   },
-  description: 'Todas as questões do ENEM de 2009 a 2024. Responda, veja o gabarito e entenda o porquê com explicação gerada por IA. Grátis (10/dia) ou Pro R$14,90/mês.',
+  description: 'Todas as questões do ENEM de 2009 a 2024. Responda, veja o gabarito e entenda o porquê com explicação gerada por IA. Grátis (10/dia) ou Pro R$29,90/mês.',
   keywords: ['ENEM', 'questões ENEM', 'simulado ENEM', 'gabarito ENEM', 'preparatório ENEM 2026', 'questões com resolução'],
   openGraph: {
     title: 'ENEM Pro — Questões reais + IA que explica cada resposta',
-    description: 'Todas as questões do ENEM de 2009 a 2024 com explicação por IA. Grátis (10/dia) ou Pro R$14,90/mês.',
+    description: 'Todas as questões do ENEM de 2009 a 2024 com explicação por IA. Grátis (10/dia) ou Pro R$29,90/mês.',
     url: siteUrl,
     siteName: 'ENEM Pro',
     locale: 'pt_BR',

@@ -2,9 +2,9 @@
 
 import { useEffect, useMemo, useState, Suspense } from 'react'
 import Link from 'next/link'
-import { useRouter } from 'next/navigation'
+import { useRouter, usePathname } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
-import { DISCIPLINES, YEARS } from '@/lib/enem-constants'
+import { DISCIPLINES, YEARS, disciplineToSlug } from '@/lib/enem-constants'
 
 const supabase = createBrowserClient()
 
@@ -21,6 +21,7 @@ type Filter = 'all' | 'correct' | 'wrong'
 
 function HistoricoContent() {
   const router = useRouter()
+  const pathname = usePathname()
   const [answers, setAnswers] = useState<AnswerRow[]>([])
   const [filter, setFilter] = useState<Filter>('all')
   const [discipline, setDiscipline] = useState('')
@@ -32,7 +33,7 @@ function HistoricoContent() {
   useEffect(() => {
     async function load() {
       const { data: { user } } = await supabase.auth.getUser()
-      if (!user) { router.push('/auth/login'); return }
+      if (!user) { router.push(`/auth/login?next=${encodeURIComponent(pathname)}`); return }
 
       const { data } = await supabase
         .from('user_answers')
@@ -80,7 +81,7 @@ function HistoricoContent() {
         <div className="mb-8">
           <h1 className="text-2xl font-bold text-zinc-900 mb-1">Histórico completo</h1>
           <p className="text-zinc-500 text-sm">
-            {answers.length} questão{answers.length !== 1 ? 'ões' : ''} respondida{answers.length !== 1 ? 's' : ''} · {accuracy}% de acerto
+            {answers.length} {answers.length === 1 ? 'questão' : 'questões'} respondida{answers.length !== 1 ? 's' : ''} · {accuracy}% de acerto
           </p>
         </div>
 
@@ -185,10 +186,12 @@ function HistoricoContent() {
                 <div className="divide-y divide-zinc-100">
                   {paginated.map((a, i) => {
                     const shortDisc = a.discipline.split(',')[0].replace('e suas Tecnologias', '').trim()
+                    const discSlug = disciplineToSlug(a.discipline)
+                    const href = discSlug ? `/questoes/${discSlug}/${a.year}/${a.question_id.split('-')[1]}` : `/gabarito/${a.year}`
                     return (
                       <Link
                         key={`${a.question_id}-${i}`}
-                        href={`/questoes/${a.question_id}?year=${a.year}`}
+                        href={href}
                         className="flex items-center gap-4 px-6 py-4 hover:bg-zinc-50 transition-colors"
                       >
                         <div className={`shrink-0 w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold ${a.is_correct ? 'bg-green-100 text-green-600' : 'bg-red-100 text-red-500'}`}>

@@ -38,7 +38,7 @@ export default function PlanosPage() {
 
   async function handleCheckout(plan: 'monthly' | 'annual') {
     setLoading(plan)
-    trackBeginCheckout(plan, plan === 'monthly' ? 14.90 : 99)
+    trackBeginCheckout(plan, plan === 'monthly' ? 29.90 : 99)
     try {
       const { data: { session } } = await supabase.auth.getSession()
       if (!session) {
@@ -101,7 +101,7 @@ export default function PlanosPage() {
           <p className="text-xs font-semibold text-indigo-500 uppercase tracking-wider mb-3">O que está incluso no Pro</p>
           <div className="grid sm:grid-cols-2 gap-3">
             {[
-              { name: 'Sistema de Questões INEP Real', value: 'R$197', desc: '3.600+ questões reais 2009–2024' },
+              { name: 'Sistema de Questões INEP Real', value: 'R$197', desc: '2.900+ questões reais 2009–2024' },
               { name: 'IA por Questão (streaming)', value: 'R$147', desc: 'Explicação completa de cada erro' },
               { name: 'Sistema de 90 Dias para o ENEM', value: 'R$97', desc: 'Cronograma personalizado automático' },
               { name: 'Banco de Temas de Redação', value: 'R$47', desc: '50+ temas com repertório pronto' },
@@ -163,7 +163,7 @@ export default function PlanosPage() {
               <span className="text-indigo-200 text-sm mb-1">/mês</span>
             </div>
             <p className="text-indigo-100 font-semibold text-sm mb-1">R$99 cobrado anualmente</p>
-            <p className="text-indigo-300 text-xs mb-8">Economize 45% vs plano mensal</p>
+            <p className="text-indigo-300 text-xs mb-8">Economize 72% vs plano mensal</p>
             <ul className="space-y-3 text-sm mb-8">
               {[
                 'Questões ilimitadas',
@@ -196,7 +196,7 @@ export default function PlanosPage() {
             <h2 className="text-xl font-bold mb-1">Pro Mensal</h2>
             <p className="text-zinc-400 text-sm mb-6">Flexibilidade total</p>
             <div className="mb-1">
-              <span className="text-4xl font-bold">R$14,90</span>
+              <span className="text-4xl font-bold">R$29,90</span>
               <span className="text-zinc-400 text-sm">/mês</span>
             </div>
             <p className="text-zinc-400 text-xs mb-8">Cancele a qualquer momento</p>
@@ -246,8 +246,9 @@ export default function PlanosPage() {
 }
 
 function EnemCountdown() {
-  const days = daysUntil(ENEM_DATE)
-  if (days <= 0) return null
+  const [days, setDays] = useState<number | null>(null)
+  useEffect(() => { setDays(daysUntil(ENEM_DATE)) }, [])
+  if (days === null || days <= 0) return null
   return (
     <div className="inline-flex items-center gap-2 bg-amber-50 border border-amber-200 rounded-full px-4 py-1.5 text-sm font-medium text-amber-800 mb-8">
       ⏱️ Faltam <strong>{days} dias</strong> para o ENEM 2026

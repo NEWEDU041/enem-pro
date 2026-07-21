@@ -2,9 +2,9 @@
 
 import { useEffect, useMemo, useState, Suspense } from 'react'
 import Link from 'next/link'
-import { useRouter } from 'next/navigation'
+import { useRouter, usePathname } from 'next/navigation'
 import { createBrowserClient } from '@/lib/supabase'
-import { DISCIPLINES } from '@/lib/enem-constants'
+import { DISCIPLINES, disciplineToSlug } from '@/lib/enem-constants'
 
 const supabase = createBrowserClient()
 
@@ -18,6 +18,7 @@ type WrongAnswer = {
 
 function RevisaoContent() {
   const router = useRouter()
+  const pathname = usePathname()
   const [answers, setAnswers] = useState<WrongAnswer[]>([])
   const [discipline, setDiscipline] = useState('')
   const [loading, setLoading] = useState(true)
@@ -27,7 +28,7 @@ function RevisaoContent() {
   useEffect(() => {
     async function load() {
       const { data: { user } } = await supabase.auth.getUser()
-      if (!user) { router.push('/auth/login'); return }
+      if (!user) { router.push(`/auth/login?next=${encodeURIComponent(pathname)}`); return }
 
       const { data } = await supabase
         .from('user_answers')
@@ -85,7 +86,7 @@ function RevisaoContent() {
           <p className="text-zinc-500 text-sm">
             {answers.length === 0
               ? 'Nenhuma questão errada ainda. Continue praticando!'
-              : `${answers.length} questão${answers.length > 1 ? 'ões' : ''} errada${answers.length > 1 ? 's' : ''} — foque nos pontos fracos.`}
+              : `${answers.length} ${answers.length > 1 ? 'questões erradas' : 'questão errada'} — foque nos pontos fracos.`}
           </p>
         </div>
 
@@ -129,7 +130,7 @@ function RevisaoContent() {
             <div className="bg-white rounded-2xl border border-zinc-200 overflow-hidden mb-6">
               <div className="px-6 py-4 border-b border-zinc-100 flex items-center justify-between">
                 <span className="text-sm font-semibold text-zinc-700">
-                  {filtered.length} questão{filtered.length !== 1 ? 'ões' : ''}
+                  {filtered.length} {filtered.length === 1 ? 'questão' : 'questões'}
                   {discipline ? ` em ${discipline.split(',')[0]}` : ''}
                 </span>
                 <span className="text-xs text-zinc-400">Clique para rever</span>
@@ -140,10 +141,12 @@ function RevisaoContent() {
                 <div className="divide-y divide-zinc-100">
                   {paginated.map((a, i) => {
                     const shortDisc = a.discipline.split(',')[0].replace('e suas Tecnologias', '').trim()
+                    const discSlug = disciplineToSlug(a.discipline)
+                    const href = discSlug ? `/questoes/${discSlug}/${a.year}/${a.question_id.split('-')[1]}` : `/gabarito/${a.year}`
                     return (
                       <Link
                         key={`${a.question_id}-${i}`}
-                        href={`/questoes/${a.question_id}?year=${a.year}`}
+                        href={href}
                         className="flex items-center gap-4 px-6 py-4 hover:bg-indigo-50 transition-colors"
                       >
                         <div className="shrink-0 w-8 h-8 rounded-full bg-red-100 text-red-600 flex items-center justify-center text-xs font-bold">

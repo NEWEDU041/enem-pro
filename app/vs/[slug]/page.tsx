@@ -11,96 +11,103 @@ type Competitor = {
   focus: string
   cons: string[]
   pros: string[]
+  // Ordem: Questões INEP reais, IA explica por questão, Revisão automática,
+  // Gabarito histórico por ano, Calculadora TRI, Cronograma personalizado,
+  // Gratuito (parcial/total), Preço ≤ ENEM Pro. Verificado via pesquisa real
+  // em 20/07/2026 — default é false quando não confirmado (nunca supor).
+  features: [boolean, boolean, boolean, boolean, boolean, boolean, boolean, boolean]
 }
 
 const COMPETITORS: Record<string, Competitor> = {
   descomplica: {
     name: 'Descomplica',
     slug: 'descomplica',
-    price: 'R$39–79/mês',
-    desc: 'Plataforma focada em videoaulas para ENEM e vestibulares. Um dos maiores players do mercado.',
+    price: 'R$39,90–119,90/mês',
+    desc: 'Plataforma focada em videoaulas para ENEM e vestibulares. Um dos maiores players do mercado, com banco de questões e gabarito histórico próprios.',
     focus: 'Videoaulas + cursos gravados',
     cons: [
-      'Custo 3–5× maior que o ENEM Pro',
-      'Foco em videoaulas — você assiste, não pratica',
-      'Sem banco de questões INEP reais integrado',
-      'Sem explicação de IA por questão específica',
-      'Sem modo revisão de erros automático',
+      'Planos completos custam bem mais que o ENEM Pro',
+      'Modelo centrado em videoaulas — menos foco em prática ativa por questão',
+      'IA é um assistente de estudos geral, não uma explicação dedicada por questão errada',
+      'Sem modo de revisão automática de erros por disciplina',
     ],
     pros: [
       'Grande biblioteca de videoaulas',
       'Marca reconhecida',
+      'Tem banco de questões reais do INEP e gabarito histórico interativo próprios',
       'Professores especializados por matéria',
     ],
+    features: [true, false, false, true, true, false, false, false],
   },
   stoodi: {
     name: 'Stoodi',
     slug: 'stoodi',
-    price: 'R$39/mês',
-    desc: 'Plataforma com plano de estudos, exercícios e correção de redação para ENEM.',
+    price: 'R$13,90–39,90/mês (plano anual)',
+    desc: 'Plataforma com plano de estudos, exercícios, gabarito histórico e correção de redação para ENEM.',
     focus: 'Plano de estudos + videoaulas',
     cons: [
-      'Custo 2,6× maior que o ENEM Pro',
-      'Questões genéricas — não exclusivamente da prova INEP',
-      'Sem explicação de IA personalizada por questão',
-      'Redação corrigida por IA genérica',
-      'Sem gabarito interativo com anos históricos',
+      'Preço parcelado em compromisso anual, não avulso mês a mês',
+      'Redação corrigida por especialistas humanos, com prazo de até 10 dias úteis (não é instantâneo)',
+      'TutorIA é um chat geral de dúvidas, não uma explicação dedicada por questão errada',
+      'Sem modo de revisão automática de erros por disciplina',
     ],
     pros: [
       'Plano de estudos estruturado',
+      'Gabarito histórico do ENEM (2011–2024)',
       'Correção de redação incluída',
       'Interface moderna',
     ],
+    features: [false, false, false, true, false, true, false, false],
   },
   'estuda-com': {
     name: 'Estuda.com',
     slug: 'estuda-com',
-    price: 'Pago',
-    desc: 'Plataforma com foco em banco de questões de concursos e ENEM.',
-    focus: 'Banco de questões (200K+)',
+    price: 'Grátis (Treineiro) ou R$45,90–99,90/mês',
+    desc: 'Plataforma com foco em banco de questões de concursos e ENEM, com assistente de IA (Duda) e plano de estudos adaptativo.',
+    focus: 'Banco de questões (200K+) + IA',
     cons: [
       'Interface menos moderna',
-      'Sem explicação de IA por questão',
-      'Sem modo revisão automático de erros',
-      'Sem cronograma personalizado',
-      'Focado em quantidade, não em aprendizado',
+      'Focado em volume de questões — cobre concursos além do ENEM, menos especializado',
+      'Sem calculadora de nota TRI',
     ],
     pros: [
       'Grande banco de questões (200K+)',
+      'Duda IA explica questões erradas e monta plano de estudos adaptativo',
       'Cobre além do ENEM (concursos)',
-      'Histórico longo na plataforma',
+      'Tem plano gratuito',
     ],
+    features: [false, true, true, false, false, true, true, false],
   },
   'me-salva': {
     name: 'Me Salva!',
     slug: 'me-salva',
-    price: 'R$29–49/mês',
-    desc: 'Plataforma de videoaulas e exercícios focada em ENEM e vestibulares, com forte presença no YouTube.',
+    price: 'até R$49,90/mês',
+    desc: 'Plataforma de videoaulas e exercícios focada em ENEM e vestibulares, com forte presença no YouTube e banco de provas reais do INEP.',
     focus: 'Videoaulas didáticas + exercícios',
     cons: [
-      'Custo 2–3× maior que o ENEM Pro',
-      'Questões próprias — não são as provas reais do INEP',
-      'Sem explicação de IA personalizada por questão',
+      'Custo mensal mais alto que o ENEM Pro',
       'Modelo baseado em videoaulas — foco passivo, não ativo',
-      'Sem modo revisão automático de erros',
-      'Sem gabarito histórico interativo',
+      'Sem confirmação de explicação de IA personalizada por questão específica',
+      'Sem modo de revisão automática de erros por disciplina',
     ],
     pros: [
       'Professores didáticos com boa didática em vídeo',
-      'Canal YouTube gratuito com milhões de seguidores',
+      'Canal YouTube gratuito com ~2 milhões de inscritos',
+      'Banco de Provas com exames reais do INEP (2009–2018) e gabarito',
       'Cobre ENEM, FUVEST, UNICAMP e outros vestibulares',
     ],
+    features: [true, false, false, true, false, false, false, false],
   },
   'khan-academy': {
     name: 'Khan Academy',
     slug: 'khan-academy',
     price: 'Gratuito',
-    desc: 'Plataforma educacional gratuita americana com conteúdo traduzido para português. Parceira oficial do INEP para preparação ao ENEM.',
+    desc: 'Plataforma educacional gratuita, sem fins lucrativos, com conteúdo adaptado ao currículo brasileiro em parceria com a Fundação Lemann.',
     focus: 'Conteúdo gratuito + exercícios adaptados',
     cons: [
-      'Questões americanas adaptadas — não são as provas reais do INEP',
+      'Exercícios adaptados ao currículo brasileiro — não são as provas reais do INEP',
       'Sem questões oficiais do ENEM (2009–2024)',
-      'Sem explicação de IA por questão do ENEM',
+      'Sem explicação de IA específica por questão do ENEM',
       'Sem gabarito histórico do ENEM',
       'Sem calculadora de nota TRI',
       'Conteúdo mais generalista — não específico à banca INEP',
@@ -108,88 +115,65 @@ const COMPETITORS: Record<string, Competitor> = {
     pros: [
       '100% gratuito, sem anúncios',
       'Conteúdo de alta qualidade (matemática, ciências)',
-      'Parceria oficial com o INEP para o ENEM',
+      'Parceria com a Fundação Lemann para adaptação ao ensino brasileiro',
     ],
+    features: [false, false, false, false, false, false, true, true],
   },
   poliedro: {
     name: 'Sistema Poliedro',
     slug: 'poliedro',
-    price: 'R$79–129/mês',
-    desc: 'Sistema de ensino premium focado em vestibulares de elite (FUVEST, UNICAMP) com material didático impresso e plataforma online.',
+    price: 'Sistema anual (via escola parceira ou curso), não é assinatura mensal avulsa',
+    desc: 'Sistema de ensino premium focado em vestibulares de elite (FUVEST, UNICAMP, Medicina) com material didático impresso e plataforma online.',
     focus: 'Preparação vestibulares top + ENEM',
     cons: [
-      'Custo 5–9× maior que o ENEM Pro',
+      'Modelo de venda anual/escolar — não é uma assinatura mensal simples como o ENEM Pro',
       'Foco em vestibulares de elite — não otimizado só para ENEM',
-      'Banco de questões próprio, não as provas reais do INEP',
-      'Sem explicação de IA personalizada por questão errada',
-      'Sem modo revisão automático de erros',
-      'Material impresso (livros) — não substituível por questões do INEP',
+      'Centrado em material impresso próprio, não nas provas reais do INEP',
     ],
     pros: [
       'Material didático de alta qualidade',
-      'Ótimo para quem mira FUVEST/UNICAMP além do ENEM',
+      'Ótimo para quem mira FUVEST/UNICAMP/Medicina além do ENEM',
       'Professores especializados por disciplina',
     ],
-  },
-  gauss: {
-    name: 'Gauss Educação',
-    slug: 'gauss',
-    price: 'R$29–59/mês',
-    desc: 'Plataforma de questões e exercícios para ENEM e vestibulares com banco extenso de itens e estatísticas de desempenho.',
-    focus: 'Banco de questões + desempenho',
-    cons: [
-      'Custo 2–4× maior que o ENEM Pro',
-      'Interface menos moderna e fluida',
-      'Sem explicação de IA personalizada por questão',
-      'Sem cronograma de estudos integrado',
-      'Sem calculadora de nota TRI',
-      'Sem gabarito histórico interativo com contexto por ano',
-    ],
-    pros: [
-      'Banco extenso de questões',
-      'Estatísticas de desempenho por assunto',
-      'Cobre ENEM e outros vestibulares',
-    ],
+    features: [false, false, false, false, false, false, false, false],
   },
   'prepara-enem': {
     name: 'Prepara ENEM',
     slug: 'prepara-enem',
-    price: 'R$19–39/mês',
-    desc: 'Aplicativo móvel com questões de ENEM e simulados rápidos para praticar no celular.',
+    price: 'Gratuito',
+    desc: 'Aplicativo móvel gratuito (Google Play) com questões de todas as provas do ENEM e simulados rápidos para praticar no celular.',
     focus: 'App mobile + simulados rápidos',
     cons: [
-      'Custo 1,3–2,6× maior que o ENEM Pro',
-      'Banco de questões incompleto (não cobre 2009–2024 integralmente)',
-      'Sem explicação de IA por questão',
-      'Sem gabarito histórico interativo',
+      'Sem confirmação de explicação de IA por questão',
       'Sem calculadora de nota TRI',
       'Sem cronograma personalizado de estudos',
+      'Foco em simulados rápidos — menos indicado para estudo por disciplina',
     ],
     pros: [
-      'Interface mobile amigável',
+      'Interface mobile amigável, 500 mil+ downloads',
+      'Gratuito, sem necessidade de cadastro',
       'Simulados rápidos para praticar no celular',
-      'Notificações de lembretes de estudo',
     ],
+    features: [true, false, false, true, false, false, true, true],
   },
   estrategia: {
     name: 'Estratégia Vestibulares',
     slug: 'estrategia',
-    price: 'R$39–89/mês',
-    desc: 'Plataforma com videoaulas, cursos e simulados para ENEM e vestibulares, com professores reconhecidos.',
-    focus: 'Videoaulas + simulados + ENEM',
+    price: 'R$73–267/mês (planos anuais parcelados)',
+    desc: 'Plataforma com videoaulas, banco de questões (288 mil+), simulados e planejamento com IA para ENEM e vestibulares, com professores reconhecidos.',
+    focus: 'Videoaulas + banco de questões + simulados',
     cons: [
-      'Custo 2,6–6× maior que o ENEM Pro',
-      'Foco em conteúdo passivo (videoaulas) — não em prática ativa',
-      'Sem banco de questões INEP real organizado por ano',
-      'Sem IA que explica o raciocínio de cada questão errada',
-      'Sem modo revisão automático de erros por disciplina',
-      'Plano com mais recursos custa R$89/mês',
+      'Preço mais alto que o ENEM Pro, vendido em planos anuais parcelados',
+      'IA é voltada a planejamento de estudos, não a explicar o raciocínio de cada questão errada',
+      'Sem modo de revisão automática de erros por disciplina confirmado',
     ],
     pros: [
       'Professores reconhecidos com didática comprovada',
+      'Banco de questões extenso (288 mil+, parte comentada)',
       'Cobre ENEM e principais vestibulares estaduais',
-      'Simulados completos com correção',
+      'Simulados semanais gratuitos com correção',
     ],
+    features: [false, false, false, false, false, true, true, false],
   },
 }
 
@@ -214,7 +198,7 @@ const ENEM_PRO_PROS = [
   'Calculadora de nota TRI interativa',
   'Cronograma personalizado por prioridade',
   'Push notification — lembrete diário de estudo',
-  'R$14,90/mês ou R$99/ano — 6× mais barato',
+  'R$29,90/mês ou R$99/ano — sem fidelidade',
   '10 questões/dia grátis — sem cartão',
 ]
 
@@ -243,7 +227,7 @@ export default async function VsPage({ params }: { params: Promise<{ slug: strin
         <div className="grid grid-cols-2 gap-4 mb-8">
           <div className="bg-indigo-600 text-white rounded-2xl p-6 text-center">
             <p className="text-sm font-medium opacity-80 mb-2">ENEM Pro</p>
-            <p className="text-3xl font-bold mb-1">R$14,90<span className="text-lg font-normal opacity-70">/mês</span></p>
+            <p className="text-3xl font-bold mb-1">R$29,90<span className="text-lg font-normal opacity-70">/mês</span></p>
             <p className="text-xs opacity-70">ou R$99/ano (45% off)</p>
             <p className="text-xs mt-2 opacity-80">10 questões/dia grátis</p>
           </div>
@@ -266,22 +250,22 @@ export default async function VsPage({ params }: { params: Promise<{ slug: strin
             </thead>
             <tbody className="divide-y divide-zinc-50">
               {[
-                ['Questões INEP reais (2009–2024)', true, false],
-                ['IA explica cada questão errada', true, false],
-                ['Modo revisão de erros automático', true, false],
-                ['Gabarito histórico por ano', true, false],
-                ['Calculadora nota TRI', true, false],
-                ['Cronograma personalizado', true, false],
-                ['Gratuito parcialmente', true, false],
-                ['Preço mensal acessível', true, false],
-              ].map(([label, enem, comp]) => (
-                <tr key={String(label)} className="hover:bg-zinc-50">
+                'Questões INEP reais (2009–2024)',
+                'IA explica cada questão errada',
+                'Modo revisão de erros automático',
+                'Gabarito histórico por ano',
+                'Calculadora nota TRI',
+                'Cronograma personalizado',
+                'Gratuito (parcial ou total)',
+                'Preço ≤ ENEM Pro',
+              ].map((label, i) => (
+                <tr key={label} className="hover:bg-zinc-50">
                   <td className="px-5 py-3 text-zinc-700">{label}</td>
                   <td className="text-center px-4 py-3">
-                    {enem ? <span className="text-green-500 font-bold">✓</span> : <span className="text-zinc-300">—</span>}
+                    <span className="text-green-500 font-bold">✓</span>
                   </td>
                   <td className="text-center px-4 py-3">
-                    {comp ? <span className="text-green-500 font-bold">✓</span> : <span className="text-zinc-300">—</span>}
+                    {c.features[i] ? <span className="text-green-500 font-bold">✓</span> : <span className="text-zinc-300">—</span>}
                   </td>
                 </tr>
               ))}
@@ -329,7 +313,7 @@ export default async function VsPage({ params }: { params: Promise<{ slug: strin
           </p>
           <p className="text-indigo-700 text-sm mb-6">
             10 questões reais do ENEM por dia. Gabarito imediato. IA explica cada erro.<br />
-            Assine Pro por <strong>R$14,90/mês</strong> quando quiser mais.
+            Assine Pro por <strong>R$29,90/mês</strong> quando quiser mais.
           </p>
           <Link href="/auth/register" className="inline-block bg-indigo-600 text-white font-bold px-8 py-4 rounded-xl hover:bg-indigo-700 text-lg">
             Criar conta grátis →

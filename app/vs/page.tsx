@@ -16,65 +16,58 @@ const COMPETITORS = [
   {
     slug: 'descomplica',
     name: 'Descomplica',
-    price: 'R$39–79/mês',
+    price: 'R$39,90–119,90/mês',
     focus: 'Videoaulas',
-    diff: '3–5× mais caro, sem questões INEP reais',
+    diff: 'Mais caro, foco em videoaulas (menos prática ativa)',
   },
   {
     slug: 'stoodi',
     name: 'Stoodi',
-    price: 'R$39/mês',
+    price: 'R$13,90–39,90/mês',
     focus: 'Plano de estudos + videoaulas',
-    diff: '2,6× mais caro, questões genéricas',
+    diff: 'Redação corrigida por humanos (até 10 dias), sem IA por questão',
   },
   {
     slug: 'me-salva',
     name: 'Me Salva!',
-    price: 'R$29–49/mês',
+    price: 'até R$49,90/mês',
     focus: 'Videoaulas didáticas',
-    diff: '2–3× mais caro, sem IA por questão',
+    diff: 'Mais caro, foco em videoaulas (menos prática ativa)',
   },
   {
     slug: 'khan-academy',
     name: 'Khan Academy',
     price: 'Gratuito',
     focus: 'Conteúdo educacional',
-    diff: 'Questões americanas — não são provas INEP reais',
+    diff: 'Exercícios adaptados — não são as provas reais do INEP',
   },
   {
     slug: 'estuda-com',
     name: 'Estuda.com',
-    price: 'Pago',
+    price: 'Grátis ou R$45,90–99,90/mês',
     focus: 'Banco de questões',
-    diff: 'Sem IA, sem revisão automática de erros',
+    diff: 'Cobre concursos além do ENEM, sem calculadora TRI',
   },
   {
     slug: 'poliedro',
     name: 'Sistema Poliedro',
-    price: 'R$79–129/mês',
+    price: 'Sistema anual (não é assinatura mensal)',
     focus: 'Vestibulares premium + ENEM',
-    diff: '5–9× mais caro, material impresso, não focado no INEP',
-  },
-  {
-    slug: 'gauss',
-    name: 'Gauss Educação',
-    price: 'R$29–59/mês',
-    focus: 'Banco de questões + desempenho',
-    diff: '2–4× mais caro, sem IA personalizada',
+    diff: 'Foco em elite/FUVEST/UNICAMP, material impresso próprio',
   },
   {
     slug: 'prepara-enem',
     name: 'Prepara ENEM',
-    price: 'R$19–39/mês',
+    price: 'Gratuito',
     focus: 'App mobile + simulados rápidos',
-    diff: 'Sem IA por questão, banco incompleto',
+    diff: 'Sem IA por questão, sem calculadora TRI',
   },
   {
     slug: 'estrategia',
     name: 'Estratégia Vestibulares',
-    price: 'R$39–89/mês',
-    focus: 'Videoaulas + simulados + ENEM',
-    diff: '2,6–6× mais caro, sem questões INEP reais',
+    price: 'R$73–267/mês',
+    focus: 'Videoaulas + banco de questões + simulados',
+    diff: 'Mais caro, IA é de planejamento (não por questão)',
   },
 ]
 
@@ -131,7 +124,7 @@ export default function VsIndexPage() {
         {/* Destaque ENEM Pro */}
         <div className="bg-indigo-600 text-white rounded-2xl p-6 mb-8 text-center">
           <p className="text-sm font-medium opacity-80 mb-1">ENEM Pro</p>
-          <p className="text-3xl font-bold mb-1">R$14,90<span className="text-lg font-normal opacity-70">/mês</span></p>
+          <p className="text-3xl font-bold mb-1">R$29,90<span className="text-lg font-normal opacity-70">/mês</span></p>
           <p className="text-xs opacity-70 mb-4">ou R$99/ano (45% off) · 10 questões/dia grátis</p>
           <div className="flex flex-wrap gap-2 justify-center text-xs">
             {[

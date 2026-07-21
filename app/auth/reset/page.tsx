@@ -35,7 +35,16 @@ function ResetContent() {
     if (password !== confirm) { setError('As senhas não coincidem.'); return }
     setLoading(true)
     const { error } = await supabase.auth.updateUser({ password })
-    if (error) { setError(error.message); setLoading(false); return }
+    if (error) {
+      const normalized = error.message.toLowerCase()
+      setError(
+        normalized.includes('should be different')
+          ? 'A nova senha deve ser diferente da atual.'
+          : 'Não foi possível atualizar sua senha. Solicite um novo link e tente novamente.'
+      )
+      setLoading(false)
+      return
+    }
     setDone(true)
     setTimeout(() => router.push('/auth/login'), 2500)
   }

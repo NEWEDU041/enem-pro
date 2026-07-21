@@ -2,6 +2,7 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { SITE_URL } from '@/lib/site-config'
+import { YEARS } from '@/lib/enem-constants'
 
 type Materia = {
   name: string
@@ -371,7 +372,7 @@ export default async function MateriaPage({ params }: { params: Promise<{ slug: 
               O ENEM Pro reúne todas as questões de {m.name} de 2009 a 2024 — com gabarito e explicação da IA para cada erro.
             </p>
             <div className="flex gap-3 justify-center flex-wrap">
-              <Link href={`/questoes/${m.areaSlug}`} className={`${c.button} text-white font-bold px-6 py-3 rounded-xl transition-colors`}>
+              <Link href={`/questoes/${m.areaSlug}/2024`} className={`${c.button} text-white font-bold px-6 py-3 rounded-xl transition-colors`}>
                 Ver questões de {m.name}
               </Link>
               <Link href="/auth/register" className="bg-white border border-zinc-300 text-zinc-700 font-semibold px-6 py-3 rounded-xl hover:bg-zinc-50 transition-colors">
@@ -383,7 +384,7 @@ export default async function MateriaPage({ params }: { params: Promise<{ slug: 
           <div className="bg-white rounded-2xl border border-zinc-200 p-6">
             <h2 className="font-bold text-zinc-900 mb-4">Questões por Ano — {m.name}</h2>
             <div className="flex flex-wrap gap-2">
-              {[2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009].map(year => (
+              {YEARS.map(year => (
                 <Link
                   key={year}
                   href={`/questoes/${m.areaSlug}/${year}`}

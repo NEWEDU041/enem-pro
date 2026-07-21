@@ -43,7 +43,7 @@ export default function Image() {
         marginBottom: '24px',
         maxWidth: '900px',
       }}>
-        3.600+ questões do ENEM com explicação por IA
+        2.900+ questões do ENEM com explicação por IA
       </div>
 
       <div style={{
@@ -76,7 +76,7 @@ export default function Image() {
           fontWeight: '600',
           border: '2px solid rgba(255,255,255,0.3)',
         }}>
-          Pro R$14,90/mês
+          Pro R$29,90/mês
         </div>
       </div>
     </div>

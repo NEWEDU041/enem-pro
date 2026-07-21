@@ -8,6 +8,23 @@ import { Suspense } from 'react'
 
 const supabase = createBrowserClient()
 
+function translateAuthError(message: string): string {
+  const normalized = message.toLowerCase()
+  if (normalized.includes('already registered') || normalized.includes('already exists')) {
+    return 'Este email já está cadastrado. Tente entrar na sua conta.'
+  }
+  if (normalized.includes('password should be at least')) {
+    return 'Senha deve ter pelo menos 6 caracteres.'
+  }
+  if (normalized.includes('invalid') && normalized.includes('email')) {
+    return 'Digite um email válido.'
+  }
+  if (normalized.includes('rate limit')) {
+    return 'Muitas tentativas em pouco tempo. Aguarde alguns minutos e tente novamente.'
+  }
+  return 'Não foi possível criar sua conta. Verifique os dados e tente novamente.'
+}
+
 export default function RegisterPage() {
   return (
     <Suspense fallback={<div className="min-h-screen flex items-center justify-center text-zinc-400">Carregando...</div>}>
@@ -46,7 +63,7 @@ function RegisterForm() {
       options: { data: { name } },
     })
     if (signUpError) {
-      setError(signUpError.message)
+      setError(translateAuthError(signUpError.message))
       setLoading(false)
       return
     }
