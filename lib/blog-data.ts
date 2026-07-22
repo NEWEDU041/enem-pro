@@ -5,6 +5,7 @@ export interface BlogPost {
   date: string
   readTime: number
   content: string
+  cover_url?: string
 }
 
 export const BLOG_POSTS: BlogPost[] = [
@@ -48028,7 +48029,14 @@ Sim, desde que emitido por aplicativo oficial, como a CNH Digital ou o RG no apl
 
 ### Posso levar lanche para a prova do ENEM?
 Sim. Alimentos e água são permitidos em embalagens transparentes e sem rótulo. Prefira lanches leves que não dão sono, como frutas, castanhas e barras de cereal.
-    `,
+    
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
+`,
   },
 
   {
@@ -48136,7 +48144,14 @@ Não dentro da sala de prova. Boné, gorro e óculos escuros precisam ser retira
 
 ### O que acontece se meu alarme tocar durante a prova?
 A emissão de som por qualquer aparelho eletrônico, incluindo alarme, leva à eliminação imediata. Por isso é essencial cancelar todos os alarmes e desligar o celular antes de entrar.
-    `,
+    
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
+`,
   },
 
   {
@@ -48610,7 +48625,14 @@ Você faz a prova no município que escolheu na inscrição. Mudanças de local 
 
 ### Preciso imprimir o cartão de confirmação?
 Não é obrigatório, mas é muito recomendado. Levar o cartão impresso ajuda a localizar a sala rapidamente e a confirmar os horários, evitando atrasos na entrada.
-    `,
+    
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
+`,
   },
 
   {
@@ -48707,7 +48729,14 @@ Confirme que a inscrição foi concluída, verifique se está logado com o CPF c
 
 ### Quando sai o cartão de confirmação do ENEM 2026?
 O cartão costuma ser liberado algumas semanas antes da prova, em data informada pelo Inep no cronograma oficial. Antes desse período, ele ainda não fica disponível na Página do Participante.
-    `,
+    
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
+`,
   },
 
   {
@@ -51409,6 +51438,13 @@ Comece hoje. Ajuste horários conforme sua realidade. Mas mantenha estrutura: ma
 **Próximo passo:** [monte seu cronograma personalizado](/cronograma) direto na plataforma, sem precisar de planilha.
 
 ---
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'deficiente-enem-direitos-recursos', title: "Deficiente no ENEM: Direitos, Recursos e Procedimentos", description: "18.000 candidatos com deficiência fizeram ENEM 2024. Conheça seus direitos, adaptações disponíveis e como solicitar.", date: '2026-07-09', readTime: 6, content: `
 # Deficiente no ENEM: Direitos, Recursos e Procedimentos
@@ -51788,6 +51824,13 @@ Comece hoje. Escolha uma hora de estudo consistente. Durma 7 horas. Refaça uma 
 **Próximo passo:** [teste seu nível atual com um simulado gratuito](/simulado) e receba diagnóstico personalizado.
 
 ---
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'problemas-cotidiano-enem', title: "Problemas do Dia a Dia que Aparecem no ENEM: Exemplos Reais", description: "ENEM cobre temas como saneamento, saúde, energia, educação. Veja 10 problemas reais que viram questões e como se preparar.", date: '2026-07-09', readTime: 6, content: `
 # Problemas do Dia a Dia que Aparecem no ENEM: Exemplos Reais
@@ -52313,6 +52356,13 @@ Comece na manhã cedo. Sacrifique 1 hora de sono por 6 meses. Acordar 1 hora ant
 **Próximo passo:** [monte seu cronograma personalizado](/cronograma) e ajuste conforme seus turnos.
 
 ---
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
 ]
 
@@ -52418,7 +52468,14 @@ Processo completo leva aproximadamente 4 meses: resultado em janeiro, Sisu em ja
 
 O cronograma ENEM 2026 segue padrão estabelecido pelo INEP com inscrições em maio, provas em novembro e resultado até janeiro de 2027. Conhecer cada data impede perda de prazos críticos em isenção, inscrição, recurso e utilização da nota. Recomenda-se acessar o portal oficial do INEP em maio para datas exatas confirmadas. Marque os prazos em calendário e avise sua família para não perder oportunidade de participação.
 
----` },
+---
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
+` },
   { slug: 'taxa-inscricao-enem-2026', title: "Taxa de Inscrição ENEM 2026: Quanto Custa e Como Conseguir Isenção", description: "Taxa ENEM 2026 custa cerca de 85 a 100 reais. Saiba como solicitar isenção.", date: '2026-07-11', readTime: 6, content: `# Taxa de Inscrição ENEM 2026: Quanto Custa e Como Conseguir Isenção
 
 > **Key Takeaways**
@@ -52531,7 +52588,14 @@ Não. ENEM não oferece descontos para candidatos que já participaram antes. Ca
 
 A taxa de inscrição ENEM 2026 custa aproximadamente 85-100 reais, confirmado em abril de 2026. Candidatos de baixa renda (até 1,5 salário mínimo por pessoa) podem solicitar isenção da taxa. Pagamento para candidatos sem isenção deve ocorrer em 7 dias via boleto, débito em conta ou cartão. Solicite isenção antes do período regular de inscrições para maximizar chances de aprovação.
 
----` },
+---
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
+` },
   { slug: 'quando-sai-resultado-enem-2026', title: "Quando Sai o Resultado do ENEM 2026: Datas Oficiais e Como Consultar", description: "Resultado ENEM 2026 sai até 60 dias após provas (estimado janeiro 2027). Saiba como acessar.", date: '2026-07-11', readTime: 6, content: `# Quando Sai o Resultado do ENEM 2026: Datas Oficiais e Como Consultar
 
 > **Key Takeaways**
@@ -52643,7 +52707,14 @@ Muitas universidades privadas aceitam nota ENEM para bolsas via ProUni. Outras a
 
 Resultado ENEM 2026 é divulgado até 60 dias após provas, estimado para janeiro 2027. Boletim contém pontuação por área de conhecimento e nota de redação. Resultado permanece válido 10 anos para Sisu, ProUni e Fies. Após receber resultado, próximos passos incluem participar de Sisu, ProUni ou Fies para ingresso em universidade. Recomenda-se baixar cópia em PDF do boletim como backup.
 
----` },
+---
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
+` },
   { slug: 'melhores-recursos-estudar-enem', title: "Melhores Recursos para Estudar ENEM 2026: Guia com Plataformas e Dicas Gratuitas", description: "Descubra as melhores plataformas gratuitas e pagas para estudar ENEM 2026, de Khan Academy a questões de anos anteriores.", date: '2026-07-11', readTime: 5, content: `# Melhores Recursos para Estudar ENEM 2026: Guia com Plataformas e Dicas Gratuitas
 
 > **Key Takeaways**
@@ -52745,7 +52816,14 @@ Questões de anos anteriores combinadas com Khan Academy Matemática. Matemátic
 
 Questões de anos anteriores estão entre os recursos mais eficazes para ganho de pontuação. Cronograma ideal é 6 meses, 3-4 horas/dia: revisão (meses 1-2), aprofundamento (3-4) e simulados (5-6). Combinação de livros didáticos com plataformas digitais supera qualquer um dos modelos isoladamente. Redação requer feedback especializado, mínimo 1 redação por semana. Preparação eficaz não depende de investimento financeiro, mas de dedicação consistente.
 
----` },
+---
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
+` },
   { slug: 'dia-enem-dicas-preparacao', title: "Dia do ENEM 2026: Dicas, O Que Levar e Como Se Preparar", description: "O que levar no dia do ENEM 2026, horários de portão, documentos obrigatórios e dicas para chegar preparado e sem ansiedade na hora da prova.", date: '2026-07-11', readTime: 6, content: `# Dia do ENEM 2026: Dicas, O Que Levar e Como Se Preparar
 
 > **Key Takeaways**
@@ -52871,7 +52949,14 @@ Não há câmeras nas salas de prova. Há fiscalização humana. Monitoramento �
 
 Dia do ENEM requer preparação minuciosa: chegar 30-45 minutos antes, levar Comprovante + ID + caneta (2) + lápis HB, usar roupas confortáveis, evitar eletrônicos, comer leve, hidratação constante. Preparação não termina no dia anterior: também inclui rotina nos primeiros momentos do dia. Chegar cedo reduz ansiedade significativamente.
 
----` },
+---
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
+` },
   { slug: 'usar-nota-enem-universidade', title: "Como Usar Sua Nota ENEM em Universidades 2026: Guia Completo", description: "Como usar sua nota do ENEM no Sisu, ProUni e Fies: prazos, nota mínima, como escolher entre os programas e o que fazer após receber o resultado.", date: '2026-07-11', readTime: 6, content: `# Como Usar Sua Nota ENEM em Universidades 2026: Guia Completo
 
 > **Key Takeaways**
@@ -52979,7 +53064,14 @@ Fila 1 significa que há candidatos à frente. Você é chamado em 2ª ou 3ª ch
 
 Após receber nota ENEM 2026, você pode usar em 3 programas principais: Sisu (universidades públicas, 250 mil vagas), ProUni (bolsas privadas, 230 mil bolsas), Fies (financiamento privado, 480 mil contratos). Nota mínima é 450 pontos para qualquer programa. Inscrição ocorre janeiro-fevereiro 2027. Escolha entre programas depende: renda familiar, nota ENEM, preferência por público/privado. Todas três opções são viáveis e válidas. Recomenda-se inscrever em múltiplos programas para maximizar chances de aprovação.
 
----` },
+---
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
+` },
   { slug: 'erros-comuns-inscricao-enem', title: "Erros Comuns na Inscrição ENEM 2026: Como Evitar as 10 Armadilhas Principais", description: "Os 10 erros mais comuns na inscrição do ENEM 2026 e como evitá-los, de dados inconsistentes a prazos perdidos de isenção.", date: '2026-07-11', readTime: 6, content: `# Erros Comuns na Inscrição ENEM 2026: Como Evitar as 10 Armadilhas Principais
 
 > **Key Takeaways**
@@ -53106,7 +53198,14 @@ Não. INEP não oferece extensão de prazos. Prazos são rígidos. Recomenda-se 
 
 Recomenda-se seguir passo-a-passo correto, anotar datas, configurar lembretes e revisar tudo antes de confirmar. Preparação adequada durante inscrição evita meses de frustração.
 
----` },
+---
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
+` },
   { slug: 'prazos-enem-nao-perca-datas', title: "Prazos ENEM 2026: Não Perca Essas Datas Críticas de Maio a Janeiro", description: "Cronograma de prazos ENEM 2026: isenção abril, inscrição maio, provas novembro, resultado janeiro. Datas confirmadas e lembretes.", date: '2026-07-11', readTime: 7, content: `# Prazos ENEM 2026: Não Perca Essas Datas Críticas de Maio a Janeiro
 
 > **Key Takeaways**
@@ -53275,7 +53374,14 @@ Sisu abre 1-2 semanas após resultado com prazo de 7-10 dias. Recomenda-se inscr
 
 Prazos ENEM 2026 são rigorosos: isenção abril, inscrição maio, local de prova junho, provas novembro, resultado janeiro 2027, Sisu/ProUni/Fies janeiro-fevereiro 2027. Datas exatas serão confirmadas pelo INEP conforme aproximação de cada período. Recomenda-se anotar datas assim que confirmadas e configurar lembretes estratégicos. Perder qualquer prazo crítico pode resultar em impossibilidade de fazer ENEM ou participar de Sisu/ProUni.
 
----` },
+---
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
+` },
   { slug: 'novo-enem-2024-formato', title: "O Novo ENEM 2024+: Guia Completo sobre Formato, Estrutura e Mudanças", description: "ENEM 2024 mudou estrutura e formato. Conheça nova prova, competências avaliadas e dicas. 2,1M participam com novo modelo.", date: '2026-07-11', readTime: 7, content: `# O Novo ENEM 2024+: Guia Completo sobre Formato, Estrutura e Mudanças
 
 > **Key Takeaways**
@@ -53512,6 +53618,13 @@ Be Focused, Forest e Focus Keeper têm bom design. Mas um simples cronômetro de
 A chave é: tarefas claras, sem distrações, pausas reais, e disciplina nos 25 minutos. Se você estuda 4 horas por dia, implementar Pomodoro pode equivaler a ganhar 1 hora de estudo de qualidade sem estudar mais tempo.
 
 Comece amanhã: escolha uma tarefa, configure 25 minutos, estude intensamente, pausa verdadeira. Faça isso por 5 dias consecutivos. Se a retenção melhorar, mantém. Técnicas que funcionam se tornam hábitos.
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'metodo-cornell-anotacoes-enem', title: "Método Cornell: A Melhor Forma de Organizar Seus Cadernos", description: "Aprenda o Método Cornell para organizar anotações em 3 zonas (notas, palavras-chave, resumo) e transformar cadernos bagunçados em ferramenta de revisão eficaz.", date: '2026-07-11', readTime: 4, content: `
 # Método Cornell: A Melhor Forma de Organizar Seus Cadernos
@@ -53602,6 +53715,13 @@ Funciona, mas menos. Revisar logo depois da aula tende a aumentar bastante a ret
 Se você estuda há anos com anotações lineares, experimentar Cornell por 2 semanas (5-6 disciplinas) deve converter você.
 
 Comece amanhã em 1 matéria. Estruture página Cornell. Revise 24h depois. Veja diferença.
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'flashcards-repeticao-espacada-enem', title: "Flashcards e Repetição Espaçada: Como Memorizar Sem Esforço Infinito", description: "Entenda como flashcards e repetição espaçada exploram a curva do esquecimento para memorizar mais em menos tempo, com comparativo de apps para o ENEM.", date: '2026-07-11', readTime: 5, content: `
 # Flashcards e Repetição Espaçada: Como Memorizar Sem Esforço Infinito
@@ -53693,6 +53813,13 @@ Anki permite manter cards indefinidamente em "suspensão" (pausada). Alguns estu
 Se você passou a vida inteira revendo tudo de novo toda semana, spaced repetition será uma revelação. O algoritmo faz o trabalho pesado; você só revisa no momento certo.
 
 Comece com 1 deck de 30 cards em Anki. Revise consistentemente por 20 dias. Compare a retenção com o período em que estudava sem repetição espaçada.
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'tecnica-feynman-estudar-enem', title: "Técnica Feynman: Como Aprender Qualquer Coisa Ensinando", description: "Conheça os 4 passos da Técnica Feynman para expor lacunas no seu entendimento explicando conceitos em linguagem simples, e como combiná-la com Pomodoro.", date: '2026-07-11', readTime: 5, content: `
 # Técnica Feynman: Como Aprender Qualquer Coisa Ensinando
@@ -53787,6 +53914,13 @@ Sim. Ouça 1-2 dias depois. Você vai se surpreender com lacunas que criou — �
 Se você estuda passivamente (ler, reler, grifo), Feynman é uma atualização crítica. A técnica força seu cérebro a sair do "reconhecimento" (leitura) para a "recuperação" (explicação), uma mudança poderosa para o aprendizado durável.
 
 Teste amanhã: escolha 1 conceito, explique por 15 min para a parede, identifique lacunas, reformule. Se conseguir explicar com fluência sem anotações, entendeu. Se não conseguir, volte ao material.
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'mapas-mentais-estudar-enem', title: "Mapas Mentais: Como Visualizar Tudo o Que Você Aprende", description: "Aprenda a estruturar mapas mentais para conectar conceitos do ENEM, quando usar em vez de anotações lineares e os erros mais comuns ao criar um mapa mental.", date: '2026-07-11', readTime: 5, content: `
 # Mapas Mentais: Como Visualizar Tudo o Que Você Aprende
@@ -53896,6 +54030,13 @@ Protocolo: revisar 1 dia depois, 1 semana depois, e na semana anterior à prova.
 Se você estuda matérias com muitas conexões conceituais (História, Biologia, Química), mapas mentais transformam fragmentação em coerência. A técnica força síntese ativa e cria um documento visual reutilizável para revisão.
 
 Teste em 1 matéria esta semana: complete a aula/capítulo, faça um mapa mental colorido em 20 minutos, revise 1 semana depois. Compare a retenção com sua rotina anterior.
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'active-recall-vs-revisao-passiva-enem', title: "Active Recall vs Revisão Passiva: Por que Reler é a Maneira Mais Lenta de Aprender", description: "Descubra a diferença entre active recall e revisão passiva, por que reler cria uma ilusão de competência, e como aplicar recuperação ativa na rotina de estudo.", date: '2026-07-11', readTime: 5, content: `
 # Active Recall vs Revisão Passiva: Por que Reler é a Maneira Mais Lenta de Aprender
@@ -53980,6 +54121,13 @@ Falhar é desconfortável. Mas falhar em estudo (baixo risco) é melhor que falh
 Revisão passiva é confortável. Seu cérebro evita active recall naturalmente. Se você escolhe conforto agora, paga em desempenho depois.
 
 Teste esta semana: substitua metade das suas sessões de releitura por testes de active recall e compare sua confiança e retenção com o período anterior.
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'leitura-estrategica-sq3r-enem', title: "Leitura Estratégica: Como Ler Livros e Artigos Mais Rápido", description: "Conheça os 4 tipos de leitura e o sistema SQ3R (Survey, Question, Read, Recite, Review) para ganhar velocidade de leitura sem perder compreensão no ENEM.", date: '2026-07-11', readTime: 5, content: `
 # Leitura Estratégica: Como Ler Livros e Artigos Mais Rápido
@@ -54085,6 +54233,13 @@ Existem apps de leitura rápida, mas eles tendem a comprometer a compreensão no
 Velocidade de leitura é treinável. SQ3R é uma ferramenta testada há décadas. Investindo algumas semanas em aplicação consistente, você ganha velocidade real sem perder compreensão.
 
 Comece amanhã: escolha um capítulo ou artigo, aplique S-Q-R-R-R, compare o tempo e a compreensão com sua leitura normal.
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'resumos-eficientes-enem', title: "Resumos Eficientes: Síntese Que Consolida Aprendizado", description: "Aprenda o protocolo de 4 passos para fazer resumos que realmente consolidam aprendizado, a diferença entre resumo bom e ruim, e quando vale a pena resumir.", date: '2026-07-11', readTime: 4, content: `
 # Resumos Eficientes: Síntese Que Consolida Aprendizado
@@ -54190,6 +54345,13 @@ Um livro de 300 páginas costuma ficar bem resumido em 30-45 páginas. Se ficar 
 Resumo eficiente exige disciplina: ler completo, atrasar a escrita, hierarquizar rigorosamente, revisar. O retorno é claro: um documento compacto e reutilizável que consolida o aprendizado.
 
 Teste no próximo capítulo: aplique o protocolo de 4 passos, revise 24h depois, e compare a retenção com quando você apenas relê.
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'grifo-inteligente-enem', title: "Grifo Inteligente: Como Destacar Sem Encher a Página de Neon", description: "Aprenda quando o grifo ajuda e quando atrapalha a retenção, o protocolo de grifo em 4 passos e como combinar cores para hierarquizar informação.", date: '2026-07-11', readTime: 4, content: `
 # Grifo Inteligente: Como Destacar Sem Encher a Página de Neon
@@ -54279,6 +54441,13 @@ Grifo é uma ferramenta sua, não para mostrar ao professor. Se o critério de a
 Grifo inteligente, usado com moderação e depois de ler o texto completo, cria um documento eficiente para revisão sem overhead.
 
 Aplique o protocolo de 4 passos no próximo capítulo. Compare sua retenção com o sistema anterior de grifar tudo durante a primeira leitura.
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'revisao-espacada-calendario-enem', title: "Revisão Espaçada: O Calendário Científico Para Nunca Mais Esquecer", description: "Conheça o calendário de revisão espaçada (1-3-7-14-30 dias) baseado na curva de esquecimento de Ebbinghaus e como aplicá-lo sem apps no ENEM.", date: '2026-07-11', readTime: 5, content: `
 # Revisão Espaçada: O Calendário Científico Para Nunca Mais Esquecer
@@ -54382,6 +54551,13 @@ Sim. Um Pomodoro (25 min) é um bom bloco para revisar um lote de cards ou um co
 Um calendário simples (1-3-7-14-30 dias) já entrega a maior parte do ganho de retenção que a repetição espaçada promete.
 
 Implemente a partir de segunda-feira: aprenda um conceito no dia 1, coloque lembretes no calendário para os dias 2, 4, 7, 14 e 30. Revise com disciplina e compare sua retenção depois de um mês.
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
 ]
 
@@ -54434,6 +54610,13 @@ R: Sim. Sempre divida por k! depois de calcular arranjo. Uma forma: escreva C(n,
 
 **P: Análise combinatória aparece em qual área da prova?**
 R: Apenas em Matemática. Aparece em algumas questões a cada prova. Raramente aparece na Redação ou outras disciplinas. Dominar bem o tópico ajuda a garantir esses pontos com consistência.
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'juros-compostos-enem', title: "Juros Compostos no ENEM: Fórmulas, Exemplos e Estratégias de Resolução", description: "Domine juros compostos no ENEM com fórmulas práticas. Aprenda passo a passo como calcular e ganhar pontos.", date: '2026-07-11', readTime: 3, content: `
 # Juros Compostos no ENEM: Fórmulas, Exemplos e Estratégias de Resolução
@@ -54481,6 +54664,13 @@ R: Leia o enunciado. Se diz "Juros capitalizados mensalmente", use i mensal e co
 
 **P: Quanto tempo devo gastar resolvendo problemas de juros?**
 R: Cada questão: 4-6 minutos (incluindo leitura e cálculo). Se levar mais, provavelmente está se perdendo em conversão de taxa ou decimal.
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'redacao-competencia-1-gramatica-enem', title: "Redação ENEM Competência 1: Como Não Perder Pontos em Gramática e Norma Culta", description: "Domine a Competência 1 da redação ENEM (gramática e norma culta). Entenda os 10 erros que tiram 80 pontos. Score máximo começa aqui.", date: '2026-07-11', readTime: 3, content: `
 # Redação ENEM Competência 1: Como Não Perder Pontos em Gramática e Norma Culta
@@ -54524,6 +54714,13 @@ R: Sim. "Que" é para informações essenciais; "qual" para informações adicio
 
 **P: Como treinar gramática para redação ENEM?**
 R: Leia 1 redação aprovada (score 1.000) por dia. Identifique construções gramaticais. Depois, escreva 2-3 parágrafos usando estas construções. Isto treina o olho para estruturas corretas. Após 15 dias, sua redação ficará naturalmente mais gramatical.
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'redacao-competencia-5-proposta-intervencao-enem', title: "Competência 5 da Redação ENEM: Proposta de Intervenção com Ação, Objetivo e Finalidade", description: "Redação ENEM Competência 5: como escrever uma proposta de intervenção que ganhe 200 pontos. 5 critérios que avaliam sua solução. Score máximo.", date: '2026-07-11', readTime: 3, content: `
 # Competência 5 da Redação ENEM: Proposta de Intervenção com Ação, Objetivo e Finalidade
@@ -54565,6 +54762,13 @@ R: Não recomendado. Focar em uma ação com detalhes profundos rende uma nota b
 
 **P: Como ligar a proposta com o tema da redação?**
 R: A proposta deve resolver o problema identificado na análise (argumentação). Se tema é "impacto das redes sociais na saúde mental", proposta deve solucionar este problema específico. Isto demonstra leitura completa e coerência argumentativa.
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'equacoes-1-2-grau-enem', title: "Equações de 1º e 2º Grau no ENEM: Fórmulas, Técnicas e Exemplos Resolvidos", description: "Domine equações de 1º e 2º grau no ENEM. Aprenda Bhaskara, fatoração e aplicações. Guia prático passo a passo.", date: '2026-07-11', readTime: 3, content: `
 # Equações de 1º e 2º Grau no ENEM: Fórmulas, Técnicas e Exemplos Resolvidos
@@ -54606,6 +54810,13 @@ R: Sim. Se há fração, multiplique toda equação pelo denominador comum prime
 
 **P: Equações paramétricas (com incógnita em outro lugar) caem no ENEM?**
 R: Raramente como questão direta. Aparecem em problemas de aplicação ("qual x torna isto verdadeiro?").
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'geometria-plana-enem', title: "Geometria Plana no ENEM: Fórmulas de Perímetro, Área e Propriedades de Figuras", description: "Geometria plana ENEM: domine triângulos, quadriláteros, círculos. Fórmulas de perímetro e área. Passo a passo.", date: '2026-07-11', readTime: 3, content: `
 # Geometria Plana no ENEM: Fórmulas de Perímetro, Área e Propriedades de Figuras
@@ -54647,6 +54858,13 @@ R: Use método de associação. Círculo tem "r²" porque é redondo. Triângulo
 
 **P: Figuras com π precisam de calculadora?**
 R: Não obrigatório. Se π está na resposta, deixe como π (ex: 16π cm²). Se pede valor numérico, use π ≈ 3,14. Isto economiza 30 segundos por questão.
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'estatistica-enem', title: "Estatística no ENEM: Como Calcular Média, Mediana, Moda e Interpretar Dados", description: "Estatística ENEM: domine média, mediana, moda. Entenda distribuição e desvio padrão. Técnicas de cálculo rápido.", date: '2026-07-11', readTime: 3, content: `
 # Estatística no ENEM: Como Calcular Média, Mediana, Moda e Interpretar Dados
@@ -54688,6 +54906,13 @@ R: Use papel rascunho. Ordene valores em coluna. Marque central com caneta. Leia
 
 **P: Média, mediana, moda podem ser iguais?**
 R: Sim, em distribuição perfeitamente simétrica (ex: {1, 2, 3, 2, 1}). Mas isto é raro no ENEM. Quando aparecem iguais, questão explora entendimento de simetria.
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'probabilidade-enem', title: "Probabilidade no ENEM: Fórmula Básica, Eventos Independentes e Aplicações Práticas", description: "Probabilidade ENEM: fórmula P = favoráveis/totais. Eventos independentes e dependentes. Aprenda técnicas rápidas.", date: '2026-07-11', readTime: 3, content: `
 # Probabilidade no ENEM: Fórmula Básica, Eventos Independentes e Aplicações Práticas
@@ -54729,6 +54954,13 @@ R: Probabilidade é decimal ou fração (0-1). Chance é razão (1 em 6, ou 1:6)
 
 **P: Como diferenciar entre permutação e probabilidade em questões mistas?**
 R: Permutação conta arranjos. Probabilidade calcula chance. Se pergunta "de quantas formas", use permutação/combinação. Se pergunta "qual é a chance/probabilidade", use fórmula de probabilidade.
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'trigonometria-enem', title: "Trigonometria no ENEM: Seno, Cosseno, Tangente, Ciclo Trigonométrico e Ângulos Notáveis", description: "Trigonometria ENEM: domine seno, cosseno, tangente. Ciclo trigonométrico. Identidades e ângulos notáveis.", date: '2026-07-11', readTime: 3, content: `
 # Trigonometria no ENEM: Seno, Cosseno, Tangente, Ciclo Trigonométrico e Ângulos Notáveis
@@ -54817,6 +55049,13 @@ R: Dominância completa: heterozigoto parece homozigoto dominante (Aa = AA fenó
 
 **P: Mutação e herança aparecem juntas no ENEM?**
 R: Raramente. Mutação é questão separada (Biologia Molecular). Herança genética é sobre transmissão de alelos já existentes.
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'ecologia-teias-alimentares-enem', title: "Ecologia no ENEM: Cadeias e Teias Alimentares, Fluxo de Energia e Níveis Tróficos", description: "Ecologia ENEM: teias alimentares, cadeias, fluxo de energia. Produtores, consumidores, decompositores. Conceitos essenciais.", date: '2026-07-11', readTime: 3, content: `
 # Ecologia no ENEM: Cadeias e Teias Alimentares, Fluxo de Energia e Níveis Tróficos
@@ -54860,6 +55099,13 @@ R: Estão separados. Decompositores não comem vivos; comem mortos. Sua função
 
 **P: Qual é a diferença entre fluxo de energia e ciclo de nutrientes?**
 R: Fluxo é unidirecional (entra e não volta: energy apenas passa). Ciclo é cíclico (nutrientes circulam: C, N, P voltam ao solo). No ENEM, ambas aparecem. Energia flui; nutrientes reciclam.
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
   { slug: 'mecanica-fisica-enem', title: "Mecânica Clássica no ENEM: Leis de Newton, Movimento, Força e Aceleração Prática", description: "Mecânica ENEM: leis de Newton, movimento, força, aceleração. Cinemática e dinâmica. Fórmulas essenciais.", date: '2026-07-11', readTime: 3, content: `
 # Mecânica Clássica no ENEM: Leis de Newton, Movimento, Força e Aceleração Prática
@@ -54945,6 +55191,13 @@ R: Ambas. Napoleão subiu ao poder em caos revolucionário (1799). Consolidou ga
 
 **P: Como relacionar Revolução Francesa com outras revoluções (Americana, Russa)?**
 R: Causas similares: dívida, desigualdade, ideias novas. Americana (1776) influenciou Francesa. Russa (1917) radicalizou ideias francesas. No ENEM, comparação entre duas aparece em 1-2 questões de "qual foi mais radical?" ou "qual influenciou qual?". Conhecer ordem temporal e ideais distintos responde isto.
+
+
+---
+
+## Continue Praticando
+
+[Acesse todas as questões do ENEM →](/questoes)
 ` },
 ]
 
