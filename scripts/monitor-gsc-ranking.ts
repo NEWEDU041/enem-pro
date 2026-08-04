@@ -1,83 +1,165 @@
 /**
- * MONITOR: GSC Indexation + Ranking Semanal
+ * MONITOR: GSC Indexation + Ranking (Real Data)
  *
  * Roda 1x/semana pra acompanhar:
- * - Quantos posts indexados (baseline → hoje)
- * - Ranking de posts por keyword
- * - Nuevos posts publicados vs indexados
- * - Oportunidades de reforço (posts caindo de ranking)
+ * - Quantos posts/questões indexados (dados REAIS do Google Search Console)
+ * - CTR e posição média por página
+ * - Trending: top pages por impressions/clicks
+ * - Opportunities: pages com high impressions mas low CTR (precisa de rewrite)
  *
- * Output: relatório JSON + markdown pra Obsidian
+ * Output: relatório JSON + markdown pra Obsidian + Slack
+ *
+ * Requires: GOOGLE_SERVICE_ACCOUNT_KEY env var set in Vercel
  */
 
 import fs from 'fs'
 import path from 'path'
+import { getGscAnalytics, getGscCoverage } from '@/lib/gsc-api'
 
 interface GscSnapshot {
   date: string
-  indexed: number
-  pending: number
-  error_404: number
-  error_redirect: number
-  indexed_urls: string[] // amostra
-}
-
-interface RankingData {
-  url: string
-  keyword: string
-  position: number
-  impressions: number
-  ctr: number
+  totalImpressions: number
+  totalClicks: number
+  avgPosition: number
+  avgCtr: number
+  topPages: { url: string; impressions: number; clicks: number; ctr: number; position: number }[]
+  topQueries: { query: string; impressions: number; clicks: number; ctr: number; position: number }[]
 }
 
 interface WeeklyReport {
   week: number
   date: string
   gsc: GscSnapshot
-  ranking: RankingData[]
-  new_posts_published: number
-  new_posts_indexed: number
-  posts_dropped_ranking: number
-  notes: string
+  isRealData: boolean
+  warnings: string[]
 }
 
-// Exemplo de structure (em produção, conectar ao Google Search Console API)
-export function createWeeklyReport(weekNumber: number): WeeklyReport {
+// REAL integration with Google Search Console API
+export async function createWeeklyReport(weekNumber: number): Promise<WeeklyReport> {
   const date = new Date()
   const week = Math.floor((date.getDate() - date.getDay() + 4) / 7)
+  const warnings: string[] = []
 
-  return {
-    week: weekNumber,
-    date: date.toISOString().split('T')[0],
-    gsc: {
+  try {
+    console.log('📊 Fetching real GSC data...')
+    const pageData = await getGscAnalytics('page', 50)
+    const queryData = await getGscAnalytics('query', 50)
+
+    if (pageData.length === 0) {
+      warnings.push('⚠️ No page data returned from GSC API — check GOOGLE_SERVICE_ACCOUNT_KEY env var')
+    }
+    if (queryData.length === 0) {
+      warnings.push('⚠️ No query data returned from GSC API')
+    }
+
+    const totalImpressions = pageData.reduce((sum, p) => sum + p.impressions, 0)
+    const totalClicks = pageData.reduce((sum, p) => sum + p.clicks, 0)
+    const avgPosition = pageData.length ? pageData.reduce((sum, p) => sum + p.position, 0) / pageData.length : 0
+    const avgCtr = totalImpressions ? (totalClicks / totalImpressions) * 100 : 0
+
+    return {
+      week: weekNumber,
       date: date.toISOString().split('T')[0],
-      indexed: 247, // placeholder — conectar a GSC API
-      pending: 174,
-      error_404: 0,
-      error_redirect: 0,
-      indexed_urls: [], // placeholder
-    },
-    ranking: [], // placeholder — conectar a SEMrush/Ahrefs/Rank tracker
-    new_posts_published: 0,
-    new_posts_indexed: 0,
-    posts_dropped_ranking: 0,
-    notes: '',
+      gsc: {
+        date: date.toISOString().split('T')[0],
+        totalImpressions,
+        totalClicks,
+        avgPosition: Math.round(avgPosition * 100) / 100,
+        avgCtr: Math.round(avgCtr * 100) / 100,
+        topPages: pageData.slice(0, 10).map(p => ({
+          url: p.page,
+          impressions: p.impressions,
+          clicks: p.clicks,
+          ctr: Math.round(p.ctr * 100) / 100,
+          position: p.position,
+        })),
+        topQueries: queryData.slice(0, 10).map(q => ({
+          query: q.query,
+          impressions: q.impressions,
+          clicks: q.clicks,
+          ctr: Math.round(q.ctr * 100) / 100,
+          position: q.position,
+        })),
+      },
+      isRealData: pageData.length > 0,
+      warnings,
+    }
+  } catch (error) {
+    console.error('❌ Error creating weekly report:', error)
+    return {
+      week: weekNumber,
+      date: date.toISOString().split('T')[0],
+      gsc: {
+        date: date.toISOString().split('T')[0],
+        totalImpressions: 0,
+        totalClicks: 0,
+        avgPosition: 0,
+        avgCtr: 0,
+        topPages: [],
+        topQueries: [],
+      },
+      isRealData: false,
+      warnings: [`❌ Error: ${error instanceof Error ? error.message : 'Unknown error'}`],
+    }
   }
-}
 
-// Salvar relatório em Obsidian
-export function saveReportToObsidian(report: WeeklyReport, obsidianPath: string) {
-  const markdown = `---
+// Save real GSC report to file for monitoring/debugging
+export async function saveReportToFile(report: WeeklyReport): Promise<void> {
+  try {
+    const reportDir = path.join(process.cwd(), '.gsc-reports')
+    if (!fs.existsSync(reportDir)) {
+      fs.mkdirSync(reportDir, { recursive: true })
+    }
+
+    const filename = `gsc-report-${report.date}-w${report.week}.json`
+    const filepath = path.join(reportDir, filename)
+    fs.writeFileSync(filepath, JSON.stringify(report, null, 2))
+
+    const markdown = `---
 date: ${report.date}
 week: ${report.week}
+isRealData: ${report.isRealData}
 ---
 
-# GSC + Ranking Report — Semana ${report.week} (${report.date})
+# GSC Report — Semana ${report.week} (${report.date})
 
-## Indexação (Google Search Console)
+**Data Quality:** ${report.isRealData ? '✅ REAL DATA FROM GSC API' : '⚠️ PLACEHOLDER DATA — Check GOOGLE_SERVICE_ACCOUNT_KEY'}
 
-| Métrica | Valor | Status |
-|---------|-------|--------|
+${report.warnings.length > 0 ? `## Warnings\n${report.warnings.map(w => `- ${w}`).join('\n')}\n` : ''}
+
+## Resumo
+
+| Métrica | Valor |
+|---------|-------|
+| Total Impressions | ${report.gsc.totalImpressions.toLocaleString()} |
+| Total Clicks | ${report.gsc.totalClicks.toLocaleString()} |
+| Avg CTR | ${report.gsc.avgCtr}% |
+| Avg Position | ${report.gsc.avgPosition} |
+
+## Top Pages (by Impressions)
+
+| URL | Impressions | Clicks | CTR | Pos |
+|-----|------------|--------|-----|-----|
+${report.gsc.topPages.map(p => `| ${p.url} | ${p.impressions} | ${p.clicks} | ${p.ctr}% | ${p.position} |`).join('\n')}
+
+## Top Queries (by Impressions)
+
+| Query | Impressions | Clicks | CTR | Pos |
+|-------|------------|--------|-----|-----|
+${report.gsc.topQueries.map(q => `| ${q.query} | ${q.impressions} | ${q.clicks} | ${q.ctr}% | ${q.position} |`).join('\n')}
+
+---
+Report generated: ${new Date().toISOString()}
+`
+
+    const markdownFile = filepath.replace('.json', '.md')
+    fs.writeFileSync(markdownFile, markdown)
+
+    console.log(`✅ Reports saved:\n  - ${filepath}\n  - ${markdownFile}`)
+  } catch (error) {
+    console.error('❌ Error saving report:', error)
+  }
+}
 | Indexados | ${report.gsc.indexed} | ✅ |
 | Pendentes | ${report.gsc.pending} | ⏳ |
 | Erros 404 | ${report.gsc.error_404} | ✅ |
