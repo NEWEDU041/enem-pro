@@ -11,9 +11,9 @@ export interface BlogPost {
 export const BLOG_POSTS: BlogPost[] = [
   {
     slug: 'gabarito-enem-2024',
-    title: 'Gabarito ENEM 2024 — Todas as Disciplinas com Resolução Comentada',
+    title: 'Gabarito ENEM 2024 — Todas as Disciplinas com Resolução',
     cover_url: '/images/blog/gabarito-enem-2024-hero.svg',
-    description: 'Gabarito oficial ENEM 2024 com análise de 16 anos. Matemática, Natureza, Humanas, Linguagens. Estude 2.900+ questões reais com explicação IA.',
+    description: 'Gabarito oficial do ENEM 2024 com resolução comentada de todas as disciplinas: Matemática, Ciências da Natureza, Ciências Humanas e Linguagens. Acesse grátis.',
     date: '2024-11-10',
     readTime: 8,
     content: `
@@ -681,7 +681,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'como-passar-no-enem',
-    title: 'Como Passar no ENEM 2026 — Guia Estruturado (12 Semanas de Dados Reais)',
+    title: 'Como Passar no ENEM em 2025 — Guia Completo de Estudos',
     cover_url: '/images/blog/como-passar-no-enem-hero.svg',
     description: 'Estratégia completa para passar no ENEM em 2025. Cronograma, temas prioritários, técnicas de resolução e como usar IA para estudar mais rápido. Acesse grátis.',
     date: '2026-01-10',
@@ -896,7 +896,7 @@ Todas as 5 áreas têm peso igual na média do SISU. Porém, alguns cursos aplic
   },
   {
     slug: 'simulado-enem-gratis',
-    title: 'Simulado ENEM Grátis — Pratique com 2.900+ Questões Reais',
+    title: 'Simulado ENEM Grátis — Pratique com Questões Reais do INEP',
     cover_url: '/images/blog/simulado-enem-gratis-hero.svg',
     description: 'Simulado ENEM grátis com questões reais do INEP de 2009 a 2024. Pratique por disciplina, veja o gabarito e treine para o ENEM 2025.',
     date: '2026-02-01',
@@ -1022,7 +1022,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'redacao-enem-tema',
-    title: 'Redação ENEM 2026 — Guia Completo para 1000 Pontos (Análise de 16 Anos)',
+    title: 'Redação ENEM — Como Tirar 1000 Pontos em Qualquer Tema',
     cover_url: '/images/blog/redacao-enem-tema-hero.svg',
     description: 'Guia completo de redação ENEM: estrutura, competências do INEP, exemplos de introdução e conclusão. Aprenda a tirar nota máxima.',
     date: '2026-02-15',
@@ -1256,7 +1256,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
     `,
   },
   {
-    title: '10 Dicas Comprovadas para ENEM 2026 (Baseado em 4,3M Candidatos)',
+    slug: 'dicas-enem-2025',
     title: '10 Dicas de Ouro para o ENEM 2025 — Do Estudo ao Dia da Prova',
     cover_url: '/images/blog/dicas-enem-2025-hero.svg',
     description: '10 estratégias comprovadas para melhorar sua nota no ENEM 2025: gestão de tempo, temas prioritários, redação e o que fazer na semana da prova. Acesse grátis.',
