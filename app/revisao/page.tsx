@@ -50,7 +50,7 @@ function RevisaoContent() {
       setLoading(false)
     }
     load()
-  }, [router])
+  }, [router, pathname])
 
   const filtered = useMemo(
     () => (discipline ? answers.filter((a) => a.discipline.includes(discipline)) : answers),

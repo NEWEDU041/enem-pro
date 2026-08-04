@@ -13,7 +13,7 @@ const LOCAL_DATASET_YEARS: Record<number, string> = {
   2024: 'enem-2024.json',
 }
 
-let localDatasetCache: Record<number, Question[]> = {}
+const localDatasetCache: Record<number, Question[]> = {}
 
 function loadLocalDataset(year: number): Question[] | null {
   const filename = LOCAL_DATASET_YEARS[year]

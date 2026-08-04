@@ -5,8 +5,22 @@ import Link from 'next/link'
 import { createBrowserClient } from '@/lib/supabase'
 import { trackBeginCheckout } from '@/lib/analytics'
 import { ENEM_DATE, daysUntil } from '@/lib/utils'
+import { SITE_URL } from '@/lib/site-config'
 
 const supabase = createBrowserClient()
+
+const plansJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  name: 'ENEM Pro',
+  description: 'Plataforma de preparação para o ENEM com questões reais do INEP e explicações geradas por IA.',
+  url: `${SITE_URL}/planos`,
+  offers: [
+    { '@type': 'Offer', name: 'Grátis', price: '0', priceCurrency: 'BRL', url: `${SITE_URL}/planos` },
+    { '@type': 'Offer', name: 'Pro Anual', price: '99', priceCurrency: 'BRL', url: `${SITE_URL}/planos` },
+    { '@type': 'Offer', name: 'Pro Mensal', price: '29.90', priceCurrency: 'BRL', url: `${SITE_URL}/planos` },
+  ],
+}
 
 export default function PlanosPage() {
   const [loading, setLoading] = useState<'monthly' | 'annual' | 'portal' | null>(null)
@@ -66,6 +80,7 @@ export default function PlanosPage() {
 
   return (
     <div className="min-h-screen bg-zinc-50">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(plansJsonLd) }} />
       <header className="bg-white border-b border-zinc-200 px-6 py-4">
         <div className="max-w-5xl mx-auto flex items-center justify-between">
           <Link href="/" className="text-xl font-bold text-indigo-600">ENEM Pro</Link>
@@ -157,10 +172,10 @@ export default function PlanosPage() {
               ESCOLHA PARA O ENEM 2026
             </div>
             <h2 className="text-xl font-bold mb-1">Pro Anual</h2>
-            <p className="text-indigo-200 text-sm mb-4">Compromisso com a aprovação</p>
+            <p className="text-indigo-100 text-sm mb-4">Compromisso com a aprovação</p>
             <div className="mb-1 flex items-end gap-2">
               <span className="text-4xl font-bold">R$8,25</span>
-              <span className="text-indigo-200 text-sm mb-1">/mês</span>
+              <span className="text-indigo-100 text-sm mb-1">/mês</span>
             </div>
             <p className="text-indigo-100 font-semibold text-sm mb-1">R$99 cobrado anualmente</p>
             <p className="text-indigo-300 text-xs mb-8">Economize 72% vs plano mensal</p>
@@ -247,7 +262,14 @@ export default function PlanosPage() {
 
 function EnemCountdown() {
   const [days, setDays] = useState<number | null>(null)
-  useEffect(() => { setDays(daysUntil(ENEM_DATE)) }, [])
+  useEffect(() => {
+    // Must run client-only post-mount: this pricing page can be statically
+    // prerendered and served from cache for up to 24h (see next.config.js
+    // Cache-Control), so computing this during render would bake a stale
+    // value into cached HTML and mismatch what hydration recomputes.
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- see comment above
+    setDays(daysUntil(ENEM_DATE))
+  }, [])
   if (days === null || days <= 0) return null
   return (
     <div className="inline-flex items-center gap-2 bg-amber-50 border border-amber-200 rounded-full px-4 py-1.5 text-sm font-medium text-amber-800 mb-8">

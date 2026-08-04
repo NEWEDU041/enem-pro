@@ -46,7 +46,7 @@ function HistoricoContent() {
       setLoading(false)
     }
     load()
-  }, [router])
+  }, [router, pathname])
 
   const filtered = useMemo(() => {
     let res = answers

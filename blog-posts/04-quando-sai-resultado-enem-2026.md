@@ -1,3 +1,12 @@
+---
+title: "Quando Sai Resultado Enem 2026"
+description: "Guia completo sobre quando sai resultado enem 2026 para o ENEM 2026. Aprenda tudo o que precisa saber."
+date: "2026-07-31"
+image: "/images/blog-04-quando-sai-resultado-enem-2026.jpg"
+slug: "04-quando-sai-resultado-enem-2026"
+category: "ENEM"
+---
+
 # Quando Sai o Resultado do ENEM 2026: Datas Oficiais e Como Consultar
 
 **Meta Description:** Resultado ENEM 2026 sai até 60 dias após provas (estimado janeiro 2027). Saiba como acessar.
@@ -120,3 +129,10 @@ Resultado ENEM 2026 é divulgado até 60 dias após provas, estimado para janeir
 **Data:** 2026
 
 **Revisão:** Alinhado com procedimentos INEP 2026
+
+---
+
+📌 **Próximos passos:**
+- [Voltar para Questões](/questoes)
+- [Ver outras guias](/blog)
+- [Iniciar simulado](/simulado)

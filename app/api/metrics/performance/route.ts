@@ -22,7 +22,7 @@ export async function GET(request: NextRequest) {
 
     // Test 2: Optimized responder (should be <100ms)
     const responderStart = Date.now()
-    const { data: responderData, error: responderError } = await sb.rpc('record_answer', {
+    const { error: responderError } = await sb.rpc('record_answer', {
       p_user_id: '00000000-0000-0000-0000-000000000000',
       p_question_id: 'test',
       p_selected_alternative: 'A',

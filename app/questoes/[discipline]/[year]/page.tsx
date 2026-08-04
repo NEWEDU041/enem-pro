@@ -109,7 +109,7 @@ export default async function SEOQuestoesPage({ params }: { params: Promise<{ di
         <div className="bg-indigo-600 text-white rounded-2xl px-6 py-5 mb-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div>
             <p className="font-semibold">Pratique com gabarito e IA — grátis</p>
-            <p className="text-indigo-200 text-sm">10 questões/dia grátis · IA explica no Pro por R$29,90/mês</p>
+            <p className="text-indigo-100 text-sm">10 questões/dia grátis · IA explica no Pro por R$29,90/mês</p>
           </div>
           <Link href="/auth/register" className="shrink-0 bg-white text-indigo-600 px-6 py-2.5 rounded-xl font-semibold hover:bg-indigo-50 transition-colors text-sm">
             Criar conta grátis
@@ -182,7 +182,7 @@ export default async function SEOQuestoesPage({ params }: { params: Promise<{ di
         </div>
       </main>
 
-      <footer className="bg-zinc-900 text-zinc-500 text-sm py-8 px-6 text-center mt-16">
+      <footer className="bg-zinc-900 text-zinc-400 text-sm py-8 px-6 text-center mt-16">
         <p>© 2026 ENEM Pro — Questões reais do ENEM com explicação por IA</p>
       </footer>
     </div>

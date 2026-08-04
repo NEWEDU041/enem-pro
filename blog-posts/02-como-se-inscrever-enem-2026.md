@@ -1,3 +1,12 @@
+---
+title: "Como Se Inscrever Enem 2026"
+description: "Guia completo sobre como se inscrever enem 2026 para o ENEM 2026. Aprenda tudo o que precisa saber."
+date: "2026-07-31"
+image: "/images/blog-02-como-se-inscrever-enem-2026.jpg"
+slug: "02-como-se-inscrever-enem-2026"
+category: "ENEM"
+---
+
 # Como Se Inscrever no ENEM 2026: Guia Passo-a-Passo Completo
 
 **Meta Description:** Saiba como se inscrever no ENEM 2026 em 7 passos simples. Mais de 2,9 milhões fizeram inscrição em 2024. Guia completo atualizado.
@@ -123,3 +132,10 @@ Inscrever-se no ENEM 2026 é processo simples em sete passos: acessar portal, cr
 **Data:** 2026
 
 **Revisão:** Alinhado com procedimentos INEP 2026
+
+---
+
+📌 **Próximos passos:**
+- [Voltar para Questões](/questoes)
+- [Ver outras guias](/blog)
+- [Iniciar simulado](/simulado)

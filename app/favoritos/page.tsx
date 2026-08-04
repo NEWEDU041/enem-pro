@@ -24,7 +24,7 @@ function FavoritosContent() {
       setLoading(false)
     }
     check()
-  }, [router])
+  }, [router, pathname])
 
   function remove(id: string) {
     removeFavorito(id)

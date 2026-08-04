@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import Script from 'next/script'
 import DemoQuestion from '@/components/DemoQuestion'
 import { createServerClient } from '@/lib/supabase'
 import { SITE_URL } from '@/lib/site-config'
@@ -77,13 +76,11 @@ export default async function LandingPage() {
   const stats = await getLiveStats()
   return (
     <div className="flex flex-col min-h-screen" id="page-root">
-      <Script
-        id="json-ld"
+      <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <Script
-        id="faq-ld"
+      <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
       />
@@ -340,7 +337,7 @@ export default async function LandingPage() {
       </section>
 
       </main>
-      <footer className="bg-ink-950 text-ink-500 text-sm py-12 px-6">
+      <footer className="bg-ink-950 text-slate-400 text-sm py-12 px-6">
         <div className="max-w-6xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 mb-10">
           <div>
             <p className="text-white font-semibold mb-3">Questões ENEM</p>
@@ -385,7 +382,7 @@ export default async function LandingPage() {
         </div>
         <div className="max-w-6xl mx-auto border-t border-zinc-800 pt-6 flex flex-col sm:flex-row justify-between gap-2">
           <p>© 2026 ENEM Pro — Questões reais do ENEM com explicação por IA</p>
-          <p className="text-zinc-600">Gabarito ENEM 2009–2024 · Questões reais INEP</p>
+          <p className="text-slate-400">Gabarito ENEM 2009–2024 · Questões reais INEP</p>
         </div>
       </footer>
     </div>

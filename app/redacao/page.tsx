@@ -78,7 +78,7 @@ export default function RedacaoPage() {
       setLoading(false)
     }
     load()
-  }, [router])
+  }, [router, pathname])
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault()

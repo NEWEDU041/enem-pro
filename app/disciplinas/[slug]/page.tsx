@@ -307,7 +307,7 @@ export default async function DisciplinaPage({ params }: { params: Promise<{ slu
       {/* CTA */}
       <section className="bg-indigo-600 py-16 px-6 text-center text-white">
         <h2 className="text-3xl font-bold mb-4">Comece a praticar {disc.name} agora</h2>
-        <p className="text-indigo-200 mb-8">10 questões por dia grátis. Sem cartão de crédito.</p>
+        <p className="text-indigo-100 mb-8">10 questões por dia grátis. Sem cartão de crédito.</p>
         <Link
           href="/auth/register"
           className="inline-block bg-white text-indigo-600 px-8 py-4 rounded-xl text-lg font-semibold hover:bg-indigo-50 transition-colors"
@@ -316,7 +316,7 @@ export default async function DisciplinaPage({ params }: { params: Promise<{ slu
         </Link>
       </section>
 
-      <footer className="bg-zinc-900 text-zinc-500 text-sm py-8 px-6 text-center">
+      <footer className="bg-zinc-900 text-zinc-400 text-sm py-8 px-6 text-center">
         <p>© 2026 ENEM Pro — Questões reais do ENEM com explicação por IA</p>
       </footer>
     </div>

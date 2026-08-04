@@ -117,13 +117,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         )}
       </head>
       <body className={`${inter.className} ${spaceGrotesk.variable} min-h-full bg-zinc-50 text-zinc-900 antialiased`}>
-        <Script
-          id="educational-org-schema"
+        <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(educationalOrgSchema) }}
         />
-        <Script
-          id="website-schema"
+        <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
         />

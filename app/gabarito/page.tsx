@@ -70,7 +70,7 @@ export default function GabaritoIndexPage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-6 py-12">
-        <nav className="text-xs text-zinc-400 mb-6">
+        <nav className="text-xs text-zinc-500 mb-6">
           <Link href="/" className="hover:text-zinc-700">Início</Link>
           {' / '}
           <span className="text-zinc-600">Gabarito ENEM</span>
@@ -99,7 +99,7 @@ export default function GabaritoIndexPage() {
                   <div className="font-bold text-zinc-900 mb-0.5">Gabarito ENEM {year}</div>
                   {info && (
                     <>
-                      <div className="text-xs text-zinc-400">{info.candidates} inscritos</div>
+                      <div className="text-xs text-zinc-500">{info.candidates} inscritos</div>
                       <div className="text-xs text-zinc-500 mt-0.5 truncate">{info.highlight}</div>
                     </>
                   )}
@@ -113,7 +113,7 @@ export default function GabaritoIndexPage() {
         {/* CTA */}
         <div className="bg-indigo-600 text-white rounded-2xl px-8 py-8 text-center mb-10">
           <h2 className="text-2xl font-bold mb-2">Pratique com as questões reais</h2>
-          <p className="text-indigo-200 mb-6">Veja o gabarito, responda as questões e entenda o raciocínio com IA. 10 questões/dia grátis.</p>
+          <p className="text-indigo-100 mb-6">Veja o gabarito, responda as questões e entenda o raciocínio com IA. 10 questões/dia grátis.</p>
           <Link href="/auth/register" className="inline-block bg-white text-indigo-600 px-8 py-3 rounded-xl font-semibold hover:bg-indigo-50 transition-colors">
             Criar conta grátis
           </Link>
@@ -138,7 +138,7 @@ export default function GabaritoIndexPage() {
         </div>
       </main>
 
-      <footer className="bg-zinc-900 text-zinc-500 text-sm py-8 px-6 text-center mt-12">
+      <footer className="bg-zinc-900 text-zinc-400 text-sm py-8 px-6 text-center mt-12">
         <p>© 2026 ENEM Pro — Questões reais do ENEM com explicação por IA</p>
       </footer>
     </div>

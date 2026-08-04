@@ -103,15 +103,15 @@ export default function TemasRedacaoPage() {
           <div className="grid md:grid-cols-3 gap-4 text-sm">
             <div className="bg-white/10 rounded-xl p-4">
               <div className="font-semibold mb-1">Grupos vulneráveis</div>
-              <div className="text-indigo-200">Mulheres, negros, surdos, imigrantes, povos tradicionais — 9 de 16 temas envolvem minorias.</div>
+              <div className="text-indigo-100">Mulheres, negros, surdos, imigrantes, povos tradicionais — 9 de 16 temas envolvem minorias.</div>
             </div>
             <div className="bg-white/10 rounded-xl p-4">
               <div className="font-semibold mb-1">Sempre começa com &ldquo;Desafios&rdquo;</div>
-              <div className="text-indigo-200">6 temas recentes começam com &ldquo;Desafios para...&rdquo;. Provável em 2026 também.</div>
+              <div className="text-indigo-100">6 temas recentes começam com &ldquo;Desafios para...&rdquo;. Provável em 2026 também.</div>
             </div>
             <div className="bg-white/10 rounded-xl p-4">
               <div className="font-semibold mb-1">Foco em Brasil</div>
-              <div className="text-indigo-200">Quase todo tema termina em &ldquo;...no Brasil&rdquo;. O contexto é sempre nacional, nunca genérico.</div>
+              <div className="text-indigo-100">Quase todo tema termina em &ldquo;...no Brasil&rdquo;. O contexto é sempre nacional, nunca genérico.</div>
             </div>
           </div>
         </div>
@@ -190,7 +190,7 @@ export default function TemasRedacaoPage() {
         {/* CTA */}
         <div className="bg-indigo-600 text-white rounded-2xl p-8 text-center mb-10">
           <h2 className="text-2xl font-bold mb-2">Pratique sua redação com correção por IA</h2>
-          <p className="text-indigo-200 mb-6">O ENEM Pro corrige sua redação nas 5 competências do INEP e dá nota de 0 a 1000 em segundos.</p>
+          <p className="text-indigo-100 mb-6">O ENEM Pro corrige sua redação nas 5 competências do INEP e dá nota de 0 a 1000 em segundos.</p>
           <Link href="/auth/register" className="inline-block bg-white text-indigo-600 px-8 py-3 rounded-xl font-semibold hover:bg-indigo-50 transition-colors">
             Começar grátis
           </Link>
@@ -215,7 +215,7 @@ export default function TemasRedacaoPage() {
         </div>
       </main>
 
-      <footer className="bg-zinc-900 text-zinc-500 text-sm py-8 px-6 text-center mt-12">
+      <footer className="bg-zinc-900 text-zinc-400 text-sm py-8 px-6 text-center mt-12">
         <p>© 2026 ENEM Pro — Questões reais do ENEM com explicação por IA</p>
       </footer>
     </div>

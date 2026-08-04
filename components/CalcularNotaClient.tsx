@@ -67,7 +67,7 @@ export default function CalcularNotaClient() {
         <p className="text-zinc-600 text-lg">
           Insira seus acertos em cada área e veja sua nota estimada com base na <strong>curva TRI</strong>.
         </p>
-        <p className="text-xs text-zinc-400 mt-2">Estimativa baseada na distribuição histórica da TRI — não é o cálculo oficial do INEP.</p>
+        <p className="text-xs text-zinc-500 mt-2">Estimativa baseada na distribuição histórica da TRI — não é o cálculo oficial do INEP.</p>
       </div>
 
       <div className="bg-white rounded-2xl border border-zinc-200 p-6 mb-6 space-y-5">
@@ -76,10 +76,11 @@ export default function CalcularNotaClient() {
           return (
             <div key={area.key}>
               <div className="flex items-center justify-between mb-2">
-                <label className={`font-semibold text-sm ${c.text}`}>{area.label}</label>
+                <label htmlFor={`acertos-${area.key}`} className={`font-semibold text-sm ${c.text}`}>{area.label}</label>
                 <span className="text-xs text-zinc-500">{acertos[area.key]} de {area.total} questões</span>
               </div>
               <input
+                id={`acertos-${area.key}`}
                 type="range"
                 min={0}
                 max={area.total}
@@ -90,7 +91,7 @@ export default function CalcularNotaClient() {
                 }}
                 className="w-full accent-indigo-600"
               />
-              <div className="flex justify-between text-xs text-zinc-400 mt-1">
+              <div className="flex justify-between text-xs text-zinc-500 mt-1">
                 <span>0</span>
                 <span>{area.total}</span>
               </div>
@@ -100,10 +101,11 @@ export default function CalcularNotaClient() {
 
         <div>
           <div className="flex items-center justify-between mb-2">
-            <label className="font-semibold text-sm text-rose-700">Redação</label>
+            <label htmlFor="redacao-slider" className="font-semibold text-sm text-rose-700">Redação</label>
             <span className="text-xs text-zinc-500">{redacao} pontos</span>
           </div>
           <input
+            id="redacao-slider"
             type="range"
             min={0}
             max={1000}
@@ -112,7 +114,7 @@ export default function CalcularNotaClient() {
             onChange={e => { setRedacao(Number(e.target.value)); setCalculou(false) }}
             className="w-full accent-rose-600"
           />
-          <div className="flex justify-between text-xs text-zinc-400 mt-1">
+          <div className="flex justify-between text-xs text-zinc-500 mt-1">
             <span>0</span>
             <span>1000</span>
           </div>
@@ -183,7 +185,7 @@ export default function CalcularNotaClient() {
                 )
               })}
             </div>
-            <p className="text-xs text-zinc-400 mt-4">Médias históricas do SISU — consulte o edital oficial para valores exatos.</p>
+            <p className="text-xs text-zinc-500 mt-4">Médias históricas do SISU — consulte o edital oficial para valores exatos.</p>
           </div>
 
           <div className="bg-indigo-50 border border-indigo-200 rounded-2xl p-6 text-center">

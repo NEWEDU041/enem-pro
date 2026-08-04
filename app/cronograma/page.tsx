@@ -91,7 +91,14 @@ function buildCronograma(
 
 function CronogramaContent() {
   const [daysLeft, setDaysLeft] = useState<number | null>(null)
-  useEffect(() => { setDaysLeft(daysUntil(ENEM_DATE)) }, [])
+  useEffect(() => {
+    // Must run client-only post-mount: this page can be statically prerendered
+    // and served from cache for up to 24h (see next.config.js Cache-Control),
+    // so computing this during render would bake a stale value into cached
+    // HTML and mismatch what hydration recomputes.
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- see comment above
+    setDaysLeft(daysUntil(ENEM_DATE))
+  }, [])
   const weeksLeft = daysLeft !== null ? Math.floor(daysLeft / 7) : 0
 
   const [selectedDays, setSelectedDays] = useState([1, 2, 3, 4, 5]) // Seg-Sex default
