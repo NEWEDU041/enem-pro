@@ -120,6 +120,8 @@ export default async function LandingPage() {
             <Link href="/calcular-nota" className="text-sm text-ink-500 hover:text-ink-900 hidden sm:inline">Calcular nota</Link>
             <Link href="/planos" className="text-sm text-ink-500 hover:text-ink-900 hidden sm:inline">Planos</Link>
             <Link href="/sobre" className="text-sm text-ink-500 hover:text-ink-900 hidden sm:inline">Sobre</Link>
+            <Link href="/newsletter" className="text-sm text-ink-500 hover:text-ink-900 hidden sm:inline">Newsletter</Link>
+            <Link href="/faq" className="text-sm text-ink-500 hover:text-ink-900 hidden sm:inline">FAQ</Link>
             <Link href="/auth/login" className="text-sm text-ink-500 hover:text-ink-900">Entrar</Link>
             <LinkButton href="/auth/register" size="sm" className="whitespace-nowrap">Começar grátis</LinkButton>
           </div>
