@@ -324,7 +324,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
 
         <div className="mt-8 bg-indigo-600 text-white rounded-2xl px-8 py-8 text-center">
           <h2 className="text-xl font-bold mb-2">Pratique agora — 10 questões grátis</h2>
-          <p className="text-indigo-200 text-sm mb-5">Leitura é ótimo. Prática é o que aprova no ENEM.</p>
+          <p className="text-indigo-100 text-sm mb-5">Leitura é ótimo. Prática é o que aprova no ENEM.</p>
           <Link
             href="/auth/register"
             className="inline-block bg-white text-indigo-600 px-8 py-3 rounded-xl font-semibold hover:bg-indigo-50 transition-colors"
@@ -339,7 +339,6 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
             <div className="space-y-4">
               {related.map(p => (
                 <Link key={p.slug} href={`/blog/${p.slug}`}
-                  aria-label={`Ler artigo relacionado: ${p.title}`}
                   className="block bg-zinc-50 rounded-xl px-5 py-4 hover:bg-indigo-50 hover:border-indigo-200 border border-transparent transition-all">
                   <p className="font-semibold text-zinc-900 text-sm mb-1">{p.title}</p>
                   <p className="text-xs text-zinc-500">{p.readTime} min de leitura</p>

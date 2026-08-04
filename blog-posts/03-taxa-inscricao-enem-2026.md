@@ -1,3 +1,12 @@
+---
+title: "Taxa Inscricao Enem 2026"
+description: "Guia completo sobre taxa inscricao enem 2026 para o ENEM 2026. Aprenda tudo o que precisa saber."
+date: "2026-07-31"
+image: "/images/blog-03-taxa-inscricao-enem-2026.jpg"
+slug: "03-taxa-inscricao-enem-2026"
+category: "ENEM"
+---
+
 # Taxa de Inscrição ENEM 2026: Quanto Custa e Como Conseguir Isenção
 
 **Meta Description:** Taxa ENEM 2026 custa cerca de 85 a 100 reais. Saiba como solicitar isenção.
@@ -121,3 +130,10 @@ A taxa de inscrição ENEM 2026 custa aproximadamente 85-100 reais, confirmado e
 **Data:** 2026
 
 **Revisão:** Alinhado com políticas INEP 2026
+
+---
+
+📌 **Próximos passos:**
+- [Voltar para Questões](/questoes)
+- [Ver outras guias](/blog)
+- [Iniciar simulado](/simulado)

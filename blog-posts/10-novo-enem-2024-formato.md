@@ -1,3 +1,12 @@
+---
+title: "Novo Enem 2024 Formato"
+description: "Guia completo sobre novo enem 2024 formato para o ENEM 2026. Aprenda tudo o que precisa saber."
+date: "2026-07-31"
+image: "/images/blog-10-novo-enem-2024-formato.jpg"
+slug: "10-novo-enem-2024-formato"
+category: "ENEM"
+---
+
 # O Novo ENEM 2024+: Guia Completo sobre Formato, Estrutura e Mudanças
 
 **Meta Description:** ENEM 2024 mudou estrutura e formato. Conheça nova prova, competências avaliadas e dicas. 2,1M participam com novo modelo.
@@ -162,3 +171,10 @@ O novo ENEM 2024+ mantém estrutura de 180 questões (45 por área) + Redação 
 **Data:** 2026
 
 **Revisão:** Alinhado com formato ENEM 2024-2026
+
+---
+
+📌 **Próximos passos:**
+- [Voltar para Questões](/questoes)
+- [Ver outras guias](/blog)
+- [Iniciar simulado](/simulado)

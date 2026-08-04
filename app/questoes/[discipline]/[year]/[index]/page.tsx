@@ -23,6 +23,13 @@ async function getQuestion(year: string, index: string) {
   }
 }
 
+// Truncate `s` so it plus every char of `fixedPartsLength` fits within `max`.
+function truncateToBudget(s: string, fixedPartsLength: number, max: number): string {
+  const budget = Math.max(20, max - fixedPartsLength)
+  if (s.length <= budget) return s
+  return s.slice(0, budget - 1).trimEnd() + '…'
+}
+
 export async function generateMetadata({ params }: { params: Promise<Params> }): Promise<Metadata> {
   const { discipline, year, index } = await params
   const disc = SLUG_TO_DISCIPLINE[discipline]
@@ -31,15 +38,23 @@ export async function generateMetadata({ params }: { params: Promise<Params> }):
   if (!question) return {}
 
   const snippet = previewText(question.alternativesIntroduction) || previewText(question.context) || question.title
-  const shortSnippet = snippet.length > 90 ? snippet.slice(0, 87) + '...' : snippet
   const shortDisc = disc.split(',')[0]
 
+  // Keep the rendered <title> at or under ~60 chars (Google's practical SERP
+  // truncation point) and the meta description at or under ~155 chars.
+  const titleSuffix = ` — ENEM ${year} | Gabarito e IA`
+  const titleSnippet = truncateToBudget(snippet, titleSuffix.length, 60)
+
+  const descPrefix = `Questão de ${shortDisc} do ENEM ${year}: `
+  const descSuffix = ` Veja o gabarito e a explicação por IA. Resposta: ${question.correctAlternative}.`
+  const descSnippet = truncateToBudget(snippet, descPrefix.length + descSuffix.length, 155)
+
   return {
-    title: `${shortSnippet} — ENEM ${year} | Gabarito e IA`,
-    description: `Questão de ${shortDisc} do ENEM ${year}: ${shortSnippet} Veja o gabarito comentado e a explicação por IA. Resposta correta: alternativa ${question.correctAlternative}.`,
+    title: `${titleSnippet}${titleSuffix}`,
+    description: `${descPrefix}${descSnippet}${descSuffix}`,
     alternates: { canonical: `${SITE_URL}/questoes/${discipline}/${year}/${index}` },
     openGraph: {
-      title: `ENEM ${year} — ${shortDisc}: ${shortSnippet}`,
+      title: `ENEM ${year} — ${shortDisc}: ${titleSnippet}`,
       description: `Gabarito comentado e explicação por IA. Resposta correta: ${question.correctAlternative}.`,
     },
   }
@@ -122,7 +137,7 @@ export default async function QuestionDetailPage({ params }: { params: Promise<P
       </nav>
 
       <main className="max-w-3xl mx-auto px-6 py-10">
-        <nav className="text-xs text-zinc-400 mb-6">
+        <nav className="text-xs text-zinc-500 mb-6">
           <Link href="/" className="hover:text-zinc-700">Início</Link>
           {' / '}
           <Link href={`/questoes/${discipline}/${year}`} className="hover:text-zinc-700">{shortDisc} {year}</Link>
@@ -133,7 +148,17 @@ export default async function QuestionDetailPage({ params }: { params: Promise<P
         <h1 className="text-2xl font-bold text-zinc-900 mb-1">
           Questão {index} — ENEM {year} — {shortDisc}
         </h1>
-        <p className="text-sm text-zinc-500 mb-6">Gabarito oficial com explicação por IA</p>
+        <p className="text-sm text-zinc-500 mb-6">
+          Gabarito oficial com explicação por IA — fonte:{' '}
+          <a
+            href={`https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/${year}`}
+            target="_blank"
+            rel="noopener nofollow"
+            className="text-indigo-600 hover:underline"
+          >
+            INEP — Provas e Gabaritos ENEM {year}
+          </a>
+        </p>
 
         <div className="bg-white rounded-2xl border border-zinc-200 p-6 mb-6">
           {question.context && <QuestionText text={question.context} />}
@@ -155,7 +180,13 @@ export default async function QuestionDetailPage({ params }: { params: Promise<P
                     {alt.letter}
                   </span>
                   <div className="flex-1 min-w-0">
-                    {alt.text ? <QuestionText text={alt.text} /> : alt.file ? <QuestionText text={`![](${alt.file})`} /> : null}
+                    {alt.text ? (
+                      <QuestionText text={alt.text} />
+                    ) : alt.file ? (
+                      <QuestionText text={`![](${alt.file})`} />
+                    ) : (
+                      <span className="italic text-zinc-500">Conteúdo desta alternativa indisponível</span>
+                    )}
                   </div>
                   {isCorrect && <span className="text-xs font-semibold text-green-700 shrink-0">Correta</span>}
                 </div>
@@ -199,7 +230,7 @@ export default async function QuestionDetailPage({ params }: { params: Promise<P
         </div>
       </main>
 
-      <footer className="bg-zinc-900 text-zinc-500 text-sm py-8 px-6 text-center mt-16">
+      <footer className="bg-zinc-900 text-zinc-400 text-sm py-8 px-6 text-center mt-16">
         <p>© 2026 ENEM Pro — Questões reais do ENEM com explicação por IA</p>
       </footer>
     </div>

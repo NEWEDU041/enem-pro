@@ -46,7 +46,7 @@ function DashboardContent() {
       if (data?.plan === 'pro' && data?.expires_at && new Date(data.expires_at) > new Date()) setIsPro(true)
     }, 3000)
     return () => clearTimeout(timer)
-  }, [upgradeSuccess, user])
+  }, [upgradeSuccess, user, upgradePlan])
   const [editingGoal, setEditingGoal] = useState(false)
   const [goalScore, setGoalScore] = useState(700)
   const [referralCode, setReferralCode] = useState('')

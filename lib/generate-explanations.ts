@@ -2,6 +2,7 @@ import Anthropic from '@anthropic-ai/sdk'
 import { createServerClient } from './supabase'
 import { fetchQuestionsByYear } from './enem-api'
 import { PROMPTS } from './ai-prompts'
+import { Alternative } from './types'
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY })
 
@@ -64,7 +65,7 @@ export async function generateExplanationBatch(
           content: `${q.title}
 
 Alternativas:
-${q.alternatives.map((a: any) => `${a.letter}) ${a.text}`).join('\n')}
+${q.alternatives.map((a: Alternative) => `${a.letter}) ${a.text}`).join('\n')}
 
 Correta: ${q.correctAlternative}`,
         }],

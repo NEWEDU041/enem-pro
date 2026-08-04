@@ -4,6 +4,32 @@ import type { Question } from './types'
 
 const CACHE_TTL_DAYS = 365
 
+export const DEFAULT_QUESTIONS_YEAR = 2024
+export const QUESTIONS_PAGE_SIZE = 20
+
+export interface FilteredQuestionsResult {
+  questions: Question[]
+  total: number
+  page: number
+}
+
+// Shared by app/api/questoes/route.ts and app/questoes/page.tsx so the
+// client-side paginated/filtered view and the server-rendered first page
+// can never drift out of sync with each other.
+export function filterAndPaginateQuestions(
+  all: Question[],
+  discipline: string,
+  page: number,
+  limit: number = QUESTIONS_PAGE_SIZE,
+): FilteredQuestionsResult {
+  const safePage = Math.max(1, Number.isFinite(page) ? Math.trunc(page) : 1)
+  const filtered = discipline
+    ? all.filter((q) => q.discipline.toLowerCase().includes(discipline.toLowerCase()))
+    : all
+  const start = (safePage - 1) * limit
+  return { questions: filtered.slice(start, start + limit), total: filtered.length, page: safePage }
+}
+
 async function getCachedYear(year: number): Promise<Question[] | null> {
   try {
     const sb = createServerClient()

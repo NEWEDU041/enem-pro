@@ -207,8 +207,43 @@ export default async function VsPage({ params }: { params: Promise<{ slug: strin
   const c = COMPETITORS[slug]
   if (!c) notFound()
 
+  const itemListLd = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: `ENEM Pro vs ${c.name}`,
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        item: {
+          '@type': 'Product',
+          name: 'ENEM Pro',
+          description: 'Questões reais do ENEM de 2009 a 2024 com explicação por IA.',
+          offers: { '@type': 'Offer', price: '29.90', priceCurrency: 'BRL' },
+        },
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        item: { '@type': 'Product', name: c.name, description: c.desc },
+      },
+    ],
+  }
+
+  const breadcrumbLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'ENEM Pro', item: SITE_URL },
+      { '@type': 'ListItem', position: 2, name: 'Comparativos', item: `${SITE_URL}/vs` },
+      { '@type': 'ListItem', position: 3, name: `vs ${c.name}`, item: `${SITE_URL}/vs/${slug}` },
+    ],
+  }
+
   return (
     <div className="min-h-screen bg-zinc-50">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
       <header className="bg-white border-b border-zinc-200 px-4 py-4 flex items-center justify-between">
         <Link href="/" className="text-xl font-bold text-indigo-600">ENEM Pro</Link>
         <Link href="/auth/register" className="text-sm bg-indigo-600 text-white px-4 py-2 rounded-lg hover:bg-indigo-700">

@@ -1,8 +1,8 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { getAllPostsLight as getAllPosts } from '@/lib/blog-index'
-import type { BlogCategory } from '@/lib/blog-data'
 import { SITE_URL } from '@/lib/site-config'
+import { ALL_CATEGORIES, CATEGORY_COLORS, POST_ICON, CATEGORY_TO_SLUG } from '@/lib/blog-categories'
 
 export const metadata: Metadata = {
   title: 'Blog ENEM Pro — Guias, Estratégias e Gabaritos',
@@ -15,28 +15,10 @@ export const metadata: Metadata = {
   },
 }
 
-const CATEGORY_COLORS: Record<BlogCategory, string> = {
-  'Gabarito':      'bg-emerald-100 text-emerald-700',
-  'Questões':      'bg-indigo-100 text-indigo-700',
-  'Redação':       'bg-violet-100 text-violet-700',
-  'Universidades': 'bg-amber-100 text-amber-700',
-  'Por Matéria':   'bg-sky-100 text-sky-700',
-  'Estratégias':   'bg-rose-100 text-rose-700',
-  'Como Funciona': 'bg-zinc-100 text-zinc-700',
-  'Planejamento':  'bg-teal-100 text-teal-700',
-  'Comparativos':  'bg-orange-100 text-orange-700',
-}
-
-const ALL_CATEGORIES: BlogCategory[] = [
-  'Gabarito', 'Questões', 'Redação', 'Universidades',
-  'Por Matéria', 'Estratégias', 'Como Funciona', 'Planejamento', 'Comparativos',
-]
-
-const POST_ICON: Record<BlogCategory, string> = {
-  'Gabarito': '📋', 'Questões': '📝', 'Redação': '✍️',
-  'Universidades': '🎓', 'Por Matéria': '📚', 'Estratégias': '🎯',
-  'Como Funciona': '🔍', 'Planejamento': '📅', 'Comparativos': '⚖️',
-}
+// Cap posts rendered per category on the index page — the full list lives at
+// /blog/categoria/[slug]. Keeps the index's DOM size bounded (was rendering
+// all ~356 posts unpaginated, causing ~1.6s of Style & Layout work).
+const POSTS_PER_CATEGORY_PREVIEW = 6
 
 const FEATURED_SLUG = 'gabarito-enem-2024'
 
@@ -126,7 +108,7 @@ export default function BlogPage() {
                   className={`inline-flex items-center gap-1.5 text-xs font-semibold px-3 py-1.5 rounded-full hover:opacity-80 transition-opacity ${CATEGORY_COLORS[cat]}`}
                 >
                   {POST_ICON[cat]} {cat}
-                  <span className="opacity-60">({countByCategory[cat]})</span>
+                  <span>({countByCategory[cat]})</span>
                 </Link>
               ))}
             </div>
@@ -140,7 +122,6 @@ export default function BlogPage() {
               <p className="text-xs font-bold text-indigo-600 uppercase tracking-widest mb-4">Destaque</p>
               <Link
                 href={`/blog/${featuredPost.slug}`}
-                aria-label={`Ler artigo em destaque: ${featuredPost.title}`}
                 className="group block bg-gradient-to-br from-indigo-600 to-indigo-700 text-white rounded-2xl p-8 md:p-10 hover:from-indigo-700 hover:to-indigo-800 transition-all shadow-lg shadow-indigo-200"
               >
                 <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-6">
@@ -173,6 +154,8 @@ export default function BlogPage() {
         {ALL_CATEGORIES.filter(cat => (countByCategory[cat] ?? 0) > 0).map(cat => {
           const catPosts = restPosts.filter(p => p.category === cat)
           if (catPosts.length === 0) return null
+          const preview = catPosts.slice(0, POSTS_PER_CATEGORY_PREVIEW)
+          const hasMore = catPosts.length > preview.length
           return (
             <section key={cat} id={`cat-${cat.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`} className="px-6 py-10 border-b border-zinc-100">
               <div className="max-w-5xl mx-auto">
@@ -184,11 +167,10 @@ export default function BlogPage() {
                   </span>
                 </div>
                 <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
-                  {catPosts.map(post => (
+                  {preview.map(post => (
                     <Link
                       key={post.slug}
                       href={`/blog/${post.slug}`}
-                      aria-label={`Ler: ${post.title}`}
                       className="group bg-white rounded-2xl border border-zinc-200 p-5 hover:border-indigo-300 hover:shadow-md transition-all flex flex-col"
                     >
                       <h3 className="font-bold text-zinc-900 text-sm leading-snug mb-2 flex-1 group-hover:text-indigo-700 transition-colors">
@@ -196,7 +178,7 @@ export default function BlogPage() {
                       </h3>
                       <p className="text-xs text-zinc-500 leading-relaxed line-clamp-2 mb-3">{post.description}</p>
                       <div className="flex items-center justify-between mt-auto pt-3 border-t border-zinc-100">
-                        <time dateTime={post.date} className="text-xs text-zinc-400">
+                        <time dateTime={post.date} className="text-xs text-zinc-500">
                           {new Date(post.date).toLocaleDateString('pt-BR', { day: '2-digit', month: 'short' })}
                         </time>
                         <span className="text-xs font-medium text-indigo-600 group-hover:underline" aria-hidden="true">
@@ -206,6 +188,14 @@ export default function BlogPage() {
                     </Link>
                   ))}
                 </div>
+                {hasMore && (
+                  <Link
+                    href={`/blog/categoria/${CATEGORY_TO_SLUG[cat]}`}
+                    className="inline-block mt-6 text-sm font-semibold text-indigo-600 hover:underline"
+                  >
+                    Ver todos os {countByCategory[cat]} artigos de {cat} →
+                  </Link>
+                )}
               </div>
             </section>
           )
@@ -216,7 +206,7 @@ export default function BlogPage() {
           <div className="max-w-5xl mx-auto">
             <div className="bg-indigo-600 text-white rounded-2xl px-8 py-8 text-center">
               <h2 className="text-2xl font-bold mb-2">Pratique com questões reais</h2>
-              <p className="text-indigo-200 mb-6 text-sm">Leitura é ótimo. Prática é o que aprova. 10 questões/dia grátis.</p>
+              <p className="text-indigo-100 mb-6 text-sm">Leitura é ótimo. Prática é o que aprova. 10 questões/dia grátis.</p>
               <Link href="/auth/register" className="inline-block bg-white text-indigo-600 px-8 py-3 rounded-xl font-semibold hover:bg-indigo-50 transition-colors">
                 Criar conta grátis
               </Link>

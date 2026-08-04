@@ -119,7 +119,7 @@ function QuestionContent() {
       setLoading(false)
     }
     load()
-  }, [id, year, router, isBareDisciplineSlug])
+  }, [id, year, router, isBareDisciplineSlug, pathname])
 
   // Timer
   useEffect(() => {
@@ -365,8 +365,10 @@ function QuestionContent() {
                         className="max-w-full max-h-40 rounded"
                         onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none' }}
                       />
-                    ) : (
+                    ) : alt.text ? (
                       alt.text
+                    ) : (
+                      <span className="italic text-zinc-500">Conteúdo desta alternativa indisponível</span>
                     )}
                   </span>
                   {status !== 'idle' && isCorrectAlt && (
