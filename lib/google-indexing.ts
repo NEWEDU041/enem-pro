@@ -1,3 +1,16 @@
+/**
+ * ⚠️ LIMITATION: Google Indexing API only officially supports JobPosting and BroadcastEvent
+ * content types. Calls for blog posts and question pages are silently ignored by Google,
+ * even though the API returns 200 OK. This file is kept for reference but should NOT be
+ * relied upon for indexing these pages.
+ *
+ * For better indexing:
+ * 1. Submit sitemap.xml to Google Search Console
+ * 2. Use crawl-friendly internal links (done in Phase 3)
+ * 3. Ensure robots.txt allows crawling (done in Phase 1)
+ * 4. Monitor actual indexation via GSC API (see lib/gsc-api.ts)
+ */
+
 import { JWT } from 'google-auth-library'
 import { getAllSlugsLight as getAllSlugs } from '@/lib/blog-index'
 import { SITE_URL } from '@/lib/site-config'
