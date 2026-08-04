@@ -42,22 +42,31 @@ export async function generateMetadata({ params }: { params: Promise<Params> }):
   const snippet = previewText(question.alternativesIntroduction) || previewText(question.context) || question.title
   const shortDisc = disc.split(',')[0]
 
-  // Keep the rendered <title> at or under ~60 chars (Google's practical SERP
-  // truncation point) and the meta description at or under ~155 chars.
-  const titleSuffix = ` — ENEM ${year} | Gabarito e IA`
+  // Persuasive title: include numbers, year, emotional hook
+  // Keep under ~60 chars (Google's SERP truncation)
+  const titleSuffix = ` | ENEM ${year} Resolvida`
   const titleSnippet = truncateToBudget(snippet, titleSuffix.length, 60)
+  const persuasiveTitle = `${titleSnippet}${titleSuffix}`
 
-  const descPrefix = `Questão de ${shortDisc} do ENEM ${year}: `
-  const descSuffix = ` Veja o gabarito e a explicação por IA. Resposta: ${question.correctAlternative}.`
+  // Persuasive description: urgency, value proposition, CTA
+  // Keep under ~155 chars
+  const isOldExam = parseInt(year) <= 2015
+  const descPrefix = isOldExam
+    ? `✅ Questão ${shortDisc} ENEM ${year} com gabarito + explicação grátis de IA: `
+    : `🎯 Questão ${shortDisc} ENEM ${year} — Aprenda resolvendo agora: `
+  const descSuffix = isOldExam
+    ? ` Resposta: ${question.correctAlternative}. Entenda o conceito!`
+    : ` Resposta: ${question.correctAlternative}. Veja explicação completa.`
   const descSnippet = truncateToBudget(snippet, descPrefix.length + descSuffix.length, 155)
+  const persuasiveDesc = `${descPrefix}${descSnippet}${descSuffix}`
 
   return {
-    title: `${titleSnippet}${titleSuffix}`,
-    description: `${descPrefix}${descSnippet}${descSuffix}`,
+    title: persuasiveTitle,
+    description: persuasiveDesc,
     alternates: { canonical: `${SITE_URL}/questoes/${discipline}/${year}/${index}` },
     openGraph: {
-      title: `ENEM ${year} — ${shortDisc}: ${titleSnippet}`,
-      description: `Gabarito comentado e explicação por IA. Resposta correta: ${question.correctAlternative}.`,
+      title: `${shortDisc} ENEM ${year} | Questão Resolvida com IA`,
+      description: `Gabarito + explicação. Aprenda a resolver: ${snippet.substring(0, 80)}...`,
     },
   }
 }
@@ -100,6 +109,34 @@ export default async function QuestionDetailPage({ params }: { params: Promise<P
   const pageUrl = `${SITE_URL}/questoes/${discipline}/${year}/${index}`
   const questionName = enunciadoPreview.length > 110 ? enunciadoPreview.slice(0, 107) + '...' : enunciadoPreview
 
+  // Add FAQ Schema for better SERP appearance
+  const faqItems = [
+    {
+      '@type': 'Question',
+      name: `Qual é a resposta correta da questão ${index}?`,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: `A resposta correta é a alternativa ${question.correctAlternative}. ${previewText(correctAlt?.text)}`,
+      },
+    },
+    {
+      '@type': 'Question',
+      name: `Como resolver essa questão de ${shortDisc}?`,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: `Veja a explicação completa por IA. A questão trata sobre ${question.title}.`,
+      },
+    },
+    {
+      '@type': 'Question',
+      name: `Essa questão é fácil ou difícil?`,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: `Questão do ENEM ${year}. Nível de dificuldade médio. Pratique com explicação de IA.`,
+      },
+    },
+  ]
+
   const qaLd = {
     '@context': 'https://schema.org',
     '@type': 'QAPage',
@@ -115,6 +152,12 @@ export default async function QuestionDetailPage({ params }: { params: Promise<P
     },
   }
 
+  const faqLd = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqItems,
+  }
+
   const breadcrumbLd = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
@@ -128,6 +171,7 @@ export default async function QuestionDetailPage({ params }: { params: Promise<P
   return (
     <div className="min-h-screen bg-zinc-50">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(qaLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
 
       <nav className="sticky top-0 z-50 bg-white border-b border-zinc-200 px-6 py-4">
