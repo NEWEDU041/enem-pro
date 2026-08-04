@@ -87,8 +87,12 @@ export default async function QuestionDetailPage({ params }: { params: Promise<P
     .eq('question_id', question.id)
     .maybeSingle()
   const explanation = explanationRow?.explanation as string | undefined
+
+  // Years 2009-2015: show full explanation (SEO anchor). Years 2016-2024: paywall with larger teaser
+  const yearNum = parseInt(year)
+  const teaserMaxLength = yearNum <= 2015 ? Infinity : 750
   const explanationTeaser = explanation
-    ? (explanation.length > 220 ? explanation.slice(0, 220) + '…' : explanation)
+    ? (explanation.length > teaserMaxLength ? explanation.slice(0, teaserMaxLength) + '…' : explanation)
     : null
 
   const pageUrl = `${SITE_URL}/questoes/${discipline}/${year}/${index}`
@@ -200,15 +204,15 @@ export default async function QuestionDetailPage({ params }: { params: Promise<P
           {explanationTeaser ? (
             <>
               <p className="text-sm text-zinc-700 leading-relaxed">{explanationTeaser}</p>
-              {explanation && explanation.length > 220 && (
+              {explanation && explanation.length > teaserMaxLength && (
                 <Link href="/auth/register" className="inline-block mt-3 text-sm font-semibold text-indigo-600 hover:underline">
-                  Ver explicação completa no Plano Pro →
+                  Desbloqueie explicação completa + simulados, cronograma e correção de redação →
                 </Link>
               )}
             </>
           ) : (
             <p className="text-sm text-zinc-500">
-              Explicação por IA disponível no{' '}
+              Explicações completas com simulados, cronograma de estudo e correção de redação disponíveis no{' '}
               <Link href="/planos" className="text-indigo-600 font-semibold hover:underline">Plano Pro</Link>.
             </p>
           )}
