@@ -138,7 +138,7 @@ export default function HowToStudyPage() {
           <ul className="space-y-3 text-zinc-700">
             <li className="flex items-start gap-3">
               <span className="text-green-600 font-bold">1.</span>
-              <span><strong>Qualidade > Quantidade:</strong> 10 questões bem revisadas são melhores que 50 feitas rápido.</span>
+              <span><strong>Qualidade {`>`} Quantidade:</strong> 10 questões bem revisadas são melhores que 50 feitas rápido.</span>
             </li>
             <li className="flex items-start gap-3">
               <span className="text-green-600 font-bold">2.</span>
