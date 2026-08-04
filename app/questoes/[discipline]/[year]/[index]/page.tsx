@@ -7,6 +7,8 @@ import { previewText } from '@/lib/text-preview'
 import { SLUG_TO_DISCIPLINE, disciplineToSlug, YEARS as VALID_YEARS } from '@/lib/enem-api'
 import { createServerClient } from '@/lib/supabase'
 import QuestionText from '@/components/QuestionText'
+import RelatedContent from '@/components/RelatedContent'
+import { getRelatedBlogPostsForQuestions } from '@/lib/related-content'
 
 export const revalidate = 86400
 
@@ -217,6 +219,11 @@ export default async function QuestionDetailPage({ params }: { params: Promise<P
             </p>
           )}
         </div>
+
+        <RelatedContent
+          title="📚 Saiba mais sobre esse tema"
+          items={getRelatedBlogPostsForQuestions(question.discipline)}
+        />
 
         <div className="flex flex-wrap gap-3">
           <Link
