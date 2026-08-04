@@ -48,6 +48,25 @@ const faqItems = [
   },
 ]
 
+const authorSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: 'ENEM Pro',
+  url: SITE_URL,
+  description: 'Especializado em educação e preparação para ENEM',
+  knowsAbout: ['ENEM', 'Educação brasileira', 'Preparação para provas', 'Inteligência artificial na educação'],
+}
+
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'ENEM Pro',
+  url: SITE_URL,
+  description: 'Plataforma educacional de preparação para o ENEM',
+  founder: { '@type': 'Person', name: 'ENEM Pro' },
+  sameAs: [SITE_URL],
+}
+
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'WebApplication',
@@ -78,6 +97,14 @@ export default async function LandingPage() {
     <div className="flex flex-col min-h-screen" id="page-root">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(authorSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       <script
@@ -92,6 +119,7 @@ export default async function LandingPage() {
             <Link href="/ferramentas" className="text-sm text-ink-500 hover:text-ink-900 hidden md:inline">Ferramentas</Link>
             <Link href="/calcular-nota" className="text-sm text-ink-500 hover:text-ink-900 hidden sm:inline">Calcular nota</Link>
             <Link href="/planos" className="text-sm text-ink-500 hover:text-ink-900 hidden sm:inline">Planos</Link>
+            <Link href="/sobre" className="text-sm text-ink-500 hover:text-ink-900 hidden sm:inline">Sobre</Link>
             <Link href="/auth/login" className="text-sm text-ink-500 hover:text-ink-900">Entrar</Link>
             <LinkButton href="/auth/register" size="sm" className="whitespace-nowrap">Começar grátis</LinkButton>
           </div>

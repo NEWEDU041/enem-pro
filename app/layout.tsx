@@ -15,6 +15,15 @@ const spaceGrotesk = Space_Grotesk({
 
 const siteUrl = SITE_URL
 
+const personSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: 'ENEM Pro Educação',
+  description: 'Especialista em preparação para ENEM com foco em educação de qualidade',
+  knowsAbout: ['ENEM', 'Educação', 'Preparação para vestibular', 'IA educacional'],
+  url: siteUrl,
+}
+
 const educationalOrgSchema = {
   '@context': 'https://schema.org',
   '@type': 'EducationalOrganization',
@@ -22,6 +31,7 @@ const educationalOrgSchema = {
   url: siteUrl,
   description: 'Plataforma de preparação para o ENEM com questões reais do INEP e explicações geradas por IA.',
   sameAs: [siteUrl],
+  founder: personSchema,
   offers: [
     { '@type': 'Offer', price: '0', priceCurrency: 'BRL', name: 'Plano Grátis — 10 questões/dia' },
     { '@type': 'Offer', price: '29.90', priceCurrency: 'BRL', name: 'Plano Pro — questões ilimitadas + IA' },
@@ -117,6 +127,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         )}
       </head>
       <body className={`${inter.className} ${spaceGrotesk.variable} min-h-full bg-zinc-50 text-zinc-900 antialiased`}>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(personSchema) }}
+        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(educationalOrgSchema) }}
