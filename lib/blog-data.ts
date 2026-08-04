@@ -55756,3 +55756,11 @@ export function getRelatedPosts(currentSlug: string, limit = 3): BlogPost[] {
   const others = ALL_POSTS.filter(p => p.slug !== currentSlug && getCategory(p.slug) !== category)
   return [...sameCategory, ...others].slice(0, limit)
 }
+
+export function getPostsByDiscipline(discipline: string, limit = 3): BlogPost[] {
+  const disciplineLower = discipline.toLowerCase()
+  return ALL_POSTS.filter(p =>
+    p.title.toLowerCase().includes(disciplineLower) ||
+    p.tags?.some(tag => tag.toLowerCase().includes(disciplineLower))
+  ).slice(0, limit)
+}
