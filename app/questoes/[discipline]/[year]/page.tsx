@@ -12,9 +12,12 @@ export async function generateMetadata({ params }: { params: Promise<{ disciplin
   const disc = SLUG_TO_DISCIPLINE[discipline]
   if (!disc) return {}
   const shortDisc = disc.split(',')[0]
+  const yearNum = parseInt(year)
+  const isRecent = yearNum >= 2020
+
   return {
-    title: `Questões de ${shortDisc} ENEM ${year} — com Gabarito e IA`,
-    description: `Pratique todas as questões de ${shortDisc} do ENEM ${year} com gabarito oficial e explicação por IA. Treine grátis.`,
+    title: `${shortDisc} ENEM ${year} — ${isRecent ? '100+ Questões com Gabarito' : 'Treinar Grátis'}`,
+    description: `🎯 ${isRecent ? 'Estude' : 'Aprenda'} ${shortDisc} ENEM ${year} com ${isRecent ? '100+ questões' : 'todas as questões'} do gabarito oficial + explicação por IA. ${isRecent ? 'Simule a prova agora.' : 'Entenda cada conceito.'}`,
     alternates: { canonical: `${SITE_URL}/questoes/${discipline}/${year}` },
   }
 }
