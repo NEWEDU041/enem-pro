@@ -5,7 +5,7 @@ import { SITE_URL } from '@/lib/site-config'
 import { previewText } from '@/lib/text-preview'
 import { SLUG_TO_DISCIPLINE, YEARS as VALID_YEARS } from '@/lib/enem-api'
 
-export const dynamic = 'force-dynamic'
+export const revalidate = 86400
 
 export async function generateMetadata({ params }: { params: Promise<{ discipline: string; year: string }> }): Promise<Metadata> {
   const { discipline, year } = await params
