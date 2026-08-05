@@ -12,10 +12,15 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const post = getPost(slug)
   if (!post) return {}
   const postUrl = `${SITE_URL}/blog/${slug}`
+
+  // Dynamic noindex for poor-quality posts (readTime < 7)
+  const shouldNoindex = post.readTime < 7
+
   return {
     title: post.title,
     description: post.description,
     alternates: { canonical: postUrl },
+    robots: shouldNoindex ? 'noindex, follow' : undefined,
     openGraph: {
       title: post.title,
       description: post.description,
