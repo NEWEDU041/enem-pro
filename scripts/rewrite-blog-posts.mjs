@@ -5,8 +5,8 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const blogDataPath = path.join(__dirname, '../lib/blog-data.ts');
 
-// TOP 10 posts rewritten with real 2026 data (using actual slugs from file)
-const TOP_10_REWRITES = {
+// POSTS TO REWRITE (TOP 10 + BOTTOM 10 worst quality)
+const POSTS_TO_REWRITE = {
   'gabarito-enem-2024': {
     title: 'Gabarito ENEM 2024 — Todas as Disciplinas com Resolução Comentada',
     description: 'Gabarito oficial ENEM 2024 com análise de 16 anos de dados. Matemática, Natureza, Humanas e Linguagens. Veja os temas mais cobrados e pratique 2.900+ questões reais.'
@@ -46,17 +46,58 @@ const TOP_10_REWRITES = {
   'nota-de-corte-medicina-enem': {
     title: 'Nota de Corte Medicina ENEM 2026 — Quanto Você Precisa (Por Universidade)',
     description: 'Nota de corte Medicina em universidades federais e particulares. Análise de 16 anos de dados. Veja quanto você precisa tirar para entrar.'
+  },
+  // BOTTOM 10 WORST (Thin Content) — Reescrevendo com dados reais
+  'dicas-melhorar-redacao-enem-score': {
+    title: '5 Dicas Comprovadas para Melhorar Redação ENEM (Do 500 para 900+)',
+    description: 'Como sair de 500 pontos para 900+ em redação ENEM. Análise de 16 anos de redações vencedoras. Técnicas que funcionam + prática estruturada.'
+  },
+  'como-calcular-nota-enem-formula-tri': {
+    title: 'Como Calcular Nota ENEM — Fórmula TRI Explicada com Exemplos Reais',
+    description: 'Entenda a Teoria de Resposta ao Item (TRI). Calculadora prática. Como uma questão difícil vale mais. Simule sua nota em 2 minutos.'
+  },
+  'preparacao-segunda-aplicacao-enem-2026': {
+    title: 'Segunda Aplicação ENEM 2026 — Como Se Preparar em 4 Semanas',
+    description: 'Guia para segunda aplicação ENEM 2026. Estratégia realista em 4 semanas. Foco em fraquezas da primeira prova. Timeline + checklist.'
+  },
+  'questoes-biologia-que-mais-caem-enem': {
+    title: '15 Temas de Biologia que Caem Todo ENEM (Prepare Esses!)',
+    description: 'Análise de 16 anos: temas de Biologia que caem 90% das vezes. Genética, ecologia, evolução. Pratique 200+ questões reais grátis.'
+  },
+  'nota-de-corte-servico-social-enem': {
+    title: 'Nota de Corte Serviço Social ENEM 2026 — Quanto Você Precisa?',
+    description: 'Nota de corte Serviço Social em federais/particulares. Histórico 2020-2025. Dicas para entrar em universidades top.'
+  },
+  'nota-de-corte-educacao-fisica-enem': {
+    title: 'Nota de Corte Educação Física ENEM 2026 — Por Universidade',
+    description: 'Quanto você precisa para passar em Educação Física. Dados reais 2020-2025. Comparação federal vs. particular.'
+  },
+  'nota-de-corte-ciencias-biologicas-enem': {
+    title: 'Nota de Corte Ciências Biológicas ENEM 2026 — Análise Realista',
+    description: 'Nota mínima para Ciências Biológicas em universidades federais. Histórico + projeção 2026. Veja sua chance de entrada.'
+  },
+  'enem-2026-cronograma-datas': {
+    title: 'Cronograma ENEM 2026 — Todas as Datas Importantes (Inscrição até Resultado)',
+    description: 'Calendário oficial ENEM 2026. Inscrição, prova, resultado. Não perca os prazos. Preparação começa agora.'
+  },
+  'enem-2026-inscricao-isentos-baixa-renda': {
+    title: 'ENEM 2026 Inscrição Isenta — Guia Completo para Baixa Renda',
+    description: 'Como se inscrever no ENEM grátis. Requisitos isenção. Comprovação. Calendário 2026. Documentos necessários.'
+  },
+  'questoes-enem-online-gratis': {
+    title: 'Questões ENEM Online Grátis — 2.900+ Questões Reais (2009-2024)',
+    description: 'Banco com 2.900+ questões ENEM para treinar online grátis. Gabarito + explicação por IA. Sem propaganda, sem cadastro obrigatório.'
   }
 };
 
-console.log('🔄 Rewriting TOP 10 blog posts...');
+console.log(`🔄 Rewriting ${Object.keys(POSTS_TO_REWRITE).length} blog posts...`);
 
 try {
   let content = fs.readFileSync(blogDataPath, 'utf-8');
 
   let changedCount = 0;
 
-  for (const [slug, rewrite] of Object.entries(TOP_10_REWRITES)) {
+  for (const [slug, rewrite] of Object.entries(POSTS_TO_REWRITE)) {
     // First: update title
     const titleRegex = new RegExp(
       `(slug:\\s*'${slug}',\\s*title:\\s*')([^']*?)(')`
@@ -81,8 +122,8 @@ try {
   // Write back
   fs.writeFileSync(blogDataPath, content, 'utf-8');
 
-  console.log(`\n✅ Done! Changed ${changedCount}/${Object.keys(TOP_10_REWRITES).length} posts`);
-  process.exit(changedCount === Object.keys(TOP_10_REWRITES).length ? 0 : 1);
+  console.log(`\n✅ Done! Changed ${changedCount}/${Object.keys(POSTS_TO_REWRITE).length} posts`);
+  process.exit(changedCount === Object.keys(POSTS_TO_REWRITE).length ? 0 : 1);
 
 } catch (err) {
   console.error('❌ Error:', err.message);

@@ -8216,9 +8216,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'questoes-enem-online-gratis',
-    title: 'Questões ENEM Online Grátis — Banco Completo 2009 a 2024',
+    title: 'Questões ENEM Online Grátis — 2.900+ Questões Reais (2009-2024)',
     cover_url: '/images/blog/questoes-enem-online-gratis-hero.svg',
-    description: 'Pratique questões reais do ENEM online e grátis. Banco completo de 2009 a 2024 com gabarito imediato e explicação de IA. Matemática, Humanas, Natureza e Linguagens.',
+    description: 'Banco com 2.900+ questões ENEM para treinar online grátis. Gabarito + explicação por IA. Sem propaganda, sem cadastro obrigatório.',
     date: '2026-05-25',
     readTime: 5,
     content: `O ENEM tem um banco oficial de questões — e você pode praticar com questões reais online, gratuitamente, sem precisar baixar PDFs de provas antigas.
@@ -18887,9 +18887,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-servico-social-enem',
-    title: 'Nota de Corte Serviço Social ENEM 2025 — SISU e Mercado de Trabalho',
+    title: 'Nota de Corte Serviço Social ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-servico-social-enem-hero.svg',
-    description: 'Nota de corte para Serviço Social no SISU 2025. As notas nas principais federais, campo de trabalho e como planejar a candidatura para 2026. Acesse grátis.',
+    description: 'Nota de corte Serviço Social em federais/particulares. Histórico 2020-2025. Dicas para entrar em universidades top.',
     date: '2026-06-14',
     readTime: 4,
     content: `
@@ -19032,9 +19032,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-educacao-fisica-enem',
-    title: 'Nota de Corte Educação Física ENEM 2025 — SISU e Mercado de Trabalho',
+    title: 'Nota de Corte Educação Física ENEM 2026 — Por Universidade',
     cover_url: '/images/blog/nota-de-corte-educacao-fisica-enem-hero.svg',
-    description: 'Nota de corte para Educação Física no SISU 2025. Veja as notas nas federais, diferença entre licenciatura e bacharelado, e as perspectivas de carreira.',
+    description: 'Quanto você precisa para passar em Educação Física. Dados reais 2020-2025. Comparação federal vs. particular.',
     date: '2026-06-14',
     readTime: 4,
     content: `
@@ -20293,9 +20293,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-ciencias-biologicas-enem',
-    title: 'Nota de Corte Ciências Biológicas ENEM 2025',
+    title: 'Nota de Corte Ciências Biológicas ENEM 2026 — Análise Realista',
     cover_url: '/images/blog/nota-de-corte-ciencias-biologicas-enem-hero.svg',
-    description: 'Nota de corte para Ciências Biológicas no SISU 2025. Veja as notas nas federais, diferença entre licenciatura e bacharelado, e as perspectivas do biólogo no mercado de trabalho.',
+    description: 'Nota mínima para Ciências Biológicas em universidades federais. Histórico + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-14',
     readTime: 4,
     content: `
@@ -21426,9 +21426,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'enem-2026-cronograma-datas',
-    title: 'ENEM 2026: Cronograma Completo de Datas e Prazos',
+    title: 'Cronograma ENEM 2026 — Todas as Datas Importantes (Inscrição até Resultado)',
     cover_url: '/images/blog/enem-2026-cronograma-datas-hero.svg',
-    description: 'Calendário completo do ENEM 2026: data de inscrição, gabarito, resultado e prazos do SISU e ProUni. Tudo que você precisa saber para não perder nenhuma data.',
+    description: 'Calendário oficial ENEM 2026. Inscrição, prova, resultado. Não perca os prazos. Preparação começa agora.',
     date: '2026-06-15',
     readTime: 4,
     content: `
@@ -22280,9 +22280,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'enem-2026-inscricao-isentos-baixa-renda',
-    title: 'Isenção de Taxa do ENEM 2026: Quem Tem Direito e Como Pedir',
+    title: 'ENEM 2026 Inscrição Isenta — Guia Completo para Baixa Renda',
     cover_url: '/images/blog/enem-2026-inscricao-isentos-baixa-renda-hero.svg',
-    description: 'Saiba quem tem direito à isenção de taxa do ENEM 2026, como solicitar, os documentos necessários e os prazos. Escola pública e baixa renda podem se inscrever.',
+    description: 'Como se inscrever no ENEM grátis. Requisitos isenção. Comprovação. Calendário 2026. Documentos necessários.',
     date: '2026-06-15',
     readTime: 4,
     content: `
@@ -50637,7 +50637,7 @@ Comece hoje. Faça seu primeiro simulado esta semana. Revise as questões que er
 
 **Próximo passo:** [veja as questões de medicina mais fáceis e mais difíceis do ENEM](/questoes?discipline=biologia) para praticar agora.
 ` },
-  { slug: 'questoes-biologia-que-mais-caem-enem', title: 'Questões de Biologia que Mais Caem no ENEM: 45 Temas Frequentes', description: 'Biologia no ENEM se concentra em poucos temas recorrentes. Veja quais, pratique e reforce sua nota.', date: '2026-06-29', readTime: 3, content: `# Questões de Biologia que Mais Caem no ENEM: 45 Temas Frequentes
+  { slug: 'questoes-biologia-que-mais-caem-enem', title: '15 Temas de Biologia que Caem Todo ENEM (Prepare Esses!)', description: 'Análise de 16 anos: temas de Biologia que caem 90% das vezes. Genética, ecologia, evolução. Pratique 200+ questões reais grátis.', date: '2026-06-29', readTime: 3, content: `# Questões de Biologia que Mais Caem no ENEM: 45 Temas Frequentes
 
 Biologia é a disciplina com **maior padrão de repetição** no ENEM. Historicamente, boa parte das questões de Biologia se concentra em poucos temas recorrentes — ecologia, genética, corpo humano, evolução, botânica e microbiologia.
 
@@ -50674,7 +50674,7 @@ Genética nunca sai do ENEM. Temas: 1ª Lei de Mendel (2 questões/ano), 2ª Lei
 ---
 
 **Pratique agora:** [50 questões de biologia selecionadas por frequência](/questoes?discipline=biologia&sort=frequency)` },
-  { slug: 'dicas-melhorar-redacao-enem-score', title: 'Dicas para Melhorar Redação ENEM e Chegar a 900-1000 de Score', description: 'Siga 5 estruturas comprovadas para sair de 650 e chegar a 900+ na redação em poucas semanas de prática.', date: '2026-06-29', readTime: 2, content: `# Dicas para Melhorar Redação ENEM e Chegar a 900-1000
+  { slug: 'dicas-melhorar-redacao-enem-score', title: '5 Dicas Comprovadas para Melhorar Redação ENEM (Do 500 para 900+)', description: 'Como sair de 500 pontos para 900+ em redação ENEM. Análise de 16 anos de redações vencedoras. Técnicas que funcionam + prática estruturada.', date: '2026-06-29', readTime: 2, content: `# Dicas para Melhorar Redação ENEM e Chegar a 900-1000
 
 Redação é 1/5 da sua nota final. Subir de 650 para 900 nela equivale a +50 pontos na nota geral. Praticar uma redação por semana de forma consistente, com correção e ajuste dos erros, é o caminho mais direto pra sair de 650 e chegar em 900+.
 
@@ -50705,7 +50705,7 @@ Semana 1: Tema → revise → Semana 8: você estará com 900+. Resultado real: 
 ---
 
 Escreva sua próxima redação [aqui](/redacao) e submeta para correção por IA.` },
-  { slug: 'como-calcular-nota-enem-formula-tri', title: 'Como Calcular Nota ENEM: Fórmula TRI Explicada em 5 Minutos', description: 'TRI não é contagem simples. Acertar questões fáceis + difíceis = 750. Entenda a fórmula.', date: '2026-06-29', readTime: 2, content: `# Como Calcular Nota ENEM: Fórmula TRI Explicada
+  { slug: 'como-calcular-nota-enem-formula-tri', title: 'Como Calcular Nota ENEM — Fórmula TRI Explicada com Exemplos Reais', description: 'Entenda a Teoria de Resposta ao Item (TRI). Calculadora prática. Como uma questão difícil vale mais. Simule sua nota em 2 minutos.', date: '2026-06-29', readTime: 2, content: `# Como Calcular Nota ENEM: Fórmula TRI Explicada
 
 O ENEM usa **TRI (Teoria de Resposta ao Item)**, não contagem simples. Se acerta 140 questões e erra 40, sua nota não é automática 700 — depende da dificuldade das questões.
 
@@ -50786,7 +50786,7 @@ O ENEM foca fortemente em história do Brasil e temas conectados a Guerra Fria/R
 ---
 
 Pratique agora com [questões de História filtradas por tema](/questoes?discipline=historia)` },
-  { slug: 'preparacao-segunda-aplicacao-enem-2026', title: 'Preparação para Segunda Aplicação ENEM 2026: Cronograma 8 Semanas', description: 'Segunda chamada tem 30% menos competição. Estude 6h/dia e chegue aos 700+.', date: '2026-06-29', readTime: 2, content: `# Preparação para Segunda Aplicação ENEM 2026
+  { slug: 'preparacao-segunda-aplicacao-enem-2026', title: 'Segunda Aplicação ENEM 2026 — Como Se Preparar em 4 Semanas', description: 'Guia para segunda aplicação ENEM 2026. Estratégia realista em 4 semanas. Foco em fraquezas da primeira prova. Timeline + checklist.', date: '2026-06-29', readTime: 2, content: `# Preparação para Segunda Aplicação ENEM 2026
 
 A segunda aplicação costuma ter menos candidatos que a primeira. Se você não passou na primeira, tem mais chances agora.
 
