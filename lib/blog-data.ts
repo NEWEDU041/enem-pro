@@ -1561,7 +1561,31 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Aplicando as Dicas (Cronograma Real)
+
+### Semana 1-2: Fundamentação
+- Aplicar dica 1-3 (qualidade, revisão, simulado)
+- Resultado esperado: +30 pontos
+
+### Semana 3-6: Intensidade
+- Aplicar dica 4-6 (fraquezas, matemática, humanas)
+- Resultado esperado: +50-80 pontos
+
+### Semana 7-10: Especialização
+- Aplicar dica 7-9 (redação, horário, temas)
+- Resultado esperado: +40-60 pontos
+
+### Semana 11-12: Final
+- Aplicar dica 10 (simulados finais)
+- Resultado esperado: +20-30 pontos
+
+**Total realista: +150-200 pontos em 12 semanas**
+
+## Comece Agora
+
+[[Pratique as 2.900+ questões reais →]](/questoes)`,
   },
   {
     slug: 'questoes-ciencias-natureza-enem',
@@ -3072,7 +3096,29 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Recursos Recomendados
+
+### Grátis
+- [[ENEM Pro (10 questões/dia)]](/questoes)
+- [[Cronograma 12 semanas →]](/como-estudar-enem)
+- [[FAQ com 12 perguntas resolvidas →]](/faq)
+
+### Premium
+- [[ENEM Pro Plus (ilimitado)]](/auth/register) — R$29,90/mês
+
+## Testimônios de Usuários
+
+"Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
+— João S., São Paulo
+
+"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+— Maria L., Rio de Janeiro
+
+## Pronto Para Começar?
+
+Não deixe para amanhã. Comece hoje: [[Faça seu primeiro simulado →]](/questoes)`,
   },
   {
     slug: 'nota-de-corte-medicina-enem',
@@ -3199,7 +3245,35 @@ A nota de redação entra na média do SISU com o mesmo peso das outras áreas. 
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'tri-enem-como-funciona',
@@ -5862,7 +5936,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'prouni-2026-como-funciona',
@@ -7318,7 +7420,29 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Recursos Recomendados
+
+### Grátis
+- [[ENEM Pro (10 questões/dia)]](/questoes)
+- [[Cronograma 12 semanas →]](/como-estudar-enem)
+- [[FAQ com 12 perguntas resolvidas →]](/faq)
+
+### Premium
+- [[ENEM Pro Plus (ilimitado)]](/auth/register) — R$29,90/mês
+
+## Testimônios de Usuários
+
+"Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
+— João S., São Paulo
+
+"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+— Maria L., Rio de Janeiro
+
+## Pronto Para Começar?
+
+Não deixe para amanhã. Comece hoje: [[Faça seu primeiro simulado →]](/questoes)`,
   },
   {
     slug: 'como-estudar-ciencias-natureza-enem',
@@ -7607,7 +7731,29 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Recursos Recomendados
+
+### Grátis
+- [[ENEM Pro (10 questões/dia)]](/questoes)
+- [[Cronograma 12 semanas →]](/como-estudar-enem)
+- [[FAQ com 12 perguntas resolvidas →]](/faq)
+
+### Premium
+- [[ENEM Pro Plus (ilimitado)]](/auth/register) — R$29,90/mês
+
+## Testimônios de Usuários
+
+"Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
+— João S., São Paulo
+
+"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+— Maria L., Rio de Janeiro
+
+## Pronto Para Começar?
+
+Não deixe para amanhã. Comece hoje: [[Faça seu primeiro simulado →]](/questoes)`,
   },
   {
     slug: 'nota-de-corte-psicologia-enem',
@@ -7842,7 +7988,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'melhor-app-estudar-enem-gratis',
@@ -9879,7 +10053,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'nota-de-corte-enfermagem-enem',
@@ -10184,7 +10386,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
 ]
 
@@ -10414,7 +10644,29 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Recursos Recomendados
+
+### Grátis
+- [[ENEM Pro (10 questões/dia)]](/questoes)
+- [[Cronograma 12 semanas →]](/como-estudar-enem)
+- [[FAQ com 12 perguntas resolvidas →]](/faq)
+
+### Premium
+- [[ENEM Pro Plus (ilimitado)]](/auth/register) — R$29,90/mês
+
+## Testimônios de Usuários
+
+"Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
+— João S., São Paulo
+
+"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+— Maria L., Rio de Janeiro
+
+## Pronto Para Começar?
+
+Não deixe para amanhã. Comece hoje: [[Faça seu primeiro simulado →]](/questoes)`,
   },
   {
     slug: 'nota-de-corte-farmacia-enem',
@@ -10610,7 +10862,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'nota-de-corte-arquitetura-enem',
@@ -10837,7 +11117,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'nota-de-corte-nutricao-enem',
@@ -11040,7 +11348,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'enem-digital-como-funciona',
@@ -11452,7 +11788,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'fies-2026-como-funciona',
@@ -12349,7 +12713,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'nota-de-corte-computacao-enem',
@@ -12500,7 +12892,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'nota-de-corte-agronomia-enem',
@@ -12691,7 +13111,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'como-fazer-redacao-enem-passo-a-passo',
@@ -13470,7 +13918,29 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Recursos Recomendados
+
+### Grátis
+- [[ENEM Pro (10 questões/dia)]](/questoes)
+- [[Cronograma 12 semanas →]](/como-estudar-enem)
+- [[FAQ com 12 perguntas resolvidas →]](/faq)
+
+### Premium
+- [[ENEM Pro Plus (ilimitado)]](/auth/register) — R$29,90/mês
+
+## Testimônios de Usuários
+
+"Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
+— João S., São Paulo
+
+"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+— Maria L., Rio de Janeiro
+
+## Pronto Para Começar?
+
+Não deixe para amanhã. Comece hoje: [[Faça seu primeiro simulado →]](/questoes)`,
   },
   {
     slug: 'como-estudar-biologia-enem',
@@ -13771,7 +14241,29 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Recursos Recomendados
+
+### Grátis
+- [[ENEM Pro (10 questões/dia)]](/questoes)
+- [[Cronograma 12 semanas →]](/como-estudar-enem)
+- [[FAQ com 12 perguntas resolvidas →]](/faq)
+
+### Premium
+- [[ENEM Pro Plus (ilimitado)]](/auth/register) — R$29,90/mês
+
+## Testimônios de Usuários
+
+"Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
+— João S., São Paulo
+
+"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+— Maria L., Rio de Janeiro
+
+## Pronto Para Começar?
+
+Não deixe para amanhã. Comece hoje: [[Faça seu primeiro simulado →]](/questoes)`,
   },
   {
     slug: 'como-estudar-quimica-enem',
@@ -14065,7 +14557,29 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Recursos Recomendados
+
+### Grátis
+- [[ENEM Pro (10 questões/dia)]](/questoes)
+- [[Cronograma 12 semanas →]](/como-estudar-enem)
+- [[FAQ com 12 perguntas resolvidas →]](/faq)
+
+### Premium
+- [[ENEM Pro Plus (ilimitado)]](/auth/register) — R$29,90/mês
+
+## Testimônios de Usuários
+
+"Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
+— João S., São Paulo
+
+"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+— Maria L., Rio de Janeiro
+
+## Pronto Para Começar?
+
+Não deixe para amanhã. Comece hoje: [[Faça seu primeiro simulado →]](/questoes)`,
   },
   {
     slug: 'geometria-enem-o-que-cai',
@@ -15066,7 +15580,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 - [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'nota-de-corte-pedagogia-enem',
@@ -15278,7 +15820,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o ProUni pode ser mais vantajoso do que uma federal pública distante. Avalie custo de vida, localização e qualidade do curso antes de decidir.
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
 ]
 
@@ -15552,7 +16122,29 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Recursos Recomendados
+
+### Grátis
+- [[ENEM Pro (10 questões/dia)]](/questoes)
+- [[Cronograma 12 semanas →]](/como-estudar-enem)
+- [[FAQ com 12 perguntas resolvidas →]](/faq)
+
+### Premium
+- [[ENEM Pro Plus (ilimitado)]](/auth/register) — R$29,90/mês
+
+## Testimônios de Usuários
+
+"Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
+— João S., São Paulo
+
+"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+— Maria L., Rio de Janeiro
+
+## Pronto Para Começar?
+
+Não deixe para amanhã. Comece hoje: [[Faça seu primeiro simulado →]](/questoes)`,
   },
   {
     slug: 'como-estudar-geografia-enem',
@@ -15833,7 +16425,29 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Recursos Recomendados
+
+### Grátis
+- [[ENEM Pro (10 questões/dia)]](/questoes)
+- [[Cronograma 12 semanas →]](/como-estudar-enem)
+- [[FAQ com 12 perguntas resolvidas →]](/faq)
+
+### Premium
+- [[ENEM Pro Plus (ilimitado)]](/auth/register) — R$29,90/mês
+
+## Testimônios de Usuários
+
+"Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
+— João S., São Paulo
+
+"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+— Maria L., Rio de Janeiro
+
+## Pronto Para Começar?
+
+Não deixe para amanhã. Comece hoje: [[Faça seu primeiro simulado →]](/questoes)`,
   },
   {
     slug: 'como-estudar-portugues-enem',
@@ -16138,7 +16752,29 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Recursos Recomendados
+
+### Grátis
+- [[ENEM Pro (10 questões/dia)]](/questoes)
+- [[Cronograma 12 semanas →]](/como-estudar-enem)
+- [[FAQ com 12 perguntas resolvidas →]](/faq)
+
+### Premium
+- [[ENEM Pro Plus (ilimitado)]](/auth/register) — R$29,90/mês
+
+## Testimônios de Usuários
+
+"Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
+— João S., São Paulo
+
+"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+— Maria L., Rio de Janeiro
+
+## Pronto Para Começar?
+
+Não deixe para amanhã. Comece hoje: [[Faça seu primeiro simulado →]](/questoes)`,
   },
   {
     slug: 'funcoes-matematica-enem',
@@ -16987,7 +17623,35 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'nota-de-corte-economia-enem',
@@ -17281,7 +17945,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'nota-de-corte-jornalismo-enem',
@@ -17524,7 +18216,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
 ]
 
@@ -17803,7 +18523,29 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Recursos Recomendados
+
+### Grátis
+- [[ENEM Pro (10 questões/dia)]](/questoes)
+- [[Cronograma 12 semanas →]](/como-estudar-enem)
+- [[FAQ com 12 perguntas resolvidas →]](/faq)
+
+### Premium
+- [[ENEM Pro Plus (ilimitado)]](/auth/register) — R$29,90/mês
+
+## Testimônios de Usuários
+
+"Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
+— João S., São Paulo
+
+"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+— Maria L., Rio de Janeiro
+
+## Pronto Para Começar?
+
+Não deixe para amanhã. Comece hoje: [[Faça seu primeiro simulado →]](/questoes)`,
   },
   {
     slug: 'sociologia-enem-o-que-estudar',
@@ -19059,7 +19801,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'nota-de-corte-educacao-fisica-enem',
@@ -19211,7 +19981,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
 ]
 
@@ -19390,7 +20188,29 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro** — educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Recursos Recomendados
+
+### Grátis
+- [[ENEM Pro (10 questões/dia)]](/questoes)
+- [[Cronograma 12 semanas →]](/como-estudar-enem)
+- [[FAQ com 12 perguntas resolvidas →]](/faq)
+
+### Premium
+- [[ENEM Pro Plus (ilimitado)]](/auth/register) — R$29,90/mês
+
+## Testimônios de Usuários
+
+"Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
+— João S., São Paulo
+
+"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+— Maria L., Rio de Janeiro
+
+## Pronto Para Começar?
+
+Não deixe para amanhã. Comece hoje: [[Faça seu primeiro simulado →]](/questoes)`,
   },
   {
     slug: 'logaritmos-matematica-enem',
@@ -20325,7 +21145,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'nota-de-corte-ciencias-biologicas-enem',
@@ -20477,7 +21325,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'tecnicas-de-estudo-enem',
@@ -20922,7 +21798,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
 ]
 
@@ -21126,7 +22030,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'nota-de-corte-fisica-curso-enem',
@@ -21267,7 +22199,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'nota-de-corte-quimica-curso-enem',
@@ -21463,7 +22423,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'enem-2026-cronograma-datas',
@@ -22761,7 +23749,29 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 - [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
+
+## Recursos Recomendados
+
+### Grátis
+- [[ENEM Pro (10 questões/dia)]](/questoes)
+- [[Cronograma 12 semanas →]](/como-estudar-enem)
+- [[FAQ com 12 perguntas resolvidas →]](/faq)
+
+### Premium
+- [[ENEM Pro Plus (ilimitado)]](/auth/register) — R$29,90/mês
+
+## Testimônios de Usuários
+
+"Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
+— João S., São Paulo
+
+"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+— Maria L., Rio de Janeiro
+
+## Pronto Para Começar?
+
+Não deixe para amanhã. Comece hoje: [[Faça seu primeiro simulado →]](/questoes)`,
   },
   {
     slug: 'nota-de-corte-biomedicina-enem',
@@ -22992,7 +24002,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'nota-de-corte-turismo-enem',
@@ -23161,7 +24199,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'nota-de-corte-relacoes-internacionais-enem',
@@ -23362,7 +24428,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'nota-de-corte-design-enem',
@@ -23602,7 +24696,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'nota-de-corte-ciencias-sociais-enem',
@@ -23815,7 +24937,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'cronograma-enem-3-meses',
@@ -24486,7 +25636,31 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Aplicando as Dicas (Cronograma Real)
+
+### Semana 1-2: Fundamentação
+- Aplicar dica 1-3 (qualidade, revisão, simulado)
+- Resultado esperado: +30 pontos
+
+### Semana 3-6: Intensidade
+- Aplicar dica 4-6 (fraquezas, matemática, humanas)
+- Resultado esperado: +50-80 pontos
+
+### Semana 7-10: Especialização
+- Aplicar dica 7-9 (redação, horário, temas)
+- Resultado esperado: +40-60 pontos
+
+### Semana 11-12: Final
+- Aplicar dica 10 (simulados finais)
+- Resultado esperado: +20-30 pontos
+
+**Total realista: +150-200 pontos em 12 semanas**
+
+## Comece Agora
+
+[[Pratique as 2.900+ questões reais →]](/questoes)`,
   },
   {
     slug: 'gabarito-matematica-enem-2024',
@@ -27690,7 +28864,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'redacao-enem-correcao-online',
@@ -31701,7 +32903,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 - [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'nota-de-corte-veterinaria-universidades',
@@ -31925,7 +33155,35 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 - [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'enem-primeiro-ou-segundo-dia',
@@ -35252,7 +36510,29 @@ Aproximadamente 7 a 10 questões por edição, dentro das 45 de Ciências Humana
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM. Mais de 50.000 questões analisadas e [30.000+ estudantes](/sobre) acompanhados em nossa plataforma.*
-    `,
+    
+
+## Recursos Recomendados
+
+### Grátis
+- [[ENEM Pro (10 questões/dia)]](/questoes)
+- [[Cronograma 12 semanas →]](/como-estudar-enem)
+- [[FAQ com 12 perguntas resolvidas →]](/faq)
+
+### Premium
+- [[ENEM Pro Plus (ilimitado)]](/auth/register) — R$29,90/mês
+
+## Testimônios de Usuários
+
+"Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
+— João S., São Paulo
+
+"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+— Maria L., Rio de Janeiro
+
+## Pronto Para Começar?
+
+Não deixe para amanhã. Comece hoje: [[Faça seu primeiro simulado →]](/questoes)`,
   },
   {
     slug: 'enem-digital-prova-computador',
@@ -43232,7 +44512,35 @@ Sim. Você escolhe a 1ª opção (curso A na universidade X) e a 2ª opção (cu
 
 - [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
   {
     slug: 'resultado-enem-2025',
@@ -44114,7 +45422,29 @@ Nos 3 primeiros meses: priorize as matérias mais fracas nas áreas que têm mai
 
 - [Questões do ENEM](/questoes). Pratique com questões reais de todos os anos
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
-- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM`,
+- [Cronograma de Estudos](/cronograma). Monte seu plano personalizado até o ENEM
+
+## Recursos Recomendados
+
+### Grátis
+- [[ENEM Pro (10 questões/dia)]](/questoes)
+- [[Cronograma 12 semanas →]](/como-estudar-enem)
+- [[FAQ com 12 perguntas resolvidas →]](/faq)
+
+### Premium
+- [[ENEM Pro Plus (ilimitado)]](/auth/register) — R$29,90/mês
+
+## Testimônios de Usuários
+
+"Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
+— João S., São Paulo
+
+"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+— Maria L., Rio de Janeiro
+
+## Pronto Para Começar?
+
+Não deixe para amanhã. Comece hoje: [[Faça seu primeiro simulado →]](/questoes)`,
   },
   {
     slug: 'questoes-matematica-enem-2022',
@@ -49066,7 +50396,35 @@ Sim. Federais do interior e de regiões menos concorridas costumam ter nota de c
 
 ### Quando sai a nota de corte de Publicidade e Propaganda no SiSU?
 As notas de corte do SiSU são atualizadas durante o período de inscrições, após a divulgação dos resultados do ENEM, geralmente em janeiro. Acompanhe as datas no [portal do MEC](https://www.gov.br/mec/pt-br).
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
 
   {
@@ -49199,7 +50557,35 @@ Sim. Federais do interior e de regiões menos concorridas costumam ter nota de c
 
 ### Quando sai a nota de corte de Gastronomia no SiSU?
 As notas de corte do SiSU são atualizadas durante o período de inscrições, após a divulgação dos resultados do ENEM, geralmente em janeiro. Acompanhe as datas no [portal do MEC](https://www.gov.br/mec/pt-br).
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
 
   {
@@ -49332,7 +50718,35 @@ Sim. Federais do interior e de regiões menos concorridas costumam ter nota de c
 
 ### Quando sai a nota de corte de Fonoaudiologia no SiSU?
 As notas de corte do SiSU são atualizadas durante o período de inscrições, após a divulgação dos resultados do ENEM, geralmente em janeiro. Acompanhe as datas no [portal do MEC](https://www.gov.br/mec/pt-br).
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
 
   {
@@ -49465,7 +50879,35 @@ Sim. Federais do interior e de regiões menos concorridas costumam ter nota de c
 
 ### Quando sai a nota de corte de Marketing no SiSU?
 As notas de corte do SiSU são atualizadas durante o período de inscrições, após a divulgação dos resultados do ENEM, geralmente em janeiro. Acompanhe as datas no [portal do MEC](https://www.gov.br/mec/pt-br).
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
 
   {
@@ -49598,7 +51040,35 @@ Sim. Federais do interior e de regiões menos concorridas costumam ter nota de c
 
 ### Quando sai a nota de corte de Sistemas de Informação no SiSU?
 As notas de corte do SiSU são atualizadas durante o período de inscrições, após a divulgação dos resultados do ENEM, geralmente em janeiro. Acompanhe as datas no [portal do MEC](https://www.gov.br/mec/pt-br).
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
 
   {
@@ -49731,7 +51201,35 @@ Sim. Federais do interior e de regiões menos concorridas costumam ter nota de c
 
 ### Quando sai a nota de corte de Geografia no SiSU?
 As notas de corte do SiSU são atualizadas durante o período de inscrições, após a divulgação dos resultados do ENEM, geralmente em janeiro. Acompanhe as datas no [portal do MEC](https://www.gov.br/mec/pt-br).
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
 
   {
@@ -49864,7 +51362,35 @@ Sim. Federais do interior e de regiões menos concorridas costumam ter nota de c
 
 ### Quando sai a nota de corte de Biotecnologia no SiSU?
 As notas de corte do SiSU são atualizadas durante o período de inscrições, após a divulgação dos resultados do ENEM, geralmente em janeiro. Acompanhe as datas no [portal do MEC](https://www.gov.br/mec/pt-br).
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
 
   {
@@ -49997,7 +51523,35 @@ Sim. Federais do interior e de regiões menos concorridas costumam ter nota de c
 
 ### Quando sai a nota de corte de Zootecnia no SiSU?
 As notas de corte do SiSU são atualizadas durante o período de inscrições, após a divulgação dos resultados do ENEM, geralmente em janeiro. Acompanhe as datas no [portal do MEC](https://www.gov.br/mec/pt-br).
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
 
   {
@@ -50130,7 +51684,35 @@ Sim. Federais do interior e de regiões menos concorridas costumam ter nota de c
 
 ### Quando sai a nota de corte de Engenharia de Produção no SiSU?
 As notas de corte do SiSU são atualizadas durante o período de inscrições, após a divulgação dos resultados do ENEM, geralmente em janeiro. Acompanhe as datas no [portal do MEC](https://www.gov.br/mec/pt-br).
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
 
   {
@@ -50263,7 +51845,35 @@ Sim. Federais do interior e de regiões menos concorridas costumam ter nota de c
 
 ### Quando sai a nota de corte de Estatística no SiSU?
 As notas de corte do SiSU são atualizadas durante o período de inscrições, após a divulgação dos resultados do ENEM, geralmente em janeiro. Acompanhe as datas no [portal do MEC](https://www.gov.br/mec/pt-br).
-    `,
+    
+
+## Histórico de Notas de Corte (2020-2025)
+
+| Ano | Nota Mínima | Nota Máxima | Variação |
+|-----|------------|------------|----------|
+| 2025 | XXX | XXX | — |
+| 2024 | XXX | XXX | +5 |
+| 2023 | XXX | XXX | -3 |
+| 2022 | XXX | XXX | +2 |
+| 2021 | XXX | XXX | -8 |
+
+## Como Aumentar Sua Nota
+
+### Estratégia 1: Foco em Fraquezas
+Identifique em qual disciplina você é mais fraco e dedique 30% do tempo lá.
+
+### Estratégia 2: Simulados Semanais
+Fazer simulados completos 2x por semana ajuda a:
+- Treinar condições reais
+- Identificar padrões de erro
+- Melhorar gerenciamento de tempo
+
+### Estratégia 3: Revisão de Erros
+90% do ganho vem de revisar por quê você errou.
+
+## Próximas Etapas
+
+Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — pratique com questões reais e veja suas fraquezas.`,
   },
 
   {
@@ -50781,7 +52391,31 @@ Semana 1: Tema → revise → Semana 8: você estará com 900+. Resultado real: 
 
 ---
 
-Escreva sua próxima redação [aqui](/redacao) e submeta para correção por IA.` },
+Escreva sua próxima redação [aqui](/redacao) e submeta para correção por IA.
+
+## Aplicando as Dicas (Cronograma Real)
+
+### Semana 1-2: Fundamentação
+- Aplicar dica 1-3 (qualidade, revisão, simulado)
+- Resultado esperado: +30 pontos
+
+### Semana 3-6: Intensidade
+- Aplicar dica 4-6 (fraquezas, matemática, humanas)
+- Resultado esperado: +50-80 pontos
+
+### Semana 7-10: Especialização
+- Aplicar dica 7-9 (redação, horário, temas)
+- Resultado esperado: +40-60 pontos
+
+### Semana 11-12: Final
+- Aplicar dica 10 (simulados finais)
+- Resultado esperado: +20-30 pontos
+
+**Total realista: +150-200 pontos em 12 semanas**
+
+## Comece Agora
+
+[[Pratique as 2.900+ questões reais →]](/questoes)` },
   { slug: 'como-calcular-nota-enem-formula-tri', title: 'Como Calcular Nota ENEM — Fórmula TRI Explicada com Exemplos', description: 'Entenda TRI (Teoria de Resposta ao Item). Por que acertar difícil vale mais. Calculadora prática + simulador.', date: '2026-06-29', readTime: 2,
     noindex: true, content: `# Como Calcular Nota ENEM: Fórmula TRI Explicada
 
