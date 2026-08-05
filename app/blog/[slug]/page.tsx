@@ -174,7 +174,7 @@ function getInternalLinks(slug: string): { href: string; label: string }[] {
 
 function formatInline(text: string): string {
   return text
-    .replace(/!\[([^\]]*)\]\(([^)]+)\)/g, '<img src="$2" alt="$1" class="w-full rounded-xl my-4" loading="lazy" />')
+    .replace(/!\[([^\]]*)\]\(([^)]+)\)/g, '<img src="$2" alt="$1" class="w-full rounded-xl my-4" loading="lazy" decoding="async" />')
     .replace(/\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer" class="text-indigo-600 hover:underline font-medium">$1</a>')
     .replace(/\[([^\]]+)\]\(\/([^)]+)\)/g, '<a href="/$2" class="text-indigo-600 hover:underline font-medium">$1</a>')
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
