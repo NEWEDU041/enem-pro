@@ -96,10 +96,13 @@ try {
   let courseMatch;
   while ((courseMatch = courseRegex.exec(content)) !== null) {
     const slug = `nota-de-corte-${courseMatch[1]}`;
-    const course = courseMatch[1]
+    let course = courseMatch[1]
       .split('-')
       .map(w => w.charAt(0).toUpperCase() + w.slice(1))
       .join(' ');
+
+    // Remove trailing "enem" if it exists (avoid "Medicine Enem ENEM")
+    course = course.replace(/\s+Enem\s*$/i, '');
 
     const rewrite = TEMPLATES['nota-de-corte-*'](course);
 
