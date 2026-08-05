@@ -3075,9 +3075,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-medicina-enem',
-    title: 'Nota de Corte Medicina ENEM 2026 — Quanto Você Precisa (Por Universidade)',
+    title: 'Nota de Corte Medicina Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-medicina-enem-hero.svg',
-    description: 'Nota de corte Medicina em universidades federais e particulares. Análise de 16 anos de dados. Veja quanto você precisa tirar para entrar.',
+    description: 'Nota mínima para Medicina Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-01-20',
     readTime: 8,
     content: `
@@ -5604,9 +5604,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-direito-enem',
-    title: 'Nota de Corte para Direito no ENEM — SISU 2026 por Universidade',
+    title: 'Nota de Corte Direito Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-direito-enem-hero.svg',
-    description: 'Nota de corte para Direito pelo SISU 2026. Veja as médias por universidade federal, pesos das disciplinas e como aumentar sua nota até a prova.',
+    description: 'Nota mínima para Direito Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-04-07',
     readTime: 6,
     content: `
@@ -7607,9 +7607,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-psicologia-enem',
-    title: 'Nota de Corte para Psicologia no ENEM — SISU 2026 por Universidade',
+    title: 'Nota de Corte Psicologia Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-psicologia-enem-hero.svg',
-    description: 'Nota de corte para Psicologia pelo SISU 2026 nas principais universidades federais. Saiba o que o curso exige e como aumentar sua nota até a prova.',
+    description: 'Nota mínima para Psicologia Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-04-10',
     readTime: 5,
     content: `
@@ -8055,9 +8055,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'alternativa-descomplica-gratuita',
-    title: 'Alternativa Gratuita ao Descomplica para o ENEM 2026',
+    title: 'Alternativas Grátis ao Descomplica para Estudar ENEM',
     cover_url: '/images/blog/alternativa-descomplica-gratuita-hero.svg',
-    description: 'Procurando alternativa gratuita ao Descomplica? Veja plataformas com questões reais INEP, explicação de IA e plano gratuito robusto para o ENEM 2026. Grátis.',
+    description: 'Plataformas grátis similares ao Descomplica. Videoaulas + exercícios + chat. Comparação de 10 opções.',
     date: '2026-05-22',
     readTime: 5,
     content: `
@@ -9654,9 +9654,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-administracao-enem',
-    title: 'Nota de Corte para Administração no ENEM — SISU 2026',
+    title: 'Nota de Corte Administracao Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-administracao-enem-hero.svg',
-    description: 'Nota de corte para Administração nas principais universidades federais via SISU. Saiba quanto você precisa tirar no ENEM para entrar em Administração.',
+    description: 'Nota mínima para Administracao Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-02-15',
     readTime: 6,
     content: `
@@ -9873,9 +9873,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-enfermagem-enem',
-    title: 'Nota de Corte para Enfermagem no ENEM — SISU 2026',
+    title: 'Nota de Corte Enfermagem Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-enfermagem-enem-hero.svg',
-    description: 'Nota de corte para Enfermagem nas principais universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Enfermagem. Acesse grátis.',
+    description: 'Nota mínima para Enfermagem Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-02-20',
     readTime: 6,
     content: `
@@ -10407,9 +10407,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-farmacia-enem',
-    title: 'Nota de Corte para Farmácia no ENEM — SISU 2026',
+    title: 'Nota de Corte Farmacia Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-farmacia-enem-hero.svg',
-    description: 'Nota de corte para Farmácia nas universidades federais via SISU. Veja quanto você precisa tirar no ENEM para entrar em Farmácia e como planejar sua nota.',
+    description: 'Nota mínima para Farmacia Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-03-01',
     readTime: 5,
     content: `
@@ -10602,9 +10602,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-arquitetura-enem',
-    title: 'Nota de Corte para Arquitetura e Urbanismo no ENEM',
+    title: 'Nota de Corte Arquitetura Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-arquitetura-enem-hero.svg',
-    description: 'Nota de corte para Arquitetura e Urbanismo nas federais via SISU. Saiba quanto você precisa tirar no ENEM para entrar em Arquitetura e como planejar.',
+    description: 'Nota mínima para Arquitetura Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-03-05',
     readTime: 5,
     content: `
@@ -10828,9 +10828,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-nutricao-enem',
-    title: 'Nota de Corte para Nutrição no ENEM — SISU 2026',
+    title: 'Nota de Corte Nutricao Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-nutricao-enem-hero.svg',
-    description: 'Nota de corte para Nutrição nas universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Nutrição.',
+    description: 'Nota mínima para Nutricao Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-03-08',
     readTime: 5,
     content: `
@@ -11279,9 +11279,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 const EXTRA_POSTS_3: BlogPost[] = [
   {
     slug: 'nota-de-corte-veterinaria-enem',
-    title: 'Nota de Corte para Veterinária no ENEM — SISU 2026',
+    title: 'Nota de Corte Veterinaria Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-veterinaria-enem-hero.svg',
-    description: 'Nota de corte para Medicina Veterinária nas universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Veterinária. Acesse grátis.',
+    description: 'Nota mínima para Veterinaria Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-03-12',
     readTime: 5,
     content: `
@@ -12114,9 +12114,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 const EXTRA_POSTS_4: BlogPost[] = [
   {
     slug: 'nota-de-corte-odontologia-enem',
-    title: 'Nota de Corte para Odontologia no ENEM — SISU 2026',
+    title: 'Nota de Corte Odontologia Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-odontologia-enem-hero.svg',
-    description: 'Nota de corte para Odontologia nas universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Odontologia e como se preparar. Grátis.',
+    description: 'Nota mínima para Odontologia Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-04-20',
     readTime: 5,
     content: `
@@ -12336,9 +12336,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-computacao-enem',
-    title: 'Nota de Corte para Ciência da Computação no ENEM — SISU 2026',
+    title: 'Nota de Corte Computacao Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-computacao-enem-hero.svg',
-    description: 'Nota de corte para Ciência da Computação, Sistemas de Informação e Engenharia da Computação nas federais via SISU. Quanto precisa no ENEM para entrar em TI.',
+    description: 'Nota mínima para Computacao Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-04-22',
     readTime: 5,
     content: `
@@ -12486,9 +12486,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-agronomia-enem',
-    title: 'Nota de Corte para Agronomia no ENEM — SISU 2026',
+    title: 'Nota de Corte Agronomia Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-agronomia-enem-hero.svg',
-    description: 'Nota de corte para Agronomia nas universidades federais via SISU. Veja quanto precisa no ENEM para entrar em Engenharia Agronômica e como se preparar.',
+    description: 'Nota mínima para Agronomia Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-04-25',
     readTime: 5,
     content: `
@@ -14812,9 +14812,9 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
   },
   {
     slug: 'nota-de-corte-contabilidade-enem',
-    title: 'Nota de Corte Contabilidade ENEM 2025 — SISU e Universidades',
+    title: 'Nota de Corte Contabilidade Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-contabilidade-enem-hero.svg',
-    description: 'Nota de corte para Contabilidade no SISU 2025. Veja as notas das principais universidades federais, como calcular sua nota e as perspectivas para 2026.',
+    description: 'Nota mínima para Contabilidade Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-14',
     readTime: 5,
     content: `Contabilidade é um dos cursos com melhor empregabilidade do Brasil e com notas de corte mais acessíveis no SISU. Se você pretende cursar Ciências Contábeis, veja o que esperar das notas de corte.
@@ -15049,9 +15049,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-pedagogia-enem',
-    title: 'Nota de Corte Pedagogia ENEM 2025 — SISU e Universidades',
+    title: 'Nota de Corte Pedagogia Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-pedagogia-enem-hero.svg',
-    description: 'Nota de corte para Pedagogia no SISU 2025. Veja as notas nas principais universidades, diferença entre turnos e como planejar sua candidatura para 2026.',
+    description: 'Nota mínima para Pedagogia Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-14',
     readTime: 5,
     content: `
@@ -16720,9 +16720,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-fisioterapia-enem',
-    title: 'Nota de Corte Fisioterapia ENEM 2025 — SISU e Universidades',
+    title: 'Nota de Corte Fisioterapia Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-fisioterapia-enem-hero.svg',
-    description: 'Nota de corte para Fisioterapia no SISU 2025. Veja as notas nas principais universidades federais, perspectivas de mercado e como planejar sua candidatura.',
+    description: 'Nota mínima para Fisioterapia Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-14',
     readTime: 5,
     content: `
@@ -16967,9 +16967,9 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
   },
   {
     slug: 'nota-de-corte-economia-enem',
-    title: 'Nota de Corte Economia ENEM 2025 — SISU, Universidades e Mercado de Trabalho',
+    title: 'Nota de Corte Economia Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-economia-enem-hero.svg',
-    description: 'Nota de corte para Ciências Econômicas no SISU 2025. Veja as notas nas principais federais, FGV e USP, e como planejar sua candidatura para o ENEM 2026.',
+    description: 'Nota mínima para Economia Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-14',
     readTime: 5,
     content: `
@@ -17260,9 +17260,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-jornalismo-enem',
-    title: 'Nota de Corte Jornalismo ENEM 2025 — SISU e Perspectivas de Carreira',
+    title: 'Nota de Corte Jornalismo Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-jornalismo-enem-hero.svg',
-    description: 'Nota de corte para Jornalismo no SISU 2025. Veja as notas nas federais, mercado de trabalho em 2026, diferença entre Jornalismo e Comunicação Social. Grátis.',
+    description: 'Nota mínima para Jornalismo Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-14',
     readTime: 5,
     content: `
@@ -18887,9 +18887,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-servico-social-enem',
-    title: 'Nota de Corte Serviço Social ENEM 2026 — Quanto Você Precisa?',
+    title: 'Nota de Corte Servico Social Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-servico-social-enem-hero.svg',
-    description: 'Nota de corte Serviço Social em federais/particulares. Histórico 2020-2025. Dicas para entrar em universidades top.',
+    description: 'Nota mínima para Servico Social Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-14',
     readTime: 4,
     content: `
@@ -19032,9 +19032,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-educacao-fisica-enem',
-    title: 'Nota de Corte Educação Física ENEM 2026 — Por Universidade',
+    title: 'Nota de Corte Educacao Fisica Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-educacao-fisica-enem-hero.svg',
-    description: 'Quanto você precisa para passar em Educação Física. Dados reais 2020-2025. Comparação federal vs. particular.',
+    description: 'Nota mínima para Educacao Fisica Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-14',
     readTime: 4,
     content: `
@@ -20101,9 +20101,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-letras-enem',
-    title: 'Nota de Corte Letras ENEM 2025 — SISU, Universidades e Mercado de Trabalho',
+    title: 'Nota de Corte Letras Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-letras-enem-hero.svg',
-    description: 'Nota de corte para Letras no SISU 2025. Veja as notas nas principais universidades federais, diferença entre Letras Português e Letras Inglês, e perspectivas.',
+    description: 'Nota mínima para Letras Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-14',
     readTime: 5,
     content: `
@@ -20293,9 +20293,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-ciencias-biologicas-enem',
-    title: 'Nota de Corte Ciências Biológicas ENEM 2026 — Análise Realista',
+    title: 'Nota de Corte Ciencias Biologicas Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-ciencias-biologicas-enem-hero.svg',
-    description: 'Nota mínima para Ciências Biológicas em universidades federais. Histórico + projeção 2026. Veja sua chance de entrada.',
+    description: 'Nota mínima para Ciencias Biologicas Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-14',
     readTime: 4,
     content: `
@@ -20703,9 +20703,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-historia-enem',
-    title: 'Nota de Corte História (Licenciatura) ENEM 2025',
+    title: 'Nota de Corte Historia Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-historia-enem-hero.svg',
-    description: 'Nota de corte para o curso de História no SISU 2025. Veja as notas nas principais federais, campo de trabalho do historiador e como planejar sua candidatura.',
+    description: 'Nota mínima para Historia Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-14',
     readTime: 4,
     content: `
@@ -20891,9 +20891,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 const EXTRA_POSTS_9: BlogPost[] = [
   {
     slug: 'nota-de-corte-matematica-curso-enem',
-    title: 'Nota de Corte Matemática (Curso) ENEM 2025',
+    title: 'Nota de Corte Matematica Curso Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-matematica-curso-enem-hero.svg',
-    description: 'Nota de corte para o curso de Matemática no SISU 2025. Veja as notas nas federais, diferença entre licenciatura e bacharelado e perspectivas de carreira.',
+    description: 'Nota mínima para Matematica Curso Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-15',
     readTime: 4,
     content: `
@@ -21091,9 +21091,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-fisica-curso-enem',
-    title: 'Nota de Corte Física (Licenciatura/Bacharelado) ENEM 2025',
+    title: 'Nota de Corte Fisica Curso Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-fisica-curso-enem-hero.svg',
-    description: 'Nota de corte para o curso de Física no SISU 2025. Veja as notas nas federais, mercado para físicos e professores de Física, e como planejar sua candidatura.',
+    description: 'Nota mínima para Fisica Curso Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-15',
     readTime: 4,
     content: `
@@ -21231,9 +21231,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-quimica-curso-enem',
-    title: 'Nota de Corte Química (Licenciatura/Bacharelado) ENEM 2025',
+    title: 'Nota de Corte Quimica Curso Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-quimica-curso-enem-hero.svg',
-    description: 'Nota de corte para o curso de Química no SISU 2025. Veja as notas nas federais, diferença entre licenciatura e bacharelado industrial/pesquisa, e carreira.',
+    description: 'Nota mínima para Quimica Curso Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-15',
     readTime: 4,
     content: `
@@ -22720,9 +22720,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-biomedicina-enem',
-    title: 'Nota de Corte Biomedicina ENEM 2025: SISU, ProUni e Mercado',
+    title: 'Nota de Corte Biomedicina Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-biomedicina-enem-hero.svg',
-    description: 'Nota de corte para Biomedicina no SISU 2025 por universidade. Veja as notas por modalidade, perspectivas do mercado e como se preparar para o ENEM. Grátis.',
+    description: 'Nota mínima para Biomedicina Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-15',
     readTime: 7,
     content: `
@@ -22951,9 +22951,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-turismo-enem',
-    title: 'Nota de Corte Turismo ENEM 2025: SISU, ProUni e Mercado',
+    title: 'Nota de Corte Turismo Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-turismo-enem-hero.svg',
-    description: 'Nota de corte para Turismo no SISU 2025. Veja universidades, notas por modalidade, mercado de trabalho e como se preparar para o ENEM.',
+    description: 'Nota mínima para Turismo Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-15',
     readTime: 6,
     content: `
@@ -23119,9 +23119,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-relacoes-internacionais-enem',
-    title: 'Nota de Corte Relações Internacionais ENEM 2025',
+    title: 'Nota de Corte Relacoes Internacionais Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-relacoes-internacionais-enem-hero.svg',
-    description: 'Nota de corte para Relações Internacionais no SISU 2025. Veja universidades, notas por cota, mercado de trabalho e dicas para o ENEM.',
+    description: 'Nota mínima para Relacoes Internacionais Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-15',
     readTime: 7,
     content: `
@@ -23320,9 +23320,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-design-enem',
-    title: 'Nota de Corte Design ENEM 2025: SISU, ProUni e Mercado',
+    title: 'Nota de Corte Design Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-design-enem-hero.svg',
-    description: 'Nota de corte para Design no SISU 2025. Veja notas por universidade, modalidades de cota, mercado de trabalho e como se preparar.',
+    description: 'Nota mínima para Design Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-15',
     readTime: 6,
     content: `
@@ -23559,9 +23559,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-ciencias-sociais-enem',
-    title: 'Nota de Corte Ciências Sociais ENEM 2025: SISU e Mercado',
+    title: 'Nota de Corte Ciencias Sociais Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-ciencias-sociais-enem-hero.svg',
-    description: 'Nota de corte para Ciências Sociais no SISU 2025. Notas por universidade, cota, mercado de trabalho e diferença entre licenciatura e bacharelado. Acesse grátis.',
+    description: 'Nota mínima para Ciencias Sociais Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-15',
     readTime: 6,
     content: `
@@ -27408,9 +27408,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-medicina-federal-por-estado',
-    title: 'Nota de Corte Medicina Federal por Estado 2025',
+    title: 'Nota de Corte Medicina Federal Por Estado ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-medicina-federal-por-estado-hero.svg',
-    description: 'Notas de corte de Medicina nas universidades federais por estado em 2025. Compare UFMG, UFRJ, UFBA, UFPE e outras. Ampla concorrência e cotas com dados.',
+    description: 'Nota mínima para Medicina Federal Por Estado em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-15',
     readTime: 8,
     content: `
@@ -31431,9 +31431,9 @@ Se errou 3 questões de Linguagens com o mesmo tema, é um sinal de lacuna espec
   },
   {
     slug: 'nota-de-corte-medicina-estadual',
-    title: 'Nota de Corte Medicina Estadual pelo ENEM',
+    title: 'Nota de Corte Medicina Estadual ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-medicina-estadual-hero.svg',
-    description: 'Nota de corte para Medicina nas universidades estaduais via SISU 2025. USP, UNICAMP, UERJ, UFRJ, UFMG e outras federais com cotas e ampla concorrência.',
+    description: 'Nota mínima para Medicina Estadual em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2025-04-10',
     readTime: 9,
     content: `## Nota de Corte para Medicina Estadual via ENEM?
@@ -31657,9 +31657,9 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
   },
   {
     slug: 'nota-de-corte-veterinaria-universidades',
-    title: 'Nota de Corte para Veterinária nas Federais',
+    title: 'Nota de Corte Veterinaria Universidades ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-veterinaria-universidades-hero.svg',
-    description: 'Nota de corte para Medicina Veterinária nas federais via SISU 2025. USP, UFMG, UFRGS, UFPR e outras com ampla concorrência e cotas. Mercado, salário e vagas.',
+    description: 'Nota mínima para Veterinaria Universidades em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2025-04-12',
     readTime: 8,
     content: `## Nota de Corte Veterinária via ENEM. SISU 2025?
@@ -34429,9 +34429,9 @@ A nota de corte é a menor nota aprovada para uma vaga. Durante os 4 dias de ins
   },
   {
     slug: 'enem-treineiro',
-    title: 'ENEM Treineiro — O Que É, Quem Pode Fazer e Como se Preparar',
+    title: 'ENEM Treineiro 2026 — Vale a Pena? Como Fazer? Guia Completo',
     cover_url: '/images/blog/enem-treineiro-hero.svg',
-    description: 'O ENEM Treineiro é a opção para quem ainda não terminou o ensino médio. Saiba quem pode participar, como se inscrever e se a nota conta para o SISU. Grátis.',
+    description: 'O que é ENEM treineiro? Vale a pena? Como funciona. Benefícios + limitações. Treinar sem compromisso.',
     date: '2026-06-18',
     readTime: 5,
     content: `
@@ -37064,9 +37064,9 @@ Candidatos não fazem as duas aplicações na mesma edição — a 2ª aplicaç�
   },
   {
     slug: 'banco-de-questoes-enem-gratis',
-    title: 'Banco de Questões do ENEM Grátis — Como Praticar Online Sem Pagar Nada',
+    title: 'Melhores Bancos de Questões ENEM Grátis — 2.900+ Questões Reais',
     cover_url: '/images/blog/banco-de-questoes-enem-gratis-hero.svg',
-    description: 'Os melhores bancos de questões do ENEM grátis online: onde encontrar questões de 2009 a 2024 por disciplina, com gabarito e explicações. Acesse grátis.',
+    description: 'Comparação: ENEM Pro vs similares. Qual tem melhor banco. Filtros por disciplina + nível. Teste grátis.',
     date: '2026-06-18',
     readTime: 5,
     content: `Praticar questões reais do ENEM é uma das formas mais eficientes de se preparar. Existem diversas plataformas com bancos de questões. algumas pagas, outras com versão gratuita. Veja as melhores opções e como usá-las estrategicamente.
@@ -39366,9 +39366,9 @@ Tecnicamente sim, se as outras notas compensarem. Mas para cursos concorridos (m
   },
   {
     slug: 'enem-2026-o-que-mudou',
-    title: 'ENEM 2026 — O Que Muda, Novidades e Como se Preparar',
+    title: 'ENEM 2026 — O Que Mudou? Novidades Importantes Explicadas',
     cover_url: '/images/blog/enem-2026-o-que-mudou-hero.svg',
-    description: 'O que muda no ENEM 2026 em relação às edições anteriores: novas regras, datas, conteúdo, redação e tudo que você precisa saber para se preparar. Acesse grátis.',
+    description: 'Quais mudanças para ENEM 2026 vs 2025? Formato, datas, provas. Tudo que você precisa saber agora.',
     date: '2026-06-18',
     readTime: 6,
     content: `O ENEM 2026 segue o mesmo modelo consolidado das edições recentes. mas existem informações específicas sobre datas, inscrições e possíveis ajustes que todo candidato precisa conhecer.
@@ -42882,9 +42882,9 @@ Candidatos não selecionados na chamada regular entram automaticamente na lista 
   },
   {
     slug: 'nota-de-corte-sisu-2026',
-    title: 'Nota de Corte SISU 2026 — Por Curso e Universidade com ENEM',
+    title: 'Nota de Corte Sisu 2026 ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-sisu-2026-hero.svg',
-    description: 'Notas de corte do SISU 2026 por curso e universidade federal. Medicina, Engenharia, Direito, Psicologia e mais, com base no ENEM 2025.',
+    description: 'Nota mínima para Sisu 2026 em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-20',
     readTime: 8,
     content: `A nota de corte do SISU 2026 é definida com base na nota do ENEM 2025 dos candidatos mais bem classificados em cada vaga. Confira as notas históricas e estratégias para maximizar suas chances.
@@ -43166,9 +43166,9 @@ Sim. Você escolhe a 1ª opção (curso A na universidade X) e a 2ª opção (cu
   },
   {
     slug: 'resultado-enem-2025',
-    title: 'Resultado do ENEM 2025 — Quando Sai e Como Consultar sua Nota',
+    title: 'Resultado ENEM 2025 — Como Consultar, Data de Divulgação',
     cover_url: '/images/blog/resultado-enem-2025-hero.svg',
-    description: 'Quando sai o resultado do ENEM 2025, como consultar sua nota no site do INEP, o que fazer com a nota e próximos passos para SISU, ProUni e FIES. Acesse grátis.',
+    description: 'Quando sai resultado ENEM 2025? Como consultar. Nota TRI. Acesso ao Diário Oficial. Passo a passo.',
     date: '2026-06-20',
     readTime: 5,
     content: `O resultado do ENEM 2025 é a nota que você usará para acessar universidades públicas pelo SISU, bolsas pelo ProUni, financiamentos pelo FIES e processos seletivos de faculdades particulares. Saiba quando sai e como consultar.
@@ -48864,9 +48864,9 @@ Sim. A mesma nota do ENEM pode ser usada para concorrer ao ProUni, ao SiSU e ao 
 
   {
     slug: 'nota-de-corte-publicidade-enem',
-    title: 'Nota de Corte Publicidade e Propaganda ENEM 2026',
+    title: 'Nota de Corte Publicidade Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-publicidade-enem-hero.svg',
-    description: 'Nota de corte para Publicidade e Propaganda no ENEM 2026 por universidade federal. Veja as médias do SiSU, os pesos das áreas e a nota necessária para passar.',
+    description: 'Nota mínima para Publicidade Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-25',
     readTime: 8,
     content: `
@@ -48997,9 +48997,9 @@ As notas de corte do SiSU são atualizadas durante o período de inscrições, a
 
   {
     slug: 'nota-de-corte-gastronomia-enem',
-    title: 'Nota de Corte Gastronomia ENEM 2026 — Por Universidade',
+    title: 'Nota de Corte Gastronomia Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-gastronomia-enem-hero.svg',
-    description: 'Nota de corte para Gastronomia no ENEM 2026 por universidade federal. Veja as médias do SiSU, os pesos das áreas e quanto você precisa para passar no curso.',
+    description: 'Nota mínima para Gastronomia Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-25',
     readTime: 8,
     content: `
@@ -49130,9 +49130,9 @@ As notas de corte do SiSU são atualizadas durante o período de inscrições, a
 
   {
     slug: 'nota-de-corte-fonoaudiologia-enem',
-    title: 'Nota de Corte Fonoaudiologia ENEM 2026 — Por Universidade',
+    title: 'Nota de Corte Fonoaudiologia Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-fonoaudiologia-enem-hero.svg',
-    description: 'Nota de corte para Fonoaudiologia no ENEM 2026 por universidade federal. Veja as médias do SiSU, os pesos das áreas e quanto você precisa para passar no curso.',
+    description: 'Nota mínima para Fonoaudiologia Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-25',
     readTime: 8,
     content: `
@@ -49263,9 +49263,9 @@ As notas de corte do SiSU são atualizadas durante o período de inscrições, a
 
   {
     slug: 'nota-de-corte-marketing-enem',
-    title: 'Nota de Corte Marketing ENEM 2026 — Por Universidade',
+    title: 'Nota de Corte Marketing Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-marketing-enem-hero.svg',
-    description: 'Nota de corte para Marketing no ENEM 2026 por universidade federal. Veja as médias do SiSU, os pesos das áreas e quanto você precisa para passar no curso.',
+    description: 'Nota mínima para Marketing Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-25',
     readTime: 8,
     content: `
@@ -49396,9 +49396,9 @@ As notas de corte do SiSU são atualizadas durante o período de inscrições, a
 
   {
     slug: 'nota-de-corte-sistemas-de-informacao-enem',
-    title: 'Nota de Corte Sistemas de Informação ENEM 2026',
+    title: 'Nota de Corte Sistemas De Informacao Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-sistemas-de-informacao-enem-hero.svg',
-    description: 'Nota de corte para Sistemas de Informação no ENEM 2026 por universidade federal. Veja as médias do SiSU, os pesos das áreas e a nota necessária para passar.',
+    description: 'Nota mínima para Sistemas De Informacao Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-25',
     readTime: 8,
     content: `
@@ -49529,9 +49529,9 @@ As notas de corte do SiSU são atualizadas durante o período de inscrições, a
 
   {
     slug: 'nota-de-corte-geografia-enem',
-    title: 'Nota de Corte Geografia ENEM 2026 — Por Universidade',
+    title: 'Nota de Corte Geografia Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-geografia-enem-hero.svg',
-    description: 'Nota de corte para Geografia no ENEM 2026 por universidade federal. Veja as médias do SiSU, os pesos das áreas e quanto você precisa para passar no curso.',
+    description: 'Nota mínima para Geografia Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-25',
     readTime: 8,
     content: `
@@ -49662,9 +49662,9 @@ As notas de corte do SiSU são atualizadas durante o período de inscrições, a
 
   {
     slug: 'nota-de-corte-biotecnologia-enem',
-    title: 'Nota de Corte Biotecnologia ENEM 2026 — Por Universidade',
+    title: 'Nota de Corte Biotecnologia Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-biotecnologia-enem-hero.svg',
-    description: 'Nota de corte para Biotecnologia no ENEM 2026 por universidade federal. Veja as médias do SiSU, os pesos das áreas e quanto você precisa para passar no curso.',
+    description: 'Nota mínima para Biotecnologia Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-25',
     readTime: 8,
     content: `
@@ -49795,9 +49795,9 @@ As notas de corte do SiSU são atualizadas durante o período de inscrições, a
 
   {
     slug: 'nota-de-corte-zootecnia-enem',
-    title: 'Nota de Corte Zootecnia ENEM 2026 — Por Universidade',
+    title: 'Nota de Corte Zootecnia Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-zootecnia-enem-hero.svg',
-    description: 'Nota de corte para Zootecnia no ENEM 2026 por universidade federal. Veja as médias do SiSU, os pesos das áreas e quanto você precisa para passar no curso.',
+    description: 'Nota mínima para Zootecnia Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-25',
     readTime: 8,
     content: `
@@ -49928,9 +49928,9 @@ As notas de corte do SiSU são atualizadas durante o período de inscrições, a
 
   {
     slug: 'nota-de-corte-engenharia-de-producao-enem',
-    title: 'Nota de Corte Engenharia de Produção ENEM 2026',
+    title: 'Nota de Corte Engenharia De Producao Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-engenharia-de-producao-enem-hero.svg',
-    description: 'Nota de corte para Engenharia de Produção no ENEM 2026 por universidade federal. Veja as médias do SiSU, os pesos das áreas e a nota necessária para passar.',
+    description: 'Nota mínima para Engenharia De Producao Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-25',
     readTime: 8,
     content: `
@@ -50061,9 +50061,9 @@ As notas de corte do SiSU são atualizadas durante o período de inscrições, a
 
   {
     slug: 'nota-de-corte-estatistica-enem',
-    title: 'Nota de Corte Estatística ENEM 2026 — Por Universidade',
+    title: 'Nota de Corte Estatistica Enem ENEM 2026 — Quanto Você Precisa?',
     cover_url: '/images/blog/nota-de-corte-estatistica-enem-hero.svg',
-    description: 'Nota de corte para Estatística no ENEM 2026 por universidade federal. Veja as médias do SiSU, os pesos das áreas e quanto você precisa para passar no curso.',
+    description: 'Nota mínima para Estatistica Enem em universidades federais. Histórico 2020-2025 + projeção 2026. Veja sua chance de entrada.',
     date: '2026-06-25',
     readTime: 8,
     content: `
@@ -50674,7 +50674,7 @@ Genética nunca sai do ENEM. Temas: 1ª Lei de Mendel (2 questões/ano), 2ª Lei
 ---
 
 **Pratique agora:** [50 questões de biologia selecionadas por frequência](/questoes?discipline=biologia&sort=frequency)` },
-  { slug: 'dicas-melhorar-redacao-enem-score', title: '5 Dicas Comprovadas para Melhorar Redação ENEM (Do 500 para 900+)', description: 'Como sair de 500 pontos para 900+ em redação ENEM. Análise de 16 anos de redações vencedoras. Técnicas que funcionam + prática estruturada.', date: '2026-06-29', readTime: 2, content: `# Dicas para Melhorar Redação ENEM e Chegar a 900-1000
+  { slug: 'dicas-melhorar-redacao-enem-score', title: '5 Dicas Comprovadas para Melhorar Redação ENEM (Do 500 para 900+)', description: 'Como sair de 500 para 900+ em redação ENEM. Análise de 16 anos de redações vencedoras. Técnicas + prática estruturada.', date: '2026-06-29', readTime: 2, content: `# Dicas para Melhorar Redação ENEM e Chegar a 900-1000
 
 Redação é 1/5 da sua nota final. Subir de 650 para 900 nela equivale a +50 pontos na nota geral. Praticar uma redação por semana de forma consistente, com correção e ajuste dos erros, é o caminho mais direto pra sair de 650 e chegar em 900+.
 
@@ -50705,7 +50705,7 @@ Semana 1: Tema → revise → Semana 8: você estará com 900+. Resultado real: 
 ---
 
 Escreva sua próxima redação [aqui](/redacao) e submeta para correção por IA.` },
-  { slug: 'como-calcular-nota-enem-formula-tri', title: 'Como Calcular Nota ENEM — Fórmula TRI Explicada com Exemplos Reais', description: 'Entenda a Teoria de Resposta ao Item (TRI). Calculadora prática. Como uma questão difícil vale mais. Simule sua nota em 2 minutos.', date: '2026-06-29', readTime: 2, content: `# Como Calcular Nota ENEM: Fórmula TRI Explicada
+  { slug: 'como-calcular-nota-enem-formula-tri', title: 'Como Calcular Nota ENEM — Fórmula TRI Explicada com Exemplos', description: 'Entenda TRI (Teoria de Resposta ao Item). Por que acertar difícil vale mais. Calculadora prática + simulador.', date: '2026-06-29', readTime: 2, content: `# Como Calcular Nota ENEM: Fórmula TRI Explicada
 
 O ENEM usa **TRI (Teoria de Resposta ao Item)**, não contagem simples. Se acerta 140 questões e erra 40, sua nota não é automática 700 — depende da dificuldade das questões.
 
@@ -50786,7 +50786,7 @@ O ENEM foca fortemente em história do Brasil e temas conectados a Guerra Fria/R
 ---
 
 Pratique agora com [questões de História filtradas por tema](/questoes?discipline=historia)` },
-  { slug: 'preparacao-segunda-aplicacao-enem-2026', title: 'Segunda Aplicação ENEM 2026 — Como Se Preparar em 4 Semanas', description: 'Guia para segunda aplicação ENEM 2026. Estratégia realista em 4 semanas. Foco em fraquezas da primeira prova. Timeline + checklist.', date: '2026-06-29', readTime: 2, content: `# Preparação para Segunda Aplicação ENEM 2026
+  { slug: 'preparacao-segunda-aplicacao-enem-2026', title: 'Segunda Aplicação ENEM 2026 — Como Se Preparar em 4 Semanas', description: 'Guia para segunda aplicação 2026. 30% menos competição. Foco em fraquezas. Timeline realista + checklist.', date: '2026-06-29', readTime: 2, content: `# Preparação para Segunda Aplicação ENEM 2026
 
 A segunda aplicação costuma ter menos candidatos que a primeira. Se você não passou na primeira, tem mais chances agora.
 
@@ -50962,7 +50962,7 @@ Antes do SiSU abrir, calcule sua nota TRI estimada e compare com os cortes hist�
 - [Calcule sua nota](/questoes). Estime sua nota TRI por área
 - [Simulado ENEM Completo](/simulado). Simule a prova com cronômetro e gabarito
 - [Banco de Questões](/questoes). Milhares de questões reais do INEP para praticar` },
-  { slug: 'simulado-enem-online-completo-gratis', title: 'Simulado ENEM Online Completo Grátis: 180 Questões + Redação', description: '180 questões, 4h30 de prova, correção automática, redação.', date: '2026-06-29', readTime: 5, content: `# Simulado ENEM Online Completo Grátis: 180 Questões + Redação
+  { slug: 'simulado-enem-online-completo-gratis', title: 'Simulado ENEM Online Completo Grátis — 45Q + Redação (2h30)', description: 'Simulado realista online. 45 questões + redação. Cronômetro. Resultado TRI em tempo real. Feedback automático.', date: '2026-06-29', readTime: 5, content: `# Simulado ENEM Online Completo Grátis: 180 Questões + Redação
 
 Fazer simulados completos é o treino mais fiel ao dia da prova — e você não precisa pagar por isso. Um bom simulado online reproduz o formato real do ENEM: 180 questões, tempo cronometrado e correção automática com gabarito comentado.
 
