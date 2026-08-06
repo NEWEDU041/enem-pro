@@ -4,6 +4,7 @@ import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { getPost, getRelatedPosts } from '@/lib/blog-data'
 import { SITE_URL } from '@/lib/site-config'
+import { getBlogPostingSchema, getBreadcrumbSchema, getFAQSchema } from '@/lib/schemas'
 
 export const revalidate = 86400
 
@@ -218,53 +219,10 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
 
   const postUrl = `${SITE_URL}/blog/${slug}`
 
-  const articleSchema = {
-    '@context': 'https://schema.org',
-    '@type': 'BlogPosting',
-    headline: post.title,
-    description: post.description,
-    datePublished: post.date,
-    dateModified: post.date,
-    url: postUrl,
-    inLanguage: 'pt-BR',
-    author: {
-      '@type': 'Organization',
-      name: 'Equipe Editorial ENEM Pro',
-      url: `${SITE_URL}/sobre`,
-      description: 'Professores e especialistas em preparação para o ENEM com mais de 10 anos de experiência.',
-    },
-    publisher: {
-      '@type': 'EducationalOrganization',
-      name: 'ENEM Pro',
-      url: SITE_URL,
-      logo: { '@type': 'ImageObject', url: `${SITE_URL}/icons/icon-192.png` },
-    },
-    mainEntityOfPage: { '@type': 'WebPage', '@id': postUrl },
-    educationalLevel: 'Ensino Médio',
-    audience: { '@type': 'EducationalAudience', educationalRole: 'student' },
-    about: { '@type': 'Thing', name: 'ENEM — Exame Nacional do Ensino Médio' },
-  }
-
   const faqItems = extractFaq(post.content)
-  const faqSchema = faqItems.length > 0 ? {
-    '@context': 'https://schema.org',
-    '@type': 'FAQPage',
-    mainEntity: faqItems.map(({ q, a }) => ({
-      '@type': 'Question',
-      name: q,
-      acceptedAnswer: { '@type': 'Answer', text: a },
-    })),
-  } : null
-
-  const breadcrumbLd = {
-    '@context': 'https://schema.org',
-    '@type': 'BreadcrumbList',
-    itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'ENEM Pro', item: SITE_URL },
-      { '@type': 'ListItem', position: 2, name: 'Blog', item: `${SITE_URL}/blog` },
-      { '@type': 'ListItem', position: 3, name: post.title, item: postUrl },
-    ],
-  }
+  const articleSchema = getBlogPostingSchema(post, slug)
+  const breadcrumbLd = getBreadcrumbSchema(post.title, slug)
+  const faqSchema = getFAQSchema(faqItems)
 
   return (
     <div className="min-h-screen bg-white">
