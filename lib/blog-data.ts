@@ -48800,6 +48800,7 @@ R: Sim, cada área tem sua própria forma de cobrar este tema. A compreensão co
 ### P: Qual é a melhor forma de revisar Gabarito de Matemática ENEM 2024: Questões Comentadas (1ª e 2ª Aplicação) antes da prova?
 R: Revise os 5-7 conceitos fundamentais, resolva 3-5 questões de alta dificuldade, e confie no seu aprendizado. Mais do que revisão, é importante descansar bem.`
   }
+},
 {
     slug: 'gabarito-ciencias-natureza-enem-2024',
     title: 'Gabarito de Ciências da Natureza ENEM 2024',
