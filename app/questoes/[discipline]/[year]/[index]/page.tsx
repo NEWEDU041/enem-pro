@@ -171,8 +171,9 @@ export default async function QuestionDetailPage({ params }: { params: Promise<P
 
   // Quiz schema for rich results and featured snippets
   const correctAnswerText = `${question.correctAlternative}) ${previewText(correctAlt?.text)}`.trim()
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const quizLd = getQuizSchema(
-    question,
+    question as any,
     index,
     year,
     shortDisc,
