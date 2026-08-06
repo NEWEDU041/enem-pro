@@ -3,6 +3,8 @@ import { Inter, Space_Grotesk } from 'next/font/google'
 import Script from 'next/script'
 import './globals.css'
 import ServiceWorkerRegistrar from '@/components/ServiceWorkerRegistrar'
+import NewsletterPopup from '@/components/NewsletterPopup'
+import DiscordWidget from '@/components/DiscordWidget'
 import { SITE_URL } from '@/lib/site-config'
 
 const inter = Inter({ subsets: ['latin'], display: 'optional' })
@@ -140,6 +142,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
         />
         <ServiceWorkerRegistrar />
+        <NewsletterPopup />
+        <DiscordWidget />
         {children}
       </body>
     </html>
