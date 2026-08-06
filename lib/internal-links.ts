@@ -66,6 +66,7 @@ export async function getBacklinks(postSlug: string): Promise<InternalLink[]> {
   return (data || []).map(link => ({
     slug: link.source_slug,
     title: link.source_title,
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     type: link.link_type as any,
     position: 0,
   }));

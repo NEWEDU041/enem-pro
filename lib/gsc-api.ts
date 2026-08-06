@@ -53,6 +53,7 @@ export async function getGscAnalytics(
     const endDate = new Date().toISOString().split('T')[0]
 
     const response = await searchconsole.searchanalytics.query({
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
       auth: client as any,
       siteUrl: SITE_URL,
       requestBody: {
@@ -65,6 +66,7 @@ export async function getGscAnalytics(
     })
 
     const rows = response.data.rows || []
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     return rows.map((row: any) => ({
       page: dimension === 'page' ? row.keys[0] : '',
       query: dimension === 'query' ? row.keys[0] : '',
@@ -104,11 +106,13 @@ export async function getGscCoverage(): Promise<GscCoverage> {
     const client = await auth.getClient()
 
     // Get coverage stats
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     const response = await searchconsole.urlInspection.index.inspect({
       auth: client as any,
       requestBody: {
         inspectionUrl: SITE_URL,
       },
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
     } as any)
 
     // Note: The URL Inspection API gives per-URL data, not aggregate coverage

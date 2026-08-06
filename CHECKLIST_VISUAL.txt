@@ -1,0 +1,393 @@
+═══════════════════════════════════════════════════════════════════════════════
+  SEO OPTIMIZATION CHECKLIST — 4 FERRAMENTAS ENEM PRO
+═══════════════════════════════════════════════════════════════════════════════
+
+📅 DATA: 06/08/2026
+🎯 OBJETIVO: Ir ao ar em 48h
+✅ STATUS: PRONTO PARA COMEÇAR
+
+═══════════════════════════════════════════════════════════════════════════════
+  LEITURA INICIAL (5-10 minutos)
+═══════════════════════════════════════════════════════════════════════════════
+
+☐ Ler RESUMO_EXECUTIVO_SEO.md
+☐ Entender o que será feito
+☐ Aprovação de recursos/timeline
+☐ Comunicar ao time
+
+
+═══════════════════════════════════════════════════════════════════════════════
+  DIA 1 — PREPARAÇÃO (2-3 horas)
+═══════════════════════════════════════════════════════════════════════════════
+
+MANHÃ — Validação e Backup:
+
+☐ Fazer backup dos 4 arquivos page.tsx:
+  ☐ app/questoes/page.tsx → page.backup.tsx
+  ☐ app/simulado/page.tsx → page.backup.tsx
+  ☐ app/calcular-nota/page.tsx → page.backup.tsx
+  ☐ app/gabarito/page.tsx → page.backup.tsx
+
+☐ Coletar baseline Lighthouse:
+  ☐ npx lighthouse https://enem.pro/questoes --view
+  ☐ npx lighthouse https://enem.pro/simulado --view
+  ☐ npx lighthouse https://enem.pro/calcular-nota --view
+  ☐ npx lighthouse https://enem.pro/gabarito --view
+  ☐ Salvar scores (meta: 90+)
+
+☐ Validar que repo está limpo:
+  ☐ git status (nenhum uncommitted change)
+  ☐ git branch (estar em main ou feature branch)
+
+☐ Revisar os 4 arquivos otimizados:
+  ☐ app/questoes/page-seo-optimized.tsx (1.2 KB)
+  ☐ app/simulado/page-seo-optimized.tsx (1.1 KB)
+  ☐ app/calcular-nota/page-seo-optimized.tsx (1.3 KB)
+  ☐ app/gabarito/page-seo-optimized.tsx (2.1 KB)
+
+CHECKPOINT ✓ Backup feito, baseline coletado, arquivos revisados
+
+
+═══════════════════════════════════════════════════════════════════════════════
+  DIA 1 — TARDE (3-4 horas)
+═══════════════════════════════════════════════════════════════════════════════
+
+TAREFA 1: Integrar /QUESTOES
+
+Abrir: app/questoes/page.tsx
+
+☐ Copiar 4 schemas de page-seo-optimized.tsx:
+  ☐ softwareSchema
+  ☐ toolSchema
+  ☐ faqSchema
+  ☐ breadcrumbSchema
+
+☐ Colar os 4 schemas no topo (após imports)
+
+☐ Adicionar 4 <script> tags (após <> opening):
+  ☐ <script type="application/ld+json" ... softwareSchema />
+  ☐ <script type="application/ld+json" ... toolSchema />
+  ☐ <script type="application/ld+json" ... faqSchema />
+  ☐ <script type="application/ld+json" ... breadcrumbSchema />
+
+☐ Atualizar metadata:
+  ☐ title (copiar de page-seo-optimized.tsx)
+  ☐ description (copiar de page-seo-optimized.tsx)
+  ☐ keywords (copiar de page-seo-optimized.tsx)
+
+☐ Atualizar seção <div className="sr-only">:
+  ☐ Deletar conteúdo atual
+  ☐ Copiar todo conteúdo de page-seo-optimized.tsx sr-only
+  ☐ Verificar internal links (3 links para outras ferramentas)
+
+☐ Verificar links internos funcionam:
+  ☐ /simulado → clickável
+  ☐ /calcular-nota → clickável
+  ☐ /gabarito → clickável
+
+CHECKPOINT ✓ /questoes integrado completo
+
+
+TAREFA 2: Integrar /SIMULADO
+
+Abrir: app/simulado/page.tsx
+
+☐ Repetir exatamente mesmo processo de /questoes:
+  ☐ Copiar 4 schemas
+  ☐ Adicionar 4 scripts
+  ☐ Atualizar metadata
+  ☐ Atualizar sr-only
+  ☐ Verificar 3 internal links
+
+CHECKPOINT ✓ /simulado integrado completo
+
+
+TAREFA 3: Integrar /CALCULAR-NOTA
+
+Abrir: app/calcular-nota/page.tsx
+
+☐ Repetir exatamente mesmo processo:
+  ☐ Copiar 4 schemas
+  ☐ Adicionar 4 scripts
+  ☐ Atualizar metadata
+  ☐ Atualizar sr-only
+  ☐ Verificar 3 internal links
+
+CHECKPOINT ✓ /calcular-nota integrado completo
+
+
+TAREFA 4: Integrar /GABARITO
+
+Abrir: app/gabarito/page.tsx
+
+☐ Repetir exatamente mesmo processo:
+  ☐ Copiar 4 schemas (nota: itemListSchema em vez de toolSchema)
+  ☐ Adicionar 4 scripts
+  ☐ Atualizar metadata
+  ☐ Atualizar sr-only
+  ☐ Verificar 3 internal links
+
+CHECKPOINT ✓ /gabarito integrado completo
+
+TEMPO TOTAL: 3-4 horas
+
+
+═══════════════════════════════════════════════════════════════════════════════
+  DIA 1 — NOITE (1-2 horas)
+═══════════════════════════════════════════════════════════════════════════════
+
+TESTE LOCAL:
+
+☐ npm run build
+  ☐ Build completo sem erros
+  ☐ Nenhum warning crítico
+
+☐ npm run start
+  ☐ Server iniciado
+
+☐ Testar 4 páginas em localhost:3000:
+  ☐ http://localhost:3000/questoes → renderiza OK
+  ☐ http://localhost:3000/simulado → renderiza OK
+  ☐ http://localhost:3000/calcular-nota → renderiza OK
+  ☐ http://localhost:3000/gabarito → renderiza OK
+
+☐ Testar links internos (clique em cada):
+  ☐ /questoes → /simulado link funciona
+  ☐ /questoes → /calcular-nota link funciona
+  ☐ /questoes → /gabarito link funciona
+  ☐ Repetir para outras 3 páginas
+
+☐ Verificar DevTools (F12 → Sources):
+  ☐ Procurar "<script type="application/ld+json""
+  ☐ Encontrar 4 schemas por página
+  ☐ Validar JSON formatting (sem erros)
+
+☐ Rodar Lighthouse local:
+  ☐ npx lighthouse http://localhost:3000/questoes --view
+  ☐ npx lighthouse http://localhost:3000/simulado --view
+  ☐ npx lighthouse http://localhost:3000/calcular-nota --view
+  ☐ npx lighthouse http://localhost:3000/gabarito --view
+  ☐ Score ≥85 em todas (meta: 90+)
+
+☐ Validar schemas em Google Rich Results Test:
+  ☐ Ir para https://search.google.com/test/rich-results
+  ☐ Colar HTML de /questoes → PASS
+  ☐ Colar HTML de /simulado → PASS
+  ☐ Colar HTML de /calcular-nota → PASS
+  ☐ Colar HTML de /gabarito → PASS
+
+CHECKPOINT ✓ Tudo testado, validado e pronto
+
+TEMPO TOTAL: 1-2 horas
+
+═══════════════════════════════════════════════════════════════════════════════
+  DIA 2 — MANHÃ (1-2 horas)
+═══════════════════════════════════════════════════════════════════════════════
+
+DEPLOY EM STAGING:
+
+☐ Git commit:
+  git add app/questoes/page.tsx app/simulado/page.tsx app/calcular-nota/page.tsx app/gabarito/page.tsx
+  git commit -m "SEO: Otimização completa de 4 ferramentas
+
+  - Conteúdo expandido (7+ seções por página)
+  - Schemas: SoftwareApplication + Tool + FAQ + Breadcrumb
+  - FAQ expandido (5-7 perguntas por página)
+  - Internal linking estratégico entre ferramentas
+  - Metadata otimizado com keywords long-tail
+
+  Co-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>"
+
+☐ Push para branch:
+  git push origin feature/seo-tools-optimization
+
+☐ Vercel deploy:
+  vercel deploy --prebuilt
+
+☐ Aguardar build (~2-3 minutos)
+
+☐ Testar em staging (copiar URL do output Vercel):
+  ☐ https://[staging-url]/questoes → renderiza OK
+  ☐ https://[staging-url]/simulado → renderiza OK
+  ☐ https://[staging-url]/calcular-nota → renderiza OK
+  ☐ https://[staging-url]/gabarito → renderiza OK
+
+☐ Validar schemas em staging com Google Rich Results Test:
+  ☐ Ir para https://search.google.com/test/rich-results
+  ☐ Colar staging URL → PASS (sem errors)
+
+CHECKPOINT ✓ Staging está verde, pronto para produção
+
+TEMPO TOTAL: 1-2 horas
+
+
+═══════════════════════════════════════════════════════════════════════════════
+  DIA 2 — TARDE (2-3 horas)
+═══════════════════════════════════════════════════════════════════════════════
+
+DEPLOY EM PRODUÇÃO:
+
+☐ Merge para main:
+  git checkout main
+  git pull origin main
+  git merge feature/seo-tools-optimization
+
+☐ Push para main:
+  git push origin main
+
+☐ Vercel auto-deploy (aguardar 3-5 minutos para build)
+
+☐ Verificar produção:
+  ☐ https://enem.pro/questoes → renderiza OK
+  ☐ https://enem.pro/simulado → renderiza OK
+  ☐ https://enem.pro/calcular-nota → renderiza OK
+  ☐ https://enem.pro/gabarito → renderiza OK
+
+☐ Google Search Console - Submeter URLs:
+  Ir para: https://search.google.com/search-console
+
+  Para cada URL:
+  ☐ /questoes → URL Inspection → Test → Request Indexing
+  ☐ /simulado → URL Inspection → Test → Request Indexing
+  ☐ /calcular-nota → URL Inspection → Test → Request Indexing
+  ☐ /gabarito → URL Inspection → Test → Request Indexing
+
+☐ Submeter sitemap (se não foi feito):
+  ☐ https://enem.pro/sitemap.xml
+
+CHECKPOINT ✓ Produção ao vivo, URLs submetidas
+
+TEMPO TOTAL: 2-3 horas
+
+
+═══════════════════════════════════════════════════════════════════════════════
+  DIA 2 — NOITE (1 hora)
+═══════════════════════════════════════════════════════════════════════════════
+
+MONITORAMENTO INICIAL:
+
+☐ Acompanhar Google Search Console:
+  ☐ Ir para Coverage
+  ☐ Verificar se há NEW errors (não deve ter)
+  ☐ Anotar número de URLs indexadas
+
+☐ Monitorar Core Web Vitals:
+  ☐ Tudo verde (mobile e desktop)
+
+☐ Verificar Mobile Usability:
+  ☐ Sem errors
+
+☐ Criar dashboard de KPIs:
+  ☐ Documentar baseline (baseline impressões/CTR/posição)
+  ☐ Definir alvo 7 dias (↑50% impressões)
+  ☐ Definir alvo 30 dias (↑50% CTR)
+
+☐ Agendar reviews:
+  ☐ 7 dias: Verificar primeiros sinais
+  ☐ 30 dias: Report completo
+  ☐ 90 dias: Report de impacto
+
+CHECKPOINT ✓ Monitoramento ligado, KPIs definidos
+
+TEMPO TOTAL: 1 hora
+
+═══════════════════════════════════════════════════════════════════════════════
+  TOTAL TEMPO: 6-8 horas de trabalho em 2 dias
+═══════════════════════════════════════════════════════════════════════════════
+
+DAY 1: 6-7 horas
+DAY 2: 2-3 horas
+TOTAL: 8-10 horas
+
+
+═══════════════════════════════════════════════════════════════════════════════
+  APÓS DEPLOY (PRÓXIMAS 2 SEMANAS)
+═══════════════════════════════════════════════════════════════════════════════
+
+☐ Dia 1-7: Monitorar GSC diariamente
+  ☐ Verificar se URLs foram reindexadas
+  ☐ Anotar impressões iniciais
+  ☐ Comparar com baseline
+
+☐ Dia 7: Report de 7 dias
+  ☐ Impressões: esperado +50% ou mais?
+  ☐ CTR: esperado +20-30%?
+  ☐ Posição: mudou 3-5 posições?
+  ☐ Ajustar se necessário
+
+☐ Dia 14-30: Otimizações de refinement
+  ☐ Analisar CTR real
+  ☐ Refinar meta descriptions (se CTR baixa)
+  ☐ Adicionar perguntas ao FAQ (baseado em queries)
+
+☐ Dia 30: Report completo
+  ☐ Comparar baseline vs +30 dias
+  ☐ Calcular ROI
+  ☐ Planejar próximas otimizações
+
+
+═══════════════════════════════════════════════════════════════════════════════
+  SUCESSO SERÁ QUANDO...
+═══════════════════════════════════════════════════════════════════════════════
+
+✅ 4 URLs reindexadas no GSC (24-48h) ............................ 0/4
+✅ Schemas aparecem em Google Rich Results Test .................. 0/4
+✅ Primeira semana: +20% impressões vs baseline .................. ✗
+✅ 30 dias: -3 a -5 posições (melhor ranking) .................... ✗
+✅ 90 dias: +100-150% tráfego organizado ......................... ✗
+
+
+═══════════════════════════════════════════════════════════════════════════════
+  TROUBLESHOOTING RÁPIDO
+═══════════════════════════════════════════════════════════════════════════════
+
+❌ "Build falha"
+→ npm run type-check (verificar erros TS)
+→ rm -rf .next && npm run build
+
+❌ "Schemas não validam"
+→ Verificar JSON formatting (usar JSON Formatter)
+→ Verificar URLs com https://
+
+❌ "Lighthouse score baixo"
+→ npm run build primeiro
+→ Testar em incognito mode
+→ Verificar CLS (Layout Shift)
+
+❌ "Links quebrados"
+→ Verificar case-sensitivity (Linux sensível)
+→ Remover trailing slashes inconsistentes
+→ Testar em staging antes
+
+❌ "GSC mostra erros"
+→ Normal nos primeiros 24h
+→ Aguardar reindexação
+→ Resubmeter URLs se persistir
+
+
+═══════════════════════════════════════════════════════════════════════════════
+  DOCUMENTOS DE REFERÊNCIA
+═══════════════════════════════════════════════════════════════════════════════
+
+📄 RESUMO_EXECUTIVO_SEO.md ................... 1-page overview
+📄 QUICK_START_IMPLEMENTATION.md ............ 48h plano (você está aqui)
+📄 SEO_OPTIMIZATION_TOOLS_COMPLETE.md ...... Guia completo 100+ seções
+📄 SCHEMAS_JSON_LD_REFERENCE.json .......... Referência estruturada
+📄 ANTES_E_DEPOIS_EXEMPLO.md ............... Case study visual
+📄 INDICE_DELIVERABLES.md .................. Índice central
+
+
+═══════════════════════════════════════════════════════════════════════════════
+  PRÓXIMOS PASSOS
+═══════════════════════════════════════════════════════════════════════════════
+
+1️⃣ Aprovar plano
+2️⃣ Começar DIA 1 MANHÃ (preparação)
+3️⃣ Seguir checklist passo-a-passo
+4️⃣ Deploy DIA 2 TARDE
+5️⃣ Monitorar 30 dias
+6️⃣ Report de impacto
+
+═══════════════════════════════════════════════════════════════════════════════
+  STATUS: ✅ PRONTO PARA COMEÇAR AGORA!
+═══════════════════════════════════════════════════════════════════════════════

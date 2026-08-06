@@ -1,0 +1,18 @@
+
+> enem-pro@0.1.0 prebuild
+> tsx scripts/generate-blog-index.ts
+
+[generate-blog-index] 1 posts indexed
+
+> enem-pro@0.1.0 build
+> next build
+
+   ▲ Next.js 15.5.18
+   - Environments: .env.production.local, .env.local
+
+   Creating an optimized production build ...
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Projetos\enem-pro\.next\cache\webpack\server-production\20.pack_' -> 'C:\Projetos\enem-pro\.next\cache\webpack\server-production\20.pack'
+ ✓ Compiled successfully in 5.0min
+   Linting and checking validity of types ...
+Debug Failure. Expected C:/Projetos/enem-pro/.next/cache/.tsbuildinfo === C:\Projetos\enem-pro\.next\cache\.tsbuildinfo. 
+Next.js build worker exited with code: 1 and signal: null

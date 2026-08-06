@@ -1,0 +1,538 @@
+{
+  "ferramentas": {
+    "questoes": {
+      "url": "/questoes",
+      "priority": 0.95,
+      "changeFrequency": "weekly",
+      "schemas": [
+        {
+          "type": "SoftwareApplication",
+          "name": "Banco de Questões ENEM",
+          "description": "Banco com 2.900+ questões reais do ENEM de 2009 a 2024, com gabarito instantâneo e explicações por IA",
+          "applicationCategory": "EducationalApplication",
+          "offers": {
+            "price": "0",
+            "priceCurrency": "BRL"
+          },
+          "aggregateRating": {
+            "ratingValue": "4.8",
+            "ratingCount": "5000",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "potentialAction": [
+            {
+              "type": "SearchAction",
+              "target": "https://enem.pro/questoes?discipline={search_term_string}"
+            },
+            {
+              "type": "UseAction",
+              "description": "Praticar questões do ENEM"
+            }
+          ]
+        },
+        {
+          "type": "Tool",
+          "name": "Banco de Questões ENEM",
+          "description": "Ferramenta de prática com 2.900+ questões reais do ENEM"
+        },
+        {
+          "type": "FAQPage",
+          "questions": [
+            {
+              "question": "Quantas questões do ENEM estão disponíveis no banco?",
+              "answer": "Nosso banco contém 2.900+ questões reais do ENEM, cobrindo todas as edições de 2009 a 2024 e todas as quatro disciplinas principais."
+            },
+            {
+              "question": "Como funciona o gabarito automático?",
+              "answer": "Ao responder uma questão, o gabarito aparece instantaneamente mostrando a resposta correta. No Plano Pro, você desbloqueará explicações detalhadas geradas por IA."
+            },
+            {
+              "question": "Posso filtrar questões por disciplina e ano?",
+              "answer": "Sim! Você pode filtrar por qualquer uma das 4 disciplinas e por anos de 2009 a 2024."
+            },
+            {
+              "question": "As questões são reais do ENEM?",
+              "answer": "Sim, 100% das questões são reais e oficiais do INEP."
+            },
+            {
+              "question": "Há limite de questões por dia no plano gratuito?",
+              "answer": "No plano grátis, você pode praticar 10 questões por dia com acesso ao gabarito. No Plano Pro, prática ilimitada com explicações de IA."
+            },
+            {
+              "question": "Como o sistema de IA explica as respostas?",
+              "answer": "A IA analisa cada questão e gera uma explicação clara que mostra por que a resposta está correta."
+            },
+            {
+              "question": "Posso acompanhar meu progresso?",
+              "answer": "Sim! A plataforma rastreia suas respostas, mostra sua taxa de acerto por disciplina e oferece recomendações."
+            }
+          ]
+        },
+        {
+          "type": "BreadcrumbList",
+          "items": [
+            {
+              "position": 1,
+              "name": "ENEM Pro",
+              "item": "https://enem.pro"
+            },
+            {
+              "position": 2,
+              "name": "Questões ENEM",
+              "item": "https://enem.pro/questoes"
+            }
+          ]
+        }
+      ],
+      "contentSections": [
+        "Introdução — Por Que Praticar com Questões Reais",
+        "Como Usar o Banco de Questões",
+        "Vantagens de Praticar com Questões Reais",
+        "Filtros Avançados — Estude Exatamente o Que Você Precisa",
+        "Gabarito Instantâneo e Análise de Performance",
+        "Explicações de IA — Entenda o Raciocínio Por Trás de Cada Resposta",
+        "Plano de Estudos Recomendado para Máximo Rendimento",
+        "Integração com Outras Ferramentas ENEM Pro"
+      ],
+      "metadata": {
+        "title": "Banco de Questões ENEM — 2.900+ Questões Reais com Gabarito e Explicações de IA",
+        "description": "Pratique com 2.900+ questões reais do ENEM (2009-2024). Filtro por disciplina, ano e dificuldade. Gabarito imediato + explicações detalhadas no Plano Pro. Grátis.",
+        "keywords": [
+          "questões ENEM",
+          "banco de questões ENEM",
+          "questões ENEM com gabarito",
+          "questões de matemática ENEM",
+          "questões ENEM 2024",
+          "simulador ENEM",
+          "praticar ENEM grátis",
+          "questões resolvidas ENEM"
+        ]
+      }
+    },
+    "simulado": {
+      "url": "/simulado",
+      "priority": 0.95,
+      "changeFrequency": "monthly",
+      "schemas": [
+        {
+          "type": "SoftwareApplication",
+          "name": "Simulado ENEM Online",
+          "description": "Simulado interativo do ENEM com cronômetro, questões reais e cálculo automático de nota TRI",
+          "applicationCategory": "EducationalApplication",
+          "offers": {
+            "price": "0",
+            "priceCurrency": "BRL"
+          },
+          "aggregateRating": {
+            "ratingValue": "4.9",
+            "ratingCount": "5000",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "potentialAction": [
+            {
+              "type": "PlayAction",
+              "description": "Fazer simulado do ENEM"
+            },
+            {
+              "type": "UseAction",
+              "description": "Testar conhecimento com simulado"
+            }
+          ]
+        },
+        {
+          "type": "Tool",
+          "name": "Simulado ENEM Online",
+          "description": "Ferramenta de simulado com questões reais do ENEM e cronômetro"
+        },
+        {
+          "type": "FAQPage",
+          "questions": [
+            {
+              "question": "Como funciona o simulado ENEM online?",
+              "answer": "Você escolhe quantas questões quer responder, seleciona a disciplina e o ano, e começa com um cronômetro em tempo real."
+            },
+            {
+              "question": "A nota do simulado é igual à nota real do ENEM?",
+              "answer": "Nossa nota TRI é uma estimativa realista baseada na metodologia oficial do ENEM."
+            },
+            {
+              "question": "O simulado usa questões reais do ENEM?",
+              "answer": "Sim, 100% das questões são reais e oficiais do INEP de edições anteriores."
+            },
+            {
+              "question": "Qual é o benefício de fazer simulados regularmente?",
+              "answer": "Simulados regulares ajudam você a desenvolver gestão de tempo, identificar fraquezas e testar sua estratégia."
+            },
+            {
+              "question": "Posso escolher quantas questões responder?",
+              "answer": "Sim! Você pode fazer simulados rápidos com 10-20 questões ou provas completas com 45 questões."
+            },
+            {
+              "question": "Como a TRI (Teoria de Resposta ao Item) funciona?",
+              "answer": "A TRI considera a dificuldade de cada questão. Acertar uma questão difícil vale mais pontos."
+            },
+            {
+              "question": "Posso fazer o simulado quantas vezes quiser?",
+              "answer": "No plano grátis, você pode fazer simulados ilimitados."
+            }
+          ]
+        },
+        {
+          "type": "BreadcrumbList",
+          "items": [
+            {
+              "position": 1,
+              "name": "ENEM Pro",
+              "item": "https://enem.pro"
+            },
+            {
+              "position": 2,
+              "name": "Simulado ENEM",
+              "item": "https://enem.pro/simulado"
+            }
+          ]
+        }
+      ],
+      "contentSections": [
+        "Introdução — Por Que Fazer Simulados Antes do ENEM",
+        "Como Funciona o Simulado ENEM",
+        "Entendendo a Nota TRI — A Metodologia Real do ENEM",
+        "Análise Detalhada de Desempenho — Identifique Suas Fraquezas",
+        "Gestão de Tempo — Prepare-se Para o Ritmo Real",
+        "Customização Total — Escolha Seu Simulado Perfeito",
+        "Integração com Outras Ferramentas ENEM Pro",
+        "Plano Recomendado de Simulados Para Máximo Rendimento"
+      ],
+      "metadata": {
+        "title": "Simulado ENEM 2026 Grátis — Teste com Questões Reais, Cronômetro e Nota TRI",
+        "description": "Faça um simulado completo do ENEM com questões reais, cronômetro em tempo real e cálculo de nota TRI estimada. Análise detalhada de desempenho. Totalmente grátis.",
+        "keywords": [
+          "simulado ENEM",
+          "simulado ENEM 2026",
+          "simulado ENEM online",
+          "questões ENEM com cronômetro",
+          "nota TRI ENEM",
+          "prova ENEM online",
+          "teste ENEM grátis",
+          "simulador ENEM com tempo"
+        ]
+      }
+    },
+    "calcular-nota": {
+      "url": "/calcular-nota",
+      "priority": 0.90,
+      "changeFrequency": "monthly",
+      "schemas": [
+        {
+          "type": "SoftwareApplication",
+          "name": "Calculadora de Nota ENEM",
+          "description": "Calculadora interativa de nota ENEM com estimativa TRI por área de conhecimento e comparação com notas de corte SISU",
+          "applicationCategory": "EducationalApplication",
+          "offers": {
+            "price": "0",
+            "priceCurrency": "BRL"
+          },
+          "aggregateRating": {
+            "ratingValue": "4.8",
+            "ratingCount": "5000",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "potentialAction": [
+            {
+              "type": "CalculateAction",
+              "description": "Calcular nota ENEM"
+            }
+          ]
+        },
+        {
+          "type": "Tool",
+          "name": "Calculadora de Nota ENEM",
+          "description": "Ferramenta para calcular nota ENEM com TRI automático"
+        },
+        {
+          "type": "FAQPage",
+          "questions": [
+            {
+              "question": "Como funciona a Teoria de Resposta ao Item (TRI)?",
+              "answer": "A TRI é a metodologia oficial que considera a dificuldade de cada questão. Acertar uma questão difícil pesa mais."
+            },
+            {
+              "question": "Qual é a diferença entre nota raw e nota TRI?",
+              "answer": "Nota raw é contar acertos. Nota TRI transforma isso em 0-1000 levando em conta a dificuldade."
+            },
+            {
+              "question": "Como as notas de corte do SISU funcionam?",
+              "answer": "Notas de corte variam a cada edição baseadas na concorrência. Nossa calculadora mostra histórico."
+            },
+            {
+              "question": "Posso usar a calculadora para explorar diferentes cenários?",
+              "answer": "Sim! Teste diferentes números de acertos para ver como sua nota TRI mudaria."
+            },
+            {
+              "question": "A calculadora também mostra notas de corte ProUni e FIES?",
+              "answer": "Sim! Oferecemos informações sobre ProUni e FIES além de SISU."
+            },
+            {
+              "question": "Qual nota TRI preciso para entrar em Medicina?",
+              "answer": "Medicina é altamente competitiva, notas de corte costumam ser superiores a 900 pontos."
+            },
+            {
+              "question": "Como saber meu desempenho em comparação com outros candidatos?",
+              "answer": "Nossa calculadora mostra histórico de notas de corte, oferecendo contexto sobre concorrência."
+            }
+          ]
+        },
+        {
+          "type": "BreadcrumbList",
+          "items": [
+            {
+              "position": 1,
+              "name": "ENEM Pro",
+              "item": "https://enem.pro"
+            },
+            {
+              "position": 2,
+              "name": "Calcular Nota ENEM",
+              "item": "https://enem.pro/calcular-nota"
+            }
+          ]
+        }
+      ],
+      "contentSections": [
+        "Introdução — Por Que Você Precisa de Uma Calculadora",
+        "Como Usar a Calculadora de Nota ENEM",
+        "Entendendo a TRI — Teoria de Resposta ao Item Explicada",
+        "Notas de Corte SISU — Descubra Quais Cursos Estão ao Seu Alcance",
+        "ProUni e FIES — Explorar Outras Opções de Acesso",
+        "Estratégia Por Disciplina — Foque Seus Estudos Inteligentemente",
+        "Comparação Com Edições Anteriores — Entenda Tendências",
+        "Dicas Para Maximizar Sua Nota ENEM"
+      ],
+      "metadata": {
+        "title": "Calculadora ENEM 2026 — Calcule Sua Nota com Curva TRI Automática",
+        "description": "Calculadora de nota ENEM com TRI automática. Estima sua pontuação por área, compara com notas de corte SISU, ProUni e FIES. Descubra quais cursos estão ao seu alcance.",
+        "keywords": [
+          "calculadora ENEM",
+          "calculadora nota ENEM",
+          "TRI ENEM",
+          "nota de corte SISU",
+          "calcular nota ENEM TRI",
+          "estimativa de nota ENEM",
+          "notas de corte ENEM",
+          "nota de corte ProUni"
+        ]
+      }
+    },
+    "gabarito": {
+      "url": "/gabarito",
+      "priority": 0.90,
+      "changeFrequency": "yearly",
+      "schemas": [
+        {
+          "type": "SoftwareApplication",
+          "name": "Gabarito ENEM Completo",
+          "description": "Gabarito oficial do ENEM de todas as edições de 2009 a 2024 com análise de questões",
+          "applicationCategory": "EducationalApplication",
+          "offers": {
+            "price": "0",
+            "priceCurrency": "BRL"
+          },
+          "aggregateRating": {
+            "ratingValue": "4.8",
+            "ratingCount": "5000",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "potentialAction": {
+            "type": "SearchAction",
+            "target": "https://enem.pro/gabarito/{search_term_string}"
+          }
+        },
+        {
+          "type": "ItemList",
+          "name": "Gabarito ENEM — Todas as Edições (2009-2024)",
+          "itemCount": 16,
+          "description": "Gabarito oficial do ENEM de 2009 a 2024 com todas as respostas corretas"
+        },
+        {
+          "type": "FAQPage",
+          "questions": [
+            {
+              "question": "Quando é divulgado o gabarito oficial do ENEM?",
+              "answer": "O gabarito oficial do ENEM é divulgado pelo INEP no dia seguinte à aplicação da segunda prova, normalmente em novembro."
+            },
+            {
+              "question": "O gabarito é diferente para cada caderno colorido?",
+              "answer": "As questões são idênticas, mas a ordem das alternativas muda entre os cadernos."
+            },
+            {
+              "question": "Qual é a diferença entre os cadernos de cores diferentes?",
+              "answer": "Os cadernos contêm as mesmas questões na mesma ordem, mas as alternativas estão em ordens diferentes."
+            },
+            {
+              "question": "Como descobrir qual caderno eu fiz se não lembro da cor?",
+              "answer": "Compare suas respostas com cada um dos 4 gabaritos. Quando coincidirem, você descobriu."
+            },
+            {
+              "question": "Posso usar os gabaritos antigos para estudar?",
+              "answer": "Absolutamente! Usar gabaritos de anos anteriores para praticar é extremamente valioso."
+            },
+            {
+              "question": "Quais foram os temas de redação de cada ano?",
+              "answer": "Cada edição do ENEM apresenta um novo tema de redação. Confira nosso histórico."
+            },
+            {
+              "question": "Há questões resolvidas no seu banco de gabaritos?",
+              "answer": "Sim! Nossa plataforma oferece explicações detalhadas para cada questão no Plano Pro."
+            }
+          ]
+        },
+        {
+          "type": "BreadcrumbList",
+          "items": [
+            {
+              "position": 1,
+              "name": "ENEM Pro",
+              "item": "https://enem.pro"
+            },
+            {
+              "position": 2,
+              "name": "Gabarito ENEM",
+              "item": "https://enem.pro/gabarito"
+            }
+          ]
+        }
+      ],
+      "contentSections": [
+        "Introdução — Por Que Acessar o Gabarito ENEM",
+        "Como Usar o Gabarito ENEM",
+        "Cadernos de Cores Diferentes — Entenda as Diferenças",
+        "Histórico de Temas de Redação — Veja o Padrão de Temas",
+        "Análise de Performance — Identifique Suas Fraquezas",
+        "Comparação Entre Anos — Veja Como a Prova Evolui",
+        "Dados de Inscrição e Contexto — Entenda a Concorrência",
+        "Integração com Banco de Questões e Simulado"
+      ],
+      "metadata": {
+        "title": "Gabarito ENEM 2009-2024 — Gabarito Oficial Completo + Análise de Questões",
+        "description": "Gabarito oficial do ENEM de todas as edições (2009-2024). Matemática, Linguagens, Ciências Humanas e Ciências da Natureza. Com análise de questões e correção.",
+        "keywords": [
+          "gabarito ENEM",
+          "gabarito ENEM 2024",
+          "gabarito ENEM oficial",
+          "gabarito ENEM 2023",
+          "respostas ENEM",
+          "gabarito por disciplina",
+          "questões ENEM com gabarito",
+          "gabarito ENEM por ano"
+        ]
+      }
+    }
+  },
+  "internalLinking": {
+    "strategy": "Hub and Spoke",
+    "centralHub": "/ferramentas",
+    "linkingPatterns": {
+      "from_questoes_to": [
+        "/simulado",
+        "/calcular-nota",
+        "/gabarito",
+        "/ferramentas"
+      ],
+      "from_simulado_to": [
+        "/questoes",
+        "/calcular-nota",
+        "/gabarito",
+        "/ferramentas"
+      ],
+      "from_calcular_nota_to": [
+        "/questoes",
+        "/simulado",
+        "/gabarito",
+        "/ferramentas"
+      ],
+      "from_gabarito_to": [
+        "/questoes",
+        "/simulado",
+        "/calcular-nota",
+        "/ferramentas"
+      ]
+    },
+    "blogPostLinksNeeded": [
+      {
+        "topic": "Como praticar ENEM grátis",
+        "shouldLinkTo": ["/questoes"]
+      },
+      {
+        "topic": "Melhor banco de questões ENEM",
+        "shouldLinkTo": ["/questoes"]
+      },
+      {
+        "topic": "Simulado ENEM online grátis",
+        "shouldLinkTo": ["/simulado"]
+      },
+      {
+        "topic": "Como fazer simulado ENEM",
+        "shouldLinkTo": ["/simulado"]
+      },
+      {
+        "topic": "Como calcular nota ENEM TRI",
+        "shouldLinkTo": ["/calcular-nota"]
+      },
+      {
+        "topic": "Notas de corte SISU",
+        "shouldLinkTo": ["/calcular-nota"]
+      },
+      {
+        "topic": "Gabarito ENEM 2024",
+        "shouldLinkTo": ["/gabarito"]
+      },
+      {
+        "topic": "Quando sai gabarito ENEM",
+        "shouldLinkTo": ["/gabarito"]
+      }
+    ]
+  },
+  "expectedPerformance": {
+    "30days": {
+      "impressions": "+50%",
+      "ctr": "+20-30%",
+      "position": "-3 a -5 (melhor)"
+    },
+    "90days": {
+      "organic_traffic": "+100-150%",
+      "page1_keywords": "+15-20",
+      "conversions": "+30-50%"
+    },
+    "6months": {
+      "organic_traffic": "+200-300%",
+      "featured_snippets": "2-3",
+      "domain_authority": "+3-5 points"
+    }
+  },
+  "validationTools": [
+    {
+      "name": "Google Rich Results Test",
+      "url": "https://search.google.com/test/rich-results",
+      "purpose": "Validar SoftwareApplication, Tool, FAQ, BreadcrumbList"
+    },
+    {
+      "name": "Schema.org Validator",
+      "url": "https://validator.schema.org/",
+      "purpose": "Validar estrutura JSON-LD"
+    },
+    {
+      "name": "Lighthouse",
+      "command": "npx lighthouse https://url.com --view",
+      "target": "90+ score"
+    },
+    {
+      "name": "Google Search Console",
+      "url": "https://search.google.com/search-console",
+      "purpose": "Monitorar impressões, CTR, posição média"
+    }
+  ]
+}
