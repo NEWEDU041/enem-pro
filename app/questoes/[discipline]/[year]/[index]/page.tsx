@@ -9,6 +9,7 @@ import { createServerClient } from '@/lib/supabase'
 import QuestionText from '@/components/QuestionText'
 import RelatedContent from '@/components/RelatedContent'
 import { getRelatedBlogPostsForQuestions } from '@/lib/related-content'
+import { getQuizSchema } from '@/lib/schemas'
 
 export const revalidate = 86400
 
@@ -168,11 +169,23 @@ export default async function QuestionDetailPage({ params }: { params: Promise<P
     ],
   }
 
+  // Quiz schema for rich results and featured snippets
+  const correctAnswerText = `${question.correctAlternative}) ${previewText(correctAlt?.text)}`.trim()
+  const quizLd = getQuizSchema(
+    question,
+    index,
+    year,
+    shortDisc,
+    correctAnswerText,
+    pageUrl
+  )
+
   return (
     <div className="min-h-screen bg-zinc-50">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(qaLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(quizLd) }} />
 
       <nav className="sticky top-0 z-50 bg-white border-b border-zinc-200 px-6 py-4">
         <div className="max-w-3xl mx-auto flex items-center justify-between">
