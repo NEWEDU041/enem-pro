@@ -70,7 +70,7 @@ export default function NewsletterPage() {
             <p>Oi João!</p>
             <p>Hoje temos uma questão clássica de Funções (cai MUITO em ENEM):</p>
             <p className="bg-zinc-50 p-3 rounded italic">
-              "Se f(x) = 2x + 3, qual é o valor de f(5)?"
+              &quot;Se f(x) = 2x + 3, qual é o valor de f(5)?&quot;
             </p>
             <p><strong>Dica:</strong> Quando vir f(x) = ..., significa que x é a variável. Só substituir o número no lugar de x.</p>
             <p><strong>Resposta e explicação:</strong> <a href="#" className="text-indigo-600 hover:underline">https://questoesenem.pro/questoes/...</a></p>

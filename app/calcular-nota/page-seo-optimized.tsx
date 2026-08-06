@@ -201,7 +201,7 @@ export default function CalcularNotaPageOptimized() {
           Nem todas as disciplinas têm o mesmo peso em sua meta. Se você quer um curso competitivo, uma fraqueza em Matemática pode
           ser crítica. Se prefere um curso menos concorrido, talvez possa compensar com força em Ciências Humanas. Use nossa calculadora
           para testar diferentes cenários: E se eu conseguir 40 acertos em Matemática mas apenas 30 em Ciências Humanas? Ainda chego
-          a 900 pontos?" Essas simulações ajudam você a estruturar uma estratégia inteligente de estudos.
+          a 900 pontos?&quot; Essas simulações ajudam você a estruturar uma estratégia inteligente de estudos.
         </p>
 
         <h2>Comparação Com Edições Anteriores — Entenda Tendências de Notas</h2>

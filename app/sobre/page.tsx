@@ -64,7 +64,7 @@ export default function AboutPage() {
             </li>
             <li className="flex items-start gap-3">
               <span className="text-indigo-600 mt-1">✓</span>
-              <span><strong>Explicações que ensinam</strong> (não só "a resposta é B")</span>
+              <span><strong>Explicações que ensinam</strong> (não só &quot;a resposta é B&quot;)</span>
             </li>
             <li className="flex items-start gap-3">
               <span className="text-indigo-600 mt-1">✓</span>
