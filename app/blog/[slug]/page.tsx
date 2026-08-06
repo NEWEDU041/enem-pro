@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import type { ReactNode } from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 import { notFound } from 'next/navigation'
 import { getPost, getRelatedPosts } from '@/lib/blog-data'
 import { SITE_URL } from '@/lib/site-config'
@@ -50,9 +51,25 @@ function renderContent(content: string) {
     const line = lines[i]
 
     if (line.startsWith('![')) {
-      elements.push(
-        <p key={i} dangerouslySetInnerHTML={{ __html: formatInline(line) }} />
-      )
+      // Parse markdown image: ![alt](url)
+      const match = line.match(/!\[([^\]]*)\]\(([^)]+)\)/)
+      if (match) {
+        const [, alt, src] = match
+        elements.push(
+          <div key={i} className="w-full rounded-xl my-4 overflow-hidden">
+            <Image
+              src={src}
+              alt={alt || 'Post image'}
+              width={800}
+              height={450}
+              quality={85}
+              loading="lazy"
+              decoding="async"
+              className="w-full h-auto"
+            />
+          </div>
+        )
+      }
     } else if (line.startsWith('> ')) {
       const bqLines: string[] = []
       while (i < lines.length && lines[i].startsWith('> ')) {
@@ -180,7 +197,7 @@ function getInternalLinks(slug: string): { href: string; label: string }[] {
 
 function formatInline(text: string): string {
   return text
-    .replace(/!\[([^\]]*)\]\(([^)]+)\)/g, '<img src="$2" alt="$1" class="w-full rounded-xl my-4" loading="lazy" decoding="async" />')
+    .replace(/!\[([^\]]*)\]\(([^)]+)\)/g, '')
     .replace(/\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer" class="text-indigo-600 hover:underline font-medium">$1</a>')
     .replace(/\[([^\]]+)\]\(\/([^)]+)\)/g, '<a href="/$2" class="text-indigo-600 hover:underline font-medium">$1</a>')
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
