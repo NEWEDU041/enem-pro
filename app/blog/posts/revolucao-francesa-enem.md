@@ -43,3 +43,9 @@ R: Ambas. Napoleão subiu ao poder em caos revolucionário (1799). Consolidou ga
 
 **P: Como relacionar Revolução Francesa com outras revoluções (Americana, Russa)?**
 R: Causas similares: dívida, desigualdade, ideias novas. Americana (1776) influenciou Francesa. Russa (1917) radicalizou ideias francesas. No ENEM, comparação entre duas aparece em 1-2 questões de "qual foi mais radical?" ou "qual influenciou qual?". Conhecer ordem temporal e ideais distintos responde isto.
+
+## Artigos Relacionados
+
+- [Questões de Ciências Humanas ENEM — Estratégia e Temas](/blog/questoes-ciencias-humanas-enem)
+- [Ciências Humanas ENEM — O Que Cai Mais e Como Estudar](/blog/ciencias-humanas-enem-o-que-cai)
+- [História no ENEM — O que Cai, Temas e Estratégia 2026](/blog/historia-enem-o-que-cai)

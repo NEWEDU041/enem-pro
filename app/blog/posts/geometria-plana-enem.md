@@ -45,3 +45,9 @@ R: Use método de associação. Círculo tem "r²" porque é redondo. Triângulo
 
 **P: Figuras com π precisam de calculadora?**
 R: Não obrigatório. Se π está na resposta, deixe como π (ex: 16π cm²). Se pede valor numérico, use π ≈ 3,14. Isto economiza 30 segundos por questão.
+
+## Artigos Relacionados
+
+- [Gabarito ENEM 2024 — Todas as Disciplinas com Resolução Comentada](/blog/gabarito-enem-2024)
+- [Gabarito ENEM 2023 — Questões e Resoluções por Disciplina](/blog/gabarito-enem-2023)
+- [Questões de Matemática ENEM — 800+ Exercícios Resolvidos (2009-2024)](/blog/questoes-matematica-enem-2023)

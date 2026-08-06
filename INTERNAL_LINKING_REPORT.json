@@ -1,0 +1,835 @@
+{
+  "timestamp": "2026-08-06T05:34:05.218Z",
+  "strategy": {
+    "totalPosts": 356,
+    "postsProcessed": 356,
+    "postsWithLinks": 348,
+    "orphanPosts": 8,
+    "orphanPercentage": "2.25",
+    "newLinkRelationships": 1765,
+    "filesUpdated": 2,
+    "averageLinksPerPost": "5.07"
+  },
+  "infrastructure": {
+    "fileSystemPosts": 43,
+    "databasePosts": 313
+  },
+  "topicClusters": [
+    {
+      "name": "gabarito",
+      "postCount": 131,
+      "pillarPage": {
+        "slug": "questoes-linguagens-enem-2023-resolvidas",
+        "title": "7 Questões de Linguagens do ENEM 2023 Resolvidas — Gabarito Comentado",
+        "description": "7 questões reais de Linguagens do ENEM 2023, selecionadas e resolvidas com gabarito oficial e explicação passo a passo de cada resposta correta. Pratique grátis.",
+        "date": "2026-07-13",
+        "readTime": 10,
+        "category": "Questões"
+      },
+      "examples": [
+        {
+          "slug": "questoes-linguagens-enem-2023-resolvidas",
+          "title": "7 Questões de Linguagens do ENEM 2023 Resolvidas — Gabarito Comentado",
+          "description": "7 questões reais de Linguagens do ENEM 2023, selecionadas e resolvidas com gabarito oficial e explicação passo a passo de cada resposta correta. Pratique grátis.",
+          "date": "2026-07-13",
+          "readTime": 10,
+          "category": "Questões"
+        },
+        {
+          "slug": "questoes-ciencias-humanas-enem-2023-resolvidas",
+          "title": "7 Questões de Ciências Humanas do ENEM 2023 Resolvidas — Gabarito Comentado",
+          "description": "7 questões reais de Ciências Humanas do ENEM 2023, selecionadas e resolvidas com gabarito oficial e explicação passo a passo de cada resposta correta. Pratique grátis.",
+          "date": "2026-07-13",
+          "readTime": 14,
+          "category": "Por Matéria"
+        },
+        {
+          "slug": "questoes-ciencias-natureza-enem-2023-resolvidas",
+          "title": "7 Questões de Ciências da Natureza do ENEM 2023 Resolvidas — Gabarito Comentado",
+          "description": "7 questões reais de Ciências da Natureza do ENEM 2023, selecionadas e resolvidas com gabarito oficial e explicação passo a passo de cada resposta correta. Pratique grátis.",
+          "date": "2026-07-13",
+          "readTime": 10,
+          "category": "Por Matéria"
+        }
+      ]
+    },
+    {
+      "name": "matemática",
+      "postCount": 54,
+      "pillarPage": {
+        "slug": "questoes-matematica-enem-2023-resolvidas",
+        "title": "7 Questões de Matemática do ENEM 2023 Resolvidas — Gabarito Comentado",
+        "description": "7 questões reais de Matemática do ENEM 2023, selecionadas e resolvidas com gabarito oficial e explicação passo a passo de cada resposta correta. Pratique grátis.",
+        "date": "2026-07-13",
+        "readTime": 14,
+        "category": "Por Matéria"
+      },
+      "examples": [
+        {
+          "slug": "questoes-matematica-enem-2023-resolvidas",
+          "title": "7 Questões de Matemática do ENEM 2023 Resolvidas — Gabarito Comentado",
+          "description": "7 questões reais de Matemática do ENEM 2023, selecionadas e resolvidas com gabarito oficial e explicação passo a passo de cada resposta correta. Pratique grátis.",
+          "date": "2026-07-13",
+          "readTime": 14,
+          "category": "Por Matéria"
+        },
+        {
+          "slug": "juros-compostos-enem",
+          "title": "Juros Compostos no ENEM: Fórmulas, Exemplos e Estratégias de Resolução",
+          "description": "Domine juros compostos no ENEM com fórmulas práticas. Aprenda passo a passo como calcular e ganhar pontos.",
+          "date": "2026-07-11",
+          "readTime": 12,
+          "category": "Estratégias"
+        },
+        {
+          "slug": "equacoes-1-2-grau-enem",
+          "title": "Equações de 1º e 2º Grau no ENEM: Fórmulas, Técnicas e Exemplos Resolvidos",
+          "description": "Domine equações de 1º e 2º grau no ENEM. Aprenda Bhaskara, fatoração e aplicações. Guia prático passo a passo.",
+          "date": "2026-07-11",
+          "readTime": 10,
+          "category": "Estratégias"
+        }
+      ]
+    },
+    {
+      "name": "questões",
+      "postCount": 145,
+      "pillarPage": {
+        "slug": "questoes-linguagens-enem-2023-resolvidas",
+        "title": "7 Questões de Linguagens do ENEM 2023 Resolvidas — Gabarito Comentado",
+        "description": "7 questões reais de Linguagens do ENEM 2023, selecionadas e resolvidas com gabarito oficial e explicação passo a passo de cada resposta correta. Pratique grátis.",
+        "date": "2026-07-13",
+        "readTime": 10,
+        "category": "Questões"
+      },
+      "examples": [
+        {
+          "slug": "questoes-linguagens-enem-2023-resolvidas",
+          "title": "7 Questões de Linguagens do ENEM 2023 Resolvidas — Gabarito Comentado",
+          "description": "7 questões reais de Linguagens do ENEM 2023, selecionadas e resolvidas com gabarito oficial e explicação passo a passo de cada resposta correta. Pratique grátis.",
+          "date": "2026-07-13",
+          "readTime": 10,
+          "category": "Questões"
+        },
+        {
+          "slug": "questoes-ciencias-humanas-enem-2023-resolvidas",
+          "title": "7 Questões de Ciências Humanas do ENEM 2023 Resolvidas — Gabarito Comentado",
+          "description": "7 questões reais de Ciências Humanas do ENEM 2023, selecionadas e resolvidas com gabarito oficial e explicação passo a passo de cada resposta correta. Pratique grátis.",
+          "date": "2026-07-13",
+          "readTime": 14,
+          "category": "Por Matéria"
+        },
+        {
+          "slug": "questoes-ciencias-natureza-enem-2023-resolvidas",
+          "title": "7 Questões de Ciências da Natureza do ENEM 2023 Resolvidas — Gabarito Comentado",
+          "description": "7 questões reais de Ciências da Natureza do ENEM 2023, selecionadas e resolvidas com gabarito oficial e explicação passo a passo de cada resposta correta. Pratique grátis.",
+          "date": "2026-07-13",
+          "readTime": 10,
+          "category": "Por Matéria"
+        }
+      ]
+    },
+    {
+      "name": "estratégia",
+      "postCount": 134,
+      "pillarPage": {
+        "slug": "cronograma-oficial-enem-2026",
+        "title": "Cronograma Oficial ENEM 2026: Todas as Datas Importantes que Você Precisa Saber",
+        "description": "ENEM 2026 acontece em novembro. Conheça as datas oficiais de inscrição, provas e resultado. Mais de 3,6 milhões se inscrevem anualmente no Brasil.",
+        "date": "2026-07-11",
+        "readTime": 12,
+        "category": "Planejamento"
+      },
+      "examples": [
+        {
+          "slug": "cronograma-oficial-enem-2026",
+          "title": "Cronograma Oficial ENEM 2026: Todas as Datas Importantes que Você Precisa Saber",
+          "description": "ENEM 2026 acontece em novembro. Conheça as datas oficiais de inscrição, provas e resultado. Mais de 3,6 milhões se inscrevem anualmente no Brasil.",
+          "date": "2026-07-11",
+          "readTime": 12,
+          "category": "Planejamento"
+        },
+        {
+          "slug": "quando-sai-resultado-enem-2026",
+          "title": "Quando Sai o Resultado do ENEM 2026: Datas Oficiais e Como Consultar",
+          "description": "Resultado ENEM 2026 sai até 60 dias após provas (estimado janeiro 2027). Saiba como acessar.",
+          "date": "2026-07-11",
+          "readTime": 13,
+          "category": "Planejamento"
+        },
+        {
+          "slug": "melhores-recursos-estudar-enem",
+          "title": "Melhores Recursos para Estudar ENEM 2026: Guia com Plataformas e Dicas Gratuitas",
+          "description": "Descubra as melhores plataformas gratuitas e pagas para estudar ENEM 2026, de Khan Academy a questões de anos anteriores.",
+          "date": "2026-07-11",
+          "readTime": 10,
+          "category": "Estratégias"
+        }
+      ]
+    },
+    {
+      "name": "redação",
+      "postCount": 37,
+      "pillarPage": {
+        "slug": "repertorio-sociocultural-redacao-enem",
+        "title": "Repertório Sociocultural: Guia Completo para a Redação do ENEM",
+        "description": "Repertório sociocultural pronto para a redação do ENEM: tipos, exemplos por tema e como aplicar sem só citar a fonte. Em 2025, só 10 redações tiraram nota 1000.",
+        "date": "2026-07-16",
+        "readTime": 10,
+        "category": "Redação"
+      },
+      "examples": [
+        {
+          "slug": "repertorio-sociocultural-redacao-enem",
+          "title": "Repertório Sociocultural: Guia Completo para a Redação do ENEM",
+          "description": "Repertório sociocultural pronto para a redação do ENEM: tipos, exemplos por tema e como aplicar sem só citar a fonte. Em 2025, só 10 redações tiraram nota 1000.",
+          "date": "2026-07-16",
+          "readTime": 10,
+          "category": "Redação"
+        },
+        {
+          "slug": "novo-enem-2024-formato",
+          "title": "O Novo ENEM 2024+: Guia Completo sobre Formato, Estrutura e Mudanças",
+          "description": "ENEM 2024 mudou estrutura e formato. Conheça nova prova, competências avaliadas e dicas. 2,1M participam com novo modelo.",
+          "date": "2026-07-11",
+          "readTime": 14,
+          "category": "Estratégias"
+        },
+        {
+          "slug": "mapas-mentais-estudar-enem",
+          "title": "Mapas Mentais: Como Visualizar Tudo o Que Você Aprende",
+          "description": "Aprenda a estruturar mapas mentais para conectar conceitos do ENEM, quando usar em vez de anotações lineares e os erros mais comuns ao criar um mapa mental.",
+          "date": "2026-07-11",
+          "readTime": 11,
+          "category": "Estratégias"
+        }
+      ]
+    },
+    {
+      "name": "nota",
+      "postCount": 102,
+      "pillarPage": {
+        "slug": "usar-nota-enem-universidade",
+        "title": "Como Usar Sua Nota ENEM em Universidades 2026: Guia Completo",
+        "description": "Como usar sua nota do ENEM no Sisu, ProUni e Fies: prazos, nota mínima, como escolher entre os programas e o que fazer após receber o resultado.",
+        "date": "2026-07-11",
+        "readTime": 12,
+        "category": "Estratégias"
+      },
+      "examples": [
+        {
+          "slug": "usar-nota-enem-universidade",
+          "title": "Como Usar Sua Nota ENEM em Universidades 2026: Guia Completo",
+          "description": "Como usar sua nota do ENEM no Sisu, ProUni e Fies: prazos, nota mínima, como escolher entre os programas e o que fazer após receber o resultado.",
+          "date": "2026-07-11",
+          "readTime": 12,
+          "category": "Estratégias"
+        },
+        {
+          "slug": "metodo-cornell-anotacoes-enem",
+          "title": "Método Cornell: A Melhor Forma de Organizar Seus Cadernos",
+          "description": "Aprenda o Método Cornell para organizar anotações em 3 zonas (notas, palavras-chave, resumo) e transformar cadernos bagunçados em ferramenta de revisão eficaz.",
+          "date": "2026-07-11",
+          "readTime": 13,
+          "category": "Estratégias"
+        },
+        {
+          "slug": "mapas-mentais-estudar-enem",
+          "title": "Mapas Mentais: Como Visualizar Tudo o Que Você Aprende",
+          "description": "Aprenda a estruturar mapas mentais para conectar conceitos do ENEM, quando usar em vez de anotações lineares e os erros mais comuns ao criar um mapa mental.",
+          "date": "2026-07-11",
+          "readTime": 11,
+          "category": "Estratégias"
+        }
+      ]
+    },
+    {
+      "name": "linguagens",
+      "postCount": 42,
+      "pillarPage": {
+        "slug": "repertorio-sociocultural-redacao-enem",
+        "title": "Repertório Sociocultural: Guia Completo para a Redação do ENEM",
+        "description": "Repertório sociocultural pronto para a redação do ENEM: tipos, exemplos por tema e como aplicar sem só citar a fonte. Em 2025, só 10 redações tiraram nota 1000.",
+        "date": "2026-07-16",
+        "readTime": 10,
+        "category": "Redação"
+      },
+      "examples": [
+        {
+          "slug": "repertorio-sociocultural-redacao-enem",
+          "title": "Repertório Sociocultural: Guia Completo para a Redação do ENEM",
+          "description": "Repertório sociocultural pronto para a redação do ENEM: tipos, exemplos por tema e como aplicar sem só citar a fonte. Em 2025, só 10 redações tiraram nota 1000.",
+          "date": "2026-07-16",
+          "readTime": 10,
+          "category": "Redação"
+        },
+        {
+          "slug": "redacao-competencia-1-gramatica-enem",
+          "title": "Redação ENEM Competência 1: Como Não Perder Pontos em Gramática e Norma Culta",
+          "description": "Domine a Competência 1 da redação ENEM (gramática e norma culta). Entenda os 10 erros que tiram 80 pontos. Score máximo começa aqui.",
+          "date": "2026-07-11",
+          "readTime": 10,
+          "category": "Redação"
+        },
+        {
+          "slug": "redacao-competencia-5-proposta-intervencao-enem",
+          "title": "Competência 5 da Redação ENEM: Proposta de Intervenção com Ação, Objetivo e Finalidade",
+          "description": "Redação ENEM Competência 5: como escrever uma proposta de intervenção que ganhe 200 pontos. 5 critérios que avaliam sua solução. Score máximo.",
+          "date": "2026-07-11",
+          "readTime": 10,
+          "category": "Redação"
+        }
+      ]
+    },
+    {
+      "name": "natureza",
+      "postCount": 37,
+      "pillarPage": {
+        "slug": "genetica-mendeliana-enem",
+        "title": "Genética Mendeliana no ENEM: Leis de Mendel, Herança Dominante e Recessiva, Cruzamentos Práticos",
+        "description": "Genética ENEM: domine leis de Mendel, dominância, recessividade e probabilidade. Cruzamentos e proporções.",
+        "date": "2026-07-11",
+        "readTime": 10,
+        "category": "Por Matéria"
+      },
+      "examples": [
+        {
+          "slug": "genetica-mendeliana-enem",
+          "title": "Genética Mendeliana no ENEM: Leis de Mendel, Herança Dominante e Recessiva, Cruzamentos Práticos",
+          "description": "Genética ENEM: domine leis de Mendel, dominância, recessividade e probabilidade. Cruzamentos e proporções.",
+          "date": "2026-07-11",
+          "readTime": 10,
+          "category": "Por Matéria"
+        },
+        {
+          "slug": "ecologia-teias-alimentares-enem",
+          "title": "Ecologia no ENEM: Cadeias e Teias Alimentares, Fluxo de Energia e Níveis Tróficos",
+          "description": "Ecologia ENEM: teias alimentares, cadeias, fluxo de energia. Produtores, consumidores, decompositores. Conceitos essenciais.",
+          "date": "2026-07-11",
+          "readTime": 12,
+          "category": "Por Matéria"
+        },
+        {
+          "slug": "mecanica-fisica-enem",
+          "title": "Mecânica Clássica no ENEM: Leis de Newton, Movimento, Força e Aceleração Prática",
+          "description": "Mecânica ENEM: leis de Newton, movimento, força, aceleração. Cinemática e dinâmica. Fórmulas essenciais.",
+          "date": "2026-07-11",
+          "readTime": 12,
+          "category": "Por Matéria"
+        }
+      ]
+    },
+    {
+      "name": "humanas",
+      "postCount": 35,
+      "pillarPage": {
+        "slug": "repertorio-sociocultural-redacao-enem",
+        "title": "Repertório Sociocultural: Guia Completo para a Redação do ENEM",
+        "description": "Repertório sociocultural pronto para a redação do ENEM: tipos, exemplos por tema e como aplicar sem só citar a fonte. Em 2025, só 10 redações tiraram nota 1000.",
+        "date": "2026-07-16",
+        "readTime": 10,
+        "category": "Redação"
+      },
+      "examples": [
+        {
+          "slug": "repertorio-sociocultural-redacao-enem",
+          "title": "Repertório Sociocultural: Guia Completo para a Redação do ENEM",
+          "description": "Repertório sociocultural pronto para a redação do ENEM: tipos, exemplos por tema e como aplicar sem só citar a fonte. Em 2025, só 10 redações tiraram nota 1000.",
+          "date": "2026-07-16",
+          "readTime": 10,
+          "category": "Redação"
+        },
+        {
+          "slug": "revolucao-francesa-enem",
+          "title": "Revolução Francesa 1789 no ENEM: Contexto, Ideais Iluministas, Direitos Humanos e Impacto Histórico",
+          "description": "Revolução Francesa ENEM 1789: causas econômicas, ideais iluministas, Declaração Direitos. Contexto e consequências.",
+          "date": "2026-07-11",
+          "readTime": 10,
+          "category": "Estratégias"
+        },
+        {
+          "slug": "adaptacoes-prova-deficiente-enem",
+          "title": "Adaptações Específicas na Prova para Pessoa com Deficiência",
+          "description": "Pessoa com deficiência tem direito a tempo extra, prova ampliada ou braile. Conheça cada adaptação disponível e como solicitar.",
+          "date": "2026-07-09",
+          "readTime": 13,
+          "category": "Estratégias"
+        }
+      ]
+    }
+  ],
+  "topPosts": [
+    {
+      "slug": "gabarito-enem-2024",
+      "title": "Gabarito ENEM 2024 — Todas as Disciplinas com Resolução Comentada",
+      "description": "Gabarito oficial ENEM 2024 com análise de 16 anos de dados. Matemática, Natureza, Humanas e Linguagens. Veja os temas mais cobrados e pratique 2.900+ questões reais.",
+      "date": "2024-11-10",
+      "readTime": 14,
+      "category": "Gabarito"
+    },
+    {
+      "slug": "gabarito-enem-2023",
+      "title": "Gabarito ENEM 2023 — Questões e Resoluções por Disciplina",
+      "description": "Gabarito do ENEM 2023 com resolução comentada. Acesse todas as questões de Matemática, Ciências da Natureza, Humanas e Linguagens.",
+      "date": "2023-11-12",
+      "readTime": 14,
+      "category": "Gabarito"
+    },
+    {
+      "slug": "questoes-matematica-enem-2023",
+      "title": "Questões de Matemática ENEM — 800+ Exercícios Resolvidos (2009-2024)",
+      "description": "Banco com 800+ questões de Matemática do ENEM com resolução comentada. Temas mais cobrados nos últimos 16 anos. Pratique grátis.",
+      "date": "2023-11-15",
+      "readTime": 10,
+      "category": "Por Matéria"
+    },
+    {
+      "slug": "questoes-matematica-enem-2024",
+      "title": "Questões de Matemática ENEM 2024 — Gabarito e Análise",
+      "description": "Questões de Matemática do ENEM 2024 com gabarito oficial. Resolução comentada e análise dos temas mais cobrados nas duas aplicações. Acesse grátis.",
+      "date": "2024-11-13",
+      "readTime": 12,
+      "category": "Por Matéria"
+    },
+    {
+      "slug": "como-passar-no-enem",
+      "title": "Como Passar no ENEM 2026 — Guia Estruturado (12 Semanas de Dados Reais)",
+      "description": "Estratégia de 12 semanas para passar no ENEM. Análise real de 16 anos de provas. Timeline realista, distribuição de tempo por disciplina, e prática estruturada.",
+      "date": "2026-01-10",
+      "readTime": 12,
+      "category": "Estratégias"
+    },
+    {
+      "slug": "simulado-enem-gratis",
+      "title": "Simulado ENEM Grátis — Pratique com 2.900+ Questões Reais",
+      "description": "Simulado ENEM completo grátis: 45 questões + redação. Usa banco real de 2.900+ questões (2009-2024). Nota TRI estimada, análise por disciplina, veja onde melhorar.",
+      "date": "2026-02-01",
+      "readTime": 13,
+      "category": "Questões"
+    },
+    {
+      "slug": "redacao-enem-tema",
+      "title": "Redação ENEM 2026 — Guia Completo para 1000 Pontos (Análise de 16 Anos)",
+      "description": "Guia completo para tirar 1000 pontos na redação do ENEM 2026. Análise de 16 anos de redações aprovadas, as 5 competências explicadas, e prática com feedback.",
+      "date": "2026-02-15",
+      "readTime": 11,
+      "category": "Redação"
+    },
+    {
+      "slug": "dicas-enem-2025",
+      "title": "10 Dicas Comprovadas para ENEM 2026 (Baseado em 4,3M Candidatos)",
+      "description": "10 estratégias que funcionam baseadas em 16 anos de dados. Como 750+ candidatos estudam. Reduz tempo de estudo em 40%. Aumenta nota em 100+ pontos.",
+      "date": "2026-01-20",
+      "readTime": 12,
+      "category": "Como Funciona"
+    },
+    {
+      "slug": "questoes-ciencias-natureza-enem",
+      "title": "Questões de Ciências da Natureza ENEM — Os Temas Mais",
+      "description": "Guia completo de Ciências da Natureza no ENEM: Física, Química e Biologia. Temas prioritários, estratégia de resolução e questões para praticar. Acesse grátis.",
+      "date": "2026-02-10",
+      "readTime": 10,
+      "category": "Por Matéria"
+    },
+    {
+      "slug": "questoes-ciencias-humanas-enem",
+      "title": "Questões de Ciências Humanas ENEM — Estratégia e Temas",
+      "description": "Ciências Humanas no ENEM: o que cai em História, Geografia, Filosofia e Sociologia. Temas mais cobrados de 2009 a 2024.",
+      "date": "2026-02-08",
+      "readTime": 14,
+      "category": "Por Matéria"
+    },
+    {
+      "slug": "cronograma-estudos-enem-2025",
+      "title": "Cronograma ENEM 2026 — 12 Semanas Estruturadas (Com Dados Reais)",
+      "description": "Cronograma realista de 12 semanas para ENEM 2026. Baseado em 4.3M candidatos. Horas por semana, distribuição por disciplina, e checkpoints de progresso.",
+      "date": "2026-01-15",
+      "readTime": 10,
+      "category": "Planejamento"
+    },
+    {
+      "slug": "como-calcular-nota-enem",
+      "title": "Como Calcular Sua Nota do ENEM — Fórmula TRI Explicada",
+      "description": "Calculadora e fórmula para calcular sua nota do ENEM baseado na TRI. Simule diferentes resultados e veja em qual universidade você consegue entrar.",
+      "date": "2026-01-25",
+      "readTime": 10,
+      "category": "Como Funciona"
+    },
+    {
+      "slug": "questoes-fisica-enem",
+      "title": "Questões de Física no ENEM — Os 10 Temas Mais Cobrados",
+      "description": "Os 10 temas de Física mais cobrados no ENEM de 2009 a 2024. Estratégia, exemplos de questões e como resolver sem decorar fórmulas.",
+      "date": "2026-02-20",
+      "readTime": 13,
+      "category": "Por Matéria"
+    },
+    {
+      "slug": "quanto-tempo-estudar-para-o-enem",
+      "title": "Quanto Tempo Estudar para o ENEM? A Resposta Honesta",
+      "description": "Quanto tempo de estudo é necessário para passar no ENEM? A resposta depende de onde você está agora e onde quer chegar. Veja como calcular o seu.",
+      "date": "2026-01-30",
+      "readTime": 10,
+      "category": "Planejamento"
+    },
+    {
+      "slug": "questoes-linguagens-enem",
+      "title": "Questões de Linguagens ENEM — Português, Literatura e Idiomas",
+      "description": "Guia de Linguagens no ENEM: interpretação textual, gramática contextualizada, literatura e inglês/espanhol. Temas mais cobrados de 2009 a 2024. Acesse grátis.",
+      "date": "2026-02-05",
+      "readTime": 10,
+      "category": "Questões"
+    }
+  ],
+  "linkingGraph": {
+    "gabarito-enem-2024": [
+      "questoes-linguagens-enem-2023-resolvidas",
+      "questoes-matematica-enem-2023-resolvidas",
+      "questoes-ciencias-humanas-enem-2023-resolvidas",
+      "questoes-ciencias-natureza-enem-2023-resolvidas",
+      "juros-compostos-enem"
+    ],
+    "gabarito-enem-2023": [
+      "questoes-linguagens-enem-2023-resolvidas",
+      "questoes-matematica-enem-2023-resolvidas",
+      "questoes-ciencias-humanas-enem-2023-resolvidas",
+      "questoes-ciencias-natureza-enem-2023-resolvidas",
+      "juros-compostos-enem"
+    ],
+    "questoes-matematica-enem-2023": [
+      "questoes-linguagens-enem-2023-resolvidas",
+      "questoes-matematica-enem-2023-resolvidas",
+      "questoes-ciencias-humanas-enem-2023-resolvidas",
+      "questoes-ciencias-natureza-enem-2023-resolvidas",
+      "probabilidade-enem"
+    ],
+    "questoes-matematica-enem-2024": [
+      "questoes-linguagens-enem-2023-resolvidas",
+      "questoes-matematica-enem-2023-resolvidas",
+      "questoes-ciencias-humanas-enem-2023-resolvidas",
+      "questoes-ciencias-natureza-enem-2023-resolvidas",
+      "juros-compostos-enem"
+    ],
+    "como-passar-no-enem": [
+      "cronograma-oficial-enem-2026",
+      "repertorio-sociocultural-redacao-enem",
+      "usar-nota-enem-universidade",
+      "novo-enem-2024-formato",
+      "mapas-mentais-estudar-enem"
+    ],
+    "simulado-enem-gratis": [
+      "questoes-linguagens-enem-2023-resolvidas",
+      "usar-nota-enem-universidade",
+      "repertorio-sociocultural-redacao-enem",
+      "questoes-ciencias-humanas-enem-2023-resolvidas",
+      "questoes-ciencias-natureza-enem-2023-resolvidas"
+    ],
+    "redacao-enem-tema": [
+      "repertorio-sociocultural-redacao-enem",
+      "cronograma-oficial-enem-2026",
+      "novo-enem-2024-formato",
+      "redacao-competencia-1-gramatica-enem",
+      "redacao-competencia-5-proposta-intervencao-enem"
+    ],
+    "dicas-enem-2025": [
+      "cronograma-oficial-enem-2026",
+      "usar-nota-enem-universidade",
+      "quando-sai-resultado-enem-2026",
+      "metodo-cornell-anotacoes-enem",
+      "melhores-recursos-estudar-enem"
+    ],
+    "questoes-ciencias-natureza-enem": [
+      "genetica-mendeliana-enem",
+      "questoes-linguagens-enem-2023-resolvidas",
+      "cronograma-oficial-enem-2026",
+      "ecologia-teias-alimentares-enem",
+      "mecanica-fisica-enem"
+    ],
+    "questoes-ciencias-humanas-enem": [
+      "repertorio-sociocultural-redacao-enem",
+      "cronograma-oficial-enem-2026",
+      "questoes-linguagens-enem-2023-resolvidas",
+      "revolucao-francesa-enem",
+      "adaptacoes-prova-deficiente-enem"
+    ],
+    "cronograma-estudos-enem-2025": [
+      "repertorio-sociocultural-redacao-enem",
+      "cronograma-oficial-enem-2026",
+      "usar-nota-enem-universidade",
+      "novo-enem-2024-formato",
+      "mapas-mentais-estudar-enem"
+    ],
+    "como-calcular-nota-enem": [
+      "usar-nota-enem-universidade",
+      "metodo-cornell-anotacoes-enem",
+      "mapas-mentais-estudar-enem",
+      "redacao-competencia-1-gramatica-enem",
+      "redacao-competencia-5-proposta-intervencao-enem"
+    ],
+    "questoes-fisica-enem": [
+      "cronograma-oficial-enem-2026",
+      "genetica-mendeliana-enem",
+      "questoes-linguagens-enem-2023-resolvidas",
+      "quando-sai-resultado-enem-2026",
+      "melhores-recursos-estudar-enem"
+    ],
+    "quanto-tempo-estudar-para-o-enem": [
+      "cronograma-oficial-enem-2026",
+      "quando-sai-resultado-enem-2026",
+      "melhores-recursos-estudar-enem",
+      "dia-enem-dicas-preparacao",
+      "usar-nota-enem-universidade"
+    ],
+    "questoes-linguagens-enem": [
+      "repertorio-sociocultural-redacao-enem",
+      "questoes-linguagens-enem-2023-resolvidas",
+      "redacao-competencia-1-gramatica-enem",
+      "redacao-competencia-5-proposta-intervencao-enem",
+      "quantas-questoes-tem-o-enem"
+    ],
+    "como-estudar-para-o-enem": [
+      "cronograma-oficial-enem-2026",
+      "usar-nota-enem-universidade",
+      "questoes-linguagens-enem-2023-resolvidas",
+      "melhores-recursos-estudar-enem",
+      "metodo-cornell-anotacoes-enem"
+    ],
+    "nota-de-corte-medicina-enem": [
+      "usar-nota-enem-universidade",
+      "metodo-cornell-anotacoes-enem",
+      "mapas-mentais-estudar-enem",
+      "redacao-competencia-1-gramatica-enem",
+      "redacao-competencia-5-proposta-intervencao-enem"
+    ],
+    "tri-enem-como-funciona": [
+      "usar-nota-enem-universidade",
+      "metodo-cornell-anotacoes-enem",
+      "mapas-mentais-estudar-enem",
+      "redacao-competencia-1-gramatica-enem",
+      "redacao-competencia-5-proposta-intervencao-enem"
+    ],
+    "redacao-enem-como-tirar-1000": [
+      "repertorio-sociocultural-redacao-enem",
+      "usar-nota-enem-universidade",
+      "redacao-competencia-1-gramatica-enem",
+      "redacao-competencia-5-proposta-intervencao-enem",
+      "novo-enem-2024-formato"
+    ],
+    "enem-2026-o-que-estudar": [
+      "usar-nota-enem-universidade",
+      "metodo-cornell-anotacoes-enem",
+      "mapas-mentais-estudar-enem",
+      "redacao-competencia-1-gramatica-enem",
+      "redacao-competencia-5-proposta-intervencao-enem"
+    ],
+    "sisu-2026-como-funciona": [
+      "cronograma-oficial-enem-2026",
+      "usar-nota-enem-universidade",
+      "quando-sai-resultado-enem-2026",
+      "metodo-cornell-anotacoes-enem",
+      "melhores-recursos-estudar-enem"
+    ],
+    "ciencias-humanas-enem-o-que-cai": [
+      "repertorio-sociocultural-redacao-enem",
+      "cronograma-oficial-enem-2026",
+      "revolucao-francesa-enem",
+      "adaptacoes-prova-deficiente-enem",
+      "questoes-historia-que-mais-caem"
+    ],
+    "matematica-enem-dicas-estrategias": [
+      "cronograma-oficial-enem-2026",
+      "questoes-linguagens-enem-2023-resolvidas",
+      "questoes-matematica-enem-2023-resolvidas",
+      "quando-sai-resultado-enem-2026",
+      "questoes-ciencias-humanas-enem-2023-resolvidas"
+    ],
+    "fisica-enem-o-que-cai": [
+      "genetica-mendeliana-enem",
+      "cronograma-oficial-enem-2026",
+      "usar-nota-enem-universidade",
+      "ecologia-teias-alimentares-enem",
+      "mecanica-fisica-enem"
+    ],
+    "quimica-enem-o-que-cai": [
+      "cronograma-oficial-enem-2026",
+      "genetica-mendeliana-enem",
+      "usar-nota-enem-universidade",
+      "quando-sai-resultado-enem-2026",
+      "ecologia-teias-alimentares-enem"
+    ],
+    "biologia-enem-o-que-cai": [
+      "genetica-mendeliana-enem",
+      "cronograma-oficial-enem-2026",
+      "ecologia-teias-alimentares-enem",
+      "mecanica-fisica-enem",
+      "questoes-biologia-que-mais-caem-enem"
+    ],
+    "historia-enem-o-que-cai": [
+      "cronograma-oficial-enem-2026",
+      "repertorio-sociocultural-redacao-enem",
+      "quando-sai-resultado-enem-2026",
+      "melhores-recursos-estudar-enem",
+      "revolucao-francesa-enem"
+    ],
+    "geografia-enem-o-que-cai": [
+      "repertorio-sociocultural-redacao-enem",
+      "cronograma-oficial-enem-2026",
+      "questoes-linguagens-enem-2023-resolvidas",
+      "revolucao-francesa-enem",
+      "adaptacoes-prova-deficiente-enem"
+    ],
+    "nota-de-corte-direito-enem": [
+      "usar-nota-enem-universidade",
+      "repertorio-sociocultural-redacao-enem",
+      "metodo-cornell-anotacoes-enem",
+      "mapas-mentais-estudar-enem",
+      "redacao-competencia-1-gramatica-enem"
+    ],
+    "prouni-2026-como-funciona": [
+      "repertorio-sociocultural-redacao-enem",
+      "usar-nota-enem-universidade",
+      "revolucao-francesa-enem",
+      "deficiente-enem-direitos-recursos",
+      "adaptacoes-prova-deficiente-enem"
+    ],
+    "ingles-enem-dicas": [
+      "cronograma-oficial-enem-2026",
+      "repertorio-sociocultural-redacao-enem",
+      "quando-sai-resultado-enem-2026",
+      "melhores-recursos-estudar-enem",
+      "dia-enem-dicas-preparacao"
+    ],
+    "enem-segunda-chance": [
+      "cronograma-oficial-enem-2026",
+      "usar-nota-enem-universidade",
+      "quando-sai-resultado-enem-2026",
+      "metodo-cornell-anotacoes-enem",
+      "melhores-recursos-estudar-enem"
+    ],
+    "redacao-enem-competencias": [
+      "repertorio-sociocultural-redacao-enem",
+      "usar-nota-enem-universidade",
+      "redacao-competencia-1-gramatica-enem",
+      "redacao-competencia-5-proposta-intervencao-enem",
+      "novo-enem-2024-formato"
+    ],
+    "filosofia-sociologia-enem": [
+      "repertorio-sociocultural-redacao-enem",
+      "cronograma-oficial-enem-2026",
+      "revolucao-francesa-enem",
+      "adaptacoes-prova-deficiente-enem",
+      "questoes-historia-que-mais-caem"
+    ],
+    "enem-ppcs-pessoas-com-deficiencia": [
+      "cronograma-oficial-enem-2026",
+      "quando-sai-resultado-enem-2026",
+      "melhores-recursos-estudar-enem",
+      "dia-enem-dicas-preparacao",
+      "usar-nota-enem-universidade"
+    ],
+    "como-estudar-ciencias-humanas-enem": [
+      "repertorio-sociocultural-redacao-enem",
+      "cronograma-oficial-enem-2026",
+      "revolucao-francesa-enem",
+      "adaptacoes-prova-deficiente-enem",
+      "questoes-historia-que-mais-caem"
+    ],
+    "como-estudar-ciencias-natureza-enem": [
+      "genetica-mendeliana-enem",
+      "cronograma-oficial-enem-2026",
+      "questoes-linguagens-enem-2023-resolvidas",
+      "ecologia-teias-alimentares-enem",
+      "mecanica-fisica-enem"
+    ],
+    "nota-de-corte-psicologia-enem": [
+      "usar-nota-enem-universidade",
+      "metodo-cornell-anotacoes-enem",
+      "mapas-mentais-estudar-enem",
+      "redacao-competencia-1-gramatica-enem",
+      "redacao-competencia-5-proposta-intervencao-enem"
+    ],
+    "melhor-app-estudar-enem-gratis": [
+      "questoes-linguagens-enem-2023-resolvidas",
+      "questoes-ciencias-humanas-enem-2023-resolvidas",
+      "questoes-ciencias-natureza-enem-2023-resolvidas",
+      "questoes-matematica-enem-2023-resolvidas",
+      "melhores-recursos-estudar-enem"
+    ],
+    "alternativa-descomplica-gratuita": [
+      "questoes-linguagens-enem-2023-resolvidas",
+      "questoes-ciencias-humanas-enem-2023-resolvidas",
+      "questoes-ciencias-natureza-enem-2023-resolvidas",
+      "questoes-matematica-enem-2023-resolvidas",
+      "melhores-recursos-estudar-enem"
+    ],
+    "questoes-enem-online-gratis": [
+      "questoes-linguagens-enem-2023-resolvidas",
+      "questoes-ciencias-humanas-enem-2023-resolvidas",
+      "questoes-ciencias-natureza-enem-2023-resolvidas",
+      "questoes-matematica-enem-2023-resolvidas",
+      "melhores-recursos-estudar-enem"
+    ],
+    "gabarito-enem-2024-matematica": [
+      "questoes-linguagens-enem-2023-resolvidas",
+      "questoes-matematica-enem-2023-resolvidas",
+      "questoes-ciencias-humanas-enem-2023-resolvidas",
+      "questoes-ciencias-natureza-enem-2023-resolvidas",
+      "juros-compostos-enem"
+    ],
+    "gabarito-enem-2023-matematica": [
+      "questoes-linguagens-enem-2023-resolvidas",
+      "questoes-matematica-enem-2023-resolvidas",
+      "questoes-ciencias-humanas-enem-2023-resolvidas",
+      "questoes-ciencias-natureza-enem-2023-resolvidas",
+      "juros-compostos-enem"
+    ],
+    "gabarito-enem-2022-matematica": [
+      "questoes-linguagens-enem-2023-resolvidas",
+      "questoes-matematica-enem-2023-resolvidas",
+      "questoes-ciencias-humanas-enem-2023-resolvidas",
+      "questoes-ciencias-natureza-enem-2023-resolvidas",
+      "juros-compostos-enem"
+    ],
+    "gabarito-enem-2021-matematica": [
+      "questoes-linguagens-enem-2023-resolvidas",
+      "questoes-matematica-enem-2023-resolvidas",
+      "questoes-ciencias-humanas-enem-2023-resolvidas",
+      "questoes-ciencias-natureza-enem-2023-resolvidas",
+      "juros-compostos-enem"
+    ],
+    "gabarito-enem-2020-matematica": [
+      "questoes-linguagens-enem-2023-resolvidas",
+      "questoes-matematica-enem-2023-resolvidas",
+      "questoes-ciencias-humanas-enem-2023-resolvidas",
+      "questoes-ciencias-natureza-enem-2023-resolvidas",
+      "juros-compostos-enem"
+    ],
+    "gabarito-enem-2019-matematica": [
+      "questoes-linguagens-enem-2023-resolvidas",
+      "questoes-matematica-enem-2023-resolvidas",
+      "questoes-ciencias-humanas-enem-2023-resolvidas",
+      "questoes-ciencias-natureza-enem-2023-resolvidas",
+      "juros-compostos-enem"
+    ],
+    "gabarito-enem-2018-matematica": [
+      "questoes-linguagens-enem-2023-resolvidas",
+      "questoes-matematica-enem-2023-resolvidas",
+      "questoes-ciencias-humanas-enem-2023-resolvidas",
+      "questoes-ciencias-natureza-enem-2023-resolvidas",
+      "juros-compostos-enem"
+    ],
+    "gabarito-enem-2017-matematica": [
+      "questoes-linguagens-enem-2023-resolvidas",
+      "questoes-matematica-enem-2023-resolvidas",
+      "questoes-ciencias-humanas-enem-2023-resolvidas",
+      "questoes-ciencias-natureza-enem-2023-resolvidas",
+      "juros-compostos-enem"
+    ],
+    "gabarito-enem-2016-matematica": [
+      "questoes-linguagens-enem-2023-resolvidas",
+      "questoes-matematica-enem-2023-resolvidas",
+      "questoes-ciencias-humanas-enem-2023-resolvidas",
+      "questoes-ciencias-natureza-enem-2023-resolvidas",
+      "juros-compostos-enem"
+    ]
+  }
+}

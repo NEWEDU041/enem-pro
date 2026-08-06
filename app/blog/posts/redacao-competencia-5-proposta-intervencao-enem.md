@@ -45,3 +45,9 @@ R: Não recomendado. Focar em uma ação com detalhes profundos rende uma nota b
 
 **P: Como ligar a proposta com o tema da redação?**
 R: A proposta deve resolver o problema identificado na análise (argumentação). Se tema é "impacto das redes sociais na saúde mental", proposta deve solucionar este problema específico. Isto demonstra leitura completa e coerência argumentativa.
+
+## Artigos Relacionados
+
+- [Simulado ENEM Grátis — Pratique com 2.900+ Questões Reais](/blog/simulado-enem-gratis)
+- [Redação ENEM 2026 — Guia Completo para 1000 Pontos (Análise de 16 Anos)](/blog/redacao-enem-tema)
+- [Questões de Linguagens ENEM — Português, Literatura e Idiomas](/blog/questoes-linguagens-enem)

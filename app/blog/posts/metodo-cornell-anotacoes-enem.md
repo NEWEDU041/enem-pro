@@ -89,6 +89,13 @@ A4 é padrão. Se achar muito grande, use meia página A4 (A5).
 
 Funciona, mas menos. Revisar logo depois da aula tende a aumentar bastante a retenção em comparação a revisar sem prazo definido.
 
+
+## Artigos Relacionados
+
+- [Como Passar no ENEM 2026 — Guia Estruturado (12 Semanas de Dados Reais)](/blog/como-passar-no-enem)
+- [Redação ENEM 2026 — Guia Completo para 1000 Pontos (Análise de 16 Anos)](/blog/redacao-enem-tema)
+- [10 Dicas Comprovadas para ENEM 2026 (Baseado em 4,3M Candidatos)](/blog/dicas-enem-2025)
+
 ## Conclusão: Cornell é Investimento que Vale
 
 Se você estuda há anos com anotações lineares, experimentar Cornell por 2 semanas (5-6 disciplinas) deve converter você.

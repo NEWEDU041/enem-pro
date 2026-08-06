@@ -47,3 +47,9 @@ R: Estão separados. Decompositores não comem vivos; comem mortos. Sua função
 
 **P: Qual é a diferença entre fluxo de energia e ciclo de nutrientes?**
 R: Fluxo é unidirecional (entra e não volta: energy apenas passa). Ciclo é cíclico (nutrientes circulam: C, N, P voltam ao solo). No ENEM, ambas aparecem. Energia flui; nutrientes reciclam.
+
+## Artigos Relacionados
+
+- [Questões de Ciências da Natureza ENEM — Os Temas Mais](/blog/questoes-ciencias-natureza-enem)
+- [Questões de Física no ENEM — Os 10 Temas Mais Cobrados](/blog/questoes-fisica-enem)
+- [Física no ENEM — O que Cai, Temas e Estratégia 2026](/blog/fisica-enem-o-que-cai)

@@ -83,6 +83,13 @@ Refaça a mesma questão, mas "simplifique" o contexto mentalmente. Se você con
 
 Não apenas datas e fatos. Deva estudar conceitos: o que causou revolução? Como estruturas sociais mudam? Como ideias transformam sociedades? Questões de história cobram análise, não memorização.
 
+
+## Artigos Relacionados
+
+- [Gabarito ENEM 2024 — Todas as Disciplinas com Resolução Comentada](/blog/gabarito-enem-2024)
+- [Gabarito ENEM 2023 — Questões e Resoluções por Disciplina](/blog/gabarito-enem-2023)
+- [Questões de Matemática ENEM — 800+ Exercícios Resolvidos (2009-2024)](/blog/questoes-matematica-enem-2023)
+
 ## Conclusão
 
 ENEM cobra aplicação, não memorização. Questões contextualizadas são a regra, não exceção. Preparação eficiente significa: aprender conceito → praticar em aplicações reais → reconhecer padrão → conseguir resolver contextos novos.

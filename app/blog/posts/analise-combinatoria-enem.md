@@ -53,3 +53,9 @@ R: Sim. Sempre divida por k! depois de calcular arranjo. Uma forma: escreva C(n,
 
 **P: Análise combinatória aparece em qual área da prova?**
 R: Apenas em Matemática. Aparece em algumas questões a cada prova. Raramente aparece na Redação ou outras disciplinas. Dominar bem o tópico ajuda a garantir esses pontos com consistência.
+
+## Artigos Relacionados
+
+- [Como Passar no ENEM 2026 — Guia Estruturado (12 Semanas de Dados Reais)](/blog/como-passar-no-enem)
+- [Redação ENEM 2026 — Guia Completo para 1000 Pontos (Análise de 16 Anos)](/blog/redacao-enem-tema)
+- [10 Dicas Comprovadas para ENEM 2026 (Baseado em 4,3M Candidatos)](/blog/dicas-enem-2025)

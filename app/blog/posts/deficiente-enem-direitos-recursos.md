@@ -91,6 +91,13 @@ Segunda mais comum é prova ampliada. Terceira é intérprete de Libras.
 
 Sim. Se você foi aprovado para tempo extra mas não quer, pode desistir. Mas o objetivo de adaptações é equalizar oportunidades. Se você recusar adaptação que seria benéfica, pode estar prejudicando seu desempenho desnecessariamente.
 
+
+## Artigos Relacionados
+
+- [Questões de Ciências Humanas ENEM — Estratégia e Temas](/blog/questoes-ciencias-humanas-enem)
+- [Ciências Humanas ENEM — O Que Cai Mais e Como Estudar](/blog/ciencias-humanas-enem-o-que-cai)
+- [História no ENEM — O que Cai, Temas e Estratégia 2026](/blog/historia-enem-o-que-cai)
+
 ## Conclusão
 
 Deficiência não impede você de passar no ENEM. Lei de Inclusão existe justamente para garantir que você tenha oportunidade justa. Sua responsabilidade é: diagnosticar-se formalmente, solicitar adaptações no prazo, trazer laudo adequado, preparar-se como qualquer outro candidato.

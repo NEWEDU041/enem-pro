@@ -96,3 +96,9 @@ Cada questão tem uma explicação gerada especificamente para justificar por qu
 
 Sim, o ENEM Pro tem todas as questões de Ciências Humanas do ENEM 2023 (e de 2009 a 2023) organizadas por ano — [veja a lista completa](/questoes/ciencias-humanas/2023).
 
+
+## Artigos Relacionados
+
+- [Gabarito ENEM 2024 — Todas as Disciplinas com Resolução Comentada](/blog/gabarito-enem-2024)
+- [Gabarito ENEM 2023 — Questões e Resoluções por Disciplina](/blog/gabarito-enem-2023)
+- [Questões de Matemática ENEM — 800+ Exercícios Resolvidos (2009-2024)](/blog/questoes-matematica-enem-2023)

@@ -92,6 +92,13 @@ Não. Suas adaptações no ENEM ficam anônimas. Não aparece em certificado. Ap
 
 INEP é responsável por encontrar local que tenha. Você não fica sem prova. Pior caso, você faz prova em outro município. INEP cobre qualquer custo de transporte se necessário.
 
+
+## Artigos Relacionados
+
+- [Questões de Ciências Humanas ENEM — Estratégia e Temas](/blog/questoes-ciencias-humanas-enem)
+- [Ciências Humanas ENEM — O Que Cai Mais e Como Estudar](/blog/ciencias-humanas-enem-o-que-cai)
+- [História no ENEM — O que Cai, Temas e Estratégia 2026](/blog/historia-enem-o-que-cai)
+
 ## Conclusão
 
 Adaptações não são "macetes". São direitos garantidos por lei. Objetivo é você ter oportunidade justa de demonstrar conhecimento, não desvantagem "embutida" na deficiência. Solicite as adaptações que você precisa, sem vergonha. Você merece igualdade de oportunidade.

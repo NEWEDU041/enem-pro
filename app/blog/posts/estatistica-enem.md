@@ -45,3 +45,9 @@ R: Use papel rascunho. Ordene valores em coluna. Marque central com caneta. Leia
 
 **P: Média, mediana, moda podem ser iguais?**
 R: Sim, em distribuição perfeitamente simétrica (ex: {1, 2, 3, 2, 1}). Mas isto é raro no ENEM. Quando aparecem iguais, questão explora entendimento de simetria.
+
+## Artigos Relacionados
+
+- [Gabarito ENEM 2024 — Todas as Disciplinas com Resolução Comentada](/blog/gabarito-enem-2024)
+- [Gabarito ENEM 2023 — Questões e Resoluções por Disciplina](/blog/gabarito-enem-2023)
+- [Questões de Matemática ENEM — 800+ Exercícios Resolvidos (2009-2024)](/blog/questoes-matematica-enem-2023)

@@ -45,3 +45,9 @@ R: Enunciado explica sempre. Se não há símbolo °, é radiano (π múltiplos)
 
 **P: Qual é a sequência para resolver trigonometria: desenho primeiro ou fórmula?**
 R: Desenho primeiro (30 segundos). Depois identifique qual lado é dado, qual é procurado. Depois escolha fórmula.
+
+## Artigos Relacionados
+
+- [Gabarito ENEM 2024 — Todas as Disciplinas com Resolução Comentada](/blog/gabarito-enem-2024)
+- [Gabarito ENEM 2023 — Questões e Resoluções por Disciplina](/blog/gabarito-enem-2023)
+- [Questões de Matemática ENEM — 800+ Exercícios Resolvidos (2009-2024)](/blog/questoes-matematica-enem-2023)
