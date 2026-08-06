@@ -46,14 +46,14 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const corePages: MetadataRoute.Sitemap = [
     { url: base, lastModified: D('2026-07-20'), changeFrequency: 'weekly', priority: 1 },
     { url: `${base}/planos`, lastModified: D('2026-07-20'), changeFrequency: 'monthly', priority: 0.9 },
-    { url: `${base}/gabarito`, lastModified: D('2026-07-20'), changeFrequency: 'yearly', priority: 0.98 },
+    { url: `${base}/gabarito`, lastModified: D('2026-07-20'), changeFrequency: 'yearly', priority: 0.90 }, // Optimized from 0.98
     { url: `${base}/temas-redacao`, lastModified: D('2026-01-01'), changeFrequency: 'yearly', priority: 0.9 },
     { url: `${base}/cronograma`, lastModified: D('2026-07-20'), changeFrequency: 'monthly', priority: 0.85 },
-    { url: `${base}/calcular-nota`, lastModified: D('2026-03-01'), changeFrequency: 'monthly', priority: 0.92 },
+    { url: `${base}/calcular-nota`, lastModified: D('2026-03-01'), changeFrequency: 'monthly', priority: 0.90 }, // Optimized from 0.92
     { url: `${base}/ferramentas`, lastModified: D('2026-06-01'), changeFrequency: 'monthly', priority: 0.88 },
     { url: `${base}/questao-do-dia`, lastModified: D('2026-06-15'), changeFrequency: 'daily', priority: 0.85 },
-    { url: `${base}/questoes`, lastModified: D('2026-07-20'), changeFrequency: 'weekly', priority: 0.85 },
-    { url: `${base}/simulado`, lastModified: D('2026-07-20'), changeFrequency: 'monthly', priority: 0.82 },
+    { url: `${base}/questoes`, lastModified: D('2026-07-20'), changeFrequency: 'weekly', priority: 0.95 }, // Optimized from 0.85
+    { url: `${base}/simulado`, lastModified: D('2026-07-20'), changeFrequency: 'monthly', priority: 0.95 }, // Optimized from 0.82
     { url: `${base}/blog`, lastModified: D('2026-07-20'), changeFrequency: 'weekly', priority: 0.8 },
     { url: `${base}/sobre`, lastModified: D('2026-07-20'), changeFrequency: 'yearly', priority: 0.5 },
     ...MATERIAS_SLUGS.map(slug => ({
@@ -122,12 +122,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   }))
 
   const vsPages: MetadataRoute.Sitemap = [
-    { url: `${base}/vs`, lastModified: D('2026-07-20'), changeFrequency: 'monthly' as const, priority: 0.85 },
+    { url: `${base}/vs`, lastModified: D('2026-07-20'), changeFrequency: 'monthly' as const, priority: 0.80 }, // Optimized from 0.85
     ...VS_SLUGS.map(slug => ({
       url: `${base}/vs/${slug}`,
       lastModified: D('2026-07-20'),
       changeFrequency: 'monthly' as const,
-      priority: 0.8,
+      priority: 0.75,
     })),
   ]
 
