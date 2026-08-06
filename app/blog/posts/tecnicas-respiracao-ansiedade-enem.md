@@ -98,6 +98,13 @@ Tudo bem. Aproximação também funciona. Não precisa ser 4-7-8 exatamente. Pod
 
 Qualquer uma. Mas comece com técnicas mais lentas (4-4-4-4 ou abdominal). Se ficou tonto ou falta ar, stop. Consulte médico.
 
+
+## Artigos Relacionados
+
+- [Como Passar no ENEM 2026 — Guia Estruturado (12 Semanas de Dados Reais)](/blog/como-passar-no-enem)
+- [Redação ENEM 2026 — Guia Completo para 1000 Pontos (Análise de 16 Anos)](/blog/redacao-enem-tema)
+- [10 Dicas Comprovadas para ENEM 2026 (Baseado em 4,3M Candidatos)](/blog/dicas-enem-2025)
+
 ## Conclusão
 
 Técnicas de respiração são ferramenta poderosa e gratuita para controlar ansiedade. Escolha uma, pratique 1 mês, use na prova. A diferença entre candidato que controla ansiedade e que não é 40-50 pontos no final.

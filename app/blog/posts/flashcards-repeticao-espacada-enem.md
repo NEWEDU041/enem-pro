@@ -90,6 +90,13 @@ Digital é superior para spaced repetition porque o algoritmo calcula os interva
 
 Anki permite manter cards indefinidamente em "suspensão" (pausada). Alguns estudantes suspendem quando o intervalo passa de 180 dias (sinal de domínio) e reativam antes de provas de retomada. Não há resposta única; depende do objetivo (manter conhecimento para sempre vs passar em prova específica).
 
+
+## Artigos Relacionados
+
+- [Como Passar no ENEM 2026 — Guia Estruturado (12 Semanas de Dados Reais)](/blog/como-passar-no-enem)
+- [Redação ENEM 2026 — Guia Completo para 1000 Pontos (Análise de 16 Anos)](/blog/redacao-enem-tema)
+- [10 Dicas Comprovadas para ENEM 2026 (Baseado em 4,3M Candidatos)](/blog/dicas-enem-2025)
+
 ## Conclusão: Spaced Repetition é Cheat Code da Memorização
 
 Se você passou a vida inteira revendo tudo de novo toda semana, spaced repetition será uma revelação. O algoritmo faz o trabalho pesado; você só revisa no momento certo.

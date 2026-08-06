@@ -45,3 +45,9 @@ R: Sim. Se há fração, multiplique toda equação pelo denominador comum prime
 
 **P: Equações paramétricas (com incógnita em outro lugar) caem no ENEM?**
 R: Raramente como questão direta. Aparecem em problemas de aplicação ("qual x torna isto verdadeiro?").
+
+## Artigos Relacionados
+
+- [Gabarito ENEM 2024 — Todas as Disciplinas com Resolução Comentada](/blog/gabarito-enem-2024)
+- [Gabarito ENEM 2023 — Questões e Resoluções por Disciplina](/blog/gabarito-enem-2023)
+- [Questões de Matemática ENEM — 800+ Exercícios Resolvidos (2009-2024)](/blog/questoes-matematica-enem-2023)

@@ -104,6 +104,13 @@ Tópicos com hierarquia funcionam melhor para revisão rápida. Prosa funciona m
 
 Um livro de 300 páginas costuma ficar bem resumido em 30-45 páginas. Se ficar muito maior que isso, está inchado.
 
+
+## Artigos Relacionados
+
+- [Como Passar no ENEM 2026 — Guia Estruturado (12 Semanas de Dados Reais)](/blog/como-passar-no-enem)
+- [Redação ENEM 2026 — Guia Completo para 1000 Pontos (Análise de 16 Anos)](/blog/redacao-enem-tema)
+- [10 Dicas Comprovadas para ENEM 2026 (Baseado em 4,3M Candidatos)](/blog/dicas-enem-2025)
+
 ## Conclusão: Resumo é Síntese, Não Compressão
 
 Resumo eficiente exige disciplina: ler completo, atrasar a escrita, hierarquizar rigorosamente, revisar. O retorno é claro: um documento compacto e reutilizável que consolida o aprendizado.

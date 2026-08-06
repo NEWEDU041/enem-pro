@@ -51,3 +51,9 @@ R: Leia o enunciado. Se diz "Juros capitalizados mensalmente", use i mensal e co
 
 **P: Quanto tempo devo gastar resolvendo problemas de juros?**
 R: Cada questão: 4-6 minutos (incluindo leitura e cálculo). Se levar mais, provavelmente está se perdendo em conversão de taxa ou decimal.
+
+## Artigos Relacionados
+
+- [Gabarito ENEM 2024 — Todas as Disciplinas com Resolução Comentada](/blog/gabarito-enem-2024)
+- [Gabarito ENEM 2023 — Questões e Resoluções por Disciplina](/blog/gabarito-enem-2023)
+- [Questões de Matemática ENEM — 800+ Exercícios Resolvidos (2009-2024)](/blog/questoes-matematica-enem-2023)

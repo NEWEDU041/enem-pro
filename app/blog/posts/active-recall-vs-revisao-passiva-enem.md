@@ -83,6 +83,13 @@ Se você acerta, já demonstrou recall. Mas o conceito ainda não está totalmen
 
 Falhar é desconfortável. Mas falhar em estudo (baixo risco) é melhor que falhar em prova (alto risco). Estudantes precisam de um reframing mental: errar durante o estudo é ganho, não fracasso.
 
+
+## Artigos Relacionados
+
+- [Como Passar no ENEM 2026 — Guia Estruturado (12 Semanas de Dados Reais)](/blog/como-passar-no-enem)
+- [Redação ENEM 2026 — Guia Completo para 1000 Pontos (Análise de 16 Anos)](/blog/redacao-enem-tema)
+- [10 Dicas Comprovadas para ENEM 2026 (Baseado em 4,3M Candidatos)](/blog/dicas-enem-2025)
+
 ## Conclusão: Active Recall é Mais Cansativo, Mas Funciona
 
 Revisão passiva é confortável. Seu cérebro evita active recall naturalmente. Se você escolhe conforto agora, paga em desempenho depois.

@@ -102,6 +102,13 @@ Manual: você gerencia as datas (mais propenso a erro). Apps: automatizam o cál
 
 Sim. Um Pomodoro (25 min) é um bom bloco para revisar um lote de cards ou um conceito específico seguindo o calendário espaçado.
 
+
+## Artigos Relacionados
+
+- [Como Passar no ENEM 2026 — Guia Estruturado (12 Semanas de Dados Reais)](/blog/como-passar-no-enem)
+- [Redação ENEM 2026 — Guia Completo para 1000 Pontos (Análise de 16 Anos)](/blog/redacao-enem-tema)
+- [10 Dicas Comprovadas para ENEM 2026 (Baseado em 4,3M Candidatos)](/blog/dicas-enem-2025)
+
 ## Conclusão: Revisão Espaçada é Multiplicador de Retenção
 
 Um calendário simples (1-3-7-14-30 dias) já entrega a maior parte do ganho de retenção que a repetição espaçada promete.

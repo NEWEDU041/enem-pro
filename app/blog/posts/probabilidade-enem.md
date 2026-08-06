@@ -45,3 +45,9 @@ R: Probabilidade é decimal ou fração (0-1). Chance é razão (1 em 6, ou 1:6)
 
 **P: Como diferenciar entre permutação e probabilidade em questões mistas?**
 R: Permutação conta arranjos. Probabilidade calcula chance. Se pergunta "de quantas formas", use permutação/combinação. Se pergunta "qual é a chance/probabilidade", use fórmula de probabilidade.
+
+## Artigos Relacionados
+
+- [Gabarito ENEM 2024 — Todas as Disciplinas com Resolução Comentada](/blog/gabarito-enem-2024)
+- [Gabarito ENEM 2023 — Questões e Resoluções por Disciplina](/blog/gabarito-enem-2023)
+- [Questões de Matemática ENEM — 800+ Exercícios Resolvidos (2009-2024)](/blog/questoes-matematica-enem-2023)

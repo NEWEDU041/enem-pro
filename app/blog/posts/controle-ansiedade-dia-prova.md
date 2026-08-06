@@ -97,6 +97,13 @@ Sim. Você pode ir ao banheiro, beber água. Avisa fiscal. Você perde esse temp
 
 Tremendo, suando, coração acelerado, respiração rápida, mente em branco. Se notar 2+ desses, respire. Não empurre. Pausa de 5 min vale mais que 10 min de pânico.
 
+
+## Artigos Relacionados
+
+- [Como Passar no ENEM 2026 — Guia Estruturado (12 Semanas de Dados Reais)](/blog/como-passar-no-enem)
+- [Redação ENEM 2026 — Guia Completo para 1000 Pontos (Análise de 16 Anos)](/blog/redacao-enem-tema)
+- [10 Dicas Comprovadas para ENEM 2026 (Baseado em 4,3M Candidatos)](/blog/dicas-enem-2025)
+
 ## Conclusão
 
 Controlar ansiedade no dia é skill, não sorte. Técnicas funcionam se praticadas antes. Respiração profunda + pensamento lógico + movimento + foco + auto-compaixão = calmaria mesmo sob pressão.

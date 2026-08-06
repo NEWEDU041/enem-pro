@@ -88,6 +88,13 @@ Sim. Durante a aula, use Cornell (sem grifo). Depois da aula, leia suas notas Co
 
 Grifo é uma ferramenta sua, não para mostrar ao professor. Se o critério de avaliação for pelo grifo, use o método que funciona para você mesmo assim.
 
+
+## Artigos Relacionados
+
+- [Como Passar no ENEM 2026 — Guia Estruturado (12 Semanas de Dados Reais)](/blog/como-passar-no-enem)
+- [Redação ENEM 2026 — Guia Completo para 1000 Pontos (Análise de 16 Anos)](/blog/redacao-enem-tema)
+- [10 Dicas Comprovadas para ENEM 2026 (Baseado em 4,3M Candidatos)](/blog/dicas-enem-2025)
+
 ## Conclusão: Grifo é Índice, Não Estudo
 
 Grifo inteligente, usado com moderação e depois de ler o texto completo, cria um documento eficiente para revisão sem overhead.

@@ -45,3 +45,9 @@ R: Atrito é força que reduz movimento. F atrito = μ × N (μ é coeficiente, 
 
 **P: Trabalho e energia aparecem em mecânica?**
 R: Sim. Trabalho = F × d (força × distância). Energia cinética = m × v² / 2. Estes aparecem em 2-3 questões extras de "energia e trabalho". Dominar F = m × a e cinemática (v, a, t) resolve base; depois aprende trabalho.
+
+## Artigos Relacionados
+
+- [Questões de Ciências da Natureza ENEM — Os Temas Mais](/blog/questoes-ciencias-natureza-enem)
+- [Questões de Física no ENEM — Os 10 Temas Mais Cobrados](/blog/questoes-fisica-enem)
+- [Física no ENEM — O que Cai, Temas e Estratégia 2026](/blog/fisica-enem-o-que-cai)
