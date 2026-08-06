@@ -22,7 +22,7 @@ export default function Reviews() {
                   <span key={j} className="text-yellow-400">★</span>
                 ))}
               </div>
-              <p className="text-zinc-700 leading-relaxed mb-4">"{review.text}"</p>
+              <p className="text-zinc-700 leading-relaxed mb-4">&quot;{review.text}&quot;</p>
               <p className="text-sm font-semibold text-zinc-900">{review.name}</p>
             </div>
           ))}

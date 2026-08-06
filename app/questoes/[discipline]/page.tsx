@@ -359,12 +359,15 @@ function QuestionContent() {
                   </span>
                   <span className="text-sm text-zinc-700 leading-relaxed pt-1 flex-1">
                     {alt.file ? (
-                      <img
-                        src={alt.file}
-                        alt={`Alternativa ${alt.letter}`}
-                        className="max-w-full max-h-40 rounded"
-                        onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none' }}
-                      />
+                      <>
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img
+                          src={alt.file}
+                          alt={`Alternativa ${alt.letter}`}
+                          className="max-w-full max-h-40 rounded"
+                          onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none' }}
+                          />
+                      </>
                     ) : alt.text ? (
                       alt.text
                     ) : (

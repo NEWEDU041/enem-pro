@@ -16,6 +16,7 @@ export default function QuestionText({ text }: { text: string }) {
               if (src.includes('broken-image')) return null
               return (
                 <span key={i} className="block my-2">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img
                     src={src}
                     alt={img[1] || 'imagem da questão'}

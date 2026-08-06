@@ -106,8 +106,9 @@ export async function getGscCoverage(): Promise<GscCoverage> {
     const client = await auth.getClient()
 
     // Get coverage stats
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any, @typescript-eslint/no-unused-vars
     const response = await searchconsole.urlInspection.index.inspect({
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
       auth: client as any,
       requestBody: {
         inspectionUrl: SITE_URL,
@@ -156,12 +157,15 @@ export async function submitUrlToGsc(url: string): Promise<boolean> {
 
     const client = await auth.getClient()
 
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     await searchconsole.urlNotifications.publish({
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
       auth: client as any,
       requestBody: {
         url,
         type: 'URL_UPDATED',
       },
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
     } as any)
 
     console.log(`✅ URL submitted to GSC: ${url}`)
