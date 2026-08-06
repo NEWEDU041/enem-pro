@@ -29,7 +29,7 @@ export async function getInternalLinks(postSlug: string): Promise<InternalLink[]
   return (data || []).map(link => ({
     slug: link.target_slug,
     title: link.target_title,
-    type: link.link_type as any,
+    type: (link.link_type || 'contextual') as 'pillar' | 'primary' | 'secondary' | 'contextual',
     position: link.position,
   }));
 }
