@@ -3,9 +3,17 @@ import Link from 'next/link'
 import { SITE_URL } from '@/lib/site-config'
 
 export const metadata: Metadata = {
-  title: 'Gabarito ENEM — Todas as Edições 2009 a 2024',
-  description: 'Gabarito oficial do ENEM de todas as edições de 2009 a 2024. Matemática, Linguagens, Ciências Humanas e Ciências da Natureza com respostas corretas.',
+  title: 'Gabarito ENEM 2009-2024 — Gabarito Official + Análise de Questões',
+  description: 'Gabarito oficial do ENEM de todas as edições de 2009 a 2024. Matemática, Linguagens, Ciências Humanas e Ciências da Natureza com respostas corretas e análise.',
+  keywords: ['gabarito ENEM', 'gabarito ENEM 2024', 'gabarito oficial ENEM', 'respostas ENEM', 'gabarito por disciplina'],
   alternates: { canonical: `${SITE_URL}/gabarito` },
+  openGraph: {
+    title: 'Gabarito ENEM 2009-2024 — Todas as Respostas Corretas',
+    description: 'Acesse o gabarito oficial do ENEM de todas as edições. Filtro por ano e disciplina com análise de questões.',
+    url: `${SITE_URL}/gabarito`,
+    type: 'website',
+    images: [{ url: `${SITE_URL}/opengraph-image`, width: 1200, height: 630, alt: 'ENEM Pro - Gabarito ENEM' }],
+  },
 }
 
 const YEARS = [2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
@@ -51,11 +59,59 @@ const breadcrumbLd = {
   ],
 }
 
+const faqLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: 'Quando sai o gabarito do ENEM?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'O gabarito oficial do ENEM é divulgado pelo INEP no dia seguinte à aplicação da segunda prova, normalmente em novembro. Aqui no ENEM Pro, você tem acesso a todos os gabaritos desde 2009.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'O gabarito do ENEM é o mesmo para todos os cadernos?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'As questões são as mesmas, mas a ordem das alternativas muda entre os cadernos de cores diferentes. O gabarito oficial do INEP corresponde ao caderno amarelo.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Como calcular minha nota no ENEM?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'A nota do ENEM usa a Teoria de Resposta ao Item (TRI), que considera a dificuldade de cada questão. Acertar questões difíceis pesa mais do que acertar questões fáceis. Use nossa Calculadora de Nota ENEM para estimar sua pontuação.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Posso praticar com questões de gabaritos anteriores?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Sim! O ENEM Pro reúne todas as questões oficiais de 2009 a 2024. Você pode praticar por ano e disciplina, e o plano Pro inclui explicação de IA para cada questão.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Qual é a diferença entre cadernos de cores diferentes?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Os cadernos de cores diferentes (amarelo, azul, rosa e branco) contêm as mesmas questões, mas em ordem diferente. Você receberá uma cor aleatória no dia da prova.',
+      },
+    },
+  ],
+}
+
 export default function GabaritoIndexPage() {
   return (
     <div className="min-h-screen bg-zinc-50">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }} />
 
       <nav className="sticky top-0 z-50 bg-white border-b border-zinc-200 px-6 py-4">
         <div className="max-w-5xl mx-auto flex items-center justify-between">
@@ -124,10 +180,13 @@ export default function GabaritoIndexPage() {
           <h2 className="text-xl font-bold text-zinc-900 mb-6">Perguntas frequentes sobre o gabarito do ENEM</h2>
           <div className="space-y-6">
             {[
-              { q: 'Quando sai o gabarito do ENEM?', a: 'O gabarito oficial do ENEM é divulgado pelo INEP no dia seguinte à aplicação da segunda prova, normalmente em novembro.' },
+              { q: 'Quando sai o gabarito do ENEM?', a: 'O gabarito oficial do ENEM é divulgado pelo INEP no dia seguinte à aplicação da segunda prova, normalmente em novembro. Aqui no ENEM Pro, você tem acesso a todos os gabaritos desde 2009.' },
               { q: 'O gabarito do ENEM é o mesmo para todos os cadernos?', a: 'As questões são as mesmas, mas a ordem das alternativas muda entre os cadernos de cores diferentes. O gabarito oficial do INEP corresponde ao caderno amarelo.' },
-              { q: 'Como calcular minha nota no ENEM?', a: 'A nota do ENEM usa a Teoria de Resposta ao Item (TRI), que considera a dificuldade de cada questão. Acertar questões difíceis pesa mais do que acertar questões fáceis.' },
+              { q: 'Como calcular minha nota no ENEM?', a: 'A nota do ENEM usa a Teoria de Resposta ao Item (TRI), que considera a dificuldade de cada questão. Acertar questões difíceis pesa mais do que acertar questões fáceis. Use nossa Calculadora de Nota ENEM para estimar sua pontuação.' },
               { q: 'Posso praticar com questões de gabaritos anteriores?', a: 'Sim! O ENEM Pro reúne todas as questões oficiais de 2009 a 2024. Você pode praticar por ano e disciplina, e o plano Pro inclui explicação de IA para cada questão.' },
+              { q: 'Qual é a diferença entre cadernos de cores diferentes?', a: 'Os cadernos de cores diferentes (amarelo, azul, rosa e branco) contêm as mesmas questões, mas em ordem diferente. Você receberá uma cor aleatória no dia da prova.' },
+              { q: 'Como saber qual caderno eu fiz se não me lembro da cor?', a: 'Você pode identificar seu caderno comparando suas respostas com cada gabarito (amarelo, azul, rosa, branco). Quando seus acertos coincidirem com um dos gabaritos, você descobriu qual era sua cor.' },
+              { q: 'O gabarito de anos anteriores é igual ao do ENEM 2026?', a: 'O formato e a metodologia são semelhantes, mas o ENEM evolui sempre. O padrão de questões e dificuldade tendem a ser similares, razão pela qual praticar com gabaritos anteriores é muito valioso.' },
             ].map(({ q, a }) => (
               <div key={q}>
                 <h3 className="font-semibold text-zinc-900 mb-2">{q}</h3>
