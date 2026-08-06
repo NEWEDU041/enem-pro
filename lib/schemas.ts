@@ -222,3 +222,104 @@ export function getFAQSchema(faqItems: Array<{ q: string; a: string }>): FAQSche
     })),
   }
 }
+
+export interface QuizSchema {
+  '@context': string
+  '@type': string
+  name: string
+  description: string
+  educationalLevel: string
+  hasQuestion: Array<{
+    '@type': string
+    name: string
+    text: string
+    acceptedAnswer: {
+      '@type': string
+      text: string
+      url?: string
+    }
+    suggestedAnswer: Array<{
+      '@type': string
+      text: string
+      position?: number
+    }>
+  }>
+}
+
+export function getQuizSchema(
+  question: any,
+  index: string,
+  year: string,
+  discipline: string,
+  correctAnswerText: string,
+  pageUrl: string
+): QuizSchema {
+  const allAnswers = question.alternatives?.map((alt: any, idx: number) => ({
+    '@type': 'Answer',
+    text: alt.text || (alt.file ? `[Imagem]` : 'Conteúdo indisponível'),
+    position: idx + 1,
+  })) || []
+
+  const enunciado =
+    question.alternativesIntroduction || question.context || question.title
+
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Quiz',
+    name: `Questão ${index} — ENEM ${year}`,
+    description: `Questão de ${discipline} do ENEM ${year} com gabarito e explicação completa`,
+    educationalLevel: 'HighSchool',
+    hasQuestion: [
+      {
+        '@type': 'Question',
+        name: `Questão ${index} — ${discipline}`,
+        text: enunciado.substring(0, 500),
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: correctAnswerText,
+          url: pageUrl,
+        },
+        suggestedAnswer: allAnswers,
+      },
+    ],
+  }
+}
+
+export function validateQuizSchema(schema: QuizSchema): boolean {
+  // Validate required fields
+  const requiredFields = ['@context', '@type', 'name', 'educationalLevel', 'hasQuestion']
+
+  for (const field of requiredFields) {
+    if (!schema[field as keyof QuizSchema]) {
+      console.error(`Missing required field in QuizSchema: ${field}`)
+      return false
+    }
+  }
+
+  // Validate @type
+  if (schema['@type'] !== 'Quiz') {
+    console.error('Invalid @type: should be Quiz')
+    return false
+  }
+
+  // Validate @context
+  if (schema['@context'] !== 'https://schema.org') {
+    console.error('Invalid @context: should be https://schema.org')
+    return false
+  }
+
+  // Validate hasQuestion array
+  if (!Array.isArray(schema.hasQuestion) || schema.hasQuestion.length === 0) {
+    console.error('hasQuestion must be a non-empty array')
+    return false
+  }
+
+  // Validate first question
+  const q = schema.hasQuestion[0]
+  if (!q.name || !q.text || !q.acceptedAnswer) {
+    console.error('Question must have name, text, and acceptedAnswer')
+    return false
+  }
+
+  return true
+}
