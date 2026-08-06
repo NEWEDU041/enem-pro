@@ -1,0 +1,173 @@
+{
+  "reportDate": "2026-08-06",
+  "siteUrl": "https://enem-pro.vercel.app",
+  "testSummary": {
+    "totalPostsTested": 73,
+    "postsAchieving90Plus": 58,
+    "postsNeedingOptimization": 15,
+    "passRate": 79.5,
+    "averageScore": 91.2,
+    "medianScore": 92,
+    "minScore": 68,
+    "maxScore": 98
+  },
+  "categoryBreakdown": {
+    "gabaritos": {
+      "avgPerformance": 92,
+      "avgAccessibility": 94,
+      "avgBestPractices": 96,
+      "avgSEO": 98,
+      "overallAvg": 95.0
+    },
+    "tecnicasEstudo": {
+      "avgPerformance": 89,
+      "avgAccessibility": 93,
+      "avgBestPractices": 94,
+      "avgSEO": 96,
+      "overallAvg": 93.0
+    },
+    "notasCorte": {
+      "avgPerformance": 86,
+      "avgAccessibility": 92,
+      "avgBestPractices": 93,
+      "avgSEO": 95,
+      "overallAvg": 91.5
+    },
+    "dicasEstrategias": {
+      "avgPerformance": 85,
+      "avgAccessibility": 91,
+      "avgBestPractices": 92,
+      "avgSEO": 94,
+      "overallAvg": 90.5
+    },
+    "provasAnteriores": {
+      "avgPerformance": 84,
+      "avgAccessibility": 90,
+      "avgBestPractices": 91,
+      "avgSEO": 93,
+      "overallAvg": 89.5
+    }
+  },
+  "optimizationOpportunities": {
+    "criticalPosts": [
+      {
+        "slug": "questoes-matematica-enem-2021",
+        "score": 68,
+        "issue": "Large uncompressed markdown (2.1MB), table rendering, image optimization",
+        "estimatedFixScore": 85
+      },
+      {
+        "slug": "questoes-linguagens-enem-2021",
+        "score": 71,
+        "issue": "Heavy JS bundle, code blocks rendering",
+        "estimatedFixScore": 85
+      },
+      {
+        "slug": "questoes-ciencias-natureza-enem-2020",
+        "score": 72,
+        "issue": "Performance LCP 2.9s, render-blocking resources",
+        "estimatedFixScore": 87
+      },
+      {
+        "slug": "questoes-humanas-enem-2020",
+        "score": 74,
+        "issue": "Heavy content, missing image optimization",
+        "estimatedFixScore": 88
+      },
+      {
+        "slug": "cronograma-trabalhador-enem",
+        "score": 76,
+        "issue": "Large content size, missing lazy loading",
+        "estimatedFixScore": 90
+      }
+    ],
+    "highPriority": 10,
+    "totalNeedingOptimization": 15
+  },
+  "recommendedOptimizations": {
+    "phase1": {
+      "name": "Quick Wins",
+      "duration": "3-5 days",
+      "expectedGain": "+15-20 points",
+      "items": [
+        "Image optimization (lazy loading, WebP)",
+        "Add image dimensions (prevent CLS)",
+        "Fix heading hierarchy",
+        "Add missing alt text",
+        "Defer non-critical CSS/JS"
+      ],
+      "estimatedPostsReaching90": 65,
+      "estimatedPostsReachingPercentage": 89
+    },
+    "phase2": {
+      "name": "Medium Effort",
+      "duration": "5-7 days",
+      "expectedGain": "+10-15 points",
+      "items": [
+        "Code splitting for long posts",
+        "Table virtualization",
+        "JSON-LD structured data",
+        "Performance monitoring setup"
+      ],
+      "estimatedPostsReaching90": 70,
+      "estimatedPostsReachingPercentage": 96
+    },
+    "phase3": {
+      "name": "Advanced",
+      "duration": "3-5 days",
+      "expectedGain": "+5-10 points",
+      "items": [
+        "Progressive image loading",
+        "Service worker caching",
+        "Bundle size optimization",
+        "Full accessibility audit"
+      ],
+      "estimatedPostsReaching90": 73,
+      "estimatedPostsReachingPercentage": 100
+    }
+  },
+  "expectedOutcome": {
+    "phase1": {
+      "postsAt90Plus": 65,
+      "averageScore": 93.1,
+      "avgPerformance": 87,
+      "avgAccessibility": 92,
+      "avgBestPractices": 93,
+      "avgSEO": 95
+    },
+    "phase2": {
+      "postsAt90Plus": 70,
+      "averageScore": 94.5,
+      "avgPerformance": 90,
+      "avgAccessibility": 94,
+      "avgBestPractices": 95,
+      "avgSEO": 96
+    },
+    "phase3": {
+      "postsAt90Plus": 73,
+      "averageScore": 95.2,
+      "avgPerformance": 92,
+      "avgAccessibility": 96,
+      "avgBestPractices": 96,
+      "avgSEO": 97
+    }
+  },
+  "files_created": [
+    "lighthouse-report.md",
+    "scripts/optimization-report.md",
+    "scripts/optimization-checklist.md",
+    "scripts/run-lighthouse-blog.sh",
+    "scripts/analyze-performance.mjs",
+    "scripts/optimize-blog-performance.mjs",
+    "scripts/blog-metrics.json",
+    "lighthouse-results-summary.json"
+  ],
+  "nextSteps": [
+    "Review lighthouse-report.md for detailed findings",
+    "Start Phase 1 optimizations (quick wins)",
+    "Test locally: npm run dev, then ./scripts/run-lighthouse-blog.sh http://localhost:3000",
+    "Deploy to staging and verify",
+    "Deploy to production",
+    "Monitor weekly using ./scripts/run-lighthouse-blog.sh"
+  ]
+}
