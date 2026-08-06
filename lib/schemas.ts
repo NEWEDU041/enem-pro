@@ -246,15 +246,22 @@ export interface QuizSchema {
   }>
 }
 
+interface QuestionData {
+  alternatives?: Array<{ text?: string; file?: string }>;
+  alternativesIntroduction?: string;
+  context?: string;
+  title?: string;
+}
+
 export function getQuizSchema(
-  question: any,
+  question: QuestionData,
   index: string,
   year: string,
   discipline: string,
   correctAnswerText: string,
   pageUrl: string
 ): QuizSchema {
-  const allAnswers = question.alternatives?.map((alt: any, idx: number) => ({
+  const allAnswers = question.alternatives?.map((alt: { text?: string; file?: string }, idx: number) => ({
     '@type': 'Answer',
     text: alt.text || (alt.file ? `[Imagem]` : 'Conteúdo indisponível'),
     position: idx + 1,
