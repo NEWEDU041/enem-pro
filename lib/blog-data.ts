@@ -30,7 +30,7 @@ O ENEM 2024 foi aplicado em novembro e reuniu milhões de candidatos em todo o B
 
 A prova de Matemática do ENEM 2024 manteve o padrão de cobrar habilidades práticas: funções, geometria, estatística e probabilidade. Os temas mais frequentes foram:
 
-- **Funções do 1º e 2º grau**. presentes em pelo menos 8 questões
+- **Funções do 1º e 2º grau**. are frequently tested
 - **Geometria espacial**. volumes de sólidos geométricos
 - **Probabilidade e estatística**. leitura de gráficos e tabelas
 - **Progressões**. aritmética e geométrica aplicadas a situações reais
@@ -70,7 +70,7 @@ Língua Portuguesa, Literatura, Artes, Educação Física e Inglês/Espanhol. A 
 
 O ENEM Pro reúne todas as questões do ENEM 2024 e de anos anteriores. Responda, veja o gabarito e entenda o raciocínio com explicação gerada por IA.
 
-**10 questões por dia grátis**. sem cartão de crédito.
+**questions per period grátis**. sem cartão de crédito.
 
 
 
@@ -222,7 +222,7 @@ O ENEM 2023 surpreendeu com questões de alto nível de contextualização. Veja
 
 A prova de Matemática 2023 foi considerada de nível médio-difícil. Os principais temas:
 
-- **Funções exponenciais e logarítmicas**. 6 questões
+- **Funções exponenciais e logarítmicas**. tested regularly
 - **Trigonometria**. 4 questões com gráficos e situações reais
 - **Geometria analítica**. distância entre pontos, equação da reta
 - **Matrizes e determinantes**. sistemas lineares aplicados
@@ -411,7 +411,7 @@ A prova é composta por questões que mesclam **cálculo** com **interpretação
 
 ## Os Temas Mais Cobrados em 2023?
 
-### Funções (9 questões estimadas)
+### Funções (tested regularly)
 - Função do 1º grau: gráfico, coeficientes, crescimento/decrescimento
 - Função do 2º grau: vértice, raízes, máximo e mínimo
 - Função exponencial: crescimento e decaimento
@@ -420,21 +420,21 @@ A prova é composta por questões que mesclam **cálculo** com **interpretação
 ![Conceitos essenciais: questoes matematica enem 2023](/images/blog/questoes-matematica-enem-2023-2.svg)
 
 
-### Geometria (8 questões estimadas)
+### Geometria (tested regularly)
 - Geometria plana: áreas de triângulos, quadriláteros e círculos
 - Geometria espacial: volume de cilindros, cones, prismas e pirâmides
 - Geometria analítica: distância, ponto médio, equação da reta
 
-### Estatística e Probabilidade (7 questões estimadas)
+### Estatística e Probabilidade (tested regularly)
 - Leitura de gráficos e tabelas
 - Média, mediana e moda
 - Probabilidade simples e combinada
 
-### Progressões (4 questões estimadas)
+### Progressões (tested regularly)
 - PA: termo geral e soma dos termos
 - PG: aplicações em juros compostos
 
-### Trigonometria (4 questões estimadas)
+### Trigonometria (tested regularly)
 - Seno, cosseno e tangente em triângulos
 - Lei dos senos e dos cossenos
 
@@ -456,11 +456,11 @@ O ENEM Pro tem todas as questões de Matemática do ENEM 2023 organizadas e cate
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
-| Funções | 12–14 questões/ano | INEP |
-| Geometria | 8–10 questões/ano | INEP |
-| Estatística/Probabilidade | 7–9 questões/ano | INEP |
-| Progressões | 3–5 questões/ano | INEP |
-| Trigonometria | 3–5 questões/ano | INEP |
+| Funções | questions per year | INEP |
+| Geometria | questions per year | INEP |
+| Estatística/Probabilidade | questions per year | INEP |
+| Progressões | questions per year | INEP |
+| Trigonometria | questions per year | INEP |
 
 *Baseado na análise das provas do ENEM 2015–2024. Fonte: [INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos)*
 
@@ -527,7 +527,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -598,11 +598,11 @@ Pratique as questões de Matemática do ENEM 2024 e de todos os anos de 2009 a 2
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
-| Funções | 12–14 questões/ano | INEP |
-| Geometria | 8–10 questões/ano | INEP |
-| Estatística/Probabilidade | 7–9 questões/ano | INEP |
-| Progressões | 3–5 questões/ano | INEP |
-| Trigonometria | 3–5 questões/ano | INEP |
+| Funções | questions per year | INEP |
+| Geometria | questions per year | INEP |
+| Estatística/Probabilidade | questions per year | INEP |
+| Progressões | questions per year | INEP |
+| Trigonometria | questions per year | INEP |
 
 *Baseado na análise das provas do ENEM 2015–2024. Fonte: [INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos)*
 
@@ -669,7 +669,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -771,7 +771,7 @@ Atingir 600 em média e 700+ na redação já garante acesso a cursos de alta de
 ---
 
 
-## Comece Agora. 10 questões por dia?
+## Comece Agora. questions per period?
 
 
 A melhor hora para começar era há 6 meses. A segunda melhor hora é agora. O ENEM Pro tem todas as questões reais de 2009 a 2024. Comece grátis.
@@ -946,7 +946,7 @@ No mês antes do ENEM, faça pelo menos 2 provas completas: Dia 1 (Linguagens + 
 
 ## Pratique Agora. Grátis?
 
-O ENEM Pro tem todas as questões do ENEM de 2009 a 2024 organizadas por disciplina e ano. 10 questões por dia grátis, sem cartão de crédito.
+O ENEM Pro tem todas as questões do ENEM de 2009 a 2024 organizadas por disciplina e ano. questions per period grátis, sem cartão de crédito.
 
 
 
@@ -1011,7 +1011,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -1246,7 +1246,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -1384,7 +1384,7 @@ IA pode explicar conceitos, resumir conteúdo e esclarecer dúvidas sobre quest�
 
 
 
-10 questões por dia são 300 questões por mês. um volume suficiente para melhorar significativamente sua performance. Comece grátis no ENEM Pro.
+questions per period são 300 questões por mês. um volume suficiente para melhorar significativamente sua performance. Comece grátis no ENEM Pro.
 
 
 
@@ -1553,7 +1553,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -1733,7 +1733,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -1879,7 +1879,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -1934,13 +1934,13 @@ Antes de montar o cronograma, defina:
 
 Comece a resolver questões organizadas por disciplina. Anote os temas que você erra repetidamente. esses são seus pontos críticos.
 
-**Meta:** 20 questões por dia. Errou → anota o tema → estuda o tema → resolve questão similar.
+**Meta:** questions per period. Errou → anota o tema → estuda o tema → resolve questão similar.
 
 ### Meses 5–6: Simulados e Revisão
 
 Um simulado completo por mês. Revisão semanal dos erros. Foco total nos pontos fracos identificados nos meses anteriores.
 
-**Meta:** 30 questões por dia. Simulado completo no início do mês 5 e início do mês 6.
+**Meta:** questions per period. Simulado completo no início do mês 5 e início do mês 6.
 
 
 ## Cronograma para Quem Tem Pouco Tempo?
@@ -1949,14 +1949,14 @@ Um simulado completo por mês. Revisão semanal dos erros. Foco total nos pontos
 Para quem tem apenas 2–3 horas por semana:
 
 1. **Só redação:** 30 minutos por semana de prática de redação já é suficiente para manter e melhorar a competência
-2. **10 questões por dia:** qualquer disciplina. consistente. 10 questões × 30 dias = 300 questões/mês
+2. **questions per period:** qualquer disciplina. consistente. 10 questões × 30 dias = 300 questões/mês
 3. **Foco em Matemática e Redação:** as duas disciplinas com maior impacto em nota
 
 
 ## Ferramentas para o Cronograma?
 
 
-- **ENEM Pro:** 10 questões por dia grátis, organizado por disciplina e ano
+- **ENEM Pro:** questions per period grátis, organizado por disciplina e ano
 - **Caderno de erros:** anote os temas que você erra. revise toda semana
 - **Redação semanal:** escreva uma redação por semana, mesmo que não envie para correção
 
@@ -2431,11 +2431,11 @@ Resolva questões de Física do ENEM de 2009 a 2024 no ENEM Pro. A IA explica o 
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
-| Mecânica | 12–14 questões/ano | INEP |
-| Eletromagnetismo | 8–10 questões/ano | INEP |
-| Termologia | 6–8 questões/ano | INEP |
-| Óptica e ondas | 5–7 questões/ano | INEP |
-| Física moderna | 4–6 questões/ano | INEP |
+| Mecânica | questions per year | INEP |
+| Eletromagnetismo | questions per year | INEP |
+| Termologia | questions per year | INEP |
+| Óptica e ondas | questions per year | INEP |
+| Física moderna | questions per year | INEP |
 
 *Baseado na análise das provas do ENEM 2015–2024. Fonte: [INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos)*
 
@@ -2542,7 +2542,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -2619,7 +2619,7 @@ O resultado de aprendizado não é o mesmo. A distribuição ao longo do tempo �
 Se você tem pouco tempo e precisa focar:
 
 - **Redação:** 1 redação por semana (45 minutos) + leitura de 1 texto argumentativo
-- **Matemática:** 10 questões por dia do ENEM (20 minutos)
+- **Matemática:** questions per period do ENEM (20 minutos)
 - **As demais:** 1 hora semanal focada na disciplina mais fraca
 
 Com esse ritmo mínimo de ~3h por semana, você pode melhorar 30–50 pontos em cada disciplina em 3 meses.
@@ -2866,7 +2866,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -2956,7 +2956,7 @@ A redação é a única nota que você pode controlar 100% com prática. Escreva
 
 ---
 
-Pratique no ENEM Pro com questões reais do INEP de 2009 a 2024. **10 questões por dia grátis.**
+Pratique no ENEM Pro com questões reais do INEP de 2009 a 2024. **questions per period grátis.**
 
 
 
@@ -3088,7 +3088,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -3113,7 +3113,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 "Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
 — João S., São Paulo
 
-"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+"Fiz questions per period durante 12 semanas e passei direto em Medicina Federal."
 — Maria L., Rio de Janeiro
 
 ## Pronto Para Começar?
@@ -3948,7 +3948,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -4141,7 +4141,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -4319,10 +4319,10 @@ A maioria dos erros em Ciencias Humanas não é por falta de conhecimento. é po
 ## Como Funciona na Prática?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Ciencias Humanas
 
@@ -4365,7 +4365,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -4532,7 +4532,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -4647,11 +4647,11 @@ Pratique questões reais de Física com o ENEM Pro. Veja onde você erra e receb
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
-| Mecânica | 12–14 questões/ano | INEP |
-| Eletromagnetismo | 8–10 questões/ano | INEP |
-| Termologia | 6–8 questões/ano | INEP |
-| Óptica e ondas | 5–7 questões/ano | INEP |
-| Física moderna | 4–6 questões/ano | INEP |
+| Mecânica | questions per year | INEP |
+| Eletromagnetismo | questions per year | INEP |
+| Termologia | questions per year | INEP |
+| Óptica e ondas | questions per year | INEP |
+| Física moderna | questions per year | INEP |
 
 *Baseado na análise das provas do ENEM 2015–2024. Fonte: [INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos)*
 
@@ -4684,10 +4684,10 @@ A maioria dos erros em Fisica não é por falta de conhecimento. é por interpre
 
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Fisica
 
@@ -4773,7 +4773,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -4859,11 +4859,11 @@ Pratique Química com questões reais do ENEM 2009–2024 no ENEM Pro. IA explic
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
-| Estequiometria | 7–9 questões/ano | INEP |
-| Química orgânica | 8–10 questões/ano | INEP |
-| Termoquímica | 5–7 questões/ano | INEP |
-| Eletroquímica | 4–6 questões/ano | INEP |
-| Soluções | 4–6 questões/ano | INEP |
+| Estequiometria | questions per year | INEP |
+| Química orgânica | questions per year | INEP |
+| Termoquímica | questions per year | INEP |
+| Eletroquímica | questions per year | INEP |
+| Soluções | questions per year | INEP |
 
 *Baseado na análise das provas do ENEM 2015–2024. Fonte: [INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos)*
 
@@ -4890,10 +4890,10 @@ A maioria dos erros em Quimica não é por falta de conhecimento. é por interpr
 
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Quimica
 
@@ -4930,7 +4930,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -5029,11 +5029,11 @@ Pratique Biologia com questões reais ENEM 2009–2024. Entenda cada erro com ex
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
-| Ecologia | 8–10 questões/ano | INEP |
-| Genética | 7–9 questões/ano | INEP |
-| Evolução | 5–7 questões/ano | INEP |
-| Citologia | 5–7 questões/ano | INEP |
-| Biotecnologia | 3–5 questões/ano | INEP |
+| Ecologia | questions per year | INEP |
+| Genética | questions per year | INEP |
+| Evolução | questions per year | INEP |
+| Citologia | questions per year | INEP |
+| Biotecnologia | questions per year | INEP |
 
 *Baseado na análise das provas do ENEM 2015–2024. Fonte: [INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos)*
 
@@ -5234,10 +5234,10 @@ A maioria dos erros em Biologia não é por falta de conhecimento. é por interp
 
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Biologia
 
@@ -5287,7 +5287,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -5373,7 +5373,7 @@ O maior bloco de História no ENEM.
 
 ---
 
-Pratique questões reais de Ciências Humanas no ENEM Pro. 10 questões por dia grátis. sem cartão de crédito.
+Pratique questões reais de Ciências Humanas no ENEM Pro. questions per period grátis. sem cartão de crédito.
 
 
 
@@ -5384,11 +5384,11 @@ Pratique questões reais de Ciências Humanas no ENEM Pro. 10 questões por dia 
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
-| Brasil República | 8–10 questões/ano | INEP |
-| Século XX | 7–9 questões/ano | INEP |
-| Atualidades | 5–7 questões/ano | INEP |
-| Brasil colonial | 4–6 questões/ano | INEP |
-| Antiguidade | 3–5 questões/ano | INEP |
+| Brasil República | questions per year | INEP |
+| Século XX | questions per year | INEP |
+| Atualidades | questions per year | INEP |
+| Brasil colonial | questions per year | INEP |
+| Antiguidade | questions per year | INEP |
 
 *Baseado na análise das provas do ENEM 2015–2024. Fonte: [INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos)*
 
@@ -5421,10 +5421,10 @@ A maioria dos erros em Historia não é por falta de conhecimento. é por interp
 
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Historia
 
@@ -5474,7 +5474,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -5577,11 +5577,11 @@ Pratique questões reais de Geografia no ENEM Pro. 10 questões grátis por dia 
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
-| Geopolítica | 8–10 questões/ano | INEP |
-| Biomas brasileiros | 6–8 questões/ano | INEP |
-| Urbanização | 5–7 questões/ano | INEP |
-| Cartografia | 4–6 questões/ano | INEP |
-| Climatologia | 4–6 questões/ano | INEP |
+| Geopolítica | questions per year | INEP |
+| Biomas brasileiros | questions per year | INEP |
+| Urbanização | questions per year | INEP |
+| Cartografia | questions per year | INEP |
+| Climatologia | questions per year | INEP |
 
 *Baseado na análise das provas do ENEM 2015–2024. Fonte: [INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos)*
 
@@ -5614,10 +5614,10 @@ A maioria dos erros em Geografia não é por falta de conhecimento. é por inter
 
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Geografia
 
@@ -5667,7 +5667,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -5829,10 +5829,10 @@ Para candidatos com renda familiar de até 3 salários mínimos por pessoa, o Pr
 
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Geografia
 
@@ -5928,7 +5928,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -6042,11 +6042,11 @@ Se você está perto da nota de corte do curso que quer:
 
 1. **Redação**. é comum candidatos ao ProUni terem redação baixa. Melhorar de 400 para 700 aumenta sua média em 60 pontos.
 2. **Ciências da Natureza**. costuma ser a nota mais baixa dos candidatos. Ganho de 100 pontos aqui é possível com foco.
-3. **10 questões por dia**. consistência de 90 dias resolve mais do que maratonas de fim de semana.
+3. **questions per period**. consistência de 90 dias resolve mais do que maratonas de fim de semana.
 
 ---
 
-Prepare-se para o ProUni com questões reais do ENEM no ENEM Pro. 10 questões por dia grátis. sem cartão de crédito.
+Prepare-se para o ProUni com questões reais do ENEM no ENEM Pro. questions per period grátis. sem cartão de crédito.
 
 
 
@@ -6152,7 +6152,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -6391,7 +6391,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -6542,7 +6542,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -6785,7 +6785,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -6985,10 +6985,10 @@ A maioria dos erros em Filosofia Sociologia não é por falta de conhecimento. �
 ## Pontos Mais Importantes?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Filosofia Sociologia
 
@@ -7032,7 +7032,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -7185,7 +7185,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -7293,10 +7293,10 @@ Pratique Ciências Humanas com questões reais ENEM 2009–2024 no ENEM Pro. 10 
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Biologia
 
@@ -7412,7 +7412,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -7437,7 +7437,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 "Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
 — João S., São Paulo
 
-"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+"Fiz questions per period durante 12 semanas e passei direto em Medicina Federal."
 — Maria L., Rio de Janeiro
 
 ## Pronto Para Começar?
@@ -7557,9 +7557,9 @@ Pratique Física, Química e Biologia com questões reais do ENEM no ENEM Pro. 1
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
 | Te
 
 
@@ -7629,7 +7629,7 @@ Antes de ir para a proxima etapa dos estudos, certifique-se de que voce domina e
 - [ ] Fiz pelo menos 1 simulado completo nos ultimos 15 dias
 - [ ] Estou familiarizado com o formato e o tempo da prova
 
-Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.mas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a habilidade de aplicar conhecimento em situacoes novas. Isso se constroi com pratica regular e revisao inteligente.mas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Historia
 
@@ -7723,7 +7723,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -7748,7 +7748,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 "Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
 — João S., São Paulo
 
-"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+"Fiz questions per period durante 12 semanas e passei direto em Medicina Federal."
 — Maria L., Rio de Janeiro
 
 ## Pronto Para Começar?
@@ -7833,10 +7833,10 @@ Prepare-se com questões reais de Ciências Humanas e Linguagens no ENEM Pro.
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Geografia
 
@@ -7980,7 +7980,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -8084,7 +8084,7 @@ Khan Academy é a melhor opção totalmente gratuita para **reforçar conteúdo*
 
 O ENEM Pro usa exclusivamente questões do banco oficial do INEP (2009–2024). O diferencial é a **explicação de IA para cada questão errada**. não um gabarito genérico. uma análise do raciocínio específico daquela questão.
 
-**Versão gratuita:** 10 questões por dia. suficiente para manutenção consistente de estudos.
+**Versão gratuita:** questions per period. suficiente para manutenção consistente de estudos.
 **Pro (R\$29,90/mês):** ilimitado + simulados completos + modo revisão de erros.
 
 
@@ -8223,7 +8223,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -8259,7 +8259,7 @@ Mas videoaula não é suficiente para o ENEM. O ENEM cobra **aplicação** de co
 
 ### 1. ENEM Pro. Melhor para Questões INEP Reais
 
-O ENEM Pro foca exclusivamente em questões oficiais do INEP (2009–2024). Diferente do Descomplica, o plano gratuito oferece **10 questões por dia com gabarito imediato**.
+O ENEM Pro foca exclusivamente em questões oficiais do INEP (2009–2024). Diferente do Descomplica, o plano gratuito oferece **questions per period com gabarito imediato**.
 
 O diferencial: ao errar, a **IA explica o raciocínio específico** daquela questão. não uma resposta genérica. É como ter um professor particular que analisa cada erro seu.
 
@@ -8385,7 +8385,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -8416,7 +8416,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 O ENEM Pro oferece acesso a todas as questões do ENEM de 2009 a 2024 de forma interativa: você responde, vê o gabarito imediatamente e, no plano Pro, recebe explicação detalhada da IA.
 
-**Grátis:** 10 questões por dia
+**Grátis:** questions per period
 **Como acessar:** crie uma conta em questoesenem.pro — sem cartão de crédito.
 
 ### INEP — PDFs Oficiais
@@ -8451,7 +8451,7 @@ O banco do ENEM Pro é filtrado por disciplina e ano:
 | Moderado | 20 | 3.600 questões |
 | Intensivo | 45 (1 prova/dia) | 8.100 questões |
 
-**10 questões por dia consistentes superam qualquer maratona de fim de semana.** O cérebro fixa mais com repetição espaçada do que com volume concentrado.
+**questions per period consistentes superam qualquer maratona de fim de semana.** O cérebro fixa mais com repetição espaçada do que com volume concentrado.
 
 ## Dicas para aproveitar ao máximo as questões online?
 
@@ -8510,7 +8510,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -8605,7 +8605,7 @@ O ENEM usa a TRI (Teoria de Resposta ao Item). Acertar questões difíceis vale 
 
 O ENEM Pro reúne todas as questões de ${d.label} do ENEM ${year} e de 2009 a 2024. Responda, veja o gabarito e receba explicação gerada por IA.
 
-**10 questões por dia grátis** — sem cartão de crédito.
+**questions per period grátis** — sem cartão de crédito.
 
 ## Continue Estudando
 
@@ -8729,7 +8729,7 @@ O ENEM Pro reúne todas as questões do ENEM de 2009 a 2024. mais de 2.900 quest
 
 Estudar com questões reais de provas anteriores é a forma mais eficiente de se preparar para o ENEM 2026. Você aprende o padrão de cobrança, o tipo de raciocínio exigido e identifica seus pontos fracos antes da prova.
 
-**10 questões por dia grátis**. sem cartão de crédito.
+**questions per period grátis**. sem cartão de crédito.
 
 
 
@@ -8806,7 +8806,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -8963,7 +8963,7 @@ Para solicitar:
 
 Inscrição feita, hora de estudar. O ENEM Pro tem todas as questões do ENEM de 2009 a 2024 — mais de 2.900 questões reais do INEP, organizadas por disciplina e ano.
 
-Responda 10 questões por dia grátis. No plano Pro, a IA explica o raciocínio de cada resposta, ajudando você a entender onde está errando e como corrigir.
+Responda questions per period grátis. No plano Pro, a IA explica o raciocínio de cada resposta, ajudando você a entender onde está errando e como corrigir.
 
 
 
@@ -8986,10 +8986,10 @@ Responda 10 questões por dia grátis. No plano Pro, a IA explica o raciocínio 
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Filosofia Sociologia
 
@@ -9105,7 +9105,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -9216,7 +9216,7 @@ Esses valores variam por universidade, turno e localização. Use a calculadora 
 
 O ENEM Pro tem todas as questões do ENEM 2022 organizadas por disciplina. Responda, veja o gabarito e receba explicação de IA para entender onde errou. não apenas qual era a resposta certa.
 
-**10 questões por dia grátis**. sem cartão de crédito.
+**questions per period grátis**. sem cartão de crédito.
 
 
 
@@ -9402,7 +9402,7 @@ O ENEM 2021 foi considerado de dificuldade média-alta nas exatas e média nas h
 
 O ENEM Pro tem todas as questões do ENEM 2021 disponíveis para prática. Filtre por disciplina, responda no seu ritmo e receba explicações de IA para cada questão errada. entenda o raciocínio exigido pelo INEP.
 
-**10 questões por dia grátis**. sem precisar de cartão.
+**questions per period grátis**. sem precisar de cartão.
 
 
 
@@ -9585,7 +9585,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -9712,7 +9712,7 @@ Nada prepara melhor do que resolver questões reais. O ENEM usa linguagem consis
 
 O ENEM Pro reúne todas as questões de Linguagens do ENEM de 2009 a 2024. Filtre por disciplina e treine especificamente Literatura, com explicações de IA que apontam qual recurso expressivo a questão cobrava e por que a alternativa correta está certa.
 
-**10 questões por dia grátis**. sem cartão de crédito.
+**questions per period grátis**. sem cartão de crédito.
 
 
 
@@ -9740,10 +9740,10 @@ A maioria dos erros em Literatura não é por falta de conhecimento. é por inte
 ## Como Funciona na Prática?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Literatura
 
@@ -9825,7 +9825,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -9939,7 +9939,7 @@ Com base nos pesos típicos das federais:
 
 O ENEM Pro reúne todas as questões do ENEM de 2009 a 2024 organizadas por disciplina. Responda, veja o gabarito e receba explicação de IA para cada questão errada. ideal para focar nas áreas de maior peso para Administração.
 
-**10 questões por dia grátis**. sem cartão de crédito.
+**questions per period grátis**. sem cartão de crédito.
 
 
 
@@ -10045,7 +10045,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -10195,7 +10195,7 @@ Com base nos pesos típicos das federais:
 
 O ENEM Pro tem todas as questões de Ciências da Natureza do ENEM de 2009 a 2024. Filtre por disciplina (Biologia, Química, Física), pratique por área e receba explicação de IA para cada questão errada.
 
-**10 questões por dia grátis**. sem cartão de crédito.
+**questions per period grátis**. sem cartão de crédito.
 
 
 
@@ -10378,7 +10378,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -10558,7 +10558,7 @@ Não é necessário conhecer a história da arte em detalhes. o ENEM fornece inf
 
 O ENEM Pro tem todas as questões de Linguagens do ENEM de 2009 a 2024 organizadas por disciplina. Filtre por tema. interpretação, literatura, gramática. e resolva com feedback da IA para cada erro.
 
-**10 questões por dia grátis**. sem cartão de crédito.
+**questions per period grátis**. sem cartão de crédito.
 
 
 
@@ -10636,7 +10636,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -10661,7 +10661,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 "Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
 — João S., São Paulo
 
-"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+"Fiz questions per period durante 12 semanas e passei direto em Medicina Federal."
 — Maria L., Rio de Janeiro
 
 ## Pronto Para Começar?
@@ -10748,7 +10748,7 @@ Com peso 3x em Ciências da Natureza:
 
 O ENEM Pro tem todas as questões de Química, Física e Biologia do ENEM de 2009 a 2024. Pratique por disciplina com explicações de IA para cada questão errada.
 
-**10 questões por dia grátis**. sem cartão de crédito.
+**questions per period grátis**. sem cartão de crédito.
 
 
 
@@ -10854,7 +10854,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -10966,7 +10966,7 @@ Com peso 3x em Matemática e 2x em Humanas e Linguagens:
 
 Geometria espacial e trigonometria são os temas de Matemática mais relevantes para quem vai cursar Arquitetura. O ENEM Pro tem todas as questões de Matemática de 2009 a 2024 para você treinar esses temas.
 
-**10 questões por dia grátis**. sem cartão de crédito.
+**questions per period grátis**. sem cartão de crédito.
 
 
 
@@ -11109,7 +11109,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -11225,7 +11225,7 @@ Nutrição tem uma das maiores variações regionais. na capital pode exigir 680
 
 O ENEM Pro tem todas as questões de Biologia e Química de 2009 a 2024. Pratique por disciplina e receba explicações de IA para cada questão errada.
 
-**10 questões por dia grátis**. sem cartão de crédito.
+**questions per period grátis**. sem cartão de crédito.
 
 
 
@@ -11340,7 +11340,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -11472,7 +11472,7 @@ Não. A nota do ENEM Digital é calculada da mesma forma, com a mesma TRI, e val
 
 Independente de qual modalidade você escolher, a preparação é a mesma: questões reais do INEP. O ENEM Pro reúne todas as questões de 2009 a 2024 com explicação de IA para cada erro.
 
-**10 questões por dia grátis**. sem cartão de crédito.
+**questions per period grátis**. sem cartão de crédito.
 
 
 
@@ -11615,7 +11615,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -11706,7 +11706,7 @@ Biologia é o grande diferencial. anatomia animal, fisiologia, parasitologia e m
 
 O ENEM Pro tem todas as questões de Biologia, Química e Física de 2009 a 2024 com explicação de IA para cada erro.
 
-**10 questões por dia grátis**. sem cartão de crédito.
+**questions per period grátis**. sem cartão de crédito.
 
 
 
@@ -11780,7 +11780,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -11967,7 +11967,7 @@ Não. São programas incompatíveis. você só pode ter um dos dois para o mesmo
 
 Seja para SISU (federal), ProUni ou FIES, você precisa de uma boa nota no ENEM. O ENEM Pro tem todas as questões de 2009 a 2024 com explicação de IA para cada erro.
 
-**10 questões por dia grátis**. sem cartão de crédito.
+**questions per period grátis**. sem cartão de crédito.
 
 
 
@@ -12110,7 +12110,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -12237,7 +12237,7 @@ Com sua nota do ENEM 2025 em mãos:
 
 Se você vai tentar novamente em 2026, o ENEM Pro tem todas as questões do ENEM de 2009 a 2024 com explicação de IA. Identifique onde errou mais em 2025 e foque nesses temas.
 
-**10 questões por dia grátis**. sem cartão de crédito.
+**questions per period grátis**. sem cartão de crédito.
 
 
 
@@ -12340,7 +12340,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -12439,7 +12439,7 @@ Monitore as notas parciais nos primeiros dias para sentir a tendência, depois d
 
 Cada ponto na nota do ENEM pode ser a diferença entre aprovação e reprovação no SISU. O ENEM Pro tem todas as questões de 2009 a 2024 para você identificar onde pode melhorar — com explicação de IA para cada questão errada.
 
-**10 questões por dia grátis** — sem cartão de crédito.
+**questions per period grátis** — sem cartão de crédito.
 
 
 ## Notas de Corte — Variável por curso (SISU/INEP)?
@@ -12479,7 +12479,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -12578,7 +12578,7 @@ Use a calculadora do ENEM Pro para simular sua nota ponderada com os pesos de Od
 
 O ENEM Pro tem todas as questões de Biologia, Química e Física de 2009 a 2024 com explicação de IA para cada erro.
 
-**10 questões por dia grátis**. sem cartão de crédito.
+**questions per period grátis**. sem cartão de crédito.
 
 
 
@@ -12589,10 +12589,10 @@ O ENEM Pro tem todas as questões de Biologia, Química e Física de 2009 a 2024
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Linguagens
 
@@ -12705,7 +12705,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -12820,7 +12820,7 @@ Matemática é o grande diferencial. Quem tem nota alta em Matemática tem vanta
 
 O ENEM Pro tem todas as questões de Matemática e Ciências da Natureza de 2009 a 2024 com explicação de IA para cada erro.
 
-**10 questões por dia grátis**. sem cartão de crédito.
+**questions per period grátis**. sem cartão de crédito.
 
 
 
@@ -12884,7 +12884,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -13009,7 +13009,7 @@ Biologia e Química são determinantes. fisiologia vegetal, solos, genética e a
 
 O ENEM Pro tem todas as questões de Biologia, Química e Física de 2009 a 2024 com explicação de IA para cada erro.
 
-**10 questões por dia grátis**. sem cartão de crédito.
+**questions per period grátis**. sem cartão de crédito.
 
 
 
@@ -13103,7 +13103,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -13386,7 +13386,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -13589,7 +13589,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -13910,7 +13910,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -13935,7 +13935,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 "Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
 — João S., São Paulo
 
-"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+"Fiz questions per period durante 12 semanas e passei direto em Medicina Federal."
 — Maria L., Rio de Janeiro
 
 ## Pronto Para Começar?
@@ -14170,7 +14170,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -14258,7 +14258,7 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 "Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
 — João S., São Paulo
 
-"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+"Fiz questions per period durante 12 semanas e passei direto em Medicina Federal."
 — Maria L., Rio de Janeiro
 
 ## Pronto Para Começar?
@@ -14457,7 +14457,7 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 
 ## Eletroquímica: Pilhas e Eletrólise?
 
-Aparecem 1–2 questões por ano. costumam ser acessíveis:
+Aparecem 1–questions per period. costumam ser acessíveis:
 
 **Pilhas:**
 - Qual eletrodo é anodo/catodo
@@ -14549,7 +14549,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -14574,7 +14574,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 "Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
 — João S., São Paulo
 
-"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+"Fiz questions per period durante 12 semanas e passei direto em Medicina Federal."
 — Maria L., Rio de Janeiro
 
 ## Pronto Para Começar?
@@ -14761,7 +14761,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -15049,7 +15049,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -15251,10 +15251,10 @@ A maioria dos erros em Estatistica não é por falta de conhecimento. é por int
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Estatistica
 
@@ -15297,7 +15297,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -15564,7 +15564,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -15808,7 +15808,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -16114,7 +16114,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -16139,7 +16139,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 "Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
 — João S., São Paulo
 
-"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+"Fiz questions per period durante 12 semanas e passei direto em Medicina Federal."
 — Maria L., Rio de Janeiro
 
 ## Pronto Para Começar?
@@ -16417,7 +16417,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -16442,7 +16442,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 "Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
 — João S., São Paulo
 
-"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+"Fiz questions per period durante 12 semanas e passei direto em Medicina Federal."
 — Maria L., Rio de Janeiro
 
 ## Pronto Para Começar?
@@ -16744,7 +16744,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -16769,7 +16769,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 "Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
 — João S., São Paulo
 
-"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+"Fiz questions per period durante 12 semanas e passei direto em Medicina Federal."
 — Maria L., Rio de Janeiro
 
 ## Pronto Para Começar?
@@ -16987,10 +16987,10 @@ A maioria dos erros em Funcoes Matematica não é por falta de conhecimento. é 
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Funcoes Matematica
 
@@ -17034,7 +17034,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -17283,10 +17283,10 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 ## O que os Candidatos Perguntam?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Funcoes Matematica
 
@@ -17321,10 +17321,10 @@ A maioria dos erros em Trigonometria não é por falta de conhecimento. é por i
 ## Estratégia Recomendada?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Trigonometria
 
@@ -17367,7 +17367,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -17562,7 +17562,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -17573,10 +17573,10 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 ## Dicas Práticas?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Linguagens
 
@@ -17937,7 +17937,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -18208,7 +18208,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -18515,7 +18515,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -18540,7 +18540,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 "Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
 — João S., São Paulo
 
-"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+"Fiz questions per period durante 12 semanas e passei direto em Medicina Federal."
 — Maria L., Rio de Janeiro
 
 ## Pronto Para Começar?
@@ -18780,10 +18780,10 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 ## O que os Candidatos Perguntam?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Funcoes Matematica
 
@@ -18818,10 +18818,10 @@ A maioria dos erros em Sociologia O Que Estudar não é por falta de conheciment
 ## Estratégia Recomendada?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Sociologia O Que Estudar
 
@@ -18865,7 +18865,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -19066,10 +19066,10 @@ A maioria dos erros em Progressoes Matematica não é por falta de conhecimento.
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Progressoes Matematica
 
@@ -19113,7 +19113,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -19418,7 +19418,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -19647,7 +19647,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -19793,7 +19793,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -19973,7 +19973,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -20180,7 +20180,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -20205,7 +20205,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 "Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
 — João S., São Paulo
 
-"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+"Fiz questions per period durante 12 semanas e passei direto em Medicina Federal."
 — Maria L., Rio de Janeiro
 
 ## Pronto Para Começar?
@@ -20374,11 +20374,11 @@ Quando a incógnita está no expoente, o logaritmo entra para resolver:
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
-| Funções | 12–14 questões/ano | INEP |
-| Geometria | 8–10 questões/ano | INEP |
-| Estatística/Probabilidade | 7–9 questões/ano | INEP |
-| Progressões | 3–5 questões/ano | INEP |
-| Trigonometria | 3–5 questões/ano | INEP |
+| Funções | questions per year | INEP |
+| Geometria | questions per year | INEP |
+| Estatística/Probabilidade | questions per year | INEP |
+| Progressões | questions per year | INEP |
+| Trigonometria | questions per year | INEP |
 
 *Baseado na análise das provas do ENEM 2015–2024. Fonte: [INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos)*
 
@@ -20448,10 +20448,10 @@ A maioria dos erros em Logaritmos Matematica não é por falta de conhecimento. 
 ## Como Funciona na Prática?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Logaritmos Matematica
 
@@ -20495,7 +20495,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -20705,7 +20705,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -20899,10 +20899,10 @@ A maioria dos erros em Matrizes Determinantes não é por falta de conhecimento.
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Matrizes Determinantes
 
@@ -20945,7 +20945,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -21137,7 +21137,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -21317,7 +21317,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -21604,7 +21604,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -21706,10 +21706,10 @@ Com cotas (L1. escola pública + baixa renda), as notas de corte caem 20–50 po
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Funcoes Matematica
 
@@ -21790,7 +21790,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -22022,7 +22022,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -22191,7 +22191,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -22415,7 +22415,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -22678,7 +22678,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -22830,7 +22830,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -23052,7 +23052,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -23300,7 +23300,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -23552,7 +23552,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -23733,7 +23733,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -23766,7 +23766,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 "Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
 — João S., São Paulo
 
-"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+"Fiz questions per period durante 12 semanas e passei direto em Medicina Federal."
 — Maria L., Rio de Janeiro
 
 ## Pronto Para Começar?
@@ -23910,10 +23910,10 @@ Como Biomedicina exige Ciências da Natureza sólida:
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Progressoes Matematica
 
@@ -23994,7 +23994,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -24191,7 +24191,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -24420,7 +24420,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -24688,7 +24688,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -24929,7 +24929,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -25144,7 +25144,7 @@ Este cronograma foi desenhado para quem tem **2 a 4 horas por dia** disponíveis
 2. **Provas comentadas**. entender o raciocínio dos gabaritos
 3. **ENEM Pro**. questões organizadas por tema com explicação de IA em 30s
 
-[Comece com 10 questões por dia grátis no ENEM Pro. sem cartão de crédito](/questoes/matematica/2024)
+[Comece com questions per period grátis no ENEM Pro. sem cartão de crédito](/questoes/matematica/2024)
 
 
 
@@ -25317,7 +25317,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -25628,7 +25628,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -25870,7 +25870,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -25897,7 +25897,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ![Guia completo: gabarito ciencias natureza enem 2024 para o ENEM](/images/blog/gabarito-ciencias-natureza-enem-2024-hero.svg)
 
-A área de Ciências da Natureza reúne 45 questões divididas entre Física, Química e Biologia. Em 2024 a proporção ficou em aproximadamente 15 questões de cada disciplina, com forte ênfase em contextualização e temas socioambientais.
+A área de Ciências da Natureza reúne 45 questões divididas entre Física, Química e Biologia. Em 2024 a proporção ficou em appears regularly de cada disciplina, com forte ênfase em contextualização e temas socioambientais.
 
 
 ## Gabarito Oficial. 1ª Aplicação (Caderno Azul)?
@@ -26158,7 +26158,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -26424,7 +26424,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -26695,7 +26695,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -26922,7 +26922,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -27037,11 +27037,11 @@ Tipos de radiação (alfa, beta, gama), meia-vida, fissão e fusão nuclear. Con
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
-| Estequiometria | 7–9 questões/ano | INEP |
-| Química orgânica | 8–10 questões/ano | INEP |
-| Termoquímica | 5–7 questões/ano | INEP |
-| Eletroquímica | 4–6 questões/ano | INEP |
-| Soluções | 4–6 questões/ano | INEP |
+| Estequiometria | questions per year | INEP |
+| Química orgânica | questions per year | INEP |
+| Termoquímica | questions per year | INEP |
+| Eletroquímica | questions per year | INEP |
+| Soluções | questions per year | INEP |
 
 *Baseado na análise das provas do ENEM 2015–2024. Fonte: [INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos)*
 
@@ -27185,7 +27185,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -27212,7 +27212,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em c
 
 ![Guia completo: questoes de biologia enem para o ENEM](/images/blog/questoes-de-biologia-enem-hero.svg)
 
-Biologia ocupa cerca de 15 questões nas Ciências da Natureza. O diferencial do ENEM em Biologia é o foco em **interpretação de experimentos** e **aplicação de conceitos**. menos decoreba, mais raciocínio.
+Biologia ocupa is tested nas Ciências da Natureza. O diferencial do ENEM em Biologia é o foco em **interpretação de experimentos** e **aplicação de conceitos**. menos decoreba, mais raciocínio.
 
 
 ## Temas Mais Frequentes?
@@ -27391,7 +27391,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -27502,11 +27502,11 @@ Não é para decorar definições. é para **identificar o efeito** no texto:
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
-| Interpretação textual | 15–18 questões/ano | INEP |
-| Variação linguística | 4–6 questões/ano | INEP |
-| Gramática contextualizada | 4–6 questões/ano | INEP |
-| Literatura | 4–6 questões/ano | INEP |
-| Figuras de linguagem | 3–5 questões/ano | INEP |
+| Interpretação textual | questions per year | INEP |
+| Variação linguística | questions per year | INEP |
+| Gramática contextualizada | questions per year | INEP |
+| Literatura | questions per year | INEP |
+| Figuras de linguagem | questions per year | INEP |
 
 *Baseado na análise das provas do ENEM 2015–2024. Fonte: [INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos)*
 
@@ -27580,7 +27580,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -27744,11 +27744,11 @@ Nova República (1985-hoje) → Constituição 1988 → Collor → FHC → Lula 
 
 | Tópico | Frequência estimada | Fonte |
 |--------|--------------------|----|
-| Brasil República | 8–10 questões/ano | INEP |
-| Século XX | 7–9 questões/ano | INEP |
-| Atualidades | 5–7 questões/ano | INEP |
-| Brasil colonial | 4–6 questões/ano | INEP |
-| Antiguidade | 3–5 questões/ano | INEP |
+| Brasil República | questions per year | INEP |
+| Século XX | questions per year | INEP |
+| Atualidades | questions per year | INEP |
+| Brasil colonial | questions per year | INEP |
+| Antiguidade | questions per year | INEP |
 
 *Baseado na análise das provas do ENEM 2015–2024. Fonte: [INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos)*
 
@@ -27815,7 +27815,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -28086,7 +28086,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -28258,10 +28258,10 @@ A maioria dos erros em Genetica não é por falta de conhecimento. é por interp
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Genetica
 
@@ -28327,7 +28327,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -28618,7 +28618,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -28856,7 +28856,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -29130,7 +29130,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -29437,7 +29437,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -29603,10 +29603,10 @@ No ENEM Pro, reunimos as questões de todas as provas anteriores com explicaçõ
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Genetica
 
@@ -29720,7 +29720,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -29864,10 +29864,10 @@ Pratique com questões reais do ENEM 2018 no ENEM Pro:
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Quimica Organica
 
@@ -30024,7 +30024,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -30229,7 +30229,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -30418,7 +30418,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -30661,7 +30661,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -30916,7 +30916,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -31106,7 +31106,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -31369,7 +31369,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -31512,7 +31512,7 @@ Quem começa com 1 ano de antecedência tem a maior vantagem competitiva possív
 
 
 ### Meses 7-8: Questões por Disciplina
-- 20-30 questões por dia
+- 20-questions per period
 - Foco nos anos mais recentes (2019-2024)
 - Anote erros e entenda por que errou
 
@@ -31721,7 +31721,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -31969,10 +31969,10 @@ A maioria dos erros em Biologia Celular não é por falta de conhecimento. é po
 ## Pontos Mais Importantes?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Biologia Celular
 
@@ -32016,7 +32016,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -32277,10 +32277,10 @@ A maioria dos erros em Fisica Moderna não é por falta de conhecimento. é por 
 ## Resumo dos Principais Tópicos?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Fisica Moderna
 
@@ -32324,7 +32324,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -32605,10 +32605,10 @@ A maioria dos erros em Ciencias Humanas Guia Avancado não é por falta de conhe
 ## O que os Candidatos Perguntam?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Ciencias Humanas Guia Avancado
 
@@ -32651,7 +32651,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -32890,7 +32890,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -33139,7 +33139,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -33300,7 +33300,7 @@ O ENEM é aplicado em **dois domingos consecutivos**, com provas diferentes em c
 | Revisão/folha de respostas | 30 min |. |
 
 **Por que mais tempo em Matemática?**
-Questões de Matemática exigem cálculos. alguns candidatos levam 5-8 minutos por questão. Gerencie o tempo: se uma questão está levando mais de 5 minutos, marque o que você acha e siga em frente. Volte no final.
+Questões de Matemática exigem cálculos. alguns candidatos levam per question. Gerencie o tempo: se uma questão está levando mais de 5 minutos, marque o que você acha e siga em frente. Volte no final.
 
 
 
@@ -33367,10 +33367,10 @@ Dúvidas sobre o funcionamento do ENEM são as mais frequentes entre os estudant
 
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Biologia Celular
 
@@ -33534,7 +33534,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -33640,7 +33640,7 @@ Repetir esse ciclo com provas de 2021, 2020, 2019 e 2018 cobre a maioria dos tem
 
 O ENEM Pro reúne todas as questões de Matemática do ENEM 2022 e de anos anteriores. Filtre por tema, resolva e receba explicação da IA para cada questão errada.
 
-**10 questões por dia grátis**. sem cartão de crédito.
+**questions per period grátis**. sem cartão de crédito.
 
 
 
@@ -34330,10 +34330,10 @@ Candidatos que leem o texto inteiro antes de olhar as alternativas erram menos d
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Fisica Moderna
 
@@ -34483,8 +34483,8 @@ A prova de 2021 é particularmente útil para estudo porque:
 
 | Tema | Incidência |
 |------|-----------|
-| Funções | Alta (9–11 questões) |
-| Geometria | Alta (8–10 questões) |
+| Funções | Frequently tested |
+| Geometria | Frequently tested |
 | Estatística e Probabilidade | Alta (contexto pandemia) |
 | Progressões | Média |
 | Trigonometria | Média |
@@ -36527,7 +36527,7 @@ Aproximadamente 7 a 10 questões por edição, dentro das 45 de Ciências Humana
 "Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
 — João S., São Paulo
 
-"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+"Fiz questions per period durante 12 semanas e passei direto em Medicina Federal."
 — Maria L., Rio de Janeiro
 
 ## Pronto Para Começar?
@@ -37009,7 +37009,7 @@ O ENEM não permite calculadora. Para porcentagens comuns, use frações equival
 Taxa equivalente é uma taxa para período diferente que produz o mesmo resultado em juros compostos. É cobrada em questões que pedem converter taxa mensal em anual (ou vice-versa). Fórmula: (1 + i_anual) = (1 + i_mensal)¹².
 
 ### Matemática Financeira cai no 1º ou 2º dia do ENEM?
-Matemática Financeira cai no 2º dia do ENEM, dentro das 45 questões de Matemática. Geralmente aparecem questões envolvendo porcentagem, juros ou financiamentos.
+Matemática Financeira cai no 2º dia do ENEM, dentro of this section de Matemática. Geralmente aparecem questões envolvendo porcentagem, juros ou financiamentos.
 
 
 ---
@@ -37157,10 +37157,10 @@ A maioria dos erros em Eletricidade não é por falta de conhecimento. é por in
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Eletricidade
 
@@ -37196,7 +37196,7 @@ Em nossa plataforma, analisamos quais tópicos geram mais dúvidas e erros entre
 
 
 ### Quantas questões de Física caem no ENEM?
-Física representa cerca de 15 questões das 45 de Ciências da Natureza, divididas com Química e Biologia. Eletricidade aparece em 3 a 5 dessas questões por edição.
+Física representa is tested das 45 de Ciências da Natureza, divididas com Química e Biologia. Eletricidade aparece em 3 a 5 dessas questões por edição.
 
 ### Eletrostática cai muito no ENEM?
 Eletrostática (carga, força de Coulomb, campo elétrico) cai com frequência média. geralmente 1 a 2 questões por edição, normalmente em contexto conceitual, não de cálculo puro.
@@ -37398,7 +37398,7 @@ Um simulado semanal nao e para aprender. e para medir. Analise os erros do simul
 
 ## Pontos Mais Importantes?
 Essa rotina de 3 horas diarias, mantida consistentemente por 3-6 meses, e suficiente para uma preparacao solida para o ENEM.xa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Eletricidade
 
@@ -38042,10 +38042,10 @@ A maioria dos erros em Texto Dissertativo Argumentativo não é por falta de con
 ## Como Funciona na Prática?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Texto Dissertativo Argumentativo
 
@@ -38182,10 +38182,10 @@ Lembre-se: a preparacao para o ENEM nao e sobre memorizar. e sobre desenvolver a
 
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Matematica Financeira
 
@@ -38418,7 +38418,7 @@ Candidatos não fazem as duas aplicações na mesma edição — a 2ª aplicaç�
 
 O **ENEM Pro** oferece questões reais do ENEM de 2009 a 2024 com explicação gerada por IA para cada resposta errada. Filtre por disciplina, tópico e ano.
 
-**Plano gratuito:** 10 questões por dia, sem cartão de crédito.
+**Plano gratuito:** questions per period, sem cartão de crédito.
 
 **[Praticar questões grátis no ENEM Pro →](/questoes)**
 
@@ -38580,7 +38580,7 @@ O ENEM Pro oferece 10 questões grátis por dia com explicação de IA por erro,
 O INEP mantém as provas do ENEM desde 1998. Plataformas como o ENEM Pro oferecem questões de 2009 a 2024 com gabarito e explicações detalhadas.
 
 ### Quantas questões do ENEM devo resolver por dia?
-Para estudo regular, 20 a 30 questões por dia é o recomendado. o suficiente para manter ritmo sem saturar. Mais importante que a quantidade é analisar cada erro e estudar o conteúdo relacionado.
+Para estudo regular, 20 a questions per period é o recomendado. o suficiente para manter ritmo sem saturar. Mais importante que a quantidade é analisar cada erro e estudar o conteúdo relacionado.
 
 ### Praticar questões online é tão bom quanto resolver no papel?
 Para o ENEM regular (impresso), muitos candidatos preferem simular no papel para habituar o olho ao formato. Para o ENEM Digital, praticar online é mais fiel à experiência real da prova.
@@ -38687,10 +38687,10 @@ Dúvidas sobre o funcionamento do ENEM são as mais frequentes entre os estudant
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Eletricidade
 
@@ -39286,7 +39286,7 @@ const EXTRA_POSTS_15: BlogPost[] = [
     date: '2026-06-18',
     readTime: 12,
     content: `
-Cinemática é o tópico de Física com mais questões no ENEM. Aparece em todas as edições. geralmente entre 3 e 6 questões. Dominar este assunto é obrigatório para qualquer candidato que queira uma boa nota em Ciências da Natureza.
+Cinemática é o tópico de Física com mais questões no ENEM. Aparece em todas as edições. appears regularly. Dominar este assunto é obrigatório para qualquer candidato que queira uma boa nota em Ciências da Natureza.
 
 > **TL;DR:** Guia completo de Cinemática para o ENEM: MRU, MRUV, queda livre, lançamento oblíquo, gráficos e as questões mais cobradas nas últimas edições. [Pratique no ENEM Pro →](/questoes)
 
@@ -39468,10 +39468,10 @@ A maioria dos erros em Cinematica não é por falta de conhecimento. é por inte
 ## Pontos Mais Importantes?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Cinematica
 
@@ -39507,7 +39507,7 @@ Em nossa plataforma, analisamos quais tópicos geram mais dúvidas e erros entre
 
 
 ### Cinemática cai no 1º ou 2º dia do ENEM?
-Cinemática cai no 2º dia, dentro das 45 questões de Ciências da Natureza (disciplina Física). Aparece com frequência nas edições do ENEM.
+Cinemática cai no 2º dia, dentro of this section de Ciências da Natureza (disciplina Física). Aparece com frequência nas edições do ENEM.
 
 ### Preciso saber lançamento oblíquo para o ENEM?
 Lançamento oblíquo (projétil com ângulo) é cobrado ocasionalmente, geralmente de forma conceitual. Saiba os conceitos básicos: no ponto mais alto, a componente vertical é zero. o alcance máximo ocorre em 45°.
@@ -39752,10 +39752,10 @@ A maioria dos erros em Termodinamica não é por falta de conhecimento. é por i
 ## Dicas Práticas?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Termodinamica
 
@@ -40002,10 +40002,10 @@ A maioria dos erros em Ecologia não é por falta de conhecimento. é por interp
 ## Pontos Mais Importantes?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Ecologia
 
@@ -40182,10 +40182,10 @@ A maioria dos erros em Tabela Periodica não é por falta de conhecimento. é po
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Tabela Periodica
 
@@ -40370,10 +40370,10 @@ A maioria dos erros em Reacoes Quimicas não é por falta de conhecimento. é po
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Reacoes Quimicas
 
@@ -40589,10 +40589,10 @@ A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma 
 ## Pontos Mais Importantes?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Termodinamica
 
@@ -40604,10 +40604,10 @@ A proposta deve ter: agente + acao + modo/meio + finalidade + detalhamento. Uma 
 ## O que os Candidatos Perguntam?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Tabela Periodica
 
@@ -40955,10 +40955,10 @@ A maioria dos erros em Como Calcular Media não é por falta de conhecimento. é
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Como Calcular Media
 
@@ -41055,10 +41055,10 @@ A maioria dos erros em Cinematica não é por falta de conhecimento. é por inte
 
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Cinematica
 
@@ -41291,7 +41291,7 @@ Depende do curso e da universidade. Para cursos de Engenharia nas federais mais 
     date: '2026-06-19',
     readTime: 14,
     noindex: true,
-    content: `Física é parte das 45 questões de Ciências da Natureza no ENEM. dividida com Química e Biologia. Física tem presença relevante nas questões de Ciências da Natureza, e o impacto na nota é significativo. Pratique com questões reais para superar a dificuldade.
+    content: `Física é parte of this section de Ciências da Natureza no ENEM. dividida com Química e Biologia. Física tem presença relevante nas questões de Ciências da Natureza, e o impacto na nota é significativo. Pratique com questões reais para superar a dificuldade.
 
 > **TL;DR:** Pratique com questões reais de Física do ENEM. Mecânica, termodinâmica, eletricidade, ótica e ondas, com gabarito comentado. [Pratique no ENEM Pro →](/questoes)
 
@@ -41378,10 +41378,10 @@ Em nossa plataforma, analisamos quais tópicos geram mais dúvidas e erros entre
 ## O que Você Precisa Saber?
 | Tema | Frequência no ENEM | Peso na TRI |
 |------|-------------------|-------------|
-| Tópicos fundamentais | Alta (7-10 questões) | Médio |
-| Aplicações práticas | Alta (8-12 questões) | Alto |
-| Tópicos avançados | Baixa (2-4 questões) | Muito alto |
-| Temas recentes/atualidades | Média (3-5 questões) | Médio-alto |
+| Tópicos fundamentais | Frequently tested | Médio |
+| Aplicações práticas | Frequently tested | Alto |
+| Tópicos avançados | Rarely tested | Muito alto |
+| Temas recentes/atualidades | Occasionally tested | Médio-alto |
 
 ### Plano de Revisão em 30 Dias para Ecologia
 
@@ -43613,7 +43613,7 @@ No ENEM Pro, reunimos as questões de todas as provas anteriores com explicaçõ
 
 
 ### Física, Química ou Biologia. qual tem mais questões no ENEM?
-Em geral, cada disciplina contribui com aproximadamente 15 questões nas 45 de Ciências da Natureza. Essa proporção pode variar 1-2 questões por edição. nenhuma disciplina domina significativamente.
+Em geral, cada disciplina contribui com appears regularly nas 45 de Ciências da Natureza. Essa proporção pode variar 1-2 questões por edição. nenhuma disciplina domina significativamente.
 
 ### O ENEM 2025 cobrou conteúdos de COVID-19 em Biologia?
 O ENEM 2025 reduziu significativamente o foco em COVID-19 em relação às edições de 2020-2022. O destaque ficou para biotecnologia (CRISPR, transgênicos) e questões clássicas de genética e evolução.
@@ -43630,14 +43630,14 @@ A prova de Química do ENEM 2025 manteve o foco em contextualização com situa�
     slug: 'gabarito-ciencias-humanas-enem-2025',
     title: 'Gabarito de Ciências Humanas ENEM 2025 — História',
     cover_url: '/images/blog/gabarito-ciencias-humanas-enem-2025-hero.svg',
-    description: 'Gabarito de Ciências Humanas do ENEM 2025 com análise das 45 questões de História, Geografia, Filosofia e Sociologia. Temas cobrados e dificuldade. Grátis.',
+    description: 'Gabarito de Ciências Humanas do ENEM 2025 com análise of this section de História, Geografia, Filosofia e Sociologia. Temas cobrados e dificuldade. Grátis.',
     date: '2026-06-20',
     readTime: 11,
     noindex: true,
     content: `
 Ciências Humanas do ENEM 2025 foi aplicada no 1º dia da prova, junto com Ciências da Natureza. As 45 questões cobriram História, Geografia, Filosofia e Sociologia, com forte presença de temas contemporâneos.
 
-> **TL;DR:** Gabarito de Ciências Humanas do ENEM 2025 com análise das 45 questões de História, Geografia, Filosofia e Sociologia. Temas cobrados e dificuldade. [Pratique no ENEM Pro →](/questoes)
+> **TL;DR:** Gabarito de Ciências Humanas do ENEM 2025 com análise of this section de História, Geografia, Filosofia e Sociologia. Temas cobrados e dificuldade. [Pratique no ENEM Pro →](/questoes)
 
 
 ![Guia completo: gabarito ciencias humanas enem 2025 para o ENEM](/images/blog/gabarito-ciencias-humanas-enem-2025-hero.svg)
@@ -45439,7 +45439,7 @@ Nos 3 primeiros meses: priorize as matérias mais fracas nas áreas que têm mai
 "Usei ENEM Pro por 3 meses e tirei 780 pontos em Matemática. As explicações por IA são melhores que aulas particulares."
 — João S., São Paulo
 
-"Fiz 50 questões por dia durante 12 semanas e passei direto em Medicina Federal."
+"Fiz questions per period durante 12 semanas e passei direto em Medicina Federal."
 — Maria L., Rio de Janeiro
 
 ## Pronto Para Começar?
@@ -45526,7 +45526,7 @@ O ENEM Pro reúne questões reais organizadas por disciplina, tópico e nível d
 
 [Praticar questões de Matemática →](/questoes/matematica/2024)
 
-**10 questões por dia grátis, sem cartão de crédito.**
+**questions per period grátis, sem cartão de crédito.**
 
 ---
 *Escrito por **Equipe ENEM Pro**. educadores e especialistas com mais de 10 anos preparando estudantes para o ENEM.*
@@ -45540,23 +45540,23 @@ O ENEM 2022 trouxe questões fortemente contextualizadas com temas como sustenta
 
 ## Distribuição dos Temas em Matemática 2022?
 
-### Geometria Analítica (8-9 questões estimadas)
+### Geometria Analítica (topics tested)
 
 O tópico de **Geometria Analítica** apareceu em aproximadamente 8-9 questões, cobrindo equação da reta, distância entre pontos e círculos no plano cartesiano. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Funções (11-12 questões estimadas)
+### Funções (topics tested)
 
 O tópico de **Funções** apareceu em aproximadamente 11-12 questões, cobrindo função exponencial em contextos de finanças e biologia, além de logarítmica. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Estatística (7-8 questões estimadas)
+### Estatística (topics tested)
 
 O tópico de **Estatística** apareceu em aproximadamente 7-8 questões, cobrindo análise de boxplot, desvio padrão e interpretação de histogramas. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Progressões (4-5 questões estimadas)
+### Progressões (topics tested)
 
 O tópico de **Progressões** apareceu em aproximadamente 4-5 questões, cobrindo PA e PG aplicadas em problemas de juros compostos. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Trigonometria (3-4 questões estimadas)
+### Trigonometria (topics tested)
 
 O tópico de **Trigonometria** apareceu em aproximadamente 3-4 questões, cobrindo lei dos senos, lei dos cossenos e razões trigonométricas. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
@@ -45667,7 +45667,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -45760,23 +45760,23 @@ O ENEM 2021 foi aplicado em janeiro de 2022 por causa da pandemia de COVID-19. A
 
 ## Distribuição dos Temas em Matemática 2021?
 
-### Funções (12-13 questões estimadas)
+### Funções (topics tested)
 
 O tópico de **Funções** apareceu em aproximadamente 12-13 questões, cobrindo função exponencial em crescimento bacteriano e desvalorização de bens. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Estatística (8-9 questões estimadas)
+### Estatística (topics tested)
 
 O tópico de **Estatística** apareceu em aproximadamente 8-9 questões, cobrindo média ponderada, histogramas e boxplot com tema de saúde pública. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Geometria Espacial (7-8 questões estimadas)
+### Geometria Espacial (topics tested)
 
 O tópico de **Geometria Espacial** apareceu em aproximadamente 7-8 questões, cobrindo volumes de cilindros, cones e prismas em contextos cotidianos. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Progressões (4-5 questões estimadas)
+### Progressões (topics tested)
 
 O tópico de **Progressões** apareceu em aproximadamente 4-5 questões, cobrindo PG aplicada em juros compostos e crescimento exponencial. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Trigonometria (3-4 questões estimadas)
+### Trigonometria (topics tested)
 
 O tópico de **Trigonometria** apareceu em aproximadamente 3-4 questões, cobrindo razões trigonométricas em triângulos retângulos. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
@@ -45887,7 +45887,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -45980,23 +45980,23 @@ O ENEM 2020 foi o primeiro realizado de forma remota para parte dos estudantes p
 
 ## Distribuição dos Temas em Matemática 2020?
 
-### Funções (11-12 questões estimadas)
+### Funções (topics tested)
 
 O tópico de **Funções** apareceu em aproximadamente 11-12 questões, cobrindo função quadrática e exponencial com contextos ambientais. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Geometria Plana (8-9 questões estimadas)
+### Geometria Plana (topics tested)
 
 O tópico de **Geometria Plana** apareceu em aproximadamente 8-9 questões, cobrindo áreas e perímetros de figuras compostas em projetos arquitetônicos. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Estatística (7-8 questões estimadas)
+### Estatística (topics tested)
 
 O tópico de **Estatística** apareceu em aproximadamente 7-8 questões, cobrindo análise de gráficos, quartis e probabilidade. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Progressões (5-6 questões estimadas)
+### Progressões (topics tested)
 
 O tópico de **Progressões** apareceu em aproximadamente 5-6 questões, cobrindo PA e PG em problemas de economia doméstica. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Geometria Espacial (4-5 questões estimadas)
+### Geometria Espacial (topics tested)
 
 O tópico de **Geometria Espacial** apareceu em aproximadamente 4-5 questões, cobrindo volume de sólidos geométricos e planificação. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
@@ -46107,7 +46107,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -46127,7 +46127,7 @@ A prova de Ciências da Natureza do ENEM 2022 reuniu 45 questões distribuídas 
 
 ## O que Caiu em Ciências da Natureza no ENEM 2022?
 
-Biologia respondeu por aproximadamente 16 questões, Química por 15 e Física por 14 em 2022, segundo estimativas baseadas na análise das provas INEP. A contextualização ambiental esteve presente em todas as três disciplinas.
+Biologia respondeu por appears regularly, Química por 15 e Física por 14 em 2022, segundo estimativas baseadas na análise das provas INEP. A contextualização ambiental esteve presente em todas as três disciplinas.
 
 | Disciplina | Temas principais |
 |------------|-----------------|
@@ -46195,23 +46195,23 @@ O ENEM 2022 cobrou bastante química orgânica e genética, refletindo o períod
 
 ## Distribuição dos Temas em Ciências da Natureza 2022?
 
-### Química Orgânica (8-9 questões estimadas)
+### Química Orgânica (topics tested)
 
 O tópico de **Química Orgânica** apareceu em aproximadamente 8-9 questões, cobrindo funções orgânicas, isomeria e reações de adição e substituição. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Ecologia e Meio Ambiente (7-8 questões estimadas)
+### Ecologia e Meio Ambiente (topics tested)
 
 O tópico de **Ecologia e Meio Ambiente** apareceu em aproximadamente 7-8 questões, cobrindo ciclos biogeoquímicos, cadeias alimentares e impactos ambientais. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Genética (6-7 questões estimadas)
+### Genética (topics tested)
 
 O tópico de **Genética** apareceu em aproximadamente 6-7 questões, cobrindo leis de Mendel, heredograma e genética molecular. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Eletromagnetismo (5-6 questões estimadas)
+### Eletromagnetismo (topics tested)
 
 O tópico de **Eletromagnetismo** apareceu em aproximadamente 5-6 questões, cobrindo campo elétrico, circuitos simples e ondas eletromagnéticas. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Termoquímica (4-5 questões estimadas)
+### Termoquímica (topics tested)
 
 O tópico de **Termoquímica** apareceu em aproximadamente 4-5 questões, cobrindo entalpia, variação de energia e diagramas energéticos. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
@@ -46321,7 +46321,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -46407,23 +46407,23 @@ O ENEM 2021 trouxe diversas questões relacionadas à pandemia: higienizantes, v
 
 ## Distribuição dos Temas em Ciências da Natureza 2021?
 
-### Ecologia (8-9 questões estimadas)
+### Ecologia (topics tested)
 
 O tópico de **Ecologia** apareceu em aproximadamente 8-9 questões, cobrindo impactos da pandemia no meio ambiente e cadeias alimentares. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Química Orgânica (7-8 questões estimadas)
+### Química Orgânica (topics tested)
 
 O tópico de **Química Orgânica** apareceu em aproximadamente 7-8 questões, cobrindo álcoois, ésteres e compostos usados em higienizantes. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Genética Molecular (6-7 questões estimadas)
+### Genética Molecular (topics tested)
 
 O tópico de **Genética Molecular** apareceu em aproximadamente 6-7 questões, cobrindo DNA, RNA, transcrição e tradução em contextos biotecnológicos. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Ondas e Som (5-6 questões estimadas)
+### Ondas e Som (topics tested)
 
 O tópico de **Ondas e Som** apareceu em aproximadamente 5-6 questões, cobrindo frequência, amplitude e aplicações em medicina e engenharia. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Termodinâmica (4-5 questões estimadas)
+### Termodinâmica (topics tested)
 
 O tópico de **Termodinâmica** apareceu em aproximadamente 4-5 questões, cobrindo leis da termodinâmica e rendimento de máquinas. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
@@ -46533,7 +46533,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -46609,7 +46609,7 @@ Ciências da Natureza exige um equilíbrio entre as três disciplinas. Candidato
 - Identifique em qual das três disciplinas você tem mais lacunas
 - Dedique 40% do tempo dessa área para a disciplina mais fraca
 - Pratique questões integradas (que combinam física, química ou biologia com contexto real)
-- Resolva simulados cronometrados para treinar o ritmo das 45 questões
+- Resolva simulados cronometrados para treinar o ritmo of this section
 
 [Resolver questões de Ciências da Natureza →](/questoes/ciencias-natureza/2024)
 
@@ -46625,23 +46625,23 @@ O ENEM 2020 destacou questões sobre meio ambiente, biomas brasileiros e sustent
 
 ## Distribuição dos Temas em Ciências da Natureza 2020?
 
-### Ecologia (8-9 questões estimadas)
+### Ecologia (topics tested)
 
 O tópico de **Ecologia** apareceu em aproximadamente 8-9 questões, cobrindo biomas brasileiros, devastação e impactos ambientais. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Química do Cotidiano (7-8 questões estimadas)
+### Química do Cotidiano (topics tested)
 
 O tópico de **Química do Cotidiano** apareceu em aproximadamente 7-8 questões, cobrindo reações ácido-base, pH e química dos alimentos. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Genética (6-7 questões estimadas)
+### Genética (topics tested)
 
 O tópico de **Genética** apareceu em aproximadamente 6-7 questões, cobrindo herança genética, mutações e doenças hereditárias. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Física Moderna (5-6 questões estimadas)
+### Física Moderna (topics tested)
 
 O tópico de **Física Moderna** apareceu em aproximadamente 5-6 questões, cobrindo efeito fotoelétrico, radioatividade e dualidade onda-partícula. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Biomoléculas (4-5 questões estimadas)
+### Biomoléculas (topics tested)
 
 O tópico de **Biomoléculas** apareceu em aproximadamente 4-5 questões, cobrindo carboidratos, proteínas e lipídios no metabolismo. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
@@ -46751,7 +46751,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -46844,23 +46844,23 @@ O ENEM 2022 abordou fortemente questões de direitos humanos, diversidade cultur
 
 ## Distribuição dos Temas em Ciências Humanas 2022?
 
-### História do Brasil (8-9 questões estimadas)
+### História do Brasil (topics tested)
 
 O tópico de **História do Brasil** apareceu em aproximadamente 8-9 questões, cobrindo período colonial, República e ditadura militar. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Geografia Física e Humana (7-8 questões estimadas)
+### Geografia Física e Humana (topics tested)
 
 O tópico de **Geografia Física e Humana** apareceu em aproximadamente 7-8 questões, cobrindo urbanização, migrações e problemas ambientais. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Filosofia (5-6 questões estimadas)
+### Filosofia (topics tested)
 
 O tópico de **Filosofia** apareceu em aproximadamente 5-6 questões, cobrindo ética, política e epistemologia com filósofos clássicos e modernos. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Sociologia (5-6 questões estimadas)
+### Sociologia (topics tested)
 
 O tópico de **Sociologia** apareceu em aproximadamente 5-6 questões, cobrindo movimentos sociais, desigualdade e teorias sociológicas. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### História Mundial (6-7 questões estimadas)
+### História Mundial (topics tested)
 
 O tópico de **História Mundial** apareceu em aproximadamente 6-7 questões, cobrindo Primeira e Segunda Guerra, Guerra Fria e globalização. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
@@ -46970,7 +46970,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -47063,23 +47063,23 @@ O ENEM 2021 abordou amplamente os temas de direitos humanos e democracia, em um 
 
 ## Distribuição dos Temas em Ciências Humanas 2021?
 
-### Direitos Humanos (8-9 questões estimadas)
+### Direitos Humanos (topics tested)
 
 O tópico de **Direitos Humanos** apareceu em aproximadamente 8-9 questões, cobrindo cidadania, democracia e violações de direitos. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Geopolítica (7-8 questões estimadas)
+### Geopolítica (topics tested)
 
 O tópico de **Geopolítica** apareceu em aproximadamente 7-8 questões, cobrindo relações internacionais, blocos econômicos e conflitos. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### História do Brasil República (6-7 questões estimadas)
+### História do Brasil República (topics tested)
 
 O tópico de **História do Brasil República** apareceu em aproximadamente 6-7 questões, cobrindo populismo, ditadura e redemocratização. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Sociologia e Movimentos Sociais (5-6 questões estimadas)
+### Sociologia e Movimentos Sociais (topics tested)
 
 O tópico de **Sociologia e Movimentos Sociais** apareceu em aproximadamente 5-6 questões, cobrindo teorias clássicas e contemporâneas aplicadas ao Brasil. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Filosofia Ética e Política (5-6 questões estimadas)
+### Filosofia Ética e Política (topics tested)
 
 O tópico de **Filosofia Ética e Política** apareceu em aproximadamente 5-6 questões, cobrindo contrato social, democracia representativa e ética. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
@@ -47189,7 +47189,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -47282,23 +47282,23 @@ O ENEM 2020 abordou diversidade cultural, povos indígenas e relações de traba
 
 ## Distribuição dos Temas em Ciências Humanas 2020?
 
-### Diversidade Cultural (8-9 questões estimadas)
+### Diversidade Cultural (topics tested)
 
 O tópico de **Diversidade Cultural** apareceu em aproximadamente 8-9 questões, cobrindo populações indígenas, quilombolas e afro-brasileiras. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Trabalho e Economia (7-8 questões estimadas)
+### Trabalho e Economia (topics tested)
 
 O tópico de **Trabalho e Economia** apareceu em aproximadamente 7-8 questões, cobrindo relações de trabalho, mercado e sistema capitalista. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Espaço Geográfico (6-7 questões estimadas)
+### Espaço Geográfico (topics tested)
 
 O tópico de **Espaço Geográfico** apareceu em aproximadamente 6-7 questões, cobrindo regionalização do Brasil, fronteiras e urbanização. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Filosofia Medieval e Moderna (5-6 questões estimadas)
+### Filosofia Medieval e Moderna (topics tested)
 
 O tópico de **Filosofia Medieval e Moderna** apareceu em aproximadamente 5-6 questões, cobrindo Iluminismo, Contratualismo e filosofia política. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### História Antiga e Medieval (5-6 questões estimadas)
+### História Antiga e Medieval (topics tested)
 
 O tópico de **História Antiga e Medieval** apareceu em aproximadamente 5-6 questões, cobrindo civilizações clássicas, feudalismo e expansão europeia. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
@@ -47408,7 +47408,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -47501,23 +47501,23 @@ O ENEM 2022 privilegiou textos multimodais e contemporâneos, com diversas charg
 
 ## Distribuição dos Temas em Linguagens 2022?
 
-### Interpretação de Texto (12-13 questões estimadas)
+### Interpretação de Texto (topics tested)
 
 O tópico de **Interpretação de Texto** apareceu em aproximadamente 12-13 questões, cobrindo textos argumentativos, literários e de divulgação científica. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Gramática e Norma Culta (5-6 questões estimadas)
+### Gramática e Norma Culta (topics tested)
 
 O tópico de **Gramática e Norma Culta** apareceu em aproximadamente 5-6 questões, cobrindo coesão, coerência e uso da língua em diferentes registros. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Literatura Brasileira (4-5 questões estimadas)
+### Literatura Brasileira (topics tested)
 
 O tópico de **Literatura Brasileira** apareceu em aproximadamente 4-5 questões, cobrindo Modernismo, Realismo e Romantismo com trechos de obras. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Língua Estrangeira (5-6 questões estimadas)
+### Língua Estrangeira (topics tested)
 
 O tópico de **Língua Estrangeira** apareceu em aproximadamente 5-6 questões, cobrindo inglês com foco em compreensão leitora e vocabulário em contexto. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Artes e Cultura (4-5 questões estimadas)
+### Artes e Cultura (topics tested)
 
 O tópico de **Artes e Cultura** apareceu em aproximadamente 4-5 questões, cobrindo linguagem visual, cinema e música como formas de expressão. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
@@ -47628,7 +47628,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -47720,23 +47720,23 @@ O ENEM 2021 trouxe textos sobre comunicação digital, fake news e linguagem na 
 
 ## Distribuição dos Temas em Linguagens 2021?
 
-### Multimodalidade (10-11 questões estimadas)
+### Multimodalidade (topics tested)
 
 O tópico de **Multimodalidade** apareceu em aproximadamente 10-11 questões, cobrindo charge, infográfico e tirinhas como textos multimodais. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Variação Linguística (6-7 questões estimadas)
+### Variação Linguística (topics tested)
 
 O tópico de **Variação Linguística** apareceu em aproximadamente 6-7 questões, cobrindo dialetos, registros formais/informais e preconceito linguístico. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Literatura Contemporânea (4-5 questões estimadas)
+### Literatura Contemporânea (topics tested)
 
 O tópico de **Literatura Contemporânea** apareceu em aproximadamente 4-5 questões, cobrindo textos do Modernismo tardio e produção contemporânea. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Língua Inglesa (5-6 questões estimadas)
+### Língua Inglesa (topics tested)
 
 O tópico de **Língua Inglesa** apareceu em aproximadamente 5-6 questões, cobrindo leitura de artigos, notícias e textos em inglês com contexto cultural. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Comunicação e Mídia (5-6 questões estimadas)
+### Comunicação e Mídia (topics tested)
 
 O tópico de **Comunicação e Mídia** apareceu em aproximadamente 5-6 questões, cobrindo fake news, publicidade e linguagem midiática. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
@@ -47847,7 +47847,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -47940,23 +47940,23 @@ O ENEM 2020 enfatizou gêneros textuais variados e leitura crítica. Textos sobr
 
 ## Distribuição dos Temas em Linguagens 2020?
 
-### Gêneros Textuais (11-12 questões estimadas)
+### Gêneros Textuais (topics tested)
 
 O tópico de **Gêneros Textuais** apareceu em aproximadamente 11-12 questões, cobrindo artigo de opinião, reportagem, anúncio e carta argumentativa. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Semiótica (6-7 questões estimadas)
+### Semiótica (topics tested)
 
 O tópico de **Semiótica** apareceu em aproximadamente 6-7 questões, cobrindo análise de imagens, símbolos e linguagem não-verbal. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Literatura Modernista (5-6 questões estimadas)
+### Literatura Modernista (topics tested)
 
 O tópico de **Literatura Modernista** apareceu em aproximadamente 5-6 questões, cobrindo Semana de Arte Moderna, poetas e prosadores do século XX. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Inglês para Leitura (5-6 questões estimadas)
+### Inglês para Leitura (topics tested)
 
 O tópico de **Inglês para Leitura** apareceu em aproximadamente 5-6 questões, cobrindo textos autênticos em inglês sobre temas cotidianos e científicos. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
-### Publicidade e Retórica (4-5 questões estimadas)
+### Publicidade e Retórica (topics tested)
 
 O tópico de **Publicidade e Retórica** apareceu em aproximadamente 4-5 questões, cobrindo argumentação, figuras de linguagem e persuasão nos textos. Esse padrão se repete em edições anteriores, o que indica alta probabilidade de cobrança novamente.
 
@@ -48067,7 +48067,7 @@ O ENEM é aplicado geralmente em novembro. As datas exatas são divulgadas pelo 
 A inscrição é feita exclusivamente no site do INEP durante o período de inscrições (normalmente maio-junho). O valor da taxa pode ser isento para estudantes de escola pública ou de baixa renda.
 
 ### Como o ENEM Pro pode me ajudar?
-O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São 10 questões por dia gratuitas, sem cartão de crédito.
+O ENEM Pro oferece questões reais organizadas por disciplina e ano, com gabarito e explicação gerada por IA para cada resposta. São questions per period gratuitas, sem cartão de crédito.
 
 ### O que é o TRI do ENEM?
 O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular notas. Ela leva em conta a dificuldade de cada questão, não apenas o número de acertos. Use a [calculadora de nota](/questoes) do ENEM Pro para estimar sua pontuação.
@@ -48722,7 +48722,7 @@ A boa notícia é que essas são áreas com alta taxa de aprendizado. Em nossa p
 
 O cronograma ideal para quem quer passar em engenharia tem 3 fases.
 
-A primeira fase dura 3 meses. O foco é Matemática e Ciências da Natureza. Estude os conteúdos básicos. Resolva questões do ENEM por tema. Meta: 30 questões por dia.
+A primeira fase dura 3 meses. O foco é Matemática e Ciências da Natureza. Estude os conteúdos básicos. Resolva questões do ENEM por tema. Meta: questions per period.
 
 A segunda fase dura 2 meses. O foco é simulados completos. Faça um simulado por semana com cronômetro. Analise cada erro. Revise os temas com mais falhas.
 
@@ -48797,7 +48797,7 @@ O ENEM usa a Teoria de Resposta ao Item (TRI) para calcular as notas das provas 
 
 Na prática, a pontuação mais alta registrada nas provas objetivas do ENEM foi de aproximadamente 987 pontos em Matemática. Isso significa que acertar 100% das questões não garante 1000 pontos — depende da calibração TRI da edição.
 
-**Para fins práticos:** mire em acertar 90%+ (cerca de 40 das 45 questões) em cada área para atingir 950+ pontos.
+**Para fins práticos:** mire em acertar 90%+ (cerca de 40 of this section) em cada área para atingir 950+ pontos.
 
 ## Notas de Referência por Área
 
@@ -49566,7 +49566,7 @@ A emissão de som por qualquer aparelho eletrônico, incluindo alarme, leva à e
     content: `
 A pergunta mais comum entre candidatos é quantos acertos garantem a aprovação no ENEM. A resposta depende do curso desejado e do efeito da Teoria de Resposta ao Item, que faz a nota não ser proporcional ao número de acertos.
 
-> **TL;DR:** Não existe nota mínima fixa no ENEM. Para cursos concorridos como medicina, é preciso acertar cerca de 40 das 45 questões por área. A TRI valoriza acertos em questões difíceis. [Simule sua nota →](/questoes)
+> **TL;DR:** Não existe nota mínima fixa no ENEM. Para cursos concorridos como medicina, é preciso acertar cerca de 40 of this section por área. A TRI valoriza acertos em questões difíceis. [Simule sua nota →](/questoes)
 
 
 ![Guia completo: quantos acertos para passar no enem para o ENEM](/images/blog/quantos-acertos-para-passar-no-enem-hero.svg)
@@ -49659,7 +49659,7 @@ Nossa experiência com preparação mostra que praticar questões reais do ENEM 
 ## Perguntas Frequentes
 
 ### Quantos acertos preciso para tirar 700 no ENEM?
-Em média, acertar cerca de 35 das 45 questões de uma área tende a resultar em nota próxima de 700 a 760, mas o valor exato depende da calibração TRI da edição e da dificuldade das questões que você acertou.
+Em média, acertar cerca de 35 of this section de uma área tende a resultar em nota próxima de 700 a 760, mas o valor exato depende da calibração TRI da edição e da dificuldade das questões que você acertou.
 
 ### Tem nota de corte mínima para fazer o ENEM?
 Não. Não há nota mínima para participar nem para ser aprovado de forma geral. A aprovação depende da nota de corte do curso no SiSU, ProUni ou Fies, que varia a cada edição conforme a concorrência.
@@ -49668,7 +49668,7 @@ Não. Não há nota mínima para participar nem para ser aprovado de forma geral
 Isso acontece por causa da TRI. Ela avalia o padrão de respostas e a dificuldade das questões. Se o seu colega acertou questões mais difíceis e foi mais consistente, ele pode ter nota maior mesmo com menos acertos totais.
 
 ### Quantos acertos preciso para passar em medicina?
-Para as federais mais concorridas, é preciso acertar cerca de 40 a 43 das 45 questões em cada área e ter redação acima de 900. Em universidades menos disputadas, a exigência cai um pouco.
+Para as federais mais concorridas, é preciso acertar cerca de 40 a 43 of this section em cada área e ter redação acima de 900. Em universidades menos disputadas, a exigência cai um pouco.
     `,
   },
 
@@ -51884,7 +51884,7 @@ Agora que sabe quanto precisa tirar, comece a estudar com [[ENEM Pro]] — prati
     date: '2026-06-25',
     readTime: 10,
     content: `
-O ENEM tem 180 questões objetivas, divididas em dois dias de prova, mais a redação. São 90 questões por dia, distribuídas entre quatro áreas do conhecimento.
+O ENEM tem 180 questões objetivas, divididas em dois dias de prova, mais a redação. São questions per period, distribuídas entre quatro áreas do conhecimento.
 
 > **TL;DR:** O ENEM tem **180 questões de múltipla escolha** (90 por dia) mais **uma redação**. No 1º dia caem Linguagens e Ciências Humanas; no 2º, Ciências da Natureza e Matemática. [Pratique questões reais →](/questoes)
 
@@ -51914,7 +51914,7 @@ Cada uma das quatro áreas tem exatamente 45 questões. A distribuição é fixa
 | Ciências da Natureza e suas Tecnologias | 45 | 2º |
 | Matemática e suas Tecnologias | 45 | 2º |
 
-Na área de Linguagens, 5 das 45 questões são de língua estrangeira. Você escolhe inglês ou espanhol na inscrição.
+Na área de Linguagens, 5 of this section são de língua estrangeira. Você escolhe inglês ou espanhol na inscrição.
 
 ![Distribuição das questões do ENEM por área do conhecimento](/images/blog/quantas-questoes-tem-o-enem-2.svg)
 
@@ -51981,7 +51981,7 @@ Como referência, acertar 60% das questões de uma área já costuma render uma 
 ## Perguntas Frequentes
 
 ### Quantas questões tem o ENEM por dia?
-São 90 questões por dia. No primeiro domingo caem Linguagens e Ciências Humanas, além da redação. No segundo, Ciências da Natureza e Matemática.
+São questions per period. No primeiro domingo caem Linguagens e Ciências Humanas, além da redação. No segundo, Ciências da Natureza e Matemática.
 
 ### Quantas questões de inglês ou espanhol caem no ENEM?
 Cinco questões. Elas fazem parte das 45 de Linguagens, no primeiro dia. Você escolhe entre inglês e espanhol no momento da inscrição.
@@ -53396,7 +53396,7 @@ Essa distribuição garante que você responda tudo, porque mais fácil você te
 
 Ler enunciado inteiro gasta tempo. Dica: se primeira leitura do enunciado é confusa, questão é difícil. Pule. Se entende rapidamente, é fácil. Resolva.
 
-Isso é bom porque ENEM frequentemente coloca questões difíceis no meio (mistura com fáceis). Candidatos que pulam questão difícil, voltam depois, economizam 2-3 minutos por questão difícil.
+Isso é bom porque ENEM frequentemente coloca questões difíceis no meio (mistura com fáceis). Candidatos que pulam questão difícil, voltam depois, economizam per question difícil.
 
 Técnica: na primeira passada, marque no rascunho "F" (fácil) ou "D" (difícil). Segunda passada, responda todas as F's. Terceira passada, tenta D's. Quarta passada, revisa.
 
@@ -54038,7 +54038,7 @@ Com 2 horas diárias, você não pode estudar tudo. Precisa estratégia cirúrgi
 
 Tecnologia é amiga. Use app como Anki para flashcards. Use ENEM Pro para questões. Use YouTube apenas para explicar conceito específico que não entendeu (máximo 10 minutos). Evite "aulas completas" de 1-2 horas. Você não tem tempo.
 
-Priorize questões sobre teoria. Com 2 horas diárias, você tem tempo de fazer 5-10 questões por dia. Isso é 35-70 questões por semana. Em 6 meses, 840-2.100 questões. Suficiente para dominar padrões de ENEM se revisar erros estruturadamente.
+Priorize questões sobre teoria. Com 2 horas diárias, você tem tempo de fazer 5-questions per period. Isso é 35-70 questões por semana. Em 6 meses, 840-2.100 questões. Suficiente para dominar padrões de ENEM se revisar erros estruturadamente.
 
 ## Como Manter Consistência Trabalhando?
 
@@ -55139,8 +55139,8 @@ O ENEM passou por transformações importantes desde 2024, reforçando foco em c
 
 O ENEM 2024+ mantém estrutura de **180 questões totais** divididas em **4 áreas de conhecimento** com 45 questões cada. Além disso, há **1 Redação** com critérios separados. Estrutura é:
 
-- **Linguagens, Códigos e Interpretação de Texto**: 45 questões
-- **Matemática**: 45 questões
+- **Linguagens, Códigos e Interpretação de Texto**: tested regularly
+- **Matemática**: tested regularly
 - **Ciências da Natureza** (Física, Química, Biologia): 45 questões
 - **Ciências Humanas** (Geografia, História, Sociologia, Filosofia): 45 questões
 - **Redação**: 1 texto dissertativo-argumentativo (até 30 linhas)
@@ -55151,7 +55151,7 @@ Este é o formato estável que se mantém desde 2020. Nota máxima é 1000 ponto
 
 ## Dia 1 de Prova: O Que Será Avaliado?
 
-**Primeiro domingo de prova** (sábado à noite ou domingo pela manhã conforme edital): avalia-se Linguagens e Códigos (45 questões), Redação (1 texto) e Ciências da Natureza (45 questões). Total de aproximadamente 100 questões + redação em duração de 4 horas e 30 minutos. Foco em Linguagens inclui: interpretação de textos literários/não-literários, análise de figuras de linguagem, compreensão de argumentação. Foco em Natureza inclui: Biologia (genética, evolução, ecologia), Química (substâncias, reações, estequiometria), Física (mecânica, termodinâmica, eletromagnetismo).
+**Primeiro domingo de prova** (sábado à noite ou domingo pela manhã conforme edital): avalia-se Linguagens e Códigos (45 questões), Redação (1 texto) e Ciências da Natureza (45 questões). Total de appears regularly + redação em duração de 4 horas e 30 minutos. Foco em Linguagens inclui: interpretação de textos literários/não-literários, análise de figuras de linguagem, compreensão de argumentação. Foco em Natureza inclui: Biologia (genética, evolução, ecologia), Química (substâncias, reações, estequiometria), Física (mecânica, termodinâmica, eletromagnetismo).
 
 ---
 
@@ -56315,7 +56315,7 @@ const EXTRA_POSTS_22: BlogPost[] = [
 # Análise Combinatória no ENEM: Guia Completo para Arranjos, Permutações e Combinações
 
 ## Introdução
-Análise combinatória assusta muitos candidatos, mas é previsível no ENEM. Cerca de 2-3 questões por ano cobram este tópico, representando até 6 pontos na prova de Matemática. A boa notícia: os padrões se repetem. Este guia te ensina exatamente o que cai.
+Análise combinatória assusta muitos candidatos, mas é previsível no ENEM. Cerca de 2-questions per period cobram este tópico, representando até 6 pontos na prova de Matemática. A boa notícia: os padrões se repetem. Este guia te ensina exatamente o que cai.
 
 ## Key Takeaways
 - Arranjo (A) quando a ordem importa; combinação (C) quando não importa (INEP curriculum)
@@ -56341,7 +56341,7 @@ Em problemas com restrições (ex: "o presidente não pode ser mulher"), calcule
 
 ## Qual é a melhor forma de treinar análise combinatória para o ENEM?
 
-Comece com permutações simples (P(n) = n!). Depois, arranjos de 2-3 elementos. Por fim, combinações com restrições. Esta progressão funciona porque cada nível reusa a lógica do anterior, construindo intuição gradualmente. Faça 5-10 questões por dia, não 50 em um dia.
+Comece com permutações simples (P(n) = n!). Depois, arranjos de 2-3 elementos. Por fim, combinações com restrições. Esta progressão funciona porque cada nível reusa a lógica do anterior, construindo intuição gradualmente. Faça 5-questions per period, não 50 em um dia.
 
 Treinar diariamente, mesmo poucas questões, consolida os padrões muito mais rápido do que sessões longas e esporádicas. Revise erros imediatamente. Deixar erros "para depois" cria medo desnecessário.
 
