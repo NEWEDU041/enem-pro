@@ -106,8 +106,8 @@ export async function getGscCoverage(): Promise<GscCoverage> {
     const client = await auth.getClient()
 
     // Get coverage stats
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any, @typescript-eslint/no-unused-vars
-    const response = await searchconsole.urlInspection.index.inspect({
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const response = await (searchconsole.urlInspection.index.inspect as any)({
       // eslint-disable-next-line @typescript-eslint/no-explicit-any
       auth: client as any,
       requestBody: {
