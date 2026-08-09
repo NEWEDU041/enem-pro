@@ -1,0 +1,27 @@
+name: Auto Update Posts
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # First day of month at midnight UTC
+
+jobs:
+  update-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Update Old Posts
+        run: node scripts/auto-update-posts.js
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Auto Update Bot"
+          git add .blog-memory/drafts/
+          git commit -m "🔄 Auto: Updated old posts for freshness" || true
+          git push
