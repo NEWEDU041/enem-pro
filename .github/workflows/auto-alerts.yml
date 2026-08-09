@@ -1,0 +1,51 @@
+name: Auto Alerts
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # Daily at 9 AM
+  push:
+    branches:
+      - master
+
+jobs:
+  check-alerts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Run Alerts
+        run: node scripts/run-alerts.js
+
+      - name: Send Email Alert
+        if: failure()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.GMAIL_USER }}
+          password: ${{ secrets.GMAIL_PASSWORD }}
+          subject: '🚨 ENEM Pro Blog Alert'
+          to: tevez041041@gmail.com
+          from: alerts@questoesenem.pro
+          body: |
+            Issues found in blog monitoring.
+            Check: https://github.com/your-repo/actions
+
+      - name: Create GitHub Issue
+        if: failure()
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const alerts = require('./.alerts-report.json')
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: '🚨 Blog Alert: ' + alerts[0].type,
+              body: 'Alert: ' + alerts[0].message,
+              labels: ['alert', 'automated']
+            })

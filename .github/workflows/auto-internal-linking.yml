@@ -1,0 +1,30 @@
+name: Auto Internal Linking
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - '.blog-memory/drafts/**'
+
+jobs:
+  add-internal-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Add Internal Links
+        run: node scripts/auto-internal-linking.js
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Auto Internal Linking Bot"
+          git add .blog-memory/drafts/
+          git commit -m "🔗 Auto: Added internal links" || true
+          git push
