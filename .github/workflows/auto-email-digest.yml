@@ -1,0 +1,19 @@
+name: Auto Email Digest
+
+on:
+  schedule:
+    - cron: '0 8 * * 1'  # Monday 8 AM UTC
+
+jobs:
+  send-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: Generate and Send Digest
+        env:
+          MAILCHIMP_API_KEY: ${{ secrets.MAILCHIMP_API_KEY }}
+          MAILCHIMP_LIST_ID: ${{ secrets.MAILCHIMP_LIST_ID }}
+        run: node scripts/run-email-digest.js

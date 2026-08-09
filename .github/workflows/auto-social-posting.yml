@@ -1,0 +1,18 @@
+name: Auto Social Posting
+
+on:
+  schedule:
+    - cron: '0 9,12,15,18 * * *'  # 4x daily: 9am, 12pm, 3pm, 6pm UTC
+
+jobs:
+  post-to-social:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: Post to Social Media
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+        run: node scripts/run-social-posting.js
