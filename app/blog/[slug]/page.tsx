@@ -4,6 +4,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { notFound } from 'next/navigation'
 import { getPost, getRelatedPosts } from '@/lib/blog-data'
+import { loadDraftPost } from '@/lib/blog-loader-server'
 import { SITE_URL } from '@/lib/site-config'
 import { getBlogPostingSchema, getBreadcrumbSchema, getFAQSchema } from '@/lib/schemas'
 
@@ -11,12 +12,14 @@ export const revalidate = 86400
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params
-  const post = getPost(slug)
+  // Try draft first, then fall back to static
+  let post = await loadDraftPost(slug)
+  if (!post) post = getPost(slug)
   if (!post) return {}
   const postUrl = `${SITE_URL}/blog/${slug}`
 
   // Dynamic noindex for poor-quality posts (readTime < 7)
-  const shouldNoindex = post.readTime < 7
+  const shouldNoindex = false // disabled - all posts indexable
 
   return {
     title: post.title,
@@ -229,7 +232,9 @@ function extractFaq(content: string): { q: string; a: string }[] {
 
 export default async function BlogPostPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
-  const post = getPost(slug)
+  // Try draft first, then fall back to static
+  let post = await loadDraftPost(slug)
+  if (!post) post = getPost(slug)
   if (!post) notFound()
 
   const related = getRelatedPosts(slug)

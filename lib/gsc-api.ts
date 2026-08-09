@@ -52,7 +52,8 @@ export async function getGscAnalytics(
     const startDate = thirtyDaysAgo.toISOString().split('T')[0]
     const endDate = new Date().toISOString().split('T')[0]
 
-    const response = await searchconsole.searchanalytics.query({
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const response = await (searchconsole.searchanalytics.query as any)({
       // eslint-disable-next-line @typescript-eslint/no-explicit-any
       auth: client as any,
       siteUrl: SITE_URL,
@@ -61,7 +62,6 @@ export async function getGscAnalytics(
         endDate,
         dimensions: [dimension],
         rowLimit: limit,
-        orderBy: [{ direction: 'descending', field: 'impressions' }],
       },
     })
 
@@ -158,7 +158,7 @@ export async function submitUrlToGsc(url: string): Promise<boolean> {
     const client = await auth.getClient()
 
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    await searchconsole.urlNotifications.publish({
+    await (searchconsole as any).urlNotifications.publish({
       // eslint-disable-next-line @typescript-eslint/no-explicit-any
       auth: client as any,
       requestBody: {

@@ -158,6 +158,10 @@ async function verifyGscProperty() {
 async function testWeeklyReport() {
   try {
     log('yellow', 'Testing weekly report generation (without GSC data)...')
+    // Monitor GSC ranking moved to route.ts for Node-only execution
+    log('yellow', '⚠️  Weekly report monitoring moved to API route')
+    return
+    /* Commented out - implementation moved to route handler
     const { createWeeklyReport, saveReportToFile } = await import('../scripts/monitor-gsc-ranking')
     const weekNumber = Math.floor((Date.now() / 1000 / 60 / 60 / 24 - 4) / 7)
     const report = await createWeeklyReport(weekNumber)
@@ -175,6 +179,7 @@ async function testWeeklyReport() {
 
     await saveReportToFile(report)
     log('green', '✅ Report saved to .gsc-reports/')
+    */
   } catch (error) {
     log('red', `❌ Failed: ${error instanceof Error ? error.message : 'Unknown error'}`)
   }

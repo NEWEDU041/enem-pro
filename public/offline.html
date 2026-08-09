@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ENEM Pro — Modo Offline</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        .container {
+            text-align: center;
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+            max-width: 500px;
+        }
+        h1 {
+            color: #667eea;
+            font-size: 28px;
+            margin-bottom: 16px;
+        }
+        p {
+            color: #666;
+            font-size: 16px;
+            line-height: 1.6;
+            margin-bottom: 24px;
+        }
+        .icon {
+            font-size: 60px;
+            margin-bottom: 20px;
+        }
+        .status {
+            display: flex;
+            gap: 12px;
+            margin: 24px 0;
+            justify-content: center;
+        }
+        .dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #ccc;
+        }
+        .button {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 6px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: all 0.3s;
+            margin-top: 16px;
+        }
+        .button:hover {
+            background: #764ba2;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+        }
+        .cached-content {
+            text-align: left;
+            margin-top: 32px;
+            padding-top: 32px;
+            border-top: 1px solid #eee;
+        }
+        .cached-content h3 {
+            color: #333;
+            font-size: 16px;
+            margin-bottom: 12px;
+        }
+        .cached-link {
+            display: block;
+            padding: 8px 0;
+            color: #667eea;
+            text-decoration: none;
+            font-size: 14px;
+        }
+        .cached-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="icon">📱</div>
+        <h1>Sem conexão com a internet</h1>
+        <p>Você está em modo offline. Volte online para acessar novo conteúdo.</p>
+
+        <div class="status">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+        </div>
+
+        <button class="button" onclick="tryReconnect()">Tentar reconectar</button>
+
+        <div class="cached-content">
+            <h3>✅ Conteúdo em cache disponível:</h3>
+            <a href="/" class="cached-link">🏠 Página inicial</a>
+            <a href="/blog" class="cached-link">📚 Blog</a>
+            <a href="/questoes" class="cached-link">❓ Questões (offline)</a>
+            <a href="/simulado" class="cached-link">🎯 Simulado</a>
+        </div>
+    </div>
+
+    <script>
+        function tryReconnect() {
+            if (navigator.onLine) {
+                location.reload();
+            } else {
+                alert('Ainda sem conexão. Verifique sua internet e tente novamente.');
+            }
+        }
+
+        window.addEventListener('online', () => {
+            location.reload();
+        });
+    </script>
+</body>
+</html>

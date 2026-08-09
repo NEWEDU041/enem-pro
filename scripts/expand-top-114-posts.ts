@@ -433,7 +433,7 @@ async function main() {
       module.exports = BLOG_POSTS;
     `
     eval(evalCode)
-    posts = module.exports
+    posts = module.exports as BlogPost[]
   } catch (err) {
     console.error('❌ Error parsing posts:', err)
     process.exit(1)
