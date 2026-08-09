@@ -1,0 +1,20 @@
+{
+  "site": "https://questoesenem.pro",
+  "sitemap": "https://questoesenem.pro/sitemap.xml",
+  "robots_txt": "https://questoesenem.pro/robots.txt",
+  "canonical": "Implementado em todas as páginas",
+  "mobile_friendly": "Responsive - testado",
+  "https": "✅ Configurado",
+  "structured_data": "✅ Schema.org BlogPosting + FAQPage",
+  "mobile_usability": "Recomendação: testar no Mobile-Friendly Test",
+  "coverage": {
+    "indexed": "⏳ Aguardando crawl (3-7 dias)",
+    "excluded": "0 posts",
+    "errors": "0"
+  },
+  "enhancements": {
+    "amp": "Não configurado (opcional)",
+    "rich_results": "Schema.org implementado",
+    "breadcrumbs": "Recomendação: adicionar"
+  }
+}

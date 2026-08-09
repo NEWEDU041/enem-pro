@@ -1,0 +1,68 @@
+name: Blog Quality Check
+
+on:
+  pull_request:
+    paths:
+      - '.blog-memory/drafts/**'
+      - 'lib/blog-data.ts'
+  push:
+    branches:
+      - main
+    paths:
+      - '.blog-memory/drafts/**'
+      - 'lib/blog-data.ts'
+
+jobs:
+  quality-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Validate blog quality
+        run: node scripts/validate-blog-quality.js
+
+      - name: Check for fabrications
+        run: node scripts/check-fabrications.js
+
+      - name: Regenerate index
+        run: node scripts/force-regenerate-index.js
+
+      - name: Build and test
+        run: npm run build
+
+      - name: Comment PR with results
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const report = JSON.parse(fs.readFileSync('QUALITY-REPORT.json', 'utf8'));
+
+            let comment = `## 📊 Blog Quality Report\n\n`;
+            comment += `**Total Posts:** ${report.total_posts}\n`;
+            comment += `**Average Score:** ${report.average_score}/100\n`;
+            comment += `**Failed Posts:** ${report.failed_posts.length}\n\n`;
+
+            if (report.failed_posts.length > 0) {
+              comment += `### ❌ Posts Falhados:\n`;
+              report.failed_posts.forEach(post => {
+                comment += `- **${post.slug}**: ${post.score}/100\n`;
+              });
+            } else {
+              comment += `### ✅ Todos os posts passaram! `;
+            }
+
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: comment
+            });

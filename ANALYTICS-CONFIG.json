@@ -1,0 +1,39 @@
+{
+  "measurementId": "G-XXXXXXXX",
+  "apiSecret": "XXXXXXXX_XXXXXXXX",
+  "gtmId": "GTM-XXXXXXX",
+  "implementation": {
+    "type": "Google Analytics 4 (GA4)",
+    "method": "google-analytics React hook",
+    "tracking": [
+      "page views (automático)",
+      "events customizados",
+      "conversões",
+      "user engagement",
+      "scroll depth"
+    ]
+  },
+  "events": {
+    "page_view": "disparado automaticamente",
+    "view_item": "quando usuário acessa um post",
+    "blog_engagement": "scroll > 50% ou leitura > 30s",
+    "cta_click": "clique em CTA",
+    "search_query": "quando faz busca no site"
+  },
+  "setup_instructions": [
+    "1. Ir para Google Analytics (analytics.google.com)",
+    "2. Criar propriedade GA4 para questoesenem.pro",
+    "3. Copiar Measurement ID (G-XXXXXXXX)",
+    "4. Adicionar em .env.production.local: NEXT_PUBLIC_GA_ID=G-XXXXXXXX",
+    "5. Adicionar script no components/Analytics.tsx",
+    "6. Testar com GA Debugger extension",
+    "7. Aguardar 24h para dados aparecerem"
+  ],
+  "features": {
+    "real_time": "Ver visitantes em tempo real",
+    "audience": "Segmentar por país, device, browser",
+    "content": "Analisar quais posts têm mais engajamento",
+    "conversions": "Rastrear CTAs e leads",
+    "custom_events": "Eventos personalizados (blog_share, cta_click, etc)"
+  }
+}

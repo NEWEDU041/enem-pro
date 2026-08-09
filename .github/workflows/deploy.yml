@@ -1,0 +1,97 @@
+name: Deploy to Vercel
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run blog validation
+        run: node scripts/validate-blog-quality.js
+
+      - name: Build
+        run: npm run build
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: build-output
+          path: .next
+
+  deploy:
+    needs: build-and-test
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Deploy to Vercel
+        uses: vercel/action@master
+        with:
+          vercel-token: ${{ secrets.VERCEL_TOKEN }}
+          vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
+          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
+
+      - name: Create GitHub Deployment
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.repos.createDeployment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              ref: context.ref,
+              environment: 'production',
+              required_contexts: [],
+              auto_merge: false,
+              description: 'Blog deployment'
+            });
+
+  submit-to-gsc:
+    needs: deploy
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Submit sitemap to GSC
+        env:
+          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+        run: |
+          echo "$GOOGLE_SERVICE_ACCOUNT_KEY" > sa-key.json
+          node scripts/submit-to-gsc.js
+          rm sa-key.json
+
+      - name: Create deployment status
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.repos.createDeploymentStatus({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              deployment_id: context.payload.deployment.id,
+              state: 'success',
+              environment_url: 'https://questoesenem.pro',
+              description: 'Deployed and indexed'
+            });

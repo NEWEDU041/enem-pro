@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-08-09T22:08:58.445Z",
+  "optimizations": {
+    "schema_added": 366,
+    "meta_descriptions": "Já presentes no frontmatter",
+    "internal_links": "Recomendação: adicionar manualmente",
+    "images": "Recomendação: adicionar manualmente",
+    "readability": "Todos os posts têm 75+ score"
+  },
+  "recommendations": [
+    "1. Adicionar imagens aos posts para melhor CTR (40% aumento típico)",
+    "2. Melhorar meta descriptions (máx 160 caracteres)",
+    "3. Adicionar links internos (3-5 por post)",
+    "4. Configurar Google Analytics para monitorar comportamento",
+    "5. Usar Google Search Console para monitorar keywords",
+    "6. Implementar structured data para rich snippets",
+    "7. Otimizar Core Web Vitals (LCP, FID, CLS)",
+    "8. Criar estratégia de link building externo"
+  ],
+  "next_steps": [
+    "✅ Schema.org adicionado automaticamente",
+    "⏳ Google Analytics - configuração manual",
+    "⏳ Core Web Vitals - medir e otimizar",
+    "⏳ Link building - estratégia externa",
+    "⏳ Imagens - adicionar aos posts"
+  ]
+}
