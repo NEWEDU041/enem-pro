@@ -1,0 +1,23 @@
+name: Auto Regenerate Schema
+
+on:
+  schedule:
+    - cron: '0 1 1 * *'  # 1st day of month at 1 AM UTC
+
+jobs:
+  regenerate-schema:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: Regenerate Schema
+        run: node scripts/run-regenerate-schema.js
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Auto Schema Bot"
+          git add .blog-memory/drafts/
+          git commit -m "🤖 Auto: Regenerated BlogPosting + FAQPage schemas" || true
+          git push

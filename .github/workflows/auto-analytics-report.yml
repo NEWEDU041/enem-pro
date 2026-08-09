@@ -1,0 +1,35 @@
+name: Auto Analytics Report
+
+on:
+  schedule:
+    - cron: '0 14 * * 5'  # Friday 2 PM UTC
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Generate Analytics Report
+        env:
+          GOOGLE_ANALYTICS_ID: ${{ secrets.GOOGLE_ANALYTICS_ID }}
+          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+        run: |
+          node scripts/run-analytics-report.js
+
+      - name: Send Report Email
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.sendgrid.net
+          server_port: 587
+          username: apikey
+          password: ${{ secrets.SENDGRID_API_KEY }}
+          subject: '📊 ENEM Pro Weekly Report'
+          to: tevez041041@gmail.com
+          from: reports@questoesenem.pro
+          body: 'Weekly analytics report attached'
