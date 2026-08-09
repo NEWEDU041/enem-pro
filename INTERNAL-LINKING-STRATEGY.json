@@ -1,0 +1,56 @@
+{
+  "objetivo": "Melhorar SEO com links internos estratégicos",
+  "meta": "3-5 links relevantes por post",
+  "beneficios": [
+    "Aumenta relevância de tópicos (topical authority)",
+    "Melhora crawlability do Google",
+    "Aumenta page authority interna",
+    "Melhora user engagement (tempo no site)",
+    "Ajuda a rankings de posts fracos"
+  ],
+  "fases": {
+    "Fase 1 - Foundation (Semana 1)": [
+      "Identificar posts core (pillar content)",
+      "Mapear temas relacionados (clusters)",
+      "Criar hub pages (páginas centrais por tema)"
+    ],
+    "Fase 2 - Linking (Semana 2-3)": [
+      "Adicionar 3-5 links por post",
+      "Links devem ser contextuais (no texto)",
+      "Usar anchor text com keyword relevante",
+      "Linkar de posts antigos para novos"
+    ],
+    "Fase 3 - Optimization (Semana 4)": [
+      "Monitorar click-through de links internos",
+      "A/B test de anchor text",
+      "Remover links ruins",
+      "Otimizar estrutura de links"
+    ]
+  },
+  "recommendations": [
+    {
+      "title": "1. Posts com Zero Links Internos",
+      "action": "Prioridade: CRÍTICA",
+      "description": "376 posts não têm links internos saindo deles",
+      "solucao": "Adicionar 3-5 links relevantes em cada um"
+    },
+    {
+      "title": "2. Posts Órfãos (Nunca Linkeados)",
+      "action": "Prioridade: ALTA",
+      "description": "Posts que ninguém linka precisam de ajuda",
+      "solucao": "Adicionar links de posts relacionados"
+    },
+    {
+      "title": "3. Anchor Text Optimization",
+      "action": "Prioridade: MÉDIA",
+      "description": "Usar keywords nos links (não 'clique aqui')",
+      "solucao": "Usar anchor text descritivo com keyword"
+    },
+    {
+      "title": "4. Topical Clusters",
+      "action": "Prioridade: ALTA",
+      "description": "Agrupar posts por tema principal",
+      "solucao": "Criar hub page para cada tema + linkar clusters"
+    }
+  ]
+}

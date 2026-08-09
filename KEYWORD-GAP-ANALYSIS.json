@@ -1,0 +1,526 @@
+{
+  "timestamp": "2026-08-09T22:17:25.337Z",
+  "totalPosts": 434,
+  "coverage": {
+    "Gabarito": {
+      "total": 12,
+      "covered": 0,
+      "percentage": 0,
+      "gapCount": 12,
+      "gaps": [
+        "gabarito enem",
+        "resposta enem",
+        "questão enem",
+        "prova enem",
+        "resultado enem"
+      ]
+    },
+    "Redação": {
+      "total": 12,
+      "covered": 0,
+      "percentage": 0,
+      "gapCount": 12,
+      "gaps": [
+        "redação enem",
+        "como escrever redação",
+        "estrutura redação enem",
+        "tema redação",
+        "dicas redação"
+      ]
+    },
+    "Preparação": {
+      "total": 12,
+      "covered": 0,
+      "percentage": 0,
+      "gapCount": 12,
+      "gaps": [
+        "como se preparar enem",
+        "estudo para enem",
+        "plano de estudo enem",
+        "quanto tempo estudar enem",
+        "rotina de estudo enem"
+      ]
+    },
+    "Carreira": {
+      "total": 12,
+      "covered": 0,
+      "percentage": 0,
+      "gapCount": 12,
+      "gaps": [
+        "carreiras enem",
+        "cursos com enem",
+        "universidade enem",
+        "prouni enem",
+        "sisu enem"
+      ]
+    },
+    "Geral": {
+      "total": 12,
+      "covered": 0,
+      "percentage": 0,
+      "gapCount": 12,
+      "gaps": [
+        "o que é enem",
+        "como funciona enem",
+        "quando é enem",
+        "duração enem",
+        "aplicação enem"
+      ]
+    }
+  },
+  "gaps": [
+    {
+      "keyword": "gabarito enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "resposta enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "questão enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "prova enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "resultado enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "nota enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "pontos enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "score enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "performance enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "média enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "corte enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "ranking enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "redação enem",
+      "category": "Redação",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "como escrever redação",
+      "category": "Redação",
+      "searchIntentEstimate": "How-to",
+      "estimatedSearchVolume": 400
+    },
+    {
+      "keyword": "estrutura redação enem",
+      "category": "Redação",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "tema redação",
+      "category": "Redação",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 200
+    },
+    {
+      "keyword": "dicas redação",
+      "category": "Redação",
+      "searchIntentEstimate": "Tips",
+      "estimatedSearchVolume": 200
+    },
+    {
+      "keyword": "score redação",
+      "category": "Redação",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 200
+    },
+    {
+      "keyword": "nota redação mínima",
+      "category": "Redação",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 200
+    },
+    {
+      "keyword": "repertório redação",
+      "category": "Redação",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 200
+    },
+    {
+      "keyword": "argumentos redação",
+      "category": "Redação",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 200
+    },
+    {
+      "keyword": "banca redação enem",
+      "category": "Redação",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "erros comuns redação",
+      "category": "Redação",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 200
+    },
+    {
+      "keyword": "competências redação",
+      "category": "Redação",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 200
+    },
+    {
+      "keyword": "como se preparar enem",
+      "category": "Preparação",
+      "searchIntentEstimate": "How-to",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "estudo para enem",
+      "category": "Preparação",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "plano de estudo enem",
+      "category": "Preparação",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "quanto tempo estudar enem",
+      "category": "Preparação",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "rotina de estudo enem",
+      "category": "Preparação",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "dicas de estudo enem",
+      "category": "Preparação",
+      "searchIntentEstimate": "Tips",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "revisão enem",
+      "category": "Preparação",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "simulado enem",
+      "category": "Preparação",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "cronograma enem",
+      "category": "Preparação",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "estratégia enem",
+      "category": "Preparação",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "focos de estudo enem",
+      "category": "Preparação",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "últimas semanas enem",
+      "category": "Preparação",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "carreiras enem",
+      "category": "Carreira",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "cursos com enem",
+      "category": "Carreira",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "universidade enem",
+      "category": "Carreira",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "prouni enem",
+      "category": "Carreira",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "sisu enem",
+      "category": "Carreira",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "nota para medicina",
+      "category": "Carreira",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 200
+    },
+    {
+      "keyword": "nota para direito",
+      "category": "Carreira",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 200
+    },
+    {
+      "keyword": "nota para engenharia",
+      "category": "Carreira",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 200
+    },
+    {
+      "keyword": "universidades federais enem",
+      "category": "Carreira",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "bolsa enem",
+      "category": "Carreira",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "cotas enem",
+      "category": "Carreira",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "pré-requisitos carreira",
+      "category": "Carreira",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 200
+    },
+    {
+      "keyword": "o que é enem",
+      "category": "Geral",
+      "searchIntentEstimate": "Informational",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "como funciona enem",
+      "category": "Geral",
+      "searchIntentEstimate": "How-to",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "quando é enem",
+      "category": "Geral",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "duração enem",
+      "category": "Geral",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "aplicação enem",
+      "category": "Geral",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "inscrição enem",
+      "category": "Geral",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "taxa enem",
+      "category": "Geral",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "isenção taxa enem",
+      "category": "Geral",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "documentos enem",
+      "category": "Geral",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "onde fazer enem",
+      "category": "Geral",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "o que levar enem",
+      "category": "Geral",
+      "searchIntentEstimate": "Informational",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "resultado quando sai",
+      "category": "Geral",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 200
+    }
+  ],
+  "opportunities": [],
+  "recommendations": [
+    {
+      "priority": "🔴 CRÍTICA",
+      "action": "Criar posts para top 5 gaps",
+      "impact": "Aumenta visibilidade em 40-60%",
+      "effort": "Médio (5-10 posts)",
+      "timeline": "2-3 semanas"
+    },
+    {
+      "priority": "🟠 ALTA",
+      "action": "Atualizar posts órfãos com keywords",
+      "impact": "Melhora ranking imediato",
+      "effort": "Baixo (edições)",
+      "timeline": "1 semana"
+    },
+    {
+      "priority": "🟡 MÉDIA",
+      "action": "Adicionar keywords long-tail",
+      "impact": "Captura 20-30% mais traffic",
+      "effort": "Médio",
+      "timeline": "Contínuo"
+    },
+    {
+      "priority": "🟢 BAIXA",
+      "action": "Expandir em novas categorias",
+      "impact": "Expansão de nicho",
+      "effort": "Alto",
+      "timeline": "1-2 meses"
+    }
+  ],
+  "topOpportunities": [
+    {
+      "keyword": "gabarito enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "resposta enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "questão enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "prova enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "resultado enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "nota enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "pontos enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "score enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "performance enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    },
+    {
+      "keyword": "média enem",
+      "category": "Gabarito",
+      "searchIntentEstimate": "Transactional",
+      "estimatedSearchVolume": 1000
+    }
+  ]
+}

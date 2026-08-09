@@ -1,0 +1,121 @@
+{
+  "timestamp": "2026-08-09T22:17:25.556Z",
+  "metrics": {
+    "lcp": {
+      "nome": "Largest Contentful Paint (LCP)",
+      "target": "< 2.5s",
+      "impactoRanking": "Alto",
+      "problemas": [],
+      "solucoes": []
+    },
+    "fid": {
+      "nome": "First Input Delay (FID)",
+      "target": "< 100ms",
+      "impactoRanking": "Alto",
+      "problemas": [],
+      "solucoes": []
+    },
+    "cls": {
+      "nome": "Cumulative Layout Shift (CLS)",
+      "target": "< 0.1",
+      "impactoRanking": "Médio",
+      "problemas": [],
+      "solucoes": []
+    }
+  },
+  "optimizations": {
+    "Priority 1 (Hoje)": [
+      {
+        "task": "Verificar loading de imagens",
+        "comando": "lighthouse https://questoesenem.pro/blog/comparativo-apps-enem",
+        "resultado": "Score LCP + FID"
+      },
+      {
+        "task": "Adicionar lazy loading",
+        "arquivo": "app/blog/[slug]/page.tsx",
+        "codigo": "<img loading=\"lazy\" alt=\"...\" />"
+      },
+      {
+        "task": "Definir width/height em <img>",
+        "arquivo": ".blog-memory/drafts/*/article.md",
+        "codigo": "<img width=\"600\" height=\"400\" loading=\"lazy\" alt=\"...\" />"
+      }
+    ],
+    "Priority 2 (Esta semana)": [
+      {
+        "task": "Minify CSS/JS",
+        "comando": "npm run build -- --analyze",
+        "resultado": "Veja bundle size"
+      },
+      {
+        "task": "Implementar image optimization",
+        "package": "sharp ou next/image",
+        "config": "Automatic WebP conversion + responsive"
+      },
+      {
+        "task": "Lazy load analytics",
+        "codigo": "defer script de Analytics (GA4)",
+        "impacto": "FID -30ms"
+      },
+      {
+        "task": "Prefetch critical resources",
+        "codigo": "<link rel=\"prefetch\" href=\"...\" />",
+        "arquivos": "Fontes, CSS crítico"
+      }
+    ],
+    "Priority 3 (Próximas 2 semanas)": [
+      {
+        "task": "Implementar Next.js Image",
+        "descricao": "Substituir <img> por <Image /> component",
+        "ganho": "LCP -400ms"
+      },
+      {
+        "task": "Code splitting dinâmico",
+        "descricao": "Lazy load componentes não-críticos",
+        "ganho": "FID -50ms"
+      },
+      {
+        "task": "Web fonts optimization",
+        "descricao": "Usar font-display: swap",
+        "ganho": "LCP -200ms"
+      },
+      {
+        "task": "CDN + edge caching",
+        "descricao": "Usar Cloudflare (grátis)",
+        "ganho": "LCP -100ms, +50% faster"
+      }
+    ]
+  },
+  "tools": [
+    {
+      "nome": "Google PageSpeed Insights",
+      "url": "https://pagespeed.web.dev/",
+      "dados": "CWV reais + sugestões",
+      "frequencia": "Semanal"
+    },
+    {
+      "nome": "Google Lighthouse",
+      "url": "Chrome DevTools > Lighthouse",
+      "dados": "Simulado (laboratory)",
+      "frequencia": "Após cada mudança"
+    },
+    {
+      "nome": "Web Vitals Library",
+      "url": "npm install web-vitals",
+      "dados": "Real user data (RUM)",
+      "frequencia": "Contínuo no site"
+    },
+    {
+      "nome": "Google Search Console",
+      "url": "GSC > Experience > Core Web Vitals",
+      "dados": "CWV agregado (campo)",
+      "frequencia": "Semanal"
+    },
+    {
+      "nome": "Lighthouse CI",
+      "url": "npm install lighthouse",
+      "dados": "Automático no CI/CD",
+      "frequencia": "A cada commit"
+    }
+  ]
+}
