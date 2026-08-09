@@ -100,7 +100,7 @@ async function fixPostContent(content: string): Promise<string> {
     }
   }
 
-  return { fixed, changesCount };
+  return fixed;
 }
 
 async function main() {

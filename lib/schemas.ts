@@ -280,7 +280,7 @@ export function getQuizSchema(
       {
         '@type': 'Question',
         name: `Questão ${index} — ${discipline}`,
-        text: enunciado.substring(0, 500),
+        text: (enunciado || '').substring(0, 500),
         acceptedAnswer: {
           '@type': 'Answer',
           text: correctAnswerText,

@@ -1,6 +1,8 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
-import CTASection from '@/components/CTASection'
+import dynamic from 'next/dynamic'
+
+const CTASection = dynamic(() => import('@/components/CTASection'), { ssr: true })
 
 export const metadata: Metadata = {
   title: 'Dicas ENEM — Do TikTok para a Sua Nota 900+',
