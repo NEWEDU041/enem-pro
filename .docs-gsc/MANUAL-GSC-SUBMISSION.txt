@@ -1,0 +1,71 @@
+🚀 SUBMISSÃO MANUAL AO GOOGLE SEARCH CONSOLE
+
+═══════════════════════════════════════════════════════════════════════════════
+
+PASSOS (5 minutos):
+
+1️⃣  ABRA GOOGLE SEARCH CONSOLE
+    → https://search.google.com/search-console/welcome
+    → Faça login com sua conta Google
+
+2️⃣  SELECIONE SEU SITE
+    → questoesenem.pro
+    → Se não aparecer, clique em "Adicionar propriedade"
+    → URL: https://questoesenem.pro
+
+3️⃣  VÁ PARA "SITEMAPS"
+    → Menu esquerda
+    → Clique em "Sitemaps"
+
+4️⃣  COLE A URL DO SITEMAP
+    → Clique em "Adicionar/testar sitemap"
+    → Cole: https://questoesenem.pro/sitemap.xml
+    → Clique em "Enviar"
+
+5️⃣  CONFIRME O ENVIO
+    → Você verá mensagem: "Sitemap enviado com sucesso"
+    → Status começará a aparecer em alguns minutos
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ACOMPANHAR INDEXAÇÃO:
+
+1. Menu: "Cobertura"
+   └─ Veja quantos posts foram indexados (espere 3-7 dias)
+
+2. Menu: "Inspeção de URL"
+   └─ Teste URLs individuais para ver status
+
+3. Menu: "Resultados de Pesquisa"
+   └─ Veja keywords e posições (espere 2-4 semanas)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+INFORMAÇÕES DO SITE:
+
+Sitemap URL: https://questoesenem.pro/sitemap.xml
+Total de URLs: 434
+Posts de Blog: 372 (validados com score ≥75)
+Qualidade Média: 84.5/100
+
+═══════════════════════════════════════════════════════════════════════════════
+
+STATUS:
+
+✅ Yandex: 115 URLs já submetidas
+⏳ Google: Aguardando sua submissão manual
+✅ Bing: Pode submeter via IndexNow (opcional)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+TIMELINE ESPERADA:
+
+0h        → Você submete ao GSC
+24-48h    → Google faz crawl
+3-7 dias  → Indexação inicial
+1-4 sem   → Primeiros rankings
+1-3 meses → Estabilização
+
+═══════════════════════════════════════════════════════════════════════════════
+
+Pronto! Você consegue fazer isso em 5 minutos. Qualquer dúvida, releia este arquivo.
