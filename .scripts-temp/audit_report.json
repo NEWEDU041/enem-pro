@@ -1,0 +1,4828 @@
+[
+  {
+    "slug": "gabarito-enem-2024",
+    "title": "Gabarito ENEM 2024 — Todas as Disciplinas com Resolução",
+    "word_count": 6477,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-enem-2023",
+    "title": "Gabarito ENEM 2023 — Questões e Resoluções por Disciplina",
+    "word_count": 1802,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-matematica-enem-2023",
+    "title": "Questões de Matemática ENEM 2023 — Gabarito e Resolução",
+    "word_count": 1842,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-matematica-enem-2024",
+    "title": "Questões de Matemática ENEM 2024 — Gabarito e Análise",
+    "word_count": 1811,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-passar-no-enem",
+    "title": "Como Passar no ENEM em 2025 — Guia Completo de Estudos",
+    "word_count": 1882,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "simulado-enem-gratis",
+    "title": "Simulado ENEM Grátis — Pratique com Questões Reais do INEP",
+    "word_count": 1790,
+    "scores": {
+      "content_quality": 26,
+      "seo": 24,
+      "eeat": 14,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 93
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "redacao-enem-tema",
+    "title": "Redação ENEM — Como Tirar 1000 Pontos em Qualquer Tema",
+    "word_count": 2773,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "dicas-enem-2025",
+    "title": "10 Dicas de Ouro para o ENEM 2025 — Do Estudo ao Dia da",
+    "word_count": 1822,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-ciencias-natureza-enem",
+    "title": "Questões de Ciências da Natureza ENEM — Os Temas Mais",
+    "word_count": 1889,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-ciencias-humanas-enem",
+    "title": "Questões de Ciências Humanas ENEM — Estratégia e Temas",
+    "word_count": 1829,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "cronograma-estudos-enem-2025",
+    "title": "Cronograma de Estudos para o ENEM 2025 — Semana a Semana",
+    "word_count": 1857,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 14,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-calcular-nota-enem",
+    "title": "Como Calcular Sua Nota do ENEM — TRI e Médias para o SISU",
+    "word_count": 5860,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-fisica-enem",
+    "title": "Questões de Física no ENEM — Os 10 Temas Mais Cobrados",
+    "word_count": 5847,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "quanto-tempo-estudar-para-o-enem",
+    "title": "Quanto Tempo Estudar para o ENEM? A Resposta Honesta",
+    "word_count": 1956,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 14,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-linguagens-enem",
+    "title": "Questões de Linguagens ENEM — Português, Literatura e",
+    "word_count": 1806,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-estudar-para-o-enem",
+    "title": "Como Estudar para o ENEM 2026 — Guia Completo do Zero",
+    "word_count": 1809,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-medicina-enem",
+    "title": "Nota de Corte Medicina ENEM 2026 — Federal, Unifesp e Mais",
+    "word_count": 967,
+    "scores": {
+      "content_quality": 25,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 93
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "tri-enem-como-funciona",
+    "title": "TRI ENEM — O Que É e Como Isso Afeta Sua Nota",
+    "word_count": 5534,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "redacao-enem-como-tirar-1000",
+    "title": "Redação ENEM — Como Tirar 1000 Pontos nas 5 Competências",
+    "word_count": 1986,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-2026-o-que-estudar",
+    "title": "ENEM 2026 — O Que Estudar em Cada Disciplina",
+    "word_count": 4088,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "sisu-2026-como-funciona",
+    "title": "SISU 2026 — Como Funciona, Notas de Corte e Como se",
+    "word_count": 1844,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "ciencias-humanas-enem-o-que-cai",
+    "title": "Ciências Humanas ENEM — O Que Cai Mais e Como Estudar",
+    "word_count": 5442,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "matematica-enem-dicas-estrategias",
+    "title": "Matemática no ENEM — Dicas e Estratégias para Não Ter Medo",
+    "word_count": 1121,
+    "scores": {
+      "content_quality": 25,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 93
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "fisica-enem-o-que-cai",
+    "title": "Física no ENEM — O que Cai, Temas e Estratégia 2026",
+    "word_count": 1766,
+    "scores": {
+      "content_quality": 26,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "quimica-enem-o-que-cai",
+    "title": "Química no ENEM — O que Cai, Temas e Estratégia 2026",
+    "word_count": 903,
+    "scores": {
+      "content_quality": 25,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 93
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "biologia-enem-o-que-cai",
+    "title": "Biologia no ENEM — O que Cai, Temas e Estratégia 2026",
+    "word_count": 8345,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "historia-enem-o-que-cai",
+    "title": "História no ENEM — O que Cai, Temas e Estratégia 2026",
+    "word_count": 1759,
+    "scores": {
+      "content_quality": 26,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "geografia-enem-o-que-cai",
+    "title": "Geografia no ENEM — O que Cai, Temas e Estratégia 2026",
+    "word_count": 1732,
+    "scores": {
+      "content_quality": 26,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-engenharia-enem",
+    "title": "Nota de Corte para Engenharia no ENEM — SISU 2026 por",
+    "word_count": 2692,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-direito-enem",
+    "title": "Nota de Corte para Direito no ENEM — SISU 2026 por",
+    "word_count": 1787,
+    "scores": {
+      "content_quality": 26,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "prouni-2026-como-funciona",
+    "title": "ProUni 2026 — Como Funciona, Nota Mínima e Como se Inscrever",
+    "word_count": 1947,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "ingles-enem-dicas",
+    "title": "Inglês no ENEM — O que Cai e Como Passar Mesmo Sem Ser",
+    "word_count": 1947,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-segunda-chance",
+    "title": "Reprovei no ENEM — O que Fazer? Guia para a Segunda Chance",
+    "word_count": 1039,
+    "scores": {
+      "content_quality": 25,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 93
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "redacao-enem-competencias",
+    "title": "As 5 Competências da Redação do ENEM — Guia Completo para",
+    "word_count": 1855,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "filosofia-sociologia-enem",
+    "title": "Filosofia e Sociologia no ENEM — O que Cai e Como Estudar",
+    "word_count": 5702,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-ppcs-pessoas-com-deficiencia",
+    "title": "ENEM para Pessoas com Deficiência — Atendimento",
+    "word_count": 1869,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-estudar-ciencias-humanas-enem",
+    "title": "Como Estudar Ciências Humanas para o ENEM",
+    "word_count": 1809,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-estudar-ciencias-natureza-enem",
+    "title": "Como Estudar Ciências da Natureza para o ENEM",
+    "word_count": 2017,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-psicologia-enem",
+    "title": "Nota de Corte para Psicologia no ENEM — SISU 2026 por",
+    "word_count": 1940,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-treineiro-2026",
+    "title": "ENEM Treineiro 2026 — O que É, Quem Pode Fazer e Como se",
+    "word_count": 5629,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "melhor-app-estudar-enem-gratis",
+    "title": "Melhor Aplicativo para Estudar para o ENEM Grátis em 2026",
+    "word_count": 1791,
+    "scores": {
+      "content_quality": 26,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "alternativa-descomplica-gratuita",
+    "title": "Alternativa Gratuita ao Descomplica para o ENEM 2026",
+    "word_count": 1062,
+    "scores": {
+      "content_quality": 25,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 93
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-enem-online-gratis",
+    "title": "Questões ENEM Online Grátis — Banco Completo 2009 a 2024",
+    "word_count": 1126,
+    "scores": {
+      "content_quality": 25,
+      "seo": 24,
+      "eeat": 14,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 92
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "linguagens",
+    "title": "",
+    "word_count": 1979,
+    "scores": {
+      "content_quality": 27,
+      "seo": 20,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 91
+    },
+    "issues": [
+      "Title 0 chars (need 40-60)",
+      "Meta desc 0 chars (need 150-160)"
+    ],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-2026-data-inscricao",
+    "title": "ENEM 2026: Data da Prova, Inscrição e Tudo que Você Precisa",
+    "word_count": 1795,
+    "scores": {
+      "content_quality": 26,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-se-inscrever-enem-2026",
+    "title": "Como se Inscrever no ENEM 2026 — Passo a Passo",
+    "word_count": 1795,
+    "scores": {
+      "content_quality": 26,
+      "seo": 24,
+      "eeat": 14,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 93
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-enem-2022",
+    "title": "Gabarito ENEM 2022 — Todas as Disciplinas com Resolução",
+    "word_count": 7156,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-enem-2021",
+    "title": "Gabarito ENEM 2021 — Questões e Análise por Disciplina",
+    "word_count": 9233,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "literatura-enem-o-que-cai",
+    "title": "Literatura no ENEM — O que Cai, Autores e Como Estudar",
+    "word_count": 5636,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-administracao-enem",
+    "title": "Nota de Corte para Administração no ENEM — SISU 2026",
+    "word_count": 3974,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-enfermagem-enem",
+    "title": "Nota de Corte para Enfermagem no ENEM — SISU 2026",
+    "word_count": 1969,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-estudar-linguagens-enem",
+    "title": "Como Estudar Linguagens para o ENEM — Guia Completo",
+    "word_count": 1878,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-farmacia-enem",
+    "title": "Nota de Corte para Farmácia no ENEM — SISU 2026",
+    "word_count": 4113,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-arquitetura-enem",
+    "title": "Nota de Corte para Arquitetura e Urbanismo no ENEM",
+    "word_count": 1772,
+    "scores": {
+      "content_quality": 26,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-nutricao-enem",
+    "title": "Nota de Corte para Nutrição no ENEM — SISU 2026",
+    "word_count": 1908,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-digital-como-funciona",
+    "title": "ENEM Digital — Como Funciona, Diferenças e Como se Inscrever",
+    "word_count": 6090,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 14,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-veterinaria-enem",
+    "title": "Nota de Corte para Veterinária no ENEM — SISU 2026",
+    "word_count": 3884,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "fies-2026-como-funciona",
+    "title": "FIES 2026 — Como Funciona, Quem Pode e Como se Inscrever",
+    "word_count": 1792,
+    "scores": {
+      "content_quality": 26,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-2025-gabarito-resultado",
+    "title": "ENEM 2025 — Gabarito, Resultado e Notas de Corte",
+    "word_count": 1748,
+    "scores": {
+      "content_quality": 26,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-passar-no-sisu",
+    "title": "Como Passar no SISU 2026 — Estratégia, Notas e Dicas",
+    "word_count": 1022,
+    "scores": {
+      "content_quality": 25,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 93
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-odontologia-enem",
+    "title": "Nota de Corte para Odontologia no ENEM — SISU 2026",
+    "word_count": 4141,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-computacao-enem",
+    "title": "Nota de Corte para Ciência da Computação no ENEM — SISU 2026",
+    "word_count": 2014,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-agronomia-enem",
+    "title": "Nota de Corte para Agronomia no ENEM — SISU 2026",
+    "word_count": 2001,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-fazer-redacao-enem-passo-a-passo",
+    "title": "Como Fazer Redação do ENEM Passo a Passo",
+    "word_count": 2748,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "redacao-enem-2025-tema",
+    "title": "Tema da Redação do ENEM 2025 — Análise e Como Responder",
+    "word_count": 1938,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-resultado-quando-sai-2026",
+    "title": "ENEM 2026 — Quando Sai o Resultado e Como Consultar",
+    "word_count": 2085,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-estudar-fisica-enem",
+    "title": "Como Estudar Física para o ENEM: Guia Completo 2026",
+    "word_count": 2965,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-estudar-biologia-enem",
+    "title": "Como Estudar Biologia para o ENEM: Temas",
+    "word_count": 1953,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-estudar-quimica-enem",
+    "title": "Como Estudar Química para o ENEM: Temas que Mais Caem e",
+    "word_count": 2404,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "geometria-enem-o-que-cai",
+    "title": "Geometria no ENEM: Temas, Fórmulas e Dicas para 2026",
+    "word_count": 1027,
+    "scores": {
+      "content_quality": 25,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 93
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "interpretacao-de-texto-enem",
+    "title": "Interpretação de Texto no ENEM: Como Não Errar Questões de",
+    "word_count": 2022,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "estatistica-enem-o-que-cai",
+    "title": "Estatística no ENEM: O que Cai e Como Resolver as Questões",
+    "word_count": 5852,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-contabilidade-enem",
+    "title": "Nota de Corte Contabilidade ENEM 2025 — SISU e Universidades",
+    "word_count": 2050,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-pedagogia-enem",
+    "title": "Nota de Corte Pedagogia ENEM 2025 — SISU e Universidades",
+    "word_count": 1904,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-estudar-historia-enem",
+    "title": "Como Estudar História para o ENEM: Guia Completo 2026",
+    "word_count": 1854,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-estudar-geografia-enem",
+    "title": "Como Estudar Geografia para o ENEM: Temas e Estratégia 2026",
+    "word_count": 1846,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-estudar-portugues-enem",
+    "title": "Como Estudar Português para o ENEM: Gramática",
+    "word_count": 1914,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "funcoes-matematica-enem",
+    "title": "Funções no ENEM: 1º Grau, 2º Grau, Exponencial e",
+    "word_count": 8149,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "trigonometria-enem-o-que-cai",
+    "title": "Trigonometria no ENEM: O que Cai e Como Resolver 2026",
+    "word_count": 6108,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-fisioterapia-enem",
+    "title": "Nota de Corte Fisioterapia ENEM 2025 — SISU e Universidades",
+    "word_count": 1984,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-economia-enem",
+    "title": "Nota de Corte Economia ENEM 2025 — SISU, Universidades e",
+    "word_count": 1789,
+    "scores": {
+      "content_quality": 26,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-jornalismo-enem",
+    "title": "Nota de Corte Jornalismo ENEM 2025 — SISU e Perspectivas de",
+    "word_count": 1783,
+    "scores": {
+      "content_quality": 26,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-estudar-filosofia-enem",
+    "title": "Como Estudar Filosofia para o ENEM: Temas",
+    "word_count": 1936,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "sociologia-enem-o-que-estudar",
+    "title": "Sociologia no ENEM: O que Estudar e os Temas Mais Cobrados",
+    "word_count": 6063,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "progressoes-matematica-enem",
+    "title": "Progressões Aritmética e Geométrica no ENEM",
+    "word_count": 5513,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "redacao-enem-temas-provaveis-2026",
+    "title": "Temas Prováveis da Redação ENEM 2026: Análise e Preparação",
+    "word_count": 4617,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-2026-dia-da-prova",
+    "title": "ENEM 2026: Data, Horário e O que Levar no Dia da Prova",
+    "word_count": 1806,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-servico-social-enem",
+    "title": "Nota de Corte Serviço Social ENEM 2025 — SISU e",
+    "word_count": 1947,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-educacao-fisica-enem",
+    "title": "Nota de Corte Educação Física ENEM 2025 — SISU e Mercado de",
+    "word_count": 2002,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-estudar-ingles-enem",
+    "title": "Como Estudar Inglês para o ENEM: O que Cai e Estratégia 2026",
+    "word_count": 935,
+    "scores": {
+      "content_quality": 25,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "logaritmos-matematica-enem",
+    "title": "Logaritmos no ENEM: Propriedades, Fórmulas e Como Resolver",
+    "word_count": 3793,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "probabilidade-combinatoria-enem",
+    "title": "Probabilidade e Combinatória no ENEM: Como Resolver",
+    "word_count": 1035,
+    "scores": {
+      "content_quality": 25,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 93
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "matrizes-determinantes-enem",
+    "title": "Matrizes e Determinantes no ENEM: O que Cai e Como Resolver",
+    "word_count": 5699,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-letras-enem",
+    "title": "Nota de Corte Letras ENEM 2025 — SISU, Universidades e",
+    "word_count": 2509,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-ciencias-biologicas-enem",
+    "title": "Nota de Corte Ciências Biológicas ENEM 2025",
+    "word_count": 1994,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "tecnicas-de-estudo-enem",
+    "title": "Técnicas de Estudo para o ENEM: Métodos que Funcionam em",
+    "word_count": 2038,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-historia-enem",
+    "title": "Nota de Corte História (Licenciatura) ENEM 2025",
+    "word_count": 1928,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-matematica-curso-enem",
+    "title": "Nota de Corte Matemática (Curso) ENEM 2025",
+    "word_count": 4149,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-fisica-curso-enem",
+    "title": "Nota de Corte Física (Licenciatura/Bacharelado) ENEM 2025",
+    "word_count": 1902,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-quimica-curso-enem",
+    "title": "Nota de Corte Química (Licenciatura/Bacharelado) ENEM 2025",
+    "word_count": 1812,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-2026-cronograma-datas",
+    "title": "ENEM 2026: Cronograma Completo de Datas e Prazos",
+    "word_count": 2508,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-passar-no-prouni-dicas",
+    "title": "Como Passar no ProUni 2026: Nota Mínima, Documentos e",
+    "word_count": 1053,
+    "scores": {
+      "content_quality": 25,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 93
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "redacao-enem-nota-zero-como-evitar",
+    "title": "Redação ENEM Nota Zero: O que Causa e Como Evitar em 2026",
+    "word_count": 1943,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-pontuacao-maxima-como-tirar-900",
+    "title": "Como Tirar 900+ no ENEM: Estratégia dos Candidatos de Alta",
+    "word_count": 5707,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-2026-inscricao-isentos-baixa-renda",
+    "title": "Isenção de Taxa do ENEM 2026: Quem Tem Direito e Como Pedir",
+    "word_count": 2048,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-estudar-matematica-enem",
+    "title": "Como Estudar Matemática para o ENEM: Guia Definitivo 2026",
+    "word_count": 1169,
+    "scores": {
+      "content_quality": 25,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-biomedicina-enem",
+    "title": "Nota de Corte Biomedicina ENEM 2025: SISU, ProUni e Mercado",
+    "word_count": 2045,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-turismo-enem",
+    "title": "Nota de Corte Turismo ENEM 2025: SISU, ProUni e Mercado",
+    "word_count": 2043,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-relacoes-internacionais-enem",
+    "title": "Nota de Corte Relações Internacionais ENEM 2025",
+    "word_count": 2037,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-design-enem",
+    "title": "Nota de Corte Design ENEM 2025: SISU, ProUni e Mercado",
+    "word_count": 6968,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-ciencias-sociais-enem",
+    "title": "Nota de Corte Ciências Sociais ENEM 2025: SISU e Mercado",
+    "word_count": 1990,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "cronograma-enem-3-meses",
+    "title": "Cronograma de Estudos para o ENEM em 3 Meses",
+    "word_count": 6923,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "dicas-ultima-hora-enem",
+    "title": "Dicas de Última Hora Para o ENEM: O Que Fazer na Semana da",
+    "word_count": 4009,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-matematica-enem-2024",
+    "title": "Gabarito de Matemática ENEM 2024: Questões Comentadas (1ª e",
+    "word_count": 7086,
+    "scores": {
+      "content_quality": 26,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [
+      "1 paragraphs > 150 words"
+    ],
+    "auto_fixes": [
+      [
+        "split_paragraphs",
+        "Split 1 long paragraphs"
+      ]
+    ],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-ciencias-natureza-enem-2024",
+    "title": "Gabarito de Ciências da Natureza ENEM 2024",
+    "word_count": 7089,
+    "scores": {
+      "content_quality": 26,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [
+      "1 paragraphs > 150 words"
+    ],
+    "auto_fixes": [
+      [
+        "split_paragraphs",
+        "Split 1 long paragraphs"
+      ]
+    ],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-ciencias-humanas-enem-2024",
+    "title": "Gabarito de Ciências Humanas ENEM 2024: História, Geografia",
+    "word_count": 9411,
+    "scores": {
+      "content_quality": 26,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [
+      "1 paragraphs > 150 words"
+    ],
+    "auto_fixes": [
+      [
+        "split_paragraphs",
+        "Split 1 long paragraphs"
+      ]
+    ],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-linguagens-enem-2024",
+    "title": "Gabarito de Linguagens ENEM 2024: Português, Literatura",
+    "word_count": 9168,
+    "scores": {
+      "content_quality": 26,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [
+      "1 paragraphs > 150 words"
+    ],
+    "auto_fixes": [
+      [
+        "split_paragraphs",
+        "Split 1 long paragraphs"
+      ]
+    ],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-enem-2020",
+    "title": "Gabarito ENEM 2020: 1ª e 2ª Aplicação com Questões",
+    "word_count": 6926,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-de-quimica-enem",
+    "title": "Questões de Química no ENEM: Temas Mais Cobrados e Como",
+    "word_count": 1879,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-de-biologia-enem",
+    "title": "Questões de Biologia no ENEM: O que Mais Cai e Como Estudar",
+    "word_count": 3732,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-de-portugues-enem",
+    "title": "Questões de Português no ENEM: Interpretação Textual e",
+    "word_count": 1900,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-de-historia-enem",
+    "title": "Questões de História no ENEM: Brasil República",
+    "word_count": 1815,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-de-geografia-enem",
+    "title": "Questões de Geografia no ENEM: Biomas, Geopolítica e",
+    "word_count": 1934,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "genetica-enem-o-que-cai",
+    "title": "Genética no ENEM: O que Cai, Exercícios Resolvidos e Como",
+    "word_count": 5611,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "quimica-organica-enem",
+    "title": "Química Orgânica no ENEM: Funções, Reações e Questões",
+    "word_count": 2001,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-medicina-federal-por-estado",
+    "title": "Nota de Corte Medicina Federal por Estado 2025",
+    "word_count": 4146,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "redacao-enem-correcao-online",
+    "title": "Correção de Redação ENEM Online com IA: Como Funciona e",
+    "word_count": 1826,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-2026",
+    "title": "ENEM 2026: Datas, Inscrição, Cronograma e Tudo que Você",
+    "word_count": 1990,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-enem-2019",
+    "title": "Gabarito ENEM 2019 — Respostas Oficiais por Disciplina e",
+    "word_count": 7020,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-enem-2018",
+    "title": "Gabarito ENEM 2018 — Respostas Oficiais e Análise das Provas",
+    "word_count": 7032,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-enem-2017",
+    "title": "Gabarito ENEM 2017 — Respostas Oficiais, Redação e Análise",
+    "word_count": 7131,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-matematica-enem-2023",
+    "title": "Gabarito de Matemática ENEM 2023 — Respostas e Resolução",
+    "word_count": 6601,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-ciencias-natureza-enem-2023",
+    "title": "Gabarito Ciências da Natureza ENEM 2023 — Física",
+    "word_count": 1766,
+    "scores": {
+      "content_quality": 26,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-ciencias-humanas-enem-2023",
+    "title": "Gabarito Ciências Humanas ENEM 2023 — Respostas e Análise",
+    "word_count": 6536,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-linguagens-enem-2023",
+    "title": "Gabarito de Linguagens ENEM 2023 — Respostas e Análise das",
+    "word_count": 7013,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "cronograma-enem-6-meses",
+    "title": "Cronograma ENEM 6 Meses — Plano de Estudos Semana a Semana",
+    "word_count": 4090,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "cronograma-enem-1-ano",
+    "title": "Cronograma ENEM 1 Ano — Plano de Estudos Anual Completo",
+    "word_count": 4055,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "biologia-celular-enem",
+    "title": "Biologia Celular no ENEM — O Que Cai e Como Estudar",
+    "word_count": 3596,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "fisica-moderna-enem",
+    "title": "Física Moderna no ENEM — Radioatividade, Efeito",
+    "word_count": 6030,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "ciencias-humanas-enem-guia-avancado",
+    "title": "Ciências Humanas ENEM — Guia Avançado para Nota 700+",
+    "word_count": 6391,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-medicina-estadual",
+    "title": "Nota de Corte Medicina Estadual pelo ENEM",
+    "word_count": 3874,
+    "scores": {
+      "content_quality": 26,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [
+      "1 paragraphs > 150 words"
+    ],
+    "auto_fixes": [
+      [
+        "split_paragraphs",
+        "Split 1 long paragraphs"
+      ]
+    ],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-veterinaria-universidades",
+    "title": "Nota de Corte para Veterinária nas Federais",
+    "word_count": 2007,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-primeiro-ou-segundo-dia",
+    "title": "ENEM Primeiro ou Segundo Dia — O Que Cai em Cada Dia da",
+    "word_count": 6341,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-matematica-enem-2022",
+    "title": "Gabarito de Matemática ENEM 2022 — Temas",
+    "word_count": 6546,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-ciencias-natureza-enem-2022",
+    "title": "Gabarito Ciências da Natureza ENEM 2022 — Física",
+    "word_count": 1907,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-ciencias-humanas-enem-2022",
+    "title": "Gabarito Ciências Humanas ENEM 2022 — História, Geografia",
+    "word_count": 6751,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-linguagens-enem-2022",
+    "title": "Gabarito Linguagens ENEM 2022 — Português, Literatura",
+    "word_count": 1949,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-matematica-enem-2021",
+    "title": "Gabarito de Matemática ENEM 2021 — Temas",
+    "word_count": 6715,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-ciencias-natureza-enem-2021",
+    "title": "Gabarito Ciências da Natureza ENEM 2021 — Física",
+    "word_count": 7252,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-ciencias-humanas-enem-2021",
+    "title": "Gabarito Ciências Humanas ENEM 2021 — História, Geografia",
+    "word_count": 6533,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-linguagens-enem-2021",
+    "title": "Gabarito Linguagens ENEM 2021 — Português",
+    "word_count": 2016,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "data-enem-2025",
+    "title": "Data do ENEM 2025 — Quando é, Cronograma e o que Esperar",
+    "word_count": 1887,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "redacao-enem-2024-tema",
+    "title": "Tema da Redação ENEM 2024 — Análise Completa e Como Deveria",
+    "word_count": 2103,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "quando-sai-resultado-enem",
+    "title": "Quando Sai o Resultado do ENEM 2025 — Datas e Como Consultar",
+    "word_count": 1948,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "sisu-como-funciona",
+    "title": "SISU — Como Funciona, Inscrição e Como Calcular Suas Chances",
+    "word_count": 1987,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-treineiro",
+    "title": "ENEM Treineiro — O Que É, Quem Pode Fazer e Como se Preparar",
+    "word_count": 6046,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "prouni-como-funciona",
+    "title": "ProUni — Como Funciona, Quem Tem Direito e Como se Inscrever",
+    "word_count": 1968,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-estudar-sociologia-enem",
+    "title": "Como Estudar Sociologia para o ENEM — Clássicos",
+    "word_count": 4142,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-digital-prova-computador",
+    "title": "ENEM Digital — Prova no Computador, Quem Pode Fazer e",
+    "word_count": 1802,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "matematica-financeira-enem",
+    "title": "Matemática Financeira no ENEM — Juros, Porcentagem e o Que",
+    "word_count": 1782,
+    "scores": {
+      "content_quality": 26,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "eletricidade-enem-o-que-cai",
+    "title": "Eletricidade no ENEM — O Que Cai, Fórmulas e Como Estudar",
+    "word_count": 1899,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-ingles-ou-espanhol",
+    "title": "ENEM — Inglês ou Espanhol? Qual Escolher e Como Decidir",
+    "word_count": 7187,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-enem-2016",
+    "title": "Gabarito ENEM 2016 — Gabarito Oficial por Cor e Questão",
+    "word_count": 1957,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-enem-medicina-particular",
+    "title": "Nota do ENEM para Medicina Particular — Quanto Precisa para",
+    "word_count": 1925,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "texto-dissertativo-argumentativo-enem",
+    "title": "Texto Dissertativo-Argumentativo no ENEM",
+    "word_count": 7603,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-segunda-aplicacao-2026",
+    "title": "ENEM 2ª Aplicação 2026 — Data, Quem Pode Fazer e Como",
+    "word_count": 2020,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 14,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "banco-de-questoes-enem-gratis",
+    "title": "Banco de Questões do ENEM Grátis — Como Praticar Online Sem",
+    "word_count": 1852,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-vs-vestibular-diferenca",
+    "title": "ENEM vs Vestibular — Diferenças, Qual Fazer Primeiro e Como",
+    "word_count": 7702,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "redacao-enem-introducao-como-fazer",
+    "title": "Introdução da Redação ENEM — Como Fazer e Modelos que",
+    "word_count": 7445,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "cinematica-enem-o-que-cai",
+    "title": "Cinemática no ENEM — O Que Cai, Fórmulas e Exercícios",
+    "word_count": 5426,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "termodinamica-enem-o-que-cai",
+    "title": "Termodinâmica no ENEM — O Que Cai, Leis e Como Estudar",
+    "word_count": 5996,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "ecologia-enem-o-que-cai",
+    "title": "Ecologia no ENEM — O Que Cai, Conceitos e Como Estudar",
+    "word_count": 8201,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "tabela-periodica-enem",
+    "title": "Tabela Periódica no ENEM — O Que Cai e Como Ler Sem Decorar",
+    "word_count": 6045,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "reacoes-quimicas-enem",
+    "title": "Reações Químicas no ENEM — O Que Cai, Tipos e Como Balancear",
+    "word_count": 5702,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "quanto-vale-redacao-enem",
+    "title": "Quanto Vale a Redação no ENEM — Peso, Nota e Impacto no",
+    "word_count": 4090,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-2026-o-que-mudou",
+    "title": "ENEM 2026 — O Que Muda, Novidades e Como se Preparar",
+    "word_count": 1801,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 14,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-calcular-media-enem",
+    "title": "Como Calcular a Média do ENEM — Fórmula e Calculadora",
+    "word_count": 1968,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-de-matematica-enem",
+    "title": "Questões de Matemática do ENEM — Banco com Gabarito e",
+    "word_count": 1826,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-de-fisica-enem",
+    "title": "Questões de Física do ENEM — Banco com Gabarito e Resolução",
+    "word_count": 3922,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-enem-2015",
+    "title": "Gabarito ENEM 2015 — Todas as Disciplinas e Análise da Prova",
+    "word_count": 6575,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-matematica-enem-2020",
+    "title": "Gabarito de Matemática ENEM 2020 — Resolução e Análise",
+    "word_count": 6442,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-ciencias-natureza-enem-2020",
+    "title": "Gabarito de Ciências da Natureza ENEM 2020",
+    "word_count": 6799,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-ciencias-humanas-enem-2020",
+    "title": "Gabarito de Ciências Humanas ENEM 2020 — História",
+    "word_count": 6509,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-linguagens-enem-2020",
+    "title": "Gabarito de Linguagens ENEM 2020 — Português, Literatura",
+    "word_count": 6482,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "ansiedade-enem-como-controlar",
+    "title": "Ansiedade no ENEM — Como Controlar e Render Melhor na Prova",
+    "word_count": 873,
+    "scores": {
+      "content_quality": 24,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 92
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "expand_content",
+        "Expand from 873 → 1200+ words"
+      ],
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "redacao-enem-conclusao-como-fazer",
+    "title": "Conclusão da Redação ENEM — Como Fazer a Proposta de",
+    "word_count": 2517,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-caderno-de-questoes-cores",
+    "title": "Caderno de Questões do ENEM — Cores, Versões e O Que Muda",
+    "word_count": 1953,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-matematica-enem-2025",
+    "title": "Gabarito de Matemática ENEM 2025 — Resolução Comentada",
+    "word_count": 6783,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-ciencias-natureza-enem-2025",
+    "title": "Gabarito de Ciências da Natureza ENEM 2025",
+    "word_count": 7010,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-ciencias-humanas-enem-2025",
+    "title": "Gabarito de Ciências Humanas ENEM 2025 — História",
+    "word_count": 6751,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "gabarito-linguagens-enem-2025",
+    "title": "Gabarito de Linguagens ENEM 2025 — Português, Literatura",
+    "word_count": 6775,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "sisu-2026-inscricoes-datas",
+    "title": "SISU 2026 — Datas de Inscrição, Cronograma e Como Participar",
+    "word_count": 1898,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "nota-de-corte-sisu-2026",
+    "title": "Nota de Corte SISU 2026 — Por Curso e Universidade com ENEM",
+    "word_count": 2473,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "resultado-enem-2025",
+    "title": "Resultado do ENEM 2025 — Quando Sai e Como Consultar sua",
+    "word_count": 1797,
+    "scores": {
+      "content_quality": 26,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 94
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "enem-2025-analise-prova",
+    "title": "Análise do ENEM 2025 — Dificuldade, Temas e Destaques da",
+    "word_count": 4029,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "prouni-2026-inscricoes",
+    "title": "ProUni 2026 — Datas de Inscrição, Quem Pode e Como se",
+    "word_count": 4011,
+    "scores": {
+      "content_quality": 27,
+      "seo": 25,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 96
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "como-estudar-para-enem-em-3-meses",
+    "title": "Como Estudar para o ENEM em 3 Meses — Cronograma Intensivo",
+    "word_count": 1925,
+    "scores": {
+      "content_quality": 27,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 95
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-matematica-enem-2022",
+    "title": "Questões de Matemática ENEM 2022 — Análise e Gabarito",
+    "word_count": 1853,
+    "scores": {
+      "content_quality": 27,
+      "seo": 22,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 93
+    },
+    "issues": [
+      "Meta desc 125 chars (need 150-160)"
+    ],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-matematica-enem-2021",
+    "title": "Questões de Matemática ENEM 2021 — Análise e Gabarito",
+    "word_count": 1780,
+    "scores": {
+      "content_quality": 24,
+      "seo": 22,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 90
+    },
+    "issues": [
+      "Meta desc 139 chars (need 150-160)"
+    ],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-matematica-enem-2020",
+    "title": "Questões de Matemática ENEM 2020 — Análise e Gabarito",
+    "word_count": 1772,
+    "scores": {
+      "content_quality": 26,
+      "seo": 23,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 93
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-ciencias-natureza-enem-2022",
+    "title": "Questões de Ciências da Natureza ENEM 2022 — Física, Química e Biologia",
+    "word_count": 1728,
+    "scores": {
+      "content_quality": 24,
+      "seo": 22,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 90
+    },
+    "issues": [
+      "Title 71 chars (need 40-60)"
+    ],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-ciencias-natureza-enem-2021",
+    "title": "Questões de Ciências da Natureza ENEM 2021 — Física, Química e Biologia",
+    "word_count": 1714,
+    "scores": {
+      "content_quality": 24,
+      "seo": 22,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 90
+    },
+    "issues": [
+      "Title 71 chars (need 40-60)"
+    ],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-ciencias-natureza-enem-2020",
+    "title": "Questões de Ciências da Natureza ENEM 2020 — Física, Química e Biologia",
+    "word_count": 1743,
+    "scores": {
+      "content_quality": 24,
+      "seo": 22,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 90
+    },
+    "issues": [
+      "Title 71 chars (need 40-60)"
+    ],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-humanas-enem-2022",
+    "title": "Questões Ciências Humanas ENEM 2022 com Gabarito e Resolução",
+    "word_count": 1766,
+    "scores": {
+      "content_quality": 24,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 92
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-humanas-enem-2021",
+    "title": "Questões Ciências Humanas ENEM 2021 com Gabarito e Resolução",
+    "word_count": 1788,
+    "scores": {
+      "content_quality": 24,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 92
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-humanas-enem-2020",
+    "title": "Questões Ciências Humanas ENEM 2020 com Gabarito e Resolução",
+    "word_count": 1759,
+    "scores": {
+      "content_quality": 24,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 92
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-linguagens-enem-2022",
+    "title": "Questões de Linguagens ENEM 2022 — Português, Literatura e Artes",
+    "word_count": 1824,
+    "scores": {
+      "content_quality": 25,
+      "seo": 21,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 90
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-linguagens-enem-2021",
+    "title": "Questões de Linguagens ENEM 2021 — Português, Literatura e Artes",
+    "word_count": 1786,
+    "scores": {
+      "content_quality": 24,
+      "seo": 22,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 90
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "questoes-linguagens-enem-2020",
+    "title": "Questões de Linguagens ENEM 2020 — Português, Literatura e Artes",
+    "word_count": 1841,
+    "scores": {
+      "content_quality": 25,
+      "seo": 21,
+      "eeat": 15,
+      "technical": 14,
+      "ai_citation": 15,
+      "total": 90
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "medicina-enem-nota-de-corte",
+    "title": "Nota de Corte Medicina ENEM 2026 — Por Universidade",
+    "word_count": 1242,
+    "scores": {
+      "content_quality": 26,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 13,
+      "ai_citation": 14,
+      "total": 92
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "redacao-enem-nota-1000",
+    "title": "Redação ENEM Nota 1000 — O que Fazer para Tirar",
+    "word_count": 1410,
+    "scores": {
+      "content_quality": 26,
+      "seo": 23,
+      "eeat": 13,
+      "technical": 13,
+      "ai_citation": 14,
+      "total": 89
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "FAIL"
+  },
+  {
+    "slug": "estrutura-redacao-enem",
+    "title": "Estrutura da Redação ENEM — Guia Completo 2026",
+    "word_count": 1231,
+    "scores": {
+      "content_quality": 26,
+      "seo": 23,
+      "eeat": 13,
+      "technical": 13,
+      "ai_citation": 14,
+      "total": 89
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "FAIL"
+  },
+  {
+    "slug": "engenharia-nota-de-corte-enem",
+    "title": "Nota de Corte Engenharia ENEM 2026 — Por Modalidade",
+    "word_count": 1211,
+    "scores": {
+      "content_quality": 26,
+      "seo": 24,
+      "eeat": 15,
+      "technical": 13,
+      "ai_citation": 13,
+      "total": 91
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "PASS"
+  },
+  {
+    "slug": "direito-nota-de-corte-enem",
+    "title": "Nota de Corte Direito ENEM 2026 — Por Universidade",
+    "word_count": 1150,
+    "scores": {
+      "content_quality": 25,
+      "seo": 23,
+      "eeat": 15,
+      "technical": 13,
+      "ai_citation": 13,
+      "total": 89
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "FAIL"
+  },
+  {
+    "slug": "enem-nota-maxima",
+    "title": "Nota Máxima no ENEM — Como Atingir 1000 Pontos",
+    "word_count": 1392,
+    "scores": {
+      "content_quality": 26,
+      "seo": 23,
+      "eeat": 13,
+      "technical": 13,
+      "ai_citation": 13,
+      "total": 88
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "FAIL"
+  },
+  {
+    "slug": "cursinho-online-enem",
+    "title": "Cursinho Online para o ENEM — Gratuito e Pago 2026",
+    "word_count": 1284,
+    "scores": {
+      "content_quality": 26,
+      "seo": 23,
+      "eeat": 13,
+      "technical": 13,
+      "ai_citation": 14,
+      "total": 89
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "FAIL"
+  },
+  {
+    "slug": "melhor-curso-pre-enem-online",
+    "title": "Melhor Curso Pré-ENEM Online 2026 — Comparativo",
+    "word_count": 1266,
+    "scores": {
+      "content_quality": 26,
+      "seo": 23,
+      "eeat": 13,
+      "technical": 13,
+      "ai_citation": 13,
+      "total": 88
+    },
+    "issues": [],
+    "auto_fixes": [],
+    "needs_llm": [
+      [
+        "add_experience_signals",
+        "Add first-person data/experience markers"
+      ]
+    ],
+    "gate_4": "FAIL"
+  }
+]
