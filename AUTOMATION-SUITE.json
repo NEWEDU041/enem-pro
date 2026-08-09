@@ -1,0 +1,171 @@
+{
+  "timestamp": "2026-08-09T22:17:25.697Z",
+  "automacoes": [
+    {
+      "id": "auto-update-old-posts",
+      "nome": "Auto-Update Posts Antigos",
+      "descricao": "Atualizar posts com mais de 6 meses",
+      "frequencia": "Mensal",
+      "trigger": "Cron job (1º dia do mês)",
+      "acao": [
+        "Ler posts com publishDate < 6 meses atrás",
+        "Adicionar \"Atualizado em 2025-01-15\"",
+        "Adicionar dados 2024-2025 relevantes",
+        "Regenerar sitemap",
+        "Resubmeter ao GSC"
+      ],
+      "ganho": "+15% CTR (freshness)",
+      "tempo_implementacao": "2 horas"
+    },
+    {
+      "id": "auto-social-posting",
+      "nome": "Auto-Social Posting",
+      "descricao": "Publicar em redes sociais automaticamente",
+      "frequencia": "2x por dia",
+      "trigger": "Cron job (9h e 18h)",
+      "plataformas": [
+        "TikTok (short clip + texto)",
+        "Instagram (reels + caption)",
+        "Twitter (thread + link)",
+        "LinkedIn (artigo + resumo)"
+      ],
+      "acao": [
+        "Selecionar post do dia",
+        "Gerar short clip (5-15s)",
+        "Escrever caption com hook",
+        "Publicar em todas plataformas",
+        "Monitorar engagement"
+      ],
+      "ganho": "+30% traffic (viral)",
+      "tempo_implementacao": "4 horas"
+    },
+    {
+      "id": "auto-internal-linking",
+      "nome": "Auto-Internal Linking",
+      "descricao": "Adicionar links internos baseado em keywords",
+      "frequencia": "A cada novo post",
+      "trigger": "Post adicionado a .blog-memory/drafts/",
+      "acao": [
+        "Ler novo post",
+        "Extrair keywords principais",
+        "Encontrar posts relacionados",
+        "Adicionar 3-5 links contextuais",
+        "Evitar anchor text repetido"
+      ],
+      "ganho": "+10% organic",
+      "tempo_implementacao": "3 horas"
+    },
+    {
+      "id": "auto-generate-meta",
+      "nome": "Auto-Generate Meta Descriptions",
+      "descricao": "Gerar múltiplas versões de meta descriptions",
+      "frequencia": "Semanal (terça-feira)",
+      "trigger": "Cron job",
+      "acao": [
+        "Para cada post, gerar 3 variações de meta",
+        "Incluir keyword primária",
+        "Testar CTR em GSC",
+        "Usar melhor variação por 7 dias",
+        "Rotacionar semanalmente"
+      ],
+      "ganho": "+5-8% CTR (A/B testing)",
+      "tempo_implementacao": "2.5 horas"
+    },
+    {
+      "id": "auto-quality-check",
+      "nome": "Auto-Quality Check",
+      "descricao": "Validar qualidade automaticamente",
+      "frequencia": "A cada commit",
+      "trigger": "GitHub Actions workflow",
+      "acao": [
+        "Rodar validate-blog-quality.js",
+        "Verificar score >= 75",
+        "Checar fabricação",
+        "Validar structure",
+        "Block commit se score < 75"
+      ],
+      "ganho": "Evita posts ruins",
+      "tempo_implementacao": "1 hora (já feito)"
+    },
+    {
+      "id": "auto-index-regen",
+      "nome": "Auto-Index Regeneration",
+      "descricao": "Regenerar índice automaticamente",
+      "frequencia": "A cada deploy",
+      "trigger": "Pre-build hook",
+      "acao": [
+        "Ler todos os posts de drafts/",
+        "Extrair metadata (YAML frontmatter)",
+        "Combinar com posts estáticos",
+        "Gerar blog-index.json",
+        "Ordenar por data"
+      ],
+      "ganho": "Sempre sincronizado",
+      "tempo_implementacao": "1 hora (já feito)"
+    },
+    {
+      "id": "auto-sitemap",
+      "nome": "Auto-Sitemap Generation",
+      "descricao": "Gerar sitemap.xml no build",
+      "frequencia": "A cada deploy",
+      "trigger": "Build hook",
+      "acao": [
+        "Ler blog-index.json",
+        "Ler sitemap template",
+        "Gerar URLs com lastmod",
+        "Submeter ao GSC",
+        "Notificar Yandex"
+      ],
+      "ganho": "Sempre atualizado",
+      "tempo_implementacao": "1.5 horas"
+    },
+    {
+      "id": "auto-email-digest",
+      "nome": "Auto-Email Digest",
+      "descricao": "Enviar digest semanal",
+      "frequencia": "Segunda-feira (8h)",
+      "trigger": "Cron job",
+      "acao": [
+        "Selecionar top 3 posts da semana",
+        "Gerar template HTML",
+        "Adicionar CTA",
+        "Enviar via SendGrid/Mailgun",
+        "Rastrear opens/clicks"
+      ],
+      "ganho": "+40% subscribers retention",
+      "tempo_implementacao": "3 horas"
+    },
+    {
+      "id": "auto-alerts",
+      "nome": "Auto-Alert System",
+      "descricao": "Alertas automáticos no Slack/Email",
+      "frequencia": "Real-time + diário",
+      "trigger": "Event-driven",
+      "alertas": [
+        "🔴 Post com score < 75 (real-time)",
+        "🟠 Post sem links internos (diário)",
+        "🟡 Post órfão (semanalmente)",
+        "🟢 Oportunidade de keyword (diário)",
+        "💡 Problema de performance (diário)"
+      ],
+      "ganho": "Resposta 10x mais rápida",
+      "tempo_implementacao": "2 horas"
+    },
+    {
+      "id": "auto-analytics-report",
+      "nome": "Auto-Analytics Report",
+      "descricao": "Relatório automático de performance",
+      "frequencia": "Sexta-feira (14h)",
+      "trigger": "Cron job",
+      "metricas": [
+        "Top 10 posts (traffic)",
+        "Novos posts performance",
+        "Bounce rate por categoria",
+        "Conversão (CTAs)",
+        "Keywords ranking"
+      ],
+      "ganho": "Insights semanais automáticos",
+      "tempo_implementacao": "3 horas"
+    }
+  ]
+}
