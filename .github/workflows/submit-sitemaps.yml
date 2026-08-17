@@ -1,0 +1,60 @@
+name: 📡 Submit Sitemaps to GSC
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'app/sitemap.ts'
+      - 'app/api/sitemap-index/route.ts'
+      - 'public/robots.txt'
+  schedule:
+    # Run daily at 9 AM UTC (6 AM -03)
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+jobs:
+  submit-sitemaps:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: ⏳ Wait for Vercel deployment
+        uses: vercel/action-deploy-blocked@v1
+        with:
+          vercel-token: ${{ secrets.VERCEL_TOKEN }}
+          vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
+          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
+        id: vercel
+
+      - name: 📡 Ping Google Sitemap
+        run: |
+          echo "🔗 Submitting: https://enemprep.com.br/sitemap.xml"
+          curl -s "https://www.google.com/ping?sitemap=https://enemprep.com.br/sitemap.xml" && echo "✅ Pinged Google"
+
+      - name: 📡 Ping Google Sitemap Index
+        run: |
+          echo "🔗 Submitting: https://enemprep.com.br/sitemap-index.xml"
+          curl -s "https://www.google.com/ping?sitemap=https://enemprep.com.br/sitemap-index.xml" && echo "✅ Pinged Google"
+
+      - name: 📡 Ping Bing
+        run: |
+          echo "🔗 Notifying Bing..."
+          curl -s "https://www.bing.com/ping?sitemap=https://enemprep.com.br/sitemap.xml" && echo "✅ Bing notified"
+
+      - name: 📊 Verify Sitemaps
+        run: |
+          echo "🔍 Checking sitemap.xml..."
+          curl -s "https://enemprep.com.br/sitemap.xml" | head -50 | grep -q "urlset" && echo "✅ sitemap.xml valid"
+
+          echo "🔍 Checking sitemap-index.xml..."
+          curl -s "https://enemprep.com.br/api/sitemap-index" | head -50 | grep -q "sitemapindex" && echo "✅ sitemap-index.xml valid"
+
+      - name: 🔔 Notify via Slack (if configured)
+        if: always()
+        run: |
+          if [ ! -z "${{ secrets.SLACK_WEBHOOK_URL }}" ]; then
+            curl -X POST "${{ secrets.SLACK_WEBHOOK_URL }}" \
+              -H 'Content-Type: application/json' \
+              -d "{\"text\":\"✨ Sitemaps submitted to GSC\\n🔗 https://search.google.com/search-console\"}" \
+          fi

@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /_next/
+Disallow: /api/
+
+User-agent: Googlebot
+Allow: /
+Allow: /_next/
+Allow: /api/internal/
+
+Crawl-delay: 1
+Request-rate: 30/1m
+
+Sitemap: https://enemprep.com.br/sitemap.xml
+Sitemap: https://enemprep.com.br/sitemap-index.xml
