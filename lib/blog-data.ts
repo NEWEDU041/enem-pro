@@ -1,4 +1,4 @@
-// Auto-gerado em 2026-08-18T01:40:45.498853
+// Auto-gerado em 2026-08-18T03:00:55.246827
 // NAO EDITE MANUALMENTE — rode: python scripts/draft_to_blogpost.py
 
 import type { BlogCategory } from "./blog-data-types";
@@ -3804,27 +3804,4 @@ export function getAllPosts() {
 
 export function getPostBySlug(slug) {
   return BLOG_POSTS.find(p => p.slug === slug);
-}
-
-export function getCategory(slug: string): BlogCategory {
-  if (slug.includes('gabarito')) return 'Gabarito';
-  if (slug.includes('redacao')) return 'Redação';
-
-  const porMateria = ['matematica', 'quimica', 'biologia', 'fisica', 'geografia', 'historia', 'sociologia', 'filosofia', 'literatura', 'portugues', 'interpretacao-texto', 'formulas', 'compreensao-texto'];
-  if (slug.startsWith('guia-completo-') || porMateria.some(t => slug.includes(t))) return 'Por Matéria';
-
-  if (slug.includes('comparativo') || slug.includes('comparacao') || slug.includes('-vs-') || slug.includes('-ou-')) return 'Comparativos';
-
-  const universidades = ['universidade', 'sisu', 'prouni', 'vagas', 'nota-corte', 'nota-minima', 'carreira', 'ead-', 'estagio'];
-  if (universidades.some(t => slug.includes(t))) return 'Universidades';
-
-  const planejamento = ['cronograma', 'planejamento', 'revisao-ultima-hora', 'checklist', 'trabalhar-estudar', 'preparar-em', 'ultimo-mes', '60-dias', 'gerenciar-tempo'];
-  if (planejamento.some(t => slug.includes(t))) return 'Planejamento';
-
-  const comoFunciona = ['tri', 'nota-media', 'matriz-referencia', 'mudancas-enem', 'taxa', 'isencao', 'diferenca-nota', 'distribuicao', 'tendencia', 'analise-'];
-  if (comoFunciona.some(t => slug.includes(t))) return 'Como Funciona';
-
-  if (slug.includes('questoes') || slug.includes('simulado')) return 'Questões';
-
-  return 'Estratégias';
 }
