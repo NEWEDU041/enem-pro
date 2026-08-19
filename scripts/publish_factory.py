@@ -109,8 +109,8 @@ def git_commit_push(slug):
 
 def submit_gsc(slug):
     log(f"GSC submit: {slug}")
-    url = f"https://questoesenem.pro/blog/{slug}"
-    ok, out, err = run_cmd(f'python3 scripts/submit-sitemap-gsc.py "{url}"', timeout=30)
+    url = f"https://enemprep.com.br/blog/{slug}"
+    ok, out, err = run_cmd(f'python3 scripts/submit-url-gsc.py "{url}"', timeout=30)
     return ok
 
 def publish_post(slug):

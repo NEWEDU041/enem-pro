@@ -5,18 +5,22 @@ on:
     - cron: '0 9 * * *'  # Daily at 9 AM
   push:
     branches:
-      - master
+      - main
 
 jobs:
   check-alerts:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
 
       - name: Run Alerts
         run: node scripts/run-alerts.js
@@ -34,14 +38,15 @@ jobs:
           from: alerts@questoesenem.pro
           body: |
             Issues found in blog monitoring.
-            Check: https://github.com/your-repo/actions
+            Check: https://github.com/NEWEDU041/enem-pro/actions
 
       - name: Create GitHub Issue
         if: failure()
-        uses: actions/github-script@v6
+        uses: actions/github-script@v7
         with:
           script: |
-            const alerts = require('./.alerts-report.json')
+            const fs = require('fs')
+            const alerts = JSON.parse(fs.readFileSync('.alerts-report.json', 'utf-8'))
             await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,

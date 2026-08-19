@@ -1,0 +1,1441 @@
+[
+  {
+    "type": "LINKS",
+    "severity": "MEDIUM",
+    "message": "358 posts with < 3 internal links",
+    "posts": [
+      {
+        "slug": "active-recall-vs-revisao-passiva-enem",
+        "links": 0
+      },
+      {
+        "slug": "adaptacoes-prova-deficiente-enem",
+        "links": 0
+      },
+      {
+        "slug": "alternativa-descomplica-gratuita",
+        "links": 0
+      },
+      {
+        "slug": "analise-combinatoria-enem",
+        "links": 0
+      },
+      {
+        "slug": "ansiedade-enem-como-controlar",
+        "links": 1
+      },
+      {
+        "slug": "ansiedade-enem-gestao-emocional",
+        "links": 0
+      },
+      {
+        "slug": "banco-de-questoes-enem-gratis",
+        "links": 0
+      },
+      {
+        "slug": "biologia-celular-enem",
+        "links": 0
+      },
+      {
+        "slug": "biologia-enem-o-que-cai",
+        "links": 0
+      },
+      {
+        "slug": "carreira-profissional-pos-enem",
+        "links": 2
+      },
+      {
+        "slug": "carreiras-tecnologia-enem",
+        "links": 0
+      },
+      {
+        "slug": "checklist-dia-prova-enem",
+        "links": 1
+      },
+      {
+        "slug": "ciencias-humanas-enem-guia-avancado",
+        "links": 0
+      },
+      {
+        "slug": "ciencias-humanas-enem-o-que-cai",
+        "links": 0
+      },
+      {
+        "slug": "cinematica-enem-o-que-cai",
+        "links": 0
+      },
+      {
+        "slug": "como-calcular-media-enem",
+        "links": 1
+      },
+      {
+        "slug": "como-calcular-nota-enem",
+        "links": 0
+      },
+      {
+        "slug": "como-calcular-nota-enem-formula-tri",
+        "links": 0
+      },
+      {
+        "slug": "como-estudar-biologia-enem",
+        "links": 0
+      },
+      {
+        "slug": "como-estudar-ciencias-humanas-enem",
+        "links": 0
+      },
+      {
+        "slug": "como-estudar-ciencias-natureza-enem",
+        "links": 0
+      },
+      {
+        "slug": "como-estudar-filosofia-enem",
+        "links": 0
+      },
+      {
+        "slug": "como-estudar-fisica-enem",
+        "links": 0
+      },
+      {
+        "slug": "como-estudar-geografia-enem",
+        "links": 0
+      },
+      {
+        "slug": "como-estudar-historia-enem",
+        "links": 0
+      },
+      {
+        "slug": "como-estudar-ingles-enem",
+        "links": 0
+      },
+      {
+        "slug": "como-estudar-linguagens-enem",
+        "links": 0
+      },
+      {
+        "slug": "como-estudar-matematica-enem",
+        "links": 0
+      },
+      {
+        "slug": "como-estudar-para-enem-em-3-meses",
+        "links": 1
+      },
+      {
+        "slug": "como-estudar-para-o-enem",
+        "links": 0
+      },
+      {
+        "slug": "como-estudar-portugues-enem",
+        "links": 0
+      },
+      {
+        "slug": "como-estudar-quimica-enem",
+        "links": 0
+      },
+      {
+        "slug": "como-estudar-sociologia-enem",
+        "links": 0
+      },
+      {
+        "slug": "como-fazer-redacao-enem-passo-a-passo",
+        "links": 0
+      },
+      {
+        "slug": "como-passar-em-medicina-federal-no-enem",
+        "links": 0
+      },
+      {
+        "slug": "como-passar-no-enem",
+        "links": 0
+      },
+      {
+        "slug": "como-passar-no-prouni-dicas",
+        "links": 0
+      },
+      {
+        "slug": "como-passar-no-sisu",
+        "links": 0
+      },
+      {
+        "slug": "como-resolver-questoes-fisica-cinematica",
+        "links": 0
+      },
+      {
+        "slug": "como-se-inscrever-enem-2026",
+        "links": 0
+      },
+      {
+        "slug": "comparativo-apps-enem",
+        "links": 1
+      },
+      {
+        "slug": "controle-ansiedade-dia-prova",
+        "links": 0
+      },
+      {
+        "slug": "cronograma-enem-1-ano",
+        "links": 0
+      },
+      {
+        "slug": "cronograma-enem-3-meses",
+        "links": 0
+      },
+      {
+        "slug": "cronograma-enem-6-meses",
+        "links": 0
+      },
+      {
+        "slug": "cronograma-estudos-enem-2025",
+        "links": 0
+      },
+      {
+        "slug": "cronograma-oficial-enem-2026",
+        "links": 0
+      },
+      {
+        "slug": "cronograma-trabalhador-enem",
+        "links": 0
+      },
+      {
+        "slug": "cursinho-online-enem",
+        "links": 1
+      },
+      {
+        "slug": "data-enem-2025",
+        "links": 0
+      },
+      {
+        "slug": "deficiente-enem-direitos-recursos",
+        "links": 0
+      },
+      {
+        "slug": "desconto-taxa-enem-isencao",
+        "links": 0
+      },
+      {
+        "slug": "dia-enem-dicas-preparacao",
+        "links": 0
+      },
+      {
+        "slug": "dicas-enem-2025",
+        "links": 0
+      },
+      {
+        "slug": "dicas-melhorar-redacao-enem-score",
+        "links": 0
+      },
+      {
+        "slug": "dicas-ultima-hora-enem",
+        "links": 0
+      },
+      {
+        "slug": "diferenca-nota-enem-media-colegio",
+        "links": 0
+      },
+      {
+        "slug": "ead-educacao-distancia-enem",
+        "links": 0
+      },
+      {
+        "slug": "ecologia-enem-o-que-cai",
+        "links": 0
+      },
+      {
+        "slug": "eletricidade-enem-o-que-cai",
+        "links": 0
+      },
+      {
+        "slug": "enem-2025-analise-prova",
+        "links": 2
+      },
+      {
+        "slug": "enem-2025-gabarito-resultado",
+        "links": 0
+      },
+      {
+        "slug": "enem-2026",
+        "links": 0
+      },
+      {
+        "slug": "enem-2026-cronograma-datas",
+        "links": 0
+      },
+      {
+        "slug": "enem-2026-data-inscricao",
+        "links": 0
+      },
+      {
+        "slug": "enem-2026-dia-da-prova",
+        "links": 0
+      },
+      {
+        "slug": "enem-2026-inscricao-isentos-baixa-renda",
+        "links": 1
+      },
+      {
+        "slug": "enem-2026-o-que-estudar",
+        "links": 0
+      },
+      {
+        "slug": "enem-2026-o-que-mudou",
+        "links": 2
+      },
+      {
+        "slug": "enem-caderno-de-questoes-cores",
+        "links": 0
+      },
+      {
+        "slug": "enem-digital-como-funciona",
+        "links": 0
+      },
+      {
+        "slug": "enem-digital-prova-computador",
+        "links": 0
+      },
+      {
+        "slug": "enem-ingles-ou-espanhol",
+        "links": 0
+      },
+      {
+        "slug": "enem-nota-maxima",
+        "links": 1
+      },
+      {
+        "slug": "enem-pontuacao-maxima-como-tirar-900",
+        "links": 0
+      },
+      {
+        "slug": "enem-ppcs-pessoas-com-deficiencia",
+        "links": 0
+      },
+      {
+        "slug": "enem-primeiro-ou-segundo-dia",
+        "links": 0
+      },
+      {
+        "slug": "enem-resultado-quando-sai-2026",
+        "links": 0
+      },
+      {
+        "slug": "enem-segunda-aplicacao-2026",
+        "links": 2
+      },
+      {
+        "slug": "enem-segunda-chance",
+        "links": 0
+      },
+      {
+        "slug": "enem-treineiro",
+        "links": 0
+      },
+      {
+        "slug": "enem-treineiro-2026",
+        "links": 0
+      },
+      {
+        "slug": "enem-vs-vestibular-diferenca",
+        "links": 2
+      },
+      {
+        "slug": "engenharia-nota-de-corte-enem",
+        "links": 2
+      },
+      {
+        "slug": "equacoes-1-2-grau-enem",
+        "links": 0
+      },
+      {
+        "slug": "erros-comuns-inscricao-enem",
+        "links": 0
+      },
+      {
+        "slug": "estagio-durante-enem",
+        "links": 0
+      },
+      {
+        "slug": "estatistica-enem",
+        "links": 0
+      },
+      {
+        "slug": "estatistica-enem-o-que-cai",
+        "links": 0
+      },
+      {
+        "slug": "estudo-eficiente-pouco-tempo",
+        "links": 0
+      },
+      {
+        "slug": "fies-2026-como-funciona",
+        "links": 0
+      },
+      {
+        "slug": "filosofia-sociologia-enem",
+        "links": 0
+      },
+      {
+        "slug": "fisica-enem-o-que-cai",
+        "links": 0
+      },
+      {
+        "slug": "fisica-moderna-enem",
+        "links": 0
+      },
+      {
+        "slug": "flashcards-repeticao-espacada-enem",
+        "links": 0
+      },
+      {
+        "slug": "funcoes-matematica-enem",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-ciencias-humanas-enem-2020",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-ciencias-humanas-enem-2021",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-ciencias-humanas-enem-2022",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-ciencias-humanas-enem-2023",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-ciencias-humanas-enem-2024",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-ciencias-humanas-enem-2025",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-ciencias-natureza-enem-2020",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-ciencias-natureza-enem-2021",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-ciencias-natureza-enem-2022",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-ciencias-natureza-enem-2023",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-ciencias-natureza-enem-2024",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-ciencias-natureza-enem-2025",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2009-ciencias-humanas",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2009-ciencias-natureza",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2009-linguagens",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2009-matematica",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2010-ciencias-humanas",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2010-ciencias-natureza",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2010-linguagens",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2010-matematica",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2011-ciencias-humanas",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2011-ciencias-natureza",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2011-linguagens",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2011-matematica",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2012-ciencias-humanas",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2012-ciencias-natureza",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2012-linguagens",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2012-matematica",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2013-ciencias-humanas",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2013-ciencias-natureza",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2013-linguagens",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2013-matematica",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2014-ciencias-humanas",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2014-ciencias-natureza",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2014-linguagens",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2014-matematica",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2015",
+        "links": 1
+      },
+      {
+        "slug": "gabarito-enem-2015-ciencias-humanas",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2015-ciencias-natureza",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2015-linguagens",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2015-matematica",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2016-ciencias-humanas",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2016-ciencias-natureza",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2016-linguagens",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2016-matematica",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2017",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2017-ciencias-humanas",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2017-ciencias-natureza",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2017-linguagens",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2017-matematica",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2018",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2018-ciencias-humanas",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2018-ciencias-natureza",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2018-linguagens",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2018-matematica",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2019",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2019-ciencias-humanas",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2019-ciencias-natureza",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2019-linguagens",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2019-matematica",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2020",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2020-ciencias-humanas",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2020-ciencias-natureza",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2020-linguagens",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2020-matematica",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2021",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2021-ciencias-humanas",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2021-ciencias-natureza",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2021-linguagens",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2021-matematica",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2022",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2022-ciencias-humanas",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2022-ciencias-natureza",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2022-linguagens",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2022-matematica",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2023",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2023-ciencias-humanas",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2023-ciencias-natureza",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2023-linguagens",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2023-matematica",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2024",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2024-ciencias-humanas",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2024-ciencias-natureza",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2024-linguagens",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-enem-2024-matematica",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-linguagens-enem-2020",
+        "links": 1
+      },
+      {
+        "slug": "gabarito-linguagens-enem-2021",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-linguagens-enem-2022",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-linguagens-enem-2023",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-linguagens-enem-2024",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-linguagens-enem-2025",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-matematica-enem-2020",
+        "links": 1
+      },
+      {
+        "slug": "gabarito-matematica-enem-2021",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-matematica-enem-2022",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-matematica-enem-2023",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-matematica-enem-2024",
+        "links": 0
+      },
+      {
+        "slug": "gabarito-matematica-enem-2025",
+        "links": 0
+      },
+      {
+        "slug": "genetica-enem-o-que-cai",
+        "links": 0
+      },
+      {
+        "slug": "geografia-enem-o-que-cai",
+        "links": 0
+      },
+      {
+        "slug": "geometria-enem-o-que-cai",
+        "links": 0
+      },
+      {
+        "slug": "gestao-tempo-prova-enem",
+        "links": 0
+      },
+      {
+        "slug": "grifo-inteligente-enem",
+        "links": 0
+      },
+      {
+        "slug": "historia-enem-o-que-cai",
+        "links": 0
+      },
+      {
+        "slug": "ingles-enem-dicas",
+        "links": 0
+      },
+      {
+        "slug": "interpretacao-de-texto-enem",
+        "links": 0
+      },
+      {
+        "slug": "juros-compostos-enem",
+        "links": 0
+      },
+      {
+        "slug": "leitura-estrategica-sq3r-enem",
+        "links": 0
+      },
+      {
+        "slug": "literatura-enem-o-que-cai",
+        "links": 0
+      },
+      {
+        "slug": "logaritmos-matematica-enem",
+        "links": 0
+      },
+      {
+        "slug": "mapas-mentais-estudar-enem",
+        "links": 0
+      },
+      {
+        "slug": "matematica-enem-dicas-estrategias",
+        "links": 0
+      },
+      {
+        "slug": "matematica-financeira-enem",
+        "links": 0
+      },
+      {
+        "slug": "matriz-referencia-enem",
+        "links": 0
+      },
+      {
+        "slug": "matrizes-determinantes-enem",
+        "links": 0
+      },
+      {
+        "slug": "mecanica-fisica-enem",
+        "links": 0
+      },
+      {
+        "slug": "medicina-enem-nota-de-corte",
+        "links": 1
+      },
+      {
+        "slug": "melhor-app-estudar-enem-gratis",
+        "links": 0
+      },
+      {
+        "slug": "melhor-curso-pre-enem-online",
+        "links": 1
+      },
+      {
+        "slug": "melhores-recursos-estudar-enem",
+        "links": 0
+      },
+      {
+        "slug": "metodo-cornell-anotacoes-enem",
+        "links": 0
+      },
+      {
+        "slug": "mudancas-enem-2025",
+        "links": 0
+      },
+      {
+        "slug": "nota-corte-enem-carreira",
+        "links": 0
+      },
+      {
+        "slug": "nota-corte-medicina-federal-2025",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-administracao-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-agronomia-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-arquitetura-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-biomedicina-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-biotecnologia-enem",
+        "links": 2
+      },
+      {
+        "slug": "nota-de-corte-ciencias-biologicas-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-ciencias-sociais-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-computacao-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-contabilidade-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-design-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-direito-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-economia-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-educacao-fisica-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-enfermagem-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-engenharia-de-producao-enem",
+        "links": 2
+      },
+      {
+        "slug": "nota-de-corte-engenharia-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-estatistica-enem",
+        "links": 2
+      },
+      {
+        "slug": "nota-de-corte-farmacia-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-fisica-curso-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-fisioterapia-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-fonoaudiologia-enem",
+        "links": 2
+      },
+      {
+        "slug": "nota-de-corte-gastronomia-enem",
+        "links": 2
+      },
+      {
+        "slug": "nota-de-corte-geografia-enem",
+        "links": 2
+      },
+      {
+        "slug": "nota-de-corte-historia-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-jornalismo-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-letras-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-marketing-enem",
+        "links": 2
+      },
+      {
+        "slug": "nota-de-corte-matematica-curso-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-medicina-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-medicina-estadual",
+        "links": 1
+      },
+      {
+        "slug": "nota-de-corte-medicina-federal-por-estado",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-nutricao-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-odontologia-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-pedagogia-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-psicologia-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-publicidade-enem",
+        "links": 2
+      },
+      {
+        "slug": "nota-de-corte-quimica-curso-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-relacoes-internacionais-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-servico-social-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-sistemas-de-informacao-enem",
+        "links": 2
+      },
+      {
+        "slug": "nota-de-corte-sisu-2026",
+        "links": 1
+      },
+      {
+        "slug": "nota-de-corte-turismo-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-veterinaria-enem",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-veterinaria-universidades",
+        "links": 0
+      },
+      {
+        "slug": "nota-de-corte-zootecnia-enem",
+        "links": 2
+      },
+      {
+        "slug": "nota-enem-medicina-particular",
+        "links": 2
+      },
+      {
+        "slug": "nota-minima-enem-sisu",
+        "links": 0
+      },
+      {
+        "slug": "novo-enem-2024-formato",
+        "links": 0
+      },
+      {
+        "slug": "o-que-mais-cai-no-enem",
+        "links": 2
+      },
+      {
+        "slug": "perfil-candidato-aprovado-enem",
+        "links": 0
+      },
+      {
+        "slug": "ponto-forte-enem",
+        "links": 2
+      },
+      {
+        "slug": "prazos-enem-nao-perca-datas",
+        "links": 0
+      },
+      {
+        "slug": "preparacao-segunda-aplicacao-enem-2026",
+        "links": 0
+      },
+      {
+        "slug": "probabilidade-combinatoria-enem",
+        "links": 0
+      },
+      {
+        "slug": "problemas-cotidiano-enem",
+        "links": 0
+      },
+      {
+        "slug": "progressoes-matematica-enem",
+        "links": 0
+      },
+      {
+        "slug": "prouni-2026-como-funciona",
+        "links": 0
+      },
+      {
+        "slug": "prouni-2026-inscricoes",
+        "links": 1
+      },
+      {
+        "slug": "prouni-como-funciona",
+        "links": 0
+      },
+      {
+        "slug": "quando-sai-resultado-enem",
+        "links": 0
+      },
+      {
+        "slug": "quando-sai-resultado-enem-2026",
+        "links": 0
+      },
+      {
+        "slug": "quanto-tempo-estudar-para-o-enem",
+        "links": 0
+      },
+      {
+        "slug": "quanto-vale-redacao-enem",
+        "links": 1
+      },
+      {
+        "slug": "questoes-biologia-que-mais-caem-enem",
+        "links": 0
+      },
+      {
+        "slug": "questoes-ciencias-humanas-enem",
+        "links": 0
+      },
+      {
+        "slug": "questoes-ciencias-natureza-enem",
+        "links": 0
+      },
+      {
+        "slug": "questoes-ciencias-natureza-enem-2020",
+        "links": 0
+      },
+      {
+        "slug": "questoes-ciencias-natureza-enem-2021",
+        "links": 0
+      },
+      {
+        "slug": "questoes-ciencias-natureza-enem-2022",
+        "links": 0
+      },
+      {
+        "slug": "questoes-contextualizadas-enem",
+        "links": 0
+      },
+      {
+        "slug": "questoes-de-biologia-enem",
+        "links": 0
+      },
+      {
+        "slug": "questoes-de-fisica-enem",
+        "links": 1
+      },
+      {
+        "slug": "questoes-de-geografia-enem",
+        "links": 0
+      },
+      {
+        "slug": "questoes-de-historia-enem",
+        "links": 0
+      },
+      {
+        "slug": "questoes-de-matematica-enem",
+        "links": 0
+      },
+      {
+        "slug": "questoes-de-portugues-enem",
+        "links": 0
+      },
+      {
+        "slug": "questoes-de-quimica-enem",
+        "links": 0
+      },
+      {
+        "slug": "questoes-enem-online-gratis",
+        "links": 0
+      },
+      {
+        "slug": "questoes-fisica-enem",
+        "links": 0
+      },
+      {
+        "slug": "questoes-historia-que-mais-caem",
+        "links": 0
+      },
+      {
+        "slug": "questoes-humanas-enem-2020",
+        "links": 0
+      },
+      {
+        "slug": "questoes-humanas-enem-2021",
+        "links": 0
+      },
+      {
+        "slug": "questoes-humanas-enem-2022",
+        "links": 0
+      },
+      {
+        "slug": "questoes-linguagens-enem",
+        "links": 0
+      },
+      {
+        "slug": "questoes-linguagens-enem-2020",
+        "links": 0
+      },
+      {
+        "slug": "questoes-linguagens-enem-2021",
+        "links": 0
+      },
+      {
+        "slug": "questoes-linguagens-enem-2022",
+        "links": 0
+      },
+      {
+        "slug": "questoes-matematica-enem-2020",
+        "links": 0
+      },
+      {
+        "slug": "questoes-matematica-enem-2021",
+        "links": 0
+      },
+      {
+        "slug": "questoes-matematica-enem-2022",
+        "links": 0
+      },
+      {
+        "slug": "questoes-matematica-enem-2023",
+        "links": 0
+      },
+      {
+        "slug": "questoes-matematica-enem-2024",
+        "links": 0
+      },
+      {
+        "slug": "quimica-enem-o-que-cai",
+        "links": 0
+      },
+      {
+        "slug": "quimica-organica-enem",
+        "links": 0
+      },
+      {
+        "slug": "reacoes-quimicas-enem",
+        "links": 0
+      },
+      {
+        "slug": "recuperacao-fracasso-enem",
+        "links": 0
+      },
+      {
+        "slug": "recursos-acessiveis-deficiente-enem",
+        "links": 0
+      },
+      {
+        "slug": "redacao-competencia-1-gramatica-enem",
+        "links": 0
+      },
+      {
+        "slug": "redacao-competencia-5-proposta-intervencao-enem",
+        "links": 0
+      },
+      {
+        "slug": "redacao-enem-2024-tema",
+        "links": 0
+      },
+      {
+        "slug": "redacao-enem-2025-tema",
+        "links": 0
+      },
+      {
+        "slug": "redacao-enem-como-tirar-1000",
+        "links": 0
+      },
+      {
+        "slug": "redacao-enem-competencias",
+        "links": 0
+      },
+      {
+        "slug": "redacao-enem-conclusao-como-fazer",
+        "links": 2
+      },
+      {
+        "slug": "redacao-enem-correcao-online",
+        "links": 0
+      },
+      {
+        "slug": "redacao-enem-introducao-como-fazer",
+        "links": 2
+      },
+      {
+        "slug": "redacao-enem-nota-zero-como-evitar",
+        "links": 0
+      },
+      {
+        "slug": "redacao-enem-segundo-dia",
+        "links": 0
+      },
+      {
+        "slug": "redacao-enem-tema",
+        "links": 0
+      },
+      {
+        "slug": "redacao-enem-temas-provaveis-2026",
+        "links": 0
+      },
+      {
+        "slug": "resultado-enem-2025",
+        "links": 1
+      },
+      {
+        "slug": "resultado-enem-quando-sai",
+        "links": 0
+      },
+      {
+        "slug": "resumos-eficientes-enem",
+        "links": 0
+      },
+      {
+        "slug": "revisao-espacada-calendario-enem",
+        "links": 0
+      },
+      {
+        "slug": "revisao-ultima-hora-enem",
+        "links": 0
+      },
+      {
+        "slug": "revolucao-francesa-enem",
+        "links": 0
+      },
+      {
+        "slug": "saude-mental-enem",
+        "links": 1
+      },
+      {
+        "slug": "simulado-enem-gratis",
+        "links": 0
+      },
+      {
+        "slug": "simulado-enem-online-completo-gratis",
+        "links": 0
+      },
+      {
+        "slug": "simulados-enem-online",
+        "links": 0
+      },
+      {
+        "slug": "sisu-2026-como-funciona",
+        "links": 0
+      },
+      {
+        "slug": "sisu-2026-inscricoes-datas",
+        "links": 1
+      },
+      {
+        "slug": "sisu-como-funciona",
+        "links": 0
+      },
+      {
+        "slug": "sociologia-enem-o-que-estudar",
+        "links": 0
+      },
+      {
+        "slug": "tabela-periodica-enem",
+        "links": 0
+      },
+      {
+        "slug": "taxa-inscricao-enem-2026",
+        "links": 0
+      },
+      {
+        "slug": "tecnica-feynman-estudar-enem",
+        "links": 0
+      },
+      {
+        "slug": "tecnica-pomodoro-enem",
+        "links": 0
+      },
+      {
+        "slug": "tecnicas-de-estudo-enem",
+        "links": 0
+      },
+      {
+        "slug": "tecnicas-respiracao-ansiedade-enem",
+        "links": 0
+      },
+      {
+        "slug": "termodinamica-enem-o-que-cai",
+        "links": 0
+      },
+      {
+        "slug": "texto-dissertativo-argumentativo-enem",
+        "links": 1
+      },
+      {
+        "slug": "trabalhador-enem-estudar-trabalhando",
+        "links": 0
+      },
+      {
+        "slug": "trabalhar-estudar-enem",
+        "links": 0
+      },
+      {
+        "slug": "tri-enem-como-funciona",
+        "links": 0
+      },
+      {
+        "slug": "trigonometria-enem-o-que-cai",
+        "links": 0
+      },
+      {
+        "slug": "universidades-federais-estaduais-enem",
+        "links": 0
+      },
+      {
+        "slug": "usar-nota-enem-universidade",
+        "links": 0
+      },
+      {
+        "slug": "vagas-remanescentes-enem",
+        "links": 0
+      }
+    ]
+  }
+]
