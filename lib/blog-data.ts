@@ -1,4 +1,4 @@
-// Auto-gerado em 2026-08-19T08:27:52.316617
+// Auto-gerado em 2026-08-19T08:28:27.503905
 // NAO EDITE MANUALMENTE — rode: python scripts/draft_to_blogpost.py
 
 import type { BlogCategory } from "./blog-data-types";
