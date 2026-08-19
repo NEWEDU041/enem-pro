@@ -60,6 +60,9 @@ if (alerts.length > 0) {
   console.log('')
   console.log('📧 Alert report saved to .alerts-report.json')
   console.log('📧 Would send email to: tevez041041@gmail.com')
+  
+  // Exit with error code so GitHub Actions failure() triggers
+  process.exit(1)
 } else {
   console.log('✅ No alerts - everything is good!')
 }
