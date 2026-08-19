@@ -30,16 +30,19 @@ def infer_category(slug: str, title: str) -> str:
         return 'Redação'
     if any(kw in slug_lower for kw in ['sisu', 'prouni', 'universidade', 'vagas', 'carreira', 'ead']):
         return 'Universidades'
-    if any(kw in slug_lower for kw in ['matematica', 'fisica', 'quimica', 'biologia', 'historia', 
-                                        'geografia', 'filosofia', 'sociologia', 'portugues', 
+    if any(kw in slug_lower for kw in ['guia-completo']):
+        return 'Por Matéria'
+    if any(kw in slug_lower for kw in ['matematica', 'fisica', 'quimica', 'biologia', 'historia',
+                                        'geografia', 'filosofia', 'sociologia', 'portugues',
                                         'literatura', 'ingles']):
         return 'Por Matéria'
-    if any(kw in slug_lower for kw in ['estrategia', 'como-estudar', 'active-recall', 
+    if any(kw in slug_lower for kw in ['estrategia', 'como-estudar', 'active-recall',
                                         'memorizar', 'tempo', 'ansiedade']):
         return 'Estratégias'
-    if any(kw in slug_lower for kw in ['tri', 'como-calcular', 'como-funciona', 'entender']):
+    if any(kw in slug_lower for kw in ['tri', 'nota-media', 'matriz-referencia', 'mudancas-enem',
+                                        'como-calcular', 'como-funciona', 'entender']):
         return 'Como Funciona'
-    if any(kw in slug_lower for kw in ['cronograma', 'planejamento', 'revisao', 'checklist', 
+    if any(kw in slug_lower for kw in ['cronograma', 'planejamento', 'revisao', 'checklist',
                                         'preparar', 'ultimo-mes', '60-dias']):
         return 'Planejamento'
     if any(kw in slug_lower for kw in ['comparativo', 'comparacao', '-vs-', '-ou-']):
@@ -48,6 +51,29 @@ def infer_category(slug: str, title: str) -> str:
         return 'Questões'
 
     return 'Estratégias'
+
+
+def generate_get_category_function() -> str:
+    return '''export function getCategory(slug: string): BlogCategory {
+  const s = slug.toLowerCase()
+  if (s.includes('gabarito') || s.includes('nota-de-corte') || s.includes('resultado')) return 'Gabarito'
+  if (s.includes('redacao') || s.includes('repertorio') || s.includes('tema-enem')) return 'Redação'
+  if (s.includes('sisu') || s.includes('prouni') || s.includes('universidade') || s.includes('vagas') || s.includes('carreira') || s.includes('ead')) return 'Universidades'
+  if (s.includes('guia-completo')) return 'Por Matéria'
+  if (s.includes('matematica') || s.includes('fisica') || s.includes('quimica') || s.includes('biologia') || s.includes('historia') ||
+      s.includes('geografia') || s.includes('filosofia') || s.includes('sociologia') || s.includes('portugues') ||
+      s.includes('literatura') || s.includes('ingles')) return 'Por Matéria'
+  if (s.includes('estrategia') || s.includes('como-estudar') || s.includes('active-recall') ||
+      s.includes('memorizar') || s.includes('tempo') || s.includes('ansiedade')) return 'Estratégias'
+  if (s.includes('tri') || s.includes('nota-media') || s.includes('matriz-referencia') || s.includes('mudancas-enem') ||
+      s.includes('como-calcular') || s.includes('como-funciona') || s.includes('entender')) return 'Como Funciona'
+  if (s.includes('cronograma') || s.includes('planejamento') || s.includes('revisao') || s.includes('checklist') ||
+      s.includes('preparar') || s.includes('ultimo-mes') || s.includes('60-dias')) return 'Planejamento'
+  if (s.includes('comparativo') || s.includes('comparacao') || s.includes('-vs-') || s.includes('-ou-')) return 'Comparativos'
+  if (s.includes('questao') || s.includes('simulado') || s.includes('banco-de-questoes')) return 'Questões'
+  return 'Estratégias'
+}
+'''
 
 def extract_read_time(content: str, frontmatter_read_time: int) -> int:
     words = len(content.split())
@@ -164,10 +190,7 @@ export const BLOG_POSTS: BlogPost[] = [
     category: "{p['category']}"
   }}''')
 
-    footer = """
-]
-
-export function getAllPosts() {
+    footer = "]\n" + generate_get_category_function() + """\nexport function getAllPosts() {
   return BLOG_POSTS;
 }
 
