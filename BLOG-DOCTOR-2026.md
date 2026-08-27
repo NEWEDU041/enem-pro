@@ -1,0 +1,170 @@
+# Blog Doctor — 2026-08-27
+
+> Gerado pelo auto-quality-check. Objetivo: enriquecer os posts abaixo do gate ≥90 antes de qualquer publicação em massa.
+
+## Resumo
+- Total de posts: 407
+- **Abaixo de 90: 151**
+  - 50–69: 142
+  - 70–79: 9
+  - 80–89: 0
+- No gate (≥90): 0
+
+## Lista dos 151 (post : score)
+
+- `adaptacoes-prova-enem-deficientes`: 50/100
+- `alternativa-ao-enem-vestibular`: 50/100
+- `ansiedade-no-dia-da-prova-enem`: 50/100
+- `como-calcular-nota-enem`: 50/100
+- `como-estudar-portugues-para-enem`: 50/100
+- `como-fazer-mapa-mental-enem`: 50/100
+- `como-fazer-revisao-espacada-enem`: 50/100
+- `como-funciona-a-correcao-da-redacao-enem`: 50/100
+- `como-funciona-o-enem-prova`: 50/100
+- `como-passar-em-medicina-pelo-enem`: 50/100
+- `cronograma-de-estudo-enem-6-meses`: 50/100
+- `dicas-para-o-segundo-dia-de-prova-enem`: 50/100
+- `enem-2026-mudancas-o-que-saber`: 50/100
+- `estudar-por-questoes-ou-conteudo-enem`: 50/100
+- `gabarito-enem-2025-questoes`: 50/100
+- `melhor-app-questoes-enem`: 50/100
+- `metodo-pomodoro-para-estudar-enem`: 50/100
+- `nota-de-corte-direito-enem`: 50/100
+- `nota-de-corte-medicina-enem`: 50/100
+- `o-que-cai-em-biologia-no-enem`: 50/100
+- `o-que-cai-em-fisica-no-enem`: 50/100
+- `o-que-cai-em-matematica-no-enem`: 50/100
+- `o-que-cai-em-quimica-no-enem`: 50/100
+- `o-que-cai-em-redacao-enem-temas`: 50/100
+- `o-que-levar-no-dia-da-prova-enem`: 50/100
+- `quanto-tempo-estudar-para-enem`: 50/100
+- `questoes-enem-2024-matematica-resolvidas`: 50/100
+- `redacao-enem-competencia-2`: 50/100
+- `redacao-enem-nota-1000-como-alcancar`: 50/100
+- `simulado-enem-gratis-como-montar`: 50/100
+- `sisu-como-funciona-inscricao`: 50/100
+- `tri-enem-como-funciona-nota`: 50/100
+- `active-recall-vs-revisao-passiva-enem`: 55/100
+- `analise-combinatoria-enem`: 55/100
+- `desconto-taxa-enem-isencao`: 55/100
+- `equacoes-1-2-grau-enem`: 55/100
+- `estatistica-enem`: 55/100
+- `gabarito-enem-2009-ciencias-humanas`: 55/100
+- `gabarito-enem-2009-ciencias-natureza`: 55/100
+- `gabarito-enem-2009-linguagens`: 55/100
+- `gabarito-enem-2009-matematica`: 55/100
+- `gabarito-enem-2010-ciencias-humanas`: 55/100
+- `gabarito-enem-2010-ciencias-natureza`: 55/100
+- `gabarito-enem-2010-linguagens`: 55/100
+- `gabarito-enem-2010-matematica`: 55/100
+- `gabarito-enem-2011-ciencias-humanas`: 55/100
+- `gabarito-enem-2011-ciencias-natureza`: 55/100
+- `gabarito-enem-2011-linguagens`: 55/100
+- `gabarito-enem-2011-matematica`: 55/100
+- `gabarito-enem-2012-ciencias-humanas`: 55/100
+- `gabarito-enem-2012-ciencias-natureza`: 55/100
+- `gabarito-enem-2012-linguagens`: 55/100
+- `gabarito-enem-2012-matematica`: 55/100
+- `gabarito-enem-2013-ciencias-humanas`: 55/100
+- `gabarito-enem-2013-ciencias-natureza`: 55/100
+- `gabarito-enem-2013-linguagens`: 55/100
+- `gabarito-enem-2013-matematica`: 55/100
+- `gabarito-enem-2014-ciencias-humanas`: 55/100
+- `gabarito-enem-2014-ciencias-natureza`: 55/100
+- `gabarito-enem-2014-linguagens`: 55/100
+- `gabarito-enem-2014-matematica`: 55/100
+- `gabarito-enem-2015-ciencias-humanas`: 55/100
+- `gabarito-enem-2015-ciencias-natureza`: 55/100
+- `gabarito-enem-2015-linguagens`: 55/100
+- `gabarito-enem-2015-matematica`: 55/100
+- `gabarito-enem-2016-ciencias-humanas`: 55/100
+- `gabarito-enem-2016-ciencias-natureza`: 55/100
+- `gabarito-enem-2016-linguagens`: 55/100
+- `gabarito-enem-2016-matematica`: 55/100
+- `gabarito-enem-2017-ciencias-humanas`: 55/100
+- `gabarito-enem-2017-ciencias-natureza`: 55/100
+- `gabarito-enem-2017-linguagens`: 55/100
+- `gabarito-enem-2017-matematica`: 55/100
+- `gabarito-enem-2018-ciencias-humanas`: 55/100
+- `gabarito-enem-2018-ciencias-natureza`: 55/100
+- `gabarito-enem-2018-linguagens`: 55/100
+- `gabarito-enem-2018-matematica`: 55/100
+- `gabarito-enem-2019-ciencias-humanas`: 55/100
+- `gabarito-enem-2019-ciencias-natureza`: 55/100
+- `gabarito-enem-2019-linguagens`: 55/100
+- `gabarito-enem-2019-matematica`: 55/100
+- `gabarito-enem-2020-ciencias-humanas`: 55/100
+- `gabarito-enem-2020-ciencias-natureza`: 55/100
+- `gabarito-enem-2020-linguagens`: 55/100
+- `gabarito-enem-2020-matematica`: 55/100
+- `gabarito-enem-2021-ciencias-humanas`: 55/100
+- `gabarito-enem-2021-ciencias-natureza`: 55/100
+- `gabarito-enem-2021-linguagens`: 55/100
+- `gabarito-enem-2021-matematica`: 55/100
+- `gabarito-enem-2022-ciencias-humanas`: 55/100
+- `gabarito-enem-2022-ciencias-natureza`: 55/100
+- `gabarito-enem-2022-linguagens`: 55/100
+- `gabarito-enem-2022-matematica`: 55/100
+- `gabarito-enem-2023-ciencias-humanas`: 55/100
+- `gabarito-enem-2023-ciencias-natureza`: 55/100
+- `gabarito-enem-2023-linguagens`: 55/100
+- `gabarito-enem-2023-matematica`: 55/100
+- `gabarito-enem-2024-ciencias-humanas`: 55/100
+- `gabarito-enem-2024-ciencias-natureza`: 55/100
+- `gabarito-enem-2024-linguagens`: 55/100
+- `gabarito-enem-2024-matematica`: 55/100
+- `grifo-inteligente-enem`: 55/100
+- `juros-compostos-enem`: 55/100
+- `mapas-mentais-estudar-enem`: 55/100
+- `mecanica-fisica-enem`: 55/100
+- `metodo-cornell-anotacoes-enem`: 55/100
+- `nota-corte-enem-carreira`: 55/100
+- `preparacao-segunda-aplicacao-enem-2026`: 55/100
+- `questoes-historia-que-mais-caem`: 55/100
+- `recuperacao-fracasso-enem`: 55/100
+- `redacao-competencia-1-gramatica-enem`: 55/100
+- `redacao-competencia-5-proposta-intervencao-enem`: 55/100
+- `redacao-enem-segundo-dia`: 55/100
+- `resumos-eficientes-enem`: 55/100
+- `revisao-espacada-calendario-enem`: 55/100
+- `revolucao-francesa-enem`: 55/100
+- `simulado-enem-online-completo-gratis`: 55/100
+- `simulados-enem-online`: 55/100
+- `tecnica-feynman-estudar-enem`: 55/100
+- `tecnica-pomodoro-enem`: 55/100
+- `universidades-federais-estaduais-enem`: 55/100
+- `resultado-enem-quando-sai`: 60/100
+- `como-calcular-nota-enem-formula-tri`: 65/100
+- `como-resolver-questoes-fisica-cinematica`: 65/100
+- `controle-ansiedade-dia-prova`: 65/100
+- `cronograma-oficial-enem-2026`: 65/100
+- `cronograma-trabalhador-enem`: 65/100
+- `dia-enem-dicas-preparacao`: 65/100
+- `dicas-melhorar-redacao-enem-score`: 65/100
+- `erros-comuns-inscricao-enem`: 65/100
+- `flashcards-repeticao-espacada-enem`: 65/100
+- `gestao-tempo-prova-enem`: 65/100
+- `leitura-estrategica-sq3r-enem`: 65/100
+- `melhores-recursos-estudar-enem`: 65/100
+- `nota-corte-medicina-federal-2025`: 65/100
+- `novo-enem-2024-formato`: 65/100
+- `quando-sai-resultado-enem-2026`: 65/100
+- `questoes-biologia-que-mais-caem-enem`: 65/100
+- `recursos-acessiveis-deficiente-enem`: 65/100
+- `taxa-inscricao-enem-2026`: 65/100
+- `tecnicas-respiracao-ansiedade-enem`: 65/100
+- `usar-nota-enem-universidade`: 65/100
+- `estagio-durante-enem`: 70/100
+- `matriz-referencia-enem`: 70/100
+- `mudancas-enem-2025`: 70/100
+- `nota-minima-enem-sisu`: 70/100
+- `prova-enem-como-funciona`: 70/100
+- `questoes-enem-tipos`: 70/100
+- `trabalhar-estudar-enem`: 70/100
+- `vagas-remanescentes-enem`: 70/100
+- `dia`: 73/100
+
+## Ação
+1. Enriquecer os posts abaixo de 90 (expandir para 1800+ palavras, adicionar FAQ, schema BlogPosting+FAQPage, internal links).
+2. Re-rodar auto-quality-check até ≥90.
+3. Só então publicar (em lotes).
