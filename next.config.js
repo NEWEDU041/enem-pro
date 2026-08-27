@@ -48,14 +48,14 @@ const withPWA = require('next-pwa')({
 
 // Otimizações para performance e SEO
 const nextConfig = {
-  // Disable ESLint during build (conflicting with heap memory)
+  // ESLint during build desligado por enquanto (117 erros estilo, refactor separado)
   eslint: {
     ignoreDuringBuilds: true,
   },
 
-  // Disable TypeScript type checking during build (heap memory issue)
+  // TypeScript: type-check habilitado (blog-data layer corrigida, tsc limpo)
   typescript: {
-    ignoreBuildErrors: true,
+    ignoreBuildErrors: false,
   },
 
   // Image Optimization
