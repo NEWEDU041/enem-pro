@@ -1,5 +1,6 @@
 $SUPABASE_URL = "https://lxlwajmzwvqwimuvvsrb.supabase.co"
-$AUTH_KEY = "SUPABASE_SERVICE_ROLE_KEY_REMOVED"
+# Lei 4 (segurança): key apenas via variável de ambiente, nunca no código
+$AUTH_KEY = $env:SUPABASE_SERVICE_ROLE_KEY
 
 # Load questions
 $questions = Get-Content ./data/enem-2024.json -Raw | ConvertFrom-Json
