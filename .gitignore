@@ -66,3 +66,4 @@ scripts/update_alt_images.py
 
 # blog-memory: estado local (SQLite) por projeto, não versionar
 .blog-memory/
+.scripts-temp/
