@@ -1,7 +1,8 @@
-// Auto-gerado em 2026-08-20T01:18:50.929929
+// Auto-gerado em 2026-08-27T18:06:26.687141
 // NAO EDITE MANUALMENTE — rode: python scripts/draft_to_blogpost.py
 
 import type { BlogCategory } from "./blog-data-types";
+export type { BlogCategory } from "./blog-data-types";
 
 export interface BlogPost {
   slug: string;
@@ -3820,6 +3821,29 @@ export function getAllPosts() {
   return BLOG_POSTS;
 }
 
-export function getPostBySlug(slug) {
+export function getPostBySlug(slug: string) {
   return BLOG_POSTS.find(p => p.slug === slug);
+}
+
+export function getPost(slug: string) {
+  return getPostBySlug(slug);
+}
+
+export function getRelatedPosts(slug: string, limit = 3) {
+  const post = getPostBySlug(slug);
+  if (!post) return [];
+  return BLOG_POSTS
+    .filter(p => p.slug !== slug && p.category === post.category)
+    .slice(0, limit);
+}
+
+export function getPostsByDiscipline(discipline: string) {
+  if (!discipline) return [];
+  const norm = (s: string) => (s || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  const d = norm(discipline);
+  return BLOG_POSTS.filter(p =>
+    norm(p.category).includes(d) ||
+    norm(p.title).includes(d) ||
+    norm(p.slug).includes(d)
+  );
 }

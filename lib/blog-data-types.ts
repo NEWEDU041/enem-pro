@@ -7,7 +7,8 @@ export type BlogCategory =
   | 'Estratégias'
   | 'Como Funciona'
   | 'Planejamento'
-  | 'Comparativos';
+  | 'Comparativos'
+  | 'Geral';
 
 export interface BlogPost {
   slug: string;

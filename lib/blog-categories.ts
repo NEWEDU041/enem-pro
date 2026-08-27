@@ -2,7 +2,7 @@ import type { BlogCategory } from './blog-data'
 
 export const ALL_CATEGORIES: BlogCategory[] = [
   'Gabarito', 'Questões', 'Redação', 'Universidades',
-  'Por Matéria', 'Estratégias', 'Como Funciona', 'Planejamento', 'Comparativos',
+  'Por Matéria', 'Estratégias', 'Como Funciona', 'Planejamento', 'Comparativos', 'Geral',
 ]
 
 export const CATEGORY_COLORS: Record<BlogCategory, string> = {
@@ -15,12 +15,14 @@ export const CATEGORY_COLORS: Record<BlogCategory, string> = {
   'Como Funciona': 'bg-zinc-100 text-zinc-700',
   'Planejamento':  'bg-teal-100 text-teal-700',
   'Comparativos':  'bg-orange-100 text-orange-700',
+  'Geral':         'bg-gray-100 text-gray-700',
 }
 
 export const POST_ICON: Record<BlogCategory, string> = {
   'Gabarito': '📋', 'Questões': '📝', 'Redação': '✍️',
   'Universidades': '🎓', 'Por Matéria': '📚', 'Estratégias': '🎯',
   'Como Funciona': '🔍', 'Planejamento': '📅', 'Comparativos': '⚖️',
+  'Geral': '🗂️',
 }
 
 function slugify(s: string): string {

@@ -71,7 +71,7 @@ export function generateKeywords(title: string, slug: string): string {
   return `ENEM, preparação, ${slugTerms}`
 }
 
-export function getBlogPostingSchema(post: BlogPost, slug: string): BlogPostingSchema {
+export function getBlogPostingSchema(post: Pick<BlogPost, 'title' | 'description' | 'date' | 'content' | 'cover_url'>, slug: string): BlogPostingSchema {
   const postUrl = `${SITE_URL}/blog/${slug}`
   const plainTextBody = extractPlainText(post.content)
   const keywords = generateKeywords(post.title, slug)

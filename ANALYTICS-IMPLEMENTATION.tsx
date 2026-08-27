@@ -8,7 +8,8 @@ import { usePathname } from 'next/navigation'
 
 declare global {
   interface Window {
-    gtag?: (...args: any[]) => void
+    gtag?: (...args: unknown[]) => void
+    dataLayer?: unknown[]
   }
 }
 
@@ -24,7 +25,7 @@ export function Analytics() {
 
     window.dataLayer = window.dataLayer || []
     function gtag(...args: any[]) {
-      window.dataLayer.push(arguments)
+      window.dataLayer?.push(arguments)
     }
     gtag('js', new Date())
     gtag('config', 'G-XXXXXXXX', {
