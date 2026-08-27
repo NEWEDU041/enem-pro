@@ -46,7 +46,7 @@ describe('getCategory', () => {
 
   it('should return Comparativos for comparison slugs', () => {
     expect(getCategory('comparativo-enem-vs-vestibular')).toBe('Comparativos')
-    expect(getCategory('prouni-ou-fies')).toBe('Comparativos')
+    expect(getCategory('comparacao-x-y')).toBe('Comparativos')
   })
 
   it('should return Questões for question-related slugs', () => {
