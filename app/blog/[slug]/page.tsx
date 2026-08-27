@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const postUrl = `${SITE_URL}/blog/${slug}`
 
   // Dynamic noindex for poor-quality posts (readTime < 7)
-  const shouldNoindex = false // disabled - all posts indexable
+  const shouldNoindex = typeof post.readTime === 'number' && post.readTime < 7
 
   return {
     title: post.title,
