@@ -40,6 +40,22 @@
     "category": "Por Matéria"
   },
   {
+    "slug": "como-organizar-os-estudos-enem-trabalhando",
+    "title": "Como Organizar os Estudos do ENEM Trabalhando",
+    "description": "Como conciliar trabalho e estudo para o ENEM.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Estratégias"
+  },
+  {
+    "slug": "nota-de-corte-engenharia-civil-enem",
+    "title": "Nota de Corte Engenharia Civil pelo ENEM",
+    "description": "Nota de corte de Engenharia Civil no ENEM.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Gabarito"
+  },
+  {
     "slug": "como-estudar-portugues-para-enem",
     "title": "Como Estudar Português para o ENEM: Estratégia Completa 2026",
     "description": "Domine as competências de Linguagens no ENEM. Conheça os tópicos que mais caem, estratégias de leitura, interpretação e redação.",
@@ -54,6 +70,14 @@
     "date": "2026-06-15",
     "readTime": 11,
     "category": "Gabarito"
+  },
+  {
+    "slug": "nota-1000-redacao",
+    "title": "Redação Nota 1000: Os 5 Pilares Que ENEM Cobra",
+    "description": "Como atingir nota 1000 em redação no ENEM. Análise de redações premiadas, critérios de avaliação e exemplos de argumentos vencedores.",
+    "date": "2026-08-27",
+    "readTime": 11,
+    "category": "Redação"
   },
   {
     "slug": "historia-enem-o-que-cai",
@@ -174,6 +198,14 @@
     "date": "2026-03-12",
     "readTime": 8,
     "category": "Por Matéria"
+  },
+  {
+    "slug": "como-desenvolver-o-repertorio-na-redacao-enem",
+    "title": "Como Desenvolver o Repertório na Redação do ENEM",
+    "description": "Como usar repertório sociocultural na redação.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Redação"
   },
   {
     "slug": "gabarito-enem-2016-ciencias-natureza",
@@ -304,6 +336,14 @@
     "category": "Gabarito"
   },
   {
+    "slug": "estudo-eficiente-humanas",
+    "title": "Estudo Eficiente: Humanas (História, Geografia, Sociologia)",
+    "description": "Como estudar humanas para ENEM. Cronograma, temas recorrentes, dicas de memorização e análise de questões por matéria.",
+    "date": "2026-08-27",
+    "readTime": 10,
+    "category": "Estratégias"
+  },
+  {
     "slug": "gabarito-ciencias-humanas-enem-2023",
     "title": "Gabarito Ciências Humanas ENEM 2023 — Respostas e Análise",
     "description": "Gabarito de Ciências Humanas do ENEM 2023 com respostas de todas as 45 questões. História, Geografia, Filosofia e Sociologia: o que foi cobrado em novembro de.",
@@ -334,6 +374,22 @@
     "date": "2026-03-08",
     "readTime": 10,
     "category": "Gabarito"
+  },
+  {
+    "slug": "o-que-cai-em-geografia-no-enem",
+    "title": "O Que Cai em Geografia no ENEM",
+    "description": "Geografia no ENEM: temas recorrentes.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Por Matéria"
+  },
+  {
+    "slug": "o-que-cai-em-literatura-no-enem",
+    "title": "O Que Cai em Literatura no ENEM",
+    "description": "Literatura no ENEM: escolas e obras.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Por Matéria"
   },
   {
     "slug": "novo-enem-2024-formato",
@@ -432,6 +488,22 @@
     "category": "Como Funciona"
   },
   {
+    "slug": "o-que-cai-em-historia-no-enem",
+    "title": "O Que Cai em História no ENEM",
+    "description": "História no ENEM: tópicos mais frequentes.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Por Matéria"
+  },
+  {
+    "slug": "como-passar-em-engenharia-de-software-pelo-enem",
+    "title": "Como Passar em Engenharia de Software pelo ENEM",
+    "description": "Como entrar em Engenharia de Software pelo ENEM.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Estratégias"
+  },
+  {
     "slug": "genetica-enem-o-que-cai",
     "title": "Genética no ENEM: O que Cai, Exercícios Resolvidos e Como",
     "description": "Guia completo de Genética para o ENEM: herança mendeliana, grupos sanguíneos, herança ligada ao sexo, probabilidade e biotecnologia. Com exercícios resolvidos.",
@@ -448,6 +520,22 @@
     "category": "Estratégias"
   },
   {
+    "slug": "o-que-fazer-um-dia-antes-da-prova-enem",
+    "title": "O Que Fazer um Dia Antes da Prova do ENEM",
+    "description": "Checklist do dia anterior à prova do ENEM.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Estratégias"
+  },
+  {
+    "slug": "o-que-cai-em-sociologia-no-enem",
+    "title": "O Que Cai em Sociologia no ENEM",
+    "description": "Os temas de Sociologia que mais caem no ENEM.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Por Matéria"
+  },
+  {
     "slug": "nota-de-corte-marketing-enem",
     "title": "Nota de Corte Marketing ENEM 2026 — Por Universidade",
     "description": "Nota de corte para Marketing no ENEM 2026 por universidade federal. Veja as médias do SiSU, os pesos das áreas e quanto você precisa para passar no curso.",
@@ -462,6 +550,14 @@
     "date": "2026-03-15",
     "readTime": 10,
     "category": "Universidades"
+  },
+  {
+    "slug": "o-que-cai-em-filosofia-no-enem",
+    "title": "O Que Cai em Filosofia no ENEM",
+    "description": "Filosofia no ENEM: assuntos mais cobrados.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Por Matéria"
   },
   {
     "slug": "simulados-enem-online",
@@ -664,6 +760,14 @@
     "category": "Estratégias"
   },
   {
+    "slug": "como-vencer-a-ansiedade-no-segundo-dia",
+    "title": "Como Vencer a Ansiedade no Segundo Dia do ENEM",
+    "description": "Técnicas para controlar a ansiedade no 2º dia.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Estratégias"
+  },
+  {
     "slug": "gabarito-enem-2020-ciencias-natureza",
     "title": "Gabarito ENEM 2020 — Ciências da Natureza: Análise Completa e Tópicos Cobrados",
     "description": "Gabarito oficial de Ciências da Natureza ENEM 2020. Análise dos tópicos cobrados, padrão de questões e estratégia de estudo.",
@@ -728,12 +832,28 @@
     "category": "Estratégias"
   },
   {
+    "slug": "como-revisar-questoes-erradas-do-enem",
+    "title": "Como Revisar Questões Erradas do ENEM",
+    "description": "Método para revisar os erros nas questões.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Estratégias"
+  },
+  {
     "slug": "questoes-de-portugues-enem",
     "title": "Questões de Português no ENEM: Interpretação Textual e",
     "description": "Como o Português cai no ENEM: interpretação de textos, gêneros textuais, gramática contextualizada e figuras de linguagem. Dicas práticas para gabaritar.",
     "date": "2026-06-15",
     "readTime": 11,
     "category": "Por Matéria"
+  },
+  {
+    "slug": "como-fazer-a-conclusao-da-redacao-enem",
+    "title": "Como Fazer uma Conclusão Nota 1000 na Redação do ENEM",
+    "description": "Como estruturar a conclusão da redação do ENEM.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Redação"
   },
   {
     "slug": "nota-corte-enem-carreira",
@@ -816,6 +936,14 @@
     "category": "Universidades"
   },
   {
+    "slug": "como-passar-em-enfermagem-pelo-enem",
+    "title": "Como Passar em Enfermagem pelo ENEM",
+    "description": "Como alcançar a nota de corte de Enfermagem pelo ENEM.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Estratégias"
+  },
+  {
     "slug": "gabarito-enem-2024",
     "title": "Gabarito ENEM 2024 — Todas as Disciplinas com Resolução",
     "description": "Gabarito oficial do ENEM 2024 com resolução comentada de todas as disciplinas: Matemática, Ciências da Natureza, Ciências Humanas e Linguagens. Acesse grátis.",
@@ -886,6 +1014,14 @@
     "date": "2026-07-11",
     "readTime": 3,
     "category": "Redação"
+  },
+  {
+    "slug": "o-que-cai-em-ingles-no-enem",
+    "title": "O Que Cai em Inglês no ENEM",
+    "description": "Inglês no ENEM: o que estudar.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Por Matéria"
   },
   {
     "slug": "gabarito-enem-2022-linguagens",
@@ -1088,6 +1224,22 @@
     "category": "Estratégias"
   },
   {
+    "slug": "como-passar-em-direito-pelo-enem",
+    "title": "Como Passar em Direito pelo ENEM",
+    "description": "Estratégia para passar em Direito pelo ENEM/SISU.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Estratégias"
+  },
+  {
+    "slug": "como-melhorar-a-velocidade-de-leitura-para-o-enem",
+    "title": "Como Melhorar a Velocidade de Leitura para o ENEM",
+    "description": "Técnicas para ler mais rápido e reter melhor.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Estratégias"
+  },
+  {
     "slug": "nota-de-corte-servico-social-enem",
     "title": "Nota de Corte Serviço Social ENEM 2025 — SISU e",
     "description": "Nota de corte para Serviço Social no SISU 2025. As notas nas principais federais, campo de trabalho e como planejar a candidatura para 2026. Acesse grátis.",
@@ -1280,6 +1432,14 @@
     "category": "Redação"
   },
   {
+    "slug": "erros-comuns-na-redacao-enem",
+    "title": "Erros Comuns na Redação do ENEM que Tiram Pontos",
+    "description": "Os erros que mais derrubam a nota da redação.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Redação"
+  },
+  {
     "slug": "gabarito-matematica-enem-2020",
     "title": "Gabarito de Matemática ENEM 2020 — Resolução e Análise",
     "description": "Gabarito completo de Matemática do ENEM 2020 com análise das questões, temas cobrados e resolução comentada. Saiba mais e prepare-se Gabarito completo, grátis.",
@@ -1424,6 +1584,14 @@
     "category": "Gabarito"
   },
   {
+    "slug": "como-montar-um-banco-de-questoes-enem",
+    "title": "Como Montar um Banco de Questões do ENEM",
+    "description": "Como organizar suas questões por matéria.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Questões"
+  },
+  {
     "slug": "gabarito-enem-2015-matematica",
     "title": "Gabarito ENEM 2015 — Matemática: Análise Completa e Tópicos Cobrados",
     "description": "Gabarito oficial de Matemática ENEM 2015. Análise dos tópicos cobrados, padrão de questões e estratégia de estudo.",
@@ -1526,6 +1694,14 @@
     "date": "2026-08-27",
     "readTime": 6,
     "category": "Planejamento"
+  },
+  {
+    "slug": "como-montar-um-grupo-de-estudos-enem",
+    "title": "Como Montar um Grupo de Estudos para o ENEM",
+    "description": "Como criar e manter um grupo de estudos eficaz.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Estratégias"
   },
   {
     "slug": "nota-de-corte-arquitetura-enem",
@@ -1976,6 +2152,14 @@
     "category": "Gabarito"
   },
   {
+    "slug": "como-gerenciar-o-tempo-na-prova-do-enem",
+    "title": "Como Gerenciar o Tempo na Prova do ENEM",
+    "description": "Como distribuir o tempo entre as questões do ENEM.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Estratégias"
+  },
+  {
     "slug": "gabarito-enem-2017-matematica",
     "title": "Gabarito ENEM 2017 — Matemática: Análise Completa e Tópicos Cobrados",
     "description": "Gabarito oficial de Matemática ENEM 2017. Análise dos tópicos cobrados, padrão de questões e estratégia de estudo.",
@@ -2241,10 +2425,10 @@
   },
   {
     "slug": "nota-de-corte-enfermagem-enem",
-    "title": "Nota de Corte para Enfermagem no ENEM — SISU 2026",
-    "description": "Nota de corte para Enfermagem nas principais universidades federais via SISU. Veja quanto precisa tirar no ENEM para entrar em Enfermagem. Acesse grátis.",
-    "date": "2026-02-20",
-    "readTime": 12,
+    "title": "Nota de Corte Enfermagem pelo ENEM",
+    "description": "Nota de corte de Enfermagem no ENEM.",
+    "date": "2026-08-27",
+    "readTime": 6,
     "category": "Gabarito"
   },
   {
@@ -2278,6 +2462,14 @@
     "date": "2026-07-11",
     "readTime": 6,
     "category": "Estratégias"
+  },
+  {
+    "slug": "cronograma-de-estudo-enem-3-meses",
+    "title": "Cronograma de Estudo ENEM em 3 Meses",
+    "description": "Plano de estudos realista para 3 meses.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Planejamento"
   },
   {
     "slug": "enem-vs-vestibular-diferenca",
@@ -2382,6 +2574,14 @@
     "date": "2026-06-18",
     "readTime": 15,
     "category": "Por Matéria"
+  },
+  {
+    "slug": "como-passar-em-psicologia-pelo-enem",
+    "title": "Como Passar em Psicologia pelo ENEM",
+    "description": "Nota de corte de Psicologia pelo ENEM e como se posicionar.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Estratégias"
   },
   {
     "slug": "gabarito-enem-2015-ciencias-natureza",
@@ -2560,12 +2760,28 @@
     "category": "Gabarito"
   },
   {
+    "slug": "como-usar-a-curva-de-esquecimento-no-enem",
+    "title": "Como Usar a Curva de Esquecimento nos Estudos do ENEM",
+    "description": "Como revisar no momento certo para fixar.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Estratégias"
+  },
+  {
     "slug": "nota-de-corte-biotecnologia-enem",
     "title": "Nota de Corte Biotecnologia ENEM 2026 — Por Universidade",
     "description": "Nota de corte para Biotecnologia no ENEM 2026 por universidade federal. Veja as médias do SiSU, os pesos das áreas e quanto você precisa para passar no curso.",
     "date": "2026-06-25",
     "readTime": 8,
     "category": "Gabarito"
+  },
+  {
+    "slug": "como-funciona-a-nota-do-enem-para-o-fies",
+    "title": "Como Funciona a Nota do ENEM para o FIES",
+    "description": "Como usar a nota do ENEM no FIES.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Como Funciona"
   },
   {
     "slug": "universidades-federais-estaduais-enem",
@@ -2614,6 +2830,14 @@
     "date": "2025-02-07",
     "readTime": 14,
     "category": "Gabarito"
+  },
+  {
+    "slug": "como-funciona-a-nota-do-enem-para-o-prouni",
+    "title": "Como Funciona a Nota do ENEM para o ProUni",
+    "description": "Como usar a nota do ENEM no ProUni.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Universidades"
   },
   {
     "slug": "quanto-tempo-estudar-para-o-enem",
@@ -2710,6 +2934,14 @@
     "date": "2026-03-20",
     "readTime": 11,
     "category": "Por Matéria"
+  },
+  {
+    "slug": "pre-enem-ultimas-semanas",
+    "title": "Últimas Semanas Antes do ENEM: O Que Fazer (e O Que Não Fazer)",
+    "description": "Cronograma das últimas 21 dias antes do ENEM. Revisão estratégica, descanso mental e preparação psicológica para a prova.",
+    "date": "2026-08-27",
+    "readTime": 9,
+    "category": "Estratégias"
   },
   {
     "slug": "prouni-2026-como-funciona",
@@ -2912,6 +3144,14 @@
     "category": "Estratégias"
   },
   {
+    "slug": "como-passar-em-engenharia-civil-pelo-enem",
+    "title": "Como Passar em Engenharia Civil pelo ENEM",
+    "description": "Estratégia para passar em Engenharia Civil pelo ENEM/SISU.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Estratégias"
+  },
+  {
     "slug": "gabarito-enem-2017-linguagens",
     "title": "Gabarito ENEM 2017 — Linguagens e Códigos: Análise Completa e Tópicos Cobrados",
     "description": "Gabarito oficial de Linguagens e Códigos ENEM 2017. Análise dos tópicos cobrados, padrão de questões e estratégia de estudo.",
@@ -2942,6 +3182,14 @@
     "date": "2026-01-20",
     "readTime": 8,
     "category": "Universidades"
+  },
+  {
+    "slug": "redacao-completa-enem",
+    "title": "Redação ENEM: Guia Completo para Nota Acima de 800",
+    "description": "Domina a redação ENEM. Estrutura completa, 5 tipos de texto, argumentos comprovados e checklist final para atingir nota 800+.",
+    "date": "2026-08-27",
+    "readTime": 12,
+    "category": "Redação"
   },
   {
     "slug": "gabarito-enem-2012-matematica",
@@ -2990,6 +3238,14 @@
     "date": "2026-06-15",
     "readTime": 10,
     "category": "Gabarito"
+  },
+  {
+    "slug": "cronograma-de-estudo-enem-1-mes",
+    "title": "Cronograma de Estudo ENEM na Reta Final (1 Mês)",
+    "description": "Plano de revisão para o último mês.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Planejamento"
   },
   {
     "slug": "questoes-fisica-enem",
@@ -3152,6 +3408,14 @@
     "category": "Gabarito"
   },
   {
+    "slug": "como-interpretar-as-questoes-do-enem",
+    "title": "Como Interpretar as Questões do ENEM (Técnicas)",
+    "description": "Técnicas de interpretação para o ENEM.",
+    "date": "2026-08-27",
+    "readTime": 6,
+    "category": "Estratégias"
+  },
+  {
     "slug": "sisu-2026-inscricoes-datas",
     "title": "SISU 2026 — Datas de Inscrição, Cronograma e Como Participar",
     "description": "Datas do SISU 2026: quando abrem as inscrições, como se inscrever, quem pode participar e quais universidades aceitam a nota do ENEM 2025. Acesse grátis.",
@@ -3166,6 +3430,14 @@
     "date": "2026-06-14",
     "readTime": 15,
     "category": "Como Funciona"
+  },
+  {
+    "slug": "questoes-interpretacao",
+    "title": "Questões de Interpretação: Como Não Cair nas Pegadinhas ENEM",
+    "description": "Estratégia completa para interpretar questões ENEM sem erros. Palavras-chave, inferências e como evitar pegadinhas de distratores.",
+    "date": "2026-08-27",
+    "readTime": 11,
+    "category": "Estratégias"
   },
   {
     "slug": "active-recall-vs-revisao-passiva-enem",
