@@ -7,7 +7,7 @@ import { readFileSync } from 'fs';
 import { join } from 'path';
 
 async function main() {
-  const siteUrl = process.env.SITE_URL || 'https://enemprep.com.br';
+  const siteUrl = process.env.SITE_URL || 'https://questoesenem.pro';
   const sitemapPath = join(__dirname, '../public/sitemap.xml');
   
   // First try local sitemap file

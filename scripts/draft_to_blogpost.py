@@ -76,8 +76,10 @@ def generate_get_category_function() -> str:
 '''
 
 def extract_read_time(content: str, frontmatter_read_time: int) -> int:
+    # ~160 palavras/min: ritmo realista de leitura de estudo em PT-BR
+    # (200 wpm subestimava o tempo real e deixava posts densos abaixo do gate)
     words = len(content.split())
-    calculated = max(1, (words + 199) // 200)
+    calculated = max(1, (words + 159) // 160)
     return max(frontmatter_read_time, calculated)
 
 def parse_frontmatter(content: str):
