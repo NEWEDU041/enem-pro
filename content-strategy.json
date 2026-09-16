@@ -1,0 +1,58 @@
+{
+  "timestamp": "2026-09-16T23:13:41.952Z",
+  "clusters": [
+    {
+      "topic": "essays",
+      "posts": [
+        {
+          "slug": "redacao-enem-2025",
+          "title": "Redação ENEM 2025"
+        }
+      ],
+      "count": 1,
+      "pillarPost": "redacao-enem-2025"
+    },
+    {
+      "topic": "mathematics",
+      "posts": [
+        {
+          "slug": "matematica-financeira",
+          "title": "Matemática Financeira"
+        }
+      ],
+      "count": 1,
+      "pillarPost": "matematica-financeira"
+    },
+    {
+      "topic": "general",
+      "posts": [
+        {
+          "slug": "como-passar-medicina",
+          "title": "Como passar em Medicina"
+        }
+      ],
+      "count": 1,
+      "pillarPost": "como-passar-medicina"
+    }
+  ],
+  "actions": [
+    {
+      "type": "pillar-hub-strategy",
+      "description": "Create hub pages for each topic cluster",
+      "priority": "high",
+      "effort": "5 hours"
+    },
+    {
+      "type": "internal-linking",
+      "description": "Link related posts within clusters",
+      "priority": "high",
+      "effort": "3 hours"
+    },
+    {
+      "type": "expand-thin-content",
+      "description": "Expand posts < 1500 words in high-traffic clusters",
+      "priority": "medium",
+      "effort": "20 hours"
+    }
+  ]
+}

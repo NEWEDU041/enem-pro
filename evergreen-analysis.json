@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-09-16T23:13:41.905Z",
+  "analysis": [
+    {
+      "slug": "logaritmos-matematica-enem",
+      "title": "Logaritmos em Matemática para o ENEM",
+      "signals": {
+        "hasDate": false,
+        "hasSeason": false,
+        "hasVersion": false,
+        "wordCount": 5
+      },
+      "evergreenScore": 0.9,
+      "status": "evergreen",
+      "recommendations": [
+        "Expand thin content to 1500+ words"
+      ]
+    },
+    {
+      "slug": "enem-2025-gabarito",
+      "title": "Gabarito ENEM 2025 - Respostas Oficiais",
+      "signals": {
+        "hasDate": true,
+        "hasSeason": false,
+        "hasVersion": true,
+        "wordCount": 1
+      },
+      "evergreenScore": 0.44999999999999996,
+      "status": "seasonal",
+      "recommendations": [
+        "Remove or generalize year references",
+        "Expand thin content to 1500+ words"
+      ]
+    }
+  ],
+  "summary": {
+    "evergreenCount": 1,
+    "seasonalCount": 1,
+    "averageScore": 0.675
+  }
+}
