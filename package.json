@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "tsx scripts/generate-blog-index.ts",
+    "prebuild": "tsx scripts/generate-blog-index.ts && node scripts/generate-sitemap-index.js && node scripts/generate-faqs.js && node scripts/semantic-clustering.js && node scripts/evergreen-strategy.js && node scripts/ga4-dashboard.js && node scripts/monitor-cwv.js",
     "build": "next build",
     "start": "next start",
     "lint": "eslint .",
@@ -12,7 +12,15 @@
     "test:watch": "vitest --watch",
     "generate-all-explanations": "tsx scripts/generate-all-explanations.ts",
     "validate-explanations": "tsx scripts/check-explanations.ts",
-    "audit-blog": "tsx scripts/audit-blog-posts.ts"
+    "audit-blog": "tsx scripts/audit-blog-posts.ts",
+    "optimize:sitemaps": "node scripts/generate-sitemap-index.js",
+    "optimize:faqs": "node scripts/generate-faqs.js",
+    "optimize:linking": "node scripts/internal-linking.js",
+    "analyze:clustering": "node scripts/semantic-clustering.js",
+    "analyze:evergreen": "node scripts/evergreen-strategy.js",
+    "dashboard:ga4": "node scripts/ga4-dashboard.js",
+    "monitor:cwv": "node scripts/monitor-cwv.js",
+    "optimize:all": "npm run optimize:sitemaps && npm run optimize:faqs && npm run optimize:linking && npm run analyze:clustering && npm run analyze:evergreen && npm run dashboard:ga4 && npm run monitor:cwv"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.96.0",
