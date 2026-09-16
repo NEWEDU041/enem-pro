@@ -120,6 +120,16 @@ const nextConfig = {
           },
         ],
       },
+      // Sitemaps: cache por 1 hora + 30 min stale
+      {
+        source: '/sitemap:path*',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=3600, stale-while-revalidate=1800',
+          },
+        ],
+      },
       // Default: cache por 1 hora
       {
         source: '/:path*',

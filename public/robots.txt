@@ -1,0 +1,50 @@
+# Robots.txt para questoesenem.pro
+# Otimizado para GSC e search engines
+
+# Default rules for all bots
+User-agent: *
+Allow: /
+Allow: /blog/
+Allow: /sitemap.xml
+Allow: /sitemap-*.xml
+
+# Block staging/admin
+Disallow: /admin/
+Disallow: /api/
+Disallow: /staging/
+Disallow: /_next/
+Disallow: /.env*
+
+# Block query parameters that create duplicates
+Disallow: /*?*utm_
+Disallow: /*?*ref=
+Disallow: /*?*source=
+
+# Allow GoogleBot full access (better crawling)
+User-agent: Googlebot
+Allow: /
+Allow: /blog/
+Allow: /_next/
+
+# Allow Bingbot
+User-agent: Bingbot
+Allow: /
+
+# Slow down aggressive bots
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: DotBot
+Crawl-delay: 10
+
+# Sitemap locations
+Sitemap: https://questoesenem.pro/sitemap.xml
+Sitemap: https://questoesenem.pro/sitemap-posts.xml
+Sitemap: https://questoesenem.pro/sitemap-static.xml
+
+# Crawl-delay for others
+Crawl-delay: 1
+Request-rate: 1/5s
