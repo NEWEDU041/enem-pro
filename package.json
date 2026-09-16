@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "tsx scripts/generate-blog-index.ts && node scripts/generate-sitemap-index.js && node scripts/generate-faqs.js && node scripts/semantic-clustering.js && node scripts/evergreen-strategy.js && node scripts/ga4-dashboard.js && node scripts/monitor-cwv.js",
+    "prebuild": "npm run prebuild:parallel",
+    "prebuild:parallel": "concurrently --kill-others-on-fail \"tsx scripts/generate-blog-index.ts\" \"npm run prebuild:batch2\"",
+    "prebuild:batch2": "concurrently --kill-others-on-fail \"node scripts/generate-sitemap-index.js\" \"node scripts/generate-faqs.js\" \"node scripts/semantic-clustering.js\" \"node scripts/evergreen-strategy.js\" \"node scripts/ga4-dashboard.js\" \"node scripts/monitor-cwv.js\"",
     "build": "next build",
     "start": "next start",
     "lint": "eslint .",
@@ -46,6 +48,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "@vitest/coverage-v8": "^3.2.7",
+    "concurrently": "^8.2.2",
     "eslint": "^9",
     "eslint-config-next": "16.2.6",
     "gray-matter": "^4.0.3",
