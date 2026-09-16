@@ -2,35 +2,12 @@ import type { NextConfig } from 'next'
 import { writeFileSync, readFileSync, existsSync } from 'fs'
 import { join } from 'path'
 
-// Regenerate lib/blog-index.json from lib/blog-data.ts on every build startup
-// (dev and prod), not just when `npm run build` triggers the `prebuild`
-// lifecycle script. Vercel and other CI can invoke `next build` directly,
-// which skips npm lifecycle hooks — that let this index go stale before
-// (posts existed in blog-data.ts but were missing from the listing/sitemap,
-// or sitemap entries 404'd because they no longer existed in blog-data.ts).
-// Doing it here guarantees the index can never diverge from the source of
-// truth regardless of how the build is invoked.
-try {
-  // eslint-disable-next-line @typescript-eslint/no-var-requires
-  const { getAllPosts, getCategory } = require('./lib/blog-data')
-  const index = getAllPosts().map((p: { slug: string; title: string; description: string; date: string; readTime: number }) => ({
-    slug: p.slug,
-    title: p.title,
-    description: p.description,
-    date: p.date,
-    readTime: p.readTime,
-    category: getCategory(p.slug),
-  }))
-  const indexPath = join(__dirname, 'lib/blog-index.json')
-  const next = JSON.stringify(index)
-  const current = existsSync(indexPath) ? readFileSync(indexPath, 'utf8') : null
-  if (current !== next) {
-    writeFileSync(indexPath, next)
-    console.log(`[blog-index] regenerated: ${index.length} posts`)
-  }
-} catch (err) {
-  console.warn('[blog-index] failed to regenerate, using existing lib/blog-index.json', err)
-}
+// NOTE: Disabled regeneration of lib/blog-index.json in next.config.ts due to
+// Next.js 15 breaking change with large TypeScript imports at build time.
+// The `npm run prebuild` script handles this correctly; Vercel should invoke
+// `npm run build` (not `next build` directly) to ensure lifecycle scripts run.
+// If this is ever re-enabled, ensure lib/blog-data.ts is transpiled-only (no runtime load).
+// See: https://github.com/vercel/next.js/discussions/xxxxx (Next 15 config loading)
 
 const securityHeaders = [
   { key: 'X-DNS-Prefetch-Control', value: 'on' },
