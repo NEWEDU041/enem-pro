@@ -1,68 +1,134 @@
-import { NextRequest, NextResponse } from 'next/server';
-import { createClient } from '@supabase/supabase-js';
-import { Resend } from 'resend';
+import { NextRequest, NextResponse } from 'next/server'
+import { createClient } from '@supabase/supabase-js'
 
-const supabase = createClient(
-  process.env.NEXT_PUBLIC_SUPABASE_URL!,
-  process.env.SUPABASE_SERVICE_ROLE_KEY!
-);
+const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL
+const supabaseServiceKey = process.env.SUPABASE_SERVICE_ROLE_KEY
 
-const resend = new Resend(process.env.RESEND_API_KEY!);
+if (!supabaseUrl || !supabaseServiceKey) {
+  throw new Error('Missing Supabase credentials')
+}
 
-export async function POST(request: NextRequest) {
+const supabase = createClient(supabaseUrl, supabaseServiceKey)
+
+interface SubscribeRequest {
+  email: string
+  leadMagnet?: string
+  utmSource?: string
+  utmMedium?: string
+}
+
+interface SubscribeResponse {
+  success: boolean
+  message: string
+  data?: {
+    id?: string
+    email: string
+    createdAt?: string
+  }
+  error?: string
+}
+
+export async function POST(request: NextRequest): Promise<NextResponse<SubscribeResponse>> {
   try {
-    const body = await request.json();
-    const { email, leadMagnet = 'study-schedule', utmSource = 'organic', utmMedium = 'blog' } = body;
+    const body = await request.json() as SubscribeRequest
+    const { email, leadMagnet, utmSource, utmMedium } = body
 
     // Validate email
-    if (!email || !email.match(/^[^\s@]+@[^\s@]+\.[^\s@]+$/)) {
-      return NextResponse.json({ error: 'Invalid email' }, { status: 400 });
+    if (!email || typeof email !== 'string') {
+      return NextResponse.json(
+        {
+          success: false,
+          message: 'Email is required',
+          error: 'Invalid email field',
+        },
+        { status: 400 }
+      )
     }
 
-    // Create/update subscriber in Supabase
-    const { data: subscriber, error: dbError } = await supabase
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
+    if (!emailRegex.test(email)) {
+      return NextResponse.json(
+        {
+          success: false,
+          message: 'Invalid email format',
+          error: 'Email validation failed',
+        },
+        { status: 400 }
+      )
+    }
+
+    // Check if subscriber already exists
+    const { data: existing } = await supabase
       .from('subscribers')
-      .upsert({
-        email,
-        lead_magnet: leadMagnet,
-        utm_source: utmSource,
-        utm_medium: utmMedium,
-        subscribed_at: new Date().toISOString(),
-      }, { onConflict: 'email' })
-      .select()
-      .single();
+      .select('id')
+      .eq('email', email)
+      .single()
 
-    if (dbError) {
-      console.error('Supabase error:', dbError);
-      return NextResponse.json({ error: 'Failed to subscribe' }, { status: 500 });
+    if (existing) {
+      return NextResponse.json(
+        {
+          success: false,
+          message: 'Este email já está inscrito',
+          error: 'Email already subscribed',
+        },
+        { status: 409 }
+      )
     }
 
-    // Send welcome email via Resend
-    const emailResponse = await resend.emails.send({
-      from: 'ENEM Pro <noreply@enempro.com>',
-      to: email,
-      subject: 'Seu cronograma ENEM 2026 está pronto! 📅',
-      html: `<h2>Bem-vindo ao ENEM Pro!</h2>
-<p>Seu cronograma de 90 dias está pronto para download.</p>
-<a href="${process.env.NEXT_PUBLIC_SITE_URL}/download/schedule-90day.pdf">Baixar cronograma</a>
-<br/>
-<a href="${process.env.NEXT_PUBLIC_SITE_URL}/trial?ref=welcome">Começar teste grátis</a>`,
-    });
+    // Insert into subscribers table
+    const { data, error } = await supabase
+      .from('subscribers')
+      .insert([
+        {
+          email,
+          lead_magnet: leadMagnet || 'cronograma_enem',
+          utm_source: utmSource || 'website',
+          utm_medium: utmMedium || 'organic',
+          subscribed_at: new Date().toISOString(),
+          created_at: new Date().toISOString(),
+        },
+      ])
+      .select('id')
+      .single()
 
-    if (emailResponse.error) {
-      console.error('Email error:', emailResponse.error);
-      // Still consider it a success if DB succeeded
+    if (error) {
+      console.error('Supabase insert error:', error)
+      return NextResponse.json(
+        {
+          success: false,
+          message: 'Erro ao processar inscrição',
+          error: error.message,
+        },
+        { status: 500 }
+      )
     }
 
-    return NextResponse.json({
-      success: true,
-      message: 'Subscription successful',
-      email,
-      downloadUrl: `${process.env.NEXT_PUBLIC_SITE_URL}/download/schedule-90day.pdf`,
-      trialUrl: `${process.env.NEXT_PUBLIC_SITE_URL}/trial?ref=welcome`,
-    });
+    // Log successful subscription
+    console.log(`📧 New subscriber: ${email} (lead magnet: ${leadMagnet || 'default'})`)
+
+    return NextResponse.json(
+      {
+        success: true,
+        message: 'Inscrição realizada com sucesso! Verifique seu email.',
+        data: {
+          id: data?.id,
+          email,
+          createdAt: new Date().toISOString(),
+        },
+      },
+      { status: 201 }
+    )
   } catch (error) {
-    console.error('Subscribe error:', error);
-    return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
+    console.error('Subscribe API error:', error)
+    const errorMessage = error instanceof Error ? error.message : 'Unknown error'
+
+    return NextResponse.json(
+      {
+        success: false,
+        message: 'Erro ao processar sua inscrição',
+        error: errorMessage,
+      },
+      { status: 500 }
+    )
   }
 }

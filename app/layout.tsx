@@ -4,6 +4,7 @@ import Script from 'next/script'
 import './globals.css'
 import ServiceWorkerRegistrar from '@/components/ServiceWorkerRegistrar'
 import NewsletterPopup from '@/components/NewsletterPopup'
+import ExitIntentPopup from '@/components/ExitIntentPopup'
 import DiscordWidget from '@/components/DiscordWidget'
 import { SITE_URL } from '@/lib/site-config'
 
@@ -143,6 +144,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
         <ServiceWorkerRegistrar />
         <NewsletterPopup />
+        <ExitIntentPopup />
         <DiscordWidget />
         {children}
       </body>
