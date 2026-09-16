@@ -94,6 +94,12 @@ export function getBlogPostingSchema(post: Pick<BlogPost, 'title' | 'description
       name: 'Equipe Editorial ENEM Pro',
       url: `${SITE_URL}/sobre`,
       description: 'Professores e especialistas em preparação para o ENEM com mais de 10 anos de experiência.',
+      sameAs: [
+        `${SITE_URL}`,
+        'https://www.linkedin.com/company/enem-pro',
+        'https://www.youtube.com/@enempro',
+        'https://www.instagram.com/enempro',
+      ]
     },
     publisher: {
       '@type': 'EducationalOrganization',
