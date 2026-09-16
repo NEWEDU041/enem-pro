@@ -40,15 +40,15 @@ def parse_posts(filepath: Path) -> List[dict]:
     posts = []
 
     # Each post starts with: (2 spaces){ (newline)(4 spaces)slug:
-    slug_re = re.compile(r"^    slug:\\s*['\\\"]([^'\\\"]+)['\\\"]", re.MULTILINE)
+    slug_re = re.compile(r"^    slug:\s*['\"]([^'\"]+)['\"]", re.MULTILINE)
+    content_start_re = re.compile(r"    content:\s*`")
+    content_end_re = re.compile(r"\n    `,")
 
     for slug_match in slug_re.finditer(text):
         slug = slug_match.group(1)
         seg_start = slug_match.start()
 
         # Find content: ` that belongs to THIS post
-        # We look for the pattern: content:\\s*`
-        content_start_re = re.compile(r"content:\\s*`")
         cs = content_start_re.search(text, seg_start)
         if not cs:
             continue
@@ -57,54 +57,20 @@ def parse_posts(filepath: Path) -> List[dict]:
         if next_slug:
             continue  # something off — skip
 
-        # Position of the opening backtick is at cs.end() - 1? Actually, the match includes the backtick.
-        # cs.end() is the index right after the opening backtick.
-        body_start = cs.end()  # index after the opening backtick
-
-        # Now scan forward to find the matching closing backtick that is not escaped and is followed by: optional whitespace, comma, optional whitespace, newline
-        i = body_start
-        escaped = False
-        found = False
-        while i < len(text):
-            ch = text[i]
-            if ch == '`':
-                # Check if this backtick is escaped by counting the number of consecutive backslashes before it
-                backslash_count = 0
-                j = i - 1
-                while j >= body_start and text[j] == '\\\\':
-                    backslash_count += 1
-                    j -= 1
-                if backslash_count % 2 == 0:  # not escaped
-                    # Check what follows: we want to see if after this backtick there is: optional whitespace, comma, optional whitespace, newline
-                    rest = text[i+1:]
-                    if re.match(r'\\s*,\\s*\\n', rest):
-                        # Found the closing backtick
-                        found = True
-                        break
-            i += 1
-
-        if not found:
-            continue  # didn't find a proper closing backtick
-
-        body_end = i  # index of the closing backtick
-        content_str = text[body_start:body_end]
-
-        # Unescape the content (convert \\n to newline, etc.)
-        try:
-            content_str = content_str.encode('utf-8').decode('unicode_escape')
-        except Exception:
-            # If unescaping fails, keep the raw string
-            pass
+        body_start = cs.end()  # position right after the opening backtick
+        ce = content_end_re.search(text, body_start)
+        if not ce:
+            continue
 
         # Extract fields from the segment between slug and content
-        segment = text[seg_start:cs.start()]
+        segment = text[seg_start : cs.start()]
 
-        def field_val(name):
-            m = re.search(rf"{name}:\\s*['\\\"]([^'\\\"]*)['\\\"]", segment)
+        def field_val(name: str) -> str:
+            m = re.search(rf"{name}:\s*['\"]([^'\"]*)['\"]", segment)
             return m.group(1) if m else ""
 
-        def field_int(name):
-            m = re.search(rf"{name}:\\s*(\\d+)", segment)
+        def field_int(name: str) -> int:
+            m = re.search(rf"{name}:\s*(\d+)", segment)
             return int(m.group(1)) if m else 5
 
         posts.append({
@@ -113,13 +79,15 @@ def parse_posts(filepath: Path) -> List[dict]:
             "description": field_val("description"),
             "date": field_val("date"),
             "readTime": field_int("readTime"),
-            "content": content_str,
+            "content": text[body_start : ce.start()],
             # Store positions for enem_fix.py
             "_body_start": body_start,
-            "_body_end": body_end,
+            "_body_end": ce.start(),
         })
 
     return posts, text
+
+
 # ──────────────────────────────────────────────────────────────────────────────
 # SCORING
 # ──────────────────────────────────────────────────────────────────────────────
