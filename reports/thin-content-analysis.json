@@ -1,0 +1,357 @@
+{
+  "totalThin": 50,
+  "totalWordsNeeded": 30600,
+  "estimatedHours": 75,
+  "posts": [
+    {
+      "file": "genetica-mendeliana-enem.md",
+      "currentWords": 547,
+      "targetWords": 1500,
+      "wordsNeeded": 1000,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "trigonometria-enem.md",
+      "currentWords": 547,
+      "targetWords": 1500,
+      "wordsNeeded": 1000,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "geometria-plana-enem.md",
+      "currentWords": 548,
+      "targetWords": 1500,
+      "wordsNeeded": 1000,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "ecologia-teias-alimentares-enem.md",
+      "currentWords": 553,
+      "targetWords": 1500,
+      "wordsNeeded": 1000,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "probabilidade-enem.md",
+      "currentWords": 560,
+      "targetWords": 1500,
+      "wordsNeeded": 1000,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "equacoes-1-2-grau-enem.md",
+      "currentWords": 589,
+      "targetWords": 1500,
+      "wordsNeeded": 1000,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "redacao-competencia-1-gramatica-enem.md",
+      "currentWords": 593,
+      "targetWords": 1500,
+      "wordsNeeded": 1000,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "redacao-competencia-5-proposta-intervencao-enem.md",
+      "currentWords": 601,
+      "targetWords": 1500,
+      "wordsNeeded": 900,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "revolucao-francesa-enem.md",
+      "currentWords": 608,
+      "targetWords": 1500,
+      "wordsNeeded": 900,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "estatistica-enem.md",
+      "currentWords": 611,
+      "targetWords": 1500,
+      "wordsNeeded": 900,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "juros-compostos-enem.md",
+      "currentWords": 626,
+      "targetWords": 1500,
+      "wordsNeeded": 900,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "analise-combinatoria-enem.md",
+      "currentWords": 633,
+      "targetWords": 1500,
+      "wordsNeeded": 900,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "mecanica-fisica-enem.md",
+      "currentWords": 649,
+      "targetWords": 1500,
+      "wordsNeeded": 900,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "tecnicas-respiracao-ansiedade-enem.md",
+      "currentWords": 747,
+      "targetWords": 1500,
+      "wordsNeeded": 800,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "resumos-eficientes-enem.md",
+      "currentWords": 784,
+      "targetWords": 1500,
+      "wordsNeeded": 800,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "cronograma-trabalhador-enem.md",
+      "currentWords": 800,
+      "targetWords": 1500,
+      "wordsNeeded": 700,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "gestao-tempo-prova-enem.md",
+      "currentWords": 802,
+      "targetWords": 1500,
+      "wordsNeeded": 700,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "grifo-inteligente-enem.md",
+      "currentWords": 815,
+      "targetWords": 1500,
+      "wordsNeeded": 700,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "controle-ansiedade-dia-prova.md",
+      "currentWords": 844,
+      "targetWords": 1500,
+      "wordsNeeded": 700,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "recursos-acessiveis-deficiente-enem.md",
+      "currentWords": 863,
+      "targetWords": 1500,
+      "wordsNeeded": 700,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "questoes-matematica-enem-2023-resolvidas.md",
+      "currentWords": 869,
+      "targetWords": 1500,
+      "wordsNeeded": 700,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "questoes-ciencias-humanas-enem-2023-resolvidas.md",
+      "currentWords": 872,
+      "targetWords": 1500,
+      "wordsNeeded": 700,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "tecnica-pomodoro-enem.md",
+      "currentWords": 877,
+      "targetWords": 1500,
+      "wordsNeeded": 700,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "metodo-cornell-anotacoes-enem.md",
+      "currentWords": 883,
+      "targetWords": 1500,
+      "wordsNeeded": 700,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    },
+    {
+      "file": "active-recall-vs-revisao-passiva-enem.md",
+      "currentWords": 906,
+      "targetWords": 1500,
+      "wordsNeeded": 600,
+      "suggestions": [
+        "+ Add FAQ section (300-400 words)",
+        "+ Add comparison table (200-300 words)",
+        "+ Add real-world examples (300-400 words)",
+        "+ Add troubleshooting section (200-300 words)",
+        "+ Add internal linking mesh (100-150 words)",
+        "+ Add study tips/checklist (150-200 words)"
+      ]
+    }
+  ]
+}
