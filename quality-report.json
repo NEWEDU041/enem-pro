@@ -1,0 +1,735 @@
+{
+  "timestamp": "2026-09-17T00:41:48.034Z",
+  "summary": {
+    "total": 411,
+    "passed": 252,
+    "warning": 159,
+    "failed": 0,
+    "avgScore": "89.4"
+  },
+  "passed": [
+    {
+      "slug": "adaptacoes-prova-enem-deficientes",
+      "score": 95,
+      "wordCount": 3172,
+      "headings": 39,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "alternativa-ao-enem-vestibular",
+      "score": 95,
+      "wordCount": 2422,
+      "headings": 50,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "como-estudar-biologia-enem",
+      "score": 95,
+      "wordCount": 2539,
+      "headings": 33,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "como-estudar-fisica-enem",
+      "score": 95,
+      "wordCount": 2831,
+      "headings": 37,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "como-estudar-portugues-enem",
+      "score": 95,
+      "wordCount": 2514,
+      "headings": 35,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "como-estudar-quimica-enem",
+      "score": 95,
+      "wordCount": 2479,
+      "headings": 32,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "controle-ansiedade-dia-prova",
+      "score": 95,
+      "wordCount": 2097,
+      "headings": 19,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "cronograma-oficial-enem-2026",
+      "score": 95,
+      "wordCount": 2182,
+      "headings": 18,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "cronograma-trabalhador-enem",
+      "score": 95,
+      "wordCount": 2196,
+      "headings": 17,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "dia-enem-dicas-preparacao",
+      "score": 95,
+      "wordCount": 2107,
+      "headings": 20,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "gabarito-linguagens-enem-2022",
+      "score": 95,
+      "wordCount": 2019,
+      "headings": 28,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "geografia-enem-o-que-cai",
+      "score": 95,
+      "wordCount": 2047,
+      "headings": 28,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "juros-compostos-enem",
+      "score": 95,
+      "wordCount": 2157,
+      "headings": 20,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "leitura-estrategica-sq3r-enem",
+      "score": 95,
+      "wordCount": 2174,
+      "headings": 19,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "mapas-mentais-estudar-enem",
+      "score": 95,
+      "wordCount": 2064,
+      "headings": 18,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "mecanica-fisica-enem",
+      "score": 95,
+      "wordCount": 2161,
+      "headings": 21,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "melhores-recursos-estudar-enem",
+      "score": 95,
+      "wordCount": 2113,
+      "headings": 10,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "metodo-cornell-anotacoes-enem",
+      "score": 95,
+      "wordCount": 1992,
+      "headings": 20,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "nota-de-corte-ciencias-sociais-enem",
+      "score": 95,
+      "wordCount": 2114,
+      "headings": 28,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "novo-enem-2024-formato",
+      "score": 95,
+      "wordCount": 2156,
+      "headings": 12,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "quando-sai-resultado-enem-2026",
+      "score": 95,
+      "wordCount": 2166,
+      "headings": 16,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "questoes-biologia-que-mais-caem-enem",
+      "score": 95,
+      "wordCount": 2185,
+      "headings": 16,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "questoes-de-portugues-enem",
+      "score": 95,
+      "wordCount": 2119,
+      "headings": 36,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "questoes-historia-que-mais-caem",
+      "score": 95,
+      "wordCount": 1836,
+      "headings": 19,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "recursos-acessiveis-deficiente-enem",
+      "score": 95,
+      "wordCount": 1896,
+      "headings": 17,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "redacao-competencia-1-gramatica-enem",
+      "score": 95,
+      "wordCount": 2073,
+      "headings": 19,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "redacao-competencia-5-proposta-intervencao-enem",
+      "score": 95,
+      "wordCount": 2074,
+      "headings": 22,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "resumos-eficientes-enem",
+      "score": 95,
+      "wordCount": 2064,
+      "headings": 23,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "revisao-espacada-calendario-enem",
+      "score": 95,
+      "wordCount": 2110,
+      "headings": 19,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "revolucao-francesa-enem",
+      "score": 95,
+      "wordCount": 2027,
+      "headings": 17,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "taxa-inscricao-enem-2026",
+      "score": 95,
+      "wordCount": 1833,
+      "headings": 14,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "tecnica-feynman-estudar-enem",
+      "score": 95,
+      "wordCount": 2141,
+      "headings": 18,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "tecnicas-respiracao-ansiedade-enem",
+      "score": 95,
+      "wordCount": 2137,
+      "headings": 21,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "usar-nota-enem-universidade",
+      "score": 95,
+      "wordCount": 1978,
+      "headings": 20,
+      "fabricationFlags": 0,
+      "hasIntro": true,
+      "hasConclusion": true
+    },
+    {
+      "slug": "como-calcular-nota-enem-formula-tri",
+      "score": 92,
+      "wordCount": 2092,
+      "headings": 11,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": true
+    },
+    {
+      "slug": "como-estudar-portugues-para-enem",
+      "score": 92,
+      "wordCount": 1924,
+      "headings": 31,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": true
+    },
+    {
+      "slug": "como-funciona-a-correcao-da-redacao-enem",
+      "score": 92,
+      "wordCount": 1861,
+      "headings": 14,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": true
+    },
+    {
+      "slug": "como-passar-em-medicina-pelo-enem",
+      "score": 92,
+      "wordCount": 1956,
+      "headings": 37,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": true
+    },
+    {
+      "slug": "como-resolver-questoes-fisica-cinematica",
+      "score": 92,
+      "wordCount": 2120,
+      "headings": 22,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": true
+    },
+    {
+      "slug": "como-se-inscrever-enem-2026",
+      "score": 92,
+      "wordCount": 2387,
+      "headings": 31,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": true
+    },
+    {
+      "slug": "comparativo-apps-enem",
+      "score": 92,
+      "wordCount": 2104,
+      "headings": 27,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": true
+    },
+    {
+      "slug": "dicas-melhorar-redacao-enem-score",
+      "score": 92,
+      "wordCount": 1987,
+      "headings": 18,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": true
+    },
+    {
+      "slug": "enem-2026",
+      "score": 92,
+      "wordCount": 2572,
+      "headings": 41,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": true
+    },
+    {
+      "slug": "erros-comuns-inscricao-enem",
+      "score": 92,
+      "wordCount": 2123,
+      "headings": 21,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": true
+    },
+    {
+      "slug": "estagio-durante-enem",
+      "score": 92,
+      "wordCount": 2145,
+      "headings": 25,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": true
+    },
+    {
+      "slug": "estudo-eficiente-humanas",
+      "score": 92,
+      "wordCount": 2490,
+      "headings": 37,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": true
+    },
+    {
+      "slug": "flashcards-repeticao-espacada-enem",
+      "score": 92,
+      "wordCount": 2127,
+      "headings": 17,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": true
+    },
+    {
+      "slug": "gabarito-enem-2009-ciencias-natureza",
+      "score": 92,
+      "wordCount": 2127,
+      "headings": 30,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": true
+    },
+    {
+      "slug": "gabarito-enem-2009-linguagens",
+      "score": 92,
+      "wordCount": 1817,
+      "headings": 29,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": true
+    },
+    {
+      "slug": "gabarito-enem-2009-matematica",
+      "score": 92,
+      "wordCount": 1846,
+      "headings": 30,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": true
+    }
+  ],
+  "warning": [
+    {
+      "slug": "ansiedade-no-dia-da-prova-enem",
+      "score": 88,
+      "wordCount": 1927,
+      "headings": 24,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "biologia-celular-enem",
+      "score": 88,
+      "wordCount": 3276,
+      "headings": 54,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "checklist-dia-prova-enem",
+      "score": 88,
+      "wordCount": 1960,
+      "headings": 37,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "ciencias-humanas-enem-guia-avancado",
+      "score": 88,
+      "wordCount": 3673,
+      "headings": 52,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "como-calcular-nota-enem",
+      "score": 88,
+      "wordCount": 1834,
+      "headings": 25,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "como-estudar-para-o-enem",
+      "score": 88,
+      "wordCount": 1983,
+      "headings": 28,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "como-fazer-revisao-espacada-enem",
+      "score": 88,
+      "wordCount": 1808,
+      "headings": 21,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "como-passar-no-enem",
+      "score": 88,
+      "wordCount": 2099,
+      "headings": 32,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "cronograma-enem-1-ano",
+      "score": 88,
+      "wordCount": 3508,
+      "headings": 55,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "cronograma-enem-3-meses",
+      "score": 88,
+      "wordCount": 2760,
+      "headings": 38,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "cronograma-estudos-enem-2025",
+      "score": 88,
+      "wordCount": 2046,
+      "headings": 31,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "dicas-enem-2025",
+      "score": 88,
+      "wordCount": 1879,
+      "headings": 30,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "dicas-para-o-segundo-dia-de-prova-enem",
+      "score": 88,
+      "wordCount": 2049,
+      "headings": 35,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "enem-2025-gabarito-resultado",
+      "score": 88,
+      "wordCount": 2080,
+      "headings": 32,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "enem-2026-mudancas-o-que-saber",
+      "score": 88,
+      "wordCount": 1971,
+      "headings": 35,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "enem-primeiro-ou-segundo-dia",
+      "score": 88,
+      "wordCount": 3014,
+      "headings": 46,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "equacoes-1-2-grau-enem",
+      "score": 88,
+      "wordCount": 2236,
+      "headings": 19,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "estatistica-enem",
+      "score": 88,
+      "wordCount": 1812,
+      "headings": 15,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "fisica-moderna-enem",
+      "score": 88,
+      "wordCount": 3045,
+      "headings": 43,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "gabarito-ciencias-humanas-enem-2023",
+      "score": 88,
+      "wordCount": 2565,
+      "headings": 36,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "gabarito-ciencias-natureza-enem-2023",
+      "score": 88,
+      "wordCount": 1953,
+      "headings": 24,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "gabarito-ciencias-natureza-enem-2024",
+      "score": 88,
+      "wordCount": 2734,
+      "headings": 43,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "gabarito-enem-2019",
+      "score": 88,
+      "wordCount": 2965,
+      "headings": 44,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "gabarito-enem-2020",
+      "score": 88,
+      "wordCount": 2930,
+      "headings": 39,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "gabarito-enem-2021",
+      "score": 88,
+      "wordCount": 2798,
+      "headings": 39,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "gabarito-enem-2022",
+      "score": 88,
+      "wordCount": 2525,
+      "headings": 33,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "gabarito-enem-2023",
+      "score": 88,
+      "wordCount": 1864,
+      "headings": 26,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "gabarito-enem-2024",
+      "score": 88,
+      "wordCount": 2450,
+      "headings": 32,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "gabarito-enem-2025-questoes",
+      "score": 88,
+      "wordCount": 1866,
+      "headings": 25,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    },
+    {
+      "slug": "gabarito-matematica-enem-2023",
+      "score": 88,
+      "wordCount": 2560,
+      "headings": 35,
+      "fabricationFlags": 0,
+      "hasIntro": false,
+      "hasConclusion": false
+    }
+  ],
+  "failed": []
+}
