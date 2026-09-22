@@ -1,7 +1,7 @@
 # Sitemap Coverage Analysis
 
 param(
-    [string]$Url = "https://enemprep.com.br/sitemap.xml",
+    [string]$Url = "https://questoesenem.pro/sitemap.xml",
     [switch]$Verbose
 )
 

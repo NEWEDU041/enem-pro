@@ -30,7 +30,7 @@ try:
     
     service = build("indexing", "v3", credentials=credentials)
     
-    url = sys.argv[1] if len(sys.argv) > 1 else "https://enemprep.com.br"
+    url = sys.argv[1] if len(sys.argv) > 1 else "https://questoesenem.pro"
     
     result = service.urlNotifications().publish(
         body={

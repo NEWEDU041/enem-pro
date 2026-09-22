@@ -1,7 +1,7 @@
 # 🔍 Script para submeter sitemap ao Google Search Console
 # PowerShell version
 
-$SITE_URL = "https://enemprep.com.br"
+$SITE_URL = "https://questoesenem.pro"
 $SITEMAP_URL = "$SITE_URL/sitemap.xml"
 $SITEMAP_INDEX_URL = "$SITE_URL/sitemap-index.xml"
 

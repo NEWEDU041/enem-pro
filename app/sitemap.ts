@@ -11,7 +11,7 @@ const DISCIPLINES = ['matematica', 'linguagens', 'ciencias-humanas', 'ciencias-n
 // Static dates — only change when the page content actually changes
 const D = (s: string) => new Date(s)
 
-export const revalidate = 3600 // 1 hora — permite reindexação mais rápida
+export const revalidate = 60 // 1 min — revalidação rápida para indexação
 export const maxDuration = 60
 
 async function getQuestionPages(): Promise<MetadataRoute.Sitemap> {

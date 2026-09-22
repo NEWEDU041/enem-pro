@@ -5,7 +5,7 @@
 
 set -e
 
-SITE_URL="https://enemprep.com.br"
+SITE_URL="https://questoesenem.pro"
 SITEMAP_URL="${SITE_URL}/sitemap.xml"
 SITEMAP_INDEX_URL="${SITE_URL}/sitemap-index.xml"
 GSC_API_KEY="${GSC_API_KEY:-}"

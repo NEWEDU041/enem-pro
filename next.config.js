@@ -100,13 +100,13 @@ const nextConfig = {
           },
         ],
       },
-      // Blog posts: cache por 1 hora + 1 dia stale
+      // Blog posts: cache por 5 min + revalidate rápido para novos posts
       {
         source: '/blog/:path*',
         headers: [
           {
             key: 'Cache-Control',
-            value: 'public, max-age=3600, stale-while-revalidate=86400',
+            value: 'public, max-age=300, stale-while-revalidate=3600',
           },
         ],
       },
