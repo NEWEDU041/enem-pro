@@ -4,12 +4,26 @@ import { getStripe } from '@/lib/stripe'
 import { cleanEnv } from '@/lib/utils'
 import { withErrorHandling } from '@/lib/api-helpers'
 import { initLogContext, createRequestLogger, logSuccess, logError } from '@/lib/logger'
+import { CheckoutRequestSchema, validateRequestBody, formatValidationError } from '@/lib/validation'
 
 export const dynamic = 'force-dynamic'
 
 export const POST = withErrorHandling(async (request: NextRequest) => {
   const logContext = initLogContext(request)
   const logger = createRequestLogger(logContext)
+  
+  // INPUT VALIDATION
+  const validation = await validateRequestBody(request, CheckoutRequestSchema)
+  if (!validation.ok) {
+    logError(logger, logContext, {
+      status: 400,
+      endpoint: '/api/checkout',
+      error: 'Validation failed',
+      metadata: { details: validation.error.details },
+    })
+    return NextResponse.json(validation.error, { status: 400 })
+  }
+  const { plan } = validation.data
   
   const stripe = getStripe()
   if (!stripe) {
@@ -45,8 +59,6 @@ export const POST = withErrorHandling(async (request: NextRequest) => {
   logContext.userId = userId
   logContext.email = email
 
-  const body = await request.json()
-  const plan = body.plan === 'annual' ? 'annual' : 'monthly'
   const priceId = plan === 'annual' ? annualPriceId : monthlyPriceId
 
   const origin = cleanEnv(request.headers.get('origin') ?? undefined)

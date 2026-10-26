@@ -4,6 +4,7 @@ import { notifyGoogleBatch } from '@/lib/google-indexing'
 import { SITE_URL } from '@/lib/site-config'
 import { withErrorHandling } from '@/lib/api-helpers'
 import { initLogContext, createRequestLogger, logSuccess, logError, logEvent } from '@/lib/logger'
+import { validateQueryParams, SearchConsoleIndexRequestSchema } from '@/lib/validation'
 
 export const dynamic = 'force-dynamic'
 
@@ -24,7 +25,19 @@ export const POST = withErrorHandling(async (request: NextRequest) => {
   }
 
   const { searchParams } = new URL(request.url)
-  const slug = searchParams.get('slug')
+  
+  // INPUT VALIDATION for query params
+  const validation = validateQueryParams(searchParams, SearchConsoleIndexRequestSchema)
+  if (!validation.ok) {
+    logError(logger, logContext, {
+      status: 400,
+      endpoint: '/api/search-console-index',
+      error: 'Validation failed',
+      metadata: { details: validation.error.details },
+    })
+    return NextResponse.json(validation.error, { status: 400 })
+  }
+  const { slug } = validation.data
 
   let urls: string[]
   if (slug) {

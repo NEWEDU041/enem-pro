@@ -6,6 +6,7 @@ import { isPro, cleanEnv } from '@/lib/utils'
 import { checkRateLimit } from '@/lib/rate-limit'
 import { PROMPTS } from '@/lib/ai-prompts'
 import { initLogContext, createRequestLogger, logSuccess, logError, logEvent } from '@/lib/logger'
+import { CorrigirRedacaoRequestSchema, validateRequestBody } from '@/lib/validation'
 
 export const dynamic = 'force-dynamic'
 
@@ -25,27 +26,18 @@ export async function POST(request: NextRequest) {
   const { userId } = auth
   logContext.userId = userId
 
-  const body = await request.json()
-  const { tema, texto } = body as { tema?: string; texto?: string }
-
-  if (!texto || texto.trim().length < 200) {
+  // INPUT VALIDATION
+  const validation = await validateRequestBody(request, CorrigirRedacaoRequestSchema)
+  if (!validation.ok) {
     logError(logger, logContext, {
       status: 400,
       endpoint: '/api/corrigir-redacao',
-      error: 'Text too short',
-      metadata: { textLength: texto?.length || 0 },
+      error: 'Validation failed',
+      metadata: { details: validation.error.details },
     })
-    return Response.json({ error: 'Redação muito curta (mínimo 200 caracteres)' }, { status: 400 })
+    return Response.json(validation.error, { status: 400 })
   }
-  if (texto.length > 6000) {
-    logError(logger, logContext, {
-      status: 400,
-      endpoint: '/api/corrigir-redacao',
-      error: 'Text too long',
-      metadata: { textLength: texto.length },
-    })
-    return Response.json({ error: 'Redação muito longa (máximo 6000 caracteres)' }, { status: 400 })
-  }
+  const { tema, texto } = validation.data
 
   const supabase = createServerClient()
   const { data: sub } = await supabase.from('subscriptions').select('plan, expires_at').eq('user_id', userId).maybeSingle()

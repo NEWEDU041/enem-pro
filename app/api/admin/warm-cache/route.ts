@@ -1,27 +1,18 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { fetchQuestionsByYearCached } from '@/lib/questions-cache'
-import { cleanEnv } from '@/lib/utils'
-import { timingSafeEqual } from 'crypto'
+import { withErrorHandling } from '@/lib/api-helpers'
+import { verifyAdminRequest, unauthorizedResponse } from '@/lib/admin-auth'
 
 export const dynamic = 'force-dynamic'
 export const maxDuration = 300
 
-const YEARS = [2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009]
+const YEARS = [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009]
 
-export async function POST(request: NextRequest) {
-  const headerSecret = request.headers.get('x-admin-secret')
-  const envSecret = cleanEnv(process.env.CRON_SECRET)
-
-  if (!envSecret || !headerSecret) {
-    return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
-  }
-
-  const expectedBuf = Buffer.from(envSecret)
-  const actualBuf = Buffer.from(headerSecret)
-
-  const isValid = expectedBuf.length === actualBuf.length && timingSafeEqual(expectedBuf, actualBuf)
-  if (!isValid) {
-    return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
+export const POST = withErrorHandling(async (request: NextRequest) => {
+  // Verify IP whitelist + TOTP
+  const auth = await verifyAdminRequest(request)
+  if (!auth.authorized) {
+    return unauthorizedResponse(auth.error || 'Unauthorized')
   }
 
   const results: Record<string, string> = {}
@@ -36,4 +27,4 @@ export async function POST(request: NextRequest) {
   }
 
   return NextResponse.json({ warmed: results })
-}
+})

@@ -1,29 +1,24 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
-import { cleanEnv } from '@/lib/utils'
 import { withErrorHandling } from '@/lib/api-helpers'
-import { timingSafeEqual } from 'crypto'
+import { verifyAdminRequest, unauthorizedResponse } from '@/lib/admin-auth'
+import { AdminUpgradeRequestSchema, validateRequestBody } from '@/lib/validation'
 
 export const dynamic = 'force-dynamic'
 
 export const POST = withErrorHandling(async (request: NextRequest) => {
-  const headerSecret = request.headers.get('x-admin-secret')
-  const envSecret = cleanEnv(process.env.ADMIN_SECRET)
-
-  if (!envSecret || !headerSecret) {
-    return NextResponse.json({ error: 'Não autorizado' }, { status: 401 })
+  // Verify IP whitelist + TOTP
+  const auth = await verifyAdminRequest(request)
+  if (!auth.authorized) {
+    return unauthorizedResponse(auth.error || 'Não autorizado')
   }
 
-  const expectedBuf = Buffer.from(envSecret)
-  const actualBuf = Buffer.from(headerSecret)
-
-  const isValid = expectedBuf.length === actualBuf.length && timingSafeEqual(expectedBuf, actualBuf)
-  if (!isValid) {
-    return NextResponse.json({ error: 'Não autorizado' }, { status: 401 })
+  // INPUT VALIDATION
+  const validation = await validateRequestBody(request, AdminUpgradeRequestSchema)
+  if (!validation.ok) {
+    return NextResponse.json(validation.error, { status: 400 })
   }
-
-  const { email, months = 1 } = await request.json()
-  if (!email) return NextResponse.json({ error: 'Email obrigatório' }, { status: 400 })
+  const { email, months } = validation.data
 
   const supabase = createServerClient()
 

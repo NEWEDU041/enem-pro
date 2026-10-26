@@ -4,6 +4,7 @@ import { requireAuth } from '@/lib/auth'
 import { FREE_DAILY_LIMIT } from '@/lib/utils'
 import { withErrorHandling } from '@/lib/api-helpers'
 import { fetchSingleQuestionCached } from '@/lib/questions-cache'
+import { ResponderRequestSchema, validateRequestBody } from '@/lib/validation'
 
 export const dynamic = 'force-dynamic'
 
@@ -13,16 +14,17 @@ export const POST = withErrorHandling(async (request: NextRequest) => {
   const { userId: user_id } = auth
   const supabase = createServerClient()
 
-  const body = await request.json()
-  const { question_id, selected_alternative, discipline, year } = body
-
-  if (!question_id || !selected_alternative || !year) {
-    return NextResponse.json({ error: 'Dados incompletos' }, { status: 400 })
+  // INPUT VALIDATION
+  const validation = await validateRequestBody(request, ResponderRequestSchema)
+  if (!validation.ok) {
+    return NextResponse.json(validation.error, { status: 400 })
   }
+  const { question_id, selected_alternative, is_hint_used } = validation.data
 
   // Resolve the answer key server-side — trusting the client's
   // correct_alternative let a forged payload fake 100% accuracy.
   const index = Number(question_id.split('-')[1])
+  const year = Number(question_id.split('-')[0])
   const question = await fetchSingleQuestionCached(year, index)
   if (!question) {
     return NextResponse.json({ error: 'Questão não encontrada' }, { status: 404 })
@@ -34,7 +36,7 @@ export const POST = withErrorHandling(async (request: NextRequest) => {
     p_question_id: question_id,
     p_selected_alternative: selected_alternative,
     p_correct_alternative: question.correctAlternative,
-    p_discipline: discipline || null,
+    p_discipline: question.discipline || null,
     p_year: year || null,
     p_free_daily_limit: FREE_DAILY_LIMIT,
   })

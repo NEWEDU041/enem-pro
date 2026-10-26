@@ -4,6 +4,7 @@ import { requireAuth } from '@/lib/auth'
 import { sendDripEmail, ALL_DRIP_DAYS } from '@/lib/resend'
 import { withErrorHandling } from '@/lib/api-helpers'
 import { initLogContext, createRequestLogger, logSuccess, logError, logEvent } from '@/lib/logger'
+import { EmailDripRequestSchema, validateRequestBody } from '@/lib/validation'
 
 export const dynamic = 'force-dynamic'
 
@@ -23,17 +24,18 @@ export const POST = withErrorHandling(async (req: NextRequest) => {
   const { userId } = auth
   logContext.userId = userId
 
-  const body = await req.json()
-  const { drip_day } = body
-  if (drip_day === undefined || !ALL_DRIP_DAYS.includes(drip_day)) {
+  // INPUT VALIDATION
+  const validation = await validateRequestBody(req, EmailDripRequestSchema)
+  if (!validation.ok) {
     logError(logger, logContext, {
       status: 400,
       endpoint: '/api/email-drip',
-      error: 'Invalid drip_day',
-      metadata: { drip_day },
+      error: 'Validation failed',
+      metadata: { details: validation.error.details },
     })
-    return NextResponse.json({ error: 'Invalid or missing drip_day' }, { status: 400 })
+    return NextResponse.json(validation.error, { status: 400 })
   }
+  const { drip_day } = validation.data
 
   const sb = createServerClient()
 

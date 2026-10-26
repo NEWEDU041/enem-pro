@@ -7,10 +7,10 @@ import { checkRateLimit } from '@/lib/rate-limit'
 import { PROMPTS } from '@/lib/ai-prompts'
 import { fetchSingleQuestionCached } from '@/lib/questions-cache'
 import { initLogContext, createRequestLogger, logSuccess, logError, logEvent } from '@/lib/logger'
+import { batchFetchUserContext, logBatchOperation } from '@/lib/db-helpers'
+import { ExplicarRequestSchema, validateRequestBody } from '@/lib/validation'
 
 export const dynamic = 'force-dynamic'
-
-const QUESTION_ID_RE = /^\d{4}-\d+$/
 
 export async function POST(request: NextRequest) {
   const logContext = initLogContext(request)
@@ -28,20 +28,20 @@ export async function POST(request: NextRequest) {
   const { userId } = auth
   logContext.userId = userId
 
-  const supabase = createServerClient()
-
-  const body = await request.json()
-  const { question_id, selected_alternative } = body
-
-  if (question_id && !QUESTION_ID_RE.test(question_id)) {
+  // INPUT VALIDATION
+  const validation = await validateRequestBody(request, ExplicarRequestSchema)
+  if (!validation.ok) {
     logError(logger, logContext, {
       status: 400,
       endpoint: '/api/explicar',
-      error: 'Invalid question_id format',
-      metadata: { question_id },
+      error: 'Validation failed',
+      metadata: { details: validation.error.details },
     })
-    return NextResponse.json({ error: 'question_id inválido' }, { status: 400 })
+    return NextResponse.json(validation.error, { status: 400 })
   }
+  const { question_id, selected_alternative } = validation.data
+
+  const supabase = createServerClient()
 
   // 1. Check explanation cache first — avoids any AI cost if already generated
   if (question_id) {
@@ -86,22 +86,44 @@ export async function POST(request: NextRequest) {
 
   if (!userIsPro) {
     const today = new Date().toISOString().split('T')[0]
-    const { data: usage } = await supabase
+    // OPTIMIZATION: batch query for daily_usage (already indexed in idx_daily_usage_user_date)
+    const { data: usage, error: usageError } = await supabase
       .from('daily_usage')
       .select('explanation_count')
       .eq('user_id', userId)
       .eq('date', today)
       .maybeSingle()
 
+    if (usageError) {
+      logError(logger, logContext, {
+        status: 500,
+        endpoint: '/api/explicar',
+        error: 'Daily usage lookup error',
+        metadata: { supabaseError: usageError.message },
+      })
+      return NextResponse.json({ error: 'Erro ao verificar limite diário' }, { status: 500 })
+    }
+
     const usedToday = usage?.explanation_count || 0
     if (usedToday >= FREE_DAILY_EXPLANATIONS) {
       return NextResponse.json({ error: 'Plano Pro necessário', freeTrialUsed: true }, { status: 403 })
     }
 
-    await supabase.from('daily_usage').upsert(
+    // Increment usage counter
+    const { error: upsertError } = await supabase.from('daily_usage').upsert(
       { user_id: userId, date: today, explanation_count: usedToday + 1 },
       { onConflict: 'user_id,date' }
     )
+
+    if (upsertError) {
+      logError(logger, logContext, {
+        status: 500,
+        endpoint: '/api/explicar',
+        error: 'Daily usage update error',
+        metadata: { supabaseError: upsertError.message },
+      })
+      // Non-blocking error: continue even if usage tracking fails
+    }
   }
 
   // 2. Cache miss — return empty + log for batch generation

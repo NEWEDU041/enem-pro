@@ -1,25 +1,15 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
-import { cleanEnv } from '@/lib/utils'
 import { withErrorHandling } from '@/lib/api-helpers'
-import { timingSafeEqual } from 'crypto'
+import { verifyAdminRequest, unauthorizedResponse } from '@/lib/admin-auth'
 
 export const dynamic = 'force-dynamic'
 
 export const GET = withErrorHandling(async (request: NextRequest) => {
-  const headerSecret = request.headers.get('x-admin-secret')
-  const envSecret = cleanEnv(process.env.CRON_SECRET)
-
-  if (!envSecret || !headerSecret) {
-    return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
-  }
-
-  const expectedBuf = Buffer.from(envSecret)
-  const actualBuf = Buffer.from(headerSecret)
-
-  const isValid = expectedBuf.length === actualBuf.length && timingSafeEqual(expectedBuf, actualBuf)
-  if (!isValid) {
-    return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
+  // Verify IP whitelist + TOTP
+  const auth = await verifyAdminRequest(request)
+  if (!auth.authorized) {
+    return unauthorizedResponse(auth.error || 'Unauthorized')
   }
 
   const sb = createServerClient()
@@ -42,13 +32,9 @@ export const GET = withErrorHandling(async (request: NextRequest) => {
   const totalAnswers30d = stats.total_answers_30d ?? 0
   const aiUsage30d = stats.ai_explanations_30d ?? 0
 
-  const aiUsageRate = totalAnswers30d > 0
-    ? `${Math.round((aiUsage30d / totalAnswers30d) * 100)}%`
-    : '0%'
+  const aiUsageRate = totalAnswers30d > 0 ? `${Math.round((aiUsage30d / totalAnswers30d) * 100)}%` : '0%'
 
-  const conversionRate = totalUsers > 0
-    ? `${Math.round((stats.pro_active / totalUsers) * 100)}%`
-    : '0%'
+  const conversionRate = totalUsers > 0 ? `${Math.round((stats.pro_active / totalUsers) * 100)}%` : '0%'
 
   return NextResponse.json({
     users: { total: stats.total_users ?? 0, new_week: stats.new_users_week ?? 0 },

@@ -22,6 +22,8 @@
     "analyze:evergreen": "node scripts/evergreen-strategy.js",
     "dashboard:ga4": "node scripts/ga4-dashboard.js",
     "monitor:cwv": "node scripts/monitor-cwv.js",
+    "test:admin-2fa": "tsx scripts/test-admin-2fa.ts",
+    "generate:admin-qrcode": "tsx scripts/generate-admin-qrcode.ts",
     "optimize:all": "npm run optimize:sitemaps && npm run optimize:faqs && npm run optimize:linking && npm run analyze:clustering && npm run analyze:evergreen && npm run dashboard:ga4 && npm run monitor:cwv"
   },
   "dependencies": {
@@ -37,10 +39,12 @@
     "pg": "^8.22.0",
     "pino": "^10.4.0",
     "pino-http": "^11.0.0",
+    "qrcode": "^1.5.4",
     "react": "19.2.4",
     "react-dom": "19.2.4",
     "react-markdown": "^10.1.0",
     "resend": "^6.12.4",
+    "speakeasy": "^2.0.0",
     "stripe": "^22.2.0",
     "uuid": "^14.0.3"
   },
