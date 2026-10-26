@@ -1,0 +1,278 @@
+{
+  "dashboard": {
+    "title": "Advanced Analytics: Cohort, Retention, Churn & Forecast",
+    "tags": ["analytics", "enem-pro", "cohort", "retention", "churn", "forecast"],
+    "timezone": "UTC",
+    "panels": [
+      {
+        "title": "Retention Curves by Cohort",
+        "type": "graph",
+        "gridPos": {
+          "h": 8,
+          "w": 12,
+          "x": 0,
+          "y": 0
+        },
+        "targets": [
+          {
+            "name": "Retention 1W",
+            "rawSql": "SELECT cohort_year_week as time, retention_1w_pct as value FROM v_cohort_retention_matrix ORDER BY cohort_year_week DESC LIMIT 12",
+            "format": "table"
+          },
+          {
+            "name": "Retention 4W",
+            "rawSql": "SELECT cohort_year_week as time, retention_4w_pct as value FROM v_cohort_retention_matrix ORDER BY cohort_year_week DESC LIMIT 12",
+            "format": "table"
+          },
+          {
+            "name": "Retention 13W",
+            "rawSql": "SELECT cohort_year_week as time, retention_13w_pct as value FROM v_cohort_retention_matrix ORDER BY cohort_year_week DESC LIMIT 12",
+            "format": "table"
+          }
+        ],
+        "fieldConfig": {
+          "defaults": {
+            "color": {
+              "mode": "palette-classic"
+            },
+            "unit": "percent"
+          }
+        }
+      },
+      {
+        "title": "Weekly Cohort Growth",
+        "type": "stat",
+        "gridPos": {
+          "h": 4,
+          "w": 6,
+          "x": 12,
+          "y": 0
+        },
+        "targets": [
+          {
+            "rawSql": "SELECT SUM(new_subscribers) as total_weekly FROM v_weekly_cohort_growth LIMIT 1"
+          }
+        ]
+      },
+      {
+        "title": "Churn Risk Distribution",
+        "type": "piechart",
+        "gridPos": {
+          "h": 8,
+          "w": 12,
+          "x": 0,
+          "y": 8
+        },
+        "targets": [
+          {
+            "rawSql": "SELECT churn_risk_level, user_count FROM v_churn_risk_summary"
+          }
+        ],
+        "fieldConfig": {
+          "defaults": {
+            "mappings": [
+              {
+                "type": "value",
+                "options": {
+                  "1": {
+                    "text": "Low",
+                    "color": "green"
+                  },
+                  "2": {
+                    "text": "Medium",
+                    "color": "yellow"
+                  },
+                  "3": {
+                    "text": "High",
+                    "color": "orange"
+                  },
+                  "4": {
+                    "text": "Critical",
+                    "color": "red"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "title": "Churn Risk Levels",
+        "type": "table",
+        "gridPos": {
+          "h": 8,
+          "w": 12,
+          "x": 12,
+          "y": 8
+        },
+        "targets": [
+          {
+            "rawSql": "SELECT churn_risk_level, user_count, pct_of_total, avg_churn_score FROM v_churn_risk_summary ORDER BY user_count DESC"
+          }
+        ],
+        "fieldConfig": {
+          "overrides": [
+            {
+              "matcher": {
+                "id": "byName",
+                "options": "pct_of_total"
+              },
+              "properties": [
+                {
+                  "id": "unit",
+                  "value": "percent"
+                }
+              ]
+            },
+            {
+              "matcher": {
+                "id": "byName",
+                "options": "avg_churn_score"
+              },
+              "properties": [
+                {
+                  "id": "decimals",
+                  "value": 3
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "12-Week Revenue Forecast",
+        "type": "graph",
+        "gridPos": {
+          "h": 8,
+          "w": 12,
+          "x": 0,
+          "y": 16
+        },
+        "targets": [
+          {
+            "name": "Predicted Revenue",
+            "rawSql": "SELECT forecast_date::timestamp as time, predicted_revenue as value FROM revenue_forecast WHERE forecast_date >= CURRENT_DATE ORDER BY forecast_date"
+          },
+          {
+            "name": "Upper Bound",
+            "rawSql": "SELECT forecast_date::timestamp as time, confidence_interval_upper as value FROM revenue_forecast WHERE forecast_date >= CURRENT_DATE ORDER BY forecast_date"
+          },
+          {
+            "name": "Lower Bound",
+            "rawSql": "SELECT forecast_date::timestamp as time, confidence_interval_lower as value FROM revenue_forecast WHERE forecast_date >= CURRENT_DATE ORDER BY forecast_date"
+          }
+        ],
+        "fieldConfig": {
+          "defaults": {
+            "custom": {
+              "hideFrom": {
+                "tooltip": false,
+                "viz": false,
+                "legend": false
+              }
+            },
+            "unit": "currencyUSD"
+          }
+        }
+      },
+      {
+        "title": "Forecast Summary",
+        "type": "stat",
+        "gridPos": {
+          "h": 4,
+          "w": 6,
+          "x": 12,
+          "y": 16
+        },
+        "targets": [
+          {
+            "rawSql": "SELECT SUM(predicted_revenue) as total_12w FROM revenue_forecast WHERE forecast_date >= CURRENT_DATE"
+          }
+        ],
+        "fieldConfig": {
+          "defaults": {
+            "unit": "currencyUSD",
+            "thresholds": {
+              "mode": "absolute",
+              "steps": [
+                {
+                  "color": "green",
+                  "value": null
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "title": "Key Metrics",
+        "type": "stat",
+        "gridPos": {
+          "h": 4,
+          "w": 6,
+          "x": 18,
+          "y": 16
+        },
+        "targets": [
+          {
+            "rawSql": "SELECT COUNT(DISTINCT subscriber_id) as total_users FROM cohort_analysis"
+          }
+        ]
+      },
+      {
+        "title": "Cohort Analysis Matrix",
+        "type": "table",
+        "gridPos": {
+          "h": 8,
+          "w": 24,
+          "x": 0,
+          "y": 20
+        },
+        "targets": [
+          {
+            "rawSql": "SELECT cohort_year_week, cohort_size, week_0_active, week_1_active, week_4_active, week_13_active, retention_1w_pct, retention_4w_pct, retention_13w_pct FROM v_cohort_retention_matrix ORDER BY cohort_year_week DESC"
+          }
+        ],
+        "fieldConfig": {
+          "overrides": [
+            {
+              "matcher": {
+                "id": "byName",
+                "options": "/.*_pct$/"
+              },
+              "properties": [
+                {
+                  "id": "unit",
+                  "value": "percent"
+                },
+                {
+                  "id": "decimals",
+                  "value": 2
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "refresh": "30s",
+    "time": {
+      "from": "now-90d",
+      "to": "now"
+    },
+    "timepicker": {},
+    "templating": {
+      "list": [
+        {
+          "name": "datasource",
+          "type": "datasource",
+          "datasource": "Postgres",
+          "current": {
+            "value": "enem-pro",
+            "text": "enem-pro"
+          }
+        }
+      ]
+    }
+  }
+}

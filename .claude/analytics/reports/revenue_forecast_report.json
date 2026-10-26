@@ -1,0 +1,61 @@
+{
+  "generated_at": "2026-10-26T22:08:56.643370",
+  "forecast": {
+    "method": "prophet",
+    "period_days": 84,
+    "total_predicted_revenue_12w": 41514.91,
+    "avg_daily_forecast": 494.23,
+    "confidence": "95%",
+    "forecast_details": [
+      {
+        "date": "2026-10-27",
+        "week": "2026-W44",
+        "predicted_revenue": 420.85,
+        "confidence_lower": 357.72,
+        "confidence_upper": 483.98
+      },
+      {
+        "date": "2026-10-28",
+        "week": "2026-W44",
+        "predicted_revenue": 417.7,
+        "confidence_lower": 355.05,
+        "confidence_upper": 480.36
+      },
+      {
+        "date": "2026-10-29",
+        "week": "2026-W44",
+        "predicted_revenue": 476.67,
+        "confidence_lower": 405.17,
+        "confidence_upper": 548.17
+      },
+      {
+        "date": "2026-10-30",
+        "week": "2026-W44",
+        "predicted_revenue": 429.54,
+        "confidence_lower": 365.11,
+        "confidence_upper": 493.97
+      },
+      {
+        "date": "2026-10-31",
+        "week": "2026-W44",
+        "predicted_revenue": 453.97,
+        "confidence_lower": 385.87,
+        "confidence_upper": 522.06
+      },
+      {
+        "date": "2026-11-01",
+        "week": "2026-W44",
+        "predicted_revenue": 425.81,
+        "confidence_lower": 361.94,
+        "confidence_upper": 489.68
+      },
+      {
+        "date": "2026-11-02",
+        "week": "2026-W45",
+        "predicted_revenue": 447.79,
+        "confidence_lower": 380.62,
+        "confidence_upper": 514.96
+      }
+    ]
+  }
+}

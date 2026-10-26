@@ -1,0 +1,106 @@
+name: Release - Semantic Versioning & Changelog
+
+on:
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  semantic-release:
+    name: Semantic Release
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Check for Semantic Release Config
+        id: check-config
+        run: |
+          if [ -f .releaserc.json ] || [ -f .releaserc.js ] || grep -q "\"release\"" package.json; then
+            echo "has-config=true" >> $GITHUB_OUTPUT
+          else
+            echo "has-config=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Install semantic-release
+        if: steps.check-config.outputs.has-config == 'true'
+        run: |
+          npm install --save-dev semantic-release @semantic-release/changelog @semantic-release/git
+
+      - name: Run semantic-release
+        if: steps.check-config.outputs.has-config == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npx semantic-release
+
+  changelog-generator:
+    name: Generate Changelog (Fallback)
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate Changelog
+        uses: orhun/git-cliff-action@main
+        with:
+          config: cliff.toml
+          args: --output CHANGELOG.md
+        env:
+          GITHUB_REPO: ${{ github.repository }}
+
+      - name: Create Pull Request
+        if: |
+          github.event_name == 'push' &&
+          (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
+        uses: peter-evans/create-pull-request@v5
+        with:
+          commit-message: 'chore: update changelog [skip ci]'
+          title: 'chore: update changelog'
+          body: 'Automated changelog update from git-cliff'
+          branch: chore/update-changelog
+          delete-branch: true
+
+  version-check:
+    name: Version Consistency Check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate package.json version (Node.js)
+        if: hashFiles('package.json') != ''
+        run: |
+          VERSION=$(jq -r .version package.json)
+          if [[ ! $VERSION =~ ^[0-9]+\.[0-9]+\.[0-9]+ ]]; then
+            echo "❌ Invalid version format: $VERSION"
+            exit 1
+          fi
+          echo "✅ package.json version: $VERSION"
+
+      - name: Validate pyproject.toml version (Python)
+        if: hashFiles('pyproject.toml') != ''
+        run: |
+          VERSION=$(grep "^version" pyproject.toml | head -1 | cut -d'"' -f2)
+          if [[ ! $VERSION =~ ^[0-9]+\.[0-9]+\.[0-9]+ ]]; then
+            echo "❌ Invalid version format: $VERSION"
+            exit 1
+          fi
+          echo "✅ pyproject.toml version: $VERSION"
+
+      - name: Check tag consistency
+        run: |
+          if git describe --tags --exact-match 2>/dev/null; then
+            TAG=$(git describe --tags --exact-match)
+            echo "Current tag: $TAG"
+          fi

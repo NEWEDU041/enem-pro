@@ -1,0 +1,55 @@
+{
+  "start_time": "2026-10-26T22:08:28.973414",
+  "tests": {
+    "migrations": {
+      "status": "PASS",
+      "verified_entities": [
+        "cohort_analysis",
+        "retention_events",
+        "churn_scores",
+        "revenue_forecast",
+        "v_cohort_retention_matrix",
+        "v_churn_risk_summary",
+        "populate_cohort_analysis",
+        "update_churn_scores"
+      ]
+    },
+    "dashboard": {
+      "status": "PASS",
+      "panel_count": 8,
+      "panels": [
+        "Retention Curves by Cohort",
+        "Weekly Cohort Growth",
+        "Churn Risk Distribution",
+        "Churn Risk Levels",
+        "12-Week Revenue Forecast",
+        "Forecast Summary",
+        "Key Metrics",
+        "Cohort Analysis Matrix"
+      ]
+    },
+    "cohort": {
+      "status": "FAIL",
+      "returncode": 1,
+      "stderr": ""
+    },
+    "retention": {
+      "status": "FAIL",
+      "returncode": 1,
+      "stderr": ""
+    },
+    "churn": {
+      "status": "FAIL",
+      "returncode": 1,
+      "stderr": ""
+    },
+    "forecast": {
+      "status": "FAIL",
+      "returncode": 1,
+      "stderr": ""
+    }
+  },
+  "end_time": "2026-10-26T22:08:29.294722",
+  "passed": 2,
+  "total": 6
+}

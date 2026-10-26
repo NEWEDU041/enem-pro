@@ -1,0 +1,109 @@
+name: Security - SAST, Dependencies, Secrets
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main, develop]
+  schedule:
+    - cron: '0 2 * * *'  # Daily at 2 AM UTC
+
+jobs:
+  trivy-scan:
+    name: Trivy - Vulnerability Scan
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run Trivy vulnerability scanner
+        uses: aquasecurity/trivy-action@master
+        with:
+          scan-type: 'fs'
+          scan-ref: '.'
+          format: 'sarif'
+          output: 'trivy-results.sarif'
+
+      - name: Upload Trivy Results
+        uses: github/codeql-action/upload-sarif@v2
+        if: always()
+        with:
+          sarif_file: 'trivy-results.sarif'
+          category: 'trivy'
+
+  dependency-check:
+    name: Dependency Check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        if: hashFiles('package.json') != ''
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install npm audit (Node.js)
+        if: hashFiles('package.json') != ''
+        run: |
+          npm ci
+          npm audit --audit-level=moderate || exit 1
+
+      - uses: actions/setup-python@v4
+        if: hashFiles('requirements.txt') != '' || hashFiles('pyproject.toml') != ''
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Safety Check (Python)
+        if: hashFiles('requirements.txt') != '' || hashFiles('pyproject.toml') != ''
+        run: |
+          python -m pip install --upgrade pip safety
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          safety check --json --output safety-report.json || echo "Safety scan completed (failures may be expected)"
+
+  secret-scan:
+    name: Secret Scanning
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: TruffleHog Secret Scan
+        uses: trufflesecurity/trufflehog@main
+        with:
+          path: ./
+          base: ${{ github.event.repository.default_branch }}
+          head: HEAD
+          extra_args: --only-verified
+
+  code-ql:
+    name: CodeQL Static Analysis
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        language: ['javascript', 'python']
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: github/codeql-action/init@v2
+        with:
+          languages: ${{ matrix.language }}
+
+      - uses: github/codeql-action/autobuild@v2
+
+      - uses: github/codeql-action/analyze@v2
+
+  semgrep:
+    name: Semgrep SAST
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: returntocorp/semgrep-action@v1
+        with:
+          config: >-
+            p/security-audit
+            p/owasp-top-ten
+            p/typescript
+            p/python

@@ -1,0 +1,145 @@
+{
+  "generated_at": "2026-10-26T22:08:56.643153",
+  "cohort_trends": {
+    "total_cohorts": 12,
+    "total_subscribers": 867,
+    "avg_retention_1w": 66.33333333333333,
+    "avg_retention_4w": 46.0,
+    "avg_retention_13w": 25.833333333333332,
+    "best_cohort_1w": "2026-W33",
+    "cohorts": [
+      {
+        "cohort_year_week": "2026-W32",
+        "cohort_size": 98,
+        "week_0_active": 98,
+        "week_1_active": 73,
+        "week_4_active": 49,
+        "week_13_active": 43,
+        "retention_1w_pct": 75,
+        "retention_4w_pct": 51,
+        "retention_13w_pct": 44
+      },
+      {
+        "cohort_year_week": "2026-W33",
+        "cohort_size": 101,
+        "week_0_active": 101,
+        "week_1_active": 76,
+        "week_4_active": 53,
+        "week_13_active": 37,
+        "retention_1w_pct": 76,
+        "retention_4w_pct": 53,
+        "retention_13w_pct": 37
+      },
+      {
+        "cohort_year_week": "2026-W34",
+        "cohort_size": 92,
+        "week_0_active": 92,
+        "week_1_active": 69,
+        "week_4_active": 56,
+        "week_13_active": 27,
+        "retention_1w_pct": 76,
+        "retention_4w_pct": 61,
+        "retention_13w_pct": 30
+      },
+      {
+        "cohort_year_week": "2026-W35",
+        "cohort_size": 79,
+        "week_0_active": 79,
+        "week_1_active": 55,
+        "week_4_active": 40,
+        "week_13_active": 22,
+        "retention_1w_pct": 70,
+        "retention_4w_pct": 51,
+        "retention_13w_pct": 29
+      },
+      {
+        "cohort_year_week": "2026-W36",
+        "cohort_size": 88,
+        "week_0_active": 88,
+        "week_1_active": 61,
+        "week_4_active": 37,
+        "week_13_active": 21,
+        "retention_1w_pct": 70,
+        "retention_4w_pct": 43,
+        "retention_13w_pct": 24
+      },
+      {
+        "cohort_year_week": "2026-W37",
+        "cohort_size": 85,
+        "week_0_active": 85,
+        "week_1_active": 56,
+        "week_4_active": 39,
+        "week_13_active": 24,
+        "retention_1w_pct": 67,
+        "retention_4w_pct": 46,
+        "retention_13w_pct": 29
+      },
+      {
+        "cohort_year_week": "2026-W38",
+        "cohort_size": 65,
+        "week_0_active": 65,
+        "week_1_active": 41,
+        "week_4_active": 27,
+        "week_13_active": 13,
+        "retention_1w_pct": 64,
+        "retention_4w_pct": 43,
+        "retention_13w_pct": 21
+      },
+      {
+        "cohort_year_week": "2026-W39",
+        "cohort_size": 61,
+        "week_0_active": 61,
+        "week_1_active": 37,
+        "week_4_active": 31,
+        "week_13_active": 9,
+        "retention_1w_pct": 61,
+        "retention_4w_pct": 51,
+        "retention_13w_pct": 16
+      },
+      {
+        "cohort_year_week": "2026-W40",
+        "cohort_size": 53,
+        "week_0_active": 53,
+        "week_1_active": 34,
+        "week_4_active": 20,
+        "week_13_active": 9,
+        "retention_1w_pct": 65,
+        "retention_4w_pct": 38,
+        "retention_13w_pct": 17
+      },
+      {
+        "cohort_year_week": "2026-W41",
+        "cohort_size": 54,
+        "week_0_active": 54,
+        "week_1_active": 35,
+        "week_4_active": 24,
+        "week_13_active": 13,
+        "retention_1w_pct": 65,
+        "retention_4w_pct": 45,
+        "retention_13w_pct": 25
+      },
+      {
+        "cohort_year_week": "2026-W42",
+        "cohort_size": 45,
+        "week_0_active": 45,
+        "week_1_active": 25,
+        "week_4_active": 15,
+        "week_13_active": 10,
+        "retention_1w_pct": 57,
+        "retention_4w_pct": 35,
+        "retention_13w_pct": 23
+      },
+      {
+        "cohort_year_week": "2026-W43",
+        "cohort_size": 46,
+        "week_0_active": 46,
+        "week_1_active": 23,
+        "week_4_active": 16,
+        "week_13_active": 6,
+        "retention_1w_pct": 50,
+        "retention_4w_pct": 35,
+        "retention_13w_pct": 15
+      }
+    ]
+  }
+}

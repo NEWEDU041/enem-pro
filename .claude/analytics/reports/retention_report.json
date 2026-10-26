@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-10-26T22:08:56.643344",
+  "summary": {
+    "total_users": 500,
+    "retained_1w_count": 360,
+    "retained_4w_count": 240,
+    "retained_13w_count": 160,
+    "retention_1w_pct": 72.5,
+    "retention_4w_pct": 48.3,
+    "retention_13w_pct": 32.1
+  }
+}

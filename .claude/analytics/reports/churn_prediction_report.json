@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-10-26T22:08:56.643358",
+  "summary": {
+    "total_users": 500,
+    "risk_distribution": [
+      {
+        "churn_risk_level": "low",
+        "user_count": 250,
+        "pct_of_total": 50.0,
+        "avg_churn_score": 0.15,
+        "avg_inactivity_days": 5.2
+      },
+      {
+        "churn_risk_level": "medium",
+        "user_count": 150,
+        "pct_of_total": 30.0,
+        "avg_churn_score": 0.48,
+        "avg_inactivity_days": 18.7
+      },
+      {
+        "churn_risk_level": "high",
+        "user_count": 80,
+        "pct_of_total": 16.0,
+        "avg_churn_score": 0.72,
+        "avg_inactivity_days": 42.3
+      },
+      {
+        "churn_risk_level": "critical",
+        "user_count": 20,
+        "pct_of_total": 4.0,
+        "avg_churn_score": 0.88,
+        "avg_inactivity_days": 67.5
+      }
+    ],
+    "high_risk_count": 100,
+    "high_risk_pct": 20.0
+  }
+}

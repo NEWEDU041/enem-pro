@@ -1,0 +1,108 @@
+name: Code Quality - Lint & Format
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main, develop]
+
+jobs:
+  eslint:
+    name: ESLint
+    runs-on: ubuntu-latest
+    if: |
+      hashFiles('package.json') != '' || 
+      hashFiles('.eslintrc.json') != '' ||
+      hashFiles('.eslintrc.js') != ''
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Run ESLint
+        run: npm run lint -- --format json --output-file eslint-report.json || true
+        continue-on-error: true
+
+      - name: Check ESLint Results
+        run: |
+          if [ -f eslint-report.json ]; then
+            ERRORS=$(jq '[.[].messages[] | select(.severity==2)] | length' eslint-report.json)
+            if [ "$ERRORS" -gt 0 ]; then
+              echo "❌ ESLint found $ERRORS errors"
+              jq '.[] | select(.messages | length > 0) | {filePath, messages}' eslint-report.json
+              exit 1
+            fi
+          fi
+
+      - name: Upload ESLint Report
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: eslint-report
+          path: eslint-report.json
+
+  prettier:
+    name: Prettier
+    runs-on: ubuntu-latest
+    if: hashFiles('package.json') != ''
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Check Prettier
+        run: npx prettier --check . --ignore-path .prettierignore || exit 1
+
+  flake8:
+    name: Flake8
+    runs-on: ubuntu-latest
+    if: |
+      hashFiles('requirements.txt') != '' ||
+      hashFiles('pyproject.toml') != '' ||
+      hashFiles('setup.py') != ''
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          if [ -f requirements-dev.txt ]; then pip install -r requirements-dev.txt; fi
+          pip install flake8
+
+      - name: Run Flake8
+        run: flake8 . --count --show-source --statistics --exclude=.git,__pycache__,venv,.venv
+
+  typecheck:
+    name: TypeScript Type Check
+    runs-on: ubuntu-latest
+    if: hashFiles('tsconfig.json') != ''
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Run TypeScript Compiler
+        run: npx tsc --noEmit
