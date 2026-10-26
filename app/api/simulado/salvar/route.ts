@@ -3,6 +3,7 @@ import { createServerClient } from '@/lib/supabase'
 import { requireAuth } from '@/lib/auth'
 import { isPro, FREE_DAILY_LIMIT } from '@/lib/utils'
 import { withErrorHandling } from '@/lib/api-helpers'
+import { checkUserRateLimit } from '@/lib/user-rate-limit'
 import { fetchQuestionsByYearCached } from '@/lib/questions-cache'
 import { SimuladoSaveRequestSchema, validateRequestBody } from '@/lib/validation'
 import type { Question } from '@/lib/types'
@@ -22,6 +23,20 @@ export const POST = withErrorHandling(async (request: NextRequest) => {
   const { test_id, responses, completed_at } = validation.data
 
   const supabase = createServerClient()
+
+  // USER-BASED RATE LIMITING
+  const rl = await checkUserRateLimit(userId, supabase, '/api/simulado/salvar')
+  if (!rl.ok) {
+    return NextResponse.json(
+      { 
+        error: 'Limite de requisições atingido',
+        tier: rl.tier,
+        reset_at: rl.resetAt.toISOString(),
+      },
+      { status: 429, headers: rl.headers }
+    )
+  }
+
   const today = new Date().toISOString().split('T')[0]
 
   const [subRes, usageRes] = await Promise.all([

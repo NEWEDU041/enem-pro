@@ -3,6 +3,7 @@ import { requireAuth } from '@/lib/auth'
 import { getStripe } from '@/lib/stripe'
 import { cleanEnv } from '@/lib/utils'
 import { withErrorHandling } from '@/lib/api-helpers'
+import { checkUserRateLimit } from '@/lib/user-rate-limit'
 import { initLogContext, createRequestLogger, logSuccess, logError } from '@/lib/logger'
 import { CheckoutRequestSchema, validateRequestBody, formatValidationError } from '@/lib/validation'
 import { getCached, setCached } from '@/lib/cache'
@@ -26,27 +27,6 @@ export const POST = withErrorHandling(async (request: NextRequest) => {
   }
   const { plan } = validation.data
   
-  const stripe = getStripe()
-  if (!stripe) {
-    logError(logger, logContext, {
-      status: 503,
-      endpoint: '/api/checkout',
-      error: 'Stripe not configured',
-    })
-    return NextResponse.json({ error: 'Stripe não configurado' }, { status: 503 })
-  }
-
-  const monthlyPriceId = cleanEnv(process.env.STRIPE_PRICE_ID_MONTHLY)
-  const annualPriceId = cleanEnv(process.env.STRIPE_PRICE_ID_ANNUAL)
-  if (!monthlyPriceId || !annualPriceId) {
-    logError(logger, logContext, {
-      status: 503,
-      endpoint: '/api/checkout',
-      error: 'Stripe prices not configured',
-    })
-    return NextResponse.json({ error: 'Preços Stripe não configurados' }, { status: 503 })
-  }
-
   const auth = await requireAuth(request)
   if (!auth.ok) {
     logError(logger, logContext, {
@@ -57,6 +37,37 @@ export const POST = withErrorHandling(async (request: NextRequest) => {
     return auth.response
   }
   const { userId, email } = auth
+  logContext.userId = userId
+  logContext.email = email
+
+  const { createServerClient } = await import('@/lib/supabase')
+  const supabase = createServerClient()
+
+  // USER-BASED RATE LIMITING
+  const rl = await checkUserRateLimit(userId, supabase, '/api/checkout')
+  if (!rl.ok) {
+    logError(logger, logContext, {
+      status: 429,
+      endpoint: '/api/checkout',
+      error: 'Rate limit exceeded',
+      metadata: { 
+        tier: rl.tier,
+        remaining: rl.remaining,
+        retryAfterSeconds: rl.retryAfterSeconds,
+      },
+    })
+    const headers: Record<string, string> = rl.headers || {}
+    return NextResponse.json(
+      { 
+        error: 'Limite de requisições atingido',
+        tier: rl.tier,
+        reset_at: rl.resetAt.toISOString(),
+      },
+      { status: 429, headers }
+    )
+  }
+
+  const stripe = getStripe()
   logContext.userId = userId
   logContext.email = email
 

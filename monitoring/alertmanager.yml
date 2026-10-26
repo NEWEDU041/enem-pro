@@ -1,0 +1,70 @@
+global:
+  resolve_timeout: 5m
+  slack_api_url: '${SLACK_WEBHOOK_URL:-}'
+
+templates:
+  - /etc/alertmanager/templates/*.tmpl
+
+route:
+  receiver: 'default'
+  group_by: ['alertname', 'cluster', 'service']
+  group_wait: 10s
+  group_interval: 10s
+  repeat_interval: 24h
+  routes:
+    - match:
+        severity: 'critical'
+      receiver: 'pagerduty'
+      continue: true
+      group_wait: 0s
+      repeat_interval: 30m
+
+    - match:
+        severity: 'warning'
+      receiver: 'slack-warnings'
+      group_wait: 30s
+      repeat_interval: 4h
+
+    - match:
+        severity: 'info'
+      receiver: 'slack-info'
+      group_wait: 1m
+      repeat_interval: 24h
+
+receivers:
+  - name: 'default'
+    # Default receiver (null receiver - just logs)
+
+  - name: 'slack-warnings'
+    slack_configs:
+      - channel: '#enem-pro-warnings'
+        title: 'Alert: {{ .GroupLabels.alertname }}'
+        text: '{{ range .Alerts }}{{ .Annotations.description }}{{ end }}'
+        send_resolved: true
+        color: '{{ if eq .Status "firing" }}warning{{ else }}good{{ end }}'
+
+  - name: 'slack-info'
+    slack_configs:
+      - channel: '#enem-pro-info'
+        title: 'Info: {{ .GroupLabels.alertname }}'
+        text: '{{ range .Alerts }}{{ .Annotations.description }}{{ end }}'
+        send_resolved: true
+        color: '{{ if eq .Status "firing" }}info{{ else }}good{{ end }}'
+
+  - name: 'pagerduty'
+    pagerduty_configs:
+      - service_key: '${PAGERDUTY_SERVICE_KEY:-}'
+        description: '{{ .GroupLabels.alertname }}'
+
+inhibit_rules:
+  - source_match:
+      severity: 'critical'
+    target_match:
+      severity: 'warning'
+    equal: ['alertname', 'instance']
+
+  - source_match:
+      severity: 'warning'
+    target_match:
+      severity: 'info'
+    equal: ['alertname', 'instance']

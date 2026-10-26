@@ -4,6 +4,7 @@ import { createServerClient } from '@/lib/supabase'
 import { requireAuth } from '@/lib/auth'
 import { cleanEnv, isPro, FREE_DAILY_EXPLANATIONS } from '@/lib/utils'
 import { checkRateLimit } from '@/lib/rate-limit'
+import { checkUserRateLimit } from '@/lib/user-rate-limit'
 import { PROMPTS } from '@/lib/ai-prompts'
 import { fetchSingleQuestionCached } from '@/lib/questions-cache'
 import { initLogContext, createRequestLogger, logSuccess, logError, logEvent } from '@/lib/logger'
@@ -44,6 +45,30 @@ export async function POST(request: NextRequest) {
   const { question_id, selected_alternative } = validation.data
 
   const supabase = createServerClient()
+
+  // USER-BASED RATE LIMITING
+  const rl = await checkUserRateLimit(userId, supabase, '/api/explicar')
+  if (!rl.ok) {
+    logError(logger, logContext, {
+      status: 429,
+      endpoint: '/api/explicar',
+      error: 'Rate limit exceeded',
+      metadata: { 
+        tier: rl.tier,
+        remaining: rl.remaining,
+        retryAfterSeconds: rl.retryAfterSeconds,
+      },
+    })
+    const headers: Record<string, string> = rl.headers || {}
+    return NextResponse.json(
+      { 
+        error: 'Limite de requisições atingido',
+        tier: rl.tier,
+        reset_at: rl.resetAt.toISOString(),
+      },
+      { status: 429, headers }
+    )
+  }
 
   // 1. L1 CACHE — Redis (fastest)
   if (question_id) {

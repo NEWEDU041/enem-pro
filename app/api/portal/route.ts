@@ -4,6 +4,7 @@ import { requireAuth } from '@/lib/auth'
 import { getStripe } from '@/lib/stripe'
 import { cleanEnv } from '@/lib/utils'
 import { withErrorHandling } from '@/lib/api-helpers'
+import { checkUserRateLimit } from '@/lib/user-rate-limit'
 import { initLogContext, createRequestLogger, logSuccess, logError } from '@/lib/logger'
 import { getCached, setCached } from '@/lib/cache'
 
@@ -24,6 +25,32 @@ export const POST = withErrorHandling(async (request: NextRequest) => {
   }
   const { userId } = auth
   logContext.userId = userId
+
+  const supabase = createServerClient()
+
+  // USER-BASED RATE LIMITING
+  const rl = await checkUserRateLimit(userId, supabase, '/api/portal')
+  if (!rl.ok) {
+    logError(logger, logContext, {
+      status: 429,
+      endpoint: '/api/portal',
+      error: 'Rate limit exceeded',
+      metadata: { 
+        tier: rl.tier,
+        remaining: rl.remaining,
+        retryAfterSeconds: rl.retryAfterSeconds,
+      },
+    })
+    const headers: Record<string, string> = rl.headers || {}
+    return NextResponse.json(
+      { 
+        error: 'Limite de requisições atingido',
+        tier: rl.tier,
+        reset_at: rl.resetAt.toISOString(),
+      },
+      { status: 429, headers }
+    )
+  }
 
   const stripe = getStripe()
   if (!stripe) {

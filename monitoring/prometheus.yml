@@ -1,0 +1,56 @@
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+  external_labels:
+    monitor: 'enem-pro-monitor'
+    environment: 'production'
+
+alerting:
+  alertmanagers:
+    - static_configs:
+        - targets:
+            - alertmanager:9093
+
+rule_files:
+  - 'alerts.yml'
+
+scrape_configs:
+  # enem-pro application metrics
+  - job_name: 'enem-pro'
+    scrape_interval: 15s
+    scrape_timeout: 10s
+    static_configs:
+      - targets: ['localhost:3000']
+        labels:
+          service: 'enem-pro'
+          environment: 'production'
+    metrics_path: '/api/metrics'
+    scheme: 'http'
+    relabel_configs:
+      - source_labels: [__address__]
+        target_label: instance
+      - source_labels: [__scheme__]
+        target_label: scheme
+
+  # Alternative: if running in Docker, use the container name
+  - job_name: 'enem-pro-docker'
+    scrape_interval: 15s
+    scrape_timeout: 10s
+    static_configs:
+      - targets: ['host.docker.internal:3000']
+        labels:
+          service: 'enem-pro'
+          environment: 'production'
+    metrics_path: '/api/metrics'
+    scheme: 'http'
+    relabel_configs:
+      - source_labels: [__address__]
+        target_label: instance
+
+  # Prometheus self-monitoring
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['localhost:9090']
+        labels:
+          service: 'prometheus'
+          environment: 'production'

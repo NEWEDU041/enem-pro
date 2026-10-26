@@ -4,6 +4,8 @@ import { createServerClient } from '@/lib/supabase'
 import { cleanEnv } from '@/lib/utils'
 import { getStripe } from '@/lib/stripe'
 import { withErrorHandling } from '@/lib/api-helpers'
+import { verifyStripeWebhook } from '@/lib/webhook-verify'
+import { initLogContext, createRequestLogger } from '@/lib/logger'
 
 export const dynamic = 'force-dynamic'
 
@@ -14,10 +16,19 @@ function addMonths(months: number): string {
 }
 
 export const POST = withErrorHandling(async (request: NextRequest) => {
+  const logContext = initLogContext(request)
+  const logger = createRequestLogger(logContext)
+
+  // ✅ Verify Stripe webhook signature
+  const verification = await verifyStripeWebhook(request, logger, logContext)
+  if (!verification.valid) {
+    return verification.response!
+  }
+
   const stripe = getStripe()
   if (!stripe) return NextResponse.json({ error: 'Stripe não configurado' }, { status: 503 })
 
-  const body = await request.text()
+  const body = verification.body!
   const sig = request.headers.get('stripe-signature') || ''
 
   let event: Stripe.Event

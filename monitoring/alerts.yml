@@ -1,0 +1,98 @@
+groups:
+  - name: enem-pro-alerts
+    interval: 15s
+    rules:
+      # High error rate alert (> 5%)
+      - alert: HighErrorRate
+        expr: http_error_rate > 5
+        for: 5m
+        labels:
+          severity: 'critical'
+          service: 'enem-pro'
+        annotations:
+          summary: 'High error rate detected'
+          description: 'Error rate is {{ $value }}% on {{ $labels.instance }}'
+          runbook_url: 'https://runbooks.example.com/error-rate'
+
+      # High latency alert (P95 > 1s)
+      - alert: HighLatencyP95
+        expr: http_request_duration_overall{quantile="0.95"} > 1000
+        for: 5m
+        labels:
+          severity: 'warning'
+          service: 'enem-pro'
+        annotations:
+          summary: 'High latency detected (P95 > 1s)'
+          description: 'P95 latency is {{ $value }}ms on {{ $labels.instance }}'
+          runbook_url: 'https://runbooks.example.com/high-latency'
+
+      # Memory usage high (> 80%)
+      - alert: HighMemoryUsage
+        expr: (process_resident_memory_bytes / process_virtual_memory_max_bytes) * 100 > 80
+        for: 5m
+        labels:
+          severity: 'warning'
+          service: 'enem-pro'
+        annotations:
+          summary: 'High memory usage detected'
+          description: 'Memory usage is {{ $value }}% on {{ $labels.instance }}'
+          runbook_url: 'https://runbooks.example.com/memory'
+
+      # Low cache hit rate (< 70%)
+      - alert: LowCacheHitRate
+        expr: cache_hit_rate < 70
+        for: 10m
+        labels:
+          severity: 'warning'
+          service: 'enem-pro'
+        annotations:
+          summary: 'Low cache hit rate detected'
+          description: 'Cache hit rate is {{ $value }}% on {{ $labels.instance }}'
+          runbook_url: 'https://runbooks.example.com/cache'
+
+      # Database connection pool saturation (> 80%)
+      - alert: HighDbConnectionUsage
+        expr: (db_connections_active / db_connections_max) * 100 > 80
+        for: 5m
+        labels:
+          severity: 'warning'
+          service: 'enem-pro'
+        annotations:
+          summary: 'High database connection usage'
+          description: 'DB connections: {{ $value }}% of max on {{ $labels.instance }}'
+          runbook_url: 'https://runbooks.example.com/db-connections'
+
+      # Slow database queries (P95 > 500ms)
+      - alert: SlowDatabaseQueries
+        expr: db_query_duration_p95 > 500
+        for: 5m
+        labels:
+          severity: 'warning'
+          service: 'enem-pro'
+        annotations:
+          summary: 'Slow database queries detected'
+          description: 'P95 query duration is {{ $value }}ms on {{ $labels.instance }}'
+          runbook_url: 'https://runbooks.example.com/db-performance'
+
+      # Low throughput (< 1 request/sec during business hours)
+      - alert: LowThroughput
+        expr: http_throughput_rps < 1
+        for: 10m
+        labels:
+          severity: 'info'
+          service: 'enem-pro'
+        annotations:
+          summary: 'Low throughput detected'
+          description: 'Throughput is {{ $value }} rps on {{ $labels.instance }}'
+
+      # Service down (no metrics collected in 5m)
+      - alert: ServiceDown
+        expr: up{job="enem-pro"} == 0
+        for: 5m
+        labels:
+          severity: 'critical'
+          service: 'enem-pro'
+        annotations:
+          summary: 'enem-pro service is down'
+          description: 'Service has been down for more than 5 minutes'
+          runbook_url: 'https://runbooks.example.com/service-down'

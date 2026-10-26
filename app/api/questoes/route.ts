@@ -4,6 +4,9 @@ import {
   filterAndPaginateQuestions,
   DEFAULT_QUESTIONS_YEAR,
 } from '@/lib/questions-cache'
+import { requireAuth } from '@/lib/auth'
+import { checkUserRateLimit } from '@/lib/user-rate-limit'
+import { createServerClient } from '@/lib/supabase'
 import { SentryClient } from '@/lib/sentry/client'
 
 export const dynamic = 'force-dynamic'
@@ -16,6 +19,24 @@ export async function GET(request: NextRequest) {
   const limit = Math.min(parseInt(searchParams.get('limit') || '20'), 50)
 
   const startTime = Date.now()
+
+  // USER-BASED RATE LIMITING (optional for authenticated users)
+  const auth = await requireAuth(request)
+  if (auth.ok) {
+    const supabase = createServerClient()
+    const rl = await checkUserRateLimit(auth.userId, supabase, '/api/questoes')
+    if (!rl.ok) {
+      const headers: Record<string, string> = rl.headers || {}
+      return NextResponse.json(
+        { 
+          error: 'Limite de requisições atingido',
+          tier: rl.tier,
+          reset_at: rl.resetAt.toISOString(),
+        },
+        { status: 429, headers }
+      )
+    }
+  }
 
   try {
     const all = await fetchQuestionsByYear(year)
@@ -35,7 +56,13 @@ export async function GET(request: NextRequest) {
       })
     }
 
-    return NextResponse.json({ questions, total, page: safePage, limit })
+    return NextResponse.json({ 
+      questions, 
+      total, 
+      page: safePage, 
+      limit,
+      ...(auth.ok && { tier_applied: true })
+    })
   } catch (error) {
     const duration = Date.now() - startTime
     
