@@ -5,6 +5,7 @@ import { getStripe } from '@/lib/stripe'
 import { cleanEnv } from '@/lib/utils'
 import { withErrorHandling } from '@/lib/api-helpers'
 import { initLogContext, createRequestLogger, logSuccess, logError } from '@/lib/logger'
+import { getCached, setCached } from '@/lib/cache'
 
 export const dynamic = 'force-dynamic'
 
@@ -33,8 +34,44 @@ export const POST = withErrorHandling(async (request: NextRequest) => {
     })
     return NextResponse.json({ error: 'Stripe não configurado' }, { status: 503 })
   }
-
+  
   const supabase = createServerClient()
+  
+  // L1 CACHE — Try Redis first for customer ID
+  const cachedCustomerId = await getCached<{ stripe_customer_id: string }>('stripe_customer', userId)
+  if (cachedCustomerId?.stripe_customer_id) {
+    const stripe = getStripe()
+    if (stripe) {
+      try {
+        const origin = cleanEnv(request.headers.get('origin') ?? undefined)
+          || cleanEnv(process.env.NEXT_PUBLIC_SITE_URL)
+          || 'https://questoesenem.pro'
+
+        const session = await stripe.billingPortal.sessions.create({
+          customer: cachedCustomerId.stripe_customer_id,
+          return_url: `${origin}/dashboard`,
+        })
+
+        logSuccess(logger, logContext, {
+          status: 200,
+          endpoint: '/api/portal',
+          message: 'Billing portal session created',
+          metadata: { customerId: cachedCustomerId.stripe_customer_id, cached: true },
+        })
+
+        return NextResponse.json({ url: session.url })
+      } catch (e) {
+        // Fall through to DB lookup if session creation fails
+        logError(logger, logContext, {
+          status: 500,
+          endpoint: '/api/portal',
+          error: 'Failed to create portal session from cached customer',
+        })
+      }
+    }
+  }
+
+  // L2 CACHE — Supabase DB
   const { data: sub } = await supabase
     .from('subscriptions')
     .select('stripe_customer_id')
@@ -49,6 +86,11 @@ export const POST = withErrorHandling(async (request: NextRequest) => {
     })
     return NextResponse.json({ error: 'Sem assinatura Stripe ativa' }, { status: 404 })
   }
+
+  // Promote to Redis cache (async, non-blocking)
+  setCached('stripe_customer', userId, { stripe_customer_id: sub.stripe_customer_id }).catch(e => {
+    console.error('[portal] redis cache set failed:', String(e))
+  })
 
   const origin = cleanEnv(request.headers.get('origin') ?? undefined)
     || cleanEnv(process.env.NEXT_PUBLIC_SITE_URL)

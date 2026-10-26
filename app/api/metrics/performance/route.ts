@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
 import { cleanEnv } from '@/lib/utils'
+import { SentryClient } from '@/lib/sentry/client'
 
 export const dynamic = 'force-dynamic'
 export const maxDuration = 10
@@ -8,6 +9,12 @@ export const maxDuration = 10
 export async function GET(request: NextRequest) {
   const secret = request.headers.get('x-admin-secret')
   if (!secret || secret !== cleanEnv(process.env.CRON_SECRET)) {
+    SentryClient.captureWarning('Unauthorized access attempt to /api/metrics/performance', {
+      endpoint: '/api/metrics/performance',
+      status: 401,
+      method: 'GET',
+      path: request.url,
+    })
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
   }
 
@@ -50,6 +57,19 @@ export async function GET(request: NextRequest) {
     const cacheTime = Date.now() - cacheStart
 
     const totalTime = Date.now() - startTime
+    
+    // Track performance metrics
+    if (responderTime > 100 || statsTime > 50 || cacheTime > 10 || totalTime > 5000) {
+      SentryClient.captureWarning(`Performance degradation detected in /api/metrics/performance`, {
+        endpoint: '/api/metrics/performance',
+        status: 200,
+        method: 'GET',
+        responder_ms: responderTime,
+        stats_ms: statsTime,
+        cache_ms: cacheTime,
+        total_ms: totalTime,
+      })
+    }
 
     return NextResponse.json({
       status: 'ok',
@@ -82,6 +102,16 @@ export async function GET(request: NextRequest) {
       },
     })
   } catch (error) {
+    const totalTime = Date.now() - startTime
+    
+    SentryClient.captureException(error as Error, {
+      endpoint: '/api/metrics/performance',
+      status: 500,
+      method: 'GET',
+      duration: totalTime,
+      path: request.url,
+    })
+    
     return NextResponse.json(
       { error: 'Performance check failed', detail: String(error) },
       { status: 500 }

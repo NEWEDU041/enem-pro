@@ -5,6 +5,7 @@ import { cleanEnv } from '@/lib/utils'
 import { withErrorHandling } from '@/lib/api-helpers'
 import { initLogContext, createRequestLogger, logSuccess, logError } from '@/lib/logger'
 import { CheckoutRequestSchema, validateRequestBody, formatValidationError } from '@/lib/validation'
+import { getCached, setCached } from '@/lib/cache'
 
 export const dynamic = 'force-dynamic'
 
@@ -64,6 +65,14 @@ export const POST = withErrorHandling(async (request: NextRequest) => {
   const origin = cleanEnv(request.headers.get('origin') ?? undefined)
     || cleanEnv(process.env.NEXT_PUBLIC_SITE_URL)
     || 'https://questoesenem.pro'
+
+  // Cache price IDs for faster future requests (async, non-blocking)
+  setCached('stripe_price', 'monthly', { price_id: monthlyPriceId }).catch(e => {
+    console.error('[checkout] redis cache set failed for monthly:', String(e))
+  })
+  setCached('stripe_price', 'annual', { price_id: annualPriceId }).catch(e => {
+    console.error('[checkout] redis cache set failed for annual:', String(e))
+  })
 
   const session = await stripe.checkout.sessions.create({
     mode: 'subscription',

@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { createClient } from '@supabase/supabase-js'
+import { SentryClient } from '@/lib/sentry/client'
 
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL
 const supabaseServiceKey = process.env.SUPABASE_SERVICE_ROLE_KEY
@@ -29,12 +30,20 @@ interface SubscribeResponse {
 }
 
 export async function POST(request: NextRequest): Promise<NextResponse<SubscribeResponse>> {
+  const startTime = Date.now()
+  
   try {
     const body = await request.json() as SubscribeRequest
     const { email, leadMagnet, utmSource, utmMedium } = body
 
     // Validate email
     if (!email || typeof email !== 'string') {
+      SentryClient.captureWarning('Invalid email field in subscribe request', {
+        endpoint: '/api/subscribe',
+        status: 400,
+        method: 'POST',
+        email: email?.substring(0, 10),
+      })
       return NextResponse.json(
         {
           success: false,
@@ -47,6 +56,12 @@ export async function POST(request: NextRequest): Promise<NextResponse<Subscribe
 
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
     if (!emailRegex.test(email)) {
+      SentryClient.captureWarning('Invalid email format in subscribe request', {
+        endpoint: '/api/subscribe',
+        status: 400,
+        method: 'POST',
+        email: email.substring(0, 20),
+      })
       return NextResponse.json(
         {
           success: false,
@@ -92,7 +107,18 @@ export async function POST(request: NextRequest): Promise<NextResponse<Subscribe
       .single()
 
     if (error) {
+      const duration = Date.now() - startTime
       console.error('Supabase insert error:', error)
+      
+      SentryClient.captureException(error as unknown as Error, {
+        endpoint: '/api/subscribe',
+        status: 500,
+        method: 'POST',
+        duration: duration,
+        email: email.substring(0, 20),
+        errorCode: (error as any).code,
+      })
+      
       return NextResponse.json(
         {
           success: false,
@@ -104,7 +130,15 @@ export async function POST(request: NextRequest): Promise<NextResponse<Subscribe
     }
 
     // Log successful subscription
+    const duration = Date.now() - startTime
     console.log(`📧 New subscriber: ${email} (lead magnet: ${leadMagnet || 'default'})`)
+    
+    SentryClient.addBreadcrumb(
+      `New subscriber: ${email}`,
+      'subscription',
+      'info',
+      { leadMagnet, duration }
+    )
 
     return NextResponse.json(
       {
@@ -119,8 +153,18 @@ export async function POST(request: NextRequest): Promise<NextResponse<Subscribe
       { status: 201 }
     )
   } catch (error) {
+    const duration = Date.now() - startTime
     console.error('Subscribe API error:', error)
     const errorMessage = error instanceof Error ? error.message : 'Unknown error'
+
+    SentryClient.captureException(error as Error, {
+      endpoint: '/api/subscribe',
+      status: 500,
+      method: 'POST',
+      duration: duration,
+      path: request.url,
+      userAgent: request.headers.get('user-agent') || 'unknown',
+    })
 
     return NextResponse.json(
       {

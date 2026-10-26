@@ -9,12 +9,14 @@ import { fetchSingleQuestionCached } from '@/lib/questions-cache'
 import { initLogContext, createRequestLogger, logSuccess, logError, logEvent } from '@/lib/logger'
 import { batchFetchUserContext, logBatchOperation } from '@/lib/db-helpers'
 import { ExplicarRequestSchema, validateRequestBody } from '@/lib/validation'
+import { getCached, setCached } from '@/lib/cache'
 
 export const dynamic = 'force-dynamic'
 
 export async function POST(request: NextRequest) {
   const logContext = initLogContext(request)
   const logger = createRequestLogger(logContext)
+  const startTime = performance.now()
   
   const auth = await requireAuth(request)
   if (!auth.ok) {
@@ -43,7 +45,22 @@ export async function POST(request: NextRequest) {
 
   const supabase = createServerClient()
 
-  // 1. Check explanation cache first — avoids any AI cost if already generated
+  // 1. L1 CACHE — Redis (fastest)
+  if (question_id) {
+    const cached = await getCached<{ explanation: string }>('explanation', question_id)
+    if (cached) {
+      const latency = Math.round(performance.now() - startTime)
+      logEvent(logger, 'cache_hit_redis', { question_id, latency })
+      return NextResponse.json({ 
+        explanation: cached.explanation, 
+        cached: true,
+        cache_source: 'redis',
+        latency_ms: latency,
+      })
+    }
+  }
+
+  // 2. L2 CACHE — Supabase DB
   if (question_id) {
     const { data: cached } = await supabase
       .from('question_explanations')
@@ -52,7 +69,19 @@ export async function POST(request: NextRequest) {
       .maybeSingle()
 
     if (cached?.explanation) {
-      return NextResponse.json({ explanation: cached.explanation, cached: true })
+      // Promote from DB to Redis cache
+      setCached('explanation', question_id, cached).catch(e => {
+        logEvent(logger, 'redis_cache_promote_failed', { error: String(e) })
+      })
+      
+      const latency = Math.round(performance.now() - startTime)
+      logEvent(logger, 'cache_hit_db', { question_id, latency })
+      return NextResponse.json({ 
+        explanation: cached.explanation, 
+        cached: true,
+        cache_source: 'database',
+        latency_ms: latency,
+      })
     }
   }
 
@@ -171,17 +200,28 @@ export async function POST(request: NextRequest) {
 
       const explanation = message.content[0].type === 'text' ? message.content[0].text : ''
 
-      // Cache the generated explanation. `void` alone never triggers the
-      // PostgrestBuilder's lazy thenable — it must be awaited or `.then()`'d.
+      // Cache both to DB and Redis
       supabase.from('question_explanations').upsert({
         question_id,
         explanation,
         model: 'claude-haiku-4-5-20251001',
       }, { onConflict: 'question_id' }).then(({ error }) => {
-        if (error) console.error('[explicar] cache upsert failed:', error.message)
+        if (error) console.error('[explicar] db cache upsert failed:', error.message)
       })
 
-      return NextResponse.json({ explanation, fallback: true })
+      // Async Redis cache write
+      setCached('explanation', question_id, { explanation }).catch(e => {
+        console.error('[explicar] redis cache upsert failed:', String(e))
+      })
+
+      const latency = Math.round(performance.now() - startTime)
+      logEvent(logger, 'generated_on_demand', { question_id, latency })
+
+      return NextResponse.json({ 
+        explanation, 
+        fallback: true,
+        latency_ms: latency,
+      })
     } catch (e) {
       logError(logger, logContext, {
         status: 500,

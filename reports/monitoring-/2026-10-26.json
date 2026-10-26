@@ -1,13 +1,13 @@
 {
   "cwv": {
-    "timestamp": "2026-10-26T19:53:50.900Z",
+    "timestamp": "2026-10-26T20:04:06.090Z",
     "lcp": 0,
     "fid": 0,
     "cls": 0,
     "ttfb": 0
   },
   "gsc": {
-    "timestamp": "2026-10-26T19:53:50.901Z",
+    "timestamp": "2026-10-26T20:04:06.091Z",
     "indexed": 412,
     "notIndexed": 0,
     "excluded": 0,
