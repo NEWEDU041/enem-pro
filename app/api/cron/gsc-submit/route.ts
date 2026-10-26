@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { JWT } from 'google-auth-library'
 import { SITE_URL } from '@/lib/site-config'
+import { cleanEnv } from '@/lib/utils'
+import { timingSafeEqual } from 'crypto'
 
 export const dynamic = 'force-dynamic'
 export const maxDuration = 30
@@ -24,7 +26,18 @@ function getJwt(): JWT | null {
 // Requer que a service account esteja adicionada como usuario no GSC property.
 export async function GET(req: NextRequest) {
   const authHeader = req.headers.get('authorization')
-  if (authHeader !== `Bearer ${process.env.CRON_SECRET}`) {
+  const secret = cleanEnv(process.env.CRON_SECRET)
+
+  if (!secret || !authHeader) {
+    return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
+  }
+
+  const expectedHeader = `Bearer ${secret}`
+  const expectedBuf = Buffer.from(expectedHeader)
+  const actualBuf = Buffer.from(authHeader)
+
+  const isValid = expectedBuf.length === actualBuf.length && timingSafeEqual(expectedBuf, actualBuf)
+  if (!isValid) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
   }
 

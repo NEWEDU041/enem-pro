@@ -4,16 +4,35 @@ import { requireAuth } from '@/lib/auth'
 import { getStripe } from '@/lib/stripe'
 import { cleanEnv } from '@/lib/utils'
 import { withErrorHandling } from '@/lib/api-helpers'
+import { initLogContext, createRequestLogger, logSuccess, logError } from '@/lib/logger'
 
 export const dynamic = 'force-dynamic'
 
 export const POST = withErrorHandling(async (request: NextRequest) => {
+  const logContext = initLogContext(request)
+  const logger = createRequestLogger(logContext)
+  
   const auth = await requireAuth(request)
-  if (!auth.ok) return auth.response
+  if (!auth.ok) {
+    logError(logger, logContext, {
+      status: 401,
+      endpoint: '/api/portal',
+      error: 'Authentication failed',
+    })
+    return auth.response
+  }
   const { userId } = auth
+  logContext.userId = userId
 
   const stripe = getStripe()
-  if (!stripe) return NextResponse.json({ error: 'Stripe não configurado' }, { status: 503 })
+  if (!stripe) {
+    logError(logger, logContext, {
+      status: 503,
+      endpoint: '/api/portal',
+      error: 'Stripe not configured',
+    })
+    return NextResponse.json({ error: 'Stripe não configurado' }, { status: 503 })
+  }
 
   const supabase = createServerClient()
   const { data: sub } = await supabase
@@ -23,6 +42,11 @@ export const POST = withErrorHandling(async (request: NextRequest) => {
     .maybeSingle()
 
   if (!sub?.stripe_customer_id) {
+    logError(logger, logContext, {
+      status: 404,
+      endpoint: '/api/portal',
+      error: 'No active Stripe subscription',
+    })
     return NextResponse.json({ error: 'Sem assinatura Stripe ativa' }, { status: 404 })
   }
 
@@ -33,6 +57,13 @@ export const POST = withErrorHandling(async (request: NextRequest) => {
   const session = await stripe.billingPortal.sessions.create({
     customer: sub.stripe_customer_id,
     return_url: `${origin}/dashboard`,
+  })
+
+  logSuccess(logger, logContext, {
+    status: 200,
+    endpoint: '/api/portal',
+    message: 'Billing portal session created',
+    metadata: { customerId: sub.stripe_customer_id },
   })
 
   return NextResponse.json({ url: session.url })

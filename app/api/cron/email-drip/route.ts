@@ -5,6 +5,7 @@ import { cleanEnv } from '@/lib/utils'
 import { dripDailyGoogleIndex, submitGscSitemap } from '@/lib/google-indexing'
 import { submitIndexNow } from '@/lib/indexnow'
 import { withErrorHandling } from '@/lib/api-helpers'
+import { timingSafeEqual } from 'crypto'
 
 export const dynamic = 'force-dynamic'
 
@@ -47,7 +48,16 @@ export const GET = withErrorHandling(async (req: NextRequest) => {
   const authHeader = req.headers.get('authorization')
   const secret = cleanEnv(process.env.CRON_SECRET)
 
-  if (!secret || authHeader !== `Bearer ${secret}`) {
+  if (!secret || !authHeader) {
+    return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
+  }
+
+  const expectedHeader = `Bearer ${secret}`
+  const expectedBuf = Buffer.from(expectedHeader)
+  const actualBuf = Buffer.from(authHeader)
+
+  const isValid = expectedBuf.length === actualBuf.length && timingSafeEqual(expectedBuf, actualBuf)
+  if (!isValid) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
   }
 

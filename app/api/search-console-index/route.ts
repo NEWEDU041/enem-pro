@@ -3,14 +3,23 @@ import { getAllSlugsLight as getAllSlugs } from '@/lib/blog-index'
 import { notifyGoogleBatch } from '@/lib/google-indexing'
 import { SITE_URL } from '@/lib/site-config'
 import { withErrorHandling } from '@/lib/api-helpers'
+import { initLogContext, createRequestLogger, logSuccess, logError, logEvent } from '@/lib/logger'
 
 export const dynamic = 'force-dynamic'
 
 // POST /api/search-console-index          → indexa todos os posts
 // POST /api/search-console-index?slug=x   → indexa um post específico
 export const POST = withErrorHandling(async (request: NextRequest) => {
+  const logContext = initLogContext(request)
+  const logger = createRequestLogger(logContext)
+  
   const authHeader = request.headers.get('authorization')
   if (authHeader !== `Bearer ${process.env.CRON_SECRET}`) {
+    logError(logger, logContext, {
+      status: 401,
+      endpoint: '/api/search-console-index',
+      error: 'Unauthorized',
+    })
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
   }
 
@@ -24,13 +33,27 @@ export const POST = withErrorHandling(async (request: NextRequest) => {
     urls = getAllSlugs().map(s => `${SITE_URL}/blog/${s}`)
   }
 
+  logEvent(logger, 'indexing_start', { totalUrls: urls.length, slug: slug || 'all' })
+
   if (!process.env.GOOGLE_SERVICE_ACCOUNT_KEY) {
+    logError(logger, logContext, {
+      status: 503,
+      endpoint: '/api/search-console-index',
+      error: 'GOOGLE_SERVICE_ACCOUNT_KEY not configured',
+    })
     return NextResponse.json({ error: 'GOOGLE_SERVICE_ACCOUNT_KEY não configurada' }, { status: 503 })
   }
 
   const results = await notifyGoogleBatch(urls)
   const ok = results.filter(r => r.status === 200).length
   const fail = results.filter(r => r.status !== 200).length
+
+  logSuccess(logger, logContext, {
+    status: 200,
+    endpoint: '/api/search-console-index',
+    message: 'Indexing completed',
+    metadata: { totalUrls: urls.length, successCount: ok, failureCount: fail },
+  })
 
   return NextResponse.json({ total: urls.length, ok, fail, results })
 })

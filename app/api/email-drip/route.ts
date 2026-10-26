@@ -3,17 +3,35 @@ import { createServerClient } from '@/lib/supabase'
 import { requireAuth } from '@/lib/auth'
 import { sendDripEmail, ALL_DRIP_DAYS } from '@/lib/resend'
 import { withErrorHandling } from '@/lib/api-helpers'
+import { initLogContext, createRequestLogger, logSuccess, logError, logEvent } from '@/lib/logger'
 
 export const dynamic = 'force-dynamic'
 
 export const POST = withErrorHandling(async (req: NextRequest) => {
+  const logContext = initLogContext(req)
+  const logger = createRequestLogger(logContext)
+  
   const auth = await requireAuth(req)
-  if (!auth.ok) return auth.response
+  if (!auth.ok) {
+    logError(logger, logContext, {
+      status: 401,
+      endpoint: '/api/email-drip',
+      error: 'Authentication failed',
+    })
+    return auth.response
+  }
   const { userId } = auth
+  logContext.userId = userId
 
   const body = await req.json()
   const { drip_day } = body
   if (drip_day === undefined || !ALL_DRIP_DAYS.includes(drip_day)) {
+    logError(logger, logContext, {
+      status: 400,
+      endpoint: '/api/email-drip',
+      error: 'Invalid drip_day',
+      metadata: { drip_day },
+    })
     return NextResponse.json({ error: 'Invalid or missing drip_day' }, { status: 400 })
   }
 
@@ -36,7 +54,14 @@ export const POST = withErrorHandling(async (req: NextRequest) => {
     .eq('user_id', userId)
     .maybeSingle()
 
-  if (!profile?.email) return NextResponse.json({ ok: false, reason: 'profile not found' })
+  if (!profile?.email) {
+    logError(logger, logContext, {
+      status: 404,
+      endpoint: '/api/email-drip',
+      error: 'User profile not found',
+    })
+    return NextResponse.json({ ok: false, reason: 'profile not found' })
+  }
 
   // Auto-detect weakest discipline from user_answers
   let weak_disc: string | undefined
@@ -69,6 +94,19 @@ export const POST = withErrorHandling(async (req: NextRequest) => {
 
   if (sent) {
     await sb.from('email_drip_log').insert({ user_id: userId, drip_day })
+    logSuccess(logger, logContext, {
+      status: 200,
+      endpoint: '/api/email-drip',
+      message: 'Email sent',
+      metadata: { drip_day, weakDiscipline: weak_disc },
+    })
+  } else {
+    logError(logger, logContext, {
+      status: 400,
+      endpoint: '/api/email-drip',
+      error: 'Failed to send email',
+      metadata: { drip_day },
+    })
   }
 
   return NextResponse.json({ ok: sent })

@@ -6,15 +6,27 @@ import { cleanEnv, isPro, FREE_DAILY_EXPLANATIONS } from '@/lib/utils'
 import { checkRateLimit } from '@/lib/rate-limit'
 import { PROMPTS } from '@/lib/ai-prompts'
 import { fetchSingleQuestionCached } from '@/lib/questions-cache'
+import { initLogContext, createRequestLogger, logSuccess, logError, logEvent } from '@/lib/logger'
 
 export const dynamic = 'force-dynamic'
 
 const QUESTION_ID_RE = /^\d{4}-\d+$/
 
 export async function POST(request: NextRequest) {
+  const logContext = initLogContext(request)
+  const logger = createRequestLogger(logContext)
+  
   const auth = await requireAuth(request)
-  if (!auth.ok) return auth.response
+  if (!auth.ok) {
+    logError(logger, logContext, {
+      status: 401,
+      endpoint: '/api/explicar',
+      error: 'Authentication failed',
+    })
+    return auth.response
+  }
   const { userId } = auth
+  logContext.userId = userId
 
   const supabase = createServerClient()
 
@@ -22,6 +34,12 @@ export async function POST(request: NextRequest) {
   const { question_id, selected_alternative } = body
 
   if (question_id && !QUESTION_ID_RE.test(question_id)) {
+    logError(logger, logContext, {
+      status: 400,
+      endpoint: '/api/explicar',
+      error: 'Invalid question_id format',
+      metadata: { question_id },
+    })
     return NextResponse.json({ error: 'question_id inválido' }, { status: 400 })
   }
 
@@ -41,7 +59,12 @@ export async function POST(request: NextRequest) {
   const { data: sub, error: subError } = await supabase.from('subscriptions').select('plan, expires_at').eq('user_id', userId).maybeSingle()
 
   if (subError) {
-    console.error('[explicar] sub lookup error:', subError.message, 'user_id:', userId)
+    logError(logger, logContext, {
+      status: 500,
+      endpoint: '/api/explicar',
+      error: 'Subscription lookup error',
+      metadata: { supabaseError: subError.message },
+    })
     return NextResponse.json({ error: 'Erro ao verificar plano' }, { status: 500 })
   }
 
@@ -49,6 +72,12 @@ export async function POST(request: NextRequest) {
 
   const rl = await checkRateLimit(userId, supabase, userIsPro)
   if (!rl.ok) {
+    logError(logger, logContext, {
+      status: 429,
+      endpoint: '/api/explicar',
+      error: 'Rate limit exceeded',
+      metadata: { retryAfterMs: rl.retryAfterMs },
+    })
     return NextResponse.json(
       { error: 'Muitas requisições. Aguarde alguns segundos.' },
       { status: 429, headers: { 'Retry-After': String(Math.ceil(rl.retryAfterMs / 1000)) } }
@@ -78,7 +107,7 @@ export async function POST(request: NextRequest) {
   // 2. Cache miss — return empty + log for batch generation
   // All explanations should be pre-generated via bulk script
   // This is a safety fallback only
-  console.log('[explicar] Cache miss for question:', question_id)
+  logEvent(logger, 'cache_miss', { question_id })
 
   // Optional: generate on-demand as fallback for Pro users only
   if (userIsPro && question_id) {
@@ -86,6 +115,12 @@ export async function POST(request: NextRequest) {
       const [yearStr, indexStr] = question_id.split('-')
       const question = await fetchSingleQuestionCached(Number(yearStr), Number(indexStr))
       if (!question) {
+        logError(logger, logContext, {
+          status: 404,
+          endpoint: '/api/explicar',
+          error: 'Question not found',
+          metadata: { question_id },
+        })
         return NextResponse.json({ error: 'Questão não encontrada' }, { status: 404 })
       }
 
@@ -126,7 +161,12 @@ export async function POST(request: NextRequest) {
 
       return NextResponse.json({ explanation, fallback: true })
     } catch (e) {
-      console.error('[explicar] Fallback generation error:', e)
+      logError(logger, logContext, {
+        status: 500,
+        endpoint: '/api/explicar',
+        error: e instanceof Error ? e : new Error(String(e)),
+        metadata: { fallback: true },
+      })
     }
   }
 

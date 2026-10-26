@@ -3,22 +3,47 @@ import { requireAuth } from '@/lib/auth'
 import { getStripe } from '@/lib/stripe'
 import { cleanEnv } from '@/lib/utils'
 import { withErrorHandling } from '@/lib/api-helpers'
+import { initLogContext, createRequestLogger, logSuccess, logError } from '@/lib/logger'
 
 export const dynamic = 'force-dynamic'
 
 export const POST = withErrorHandling(async (request: NextRequest) => {
+  const logContext = initLogContext(request)
+  const logger = createRequestLogger(logContext)
+  
   const stripe = getStripe()
-  if (!stripe) return NextResponse.json({ error: 'Stripe não configurado' }, { status: 503 })
+  if (!stripe) {
+    logError(logger, logContext, {
+      status: 503,
+      endpoint: '/api/checkout',
+      error: 'Stripe not configured',
+    })
+    return NextResponse.json({ error: 'Stripe não configurado' }, { status: 503 })
+  }
 
   const monthlyPriceId = cleanEnv(process.env.STRIPE_PRICE_ID_MONTHLY)
   const annualPriceId = cleanEnv(process.env.STRIPE_PRICE_ID_ANNUAL)
   if (!monthlyPriceId || !annualPriceId) {
+    logError(logger, logContext, {
+      status: 503,
+      endpoint: '/api/checkout',
+      error: 'Stripe prices not configured',
+    })
     return NextResponse.json({ error: 'Preços Stripe não configurados' }, { status: 503 })
   }
 
   const auth = await requireAuth(request)
-  if (!auth.ok) return auth.response
+  if (!auth.ok) {
+    logError(logger, logContext, {
+      status: 401,
+      endpoint: '/api/checkout',
+      error: 'Authentication failed',
+    })
+    return auth.response
+  }
   const { userId, email } = auth
+  logContext.userId = userId
+  logContext.email = email
 
   const body = await request.json()
   const plan = body.plan === 'annual' ? 'annual' : 'monthly'
@@ -39,6 +64,13 @@ export const POST = withErrorHandling(async (request: NextRequest) => {
     success_url: `${origin}/dashboard?upgrade=success&plan=${plan}`,
     cancel_url: `${origin}/planos`,
     locale: 'pt-BR',
+  })
+
+  logSuccess(logger, logContext, {
+    status: 200,
+    endpoint: '/api/checkout',
+    message: 'Checkout session created',
+    metadata: { plan, sessionId: session.id },
   })
 
   return NextResponse.json({ url: session.url })

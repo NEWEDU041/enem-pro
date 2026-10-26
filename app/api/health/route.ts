@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
 import { YEARS } from '@/lib/enem-api'
+import { initLogContext, createRequestLogger, logSuccess } from '@/lib/logger'
 
 export const dynamic = 'force-dynamic'
 export const maxDuration = 30
@@ -25,6 +26,8 @@ interface CheckResult {
 }
 
 export async function GET() {
+  const logContext = initLogContext(undefined as any)
+  const logger = createRequestLogger(logContext)
   const startTime = Date.now()
 
   const checks: Record<string, CheckResult> = {}
@@ -135,6 +138,13 @@ export async function GET() {
     performance,
     recommendations,
   }
+
+  logSuccess(logger, logContext, {
+    status: health.status === 'unhealthy' ? 503 : 200,
+    endpoint: '/api/health',
+    message: `Health check: ${health.status}`,
+    metadata: { checks: Object.keys(checks), errors: errorCount, warnings: warningCount },
+  })
 
   return NextResponse.json(health, {
     status: health.status === 'unhealthy' ? 503 : 200,

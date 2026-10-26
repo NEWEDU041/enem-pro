@@ -2,12 +2,23 @@ import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
 import { cleanEnv } from '@/lib/utils'
 import { withErrorHandling } from '@/lib/api-helpers'
+import { timingSafeEqual } from 'crypto'
 
 export const dynamic = 'force-dynamic'
 
 export const GET = withErrorHandling(async (request: NextRequest) => {
-  const secret = request.headers.get('x-admin-secret')
-  if (!secret || secret !== cleanEnv(process.env.CRON_SECRET)) {
+  const headerSecret = request.headers.get('x-admin-secret')
+  const envSecret = cleanEnv(process.env.CRON_SECRET)
+
+  if (!envSecret || !headerSecret) {
+    return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
+  }
+
+  const expectedBuf = Buffer.from(envSecret)
+  const actualBuf = Buffer.from(headerSecret)
+
+  const isValid = expectedBuf.length === actualBuf.length && timingSafeEqual(expectedBuf, actualBuf)
+  if (!isValid) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
   }
 
