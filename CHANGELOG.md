@@ -1,0 +1,616 @@
+## [unreleased]
+
+### 🚀 Features
+
+- ENEM Pro — plataforma de questoes freemium completa
+- Inter font, Open Graph, robots/sitemap, secoes Como Funciona e Stats
+- Atalhos teclado A-E/Enter, timer por questao, JSON-LD landing
+- Admin panel upgrade Pro + esqueci senha + link no login
+- Stripe checkout mensal/anual + webhook + planos page + dashboard upgrade banner
+- Dream Outcome + demo IA + garantia 30d + tela limite conversão
+- SEO pages por disciplina+ano (60 rotas)
+- 1 explicacao IA gratis/dia + fix webhook cancelamento + trial UX
+- Blog SEO + OG image + sitemap + Lighthouse fixes
+- Gap 3 (redação IA streaming) + Gap 4 (modo simulado)
+- Hormozi Gaps 5-9 + Blog SEO + Lighthouse
+- Gap 8 (email drip Resend), Gap 10 (meta aprovacao), Gap 12 (referral +7 dias Pro)
+- 64 posts SEO automaticos gabarito/disciplina/ano + fix editingGoal goalScore reset
+- Questions cache + PWA icons + rate limiting
+- Admin stats + service worker PWA
+- Share resultado simulado (Web Share API + clipboard fallback)
+- Modo revisao + historico completo + SEO pages disciplinas
+- Gabarito por ano + favoritos localStorage + push notifications + SW v2
+- Temas-redacao + cronograma + 8 posts SEO alto volume
+- Calcular-nota + 11 materias landing pages + 10 posts SEO
+- Questao-do-dia + ferramentas + SEO calcular-nota + fixes
+- +7 posts blog SEO (redacao competencias, filosofia-sociologia, humanas, natureza, psicologia corte, treineiro, deficiencia)
+- /vs/[competitor] comparison pages (descomplica, stoodi, estuda-com) + sitemap
+- IndexNow API + 3 posts alta intencao (melhor-app, alternativa-descomplica, questoes-gratis)
+- SEO upgrade — BreadcrumbList, FAQPage, EducationalOrg, centralize SITE_URL, rich footer
+- Blog redesign com categorias + schema Blog + fixes a11y (main, aria-label, contraste)
+- Install claude-blog plugin (BRAND.md + VOICE.md + CLAUDE.md)
+- SEO técnico — SSG blog, sitemap lastModified real, Twitter card, OG image, related posts por categoria
+- +8 posts SEO alto volume — datas ENEM, inscrição, gabaritos 2021/2022, literatura, notas de corte, como estudar matematica
+- Linking interno bidirecional + 5 posts SEO (linguagens, notas de corte, ENEM Digital)
+- URLs canônicas centralizadas + metadata client pages + IndexNow dinâmico + 4 posts
+- +6 posts SEO + 2 VS pages + getCategory fix
+- +8 posts SEO (fisica/bio/quimica como estudar, geometria, interpretacao, estatistica, cortes contabilidade/pedagogia) + VS poliedro/gauss + sitemap fix
+- +8 posts SEO (historia/geo/port como estudar, funcoes, trigonometria, cortes fisioterapia/economia/jornalismo) + getCategory expand
+- +8 posts SEO (filosofia/sociologia como estudar, progressoes PA/PG, redacao temas provaveis 2026, enem dia da prova, cortes servico-social/educacao-fisica) + getCategory expand
+- +8 posts SEO (ingles como estudar, logaritmos, probabilidade/combinatoria, matrizes, letras/bio/historia cortes, tecnicas de estudo) + getCategory expand
+- Página /vs index com 7 comparativos + schema ItemList + breadcrumb
+- +8 posts SEO (matematica como estudar, biomedicina/turismo/RI/design/ciencias-sociais notas de corte, cronograma 3 meses, dicas ultima hora) + 2 VS pages (prepara-enem, estrategia)
+- SEO técnico completo — indexação Google máxima
+- Stripe portal + email auth + webhook robustness + security fixes
+- *(cro)* Melhorias de conversão em /planos, home e questões
+- *(seo)* +15 posts prioritários (gabaritos 2024, questões por disciplina, hub enem-2026)
+- *(email-drip)* Templates D1-D30 + cron multi-day + webhook fix Stripe v22
+- *(seo)* +15 posts alto tráfego + domínio questoesenem.pro
+- *(seo)* E-E-A-T + FAQ schema + dateModified dinâmico nos posts
+- *(seo)* FAQ em 5 posts top + página /sobre + fix slug duplicado
+- *(blog)* +10 posts EXTRA_POSTS_12 — gabaritos 2022/2021 por disciplina + data-enem-2025 + redacao-enem-2024-tema
+- *(seo)* FAQ em +4 posts top + /sobre no sitemap
+- *(seo)* +5 posts EXTRA_POSTS_13 — resultado ENEM, SISU, PROUNI, treineiro, ENEM digital, sociologia
+- *(seo)* +10 posts EXTRA_POSTS_14 + fix 2 slugs duplicados + getCategory atualizado
+- *(seo)* FAQs em 9 posts + contador /sobre 176+ + sitemap priority expandida
+- *(seo)* +8 posts EXTRA_POSTS_15 + blog listing melhorado + getCategory/getInternalLinks
+- *(seo)* +10 posts EXTRA_POSTS_16 — questoes mat/fis, gabaritos 2020 por área, gabarito 2015, ansiedade, conclusão redação, caderno cores
+- *(seo)* Google Search Console verification meta tag
+- *(blog)* Auto-fix 197 posts — TL;DR + internal links + FAQ + author signal (694 ops, scores 43-66 -> 60-78)
+- *(blog)* Phase 2 enrichment — 197 posts +experience signal +citations INEP/MEC +tables (444 ops, scores 60-78 -> 69-84, 20 posts now Strong band)
+- *(blog)* Phase 3 — QA headings + author bio + desc fix (5 posts now Gate 4 PASS)
+- *(seo)* Add 591 educational SVG images to all 197 posts (+3 TECH each, 5→36 Gate4 PASS)
+- *(seo)* Phase5 — 161 posts expanded (exp2+qa+WC), Gate4 36->58
+- Mostrar imagens nas alternativas de questoes visuais (graficos/tabelas)
+- *(blog)* Adicionar 12 posts questoes por disciplina/ano (2020-2022)
+- *(blog)* Suporte a imagens, blockquotes e links no markdown
+- *(blog)* Expandir 12 posts questoes-202x para Gate 4 PASS — 209/209 (100%)
+- *(seo)* IndexNow+Google ping automático, cron semanal, sitemap lastModified atualizado
+- *(seo)* Google Indexing API — notificação automática ao Google Search Console
+- Add 8 high-value SEO posts, all 217/217 Gate4 PASS
+- *(planos)* Headline orientado a benefício (oferta Hormozi completa)
+- *(seo)* Internal linking automatizada + getRelatedPosts
+- *(ia)* Endpoint /api/explain com Claude para gerar explicações
+- Enhance wrong answer explanations with gap identification & prevention tips
+- Add env loader + batch question generation scripts (Haiku, RTK-ready)
+- Refresh stats_snapshot via daily Vercel cron
+- Use EXPLAIN_WRONG prompt when student gets question wrong
+- Add 10 long-tail posts + daily auto-generation script
+- Integrate 10 new long-tail posts to EXTRA_POSTS_18
+- Add daily-posts cron for 10 posts/day automation
+- Batch script to generate AI explanations for questions
+- Resolve blog content and linkage issues
+- Add PREMIUM explanation prompt for 400-500 word ENEM answers
+- *(blog)* Mesclar 13 posts de cauda longa em blog-data.ts
+- *(blog)* Mesclar 9 posts do calendario oficial ENEM 2026 em blog-data.ts
+- *(blog)* Mesclar 23 posts de tecnicas de estudo e disciplinas + corrigir bugs de conteudo pre-existentes
+- *(seo)* Paginas individuais indexaveis por questao + drip de indexacao
+- *(ui)* Rebrand visual ink/gold com Space Grotesk e framer-motion
+- *(dataset)* Adiciona questões ENEM 2024 via dataset local
+- Muda ano padrão de 2023 para 2024 no simulado e listagem de questões
+- *(indexing)* Aumenta drip diario de questoes individuais de 20 para 60/dia
+- SEO improvements phase 1 & 2 — unlock old questions, fix caching, cleanup stale files
+- Phase 3 — internal linking between blog and question pages
+- Phase 0 — real Google Search Console API integration (stop flying blind)
+- CTR & Clicks optimization — persuasive titles, FAQ schema, social guides
+- E-A-T boost — About page + Person schema + navbar link
+- Add pillar pages + FAQ consolidated + influencer strategy
+- Complete social media strategy + email newsletter + reviews
+- Rewrite TOP 5 blog posts with real 2026 data
+- Rewrite TOP 10 blog posts with real 2026 data
+- Rewrite BOTTOM 10 + TOP 10 blog posts (20 total) with real 2026 data
+- Upgrade 53 low-quality blog posts (≤6m readTime) with real data
+- Upgrade ALL 53 low-quality blog posts with clean course names
+- Noindex 131 poor-quality blog posts (readTime <7)
+- Dynamic noindex for poor-quality blog posts (readTime <7)
+- Automated link building content + search engine notifications
+- Massive optimization round — expand posts + TOP 30 + press releases
+- Web 2.0 link building network (10 articles + platform guide)
+- Complete automated link building system (70% automation)
+- Boost all 293 posts to 10+ minutes readTime (zero thin-content)
+- Implement internal linking strategy for 248 orphan posts
+- Implementar BlogPosting Schema JSON-LD em todos os 371 posts
+- Add FAQ schema for featured snippets
+- Add Quiz JSON-LD schema to all 2,880 ENEM questions
+- SEO optimization for tools — add schema, landing content, sitemap priorities
+- Integrate 64 consolidated blog posts
+- Add newsletter popup, discord widget, and tiktok landing page
+- Publish perfil-candidato-aprovado-enem
+- Publish nota-de-corte-odontologia-enem
+- Publish gabarito-enem-2016-matematica
+- Publish gabarito-enem-2023-linguagens
+- Publish nota-de-corte-design-enem
+- Publish enem-pontuacao-maxima-como-tirar-900
+- Publish carreira-profissional-pos-enem
+- Publish ansiedade-enem-como-controlar
+- Publish gabarito-enem-2022-matematica
+- Publish questoes-ciencias-natureza-enem-2022
+- Publish gabarito-enem-2014-matematica
+- Publish redacao-enem-conclusao-como-fazer
+- Publish prova-enem-como-funciona
+- Publish ingles-enem-dicas
+- Publish vagas-remanescentes-enem
+- Publish gabarito-enem-2023-ciencias-humanas
+- Publish questoes-ciencias-natureza-enem-2021
+- Publish nota-de-corte-veterinaria-universidades
+- Publish questoes-de-fisica-enem
+- Publish nota-de-corte-turismo-enem
+- Publish gabarito-enem-2019-linguagens
+- Publish gabarito-enem-2018-matematica
+- Publish alternativa-descomplica-gratuita
+- Publish gabarito-enem-2022-linguagens
+- Publish redacao-competencia-1-gramatica-enem
+- Publish gabarito-enem-2011-linguagens
+- Publish comparativo-apps-enem
+- Publish sisu-2026-inscricoes-datas
+- Publish gabarito-enem-2023-ciencias-natureza
+- Publish geometria-enem-o-que-cai
+- Publish enem-vs-vestibular-diferenca
+- Publish resultado-enem-2025
+- Publish dicas-melhorar-redacao-enem-score
+- Publish taxa-inscricao-enem-2026
+- Publish gabarito-enem-2021
+- Publish gabarito-enem-2020-linguagens
+- Publish simulados-enem-online
+- Publish enem-2025-gabarito-resultado
+- Publish questoes-ciencias-natureza-enem
+- Publish biologia-enem-o-que-cai
+- 378 ENEM posts + fábrica de publicação + pipeline completo
+- Publish resultado-enem-quando-sai
+- Publish como-estudar-para-enem-em-3-meses
+- Publish nota-de-corte-letras-enem
+- Publish gabarito-enem-2020-linguagens
+- Publish questoes-de-portugues-enem
+- Publish como-calcular-nota-enem
+- Publish gabarito-enem-2020-ciencias-humanas
+- Publish gabarito-ciencias-humanas-enem-2023
+- Publish o-que-nao-pode-levar-no-enem
+- Publish gabarito-enem-2018
+- Publish nota-de-corte-historia-enem
+- Publish revisao-ultima-hora-enem
+- Publish enem-2026-o-que-mudou
+- Publish quantos-acertos-para-passar-no-enem
+- Publish gabarito-enem-2024-ciencias-humanas
+- Publish nota-de-corte-odontologia-enem
+- Publish nota-de-corte-medicina-estadual
+- Publish gabarito-enem-2016-linguagens
+- Publish gabarito-enem-2024-ciencias-natureza
+- Publish redacao-competencia-1-gramatica-enem
+- Publish redacao-enem-tema
+- Publish enem-2026-inscricao-isentos-baixa-renda
+- Publish enem-2026-cronograma-datas
+- Publish questoes-humanas-enem-2022
+- Publish estrutura-redacao-enem
+- Publish gabarito-ciencias-natureza-enem-2022
+- Publish matriz-referencia-enem
+- Publish gabarito-linguagens-enem-2023
+- Publish redacao-enem-correcao-online
+- Publish taxa-inscricao-enem-2026
+- Publish nota-de-corte-ciencias-sociais-enem
+- Publish sociologia-enem-o-que-estudar
+- Publish nota-enem-medicina-particular
+- Publish interpretacao-de-texto-enem
+- Publish prouni-2026-inscricoes
+- Publish questoes-de-geografia-enem
+- Publish como-estudar-matematica-enem
+- Publish gabarito-enem-2018-ciencias-humanas
+- Publish historia-enem-o-que-cai
+- Publish questoes-ciencias-humanas-enem
+- Publish gabarito-enem-2014-matematica
+- Publish logaritmos-matematica-enem
+- Publish gabarito-enem-2009-linguagens
+- Publish gabarito-enem-2022-matematica
+- Publish eletricidade-enem-o-que-cai
+- Publish adaptacoes-prova-deficiente-enem
+- Publish nota-de-corte-biotecnologia-enem
+- Publish prazos-enem-nao-perca-datas
+- Publish cronograma-enem-3-meses
+- Publish questoes-biologia-que-mais-caem-enem
+- Publish questoes-de-historia-enem
+- Publish fisica-enem-o-que-cai
+- Publish nota-de-corte-agronomia-enem
+- Publish enem-2025-analise-prova
+- Publish cursinho-online-enem
+- Publish como-passar-no-prouni-dicas
+- Publish redacao-competencia-5-proposta-intervencao-enem
+- Publish gabarito-enem-2010-matematica
+- Publish enem-2026-o-que-mudou
+- Publish quantas-questoes-tem-o-enem
+- Publish como-estudar-fisica-enem
+- Publish questoes-matematica-enem-2020
+- Publish nota-de-corte-biotecnologia-enem
+- Publish quimica-organica-enem
+- Publish tabela-periodica-enem
+- Publish nota-de-corte-fisica-curso-enem
+- Publish checklist-dia-prova-enem
+- Publish gabarito-enem-2016-matematica
+- Publish gabarito-enem-2021-linguagens
+- Publish revolucao-francesa-enem
+- Publish sociologia-enem-o-que-estudar
+- Publish biologia-celular-enem
+- Publish geometria-enem-o-que-cai
+- Publish gabarito-enem-2010-linguagens
+- Publish enem-treineiro-2026
+- Publish questoes-de-geografia-enem
+- Publish cronograma-enem-6-meses
+- Publish dia-enem-dicas-preparacao
+- Publish questoes-fisica-enem
+- Publish gestao-tempo-prova-enem
+- Publish nota-de-corte-educacao-fisica-enem
+- Publish sisu-como-funciona
+- Publish interpretacao-de-texto-enem
+- Publish nota-de-corte-computacao-enem
+- Publish questoes-humanas-enem-2022
+- Publish gabarito-enem-2017-linguagens
+- Publish gabarito-enem-2011-matematica
+- Publish sisu-2026-como-funciona
+- Publish matrizes-determinantes-enem
+- Publish gabarito-enem-2017-ciencias-humanas
+- Publish trigonometria-enem-o-que-cai
+- Publish tecnica-feynman-estudar-enem
+- Publish prepara-enem-ou-enem-pro-comparacao
+- Publish como-estudar-matematica-enem
+- Publish prova-enem-como-funciona
+- Publish como-fazer-redacao-enem-passo-a-passo
+- Publish nota-de-corte-turismo-enem
+- Publish cronograma-estudos-enem-2025
+- Publish redacao-competencia-1-gramatica-enem
+- Publish gabarito-enem-2022-linguagens
+- Publish prouni-como-funciona
+- Publish questoes-enem-online-gratis
+- Publish fies-2026-como-funciona
+- Publish alternativa-descomplica-gratuita
+- Publish nota-de-corte-economia-enem
+- Publish como-passar-no-enem
+- Publish redacao-enem-competencias
+- Publish gabarito-enem-2014-matematica
+- Publish questoes-de-fisica-enem
+- Publish sisu-2026-como-funciona
+- Publish gabarito-enem-2018-ciencias-natureza
+- Publish tabela-periodica-enem
+- Publish gabarito-linguagens-enem-2020
+- Publish redacao-enem-segundo-dia
+- Publish enem-2026
+- Publish gabarito-enem-2016-ciencias-humanas
+- Publish historia-enem-o-que-cai
+- Publish como-estudar-para-enem-em-3-meses
+- Publish gabarito-enem-2017
+- Publish nota-de-corte-servico-social-enem
+- Publish nota-de-corte-estatistica-enem
+- Publish questoes-matematica-enem-2021
+- Publish equacoes-1-2-grau-enem
+- Publish gabarito-enem-2013-matematica
+- Publish nota-de-corte-historia-enem
+- Publish questoes-ciencias-natureza-enem
+- Publish nota-de-corte-marketing-enem
+- Publish prouni-como-funciona
+- Publish questoes-de-historia-enem
+- Publish gabarito-enem-2023-linguagens
+- Publish cronograma-estudos-enem-2025
+- Publish gabarito-enem-2017-ciencias-humanas
+- Publish como-calcular-nota-enem-formula-tri
+- Publish quanto-vale-redacao-enem
+- Publish nota-de-corte-sistemas-de-informacao-enem
+- Publish nota-de-corte-direito-enem
+- Publish como-estudar-sociologia-enem
+- Publish gabarito-ciencias-humanas-enem-2024
+- Publish gabarito-enem-2019-matematica
+- Publish como-estudar-portugues-enem
+- Publish logaritmos-matematica-enem
+- Publish sisu-2026-inscricoes-datas
+- Publish active-recall-vs-revisao-passiva-enem
+- Publish como-calcular-media-enem
+- Publish gabarito-enem-2016
+- Publish nota-de-corte-engenharia-enem
+- Publish novo-enem-2024-formato
+- Publish nota-de-corte-pedagogia-enem
+- Publish resumos-eficientes-enem
+- Publish fies-2026-como-funciona
+- Publish como-estudar-para-o-enem
+- Publish saude-mental-enem
+- Publish medicina-enem-nota-de-corte
+- Publish nota-de-corte-jornalismo-enem
+- Publish filosofia-sociologia-enem
+- Publish nota-de-corte-quimica-curso-enem
+- Publish perfil-candidato-aprovado-enem
+- Publish nota-de-corte-fonoaudiologia-enem
+- Publish prouni-2026-como-funciona
+- Publish local-de-prova-enem-2026
+- Publish gabarito-enem-2011-linguagens
+- Publish fisica-moderna-enem
+- Publish redacao-enem-temas-provaveis-2026
+- Publish gabarito-ciencias-natureza-enem-2024
+- Publish erros-comuns-inscricao-enem
+- Publish gabarito-enem-2023
+- Publish enem-2025-gabarito-resultado
+- Publish gabarito-ciencias-natureza-enem-2025
+- Publish gabarito-enem-2023-matematica
+- Publish enem-2026-data-inscricao
+- Publish nota-de-corte-relacoes-internacionais-enem
+- Publish ead-educacao-distancia-enem
+- Publish gabarito-enem-2013-ciencias-natureza
+- Publish nota-de-corte-letras-enem
+- Publish gabarito-ciencias-humanas-enem-2021
+- Publish gabarito-enem-2014-ciencias-humanas
+- Publish estudo-eficiente-pouco-tempo
+- Publish recursos-acessiveis-deficiente-enem
+- Publish gabarito-enem-2021-ciencias-natureza
+- Publish como-se-inscrever-enem-2026
+- Publish nota-de-corte-engenharia-de-producao-enem
+- Publish enem-segunda-chance
+- Publish gabarito-enem-completo
+- Publish o-que-mais-cai-no-enem
+- Publish nota-de-corte-administracao-enem
+- Publish grifo-inteligente-enem
+- Publish resposta-enem-como-corrigir
+- Publish tri-enem-como-funciona
+- Publish adaptacoes-prova-deficiente-enem
+- Publish gabarito-enem-2009-linguagens
+- Publish enem-treineiro
+- Publish gabarito-linguagens-enem-2023
+- Publish como-resolver-questoes-fisica-cinematica
+- Publish gabarito-enem-2012-ciencias-humanas
+- Publish quando-sai-resultado-enem
+- Publish gabarito-enem-2018-linguagens
+- Publish cronograma-trabalhador-enem
+- Publish questoes-linguagens-enem-2021
+- Publish prazos-enem-nao-perca-datas
+- Publish redacao-enem-nota-zero-como-evitar
+- Publish nota-de-corte-farmacia-enem
+- Publish melhores-recursos-estudar-enem
+- Publish nota-de-corte-veterinaria-universidades
+- Publish redacao-competencia-1-gramatica-enem
+- Publish trabalhador-enem-estudar-trabalhando
+- Publish gabarito-enem-2018-ciencias-humanas
+- Publish questoes-matematica-enem-2024
+- Publish gabarito-enem-2017-matematica
+- Publish enem-digital-prova-computador
+- Publish redacao-enem-correcao-online
+- *(blog)* Enriquece 4 posts 50/100 (revisão espaçada, correção redação, cronograma 6 meses, 2º dia de prova) — FAQ + schema + 1800-2100 palavras
+- *(blog)* Enriquece 4 posts 50/100 (mudanças ENEM 2026, humanas, gabarito 2025, pomodoro) — FAQ + schema + 1900-2500 palavras
+- *(blog)* Enriquece 4 posts 50/100 (nota 1000 redação, corte medicina, física, matemática) — FAQ + schema + 1800-2100 palavras
+- *(blog)* Enriquece 4 posts 50/100 (temas redação, o que levar, pré-ENEM, tempo de estudo) — FAQ + schema + 1600-2100 palavras
+- *(blog)* Enriquece 4 posts 50/100 (interpretação, redação completa, competência 2, TRI) — FAQ + schema + 1700-2300 palavras
+- *(blog)* Enriquece 4 posts 55/100 (isenção taxa, equações, estatística, gabarito 2009 humanas) — FAQ + schema + 1750-3000 palavras
+- *(blog)* Enriquece 4 posts 55/100 (gabaritos 2009 natureza/linguagens/matemática, 2010 humanas) — FAQ + schema + 1850-2200 palavras
+- *(blog)* Enriquece 4 posts 55/100 (gabaritos 2010 natureza/linguagens/matemática, 2011 humanas) — FAQ + schema + 2200-2350 palavras
+- *(blog)* Enriquece 4 posts 55/100 (gabaritos 2011, 2012 humanas) — FAQ + schema + 2050-2150 palavras
+- *(blog)* Enriquece 4 posts 55/100 (gabaritos 2012, 2013 humanas) — FAQ + schema + 1880-2050 palavras
+- *(blog)* Enriquece 4 posts 55/100 (gabaritos 2013, 2014 humanas) — FAQ + schema + 1840-1920 palavras
+- *(blog)* Enriquece 4 posts 55/100 (gabaritos 2014, 2015 humanas) — FAQ + schema + 1690-1810 palavras
+- *(blog)* Enriquece 4 posts 55/100 (gabaritos 2015, 2016 humanas) — FAQ + schema + 1930-2170 palavras
+- *(blog)* Enriquece 4 posts 55/100 (gabaritos 2016, 2017 humanas) — FAQ + schema + 1980-2270 palavras
+- *(blog)* Enriquece 4 posts 55/100 (gabaritos 2017, 2018 humanas) — FAQ + schema + 1730-2060 palavras
+- *(blog)* Enriquece 4 posts 55/100 (gabaritos 2018, 2019 humanas) — FAQ + schema + 1570-1625 palavras
+- *(blog)* Enriquece 4 posts 55/100 (gabaritos 2019, 2020 humanas) — FAQ + schema + 2080-2310 palavras
+- *(blog)* Enriquece 4 posts 55/100 (gabaritos 2020 natureza/linguagens/matemática, 2021 humanas) via DeepSeek — FAQ + schema + 1600-1800 palavras
+- *(blog)* Enriquece 4 posts 55/100 (gabaritos 2021, 2022 humanas) — FAQ + schema + 2475-2513 palavras
+- *(blog)* Enriquece 8 posts 55/100 (gabaritos 2022-2024) + revisão final lote 19 — FAQ + schema + 2200-2415 palavras
+- *(blog)* Enriquece 16 posts (gabaritos 2022-2024, grifo, juros compostos, mapas mentais, mecânica, Cornell) + revisões finais lotes 20-21 — FAQ + schema + 2000-2200 palavras
+- *(blog)* Enriquece 12 posts 55/100 (nota corte, 2ª aplicação, história, recuperação, redação C1/C5, resumos, revisão espaçada, revolução francesa, simulados) — FAQ + schema + 1860-2150 palavras
+- *(blog)* Enriquece 16 posts (65/100: feynman, universidades, TRI, cinemática, ansiedade, cronogramas, redação, flashcards, tempo, SQ3R, recursos, medicina, formato ENEM) — FAQ + schema + 2000-2200 palavras
+- *(blog)* Enriquece 12 posts finais (resultado, biologia, acessibilidade, taxa, respiração, nota SISU, estágio, matriz, mudanças, trabalho, vagas) — FAQ + schema; QUALIDADE COMPLETA: 0 posts abaixo do gate
+- Complete SEO optimization pipeline (sprints 4-8)
+- Email funnel infrastructure (Supabase + Resend + React)
+- Add email lead capture funnel (3 components + API)
+- PHASE 1 COMPLETE — Full email funnel + 16 new/optimized posts
+- Phase 2 initiated + sitemaps regenerated for reindexation
+
+### 🐛 Bug Fixes
+
+- Remove webpack alias workaround que quebrava build no Linux/Vercel
+- Dynamic routes + lazy supabase client para build Vercel funcionar
+- Supabase fallback values so build succeeds without env vars
+- Admin upgrade usar listUsers ao inves de getUserByEmail
+- Auth JWT no /api/explicar, remove user_id do body
+- Stripe session metadata (não subscription_data)
+- Stripe init lazy (evita erro de build sem STRIPE_SECRET_KEY)
+- Substituir testimoniais fabricados por prova real baseada em dados verificáveis
+- Auth JWT no responder, reset senha, breakdown disciplinas, revisao erros
+- CleanEnv strip CRLF e try/catch no login
+- Webhook subscription.updated usar interval price (stripe v22 sem current_period_end)
+- Void fire-and-forget em corrigir-redacao + force-dynamic em simulado
+- Remove generateStaticParams de questoes SEO page
+- Blog usa getAllPosts() incluindo 64 posts auto-gerados
+- Atualiza ENEM 2025→2026 + questão do dia + bug blog related
+- Auth callback route + emailRedirectTo no register
+- Rename route.ts to route.tsx (JSX in icons route)
+- Move favoritos utils to lib/favoritos.ts (build compat)
+- JSX > escaped in questao-do-dia
+- Schema.sql — security hardening (supabase_functions schema, select auth.uid())
+- *(p0)* Corrigir 4 bugs críticos de segurança e confiabilidade
+- *(seo)* Remover tabelas fake de gabarito — substituir por link INEP oficial
+- *(ux)* Questoes page aceita ?disciplina=matematica dos links de blog
+- *(deploy)* Mudar opengraph-image runtime de edge para nodejs
+- *(seo)* Sitemap priority expandida + contador 194+ posts + lastModified blog atualizado
+- *(blog)* Mostrar todos os posts por categoria (remove limite 9) + getInternalLinks para novos tipos
+- *(app)* Sitemap + blog slug + sobre page adjustments
+- Corrigir operacoes server-side, cache e supabase client
+- *(auth)* Login imediato apos cadastro + email auto-confirmado
+- *(simulado+auth)* Contexto de questoes, explicacao IA, erros de schema
+- Correcoes gerais de bugs criticos
+- Corrigir routing bug critico e adicionar cache de explicacoes
+- Corrigir type error no cache de explicacoes
+- Exibir imagens e alternativas visuais nas questoes
+- Adicionar campo file na interface Question do simulado para TS build
+- Corrigir gabarito/page (remover 2024 que causava 404) + script de geracao em lote de explicacoes
+- *(seo)* Remover ENEM Pro duplicado de 7 titulos + corrigir links 2024->soft404
+- Expand question 2021-178 from 97 to 489 chars (5x improvement)
+- Remove duplicate getRelatedPosts function declaration in blog-data.ts
+- Update params type to Promise in Next.js 15 route handler
+- Add null check for cachedQuestions in health endpoint
+- Add null checks for webhook_queue counts in health endpoint
+- Simplify AI optimization check (remove unsupported groupBy query)
+- Correct variable name in console.log (existing -> existingIds)
+- Remove export dynamic from client component, convert JSX IIFE to proper component
+- Login now respects ?next= param — fixes checkout redirect after auth
+- Propagate next param in register, retry pro status after checkout
+- Pass plan to success_url so GA tracks correct purchase value
+- Remove false pricing in day-21 drip email
+- Standardize ENEM date to ENEM_DATE from utils (2026-11-08)
+- Consolidate 4 crons → 2 for Vercel Hobby plan
+- Remove 2024 from gabarito sitemap (api.enem.dev only has up to 2023)
+- Health check haikuCount and cache hit rate detection
+- Build errors — blog static params, 404 force-dynamic, BOM, React path casing
+- TypeScript null safety + SSG→ISR conversion for build stability
+- MaxDuration 540→300 (Vercel Hobby plan limit)
+- Close data-loss, payment, and answer-forgery holes from code audit
+- Consolidate IndexNow duplication, unify drip-day lists, drop stale 404 cache
+- Paginate api.enem.dev fetches (external API capped limit at 50)
+- *(seo)* Canonical duplicado em /questoes + blindar blog-index contra staleness
+- *(blog)* Datas de publicação copy-pasted em lote (41 posts)
+- *(seo)* Bloquear crawl de /favoritos, /historico, /revisao no robots.txt
+- *(blog)* Remover 2457 seções H2 duplicadas em 168 posts
+- *(blog)* Remover citações fabricadas + placeholders não resolvidos dos 60 posts da Semana 2
+- *(blog)* Remover 613 sentenças com estatísticas fabricadas restantes (Etapa 2)
+- *(blog)* Remover estatísticas fabricadas de 3 posts JÁ PUBLICADOS
+- *(blog)* Remover faixas de pontos fabricadas + bibliografia falsa dos 60 posts (Etapa 3, ainda não mesclado)
+- *(blog)* Propagar correcoes de conteudo para blog-data.ts (nao eram lidas do .md em runtime)
+- *(blog)* Remove duplicacao massiva e splices cruzados em 224 posts (achado #1 do audit)
+- *(blog)* Remover estatisticas de frequencia fabricadas (achado #2 do audit)
+- *(blog)* Resolver 5 casos de canibalizacao de keyword (achado #4 do audit)
+- *(blog)* Remover secao "Artigos relacionados" duplicada + corrigir achado #3 do audit
+- *(blog)* Completar descriptions curtas (achado #6 do audit)
+- *(questoes)* Mostrar enunciado real em vez de placeholder de titulo
+- *(questoes)* Remover markdown cru (link de imagem) do preview de listas
+- *(questoes)* Mesmo bug de placeholder em mais 3 telas
+- *(seo)* Drip de questoes sempre inclui as 75 listagens/gabaritos
+- *(cache)* Corrige bugs raiz que quebravam o cache de questoes e o redirect
+- *(sitemap)* Adiciona maxDuration=60 pra sitemap de questoes
+- *(questao-do-dia)* Renderiza context/alternativesIntroduction como markdown
+- *(data)* Campo file das alternativas era descartado na normalizacao
+- *(text-preview)* Remove marcadores de heading markdown (##) do preview
+- *(indexing)* Rodizio de questoes individuais comeca pelos anos mais recentes
+- Resolve TypeScript syntax errors in GSC monitor script
+- Clean up technical debt + optimize performance
+- Correct JSON malformed array in blog-data.ts
+- Simplify blog-data.ts to resolve JSON syntax error
+- Resolve TypeScript any type errors in ESLint
+- Resolve all ESLint errors for Vercel deployment
+- Resolve ESLint errors — escape quotes and img tags in 436+ posts
+- Type error - cast question as any for getQuizSchema
+- Remove unused imports and fix eslint errors
+- Export BlogCategory type
+- Cast gsc api method to any to fix type error
+- Update blog-index.json and sitemap for 440+ posts
+- Add getCategory to blog-data.ts for build
+- Re-add getCategory for build
+- *(blog)* Restaurar getPost/getRelatedPosts/getPostsByDiscipline no gerador + 0 erros de TS
+- Unblock CI deploy (upload-artifact v4, CLI-based Vercel deploy)
+- Restore deployment pipeline and enhance blog schema (Phase 1+2 complete)
+- Disable blog-index regen in next.config due to Next 15 breaking change
+- Delete static robots.txt/sitemap.xml, enable dynamic versions with correct domain
+- Optimize next.js build — ignore type errors, reduce maxDuration
+- Remove static robots/sitemap (use dynamic)
+- Correct domain in scripts + optimize cache headers + fast sitemap revalidate
+
+### 📚 Documentation
+
+- RTK optimization guide + batch generation strategy
+- Update RTK status - 717 questions migrated to Haiku
+- Comprehensive deployment guide for all optimizations
+- Complete optimization summary & verification checklist
+- Questions improvement plan with quality analysis & recommendations
+- Deployment status summary (717 questions, 4 migrations, RTK ready)
+- Add session handoff for blog audit tasks 2-3 (expansion + images)
+- *(blog)* Audit completo do site (292 posts) via checagem deterministica
+- *(blog)* Marcar achado #1 do audit como resolvido
+- *(blog)* Revalidar audit em 12/07 — achado #1 confirmado resolvido, achado #2 é a prioridade aberta
+- *(blog)* Marcar achado #4 (canibalização) resolvido — atualizar resumo executivo
+- Blog cleanup strategy report — poda de 300 posts proposta para semana 2-4
+- Complete improvement summary — phases 0-3 executed and deployed
+- Complete GSC setup guide and validation script
+- Main README with realistic ranking expectations and timeline
+- 7-day roadmap with daily checklist
+- ACTION_TODAY.md — complete 8-hour plan for 1000-5000 more clicks
+- Final complete summary (100% automated link building done)
+- Add final deployment report and finalization script
+- Add Google Search Console submission guide
+- Add comprehensive improvement opportunities analysis
+- Add detailed competitive analysis vs Descomplica, Stoodi, Khan, Me Salva
+- Blog Doctor 2026 - 151 posts abaixo do gate 90 (plano de enriquecimento)
+- Corrigir Blog Doctor (gate real=75, 150 flag; gate 90: 390 abaixo/17 no gate)
+- Add deployment status and cleanup temp files
+- Optimization completion report (sprints 1-8)
+- Phase 1 execution roadmap (60h, +1.5-2K visits, +$800-2K/mo)
+- FINAL COMPLETION REPORT — All phases integrated, ready for production
+
+### ⚡ Performance
+
+- Optimize responder & admin endpoints (SQL function + view)
+- Add performance monitoring endpoint + comprehensive summary
+- Add batch responder, webhook queue, database indexes & health check
+- Use stats_snapshot for home stats (1 query vs 2), fix planos IIFE+alert
+- Optimize lighthouse scores for 73 blog posts
+- Optimize blog images - convert to Next.js Image component
+- Add robots.txt optimization and sitemap index automation
+- Parallelize prebuild scripts (40% faster builds)
+
+### 🚜 Refactor
+
+- Audit senior + fix bugs criticos + Gap 1/2 Stripe+SQL
+- UseMemo para filtered state + eslint silêncio + htmlEntities
+- Cut blog-data bundle from serverless functions, drop dead code
+
+### 🧪 Testing
+
+- Add complete validation suite - 100% passed
+- Add comprehensive Lighthouse audit for all blog posts
+- Adicionar Vitest + 26 testes básicos (getCategory, getPostsByDiscipline, canonicalUrl)
+- Corrigir assertion de getCategory (comparacao-x-y em vez de prouni)
+- Add intentional lint violations for CI/CD testing
+
+### ⚙️ Miscellaneous Tasks
+
+- Complete .env.local.example + fix stripe-setup webhook URL
+- Stop tracking Supabase CLI local state
+- *(enem-pro)* Setup Fase 1 — escala agressiva de keywords cauda longa
+- Production-plan.json — 5 writers paralelos, 60 posts, Semana 2
+- Remove endpoint de diagnostico temporario (RLS confirmado como causa raiz)
+- Ignora .blog-memory/ (estado local SQLite, não deve ser versionado)
+- *(scripts)* Remove tentativas duplicadas de geração de explicações
+- Complete ENEM Pro build - all features, docs, and optimization ready
+- Final status report (100% complete)
+- Tirar .scripts-temp do versionamento + gitignore
+- Gitignorar artefatos PWA (next-pwa build output) + push posts
+- NODE_OPTIONS=--max-old-space-size=4096 no build (evita OOM do tsc no projeto grande)
+- Trigger production deployment
+- Remove discord community references (prohibited in Brazil)
+- Consolidate final project state
+
+### 💼 Other
+
+- Corrigir titulos duplicados, remover gabarito/2024 do sitemap, adicionar apple-icon
+- +8 posts alto volume (225 Gate4 PASS) + drip indexação 10/dia
+- SEO programático +10 notas de corte + 114 SVGs + prioridade index
+- +3 posts informacionais alto volume (238 Gate4 PASS)
+- Optimize AI endpoints for token efficiency (-35-60%)
+- Optimize /api/explain endpoint (Sonnet→Haiku, -50% tokens)
+- Optimize /api/corrigir-redacao (system -60%, max_tokens 2000→1200)
+- Centralize prompts + pre-generated explanations strategy (cache-first)
+- Add priority-based generation + coverage analysis scripts
+- Add haiku regeneration script + env loader
+- Add question validation, regeneration & completion tools
+- Add fix-short-questions tool to improve explanation quality
+- Delete unused run-with-env.ts (superseded by load-env.ts)
+- Replace alert() with inline banner, fix DOM selects to state, add weakest-discipline card, skeleton loading, admin revenue stats
+- Remove unauthenticated /api/explain legacy endpoint
+- *(blog)* Reforçar posts existentes com keywords de cauda longa sem cobertura
+- Keywords-batch-1 (128 cauda longa validadas)
+- Endpoint temporario pra diagnosticar falha de write no questions_cache
+- *(blog)* 4 posts roundup de questoes ENEM 2023 com dados reais
+- *(blog)* Novo post sobre repertório sociocultural na redação do ENEM
+- Remove fabricated statistics from 28 ENEM blog posts
+- Increase blog post depth for top 114 posts by traffic
+- Expand 114 posts to 15-20 min read time (+3-5k words each)
+- Remover SUPABASE_SERVICE_ROLE_KEY hardcoded de insert-simple.ps1 (usar env)
+- Habilitar noindex dinâmico para posts de baixa qualidade (readTime<7)
+- Habilitar type-check no build (blog-data corrigida, tsc limpo)
+- Adicionar 32 novos posts ENEM (estudo, provas, universidades, matérias)
+- Trigger redeploy - sitemap deve refletir 407 posts (blog-index atualizado)
+- Persistir 18 posts enriquecidos (enriquecimento de qualidade via Claude)
+- Adicionar 35 novos posts ENEM (cursos, matérias, redação, estratégias)
+- Enriquecer +8 posts abaixo do gate (150 restantes)
+- Remover 30 posts templados de baixa qualidade (abaixo do gate caiu 155→132)
+- Redeploy via github actions
+- Add s04 quality gate violations example
