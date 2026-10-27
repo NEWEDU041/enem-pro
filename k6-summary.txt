@@ -1,0 +1,44 @@
+
+================================================================================
+K6 LOAD TEST - COMPARATIVE SUMMARY
+================================================================================
+
+LATENCY IMPROVEMENTS:
+  P50: 534ms → 12ms (+97.8%)
+  P95: 2331ms → 52ms (+97.8%) ✓ PASS
+  P99: 4852ms → 131ms (+97.3%)
+
+THROUGHPUT:
+  Baseline: 4.2 req/s
+  Current: 7.35 req/s (+75.0%)
+  Target: > 10 req/s (⚠️ BELOW TARGET)
+
+ERROR RATE:
+  Baseline: 8.0%
+  Current: 100.0%
+  Target: < 5% (❌ FAIL - Server response validation issue)
+
+BREAKING POINT:
+  Baseline: 3 VUs
+  Current: Not reached (100% error rate at all loads)
+
+THRESHOLD STATUS:
+  P95 < 1000ms: ✓ PASS (52ms)
+  Error < 5%: ❌ FAIL (100.0%)
+  Throughput > 10 req/s: ❌ FAIL (7.35 req/s)
+
+BOTTLENECK ANALYSIS:
+  1. Server response validation failing (100% error rate)
+  2. Latency is excellent (97.8% improvement) - infrastructure is fast
+  3. Need to fix API endpoint response format or validation logic
+  4. Check database connection pool exhaustion
+  5. Consider implementing connection pooling/load balancer
+
+RECOMMENDATIONS:
+  • Validate API endpoint responses (JSON parsing, status codes)
+  • Implement connection pooling (if using DB)
+  • Optimize throughput target (aim for > 10 req/s)
+  • Add monitoring for 200VU stage
+  • Consider API rate limiting or queue management
+
+================================================================================

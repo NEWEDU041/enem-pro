@@ -62,8 +62,6 @@ export const POST = withErrorHandling(async (request: NextRequest) => {
     return NextResponse.json({ error: 'Stripe não configurado' }, { status: 503 })
   }
   
-  const supabase = createServerClient()
-  
   // L1 CACHE — Try Redis first for customer ID
   const cachedCustomerId = await getCached<{ stripe_customer_id: string }>('stripe_customer', userId)
   if (cachedCustomerId?.stripe_customer_id) {

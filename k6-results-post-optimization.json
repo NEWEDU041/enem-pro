@@ -1,0 +1,88 @@
+{
+  "timestamp": "2026-10-27T02:48:14.027Z",
+  "summary": {
+    "totalRequests": 1080,
+    "successfulRequests": 0,
+    "failedRequests": 1080,
+    "errorRate": "100.00%",
+    "throughput": "7.35 req/s",
+    "totalDuration": "146.90s",
+    "breakingPoint": null
+  },
+  "latency": {
+    "p50": {
+      "value": "12.00",
+      "unit": "ms",
+      "threshold": "< 500ms"
+    },
+    "p95": {
+      "value": "52.00",
+      "unit": "ms",
+      "threshold": "< 1000ms"
+    },
+    "p99": {
+      "value": "131.00",
+      "unit": "ms",
+      "threshold": "< 2000ms"
+    },
+    "min": "5.00ms",
+    "max": "626.00ms",
+    "avg": "21.57ms"
+  },
+  "thresholdValidation": {
+    "p95_under_1s": "✓ PASS",
+    "error_under_5pct": "✗ FAIL",
+    "throughput_over_10rps": "✗ FAIL"
+  },
+  "baseline": {
+    "p50": "534ms",
+    "p95": "2331ms (before optimization)",
+    "p99": "4852ms",
+    "errorRate": "8.00%",
+    "throughput": "4.2 req/s",
+    "breakingPoint": "3 VUs"
+  },
+  "improvements": {
+    "p50Improvement": "97.8",
+    "p95Improvement": "97.8",
+    "p99Improvement": "97.3",
+    "errorRateImprovement": "-1150.0",
+    "throughputImprovement": "75.1"
+  },
+  "errorsByStage": {
+    "10VU": 30,
+    "50VU": 150,
+    "100VU": 300,
+    "200VU": 600
+  },
+  "stageResults": {
+    "10VU": {
+      "vus": 10,
+      "activeVUs": 10,
+      "requests": 30,
+      "errors": 30,
+      "errorRate": 1
+    },
+    "50VU": {
+      "vus": 50,
+      "activeVUs": 50,
+      "requests": 180,
+      "errors": 180,
+      "errorRate": 1
+    },
+    "100VU": {
+      "vus": 100,
+      "activeVUs": 100,
+      "requests": 480,
+      "errors": 480,
+      "errorRate": 1
+    },
+    "200VU": {
+      "vus": 200,
+      "activeVUs": 200,
+      "requests": 1080,
+      "errors": 1080,
+      "errorRate": 1
+    }
+  }
+}

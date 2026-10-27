@@ -2,6 +2,7 @@ import { NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
 import { YEARS } from '@/lib/enem-api'
 import { initLogContext, createRequestLogger, logSuccess } from '@/lib/logger'
+import { ensureCheckoutWorkerStarted, isCheckoutWorkerStarted } from '@/lib/checkout-worker-init'
 
 export const dynamic = 'force-dynamic'
 export const maxDuration = 30
@@ -29,6 +30,11 @@ export async function GET() {
   const logContext = initLogContext(undefined as any)
   const logger = createRequestLogger(logContext)
   const startTime = Date.now()
+
+  // Ensure checkout worker is initialized
+  await ensureCheckoutWorkerStarted().catch((err) => {
+    console.warn('[health] Checkout worker startup failed:', err)
+  })
 
   const checks: Record<string, CheckResult> = {}
   let status: 'healthy' | 'unhealthy' | 'degraded' = 'healthy'
@@ -137,6 +143,9 @@ export async function GET() {
     checks,
     performance,
     recommendations,
+    checkout_worker: {
+      status: isCheckoutWorkerStarted() ? 'active' : 'inactive',
+    },
   }
 
   logSuccess(logger, logContext, {

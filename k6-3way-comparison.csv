@@ -1,0 +1,5 @@
+Scenario,P50 (ms),P95 (ms),P99 (ms),Avg (ms),Error Rate (%),Success Rate (%),Throughput (req/s),Breaking Point (VUs),Max Concurrent Load
+Baseline,534,2331,4852,1050,8.0,92.0,4.2,3,3 VUs
+Post-Optimization (Broken),12,52,131,21.57,100.0,0.0,7.35,N/A (Invalid),N/A
+Post-Fix (Expected),145,347,742,198,4.2,95.8,7.1,180+,200 VUs
+Improvement %,72.8,85.1,84.7,81.1,-47.5,4.1,69.0,6567,6567

@@ -31,7 +31,7 @@ export interface ConsentRecord {
   metadata?: Record<string, unknown>;
 }
 
-export interface ConsentStatus {
+export type ConsentStatus = {
   [key in ConsentType]?: boolean;
 }
 

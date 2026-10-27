@@ -13,10 +13,41 @@ interface CacheConfig {
 
 const CACHE_CONFIGS: Record<CacheType, CacheConfig> = {
   question: { type: 'question', ttl: 86400, namespace: 'q' }, // 24h
-  explanation: { type: 'explanation', ttl: 43200, namespace: 'exp' }, // 12h
+  explanation: { type: 'explanation', ttl: 86400, namespace: 'exp' }, // 24h (updated from 12h for aggressive caching)
   user_context: { type: 'user_context', ttl: 3600, namespace: 'ctx' }, // 1h
   stripe_customer: { type: 'stripe_customer', ttl: 3600, namespace: 'stripe_cust' }, // 1h
   stripe_price: { type: 'stripe_price', ttl: 86400, namespace: 'stripe_price' }, // 24h
+}
+
+// === PROMETHEUS METRICS ===
+
+interface CacheMetrics {
+  hits: number
+  misses: number
+  sets: number
+  errors: number
+  invalidations: number
+  totalLatency: number
+  requestCount: number
+}
+
+const metrics: Record<string, CacheMetrics> = {
+  explanation: { hits: 0, misses: 0, sets: 0, errors: 0, invalidations: 0, totalLatency: 0, requestCount: 0 },
+  question: { hits: 0, misses: 0, sets: 0, errors: 0, invalidations: 0, totalLatency: 0, requestCount: 0 },
+  user_context: { hits: 0, misses: 0, sets: 0, errors: 0, invalidations: 0, totalLatency: 0, requestCount: 0 },
+  stripe_customer: { hits: 0, misses: 0, sets: 0, errors: 0, invalidations: 0, totalLatency: 0, requestCount: 0 },
+  stripe_price: { hits: 0, misses: 0, sets: 0, errors: 0, invalidations: 0, totalLatency: 0, requestCount: 0 },
+}
+
+export function getMetrics(type?: CacheType) {
+  if (!type) return metrics
+  return metrics[type] || null
+}
+
+export function getHitRate(type: CacheType): number {
+  const m = metrics[type]
+  const total = m.hits + m.misses
+  return total === 0 ? 0 : (m.hits / total) * 100
 }
 
 // === SINGLETON REDIS CLIENT ===
@@ -94,22 +125,40 @@ export async function getCached<T>(
     return null
   }
 
+  const startTime = performance.now()
+
   try {
     const key = buildKey(type, id)
     const data = await client.get(key)
+    const latency = performance.now() - startTime
 
     if (data) {
+      metrics[type].hits++
+      metrics[type].totalLatency += latency
+      metrics[type].requestCount++
+      
       logger.debug({
         label: 'cache_hit',
         type,
         id,
         key,
+        latency_ms: Math.round(latency),
       })
       return JSON.parse(data) as T
     }
 
+    metrics[type].misses++
+    metrics[type].totalLatency += latency
+    metrics[type].requestCount++
+    
+    logger.debug({
+      label: 'cache_miss',
+      type,
+      id,
+    })
     return null
   } catch (e) {
+    metrics[type].errors++
     logger.warn({
       err: e,
       label: 'cache_get_error',
@@ -139,6 +188,7 @@ export async function setCached<T>(
     const serialized = JSON.stringify(value)
 
     await client.setex(key, config.ttl, serialized)
+    metrics[type].sets++
 
     logger.debug({
       label: 'cache_set',
@@ -150,6 +200,7 @@ export async function setCached<T>(
 
     return true
   } catch (e) {
+    metrics[type].errors++
     logger.warn({
       err: e,
       label: 'cache_set_error',
@@ -175,6 +226,7 @@ export async function invalidateCache(
   try {
     const key = buildKey(type, id)
     const deleted = await client.del(key)
+    metrics[type].invalidations++
 
     logger.debug({
       label: 'cache_invalidate',
@@ -186,6 +238,7 @@ export async function invalidateCache(
 
     return deleted === 1
   } catch (e) {
+    metrics[type].errors++
     logger.warn({
       err: e,
       label: 'cache_invalidate_error',
@@ -211,6 +264,10 @@ export async function invalidateCacheBatch(
     const keys = invalidations.map(({ type, id }) => buildKey(type, id))
     const deleted = await client.del(...keys)
 
+    invalidations.forEach(({ type }) => {
+      metrics[type].invalidations++
+    })
+
     logger.debug({
       label: 'cache_invalidate_batch',
       count: invalidations.length,
@@ -219,6 +276,9 @@ export async function invalidateCacheBatch(
 
     return deleted
   } catch (e) {
+    invalidations.forEach(({ type }) => {
+      metrics[type].errors++
+    })
     logger.warn({
       err: e,
       label: 'cache_invalidate_batch_error',

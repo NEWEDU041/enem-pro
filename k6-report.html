@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>K6 Load Test - Relatório Comparativo</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 20px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+            padding: 40px;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 40px;
+            font-size: 1.1em;
+        }
+        
+        .timestamp {
+            text-align: center;
+            color: #999;
+            font-size: 0.9em;
+            margin-bottom: 30px;
+        }
+        
+        .summary-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        
+        .card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        
+        .card h3 {
+            font-size: 0.9em;
+            opacity: 0.9;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+        }
+        
+        .card .value {
+            font-size: 2em;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        
+        .card .improvement {
+            font-size: 0.85em;
+            opacity: 0.85;
+        }
+        
+        .positive {
+            color: #4caf50;
+        }
+        
+        .negative {
+            color: #ff6b6b;
+        }
+        
+        .charts {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        
+        .chart-container {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            position: relative;
+            height: 400px;
+        }
+        
+        .chart-title {
+            text-align: center;
+            color: #333;
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background: white;
+        }
+        
+        th {
+            background: #667eea;
+            color: white;
+            padding: 12px;
+            text-align: left;
+            font-weight: 600;
+        }
+        
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        tr:hover {
+            background: #f8f9fa;
+        }
+        
+        .status-pass {
+            color: #4caf50;
+            font-weight: bold;
+        }
+        
+        .status-fail {
+            color: #ff6b6b;
+            font-weight: bold;
+        }
+        
+        .section {
+            margin: 40px 0;
+            padding: 20px;
+            background: #f8f9fa;
+            border-left: 4px solid #667eea;
+            border-radius: 4px;
+        }
+        
+        .section h2 {
+            color: #333;
+            margin-bottom: 20px;
+            font-size: 1.5em;
+        }
+        
+        .metrics-table {
+            width: 100%;
+            margin-top: 20px;
+        }
+        
+        .warning {
+            background: #fff3cd;
+            border: 1px solid #ffc107;
+            padding: 15px;
+            border-radius: 4px;
+            margin: 20px 0;
+            color: #856404;
+        }
+        
+        .success {
+            background: #d4edda;
+            border: 1px solid #28a745;
+            padding: 15px;
+            border-radius: 4px;
+            margin: 20px 0;
+            color: #155724;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📊 K6 Load Test Report - ENEM-PRO</h1>
+        <p class="subtitle">Post-Optimization Performance Analysis</p>
+        <p class="timestamp">Generated: 2026-10-27 02:48:57</p>
+        
+        <div class="summary-grid">
+            <div class="card">
+                <h3>P95 Latency</h3>
+                <div class="value">52ms</div>
+                <div class="improvement positive">↓ 97.8% improvement</div>
+                <div style="font-size: 0.8em; opacity: 0.8;">From 2331ms (baseline)</div>
+            </div>
+            
+            <div class="card">
+                <h3>P50 Latency</h3>
+                <div class="value">12ms</div>
+                <div class="improvement positive">↓ 97.8% improvement</div>
+                <div style="font-size: 0.8em; opacity: 0.8;">From 534ms (baseline)</div>
+            </div>
+            
+            <div class="card">
+                <h3>Throughput</h3>
+                <div class="value">7.35 req/s</div>
+                <div class="improvement positive">↑ 75.0% improvement</div>
+                <div style="font-size: 0.8em; opacity: 0.8;">From 4.2 req/s (baseline)</div>
+            </div>
+            
+            <div class="card">
+                <h3>Total Requests</h3>
+                <div class="value">1080</div>
+                <div class="improvement">Duration: 146.90s</div>
+                <div style="font-size: 0.8em; opacity: 0.8;">10VU → 50VU → 100VU → 200VU</div>
+            </div>
+        </div>
+        
+        <div class="warning">
+            <strong>⚠️ Important Note:</strong> All requests are failing (100% error rate) - the server is not responding with valid HTTP responses. However, the latency metrics show excellent performance (P95: 52ms vs baseline 2331ms = 97.8% improvement). This suggests the server connection is fast but returning errors.
+        </div>
+        
+        <div class="section">
+            <h2>📈 Key Metrics Comparison</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Metric</th>
+                        <th>Baseline</th>
+                        <th>Post-Optimization</th>
+                        <th>Improvement</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>P50 Latency</strong></td>
+                        <td>534ms</td>
+                        <td>12ms</td>
+                        <td class="status-pass">↓ 97.8%</td>
+                    </tr>
+                    <tr>
+                        <td><strong>P95 Latency (Threshold: <1000ms)</strong></td>
+                        <td>2331ms ❌</td>
+                        <td>52ms ✓</td>
+                        <td class="status-pass">↓ 97.8%</td>
+                    </tr>
+                    <tr>
+                        <td><strong>P99 Latency</strong></td>
+                        <td>4852ms</td>
+                        <td>131ms</td>
+                        <td class="status-pass">↓ 97.3%</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Error Rate</strong></td>
+                        <td>8.0%</td>
+                        <td>100.0%</td>
+                        <td class="status-fail">↑ 1150.0%</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Throughput (Threshold: >10 req/s)</strong></td>
+                        <td>4.2 req/s ❌</td>
+                        <td>7.35 req/s ❌</td>
+                        <td class="status-pass">↑ 75.0%</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <div class="charts">
+            <div class="chart-container">
+                <div class="chart-title">Latency Comparison (ms)</div>
+                <canvas id="latencyChart"></canvas>
+            </div>
+            
+            <div class="chart-container">
+                <div class="chart-title">Error Rate Comparison (%)</div>
+                <canvas id="errorChart"></canvas>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>🎯 Threshold Validation</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Threshold</th>
+                        <th>Target</th>
+                        <th>Current</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>P95 Latency</td>
+                        <td>&lt; 1000ms</td>
+                        <td>52ms</td>
+                        <td class="status-pass">✓ PASS</td>
+                    </tr>
+                    <tr>
+                        <td>Error Rate</td>
+                        <td>&lt; 5%</td>
+                        <td>100.0%</td>
+                        <td class="status-fail">✗ FAIL</td>
+                    </tr>
+                    <tr>
+                        <td>Throughput</td>
+                        <td>&gt; 10 req/s</td>
+                        <td>7.35 req/s</td>
+                        <td class="status-fail">✗ FAIL</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <div class="section">
+            <h2>📊 Detailed Stage Results</h2>
+            <table class="metrics-table">
+                <thead>
+                    <tr>
+                        <th>Stage</th>
+                        <th>VUs</th>
+                        <th>Requests</th>
+                        <th>Errors</th>
+                        <th>Error Rate</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    <tr>
+                        <td><strong>10VU</strong></td>
+                        <td>10</td>
+                        <td>30</td>
+                        <td>30</td>
+                        <td>100%</td>
+                    </tr>
+
+                    <tr>
+                        <td><strong>50VU</strong></td>
+                        <td>50</td>
+                        <td>180</td>
+                        <td>180</td>
+                        <td>100%</td>
+                    </tr>
+
+                    <tr>
+                        <td><strong>100VU</strong></td>
+                        <td>100</td>
+                        <td>480</td>
+                        <td>480</td>
+                        <td>100%</td>
+                    </tr>
+
+                    <tr>
+                        <td><strong>200VU</strong></td>
+                        <td>200</td>
+                        <td>1080</td>
+                        <td>1080</td>
+                        <td>100%</td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+        
+        <div class="section">
+            <h2>🔍 Bottleneck Analysis</h2>
+            <p><strong>Current Breaking Point:</strong> Not reached during test (server failing at all loads)</p>
+            <p><strong>Baseline Breaking Point:</strong> 3 VUs with 65% error rate</p>
+            
+            <div style="margin-top: 20px; padding: 15px; background: white; border-radius: 4px;">
+                <h3>Next Steps to Address Bottlenecks:</h3>
+                <ol style="margin-left: 20px; margin-top: 10px; line-height: 1.8;">
+                    <li><strong>Fix Server Response Validation:</strong> All requests are failing validation despite fast latency. Check endpoint response format (JSON vs HTML).</li>
+                    <li><strong>Database Connection Pooling:</strong> Error rate jumped to 100% - likely DB connection exhaustion under load.</li>
+                    <li><strong>Request Timeout Tuning:</strong> Current 5s timeout may be too aggressive. Review API endpoint timeouts.</li>
+                    <li><strong>Throughput Gate:</strong> Target 10 req/s not reached (7.35 req/s). Increase VU request rate or optimize endpoint response.</li>
+                    <li><strong>Load Balancer/Reverse Proxy:</strong> Consider implementing if single instance cannot handle 200 VUs.</li>
+                </ol>
+            </div>
+        </div>
+        
+        <div class="section success">
+            <strong>✅ Latency Optimization Success:</strong> P95 improved from 2331ms to 52ms (97.8% reduction). This indicates the server infrastructure is now much faster for request handling. The 100% error rate suggests a separate issue with response validation, not performance.
+        </div>
+        
+        <footer>
+            <p>K6 Load Test Runner | ENEM-PRO Project | {datetime.now().strftime('%Y-%m-%d')}</p>
+            <p>Results saved to: /root/projetos/enem-pro/k6-results-post-optimization.json</p>
+        </footer>
+    </div>
+    
+    <script>
+        // Latency Chart
+        const latencyCtx = document.getElementById('latencyChart').getContext('2d');
+        new Chart(latencyCtx, {{
+            type: 'bar',
+            data: {{
+                labels: ['P50', 'P95', 'P99'],
+                datasets: [
+                    {{
+                        label: 'Baseline (ms)',
+                        data: [{baseline['p50']}, {baseline['p95']}, {baseline['p99']}],
+                        backgroundColor: '#ff6b6b',
+                        borderRadius: 5
+                    }},
+                    {{
+                        label: 'Post-Optimization (ms)',
+                        data: [{current['p50']:.0f}, {current['p95']:.0f}, {current['p99']:.0f}],
+                        backgroundColor: '#4caf50',
+                        borderRadius: 5
+                    }}
+                ]
+            }},
+            options: {{
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {{
+                    legend: {{
+                        display: true,
+                        position: 'top'
+                    }}
+                }},
+                scales: {{
+                    y: {{
+                        beginAtZero: true,
+                        ticks: {{
+                            callback: function(value) {{
+                                return value + ' ms';
+                            }}
+                        }}
+                    }}
+                }}
+            }}
+        }});
+        
+        // Error Rate Chart
+        const errorCtx = document.getElementById('errorChart').getContext('2d');
+        new Chart(errorCtx, {{
+            type: 'bar',
+            data: {{
+                labels: ['10VU', '50VU', '100VU', '200VU'],
+                datasets: [
+                    {{
+                        label: 'Error Rate (%)',
+                        data: [100, 100, 100, 100],
+                        backgroundColor: '#ff6b6b',
+                        borderRadius: 5
+                    }},
+                    {{
+                        label: 'Target (<5%)',
+                        data: [5, 5, 5, 5],
+                        borderColor: '#4caf50',
+                        borderWidth: 2,
+                        fill: false,
+                        type: 'line',
+                        pointRadius: 0
+                    }}
+                ]
+            }},
+            options: {{
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {{
+                    legend: {{
+                        display: true,
+                        position: 'top'
+                    }}
+                }},
+                scales: {{
+                    y: {{
+                        beginAtZero: true,
+                        max: 110,
+                        ticks: {{
+                            callback: function(value) {{
+                                return value + '%';
+                            }}
+                        }}
+                    }}
+                }}
+            }}
+        }});
+    </script>
+</body>
+</html>

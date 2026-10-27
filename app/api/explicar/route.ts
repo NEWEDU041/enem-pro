@@ -124,17 +124,17 @@ export async function POST(request: NextRequest) {
 
   const userIsPro = isPro(sub)
 
-  const rl = await checkRateLimit(userId, supabase, userIsPro)
-  if (!rl.ok) {
+  const rateLimitTier = await checkRateLimit(userId, supabase, userIsPro)
+  if (!rateLimitTier.ok) {
     logError(logger, logContext, {
       status: 429,
       endpoint: '/api/explicar',
       error: 'Rate limit exceeded',
-      metadata: { retryAfterMs: rl.retryAfterMs },
+      metadata: { retryAfterMs: rateLimitTier.retryAfterMs },
     })
     return NextResponse.json(
       { error: 'Muitas requisições. Aguarde alguns segundos.' },
-      { status: 429, headers: { 'Retry-After': String(Math.ceil(rl.retryAfterMs / 1000)) } }
+      { status: 429, headers: { 'Retry-After': String(Math.ceil(rateLimitTier.retryAfterMs / 1000)) } }
     )
   }
 

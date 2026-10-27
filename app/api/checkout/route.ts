@@ -1,18 +1,23 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { requireAuth } from '@/lib/auth'
-import { getStripe } from '@/lib/stripe'
 import { cleanEnv } from '@/lib/utils'
 import { withErrorHandling } from '@/lib/api-helpers'
 import { checkUserRateLimit } from '@/lib/user-rate-limit'
 import { initLogContext, createRequestLogger, logSuccess, logError } from '@/lib/logger'
 import { CheckoutRequestSchema, validateRequestBody, formatValidationError } from '@/lib/validation'
 import { getCached, setCached } from '@/lib/cache'
+import { enqueueCheckout } from '@/lib/checkout-queue'
 
 export const dynamic = 'force-dynamic'
+
+// Price IDs from environment (must be set)
+const STRIPE_MONTHLY_PRICE_ID = process.env.STRIPE_MONTHLY_PRICE_ID || 'price_monthly_placeholder'
+const STRIPE_ANNUAL_PRICE_ID = process.env.STRIPE_ANNUAL_PRICE_ID || 'price_annual_placeholder'
 
 export const POST = withErrorHandling(async (request: NextRequest) => {
   const logContext = initLogContext(request)
   const logger = createRequestLogger(logContext)
+  const startTime = Date.now()
   
   // INPUT VALIDATION
   const validation = await validateRequestBody(request, CheckoutRequestSchema)
@@ -67,43 +72,66 @@ export const POST = withErrorHandling(async (request: NextRequest) => {
     )
   }
 
-  const stripe = getStripe()
-  logContext.userId = userId
-  logContext.email = email
-
-  const priceId = plan === 'annual' ? annualPriceId : monthlyPriceId
+  const priceId = plan === 'annual' ? STRIPE_ANNUAL_PRICE_ID : STRIPE_MONTHLY_PRICE_ID
 
   const origin = cleanEnv(request.headers.get('origin') ?? undefined)
     || cleanEnv(process.env.NEXT_PUBLIC_SITE_URL)
     || 'https://questoesenem.pro'
 
   // Cache price IDs for faster future requests (async, non-blocking)
-  setCached('stripe_price', 'monthly', { price_id: monthlyPriceId }).catch(e => {
+  setCached('stripe_price', 'monthly', { price_id: STRIPE_MONTHLY_PRICE_ID }).catch(e => {
     console.error('[checkout] redis cache set failed for monthly:', String(e))
   })
-  setCached('stripe_price', 'annual', { price_id: annualPriceId }).catch(e => {
+  setCached('stripe_price', 'annual', { price_id: STRIPE_ANNUAL_PRICE_ID }).catch(e => {
     console.error('[checkout] redis cache set failed for annual:', String(e))
   })
 
-  const session = await stripe.checkout.sessions.create({
-    mode: 'subscription',
-    payment_method_types: ['card'],
-    line_items: [{ price: priceId, quantity: 1 }],
-    client_reference_id: userId,
-    customer_email: email,
-    metadata: { user_id: userId, plan },
-    subscription_data: { metadata: { user_id: userId } },
-    success_url: `${origin}/dashboard?upgrade=success&plan=${plan}`,
-    cancel_url: `${origin}/planos`,
-    locale: 'pt-BR',
-  })
+  try {
+    // ENQUEUE CHECKOUT JOB (ASYNC)
+    // This returns immediately without waiting for Stripe API call
+    const { jobId, statusUrl } = await enqueueCheckout({
+      userId,
+      email,
+      plan,
+      priceId,
+      origin,
+    })
 
-  logSuccess(logger, logContext, {
-    status: 200,
-    endpoint: '/api/checkout',
-    message: 'Checkout session created',
-    metadata: { plan, sessionId: session.id },
-  })
+    const responseTime = Date.now() - startTime
 
-  return NextResponse.json({ url: session.url })
+    logSuccess(logger, logContext, {
+      status: 202,
+      endpoint: '/api/checkout',
+      message: 'Checkout job enqueued for async processing',
+      metadata: {
+        plan,
+        jobId,
+        responseTimeMs: responseTime,
+      },
+    })
+
+    // Return HTTP 202 (Accepted) with job ID and status URL
+    // Client can poll /api/checkout/status/:jobId to get the session URL
+    return NextResponse.json(
+      {
+        jobId,
+        statusUrl,
+        message: 'Checkout job enqueued. Poll statusUrl for completion.',
+      },
+      { status: 202 }
+    )
+  } catch (error) {
+    const errorMsg = error instanceof Error ? error.message : String(error)
+    logError(logger, logContext, {
+      status: 500,
+      endpoint: '/api/checkout',
+      error: 'Failed to enqueue checkout job',
+      metadata: { details: errorMsg },
+    })
+
+    return NextResponse.json(
+      { error: 'Failed to process checkout request' },
+      { status: 500 }
+    )
+  }
 })

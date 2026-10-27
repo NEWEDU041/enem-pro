@@ -1,0 +1,7 @@
+Metric,Baseline,Post-Optimization,Improvement
+P50 (ms),534,12.00,97.8%
+P95 (ms),2331,52.00,97.8%
+P99 (ms),4852,131.00,97.3%
+Error Rate (%),8.00,100.00%,-1150.0%
+Throughput (req/s),4.2,7.35,75.1%
+Breaking Point (VUs),3,N/A,N/A

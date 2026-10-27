@@ -15,17 +15,9 @@ import { v4 as uuidv4 } from 'uuid'
 // Create a singleton logger instance
 const pinoLogger = pino({
   level: process.env.LOG_LEVEL || 'info',
-  transport:
-    process.env.NODE_ENV === 'development'
-      ? {
-          target: 'pino-pretty',
-          options: {
-            colorize: true,
-            translateTime: 'SYS:standard',
-            ignore: 'pid,hostname',
-          },
-        }
-      : undefined, // Production: JSON to stdout
+  // Note: Removed pino-pretty transport for Next.js compatibility
+  // In development, logs are JSON and can be parsed by structured logging tools
+  // In production, JSON is sent to stdout for log aggregation services
   timestamp: pino.stdTimeFunctions.isoTime,
 })
 
