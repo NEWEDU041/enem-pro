@@ -2,13 +2,13 @@ import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
 import { requireAuth } from '@/lib/auth'
 import { FREE_DAILY_LIMIT } from '@/lib/utils'
-import { withErrorHandling } from '@/lib/api-helpers'
+import { withRateLimitAndErrorHandling } from '@/lib/api-helpers'
 import { fetchSingleQuestionCached } from '@/lib/questions-cache'
 import { ResponderRequestSchema, validateRequestBody } from '@/lib/validation'
 
 export const dynamic = 'force-dynamic'
 
-export const POST = withErrorHandling(async (request: NextRequest) => {
+export const POST = withRateLimitAndErrorHandling(async (request: NextRequest) => {
   const auth = await requireAuth(request)
   if (!auth.ok) return auth.response
   const { userId: user_id } = auth

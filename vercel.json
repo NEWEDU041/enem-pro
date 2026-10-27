@@ -1,5 +1,5 @@
 {
-  "regions": ["gru1"],
+  "regions": ["iad1", "iad1-eu-west-1", "gru1"],
   "crons": [
     {
       "path": "/api/cron/refresh-stats",
@@ -13,5 +13,19 @@
       "path": "/api/cron/gsc-weekly-report",
       "schedule": "0 9 * * 1"
     }
-  ]
+  ],
+  "functions": {
+    "api/**": {
+      "memory": 1024,
+      "maxDuration": 60
+    }
+  },
+  "buildCommand": "npm run prebuild && next build",
+  "env": {
+    "ENABLE_EDGE_CACHING": "true",
+    "MULTI_REGION_ENABLED": "true",
+    "PRIMARY_REGION": "gru1",
+    "FALLBACK_REGION": "iad1",
+    "EDGE_REGION": "iad1-eu-west-1"
+  }
 }

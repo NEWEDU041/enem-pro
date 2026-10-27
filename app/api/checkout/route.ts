@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { requireAuth } from '@/lib/auth'
 import { cleanEnv } from '@/lib/utils'
-import { withErrorHandling } from '@/lib/api-helpers'
+import { withRateLimitAndErrorHandling } from '@/lib/api-helpers'
 import { checkUserRateLimit } from '@/lib/user-rate-limit'
 import { initLogContext, createRequestLogger, logSuccess, logError } from '@/lib/logger'
 import { CheckoutRequestSchema, validateRequestBody, formatValidationError } from '@/lib/validation'
@@ -14,7 +14,7 @@ export const dynamic = 'force-dynamic'
 const STRIPE_MONTHLY_PRICE_ID = process.env.STRIPE_MONTHLY_PRICE_ID || 'price_monthly_placeholder'
 const STRIPE_ANNUAL_PRICE_ID = process.env.STRIPE_ANNUAL_PRICE_ID || 'price_annual_placeholder'
 
-export const POST = withErrorHandling(async (request: NextRequest) => {
+export const POST = withRateLimitAndErrorHandling(async (request: NextRequest) => {
   const logContext = initLogContext(request)
   const logger = createRequestLogger(logContext)
   const startTime = Date.now()

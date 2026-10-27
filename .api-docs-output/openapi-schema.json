@@ -1,0 +1,238 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "ENEM Pro API",
+    "description": "Comprehensive API for ENEM exam preparation, question retrieval, AI explanations, and educational features.",
+    "version": "1.0.0",
+    "contact": {
+      "name": "ENEM Pro Support",
+      "email": "api@enem-pro.com",
+      "url": "https://enem-pro.com/api/docs"
+    },
+    "license": {
+      "name": "Commercial License",
+      "url": "https://enem-pro.com/terms"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://enem-pro.com/api",
+      "description": "Production API"
+    },
+    {
+      "url": "http://localhost:3000/api",
+      "description": "Development API"
+    }
+  ],
+  "paths": {
+    "/questoes": {
+      "get": {
+        "tags": [
+          "Questions"
+        ],
+        "summary": "List ENEM Questions",
+        "operationId": "listQuestions",
+        "parameters": [
+          {
+            "name": "year",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "discipline",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "page",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "List of questions"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "429": {
+            "description": "Too many requests"
+          },
+          "500": {
+            "description": "Server error"
+          }
+        }
+      }
+    },
+    "/questoes/{id}": {
+      "get": {
+        "tags": [
+          "Questions"
+        ],
+        "summary": "Get Single Question",
+        "operationId": "getQuestion",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Question details"
+          },
+          "404": {
+            "description": "Not found"
+          },
+          "500": {
+            "description": "Server error"
+          }
+        }
+      }
+    },
+    "/explicar": {
+      "post": {
+        "tags": [
+          "Explanations"
+        ],
+        "summary": "Get AI Explanation",
+        "operationId": "getExplanation",
+        "responses": {
+          "200": {
+            "description": "Explanation generated"
+          },
+          "400": {
+            "description": "Bad request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "429": {
+            "description": "Too many requests"
+          },
+          "500": {
+            "description": "Server error"
+          }
+        }
+      }
+    },
+    "/corrigir-redacao": {
+      "post": {
+        "tags": [
+          "Essays"
+        ],
+        "summary": "Correct Essay",
+        "operationId": "correctEssay",
+        "responses": {
+          "200": {
+            "description": "Essay correction completed"
+          },
+          "400": {
+            "description": "Bad request"
+          },
+          "429": {
+            "description": "Too many requests"
+          },
+          "500": {
+            "description": "Server error"
+          }
+        }
+      }
+    },
+    "/simulado/salvar": {
+      "post": {
+        "tags": [
+          "Simulations"
+        ],
+        "summary": "Save Simulation",
+        "operationId": "saveSimulation",
+        "responses": {
+          "200": {
+            "description": "Simulation saved"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "500": {
+            "description": "Server error"
+          }
+        }
+      }
+    },
+    "/health": {
+      "get": {
+        "tags": [
+          "Health"
+        ],
+        "summary": "Health Check",
+        "operationId": "healthCheck",
+        "responses": {
+          "200": {
+            "description": "API is healthy"
+          },
+          "503": {
+            "description": "API is unhealthy"
+          }
+        }
+      }
+    },
+    "/webhook": {
+      "post": {
+        "tags": [
+          "Webhooks"
+        ],
+        "summary": "Webhook Event",
+        "operationId": "receiveWebhook",
+        "responses": {
+          "200": {
+            "description": "Webhook received"
+          },
+          "400": {
+            "description": "Bad request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
+    "/admin/stats": {
+      "get": {
+        "tags": [
+          "Admin"
+        ],
+        "summary": "Get Admin Stats",
+        "operationId": "getAdminStats",
+        "responses": {
+          "200": {
+            "description": "Admin statistics"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "500": {
+            "description": "Server error"
+          }
+        }
+      }
+    }
+  }
+}

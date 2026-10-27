@@ -2,14 +2,16 @@ import { NextRequest, NextResponse } from 'next/server'
 import { YEARS } from '@/lib/enem-api'
 import { generateExplanationBatch } from '@/lib/generate-explanations'
 import { cleanEnv } from '@/lib/utils'
+import { verifyBearerToken } from '@/lib/timing-safe-auth'
 
 export const dynamic = 'force-dynamic'
 export const maxDuration = 300
 
 export async function GET(req: NextRequest) {
-  const auth = req.headers.get('authorization')
+  const authHeader = req.headers.get('authorization')
   const secret = cleanEnv(process.env.CRON_SECRET)
-  if (!secret || auth !== `Bearer ${secret}`) {
+  
+  if (!verifyBearerToken(authHeader, secret)) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
   }
 

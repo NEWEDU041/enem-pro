@@ -1,0 +1,87 @@
+{
+  "generated_at": "2024-01-15T10:30:00Z",
+  "coverage": {
+    "endpoints_documented": 8,
+    "endpoints_found": 30,
+    "coverage_percentage": 26.7,
+    "status": "IN_PROGRESS"
+  },
+  "documentation": {
+    "openapi_schema": true,
+    "swagger_ui": true,
+    "developer_dashboard": true,
+    "webhook_tester": true,
+    "sdk_javascript": true,
+    "sdk_python": true,
+    "curl_examples": true,
+    "authentication_docs": "PENDING",
+    "rate_limit_docs": "PENDING",
+    "error_handling_docs": "PENDING"
+  },
+  "endpoints": {
+    "Questions": {
+      "GET /api/questoes": {
+        "documented": true,
+        "has_examples": true,
+        "has_error_codes": true
+      },
+      "GET /api/questoes/{id}": {
+        "documented": true,
+        "has_examples": true,
+        "has_error_codes": true
+      }
+    },
+    "Explanations": {
+      "POST /api/explicar": {
+        "documented": true,
+        "has_examples": true,
+        "has_error_codes": true
+      }
+    },
+    "Essays": {
+      "POST /api/corrigir-redacao": {
+        "documented": true,
+        "has_examples": true,
+        "has_error_codes": true
+      }
+    },
+    "Simulations": {
+      "POST /api/simulado/salvar": {
+        "documented": true,
+        "has_examples": true,
+        "has_error_codes": true
+      }
+    },
+    "Health": {
+      "GET /api/health": {
+        "documented": true,
+        "has_examples": true,
+        "has_error_codes": true
+      }
+    },
+    "Webhooks": {
+      "POST /api/webhook": {
+        "documented": true,
+        "has_examples": true,
+        "has_error_codes": true
+      }
+    }
+  },
+  "sdks": {
+    "javascript": {
+      "created": true,
+      "example_usage": true,
+      "error_handling": true
+    },
+    "python": {
+      "created": true,
+      "example_usage": true,
+      "error_handling": true
+    },
+    "curl": {
+      "created": true,
+      "example_usage": true,
+      "error_handling": true
+    }
+  }
+}

@@ -3,14 +3,14 @@ import { createServerClient } from '@/lib/supabase'
 import { requireAuth } from '@/lib/auth'
 import { getStripe } from '@/lib/stripe'
 import { cleanEnv } from '@/lib/utils'
-import { withErrorHandling } from '@/lib/api-helpers'
+import { withRateLimitAndErrorHandling } from '@/lib/api-helpers'
 import { checkUserRateLimit } from '@/lib/user-rate-limit'
 import { initLogContext, createRequestLogger, logSuccess, logError } from '@/lib/logger'
 import { getCached, setCached } from '@/lib/cache'
 
 export const dynamic = 'force-dynamic'
 
-export const POST = withErrorHandling(async (request: NextRequest) => {
+export const POST = withRateLimitAndErrorHandling(async (request: NextRequest) => {
   const logContext = initLogContext(request)
   const logger = createRequestLogger(logContext)
   

@@ -7,12 +7,14 @@ import { checkRateLimit } from '@/lib/rate-limit'
 import { PROMPTS } from '@/lib/ai-prompts'
 import { initLogContext, createRequestLogger, logSuccess, logError, logEvent } from '@/lib/logger'
 import { CorrigirRedacaoRequestSchema, validateRequestBody } from '@/lib/validation'
+import { getCached, setCached } from '@/lib/cache'
 
 export const dynamic = 'force-dynamic'
 
 export async function POST(request: NextRequest) {
   const logContext = initLogContext(request)
   const logger = createRequestLogger(logContext)
+  const startTime = performance.now()
   
   const auth = await requireAuth(request)
   if (!auth.ok) {
@@ -40,8 +42,25 @@ export async function POST(request: NextRequest) {
   const { tema, texto } = validation.data
 
   const supabase = createServerClient()
-  const { data: sub } = await supabase.from('subscriptions').select('plan, expires_at').eq('user_id', userId).maybeSingle()
-  const userIsPro = isPro(sub)
+  
+  // L1 CACHE: Check subscription from Redis (3600s TTL)
+  let userIsPro = false
+  const cachedSub = await getCached<{ plan: string; expires_at: string | null }>('user_context', userId)
+  
+  if (cachedSub) {
+    userIsPro = isPro(cachedSub as any)
+    logEvent(logger, 'cache_hit_subscription', { userId })
+  } else {
+    const { data: sub } = await supabase.from('subscriptions').select('plan, expires_at').eq('user_id', userId).maybeSingle()
+    userIsPro = isPro(sub)
+    
+    // Promote to Redis cache
+    if (sub) {
+      setCached('user_context', userId, sub).catch(e => {
+        logEvent(logger, 'redis_cache_promote_failed', { error: String(e) })
+      })
+    }
+  }
 
   const rl = await checkRateLimit(userId, supabase, userIsPro)
   if (!rl.ok) {

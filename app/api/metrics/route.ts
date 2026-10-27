@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { prometheusExporter } from '@/lib/monitoring/prometheus'
 import { cleanEnv } from '@/lib/utils'
+import { verifySecret } from '@/lib/timing-safe-auth'
 
 export const dynamic = 'force-dynamic'
 export const maxDuration = 10
@@ -12,7 +13,9 @@ export const maxDuration = 10
  */
 export async function GET(request: NextRequest) {
   const secret = request.headers.get('x-admin-secret')
-  if (!secret || secret !== cleanEnv(process.env.CRON_SECRET)) {
+  const expectedSecret = cleanEnv(process.env.CRON_SECRET)
+  
+  if (!verifySecret(secret, expectedSecret)) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
   }
 
@@ -32,7 +35,9 @@ export async function GET(request: NextRequest) {
  */
 export async function OPTIONS(request: NextRequest) {
   const secret = request.headers.get('x-admin-secret')
-  if (!secret || secret !== cleanEnv(process.env.CRON_SECRET)) {
+  const expectedSecret = cleanEnv(process.env.CRON_SECRET)
+  
+  if (!verifySecret(secret, expectedSecret)) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
   }
 
