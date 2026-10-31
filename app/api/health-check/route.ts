@@ -148,6 +148,4 @@ export async function GET(request: NextRequest) {
   }
 }
 
-export const config = {
-  runtime: 'nodejs',
-};
+export const runtime = 'nodejs';

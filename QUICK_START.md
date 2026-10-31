@@ -1,4 +1,4 @@
-# 🚀 Quick Start: DB Pooling Implementation
+# QUICK_START.md — enem-pro Production Setup
 
 ## 5-Minute Setup
 

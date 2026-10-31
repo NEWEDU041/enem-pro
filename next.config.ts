@@ -23,6 +23,9 @@ const nextConfig: NextConfig = {
   typescript: { ignoreBuildErrors: false },
   poweredByHeader: false,
   compress: true,
+  experimental: {
+    turbopack: true,  // Enable Turbopack for faster builds (Next.js 14.1+)
+  },
   async headers() {
     return [
       { source: '/(.*)', headers: securityHeaders },

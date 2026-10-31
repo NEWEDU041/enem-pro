@@ -69,12 +69,13 @@ export type CPFField = z.infer<typeof CPFSchema>
 export function validatePhone(phone: string): boolean {
   const cleaned = phone.replace(/[^\d]/g, '')
 
-  // Brazilian phones: 10 or 11 digits
-  // 11 digits: 55 + 2-digit area + 8 or 9 digit number
-  // 10 digits: 2-digit area + 8-digit number
-  if (cleaned.length === 11 && /^55\d{9}$/.test(cleaned)) return true // International
-  if (cleaned.length === 11 && /^\d{2}9\d{8}$/.test(cleaned)) return true // Celular (9th digit = 9)
+  // Brazilian phones: 10 or 11 digits, or 13 for international
+  // 11 digits: 2-digit area + 9 digit mobile (with 9th digit = 9)
+  // 10 digits: 2-digit area + 8-digit landline
+  // 13 digits (intl): 55 + 2-digit area + 9-digit mobile
+  if (cleaned.length === 11 && /^\d{2}9\d{8}$/.test(cleaned)) return true // Celular
   if (cleaned.length === 10 && /^\d{2}\d{8}$/.test(cleaned)) return true // Landline
+  if (cleaned.length === 13 && /^55\d{2}9\d{8}$/.test(cleaned)) return true // Intl celular
 
   return false
 }
