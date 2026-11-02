@@ -1,0 +1,45 @@
+{
+  "created_at": "2026-11-02T21:35:05+00:00",
+  "event_count": 12,
+  "flags": {
+    "closure_passed": false,
+    "decided": false,
+    "inspected": false,
+    "mutated": false,
+    "subagent_results_pending": false,
+    "verified": false
+  },
+  "last_event": {
+    "id": "2026-11-02T21:38:14+00:00-0012",
+    "kind": "closure",
+    "schema": "fable-harness-loop-governance-v1",
+    "sequence": 12,
+    "summary": "ENEM-Pro Fable Harness audit complete: 6 domains audited, 3 scripts created, consolidated roadmap generated",
+    "timestamp": "2026-11-02T21:38:14+00:00"
+  },
+  "local_dir": ".claude",
+  "repair_attempts": 0,
+  "run_id": "enem-complete-audit-fable",
+  "schema": "fable-harness-loop-governance-v1",
+  "status": "created",
+  "subagent_plan": null,
+  "task": "ENEM-Pro Complete Audit: Duplicates, Quality, LAYA Verify, Design, GSC, Skills Roadmap",
+  "trace": null,
+  "updated_at": "2026-11-02T21:38:14+00:00",
+  "workflow": {
+    "budget": {
+      "low_confidence_threshold": 0.7,
+      "max_iterations": 3,
+      "max_repairs": 2,
+      "max_subagent_waves": 2
+    },
+    "mode": "legacy-standard",
+    "primary": null,
+    "recipe": [],
+    "routing": {
+      "confidence": null,
+      "fallback": "",
+      "reason": ""
+    }
+  }
+}

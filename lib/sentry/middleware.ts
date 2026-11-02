@@ -18,7 +18,7 @@ export function withSentryErrorTracking(handler: Function) {
 
     try {
       // Call the handler
-      let response = await handler(req);
+      const response = await handler(req);
 
       // Track response time
       const duration = Date.now() - startTime;

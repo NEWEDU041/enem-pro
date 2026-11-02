@@ -1,0 +1,31 @@
+{
+  "blog_post_template": {
+    "title": "{POST_TITLE} | ENEM-Pro",
+    "description": "Aprenda sobre {TOPIC}. Prepare-se para o ENEM com conteúdo completo e explicações detalhadas.",
+    "keywords": "{CATEGORY}, {TOPIC}, ENEM, {SUB_TOPICS}",
+    "author": "ENEM-Pro",
+    "robots": "index, follow",
+    "canonical": "https://enem-pro.vercel.app/blog/{SLUG}",
+    "og:type": "article",
+    "og:title": "{POST_TITLE}",
+    "og:description": "Aprenda sobre {TOPIC} para o ENEM",
+    "og:image": "https://enem-pro.vercel.app/images/posts/{SLUG}/featured.jpg",
+    "og:url": "https://enem-pro.vercel.app/blog/{SLUG}",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "{POST_TITLE}",
+    "twitter:description": "Aprenda {TOPIC} para o ENEM",
+    "twitter:image": "https://enem-pro.vercel.app/images/posts/{SLUG}/featured.jpg"
+  },
+  "category_pages_template": {
+    "title": "{CATEGORY} - ENEM-Pro",
+    "description": "Conteúdo completo sobre {CATEGORY} para o ENEM com explicações, exercícios e simulados.",
+    "keywords": "{CATEGORY}, ENEM, vestibular, {CATEGORY} enem",
+    "robots": "index, follow"
+  },
+  "homepage_template": {
+    "title": "ENEM-Pro - Prepare-se para o ENEM",
+    "description": "Plataforma completa para preparação do ENEM com 411+ aulas, exercícios, simulados e dicas.",
+    "keywords": "ENEM, vestibular, preparação, exercícios ENEM, simulado",
+    "robots": "index, follow"
+  }
+}

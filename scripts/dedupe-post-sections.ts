@@ -50,7 +50,7 @@ function dedupeH2Blocks(content: string): { content: string; removed: number } {
 // antes do próximo heading de nível igual ou mais raso (aninhamento tipo H2->H3 normal
 // é preservado, só orphaned headings são removidos).
 function removeEmptyHeadings(content: string): { content: string; removed: number } {
-  let lines = content.split('\n')
+  const lines = content.split('\n')
   let removed = 0
   let changed = true
   while (changed) {

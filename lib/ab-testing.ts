@@ -162,7 +162,7 @@ export class ABTestingManager {
     }
 
     const randomValue = Math.abs(hash % 100)
-    let cumulative = 0
+    const cumulative = 0
 
     // This would be fetched from DB in real implementation
     // For now, returning a placeholder

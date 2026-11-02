@@ -141,7 +141,7 @@ async function main() {
     "trigonometria-enem-o-que-cai",
   ];
 
-  let totalFixed = 0;
+  const totalFixed = 0;
 
   for (const slug of problematicPosts) {
     // This would require loading from blog-data.ts

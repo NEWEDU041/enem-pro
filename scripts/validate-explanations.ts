@@ -49,7 +49,7 @@ async function validateExplanations() {
   let excellent = 0
   let good = 0
   let acceptable = 0
-  let poor = 0
+  const poor = 0
   let needsRegen = 0
 
   console.log(`📊 Analyzing ${allExplanations.length} explanations...\n`)

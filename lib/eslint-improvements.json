@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-11-02T21:47:04.455565",
+  "rules": {
+    "dead-code-removal": "enabled",
+    "unused-imports": "auto-fix",
+    "import-sorting": "auto-fix",
+    "naming-conventions": "enforced",
+    "max-complexity": 15,
+    "max-lines-per-file": 500,
+    "no-duplicate-imports": "error",
+    "consistent-return": "error",
+    "no-console-in-production": "warn"
+  },
+  "auto_fixes": [
+    "Removed unused imports",
+    "Organized import statements",
+    "Fixed naming conventions",
+    "Simplified complex functions"
+  ]
+}

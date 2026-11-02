@@ -117,7 +117,7 @@ export class SegmentationEngine {
   async createBehaviorSegment(behaviorType: string): Promise<Segment> {
     let name = ''
     const criteria: Record<string, any> = {}
-    let query = this.db
+    const query = this.db
       .from('user_profiles')
       .select('user_id, email')
 

@@ -45,7 +45,7 @@ for (const f of files) {
   })
 
   let removedDuplicateInstances = 0
-  let newLines = [...lines]
+  const newLines = [...lines]
 
   if (blockRanges.length > 1) {
     // remove todas as instâncias exceto a primeira, de trás pra frente

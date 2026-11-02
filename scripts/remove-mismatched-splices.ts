@@ -56,7 +56,7 @@ for (const f of files) {
 
   if (toRemove.length > 0) {
     const removedHeadings = toRemove.map(r => r.heading)
-    let newLines = [...lines]
+    const newLines = [...lines]
     // remove de trás pra frente para não invalidar os índices
     for (const r of [...toRemove].reverse()) {
       newLines.splice(r.start, r.end - r.start)
