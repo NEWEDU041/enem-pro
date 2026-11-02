@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "generatedAt": "2026-11-02T20:02:51.393Z",
+    "totalSchemas": 55,
+    "schemaTypes": {
+      "questions": 30,
+      "courses": 10,
+      "faqPages": 5,
+      "creativeWorks": 10
+    },
+    "jsonLdCompliant": true
+  },
+  "sampleSchemas": {
+    "question": {
+      "@context": "https://schema.org",
+      "@type": "Question",
+      "name": "ENEM 2020 - Questão 1 (Mathematics)",
+      "text": "Sample ENEM 2020 question in Mathematics. This question tests student understanding of fundamental concepts.",
+      "url": "https://questoesenem.pro/questoes/2020/mathematics/1",
+      "educationalLevel": "HighSchool",
+      "educationalContext": "ENEM 2020 - Mathematics",
+      "suggestedAnswer": [
+        {
+          "@type": "Answer",
+          "text": "Option A - Incorrect statement",
+          "position": 1
+        },
+        {
+          "@type": "Answer",
+          "text": "Option B - Correct statement",
+          "position": 2,
+          "isCorrect": true
+        },
+        {
+          "@type": "Answer",
+          "text": "Option C - Plausible but incorrect",
+          "position": 3
+        },
+        {
+          "@type": "Answer",
+          "text": "Option D - Another distractor",
+          "position": 4
+        },
+        {
+          "@type": "Answer",
+          "text": "Option E - Final distractor",
+          "position": 5
+        }
+      ],
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Option B - Correct statement",
+        "explanation": "This is the explanation for question 1. The correct answer is B because..."
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "ENEM Pro",
+        "url": "https://questoesenem.pro"
+      },
+      "datePublished": "2026-11-02",
+      "inLanguage": "pt-BR"
+    },
+    "course": {
+      "@context": "https://schema.org",
+      "@type": "Course",
+      "name": "Complete ENEM Preparation 2024",
+      "description": "Comprehensive course covering all ENEM subjects with expert instructors and practice tests",
+      "url": "https://questoesenem.pro/courses/1-complete-enem-preparation-2024",
+      "inLanguage": "pt-BR",
+      "educationalLevel": "HighSchool",
+      "provider": {
+        "@type": "Organization",
+        "name": "ENEM Pro",
+        "url": "https://questoesenem.pro",
+        "sameAs": [
+          "https://www.youtube.com/@enempro",
+          "https://www.instagram.com/enempro",
+          "https://www.linkedin.com/company/enem-pro"
+        ]
+      },
+      "audience": {
+        "@type": "EducationalAudience",
+        "educationalRole": "student"
+      },
+      "numberOfStudents": 5000,
+      "instructor": {
+        "@type": "Person",
+        "name": "Prof. Ana Silva",
+        "url": "https://example.com/instructors/ana"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "299.90",
+        "priceCurrency": "BRL",
+        "availability": "https://schema.org/InStock"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.8,
+        "reviewCount": 450
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Mathematics"
+        },
+        {
+          "@type": "Thing",
+          "name": "Physics"
+        },
+        {
+          "@type": "Thing",
+          "name": "Chemistry"
+        },
+        {
+          "@type": "Thing",
+          "name": "Biology"
+        },
+        {
+          "@type": "Thing",
+          "name": "Languages"
+        }
+      ]
+    },
+    "faqPage": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "name": "ENEM Basics & Registration",
+      "url": "https://questoesenem.pro/faq-1",
+      "dateModified": "2026-11-02",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is ENEM and who can take it?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "ENEM (Exame Nacional do Ensino Médio) is the national high school exam in Brazil. It is open to any Brazilian or foreigner who wants to assess their knowledge and gain admission to universities."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When is ENEM held?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "ENEM is typically held once per year, usually in November. Applications usually open in May-June."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many times can I take ENEM?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can take ENEM as many times as you want. Each year, a new exam is offered, and previous scores can be used for university applications."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the application fee?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "As of 2024, there is a registration fee (taxa de inscrição). Check the official INEP website for current amounts and exemption eligibility."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use my ENEM score for university admission?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, ENEM scores are used by most Brazilian universities through SISU (Sistema de Seleção Unificada) and other mechanisms."
+          }
+        }
+      ],
+      "inLanguage": "pt-BR",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "ENEM Pro",
+        "url": "https://questoesenem.pro"
+      }
+    },
+    "creativeWork": {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "@id": "https://questoesenem.pro/resources/1-enem-study-guide-pdf",
+      "name": "ENEM Study Guide PDF",
+      "description": "Comprehensive 500-page study guide covering all ENEM topics with examples and practice questions",
+      "url": "https://questoesenem.pro/resources/1-enem-study-guide-pdf",
+      "inLanguage": "pt-BR",
+      "author": {
+        "@type": "Organization",
+        "name": "ENEM Pro",
+        "url": "https://questoesenem.pro"
+      },
+      "datePublished": "2026-10-14",
+      "dateModified": "2026-11-02",
+      "keywords": "study guide, ENEM preparation, comprehensive",
+      "learningResourceType": "Document",
+      "educationalLevel": "HighSchool",
+      "audience": {
+        "@type": "EducationalAudience",
+        "educationalRole": "student"
+      }
+    }
+  }
+}

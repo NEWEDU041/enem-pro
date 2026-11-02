@@ -1,0 +1,160 @@
+{
+  "total_hubs": 8,
+  "total_words": 18360,
+  "total_links": 0,
+  "total_faqs": 34,
+  "hubs": [
+    {
+      "name": "matematica",
+      "file": "matematica.html",
+      "words": 2624,
+      "links": 0,
+      "faqs": 5,
+      "schema": {
+        "present": true,
+        "course": true,
+        "faq": true,
+        "breadcrumb": true
+      },
+      "metadata": {
+        "description": true,
+        "canonical": true,
+        "og": true
+      },
+      "valid": false
+    },
+    {
+      "name": "portugues",
+      "file": "portugues.html",
+      "words": 2688,
+      "links": 0,
+      "faqs": 5,
+      "schema": {
+        "present": true,
+        "course": true,
+        "faq": true,
+        "breadcrumb": true
+      },
+      "metadata": {
+        "description": true,
+        "canonical": true,
+        "og": true
+      },
+      "valid": false
+    },
+    {
+      "name": "historia",
+      "file": "historia.html",
+      "words": 2368,
+      "links": 0,
+      "faqs": 4,
+      "schema": {
+        "present": true,
+        "course": true,
+        "faq": true,
+        "breadcrumb": true
+      },
+      "metadata": {
+        "description": true,
+        "canonical": true,
+        "og": true
+      },
+      "valid": false
+    },
+    {
+      "name": "geografia",
+      "file": "geografia.html",
+      "words": 2212,
+      "links": 0,
+      "faqs": 4,
+      "schema": {
+        "present": true,
+        "course": true,
+        "faq": true,
+        "breadcrumb": true
+      },
+      "metadata": {
+        "description": true,
+        "canonical": true,
+        "og": true
+      },
+      "valid": false
+    },
+    {
+      "name": "ciencias",
+      "file": "ciencias.html",
+      "words": 1994,
+      "links": 0,
+      "faqs": 4,
+      "schema": {
+        "present": true,
+        "course": true,
+        "faq": true,
+        "breadcrumb": true
+      },
+      "metadata": {
+        "description": true,
+        "canonical": true,
+        "og": true
+      },
+      "valid": false
+    },
+    {
+      "name": "multidisciplinar",
+      "file": "multidisciplinar.html",
+      "words": 1679,
+      "links": 0,
+      "faqs": 4,
+      "schema": {
+        "present": true,
+        "course": true,
+        "faq": true,
+        "breadcrumb": true
+      },
+      "metadata": {
+        "description": true,
+        "canonical": true,
+        "og": true
+      },
+      "valid": false
+    },
+    {
+      "name": "estrategias-prova",
+      "file": "estrategias-prova.html",
+      "words": 2433,
+      "links": 0,
+      "faqs": 4,
+      "schema": {
+        "present": true,
+        "course": true,
+        "faq": true,
+        "breadcrumb": true
+      },
+      "metadata": {
+        "description": true,
+        "canonical": true,
+        "og": true
+      },
+      "valid": false
+    },
+    {
+      "name": "revisao-preparacao",
+      "file": "revisao-preparacao.html",
+      "words": 2362,
+      "links": 0,
+      "faqs": 4,
+      "schema": {
+        "present": true,
+        "course": true,
+        "faq": true,
+        "breadcrumb": true
+      },
+      "metadata": {
+        "description": true,
+        "canonical": true,
+        "og": true
+      },
+      "valid": false
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+/* ENEM-Pro: Education-focused design system */
+/* Colors: Blue (study), Gold (achievement), White (clarity) */
+
+:root {
+  /* Primary Colors */
+  --color-primary: #1e3a8a; /* Deep blue (study focus) */
+  --color-primary-light: #3b82f6; /* Light blue (interactive) */
+  --color-primary-dark: #1e40af; /* Dark blue (hover) */
+  
+  /* Accent Colors */
+  --color-gold: #fbbf24; /* Gold (achievement, highlights) */
+  --color-gold-light: #fcd34d;
+  --color-gold-dark: #f59e0b;
+  
+  /* Neutral */
+  --color-white: #ffffff;
+  --color-gray-50: #f9fafb;
+  --color-gray-100: #f3f4f6;
+  --color-gray-200: #e5e7eb;
+  --color-gray-400: #9ca3af;
+  --color-gray-600: #4b5563;
+  --color-gray-800: #1f2937;
+  --color-gray-900: #111827;
+  
+  /* Semantic */
+  --color-success: #10b981;
+  --color-warning: #f59e0b;
+  --color-error: #ef4444;
+  
+  /* Typography */
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "Monaco", "Courier New", monospace;
+  
+  /* Sizing */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+  --spacing-2xl: 48px;
+  
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+/* Base Typography */
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-white);
+  color: var(--color-gray-900);
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: var(--spacing-md);
+}
+
+h1 {
+  font-size: 32px;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 1.3;
+}
+
+h3 {
+  font-size: 20px;
+  line-height: 1.4;
+}
+
+p {
+  margin-bottom: var(--spacing-md);
+}
+
+/* Buttons */
+.btn {
+  display: inline-block;
+  padding: var(--spacing-md) var(--spacing-lg);
+  border-radius: 6px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+}
+
+.btn-primary:hover {
+  background-color: var(--color-primary-dark);
+  box-shadow: var(--shadow-lg);
+}
+
+.btn-gold {
+  background-color: var(--color-gold);
+  color: var(--color-gray-900);
+}
+
+.btn-gold:hover {
+  background-color: var(--color-gold-dark);
+}
+
+/* Cards */
+.card {
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-200);
+  border-radius: 8px;
+  padding: var(--spacing-lg);
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow 0.2s ease;
+}
+
+.card:hover {
+  box-shadow: var(--shadow-md);
+}
+
+/* Grid */
+.grid {
+  display: grid;
+  gap: var(--spacing-lg);
+}
+
+.grid-2 {
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.grid-3 {
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  h1 { font-size: 24px; }
+  h2 { font-size: 20px; }
+  h3 { font-size: 18px; }
+  .grid-3 { grid-template-columns: 1fr; }
+}

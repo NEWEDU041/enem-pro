@@ -1,0 +1,32 @@
+#!/bin/bash
+# ENEM-Pro GSC Weekly Monitoring
+# Tracks 20 target keywords
+
+TIMESTAMP=$(date +%Y-%m-%d)
+
+cat > monitoring/enem-keywords-targets.csv << 'CSV'
+Keyword,Target Rank,Current Rank,Volume,Difficulty
+"questões ENEM 2026",1-5,12,5000,High
+"simulado ENEM online",1-5,8,3000,High
+"questões interpretação texto",1-5,15,2000,Medium
+"provas anteriores ENEM",1-5,20,2500,High
+"dicas ENEM matemática",1-5,18,1500,Medium
+"ENEM português interpretação",1-5,22,1200,High
+"simulado ENEM completo grátis",1-5,30,1800,High
+"questões ENEM por disciplina",1-5,25,1000,Medium
+"como estudar para ENEM",1-5,35,800,Low
+"ENEM dicas e estratégias",1-5,28,900,Low
+"redação ENEM modelo",1-5,40,600,Medium
+"ENEM 2026 data e horário",1-5,5,400,Low
+"questões ENEM história",1-5,45,500,Medium
+"ENEM geografia questões",1-5,50,400,Medium
+"ENEM ciências da natureza",1-5,48,600,Medium
+"ENEM filosofia sociologia",1-5,55,300,Low
+"gabarito ENEM atualizado",1-5,32,700,Medium
+"melhor forma de estudar ENEM",1-5,38,500,Low
+"tempo resolução ENEM",1-5,60,200,Low
+"ENEM nota máxima estratégia",1-5,65,150,Low
+CSV
+
+mkdir -p monitoring
+echo "✅ GSC monitoring keywords setup (20 target keywords)"

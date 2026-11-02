@@ -1,0 +1,153 @@
+{
+  "phase": "PHASE 6",
+  "project": "ENEM-Pro",
+  "title": "GSC Monitoring & Weekly SEO Optimizer",
+  "created": "2026-11-02",
+  "status": "\u2705 PRODUCTION READY",
+  "deliverables": {
+    "scripts": {
+      "gsc-monitoring.sh": {
+        "path": "scripts/gsc-monitoring.sh",
+        "description": "GSC Monitoring Setup - Creates tracking templates",
+        "size_bytes": 14438,
+        "executable": true,
+        "hash": "c4b6a35d0dc94ecc",
+        "status": "\u2705"
+      },
+      "weekly-seo-optimizer.sh": {
+        "path": "scripts/weekly-seo-optimizer.sh",
+        "description": "Weekly SEO Optimizer - Blog post audit",
+        "size_bytes": 12098,
+        "executable": true,
+        "hash": "ae6d9ca11bf2d5b5",
+        "status": "\u2705"
+      }
+    },
+    "documentation": {
+      "PHASE6-GSC-MONITORING-README.md": {
+        "path": "PHASE6-GSC-MONITORING-README.md",
+        "description": "Comprehensive monitoring guide (300+ lines)",
+        "size_bytes": 12729,
+        "hash": "e305070ab61fb35c",
+        "status": "\u2705"
+      },
+      "PHASE6-DELIVERY.md": {
+        "path": "PHASE6-DELIVERY.md",
+        "description": "Phase 6 delivery summary",
+        "size_bytes": 9243,
+        "hash": "6bf4773d1b460c15",
+        "status": "\u2705"
+      },
+      "PHASE6-QUICKSTART.sh": {
+        "path": "PHASE6-QUICKSTART.sh",
+        "description": "Quick start reference",
+        "size_bytes": 4198,
+        "hash": "bb129964b63828ed",
+        "status": "\u2705"
+      }
+    },
+    "generated_on_first_run": {
+      "keyword-rankings-20261102_200046.csv": {
+        "path": "monitoring/gsc-reports/keyword-rankings-20261102_200046.csv",
+        "description": "20 ENEM keywords with rankings (20 keywords)",
+        "size_bytes": 1125,
+        "hash": "f21bb9f4738154c8",
+        "status": "\u2705"
+      },
+      "content-performance-20261102_200046.csv": {
+        "path": "monitoring/gsc-reports/content-performance-20261102_200046.csv",
+        "description": "Blog post performance metrics",
+        "size_bytes": 957,
+        "hash": "95e5dddbc8d3134c",
+        "status": "\u2705"
+      },
+      "backlink-tracking-20261102_200046.csv": {
+        "path": "monitoring/gsc-reports/backlink-tracking-20261102_200046.csv",
+        "description": "Backlink opportunity tracker",
+        "size_bytes": 754,
+        "hash": "41391e0901febc94",
+        "status": "\u2705"
+      },
+      "weekly-report-template.md": {
+        "path": "monitoring/gsc-reports/weekly-report-template.md",
+        "description": "Template for manual weekly reports",
+        "size_bytes": 1693,
+        "hash": "9c3e0a9456533475",
+        "status": "\u2705"
+      },
+      "alert-thresholds.json": {
+        "path": "monitoring/gsc-reports/alert-thresholds.json",
+        "description": "Alert definitions (indexing, ranking, traffic)",
+        "size_bytes": 2324,
+        "hash": "b55e400b52f59e1d",
+        "status": "\u2705"
+      },
+      "weekly-optimization-checklist.md": {
+        "path": "monitoring/gsc-reports/weekly-optimization-checklist.md",
+        "description": "Weekly tasks & milestones",
+        "size_bytes": 4090,
+        "hash": "7a229658eb49bceb",
+        "status": "\u2705"
+      }
+    }
+  },
+  "summary": {
+    "total_scripts": 2,
+    "total_documentation": 3,
+    "total_generated": 6,
+    "total_files": 11,
+    "total_size_bytes": 63649
+  },
+  "metrics_tracked": {
+    "keywords_count": 20,
+    "keywords": [
+      "quest\u00f5es ENEM 2026",
+      "simulado ENEM",
+      "provas anteriores ENEM",
+      "dicas ENEM",
+      "como estudar ENEM",
+      "resultado ENEM 2026",
+      "ENEM 2026 cronograma",
+      "gabarito ENEM",
+      "reda\u00e7\u00e3o ENEM",
+      "nota ENEM",
+      "inscri\u00e7\u00e3o ENEM",
+      "SISU ProUni ENEM",
+      "estudo ENEM m\u00e9todo",
+      "revis\u00e3o ENEM",
+      "matem\u00e1tica ENEM",
+      "portugu\u00eas ENEM",
+      "hist\u00f3ria ENEM",
+      "geografia ENEM",
+      "biologia ENEM",
+      "quest\u00e3o comentada ENEM"
+    ]
+  },
+  "targets_90_days": {
+    "urls_indexed": {
+      "baseline": 412,
+      "target": 450,
+      "change_pct": 9.2
+    },
+    "avg_position": {
+      "baseline": 28,
+      "target": 12,
+      "change_pct": -57
+    },
+    "monthly_impressions": {
+      "baseline": 2400,
+      "target": 8000,
+      "change_pct": 233
+    },
+    "monthly_clicks": {
+      "baseline": 145,
+      "target": 600,
+      "change_pct": 314
+    },
+    "ctr": {
+      "baseline": 6.0,
+      "target": 7.5,
+      "change_pct": 25
+    }
+  }
+}

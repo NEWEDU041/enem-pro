@@ -1,0 +1,77 @@
+{
+  "alerts": {
+    "indexing": {
+      "critical_drop": {
+        "threshold": "10+ URLs removed from index",
+        "action": "Email alert + immediate investigation"
+      },
+      "slow_crawl": {
+        "threshold": "<5 URLs indexed per week",
+        "action": "Resubmit sitemap + check robots.txt and canonical tags"
+      },
+      "coverage_drop": {
+        "threshold": "<85% coverage",
+        "action": "Check for 404s, review canonicals, audit internal links"
+      }
+    },
+    "ranking": {
+      "major_drop": {
+        "threshold": ">10 positions down on priority keywords",
+        "action": "Email alert + full content review + competitor analysis"
+      },
+      "breakthrough": {
+        "threshold": "<10 position on ANY target keyword",
+        "action": "Track closely + optimize + promote post"
+      },
+      "top_5_rank": {
+        "threshold": "Any keyword reaching position 1-5",
+        "action": "Celebrate + document strategy + replicate"
+      }
+    },
+    "traffic": {
+      "spike": {
+        "threshold": "+300% weekly traffic",
+        "action": "Investigate source + capitalize with similar content"
+      },
+      "drop": {
+        "threshold": "-30% weekly traffic",
+        "action": "Check for ranking drops + manual penalties + technical issues"
+      },
+      "seasonal": {
+        "threshold": "+500% on 'resultado ENEM' keywords",
+        "action": "Prepare bulk content + optimize pages + bid on PPC"
+      }
+    },
+    "revenue": {
+      "milestone": {
+        "threshold": "R$500 in monthly affiliate revenue",
+        "action": "Document success + plan next phase"
+      },
+      "decline": {
+        "threshold": "-20% week-over-week",
+        "action": "Review top pages + check CTR + audit affiliate links"
+      }
+    }
+  },
+  "monitoring_schedule": {
+    "daily": [
+      "Check GSC for manual actions or warnings",
+      "Monitor trending ENEM keywords"
+    ],
+    "weekly": [
+      "Update keyword rankings (20+ keywords)",
+      "Track indexing progress",
+      "Calculate revenue",
+      "Review top traffic sources",
+      "Check backlink progress",
+      "Analyze CTR trends"
+    ],
+    "monthly": [
+      "Comprehensive SEO audit",
+      "Competitor analysis",
+      "Content gap analysis",
+      "Revenue analysis",
+      "Identify new opportunities"
+    ]
+  }
+}
