@@ -7,6 +7,7 @@ import { NextRequest, NextResponse } from 'next/server'
 import { queueSitemapJob, getJobStatus, initSitemapQueue } from '@/lib/sitemap-queue'
 import { cleanEnv } from '@/lib/utils'
 import { verifySecret } from '@/lib/timing-safe-auth'
+import { jsonWithSecurityHeaders, withSecurityHeaders } from '@/lib/middleware/security'
 
 export const dynamic = 'force-dynamic'
 export const maxDuration = 10
@@ -20,7 +21,7 @@ export async function POST(request: NextRequest) {
   const expectedSecret = cleanEnv(process.env.CRON_SECRET)
 
   if (!verifySecret(secret, expectedSecret)) {
-    return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
+    return jsonWithSecurityHeaders({ error: 'Unauthorized' }, 401)
   }
 
   try {
@@ -65,14 +66,14 @@ export async function GET(request: NextRequest) {
   const jobId = request.nextUrl.searchParams.get('jobId')
 
   if (!jobId) {
-    return NextResponse.json({ error: 'Missing jobId parameter' }, { status: 400 })
+    return jsonWithSecurityHeaders({ error: 'Missing jobId parameter' }, 400)
   }
 
   try {
     const status = await getJobStatus(jobId)
 
     if (!status) {
-      return NextResponse.json({ error: 'Job not found' }, { status: 404 })
+      return jsonWithSecurityHeaders({ error: 'Job not found' }, 404)
     }
 
     return NextResponse.json(status, { status: 200 })

@@ -11,6 +11,7 @@ import { initLogContext, createRequestLogger, logSuccess, logError, logEvent } f
 import { batchFetchUserContext, logBatchOperation } from '@/lib/db-helpers'
 import { ExplicarRequestSchema, validateRequestBody } from '@/lib/validation'
 import { getCached, setCached } from '@/lib/cache'
+import { jsonWithSecurityHeaders, withSecurityHeaders } from '@/lib/middleware/security'
 
 export const dynamic = 'force-dynamic'
 
@@ -40,7 +41,7 @@ export async function POST(request: NextRequest) {
       error: 'Validation failed',
       metadata: { details: validation.error.details },
     })
-    return NextResponse.json(validation.error, { status: 400 })
+    return jsonWithSecurityHeaders(validation.error, 400)
   }
   const { question_id, selected_alternative } = validation.data
 
@@ -119,7 +120,7 @@ export async function POST(request: NextRequest) {
       error: 'Subscription lookup error',
       metadata: { supabaseError: subError.message },
     })
-    return NextResponse.json({ error: 'Erro ao verificar plano' }, { status: 500 })
+    return jsonWithSecurityHeaders({ error: 'Erro ao verificar plano' }, 500)
   }
 
   const userIsPro = isPro(sub)
@@ -155,12 +156,12 @@ export async function POST(request: NextRequest) {
         error: 'Daily usage lookup error',
         metadata: { supabaseError: usageError.message },
       })
-      return NextResponse.json({ error: 'Erro ao verificar limite diário' }, { status: 500 })
+      return jsonWithSecurityHeaders({ error: 'Erro ao verificar limite diário' }, 500)
     }
 
     const usedToday = usage?.explanation_count || 0
     if (usedToday >= FREE_DAILY_EXPLANATIONS) {
-      return NextResponse.json({ error: 'Plano Pro necessário', freeTrialUsed: true }, { status: 403 })
+      return jsonWithSecurityHeaders({ error: 'Plano Pro necessário', freeTrialUsed: true }, 403)
     }
 
     // Increment usage counter
@@ -197,7 +198,7 @@ export async function POST(request: NextRequest) {
           error: 'Question not found',
           metadata: { question_id },
         })
-        return NextResponse.json({ error: 'Questão não encontrada' }, { status: 404 })
+        return jsonWithSecurityHeaders({ error: 'Questão não encontrada' }, 404)
       }
 
       const anthropic = new Anthropic({ apiKey: cleanEnv(process.env.ANTHROPIC_API_KEY) })

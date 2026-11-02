@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { createClient } from '@supabase/supabase-js'
 import { SentryClient } from '@/lib/sentry/client'
+import { jsonWithSecurityHeaders, withSecurityHeaders } from '@/lib/middleware/security'
 
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL
 const supabaseServiceKey = process.env.SUPABASE_SERVICE_ROLE_KEY
@@ -44,14 +45,11 @@ export async function POST(request: NextRequest): Promise<NextResponse<Subscribe
         method: 'POST',
         email: email?.substring(0, 10),
       })
-      return NextResponse.json(
-        {
+      return jsonWithSecurityHeaders({
           success: false,
           message: 'Email is required',
           error: 'Invalid email field',
-        },
-        { status: 400 }
-      )
+        }, 400)
     }
 
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
@@ -62,14 +60,11 @@ export async function POST(request: NextRequest): Promise<NextResponse<Subscribe
         method: 'POST',
         email: email.substring(0, 20),
       })
-      return NextResponse.json(
-        {
+      return jsonWithSecurityHeaders({
           success: false,
           message: 'Invalid email format',
           error: 'Email validation failed',
-        },
-        { status: 400 }
-      )
+        }, 400)
     }
 
     // Check if subscriber already exists
@@ -80,14 +75,11 @@ export async function POST(request: NextRequest): Promise<NextResponse<Subscribe
       .single()
 
     if (existing) {
-      return NextResponse.json(
-        {
+      return jsonWithSecurityHeaders({
           success: false,
           message: 'Este email já está inscrito',
           error: 'Email already subscribed',
-        },
-        { status: 409 }
-      )
+        }, 409)
     }
 
     // Insert into subscribers table
@@ -119,14 +111,11 @@ export async function POST(request: NextRequest): Promise<NextResponse<Subscribe
         errorCode: (error as any).code,
       })
       
-      return NextResponse.json(
-        {
+      return jsonWithSecurityHeaders({
           success: false,
           message: 'Erro ao processar inscrição',
           error: error.message,
-        },
-        { status: 500 }
-      )
+        }, 500)
     }
 
     // Log successful subscription
@@ -166,13 +155,10 @@ export async function POST(request: NextRequest): Promise<NextResponse<Subscribe
       userAgent: request.headers.get('user-agent') || 'unknown',
     })
 
-    return NextResponse.json(
-      {
+    return jsonWithSecurityHeaders({
         success: false,
         message: 'Erro ao processar sua inscrição',
         error: errorMessage,
-      },
-      { status: 500 }
-    )
+      }, 500)
   }
 }

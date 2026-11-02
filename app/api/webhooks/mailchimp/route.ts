@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase'
 import crypto from 'crypto'
+import { jsonWithSecurityHeaders, withSecurityHeaders } from '@/lib/middleware/security'
 
 interface WebhookEvent {
   type: 'subscribe' | 'unsubscribe' | 'campaign' | 'list'
@@ -61,19 +62,13 @@ export async function POST(request: NextRequest): Promise<NextResponse> {
 
     if (!webhookSecret) {
       console.error('MAILCHIMP_WEBHOOK_SECRET not configured')
-      return NextResponse.json(
-        { error: 'Webhook secret not configured' },
-        { status: 500 }
-      )
+      return jsonWithSecurityHeaders({ error: 'Webhook secret not configured' }, 500)
     }
 
     // Verify webhook authenticity
     if (!verifyWebhookSignature(body, signature, webhookSecret)) {
       console.warn('Invalid webhook signature')
-      return NextResponse.json(
-        { error: 'Invalid signature' },
-        { status: 401 }
-      )
+      return jsonWithSecurityHeaders({ error: 'Invalid signature' }, 401)
     }
 
     const event: WebhookEvent = JSON.parse(body)
@@ -120,10 +115,7 @@ export async function POST(request: NextRequest): Promise<NextResponse> {
     return NextResponse.json({ ok: true })
   } catch (error) {
     console.error('Webhook error:', error)
-    return NextResponse.json(
-      { error: 'Webhook processing failed' },
-      { status: 500 }
-    )
+    return jsonWithSecurityHeaders({ error: 'Webhook processing failed' }, 500)
   }
 }
 

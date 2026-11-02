@@ -18,6 +18,7 @@ import { auditLog } from '@/lib/audit-logger';
 import { consentManager } from '@/lib/consent-manager';
 import JSZip from 'jszip';
 import { v4 as uuidv4 } from 'uuid';
+import { jsonWithSecurityHeaders, withSecurityHeaders } from '@/lib/middleware/security'
 
 const supabase = createClient(
   process.env.NEXT_PUBLIC_SUPABASE_URL!,
@@ -174,18 +175,12 @@ export async function POST(request: NextRequest) {
     const { email } = body;
 
     if (!email) {
-      return NextResponse.json(
-        { error: 'Email is required' },
-        { status: 400 }
-      );
+      return jsonWithSecurityHeaders({ error: 'Email is required' }, 400);
     }
 
     // Validate email format
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
-      return NextResponse.json(
-        { error: 'Invalid email format' },
-        { status: 400 }
-      );
+      return jsonWithSecurityHeaders({ error: 'Invalid email format' }, 400);
     }
 
     // Get user
@@ -247,10 +242,7 @@ export async function POST(request: NextRequest) {
     const downloadUrl = await uploadExportToStorage(userId, buffer, filename);
 
     if (!downloadUrl) {
-      return NextResponse.json(
-        { error: 'Failed to prepare export' },
-        { status: 500 }
-      );
+      return jsonWithSecurityHeaders({ error: 'Failed to prepare export' }, 500);
     }
 
     // Log successful export
@@ -278,10 +270,7 @@ export async function POST(request: NextRequest) {
   } catch (error) {
     console.error('Export endpoint error:', error);
 
-    return NextResponse.json(
-      { error: 'Internal server error' },
-      { status: 500 }
-    );
+    return jsonWithSecurityHeaders({ error: 'Internal server error' }, 500);
   }
 }
 

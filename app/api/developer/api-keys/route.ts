@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from 'next/server'
 import { requireAuth } from '@/lib/auth'
 import { createServerClient } from '@/lib/supabase'
 import crypto from 'crypto'
+import { jsonWithSecurityHeaders, withSecurityHeaders } from '@/lib/middleware/security'
 
 // Get user's API keys
 export async function GET(request: NextRequest) {
@@ -22,10 +23,7 @@ export async function GET(request: NextRequest) {
 
     return NextResponse.json({ keys: keys || [] })
   } catch (error) {
-    return NextResponse.json(
-      { error: 'Failed to fetch API keys' },
-      { status: 500 }
-    )
+    return jsonWithSecurityHeaders({ error: 'Failed to fetch API keys' }, 500)
   }
 }
 
@@ -38,10 +36,7 @@ export async function POST(request: NextRequest) {
   const { name } = body
 
   if (!name) {
-    return NextResponse.json(
-      { error: 'Key name is required' },
-      { status: 400 }
-    )
+    return jsonWithSecurityHeaders({ error: 'Key name is required' }, 400)
   }
 
   const supabase = createServerClient()
@@ -83,9 +78,6 @@ export async function POST(request: NextRequest) {
       },
     })
   } catch (error) {
-    return NextResponse.json(
-      { error: 'Failed to create API key' },
-      { status: 500 }
-    )
+    return jsonWithSecurityHeaders({ error: 'Failed to create API key' }, 500)
   }
 }

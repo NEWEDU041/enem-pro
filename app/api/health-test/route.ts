@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { SentryClient } from '@/lib/sentry/client';
+import { jsonWithSecurityHeaders, withSecurityHeaders } from '@/lib/middleware/security'
 
 /**
  * Health check endpoint for rate limiting testing
@@ -36,10 +37,7 @@ export async function GET(request: NextRequest) {
       path: request.url,
     });
     
-    return NextResponse.json(
-      { status: 'error', message: 'Health check failed' },
-      { status: 500 }
-    );
+    return jsonWithSecurityHeaders({ status: 'error', message: 'Health check failed' }, 500);
   }
 }
 
@@ -83,12 +81,9 @@ export async function POST(request: NextRequest) {
       path: request.url,
     });
     
-    return NextResponse.json(
-      { 
+    return jsonWithSecurityHeaders({ 
         status: 'error', 
         message: error instanceof Error ? error.message : 'Unknown error',
-      },
-      { status: 500 }
-    );
+      }, 500);
   }
 }

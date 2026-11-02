@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
+import { jsonWithSecurityHeaders, withSecurityHeaders } from '@/lib/middleware/security'
 
 /**
  * Failover Test API
@@ -78,7 +79,7 @@ export async function GET(request: NextRequest) {
       // Find actual healthiest
       const newActive = await getHealthiestRegion();
 
-      return NextResponse.json({
+      return withSecurityHeaders(NextResponse.json({
         test: 'failover',
         failedRegion,
         previousActive: failedRegion,
@@ -88,7 +89,7 @@ export async function GET(request: NextRequest) {
       });
     }
 
-    return NextResponse.json({
+    return withSecurityHeaders(NextResponse.json({
       test: 'failover',
       failedRegion,
       previousActive: activeRegion,
@@ -103,7 +104,7 @@ export async function GET(request: NextRequest) {
     const activeRegion = await getHealthiestRegion();
     const failures = Array.from(simulatedFailures.values());
 
-    return NextResponse.json({
+    return withSecurityHeaders(NextResponse.json({
       activeRegion,
       simulatedFailures: failures,
       timestamp: new Date().toISOString(),
@@ -127,13 +128,13 @@ export async function GET(request: NextRequest) {
       results.set(region, latencies);
     }
 
-    return NextResponse.json({
+    return withSecurityHeaders(NextResponse.json({
       latencyByRegion: Object.fromEntries(results),
       timestamp: new Date().toISOString(),
     });
   }
 
-  return NextResponse.json({
+  return withSecurityHeaders(NextResponse.json({
     error: 'Invalid request',
     usage: {
       failover: '?failedRegion=sa-east-1',
@@ -157,7 +158,7 @@ export async function POST(request: NextRequest) {
       duration: duration || SIMULATION_TIMEOUT,
     });
 
-    return NextResponse.json({
+    return withSecurityHeaders(NextResponse.json({
       status: 'failure-simulated',
       region,
       duration: duration || SIMULATION_TIMEOUT,
@@ -168,7 +169,7 @@ export async function POST(request: NextRequest) {
   if (action === 'clear-failure' && region) {
     simulatedFailures.delete(region);
 
-    return NextResponse.json({
+    return withSecurityHeaders(NextResponse.json({
       status: 'failure-cleared',
       region,
     });
@@ -178,13 +179,13 @@ export async function POST(request: NextRequest) {
     const count = simulatedFailures.size;
     simulatedFailures = new Map();
 
-    return NextResponse.json({
+    return withSecurityHeaders(NextResponse.json({
       status: 'all-failures-cleared',
       count,
     });
   }
 
-  return NextResponse.json({
+  return withSecurityHeaders(NextResponse.json({
     error: 'Invalid action',
     actions: ['simulate-failure', 'clear-failure', 'clear-all-failures'],
   });

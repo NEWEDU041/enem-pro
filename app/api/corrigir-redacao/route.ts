@@ -8,6 +8,7 @@ import { PROMPTS } from '@/lib/ai-prompts'
 import { initLogContext, createRequestLogger, logSuccess, logError, logEvent } from '@/lib/logger'
 import { CorrigirRedacaoRequestSchema, validateRequestBody } from '@/lib/validation'
 import { getCached, setCached } from '@/lib/cache'
+import { jsonWithSecurityHeaders, withSecurityHeaders } from '@/lib/middleware/security'
 
 export const dynamic = 'force-dynamic'
 

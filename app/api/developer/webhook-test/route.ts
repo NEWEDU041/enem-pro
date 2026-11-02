@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { requireAuth } from '@/lib/auth'
+import { jsonWithSecurityHeaders, withSecurityHeaders } from '@/lib/middleware/security'
 
 export async function POST(request: NextRequest) {
   const auth = await requireAuth(request)
@@ -9,10 +10,7 @@ export async function POST(request: NextRequest) {
   const { webhook_url, payload } = body
 
   if (!webhook_url || !payload) {
-    return NextResponse.json(
-      { error: 'webhook_url and payload are required' },
-      { status: 400 }
-    )
+    return jsonWithSecurityHeaders({ error: 'webhook_url and payload are required' }, 400)
   }
 
   try {

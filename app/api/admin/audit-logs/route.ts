@@ -8,6 +8,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { auditLog } from '@/lib/audit-logger';
 import { createClient } from '@supabase/supabase-js';
+import { jsonWithSecurityHeaders, withSecurityHeaders } from '@/lib/middleware/security'
 
 const supabase = createClient(
   process.env.NEXT_PUBLIC_SUPABASE_URL!,
@@ -49,10 +50,7 @@ export async function GET(request: NextRequest) {
     // Check admin access
     const admin = await isAdmin(request);
     if (!admin) {
-      return NextResponse.json(
-        { error: 'Unauthorized' },
-        { status: 401 }
-      );
+      return jsonWithSecurityHeaders({ error: 'Unauthorized' }, 401);
     }
 
     // Get query parameters
@@ -86,10 +84,7 @@ export async function GET(request: NextRequest) {
   } catch (error) {
     console.error('Audit logs endpoint error:', error);
 
-    return NextResponse.json(
-      { error: 'Internal server error' },
-      { status: 500 }
-    );
+    return jsonWithSecurityHeaders({ error: 'Internal server error' }, 500);
   }
 }
 

@@ -1,23 +1,18 @@
 import { NextRequest, NextResponse } from 'next/server'
+import { jsonWithSecurityHeaders, withSecurityHeaders } from '@/lib/middleware/security'
 
 export async function POST(request: NextRequest) {
   try {
     const { email } = await request.json()
 
     if (!email) {
-      return NextResponse.json(
-        { error: 'Email is required' },
-        { status: 400 }
-      )
+      return jsonWithSecurityHeaders({ error: 'Email is required' }, 400)
     }
 
     // Validate email
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
     if (!emailRegex.test(email)) {
-      return NextResponse.json(
-        { error: 'Invalid email' },
-        { status: 400 }
-      )
+      return jsonWithSecurityHeaders({ error: 'Invalid email' }, 400)
     }
 
     // TODO: Integrar com Brevo API
@@ -55,9 +50,6 @@ export async function POST(request: NextRequest) {
     )
   } catch (error) {
     console.error('Newsletter API error:', error)
-    return NextResponse.json(
-      { error: 'Failed to process subscription' },
-      { status: 500 }
-    )
+    return jsonWithSecurityHeaders({ error: 'Failed to process subscription' }, 500)
   }
 }
