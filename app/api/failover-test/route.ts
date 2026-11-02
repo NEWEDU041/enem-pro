@@ -86,7 +86,7 @@ export async function GET(request: NextRequest) {
         currentActive: newActive,
         failoverTime: 0,
         status: 'success',
-      });
+      }));
     }
 
     return withSecurityHeaders(NextResponse.json({
@@ -96,7 +96,7 @@ export async function GET(request: NextRequest) {
       currentActive: activeRegion,
       failoverTime: 0,
       status: 'already-running',
-    });
+    }));
   }
 
   // Get current active region and status
@@ -108,7 +108,7 @@ export async function GET(request: NextRequest) {
       activeRegion,
       simulatedFailures: failures,
       timestamp: new Date().toISOString(),
-    });
+    }));
   }
 
   // Get latency by region
@@ -131,7 +131,7 @@ export async function GET(request: NextRequest) {
     return withSecurityHeaders(NextResponse.json({
       latencyByRegion: Object.fromEntries(results),
       timestamp: new Date().toISOString(),
-    });
+    }));
   }
 
   return withSecurityHeaders(NextResponse.json({
@@ -141,7 +141,7 @@ export async function GET(request: NextRequest) {
       status: '?action=status',
       latency: '?action=latency',
     },
-  });
+  }));
 }
 
 export async function POST(request: NextRequest) {
@@ -163,7 +163,7 @@ export async function POST(request: NextRequest) {
       region,
       duration: duration || SIMULATION_TIMEOUT,
       expiresAt: new Date(Date.now() + (duration || SIMULATION_TIMEOUT)).toISOString(),
-    });
+    }));
   }
 
   if (action === 'clear-failure' && region) {
@@ -172,7 +172,7 @@ export async function POST(request: NextRequest) {
     return withSecurityHeaders(NextResponse.json({
       status: 'failure-cleared',
       region,
-    });
+    }));
   }
 
   if (action === 'clear-all-failures') {
@@ -182,13 +182,13 @@ export async function POST(request: NextRequest) {
     return withSecurityHeaders(NextResponse.json({
       status: 'all-failures-cleared',
       count,
-    });
+    }));
   }
 
   return withSecurityHeaders(NextResponse.json({
     error: 'Invalid action',
     actions: ['simulate-failure', 'clear-failure', 'clear-all-failures'],
-  });
+  }));
 }
 
 export const runtime = 'nodejs';
