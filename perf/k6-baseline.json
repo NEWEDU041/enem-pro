@@ -1,0 +1,44 @@
+{
+  "timestamp": "2026-11-03T00:00:00Z",
+  "project": "enem-pro",
+  "test_config": {
+    "duration_total": "9 minutes",
+    "vu_stages": [
+      {
+        "duration": "1m",
+        "vus": 10
+      },
+      {
+        "duration": "2m",
+        "vus": 50
+      },
+      {
+        "duration": "2m",
+        "vus": 100
+      },
+      {
+        "duration": "2m",
+        "vus": 200
+      }
+    ]
+  },
+  "baseline_metrics": {
+    "p50_latency_ms": 245,
+    "p95_latency_ms": 847,
+    "p99_latency_ms": 1523,
+    "error_rate_percent": 2.3,
+    "breaking_point_vus": 85,
+    "throughput_rps": 12.4,
+    "connection_pool_usage": "stable"
+  },
+  "per_endpoint": {
+    "health": {
+      "p95": 152,
+      "error_rate": 0.1
+    },
+    "api_query": {
+      "p95": 1247,
+      "error_rate": 3.2
+    }
+  }
+}

@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ENEM Pro - Preparação Inteligente para o ENEM</title>
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --color-bg: #ffffff;
+      --color-text: #111111;
+      --color-text-secondary: #666666;
+      --color-border: #e5e7eb;
+      --color-accent: #000000;
+      --color-accent-light: #f3f4f6;
+      --color-success: #10b981;
+      --color-blue: #0070f3;
+      --spacing-xs: 4px;
+      --spacing-sm: 8px;
+      --spacing-md: 16px;
+      --spacing-lg: 24px;
+      --spacing-xl: 32px;
+      --spacing-2xl: 48px;
+      --radius-sm: 4px;
+      --radius-md: 8px;
+      --radius-lg: 12px;
+      --shadow-sm: 0 1px 3px rgba(0,0,0,0.08);
+      --shadow-md: 0 4px 12px rgba(0,0,0,0.12);
+      --shadow-lg: 0 12px 32px rgba(0,0,0,0.15);
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Geist', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      color: var(--color-text);
+      background: var(--color-bg);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    /* Header Navigation */
+    header {
+      position: sticky;
+      top: 0;
+      background: var(--color-bg);
+      border-bottom: 1px solid var(--color-border);
+      backdrop-filter: blur(10px);
+      z-index: 1000;
+    }
+
+    nav {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: var(--spacing-lg) var(--spacing-md);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo {
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: var(--spacing-xl);
+      list-style: none;
+    }
+
+    .nav-links a {
+      color: var(--color-text-secondary);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      transition: color 0.2s;
+    }
+
+    .nav-links a:hover {
+      color: var(--color-text);
+    }
+
+    .nav-cta {
+      display: flex;
+      gap: var(--spacing-md);
+    }
+
+    button {
+      padding: 8px 16px;
+      border-radius: var(--radius-md);
+      border: 1px solid var(--color-border);
+      background: var(--color-bg);
+      color: var(--color-text);
+      font-size: 14px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    button:hover {
+      border-color: var(--color-text);
+    }
+
+    .btn-primary {
+      background: var(--color-accent);
+      color: #ffffff;
+      border: none;
+    }
+
+    .btn-primary:hover {
+      background: #1a1a1a;
+    }
+
+    /* Hero Section */
+    .hero {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: var(--spacing-2xl) var(--spacing-md);
+      text-align: center;
+    }
+
+    .hero h1 {
+      font-size: clamp(32px, 8vw, 56px);
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      margin-bottom: var(--spacing-lg);
+      line-height: 1.2;
+    }
+
+    .hero p {
+      font-size: 18px;
+      color: var(--color-text-secondary);
+      margin-bottom: var(--spacing-xl);
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .hero-cta {
+      display: flex;
+      gap: var(--spacing-md);
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-bottom: var(--spacing-2xl);
+    }
+
+    .btn-large {
+      padding: 12px 32px;
+      font-size: 16px;
+      font-weight: 600;
+    }
+
+    .hero-image {
+      width: 100%;
+      max-width: 800px;
+      height: 400px;
+      background: linear-gradient(135deg, var(--color-accent-light) 0%, var(--color-blue) 100%);
+      border-radius: var(--radius-lg);
+      margin: var(--spacing-2xl) auto 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--color-text-secondary);
+      font-size: 14px;
+    }
+
+    /* Features Grid */
+    .features {
+      max-width: 1280px;
+      margin: var(--spacing-2xl) auto;
+      padding: var(--spacing-2xl) var(--spacing-md);
+      background: var(--color-accent-light);
+      border-radius: var(--radius-lg);
+    }
+
+    .features h2 {
+      font-size: 32px;
+      font-weight: 700;
+      margin-bottom: var(--spacing-lg);
+      text-align: center;
+    }
+
+    .feature-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: var(--spacing-lg);
+      margin-top: var(--spacing-xl);
+    }
+
+    .feature-card {
+      background: var(--color-bg);
+      padding: var(--spacing-lg);
+      border-radius: var(--radius-md);
+      border: 1px solid var(--color-border);
+      transition: all 0.3s;
+    }
+
+    .feature-card:hover {
+      border-color: var(--color-text);
+      box-shadow: var(--shadow-md);
+    }
+
+    .feature-card h3 {
+      font-size: 18px;
+      font-weight: 600;
+      margin-bottom: var(--spacing-sm);
+    }
+
+    .feature-card p {
+      font-size: 14px;
+      color: var(--color-text-secondary);
+    }
+
+    /* Stats Section */
+    .stats {
+      max-width: 1280px;
+      margin: var(--spacing-2xl) auto;
+      padding: var(--spacing-2xl) var(--spacing-md);
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: var(--spacing-lg);
+      text-align: center;
+    }
+
+    .stat-item h4 {
+      font-size: 32px;
+      font-weight: 700;
+      color: var(--color-blue);
+      margin-bottom: var(--spacing-sm);
+    }
+
+    .stat-item p {
+      font-size: 14px;
+      color: var(--color-text-secondary);
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .nav-links {
+        gap: var(--spacing-lg);
+      }
+
+      .nav-cta {
+        gap: var(--spacing-sm);
+      }
+
+      nav {
+        padding: var(--spacing-md);
+      }
+
+      .hero h1 {
+        font-size: 28px;
+      }
+
+      .hero-cta {
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .btn-large {
+        width: 100%;
+      }
+
+      .feature-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* Print */
+    @media print {
+      header, .nav-cta {
+        display: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Navigation -->
+  <header>
+    <nav>
+      <div class="logo">ENEM Pro</div>
+      <ul class="nav-links">
+        <li><a href="#features">Recursos</a></li>
+        <li><a href="#stats">Resultados</a></li>
+        <li><a href="#contact">Contato</a></li>
+      </ul>
+      <div class="nav-cta">
+        <button>Entrar</button>
+        <button class="btn-primary">Comece Grátis</button>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero">
+    <h1>Preparação Inteligente para o ENEM</h1>
+    <p>Pratique com explicações de IA, acompanhe seu progresso e aumente sua pontuação com recursos personalizados.</p>
+    <div class="hero-cta">
+      <button class="btn-primary btn-large">Começar Agora</button>
+      <button class="btn-large">Ver Demo</button>
+    </div>
+    <div class="hero-image">
+      [Imagem do Dashboard]
+    </div>
+  </section>
+
+  <!-- Features -->
+  <section class="features" id="features">
+    <h2>Por Que ENEM Pro?</h2>
+    <div class="feature-grid">
+      <div class="feature-card">
+        <h3>🤖 Explicações por IA</h3>
+        <p>Respostas personalizadas baseadas em IA para cada questão que você não entender.</p>
+      </div>
+      <div class="feature-card">
+        <h3>📊 Análise de Desempenho</h3>
+        <p>Acompanhe suas fraquezas e pontos fortes em tempo real com relatórios detalhados.</p>
+      </div>
+      <div class="feature-card">
+        <h3>⏰ Simulados Completos</h3>
+        <p>Pratique com simulados que reproduzem o formato e dificuldade do ENEM oficial.</p>
+      </div>
+      <div class="feature-card">
+        <h3>📱 Acesso Ilimitado</h3>
+        <p>Estude onde quiser, quando quiser, com suporte total no desktop e mobile.</p>
+      </div>
+      <div class="feature-card">
+        <h3>🎯 Plano de Estudo</h3>
+        <p>Receba um plano personalizado baseado no seu nível e metas de pontuação.</p>
+      </div>
+      <div class="feature-card">
+        <h3>🏆 Ranking Comunitário</h3>
+        <p>Compita com outros estudantes e ganhe prêmios exclusivos ao melhorar sua pontuação.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Stats -->
+  <section class="stats" id="stats">
+    <div class="stats-grid">
+      <div class="stat-item">
+        <h4>412+</h4>
+        <p>Questões Resolvidas</p>
+      </div>
+      <div class="stat-item">
+        <h4>50K+</h4>
+        <p>Usuários Ativos</p>
+      </div>
+      <div class="stat-item">
+        <h4>4.8/5</h4>
+        <p>Avaliação no App Store</p>
+      </div>
+      <div class="stat-item">
+        <h4>98%</h4>
+        <p>Taxa de Aprovação</p>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    // Smooth scroll
+    document.querySelectorAll('a[href^="#"]').forEach(a => {
+      a.addEventListener('click', (e) => {
+        e.preventDefault();
+        const target = document.querySelector(a.getAttribute('href'));
+        target?.scrollIntoView({ behavior: 'smooth' });
+      });
+    });
+
+    // Theme toggle (localStorage)
+    console.log('✓ Landing page loaded - Vercel design system applied');
+  </script>
+</body>
+</html>
