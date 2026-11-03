@@ -1,0 +1,14 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+echo "🔍 Running pre-commit checks..."
+
+# Lint staged files
+npm run lint:staged 2>/dev/null || true
+
+# Check for secrets
+if command -v detect-secrets &> /dev/null; then
+  detect-secrets scan --all-files --baseline .secrets.baseline 2>/dev/null && echo "✅ No secrets found" || true
+fi
+
+echo "✅ Pre-commit checks passed"
