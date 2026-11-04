@@ -3,4 +3,4 @@ Allow: /
 Disallow: /admin
 Disallow: /_next
 Disallow: /.next
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://enem-pro.com/sitemap.xml

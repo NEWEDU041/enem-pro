@@ -81,15 +81,10 @@ const nextConfig = {
     }
   },
 
-  // Redirects
+  // Redirects: REMOVIDO 302 redirect (/blog) que causava queda SEO
+  // Ver: /root/TRAFFIC-DROP-ROOT-CAUSE-FIX.md para detalhes
   async redirects() {
-    return [
-      {
-        source: '/blog',
-        destination: '/',
-        permanent: false,
-      },
-    ]
+    return []
   },
 
   webpack: (config, { isServer }) => {
