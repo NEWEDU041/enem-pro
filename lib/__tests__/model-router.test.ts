@@ -16,7 +16,7 @@ import {
   MODEL_HAIKU,
   MODEL_SONNET,
   ROUTING_CONFIG,
-} from './model-router'
+} from '../model-router'
 
 interface TestCase {
   name: string

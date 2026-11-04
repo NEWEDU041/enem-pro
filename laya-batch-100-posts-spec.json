@@ -1,0 +1,181 @@
+{
+  "objective": "Generate 100 SEO-optimized ENEM blog posts for production deployment",
+  "model": "deepseek-v3-flash",
+  "cost_strategy": "batch_generation_single_call",
+  "topics": [
+    {
+      "title": "Células e organelas - ENEM 1",
+      "slug": "celulas-e-organelas-enem-1",
+      "topic": "Células e organelas",
+      "category": "Biologia",
+      "keywords": "Células e organelas enem, Células e organelas vestibular, biologia",
+      "word_count": 2245
+    },
+    {
+      "title": "Independência brasileira - ENEM 2",
+      "slug": "independência-brasileira-enem-2",
+      "topic": "Independência brasileira",
+      "category": "História",
+      "keywords": "Independência brasileira enem, Independência brasileira vestibular, história",
+      "word_count": 1960
+    },
+    {
+      "title": "Energia e trabalho - ENEM 3",
+      "slug": "energia-e-trabalho-enem-3",
+      "topic": "Energia e trabalho",
+      "category": "Física",
+      "keywords": "Energia e trabalho enem, Energia e trabalho vestibular, física",
+      "word_count": 1755
+    },
+    {
+      "title": "Estados da matéria - ENEM 4",
+      "slug": "estados-da-materia-enem-4",
+      "topic": "Estados da matéria",
+      "category": "Química",
+      "keywords": "Estados da matéria enem, Estados da matéria vestibular, química",
+      "word_count": 1878
+    },
+    {
+      "title": "Estatística - ENEM 5",
+      "slug": "estatistica-enem-5",
+      "topic": "Estatística",
+      "category": "Matemática",
+      "keywords": "Estatística enem, Estatística vestibular, matemática",
+      "word_count": 2246
+    },
+    {
+      "title": "Romantismo - ENEM 6",
+      "slug": "romantismo-enem-6",
+      "topic": "Romantismo",
+      "category": "Português e Literatura",
+      "keywords": "Romantismo enem, Romantismo vestibular, português e literatura",
+      "word_count": 1838
+    },
+    {
+      "title": "Vícios de linguagem - ENEM 7",
+      "slug": "vicios-de-linguagem-enem-7",
+      "topic": "Vícios de linguagem",
+      "category": "Redação",
+      "keywords": "Vícios de linguagem enem, Vícios de linguagem vestibular, redação",
+      "word_count": 1709
+    },
+    {
+      "title": "Educação - ENEM 8",
+      "slug": "educaçao-enem-8",
+      "topic": "Educação",
+      "category": "Atualidades e Sociedade",
+      "keywords": "Educação enem, Educação vestibular, atualidades e sociedade",
+      "word_count": 2326
+    },
+    {
+      "title": "Doenças e imunidade - ENEM 9",
+      "slug": "doenças-e-imunidade-enem-9",
+      "topic": "Doenças e imunidade",
+      "category": "Biologia",
+      "keywords": "Doenças e imunidade enem, Doenças e imunidade vestibular, biologia",
+      "word_count": 1735
+    },
+    {
+      "title": "Idade Média - ENEM 10",
+      "slug": "idade-media-enem-10",
+      "topic": "Idade Média",
+      "category": "História",
+      "keywords": "Idade Média enem, Idade Média vestibular, história",
+      "word_count": 2322
+    },
+    {
+      "title": "Quântica - ENEM 11",
+      "slug": "quântica-enem-11",
+      "topic": "Quântica",
+      "category": "Física",
+      "keywords": "Quântica enem, Quântica vestibular, física",
+      "word_count": 1472
+    },
+    {
+      "title": "Biochemia - ENEM 12",
+      "slug": "biochemia-enem-12",
+      "topic": "Biochemia",
+      "category": "Química",
+      "keywords": "Biochemia enem, Biochemia vestibular, química",
+      "word_count": 2272
+    },
+    {
+      "title": "Trigonometria - ENEM 13",
+      "slug": "trigonometria-enem-13",
+      "topic": "Trigonometria",
+      "category": "Matemática",
+      "keywords": "Trigonometria enem, Trigonometria vestibular, matemática",
+      "word_count": 1864
+    },
+    {
+      "title": "Literatura portuguesa - ENEM 14",
+      "slug": "literatura-portuguesa-enem-14",
+      "topic": "Literatura portuguesa",
+      "category": "Português e Literatura",
+      "keywords": "Literatura portuguesa enem, Literatura portuguesa vestibular, português e literatura",
+      "word_count": 1471
+    },
+    {
+      "title": "Gêneros textuais - ENEM 15",
+      "slug": "gêneros-textuais-enem-15",
+      "topic": "Gêneros textuais",
+      "category": "Redação",
+      "keywords": "Gêneros textuais enem, Gêneros textuais vestibular, redação",
+      "word_count": 1931
+    },
+    {
+      "title": "Tecnologia e sociedade - ENEM 16",
+      "slug": "tecnologia-e-sociedade-enem-16",
+      "topic": "Tecnologia e sociedade",
+      "category": "Atualidades e Sociedade",
+      "keywords": "Tecnologia e sociedade enem, Tecnologia e sociedade vestibular, atualidades e sociedade",
+      "word_count": 1554
+    },
+    {
+      "title": "Ecossistemas e biomas - ENEM 17",
+      "slug": "ecossistemas-e-biomas-enem-17",
+      "topic": "Ecossistemas e biomas",
+      "category": "Biologia",
+      "keywords": "Ecossistemas e biomas enem, Ecossistemas e biomas vestibular, biologia",
+      "word_count": 1618
+    },
+    {
+      "title": "Era Vargas - ENEM 18",
+      "slug": "era-vargas-enem-18",
+      "topic": "Era Vargas",
+      "category": "História",
+      "keywords": "Era Vargas enem, Era Vargas vestibular, história",
+      "word_count": 1769
+    },
+    {
+      "title": "Óptica - ENEM 19",
+      "slug": "optica-enem-19",
+      "topic": "Óptica",
+      "category": "Física",
+      "keywords": "Óptica enem, Óptica vestibular, física",
+      "word_count": 1794
+    },
+    {
+      "title": "Cinética química - ENEM 20",
+      "slug": "cinetica-quimica-enem-20",
+      "topic": "Cinética química",
+      "category": "Química",
+      "keywords": "Cinética química enem, Cinética química vestibular, química",
+      "word_count": 1203
+    }
+  ],
+  "seo_requirements": {
+    "meta_title": "50-60 characters, primary keyword first",
+    "meta_description": "150-160 characters, compelling CTA, 1-2 keywords",
+    "h1": "Primary keyword, 70-100 chars",
+    "h2_h3_count": "8-12 subheadings per post",
+    "internal_links": "5-10 per post with keyword anchor text",
+    "schema": [
+      "BlogPosting",
+      "FAQPage"
+    ],
+    "readability": "Flesch Reading Ease >60 (conversational)",
+    "humanization": "NO AI-isms: avoid 'explore', 'leverage', 'ensure', 'provide', etc. Use contractions, varied sentence length, specific examples"
+  },
+  "output_format": "JSON array with full Markdown content + schema markup"
+}

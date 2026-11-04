@@ -24,7 +24,7 @@ describe('Admin Auth - 2FA + IP Whitelist', () => {
     it('should reject IP not in whitelist', () => {
       const whitelist = ['127.0.0.1']
       expect(isIPWhitelisted('192.168.1.1', whitelist)).toBe(false)
-      expect(isIPWhitelisted('10.0.0.1', whitelist)).toBe(false))
+      expect(isIPWhitelisted('10.0.0.1', whitelist)).toBe(false)
     })
 
     it('should support /24 CIDR notation', () => {

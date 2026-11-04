@@ -1,0 +1,16 @@
+{
+  "testId": "tone_variants_2026_q4",
+  "name": "Content Tone Variants Test (Baseline vs Professional vs Casual)",
+  "description": "120 posts (40 posts × 3 tone variants) testing tone impact on engagement metrics",
+  "variants": ["baseline", "professional", "casual"],
+  "postsCount": 40,
+  "totalVariants": 120,
+  "createdAt": "2026-11-04T10:00:00Z",
+  "status": "active",
+  "projects": [
+    { "id": "enem-pro", "postsCount": 40 },
+    { "id": "site-clicks", "postsCount": 40 },
+    { "id": "clube-da-escolha", "postsCount": 40 },
+    { "id": "happy-scribes-nest", "postsCount": 40 }
+  ]
+}
