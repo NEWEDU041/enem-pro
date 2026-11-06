@@ -1,0 +1,45 @@
+{
+  "audit_date": "2026-11-06",
+  "audit_type": "TECHNICAL-SEO-COMPLETE",
+  "file_path": "/root/projetos/enem-pro/ENEM-PRO-SEO-AUDIT-COMPLETO.md",
+  "file_size_kb": 46.1,
+  "total_lines": 1438,
+  "total_words": 6881,
+  "current": {
+    "score": 58,
+    "traffic_monthly": 1200,
+    "keywords_ranking": 390,
+    "avg_position": 31.2,
+    "referring_domains": 18,
+    "domain_authority": 28,
+    "posts_total": 562,
+    "posts_indexed": 412,
+    "mobile_psi": 85,
+    "desktop_psi": 92,
+    "lcp": "2.8s"
+  },
+  "target_week_12": {
+    "score": 82,
+    "traffic_monthly": "5-6K",
+    "keywords_ranking": "900-1,200",
+    "avg_position": "21-24",
+    "referring_domains": "35-45",
+    "domain_authority": "35-40",
+    "posts_total": 530,
+    "posts_indexed": 520,
+    "mobile_psi": "90+",
+    "desktop_psi": "94+",
+    "lcp": "2.2s"
+  },
+  "growth_targets": {
+    "traffic_growth_percent": 400,
+    "keywords_growth_percent": 131,
+    "rd_growth_percent": 94,
+    "position_improvement_points": 7.2
+  },
+  "quick_wins_count": 10,
+  "medium_term_count": 5,
+  "long_term_count": 3,
+  "timeline_weeks": 12,
+  "phase_status": "Phase 1 ✅ Live | Phase 2 📋 Planned | Phase 3 🎯 Roadmap"
+}
