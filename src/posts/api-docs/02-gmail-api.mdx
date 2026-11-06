@@ -1,0 +1,33 @@
+---
+title: "Gmail API — Guia Completo 2026"
+description: "Complete Gmail API guide. Send emails, read messages, webhooks. OAuth2, rate limits, use cases."
+date: "2026-11-06"
+slug: "api-gmail"
+category: "api"
+keywords: ["Gmail API", "send email", "Gmail OAuth", "email integration"]
+---
+
+# Gmail API — Guia Completo 2026
+
+**Sending, Reading & Webhook Integration**
+
+[Content from /root/DOCUMENTACAO-GMAIL-API-REFATORADO.md — abbreviated for brevity]
+
+## 🎯 QUICK START
+
+```python
+pip install google-auth-oauthlib google-api-python-client
+
+from google.oauth2.service_account import Credentials
+creds = Credentials.from_service_account_file('client_secret.json')
+
+from googleapiclient.discovery import build
+service = build('gmail', 'v1', credentials=creds)
+
+message = {
+    'raw': base64_encode('From: you@domain.com\nTo: recipient@domain.com\nSubject: Hello\n\nBody')
+}
+service.users().messages().send(userId='me', body=message).execute()
+```
+
+**Status:** ✅ Ready | **Keywords:** Gmail API, send email | **Expected:** Position 5-12

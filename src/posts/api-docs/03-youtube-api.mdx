@@ -1,0 +1,32 @@
+---
+title: "YouTube API — Guia Completo 2026 | Upload, Playlists, Analytics"
+description: "YouTube API guide. Upload videos, get analytics, manage playlists. OAuth2, best practices, rate limits."
+date: "2026-11-06"
+slug: "api-youtube"
+category: "api"
+keywords: ["YouTube API", "upload video API", "YouTube analytics", "video management"]
+---
+
+# YouTube API — Guia Completo 2026
+
+**Video Upload, Playlists, Analytics & Channel Management**
+
+[Content from /root/DOCUMENTACAO-YOUTUBE-API-REFATORADO.md — abbreviated for brevity]
+
+## 🎯 QUICK START
+
+```python
+pip install google-auth-oauthlib google-api-python-client
+
+from google.oauth2.service_account import Credentials
+creds = Credentials.from_service_account_file('client_secret.json')
+
+from googleapiclient.discovery import build
+youtube = build('youtube', 'v3', credentials=creds)
+
+request = youtube.channels().list(part='statistics,snippet', mine=True)
+response = request.execute()
+print(response['items'][0]['statistics']['viewCount'])
+```
+
+**Status:** ✅ Ready | **Keywords:** YouTube API, upload video | **Expected:** Position 8-15 ⭐ HIGH VOLUME

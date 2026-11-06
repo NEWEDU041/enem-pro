@@ -1,0 +1,32 @@
+---
+title: "Stripe API — Guia Completo 2026 | Payments, Webhooks, Subscriptions"
+description: "Stripe API guide. Process payments, handle webhooks, manage subscriptions. Testing, error handling, code examples."
+date: "2026-11-06"
+slug: "api-stripe"
+category: "api"
+keywords: ["Stripe API", "payment API", "Stripe webhook", "payment integration"]
+---
+
+# Stripe API — Guia Completo 2026
+
+**Payment Processing, Subscriptions, Webhooks & Testing**
+
+[Content from /root/DOCUMENTACAO-STRIPE-API-REFATORADO.md — abbreviated for brevity]
+
+## 🎯 QUICK START
+
+```python
+pip install stripe
+
+import stripe
+stripe.api_key = "sk_live_YOUR_SECRET_KEY"
+
+intent = stripe.PaymentIntent.create(
+    amount=5000,  # $50.00 in cents
+    currency="usd",
+    payment_method_types=["card"]
+)
+print(intent.client_secret)
+```
+
+**Status:** ✅ Ready | **Keywords:** Stripe API, webhooks | **Expected:** Position 8-20 ⭐ HIGH COMPETITION

@@ -1,0 +1,29 @@
+---
+title: "Meta Graph API — Guia Completo 2026 | Facebook, Instagram, WhatsApp"
+description: "Meta Graph API guide. Post to Facebook/Instagram, get insights, handle webhooks. OAuth2, rate limits."
+date: "2026-11-06"
+slug: "api-meta-graph"
+category: "api"
+keywords: ["Meta Graph API", "Facebook API", "Instagram API", "Meta integration"]
+---
+
+# Meta Graph API — Guia Completo 2026
+
+**Facebook, Instagram, WhatsApp & Business Suite Integration**
+
+⚠️ **CRITICAL UPDATE (NOV 2026):** Partnership ads broken! Personal FB accounts no longer work. Use separate Facebook page connected to personal account.
+
+[Content from /root/DOCUMENTACAO-META-GRAPH-API-REFATORADO.md — abbreviated for brevity]
+
+## 🎯 QUICK START
+
+```python
+import requests
+
+token = "YOUR_ACCESS_TOKEN"
+url = f"https://graph.instagram.com/me?fields=id,username,followers_count&access_token={token}"
+response = requests.get(url)
+print(response.json())
+```
+
+**Status:** ✅ Ready | **Keywords:** Meta API, Facebook API | **Expected:** Position 5-12

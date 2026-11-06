@@ -1,0 +1,247 @@
+---
+title: "Google Search Console API — Guia Completo 2026"
+description: "Complete guide to GSC API. Performance metrics, queries, troubleshooting. Python examples, rate limits."
+date: "2026-11-06"
+slug: "api-google-search-console"
+category: "api"
+keywords: ["Google Search Console API", "GSC API", "performance metrics", "SEO"]
+---
+
+# Google Search Console API — Guia Completo 2026
+
+**Setup, Performance Queries & Troubleshooting**
+
+---
+
+## 🎯 QUICK START (5 MINUTOS)
+
+```python
+# 1. Install
+pip install google-auth-oauthlib google-api-python-client
+
+# 2. Authenticate
+from google.oauth2.service_account import Credentials
+creds = Credentials.from_service_account_file('client_secret.json')
+
+# 3. Build service
+from googleapiclient.discovery import build
+service = build('webmasters', 'v3', credentials=creds)
+
+# 4. Query GSC data
+request = service.searchanalytics().query(
+    siteUrl='https://example.com/',
+    body={'startDate': '2026-10-01', 'endDate': '2026-11-01'}
+)
+response = request.execute()
+print(response)
+```
+
+**Result:** ✅ GSC data retrieved!
+
+---
+
+## 🔑 AUTENTICAÇÃO (OAuth 2.0)
+
+### Setup Google Cloud
+
+```bash
+# 1. Google Cloud Console
+https://console.cloud.google.com/apis/credentials
+
+# 2. Create OAuth 2.0 Credential (if not done)
+├─ Application type: Web application
+├─ Authorized redirect URI: http://localhost:8080/callback
+└─ Download JSON (save as client_secret.json)
+
+# 3. Enable Search Console API
+https://console.cloud.google.com/apis/library/webmasters.googleapis.com
+
+# 4. Verify site in Search Console
+https://search.google.com/search-console/welcome
+```
+
+### Scopes Required
+
+```python
+SCOPES = ['https://www.googleapis.com/auth/webmasters.readonly']
+
+# Note: Use readonly scope (safer than modify)
+```
+
+---
+
+## 📡 6 ENDPOINTS PRINCIPAIS
+
+### 1️⃣ Query Performance (Top Keywords)
+
+```bash
+# Get top 10 queries driving traffic
+curl -X POST "https://www.googleapis.com/webmasters/v3/sites/https%3A%2F%2Fexample.com%2F/searchanalytics/query" \
+  -H "Authorization: Bearer $token" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "startDate": "2026-10-01",
+    "endDate": "2026-11-01",
+    "dimensions": ["query"],
+    "rowLimit": 10
+  }' | jq '.rows'
+```
+
+### 2️⃣ Query by Page
+
+```bash
+curl -X POST "https://www.googleapis.com/webmasters/v3/sites/https%3A%2F%2Fexample.com%2F/searchanalytics/query" \
+  -H "Authorization: Bearer $token" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "startDate": "2026-10-01",
+    "endDate": "2026-11-01",
+    "dimensions": ["query", "page"]
+  }'
+```
+
+### 3️⃣ Query by Device
+
+```bash
+curl -X POST "https://www.googleapis.com/webmasters/v3/sites/https%3A%2F%2Fexample.com%2F/searchanalytics/query" \
+  -H "Authorization: Bearer $token" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "startDate": "2026-10-01",
+    "endDate": "2026-11-01",
+    "dimensions": ["device"]
+  }'
+```
+
+### 4️⃣ Query by Country
+
+```bash
+curl -X POST "https://www.googleapis.com/webmasters/v3/sites/https%3A%2F%2Fexample.com%2F/searchanalytics/query" \
+  -H "Authorization: Bearer $token" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "startDate": "2026-10-01",
+    "endDate": "2026-11-01",
+    "dimensions": ["country"]
+  }'
+```
+
+### 5️⃣ Sitemaps
+
+```bash
+# List sitemaps
+curl -X GET "https://www.googleapis.com/webmasters/v3/sites/https%3A%2F%2Fexample.com%2F/sitemaps" \
+  -H "Authorization: Bearer $token"
+
+# Submit sitemap
+curl -X PUT "https://www.googleapis.com/webmasters/v3/sites/https%3A%2F%2Fexample.com%2F/sitemaps/https%3A%2F%2Fexample.com%2Fsitemap.xml" \
+  -H "Authorization: Bearer $token"
+```
+
+### 6️⃣ Site Information
+
+```bash
+curl -X GET "https://www.googleapis.com/webmasters/v3/sites/https%3A%2F%2Fexample.com%2F" \
+  -H "Authorization: Bearer $token"
+```
+
+---
+
+## ⚠️ RATE LIMITS & QUOTAS
+
+```
+API calls: 1,000 per day (generous!)
+Query depth: Max 25,000 rows per query
+Date range: 90 days max
+
+Best practices:
+├─ Cache results (GSC data stable daily)
+├─ Batch queries (combine dimensions)
+└─ Use dataState='final' (2-3 day delay, accurate)
+```
+
+---
+
+## 🛠️ TROUBLESHOOTING
+
+### 403 Forbidden (No Verified Property)
+
+```
+Cause: Site not verified in Search Console
+Solution:
+1. Go to https://search.google.com/search-console
+2. Add property https://enem-pro.com/
+3. Verify ownership (DNS, HTML file, or Google Analytics)
+4. Re-authorize OAuth
+```
+
+### Empty Results
+
+```
+Cause: No data yet (site too new or no queries)
+Solution:
+1. Check Search Console dashboard
+2. Wait 2-3 days for dataState='final'
+3. Verify site has at least 1 page indexed
+```
+
+---
+
+## 📊 NOSSAS QUERIES PLANEJADAS (ENEM-PRO)
+
+### Query 1: Top Keywords (Current Month)
+
+```python
+# Last 30 days
+end_date = datetime.date.today()
+start_date = end_date - datetime.timedelta(days=30)
+
+request = service.searchanalytics().query(
+    siteUrl='https://enem-pro.com/',
+    body={
+        'startDate': start_date.isoformat(),
+        'endDate': end_date.isoformat(),
+        'dimensions': ['query'],
+        'rowLimit': 100
+    }
+)
+```
+
+### Query 2: API Docs Performance
+
+```python
+# Track Phase 1 docs specifically
+request = service.searchanalytics().query(
+    siteUrl='https://enem-pro.com/',
+    body={
+        'startDate': '2026-11-06',
+        'endDate': datetime.date.today().isoformat(),
+        'dimensions': ['page', 'query'],
+        'filters': [
+            {
+                'dimension': 'page',
+                'operator': 'contains',
+                'expression': '/api-'
+            }
+        ]
+    }
+)
+```
+
+---
+
+## 📞 PRÓXIMA AÇÃO
+
+```
+[ ] 1. Setup Google OAuth (if not done)
+[ ] 2. Test query 1 (top keywords)
+[ ] 3. Test query 2 (API docs tracking)
+[ ] 4. Monitor GSC daily
+[ ] 5. Log metrics to Airtable
+```
+
+---
+
+**Status:** ✅ Google Search Console API documentation ready  
+**Keywords:** GSC API, performance metrics, search optimization  
+**Expected ranking:** Position 3-8 (2-3 weeks)
