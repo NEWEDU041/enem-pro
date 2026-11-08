@@ -19,6 +19,9 @@ const nextConfig = {
     minimumCacheTTL: 31536000, // 1 year
   },
 
+  // Turbopack configuration (Next.js 16+)
+  turbopack: {},
+
   // Performance
   compress: true,
 
