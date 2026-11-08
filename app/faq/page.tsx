@@ -4,6 +4,12 @@ import { Metadata } from 'next'
 export const metadata: Metadata = {
   title: 'FAQ ENEM — Dúvidas Frequentes Respondidas',
   description: 'Respostas para as perguntas mais comuns sobre ENEM: como funciona, quanto custa, quando é a prova, como é a nota.',
+  openGraph: {
+    title: 'FAQ ENEM — Dúvidas Frequentes Respondidas',
+    description: 'Respostas para as perguntas mais comuns sobre ENEM',
+    url: 'https://enem-pro.vercel.app/faq',
+    type: 'website',
+  },
 }
 
 const faqs = [
@@ -57,9 +63,27 @@ const faqs = [
   },
 ]
 
+// Schema JSON-LD para FAQ
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(faq => ({
+    "@type": "Question",
+    "name": faq.q,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": faq.a
+    }
+  }))
+}
+
 export default function FAQPage() {
   return (
     <div className="min-h-screen bg-white">
+      <script 
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
       <header className="sticky top-0 z-50 bg-white border-b border-zinc-200">
         <nav className="max-w-4xl mx-auto px-6 py-4 flex items-center justify-between">
           <Link href="/" className="text-xl font-bold text-indigo-600">ENEM Pro</Link>
