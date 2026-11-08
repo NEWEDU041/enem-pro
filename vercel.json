@@ -1,5 +1,5 @@
 {
-  "regions": ["iad1", "iad1-eu-west-1", "gru1"],
+  "regions": ["iad1", "gru1", "sfo1"],
   "crons": [
     {
       "path": "/api/cron/refresh-stats",
@@ -26,6 +26,6 @@
     "MULTI_REGION_ENABLED": "true",
     "PRIMARY_REGION": "gru1",
     "FALLBACK_REGION": "iad1",
-    "EDGE_REGION": "iad1-eu-west-1"
+    "EDGE_REGION": "sfo1"
   }
 }
