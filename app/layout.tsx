@@ -96,6 +96,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="pt-BR" className="h-full">
       <head>
+        <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\" />
+        <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossOrigin=\"anonymous\" />
+        <link rel=\"preload\" href=\"https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHAPUlfdVFVZcUHn0kz9nN0NF1v6Vw.woff2\" as=\"font\" type=\"font/woff2\" crossOrigin=\"anonymous\" />
+        <link rel=\"preload\" href=\"https://fonts.gstatic.com/s/spacegrotesk/v15/V8mQoQDjQikL0jkzgXEUIkHg_yV9cZjKg-_pAGfS3J4.woff2\" as=\"font\" type=\"font/woff2\" crossOrigin=\"anonymous\" />
         <link rel="preconnect" href="https://api.enem.dev" />
         <link rel="preconnect" href="https://lxlwajmzwvqwimuvvsrb.supabase.co" />
         <link rel="dns-prefetch" href="https://api.enem.dev" />
